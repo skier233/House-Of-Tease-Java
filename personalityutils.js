@@ -3,6 +3,8 @@ let timeLeftStroking;
 let strokeTime;
 let angereddate;
 let strokingMethodsEnabled = false;
+let orgasmModifyAmount = 0;
+let ruinModifyAmount = 0;
 
 /**
 * setupVars method to setup variables used by the personality
@@ -981,11 +983,20 @@ function getRuinChance() {
     let ruinChance = getVar("ruinchance", 20);
     if (typeof ruinChance == "number") {
         if (ruinChance >= 0 && ruinChance <= 100) {
-            return ruinChance;
+            return ruinChance + ruinModifyAmount;
         }
     }
     //Returns 20% if the ruin chance has not been set or is invalid
     return 20;
+}
+
+function increaseOrgasmChance(amount)
+{
+    orgasmModifyAmount += amount;
+}
+
+function increaseRuinChance(amount) {
+    ruinModifyAmount += amount;
 }
 
 /**
@@ -995,7 +1006,7 @@ function getOrgasmChance() {
     let orgasmChance = getVar("orgasmchance", 70);
     if (typeof orgasmChance == "number") {
         if (orgasmChance >= 0 && orgasmChance <= 100) {
-            return orgasmChance;
+            return orgasmChance + orgasmModifyAmount;
         }
     }
     //Returns 70% if the orgasm chance has not been set or is invalid
@@ -1017,6 +1028,10 @@ function getTauntFrequency() {
     return 3;
 }
 
+function addStrokeTime (amount)
+{
+    strokeTime += amount;
+}
 
 /**
 * stopEdging method to stop edging or holdingTheEdge. You probably won't want to call this directly.

@@ -58,19 +58,19 @@ function NormalStart()
     setVar("AV_CrashReport", true);
     if(getVar("AV_DecOrg", false))
     {
-        increaseOrgasmChance(8);
+        increaseOrgasmChance(12);
     }
     if(getVar("AV_IncRuin", false))
     {
-        increaseRuinChance(-8);
+        increaseRuinChance(-12);
     }
     if(getVar("AV_IncOrg", false))
     {
-        increaseOrgasmChance(-8);
+        increaseOrgasmChance(-12);
     }
     if(getVar("AV_DecRuin", false))
     {
-        increaseRuinChance(8);
+        increaseRuinChance(12);
     }
     delVar("AV_TaskON");
     delVar("AV_DecOrg");

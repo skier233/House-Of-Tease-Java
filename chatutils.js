@@ -70,12 +70,12 @@ function getInput(message, timeout, delay, disableResponses=true)
     if (rapidTesting)
     {
         delay = 0;
-        CMessage(message, 0);
+        /*CMessage(message, 0);
         let answer = new answertype(0);
         answer.setTimeout(false);
         answer.setAnswer("yes");
         answer.setStartedAt(java.lang.System.currentTimeMillis());
-        return answer;
+        return answer;*/
     }
     if (disableResponses) {
         setTempVar("responsesDisabled", true);

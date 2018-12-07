@@ -1,12 +1,15 @@
 function setAFK(state)
 {
-    if (state)
+    if (getVar("dommeafk", true) && state)
     {
-        SMessage("<c=salmon b>%DomName% has gone afk.");
+        SMessage("<><c=coral b>%DomName% has gone afk.");
     }
     else
     {
-        SMessage("<c=salmon b>%DomName% is no longer afk.");
+        if (getVar("dommeafk", false))
+        {
+            SMessage("<><c=coral b>%DomName% is no longer afk.");
+        }
     }
     setVar("dommeafk", state);
 }
