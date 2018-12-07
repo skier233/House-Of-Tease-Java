@@ -1,0 +1,18 @@
+Is it a problem for you when I tell you to slap your face?
+[yes] You can be such a whiny bitch sometimes, #PetName
+[no] Then slap yourself in the face, right now @Goto(then slap yourself)
+@DifferentAnswer #YesOrNo
+But if your precious face can't take a little smack across the cheek, so be it @SetFlag(pvNoFaceSlap)
+I'm sure I can find alternative ways to punish you... @Interrupt(pvIn_General)
+@End
+(then slap yourself)
+And next time, don't hesitate or question my command @MoodDown
+When I say slap your face, you will slap yourself in the damn face, #PetName
+Is that understood?
+[yes] Good
+[no] When I say slap your face, smack either cheek with the palm of either hand
+@DifferentAnswer #YesOrNo
+I don't think this is all that complicated
+You think too much sometimes, #SubName
+All you need to do is do whatever I tell you to do, without question @Interrupt(pvIn_General)
+@End

@@ -1,0 +1,26 @@
+#1_ST_TagState @TempFlag(AV_taskOP2)
+@NullResponse @GotoDommeLevel 
+(DommeLevel1) 
+I want you to stroke to the edge as fast as you can. Make sure you keep track of how long it takes to get there!  @SetVar[AV_task2_EdgeCount]=[3]
+Your task today is to beat that record 3 times by getting to the edge faster than you did the previous time. 
+You can try this as many times as it takes, but I want you to wait at least 5 minutes between each attempt. @Goto(TaskReady)
+(DommeLevel2)
+I want you to stroke to the edge as fast as you can. Make sure you keep track of how long it takes to get there!  @SetVar[AV_task2_EdgeCount]=[3]
+Your task today is to beat that record 3 times by getting to the edge faster than you did the previous time. 
+You can try this as many times as it takes, but I want you to wait at least 5 minutes between each attempt. @Goto(TaskReady)
+(DommeLevel3)
+I want you to stroke to the edge as fast as you can. Make sure you keep track of how long it takes to get there!  @SetVar[AV_task2_EdgeCount]=[4]
+Your task today is to beat that record 4 times by getting to the edge faster than you did the previous time. 
+You can try this as many times as it takes, but I want you to wait at least 5 minutes between each attempt. @Goto(TaskReady)
+(DommeLevel4)
+I want you to stroke to the edge as fast as you can. Make sure you keep track of how long it takes to get there!  @SetVar[AV_task2_EdgeCount]=[4]
+Your task today is to beat that record 4 times by getting to the edge faster than you did the previous time. 
+You can try this as many times as it takes, but I want you to wait at least 5 minutes between each attempt. @Goto(TaskReady)
+(DommeLevel5)
+I want you to stroke to the edge as fast as you can. Make sure you keep track of how long it takes to get there!  @SetVar[AV_task2_EdgeCount]=[5]
+Your task today is to beat that record 5 times by getting to the edge faster than you did the previous time. 
+You can try this as many times as it takes, but I want you to wait at least 5 minutes between each attempt. @Goto(TaskReady)
+(TaskReady)
+Now take that #Cock out of your pants
+And #StartStroking for me @StartStroking
+@End

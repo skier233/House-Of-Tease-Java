@@ -1,0 +1,1040 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral24_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral24]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral24_NotFirstTime)
+(AV_ModGeneral24_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral24]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral24]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral24]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral24]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral24]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral24]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral24]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral24]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral24]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral24]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral24]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral24]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral24]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral24]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral24]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral24]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral24]=[AV_ModGeneral24]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral24]=[AV_ModGeneral24]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral24]=[AV_ModGeneral24]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral24]=[AV_ModGeneral24]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral24]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #Stop @StopStroking
+@RT(#PetName, #SubName)
+I think your hard rock #Cock still needs more @RT(aching, warm-up) @Goto(Warm_up_exercise_1, Warm_up_exercise_2)
+(Warm_up_exercise_1)
+In this exercise <i>you</i> are #Gonna do three set of three edges
+<i>BUT</i> @Wait(1)
+with a shorter cooldown time for every set
+Get ready #SubName!
+#Edge @Edge(NoHold) @MultipleEdges(3,15)
+You survived the first round #PetName!
+That's good!
+But I don't know if you will survive the last two rounds... #Grin
+You have to face two rounds back to back
+holding the last edge of each round
+Do you think you're ready #SubName?
+[yes] Good! @Goto(Get_ready)
+[no] #YoureGoingToDoIt @Goto(Get_ready)
+@DifferentAnswer #YoureGoingToDoIt @Goto(Get_ready)
+(Get_ready)
+Get ready #SubName!
+Ready...
+steady...
+#Edge @Edge(Hold) @MultipleEdges(3,10)
+Third round!
+#Edge @Edge(Hold) @MultipleEdges(3,5)
+#Good #PetName!
+You finished the warm-up
+Now, get some rest #SubName
+but be ready to start stroking that #Cock again! @Wait(#Random(15,30))
+@End
+(Warm_up_exercise_2)
+For this exercise we're #Gonna play a little game
+A edge ladder game
+When you climb the ladder you're #Gonna have to hold longer edges
+When you descend the ladder you're #Gonna hold shorter edges
+Don't worry, it's just a small ladder
+I'm not #Gonna drive you insane...
+yet!
+Now, get ready to begin! @RTOn
+#Edge @EdgeHold(5)
+#LetTheEdgeFade @Wait(5)
+#Edge @EdgeHold(10)
+#LetTheEdgeFade @Wait(10)
+#Edge @EdgeHold(15)
+#LetTheEdgeFade @Wait(15)
+#Edge @EdgeHold(20)
+#LetTheEdgeFade @Wait(20)
+#Edge @EdgeHold(25)
+#LetTheEdgeFade @Wait(25)
+#Edge @EdgeHold(30)
+#LetTheEdgeFade @Wait(30)
+#Edge @EdgeHold(25)
+#LetTheEdgeFade @Wait(25)
+#Edge @EdgeHold(20)
+#LetTheEdgeFade @Wait(20)
+#Edge @EdgeHold(15)
+#LetTheEdgeFade @Wait(15)
+#Edge @EdgeHold(10)
+#LetTheEdgeFade @Wait(10)
+#Edge @EdgeHold(5)
+#LetTheEdgeFade @Wait(5) @RTOff
+That was the last @RT(one,edge) #SubName
+How's your #Cock doing so far?
+I'll give you a few seconds to recover #PetName
+because <i>real</i> #Stroking will start soon @Wait(#Random(20,30))
+@End
+(Modulo2)
+@Stroking #Stop @StopStroking
+@RT(I'd like to play something new with you #GeneralTime, I'd like to do something new with you #GeneralTime, I want to do something new with you #GeneralTime, I want to play something new with you #GeneralTime, I feel like doing something new with you #GeneralTime, I feel like playing something new with you #GeneralTime) @RT(#SubName, #PetName)
+@RT(I think we should explore more, I think we should play some, I'd like to play some, #GeneralTime I feel like playing some, Why don't we play some, I think we should do some)... @Goto(CBT, Edging)
+(CBT)
+#CBT!
+@RT(Don't be afraid, Don't worry, Don't be so worried, Don't be so afraid, You don't need to be so worried, You don't need to be afraid) @RT(#PetName, #SubName). @RT(I'm not #Gonna #Hurt you, This is not #Gonna #Hurt you, It won't #Hurt you)
+I mean...
+Not too much... #Grin 
+Now... @RapidCodeOn
+@NullResponse @If[#Random(1,99)]<=[#Random(25,35)]Then(Phone_ringing_CBT)
+@NullResponse @Goto(Start_CBT)
+(Phone_ringing_CBT)
+Wait a moment, my phone is ringing...
+Oh... Don't worry about @RT(our game, our little game)
+@RT(This is only a little delay, This will be only a little delay,This is #Gonna be only a little delay)... #Grin @Wait(20)
+@RT(Look who's here #SubName!, Look who's here!, Look who joined us @SubName!, Look who joined us!) @TempFlag(CBT_Game) @Goto(Contact2, Contact3)
+(Start_CBT)
+@RT(#StartStroking, #Stroke it for #Me), @RT(slowly, very slowly, but you have to do slowly, but you have to do very slowly, but very slowly, at a very slow pace, but at a very slow pace, but do it slowly)
+@RT(Don't edge!, I don't want you to get on the #EdgeNoun, And don't edge, And don't think about getting to the #EdgeNoun, Don't you dare edge, Don't you dare get to the #EdgeNoun)
+@RT(If you feel you're #Gonna edge,, slow down, Slow down,, if you feel you're #Gonna edge,If you feel you're #Gonna get to the #EdgeNoun,, slow down, Slow down,, if you feel you're #Gonna get to the #EdgeNoun)
+But never stop #Stroking
+@Group(D2) @Contact2 And don't #Cum #SubName, otherwise @RT(#DomName, #ShortName) will have to @RT(punish, #Hurt) you
+@Group(D2) @Contact2 And I don't like seeing you in pain!
+@RT(Now we're #Gonna spice it up a bit, Let's spice it up a bit, Now we need to spice this thing up, Let's try to spice this game up)!
+@RT(I think we could use some mild #CBT, I think some mild #CBT would be perfect) @CBTBalls
+#HowAreYourBallsFeeling
+#Balls_in_pain
+You know what that means #SubName? @CBTCock
+And again your #Cock @CBTCock
+By now your #Cock should be a mess...
+@Group(D2) @Contact2 Please @RT(#DomName, #ShortName) stop! He's in pain, don't you see?!
+@Group(D2) Ok, I'll stop now @Goto(Stop_CBT_Game)
+@RT(By the time I'm done with you your #Balls will be a mess too, I think we should focus more on your #Balls, I think <i>you</i> should focus again on your #Balls, Better give those #Balls some attention) @RT(#SubName, #PetName)... @CBTBalls
+(Stop_CBT_Game)
+#StopStroking
+#BallBusting_1_A2
+How is your #Cock doing #SubName? @Goto(Goodbye_time)
+(Edging)
+edging! @Wait(2)
+#Grin Calm down @RT(#PetName,#SubName)!
+If I were you, I would not be so happy
+I would have preferred some @RT(#CBT,harsh #CBT)
+I think you're #Gonna find this <i>game</i> pretty intense
+Because you can't get used to #Stroke knowing that you're #Gonna stop just @RT(a few strokes, a stroke) before cumming...
+seeing your #Cock twitching...
+feeling your body squirming on the #EdgeNoun looking for an orgasm that will never cum... @RTOn
+sorry... that will never <i>come</i>
+Let's start @RTOff
+@NullResponse @RapidCodeOn
+@NullResponse @If[#Random(1,99)]<=[#Random(25,35)]Then(Phone_ringing_edging)
+@NullResponse @Goto(Start_edging_game)
+(Phone_ringing_edging)
+Wait a moment, my phone is ringing...
+Oh... Don't worry about @RT(our game, our little game)
+@RT(This is only a little delay, This will be only a little delay,This is #Gonna be only a little delay)... #Grin @Wait(20)
+@RT(Look who's here #SubName!, Look who's here!, Look who joined us @SubName!, Look who joined us!) @TempFlag(Edging_Game) @Goto(Contact2, Contact3)
+(Start_edging_game)
+Here's what we're #Gonna do:
+I will think an adequate amount of edges
+and all you have to do is try to guess it
+Do you like the idea?
+[yes] #Good
+[no] #YoureGoingToDoIt
+@AcceptAnswer #YoureGoingToDoIt
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[tgr8_edging_game_min]=[#Random(10,15)]
+@NullResponse @SetVar[tgr8_edging_game_max]=[#Random(20,25)]
+@NullResponse @SetVar[Domme_amount_of_edges]=[#Random(#Var[tgr8_edging_game_min],#Var[tgr8_edging_game_max])]
+@NullResponse @SetVar[Domme_amount_of_edges_2]=[#Var[Domme_amount_of_edges]]
+@NullResponse @ChangeVar[Domme_amount_of_edges_2]=[Domme_amount_of_edges_2]-[#Random(5,7)]
+@NullResponse @RapidCodeOff
+@Group(D) The number of edges you owe me goes from @ShowVar[tgr8_edging_game_min] to @ShowVar[tgr8_edging_game_max]
+@Group(D2) @Contact2 The number of edges you owe us goes from @ShowVar[tgr8_edging_game_min] to @ShowVar[tgr8_edging_game_max]
+@Group(D3) @Contact3 The number of edges you owe us goes from @ShowVar[tgr8_edging_game_min] to @ShowVar[tgr8_edging_game_max]
+@Group(D) Which is the right amount of edges you think you owe #Me? @InputVar[Sub_amount_of_edges]
+@Group(D2) @Contact2 Which is the right amount of edges you think you owe #Me? @InputVar[Sub_amount_of_edges]
+@Group(D3) @Contact3 Which is the right amount of edges you think you owe #Me? @InputVar[Sub_amount_of_edges]
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[tgr8_edging_game_min,tgr8_edging_game_max]
+@NullResponse @If[Sub_amount_of_edges]<[Domme_amount_of_edges]Then(Correct_amount_is)
+@NullResponse @If[Sub_amount_of_edges]=[Domme_amount_of_edges]Then(Guessed)
+@NullResponse @If[Sub_amount_of_edges]>[Domme_amount_of_edges]Then(The_more_the_better)
+@NullResponse @RapidCodeOff
+(Correct_amount_is)
+@NullResponse @RapidCodeOn
+@NullResponse @If[Sub_amount_of_edges]<=[Domme_amount_of_edges_2]Then(Way_too_low)
+@NullResponse @RapidCodeOff
+@ShowVar[Sub_amount_of_edges] edges is not an adequate @RT(amount, number)!
+@Group(D) I will not tell you how many edges you owe me
+@Group(D2) I will not tell you how many edges you owe us
+@Group(D3) I will not tell you how many edges you owe us
+I want to see the desperation in your eyes for not knowing @RT(how many times you will have to edge, how many edges you have to do, how many times you have to edge)
+And since you didn't even get close to the number I thought
+@Group(D) I'm gonna add a few edges to what you owe me
+@Group(D2) I'm gonna add a few edges to what you owe us
+@Group(D3) I'm gonna add a few edges to what you owe us
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[Domme_amount_of_edges]=[Domme_amount_of_edges]+[#Random(5,10)]
+@NullResponse @SetVar[Domme_amount_of_edges_start]=[#Var[Domme_amount_of_edges]]
+@NullResponse @RapidCodeOff
+And now... @Goto(Start_edging)
+(Way_too_low)
+Are you kidding me?
+@ShowVar[Sub_amount_of_edges] edges are not even remotely an adequate @RT(amount, number)!
+@Group(D) I won't tell you how many edges you owe me
+@Group(D2) I won't tell you how many edges you owe us
+@Group(D3) I won't tell you how many edges you owe us
+I want to see the desperation in your eyes for not knowing @RT(how many times you will have to edge, how many edges you have to do, how many times you have to edge)
+And since you didn't even get close to the number I thought
+@Group(D) I think I'll add an extra amount of edges to what you owe me
+@Group(D2) I think I'll add an extra amount of edges to what you owe us
+@Group(D3) I think I'll add an extra amount of edges to what you owe us
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[Domme_amount_of_edges]=[Domme_amount_of_edges]+[#Random(10,15)]
+@NullResponse @SetVar[Domme_amount_of_edges_start]=[#VarDomme_amount_of_edges]]
+@NullResponse @RapidCodeOff
+And now... @Goto(Start_edging)
+(Guessed)
+@RT(You guessed, You guessed it) @RT(#SubName, #PetName)! @RT(Today must be your lucky day,Today surely is your lucky day,Today is your lucky day) @RT(#SubName, #PetName)! @Goto(Start_edging)
+(The_more_the_better)
+@Group(D) I was thinking to @ShowVar[Domme_amount_of_edges] edges
+@Group(D) but I guess @ShowVar[Sub_amount_of_edges] is a good number too...
+@Group(D2) What do you think about @ShowVar[Sub_amount_of_edges] edges #Contact2? @Chance20(Too_much_edges)
+@Group(D2) @Contact2 It's okay
+@Group(D2) @Contact2 but give him enough time to cooldown #ShortName, please!
+@Group(D2) @Contact2 I don't like seeing him suffer too much!
+@Group(D3) I was thinking to @ShowVar[Domme_amount_of_edges] edges @RT(#SubName, #PetName)
+@Group(D3) but I guess @ShowVar[Sub_amount_of_edges] is a good number too...
+@Group(D3) Don't you think #Contact3?
+@Group(D3) @Contact3 A #PetName like #SubName <i>MUST</i> always accept what his #DomHonorific decides...
+@Group(D3) @Contact3 so you, @RT(#SubName, #PetName), are #Gonna @RT(edge, #Stroke to the #EdgeNoun, get yourself #NearTheEdge, #Stroke yourself #NearTheEdge) for @ShowVar[Sub_amount_of_edges] time
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Domme_amount_of_edges]=[#Var[Sub_amount_of_edges]]
+@NullResponse @SetVar[Domme_amount_of_edges_start]=[#Var[Domme_amount_of_edges]]
+@Group(D) Well #SubName, now you owe me @ShowVar[Domme_amount_of_edges] edges @Goto(Start_edging)
+@Group(D2) Now you owe us @ShowVar[Domme_amount_of_edges] edges @Goto(Start_edging)
+@Group(D3) Now you owe us @ShowVar[Domme_amount_of_edges] edges @Chance50(Add_some_more) @Goto(Start_edging)
+(Too_much_edges)
+@Group(D2) @Contact2 Don't be so cruel #ShortName!
+@Grouo(D2) @Contact2 @ShowVar[Sub_amount_of_edges] are too much for his #Cock
+@Group(D2) @Contact2 You're not making him edge yet, but he's already suffering!
+@Group(D2) @Contact2 I can see it in his eyes!
+@Group(D2) @Contact2 Please #ShortName, make him edge only @ShowVar[Domme_amount_of_edges] times!
+@Group(D2) Okay #Contact2. You convinced me
+@Group(D2) I'll make him edge only @ShowVar[Domme_amount_of_edges] times
+@Group(D2) But only for this time #Contact2
+@Group(D2) Next time you won't be so lucky #PetName...
+@Group(D2) You should thank #Contact2 #SubName
+@GRoup(D2) She really saved your #Ass!
+[thank you,Thank you,thanks,Thanks,merci,Merci] @Group(D2) @Contact2 You're welcome #SubName!
+@DifferentAnswer @Group(D2) I didn't hear the magic word @RT(#SubName, #PetName)!
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Domme_amount_of_edges]=[#Var[Domme_amount_of_edges]]
+@NullResponse @SetVar[Domme_amount_of_edges_start]=[#Var[Domme_amount_of_edges]]
+@Group(D2) Now you owe us @ShowVar[Domme_amount_of_edges] edges @Goto(Start_edging)
+(Add_some_more)
+@Group(D3) @Contact3 Since you @RT(are #Gonna do, MUST do) what we decide, I decided you are #Gonna @RT(edge, #Stroke to the #EdgeNoun, get yourself #NearTheEdge, #Stroke yourself #NearTheEdge) for us @RT(longer, a little longer, a bit more, more)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[Domme_amount_of_edges]=[Sub_amount_of_edges]+[5]
+@NullResponse @SetVar[Domme_amount_of_edges_start]=[#Var[Domme_amount_of_edges]]
+@Group(D3) @Contact3 Now you owe us @ShowVar[Domme_amount_of_edges] edges #SubName... @Goto(Start_edging)
+(Start_edging)
+#Edge @RTOff @Edge(NoHold) @Goto(Command_centre)
+(Start_edging_for_the_last_time)
+@Group(D) @NullResponse @Chance10(Long_edge)
+@Group(D) @NullResponse @Chance05(Extreme_edge)
+@Group(D) #Edge @RTOff @Edge(Hold) @Goto(Command_centre)
+@Group(D3) You may make him edge if you want now #Contact3 @RTOff
+@Group(D3) @Contact3 I'm glad you asked that
+@Group(D3) @Contact3 Get ready #SubName!
+@Group(D3) @NullResponse @Chance30(Long_edge)
+@Group(D3) @NullResponse @Chance15(Extreme_edge)
+@Group(D3) @Contact3 #Edge @RTOff @Edge(Hold) @Goto(Command_centre)
+(Long_edge)
+@Group(D) #Edge @RTOff @Edge(LongHold) @Goto(Command_centre)
+@Group(D3) @Contact3 #Edge @RTOff @Edge(LongHold) @Goto(Command_centre)
+(Extreme_edge)
+@Group(D) #Edge @RTOff @Edge(ExtremeHold) @Goto(Command_centre)
+@Group(D3) @Contact3 #Edge @RTOff @Edge(ExtremeHold) @Goto(Command_centre)
+(Command_centre)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[Domme_amount_of_edges]=[Domme_amount_of_edges]-[1]
+@NullResponse @If[Domme_amount_of_edges]=[1]Then(One_last_edge_to_give)
+@NullResponse @If[Domme_amount_of_edges]=[0]Then(Finished_edging)
+@NullResponse @Goto(Boob Cooldown, Boob Cooldown 2, Butt Cooldown, Butt Cooldown 2, Could Let You Rest, Edge Count, Even When These Edges Are Done, I Could Let You Rest, I Love Playing Games, It's Kinda Funny, Know What'd Be Funny, Pause For Edge Count, Probably In A Hurry, Stare At This Picture, This Many Edges Left, Wait For It, Wait For It JK, We Should Play More, Who Has A Nicer Ass)
+(Boob Cooldown)
+#LetTheEdgeFade
+I think you could use some recovery time @Chance50(Boob 2)
+But I wouldn't want you to get bored, so...
+Here's some #Boobs for you to look at while you wait #Grin @ShowBoobsImage @LockImages
+I know guys like a nice, full pair of #Boobs
+Just like I like a nice, full pair of #Balls #Lol
+And yours aren't gonna get any fuller staring at that picture, so... @UnlockImages @Goto(Start_edging)
+(Boob 2)
+But I don't want you to get <i>too</i> comfortable, so here's some #Boobs #Lol @ShowBoobsImage @LockImages
+Yeah, making #Boobs appear is kinda like my super power
+Just like it's <i>your</i> kryptonite #Grin
+Making you suffer and writhe
+Making you weaker for me
+And making it all the more vicious 
+When I tell you to edge again @UnlockImages @Goto(Start_edging)
+(Boob Cooldown 2)
+Here's some more #Boobs for you to relax to #Grin @ShowBoobsImage @LockImages @Chance50(Then Again Boob)
+Maybe relax isn't the best word
+Suffer to?
+Squirm to?
+Ache to?
+Fuck it @RapidTextOn
+Let's just go with all of the above #Lol @UnlockImages @Goto(Start_edging)
+(Then Again Boob)
+Just kidding #Lol @RapidTextOn @UnlockImages @Goto(Start_edging)
+(Butt Cooldown)
+#LetTheEdgeFade
+I think I'll let you relax for a minute @Chance50(Butt 2)
+While you stare at this sexy ass and try not to squirm #Grin @ShowButtImage @LockImages
+I bet you're looking at it and thinking
+"Fuck, do I or don't I want to stroke to that?"
+Don't worry #PetName
+You won't have to debate that for very much longer #Lol @UnlockImages @Goto(Start_edging)
+(Butt 2)
+Assuming you even <i>can</i> relax while staring at an ass this hot #Lol @ShowButtImage @LockImages
+Try not to squirm too much though
+You don't have much of a break until the next edge
+And that #Cock needs to recover if it's going to finish the remaining @ShowVar[Domme_amount_of_edges] #Grin
+Then again
+Maybe I don't <i>want</i> you to recover
+Maybe I just want you to suffer, so... @UnlockImages @Goto(Start_edging)
+(Butt Cooldown 2)
+Here's another sexy ass to cool down to #Grin @ShowButtImage @LockImages @Chance50(Then Again Butt)
+Just follow the shape of her curves
+Imagine how how her ass would feel in your palms
+Or the moans she would make if you spanked it
+Me, on the other hand...
+I would rather hear the moans <i>you</i> make having to edge again #Grin @UnlockImages @Goto(Start_edging)
+(Then Again Butt)
+Then again, you'll never finish your edges ataring at butts all day, so... @UnlockImages @Goto(Start_edging)
+(Could Let You Rest)
+I could let you rest for a minute @Chance50(You Could Probably Use It)
+But I won't #Grin @RapidTextOn @Goto(Start_edging)
+(You Could Probably Use It)
+You could probably use it
+But the more you rest, the more that desperation's gonna fade, so... @RapidTextOn @Goto(Start_edging)
+(Edge Count)
+#LetTheEdgeFade
+@ShowVar[Domme_amount_of_edges] edges left to go
+I wonder what's harder on you
+Doing these edges for me
+or the things I do to you between each one #Grin @Goto(Start_edging)
+(Even When These Edges Are Done)
+#LetTheEdgeFade
+Even when these edges are done
+Your #Cock still won't be free of #Me @Chance50(Stay In Debt)
+I might let you have a little break
+Or I might just make you keep on edging for me @RapidTextOn
+Just because I can #Grin @RapidTextOff @Goto(Start_edging)
+(Stay In Debt)
+You can pay off all the edges you want
+But at the end of the day when the stroking is done
+And you're throbbing, aching with desperation
+That #Cock still belongs to me #Grin @Goto(Start_edging)
+(I Could Let You Rest)
+I could let you rest for a bit @Chance50(You Gotta Be Aching)
+But I just don't fucking want to #Grin @Goto(Start_edging)
+(You Gotta Be Aching)
+I mean, you <i>gotta</i> be aching right now 
+But oh yeah @RapidTextOn
+That's kinda the point #Lol @Goto(Start_edging)
+(I Love Playing Games)
+#LetTheEdgeFade
+I love playing games like this @Chance50(Board Game Talk)
+The choices...
+The consequences...
+It's nothing I can't make you do already
+But I love knowing each of these edges, well
+You brought them on yourself #Grin @Goto(Start_edging)
+(Board Game Talk)
+If we ever played board games together
+I'd make sure every game would have some element of risk to it
+A certain amount of denial if you lose
+Edging every time I rolled a six
+You don't even wanna know what I would do to you for rolling doubles #Grin @Goto(Start_edging)
+(It's Kinda Funny)
+It's kinda funny @Chance50(Thought of Debt)
+I don't need games like this to make you edge
+But it's just so much fun playing games when there's something at stake #EmoteHappy @Chance50(Denial On The Line)
+@NullResponse @Goto(Start_edging)
+(Thought of Debt)
+The thought of you being in debt
+And the only way you can pay it off is to edge
+I think I would be a pretty good edge collector
+Practice makes perfect after all #Grin @Goto(Start_edging)
+(Denial On The Line)
+Maybe next time we'll play for even higher stakes
+Like when... @RapidTextOn
+Or if...
+You get to cum again #Grin @RapidTextOff @Goto(Start_edging)
+(Know What'd Be Funny)
+#LetTheEdgeFade
+You know what would be funny? @Chance50(This Would Be Funny)
+If after you were done giving me these edges
+I made you edge some more for me @RapidTextOn
+Just because I can #Grin @Goto(Start_edging)
+(This Would Be Funny)
+This... @RapidTextOn @Goto(Start_edging)
+(Pause For Edge Count)
+#LetTheEdgeFade
+This is how many edges you have left -> @ShowVar[Domme_amount_of_edges] @Goto(This is Ass, This is Boobs, This is Random Pic)
+(This is Ass)
+This is a sexy ass @ShowButtImage @Goto(This Is Me Telling You To Edge)
+(This is Boobs)
+This is a pair of #Boobs @ShowBoobsImage @Goto(This Is Me Telling You To Edge)
+(This is Random Pic)
+This is a hot fucking picture I just found @ShowBlogImage
+(This Is Me Telling You To Edge)
+And <i>this</i> is me telling you to edge again @RapidTextOn @Goto(Start_edging)
+(Probably In A Hurry)
+You're probably in a hurry to finish these edges, so... @RapidTextOn @Goto(Start_edging)
+(Stare At This Picture)
+Now just stare at this picture until I tell you to edge again @ShowBlogImage @Wait(#Random(15,60)) @Goto(Start_edging)
+(This Many Edges Left)
+@ShowVar[Domme_amount_of_edges] edges left #SubName @Wait(#Random(5,20)) @Goto(Start_edging)
+(Wait For It)
+Wait for it... @Wait(#Random(5,20)) @Chance20(Start_edging)
+<i>Wait</i> for it... @Wait(#Random(5,20)) @Chance40(Start_edging)
+Keep waiting for it... @Wait(#Random(5,20)) @Chance60(Start_edging)
+<i>Almost</i> there... @Wait(#Random(5,20)) @Chance80(Start_edging)
+#SubName... @Wait(#Random(5,20)) @Goto(Start_edging)
+(Wait For It JK)
+Wait for it... @Chance50(Fuck That)
+Just kidding #Lol @RapidTextOn @Goto(Start_edging)
+(Fuck That)
+Fuck that #Lol @RapidTextOn @Goto(Start_edging)
+(We Should Play More)
+We should play games like this more often @Chance50(Direct Control)
+I like the competition
+Not knowing the outcome
+Maybe I'll win big and score a lot of edges
+Maybe you'll get lucky and score a lot of tokens
+Either way, you have to come back to chat with me eventually
+And that's when I show you that house <i>always</i> wins #Grin @Goto(Start_edging)
+(Direct Control)
+I know I have to give up a little direct control
+But I think it's kinda hot leaving the fate of your #Cock up to chance once in a while
+How much pleasure you feel @RapidTextOn
+How much agony you endure
+All down to the roll of the dice
+The flip of a card
+Holding your breath as your entire destiny unravels in a second @RapidTextOff
+All it takes to feel a rush like that...
+Is for the stakes to be high enough #Grin @Goto(Start_edging)
+(Who Has A Nicer Ass)
+#LetTheEdgeFade
+Who has a nicer ass: @RapidTextOn
+Me
+or this girl? @ShowButtImage @RapidTextOff @LockImages
+[you] So you think my ass is better... @Goto(Good Thing Asskisser) @UnlockImages
+[she, her, that] Oh really #Lol
+@DifferentAnswer Me or her #SubName?
+I appreciate your honesty #SubName #EmoteHappy @SetVar[Domme_amount_of_edges_Add]=[#Random(5,10)]
+But I still added @ShowVar[Domme_amount_of_edges_Add] edges to what you owe me for not picking mine :P
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[Domme_amount_of_edges]=[Domme_amount_of_edges]+[Domme_amount_of_edges_Add] @UnlockImages
+@NullResponse @RapidCodeOff
+@NullResponse @Goto(Start_edging)
+(Good Thing Asskisser)
+I guess that's a good thing
+Since you apparently like to kiss it so much #Lol @Goto(Start_edging)
+(One_last_edge_to_give)
+I could let you rest for a bit @Chance50(You Gotta Be Aching last time)
+But I just don't fucking want to #Grin @Goto(Start_edging_for_the_last_time)
+(You Gotta Be Aching last time)
+I mean, you <i>gotta</i> be aching right now 
+But...
+yeah @RTOn
+That's kinda the point #Lol @Goto(Start_edging_for_the_last_time)
+(Finished_edging)
+@Group(D) #LetTheEdgeFade
+@Group(D3) @Contact3 #LetTheEdgeFade
+@Group(D) That was the last edge you owed me #SubName
+@Group(D3) @Contact3 That was the last edge you owed us #SubName
+@Group(D) I hope you had as much fun as I did #EmoteHappy
+@Group(D3) @Contact3 I hope you had as much fun as we did #EmoteHappy
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[Domme_amount_of_edges,Domme_amount_of_edges_2,Domme_amount_of_edges_Add,Domme_amount_of_edges_start,Sub_amount_of_edges]
+@NullResponse @Goto(Goodbye_time)
+@NullResponse @RapidCodeOff
+(Contact2)
+Do you remember my friend #Contact2 #SubName? @AddContact2
+@Contact2 Hello #SubName!
+@Contact2 I hope I didn't interrupt anything important...
+Don't worry #Contact2... We were about to play a game...
+@Contact2 A game?
+Yes #Contact2
+@Contact2 What kind of game? @CheckFlag(CBT_Game, CBT_Game_Contact2) @CheckFlag(Edging_Game, Edging_Game_Contact2)
+(CBT_Game_Contact2)
+A #CBT game!
+@Contact2 Ok, but don't #Hurt him too much @Goto(Start_CBT)
+(Edging_Game_Contact2)
+@RT(I was going to make him edge, An edging game!)
+@Contact2 Ok, seems interesting
+@Contact2 But don't exaggerate...
+@Contact2 Give him enough time to cooldown @Goto(Start_edging_game)
+(Contact3)
+Do you remember my friend #Contact3 #SubName? @AddContact3
+@Contact3 Hello #SubName!
+@Contact3 I hope I didn't interrupt anything important...
+Don't worry #Contact3... We were just playing a game...
+@Contact3 Mmm... Sounds interesting...
+@Contact3 I play games with my slaves too...
+@RT(Yeah,, I saw you playing with your slaves, I know what kind of games you like, I saw what kind of games you like playing with your slaves)...
+The kind that you pretend to be the hero who frees their #Cock from those cages...
+just to lock them in a newer and more painful one #Grin
+@Contact3 @RT(You know my methods #ShortName,You know  which are my methods)...
+@Contact3 Keep a man denied in a cage and he will do almost everything, just to have a small chance to cum again
+@Contact3 @RT(What are you #Gonna do, What have you planned to do)? @CheckFlag(CBT_Game, CBT_Game_Contact3) @CheckFlag(Edging_Game, Edging_Game_Contact3)
+(CBT_Game_Contact3)
+I was thinking to #CBT but, you know, after a while it gets repetitive...
+@Contact3 It seems you ran out of ideas #ShortName...
+I could really use some help: do you have any idea #Contact3?
+@Contact3 Glad you asked it #DomName
+@Contact3 Actually I have a few games in mind I think you'll like
+@Contact3 Get ready @SubName... #Grin
+@Contact3 I suspect you won't like my games...#Grin @Goto(Contact3_CBT_Game1,Contact3_CBT_Game2)
+(Edging_Game_Contact3)
+We were about to play a little edging game
+@Contact3 I love edging games!
+@Contact3 Can I stay here and watch?
+Of course #Contact3! You may even edge him yourself if you wish @Goto(Start_edging_game)
+(Contact3_CBT_Game1)
+@Contact3 This game is called <i>edges&ballbusting</i>
+Sounds interesting...
+@Contact3 As the name says, you, @RT(#PetName,#SubName), are #Gonna edge... @RTOn
+and bust your #Balls in your cooldown time
+@Contact3 That's right #ShortName! @RTOff
+I like it #Contact3!
+Do you like it @RT(#PetName,#SubName)?
+@Contact3 He doesn't have to like it #ShortName
+@Contact3 #YoureGoingToDoIt
+@Contact3 Now #DomName, choose the number of edges you want him to do
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[tgr8_Game1_CBT_min]=[#Random(10,15)]
+@NullResponse @SetVar[tgr8_Game1_CBT_max]=[#Random(20,25)]
+@NullResponse @SetVar[Game1_number_of_edges]=[#Random(#Var[tgr8_Game1_CBT_min],#Var[tgr8_Game1_CBT_max])]
+@NullResponse @DeleteVar[tgr8_Game1_CBT_min,tgr8_Game1_CBT_max]
+@NullResponse @RapidCodeOff
+I chose
+@Contact3 Good
+@Contact3 Now that we have the number of edges we need another number
+The cooldown time...
+@Contact3 Exactly
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Game1_cooldown_time]=[#Random(20,30)]
+@NullResponse @RapidCodeOn
+Chose
+@Contact3 Do you want to tell him the numbers you chose? @Goto(tell_Game1, do_not_tell_Game1)
+(tell_Game1)
+Yes
+The number of edges I thought for you #SubName is:
+@ShowVar[Game1_number_of_edges]
+While your cooldown time is:
+@ShowVar[Game1_cooldown_time] seconds @Goto(Continue_Game1)
+(do_not_tell_Game1)
+No
+I want to keep them for me #Contact3 @Goto(Continue_Game1)
+(Continue_Game1)
+@Contact3 Now comes the ballbusting part...
+@Contact3 In your cooldown time I want you to slap your #Balls <i>HARD<i> @RT(3,6) times @RT(#PetName,#SubName)
+It's #Gonna be a lot of #CBT #Contact3...
+@Contact3 I know... I know...
+@Contact3 That's why I like so much this game #Grin
+@Contact3 At the end, all he's #Gonna able to feel will be @RT(ache, pain)...
+@Contact3 A lot of @RT(ache, pain) due to all that #CumNoun built up in those aching #Balls from all that #CBT
+You're very cruel #Contact3! @RTOn
+@Contact3 No
+@Contact3 I'm not
+@Contact3 That's what he deserves @RTOff
+@Contact3 That's what a #PetName deserves
+@Contact3 Am I right #PetName?
+[yes] @Contact3 #Good
+[no] @Contact3 Oh well. You just added 5 more edges to what you owe us #SubName @ChangeVar[Game1_number_of_edges]=[Game1_number_of_edges]+[5]
+@DifferentAnswer @Contact3 #YesorNo
+#Contact3 I think you should have the honor of edging him
+@Contact3 Are you sure #ShortName?
+@Contact3 You're his #DomHonorific. I don't want to...
+Don't worry #Contact3
+My toys are your toys, you know that
+However, I like watching my #PetName being dominated by another #DomHonorific, from time to time...
+@Contact3 Well #SubName, you heard #ShortName...
+@Contact3 It's only #Me and you now... @Goto(Edge_no_hold, Edge_hold) @RTOn
+(Edge_no_hold)
+@Contact3 #Edge @Edge(NoHold) @MultipleEdges(#Var[Game1_number_of_edges],#Var[Game1_cooldown_time])
+@NullResponse @RTOff @Goto(End_Game1)
+(Edge_hold)
+@NullResponse @RTOff
+@Contact3 I almost forgot to tell you
+@Contact3 I'm #Gonna make you hold the last edge
+@Contact3 What I still don't know is how long @RT(<i>YOU</i> are #Gonna hold it, I'm #Gonna make you hold it)!
+@Contact3 Well, I guess we'll find out soon #Grin @Goto(Normal_hold, Long_hold, Extreme_hold) @RTOn
+(Normal_hold)
+@Contact3 #Edge @Edge(Hold) @MultipleEdges(#Var[Game1_number_of_edges],#Var[Game1_cooldown_time]) @RTOff @TempFlag(tgr8_Game1_normal_hold) @Goto(End_Game1)
+(Long_hold)
+@Contact3 #Edge @Edge(LongHold) @MultipleEdges(#Var[Game1_number_of_edges],#Var[Game1_cooldown_time]) @RTOff @TempFlag(tgr8_Game1_long_hold) @Goto(End_Game1)
+(Extreme_hold)
+@Contact3 #Edge @Edge(ExtremeHold) @MultipleEdges(#Var[Game1_number_of_edges],#Var[Game1_cooldown_time]) @RTOff @TempFlag(tgr8_Game1_extreme_hold) @Goto(End_Game1)
+(End_Game1)
+@Contact3 You made it @RT(#PetName,#SubName)! @DeleteVar[Game1_number_of_edges,Game1_cooldown_time]
+@Contact3 Look how wet your #Pussy is!
+You made me really #DomHorny #Contact3
+It was really #Hot! And that last edge...
+Wow!
+I think I came #Random(3,6) times watching you
+@Contact3 You enjoyed the show, huh?!
+Yeah, definitely... #EmoteHappy
+@Contact3 I can't say the same for #SubName here @CheckFlag(Flag_normal_hold) @CheckFlag(Flag_long_hold) @CheckFlag(Flag_extreme_hold) @Goto(Goodbye_time)
+(tgr8_Game1_normal_hold)
+@Contact3 You seem a bit shocked @RT(#PetName,#SubName)
+@Contact3 It was only a normal hold
+@Contact3 #ShortName you should let me train @SubName to hold edges
+@Contact3 You can't afford to have a #PetName that is barely able to hold a normal edge
+Yeah, you're right #Contact3
+I should really let him come by your house for some training sessions @Goto(Goodbye_time)
+(tgr8_Game1_long_hold)
+@Contact3 He seems a bit shocked, don't you think #DomName?
+@Contact3 That long edge was too much to hold for you?
+It looks like that last edge was too much for him
+Look #Contact3 all these veins pumping blood to that #Cock head
+@Contact3 I love making #Cock throbbing...
+@Contact3 I bet that just a little gentle touch to your #Cock sweet spot would make you #Cum straight away #SubName...
+@Contact3 but I prefer slaves with a big pair of blue balls!!! #Grin
+And this is only the beginning #Contact3
+<i>Real</i> #Stroking hasn't started yet!
+@Contact3 Well, then #SubName...
+@Contact3 Looks like your #Cock is #Gonna #Leak a lot #GeneralTime #Grin @Goto(Goodbye_time)
+(tgr8_Game1_extreme_hold)
+@Contact3 He seems a bit shocked
+@Contact3 That extreme hold must have consumed you
+It looks like that last edge was too much for him
+Look #Contact3 all these veins pumping blood to that #Cock head
+@Contact3 I love making #Cock throbbing...
+@Contact3 I bet that just a little gentle touch to your #Cock sweet spot would make you #Cum straight away #SubName...
+@Contact3 but I prefer slaves with a @RT(huge, big) @RT(pair,set) of blue #Balls!!! #Grin
+And this is only the beginning #Contact3
+<i>Real</i> #Stroking hasn't started yet!
+@Contact3 Well, then #SubName...
+@Contact3 Looks like your #Cock is #Gonna #Leak a lot #GeneralTime #Grin @Goto(Goodbye_time)
+(Contact3_CBT_Game2)
+@Contact3 This game is divided in rounds
+@Contact3 Each round has the same amount of edges
+@Contact3 but different cooldown times
+@Contact3 So #ShortName...
+Tell me #Contact3. What do I need to do?
+@Contact3 I want you to think of two numbers
+@Contact3 The first will @RT(determine,decide, give us, indicate,specify,designate) the number of rounds that #SubName @RT(has to face, will have to face)
+@Contact3 The second will @RT(determine,decide, give us, indicate,specify,designate) the number of edges per round
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Game2_number_of_rounds]=[#Random(4,7)]
+@NullResponse @If[Game2_number_of_rounds]=[4]Then(Game2_number_of_edges1)
+@NullResponse @If[Game2_number_of_rounds]=[5]Then(Game2_number_of_edges2)
+@NullResponse @If[Game2_number_of_rounds]=[6]Then(Game2_number_of_edges3)
+@NullResponse @If[Game2_number_of_rounds]=[7]Then(Game2_number_of_edges4)
+@NullResponse @RapidCodeOff
+(Game2_number_of_edges1)
+I chose the number of rounds #Contact3
+@Contact3 Good. Now the number of edges per round #ShortName @SetVar[Game2_number_of_edges_per_round]=[#Random(5,8)]
+Ok, I decided @Goto(Continue_Game2)
+(Game2_number_of_edges2)
+I chose the number of rounds #Contact3
+@Contact3 Good. Now the number of edges per round #ShortName @SetVar[Game2_number_of_edges_per_round]=[#Random(4,7)]
+Ok, I decided @Goto(Continue_Game2)
+(Game2_number_of_edges3)
+I chose the number of rounds #Contact3
+@Contact3 Good. Now the number of edges per round #ShortName @SetVar[Game2_number_of_edges_per_round]=[#Random(3,6)]
+Ok, I decided @Goto(Continue_Game2)
+(Game2_number_of_edges4)
+I chose the number of rounds #Contact3
+@Contact3 Good. Now the number of edges per round #ShortName @SetVar[Game2_number_of_edges_per_round]=[#Random(3,5)]
+Ok, I decided @Goto(Continue_Game2)
+(Continue_Game2)
+@Contact3 Do you want to tell @SubName the numbers you chose? @Goto(tell_Game2, do_not_tell_Game2)
+(tell_Game2)
+Yes
+The number of rounds I decided is @ShowVar[Game2_number_of_rounds]
+While the number of edges per round you owe us is @ShowVar[Game2_number_of_edges_per_round] @Goto(Prepare_for_Game2_start)
+(do_not_tell_Game2)
+No
+I want to keep them for me #Contact3
+Do you need my help for this game or can I relax and watch #Contact3?
+@Contact3 Well the game is divided in rounds so we can alternate
+Fantastic!
+@Contact3 While we take care of your #Cock
+@Contact3 You are #Gonna take care of your #Balls, understand?
+[yes] @Contact3 #Good
+[no] @Contact3 #YoureGoingToDoIt
+@AcceptAnswer @Contact3 #YoureGoingToDoIt
+@Contact3 I want you to @RT(slap, beat, punch) your #Balls <i>HARD<i> @RT(2,3) times during your cooldown time
+If it didn't #Hurt, <i>it does NOT count</i>!
+@Contact3 @RT(This should help you focus on not #Cumming, This should keep you focused on not #Cumming)
+Let's start then! @Goto(Game2_cooldown_time1,Game2_cooldown_time2,Game2_cooldown_time3)
+(Game2_cooldown_time1)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Game2_cooldown_time]=[#Random(20,25)]
+@NullResponse @TempFlag(tgr8_Game2_cooldown_time1)
+@NullResponse @Goto(Edged_by_Domme,Edged_by_Contact3)
+@NullResponse @RapidCodeOff
+(Game2_cooldown_time2)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Game2_cooldown_time]=[#Random(10,15)]
+@NullResponse @TempFlag(tgr8_Game2_cooldown_time2)
+@NullResponse @Goto(Edged_by_Domme,Edged_by_Contact3)
+@NullResponse @RapidCodeOff
+(Game2_cooldown_time3)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Game2_cooldown_time]=[#Random(3,5)]
+@NullResponse @TempFlag(tgr8_Game2_cooldown_time3)
+@NullResponse @Goto(Edged_by_Domme,Edged_by_Contact3)
+@NullResponse @RapidCodeOff
+(Edged_by_Domme)
+@RT(It's my turn now!,It's my turn to edge #SubName now!,My turn!,Get ready to edge for #Me!,Get ready to edge for #Me,, #SubName!) @RTOn @Goto(Edged_by_Domme_mode1, Edged_by_Domme_mode2)
+(Edged_by_Domme_mode1)
+#Edge @Edge(NoHold) @MultipleEdges(#Var[Game2_number_of_edges_per_round],#Var[Game2_cooldown_time]) @RTOff @Goto(Game2_command_centre)
+(Edged_by_Domme_mode2)
+#Edge @Edge(Hold) @MultipleEdges(#Var[Game2_number_of_edges_per_round],#Var[Game2_cooldown_time]) @RTOff @Goto(Game2_command_centre)
+(Edged_by_Contact3)
+@Contact3 @RT(It's my turn now!,It's my turn to edge #SubName now!,My turn!,Get ready to edge for #Me!,Get ready to edge for #Me,, #SubName!) @RTOn @Goto(Edged_by_Contact3_mode1,Edged_by_Contact3_mode2)
+(Edged_by_Contact3_mode1)
+@Contact3 #Edge @Edge(NoHold) @MultipleEdges(#Var[Game2_number_of_edges_per_round],#Var[Game2_cooldown_time]) @RTOff @Goto(Game2_command_centre)
+(Edged_by_Contact3_mode2)
+@Contact3 #Edge @Edge(Hold) @MultipleEdges(#Var[Game2_number_of_edges_per_round],#Var[Game2_cooldown_time]) @RTOff @Goto(Game2_command_centre)
+(Game2_command_centre)
+@NullResponse @RapidCodeOn
+@NullResponse @If[Game2_number_of_rounds]=[0]Then(End_Game2)
+@NullResponse @ChangeVar[Game2_number_of_rounds]=[Game2_number_of_rounds]-[1]
+@NullResponse @CheckFlag(tgr8_Game2_cooldown_time1) @CheckFlag(tgr8_Game2_cooldown_time2) @CheckFlag(tgr8_Game2_cooldown_time3)
+@NullResponse @RapidCodeOff
+(tgr8_Game2_cooldown_time1)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8_Game2_cooldown_time1)
+@NullResponse @Goto(Game2_cooldown_time2,Game2_cooldown_time3)
+@NullResponse @RapidCodeOff
+(tgr8_Game2_cooldown_time2)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8_Game2_cooldown_time2)
+@NullResponse @Goto(Game2_cooldown_time1,Game2_cooldown_time3)
+@NullResponse @RapidCodeOff
+(tgr8_Game2_cooldown_time3)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8_Game2_cooldown_time3)
+@NullResponse @Goto(Game2_cooldown_time1,Game2_cooldown_time2)
+@NullResponse @RapidCodeOff
+(End_Game2)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[Game2_number_of_edges]=[#Var[Game2_number_of_rounds]]
+@NullResponse @ChangeVar[Game2_number_of_edges]=[Game2_number_of_edges]*[Game2_number_of_edges_per_round]
+@NullResponse @DeleteVar[Game2_number_of_rounds,Game2_number_of_edges_per_round,Game2_cooldown_time]
+@NullResponse @RapidCodeOff
+@Contact3 That was the last edge you owed us @RT(#PetName,#SubName)!
+That was amazing #Contact3!
+@Contact3 I bet you want to #Cum <i>soooo</i> desperately now #SubName...
+You said it #Contact3. We just edged him @ShowVar[Game2_number_of_edges] times
+@Contact3 He must have a massive load built up on those #Balls @DeleteVar[Game2_number_of_edges]
+Look at his throbbing #Cock!
+I believe he's feeling all that #CumNoun trying to find its way out
+still he has to go against his instinct that tells him to #Cum
+and keep it stored in those #Balls
+@Contact3 I bet I could make you #Cum just with a gentle touch to your #Cock' sweet spot #SubName... @RTOn
+but we prefer an obedient #PetName with a @RT(huge, big) @RT(pair,set) of blue #Balls!
+@Contact3 Like yours #SubName! @RTOff
+@Contact3 Will you let him @RT(rest,#RelaxAndBreathe) now #ShortName?
+Just a bit, I have other plans for him #GeneralTime
+This is only the beginning #Contact3
+Real #Stroking hasn't started yet!
+@Contact3 Well then #SubName...
+@Contact3 Looks like your #Cock is #Gonna #Leak and suffer a lot today #SubName... #Grin @Goto(Goodbye_time)
+(Goodbye_time)
+@Contact2 Well, #DomName, I have to go now
+@Contact3 Well, #DomName, I have to go now
+@Group(D2) Already?
+@Group(D2) I was hoping you could stay with us a bit more #EmoteSad
+@Group(D3) Already?
+@Group(D3) I was hoping you could stay with us a bit more #EmoteSad
+@Contact2 I promise next time I'll spend more time with you #ShortName...
+@Contact3 I promise next time I'll spend more time with you #ShortName...
+@Contact2 ...and obviously with you #SubName #Grin
+@Contact3 ...and obviously with you #SubName #Grin
+@Contact3 You know, I also have some responsibilities...
+@Group(D3) Your slaves need you...
+@Contact3 But I had fun playing with you and #SubName #GeneralTime
+@Contact3 So if you want to invite me again we could play other evil games #GrinEvil
+@Contact3 I have many other cruel ideas to #Torture @RT(#SubName,your #PetName)... #Grin
+@Group(D3) I can't wait until next time #Contact3!
+@Contact3 Yeah, I know... But I promise it'll be worth #ShortName
+@Group(D2) Ok then...
+@Group(D3) Ok then...
+@Contact2 #Bye #DomName!
+@Group(D2) #Bye #Contact2!
+@Contact2 #Bye #SubName! @Wait(2)
+@Group(D2) @NullResponse @RemoveContact2
+@Contact3 #Bye #DomName!
+@Group(D3) #Bye #Contact3!
+@Contact3 #Bye #SubName! @Wait(2)
+@Group(D3) @NullResponse @RemoveContact3
+@RT(So far it has been a great day,, but I think it could still improve, So far it has been a great day,, but I think we could still have many surprises) @RT(#SubName,#PetName)
+I'll give you a few seconds to recover now. Then you'll go @RT(back, right back, back immediately) to @RT(#Stroking, real #Stroking, <i>real</i> #Stroking) @Wait(#Random(20,25)) @End
+(Modulo3)
+@Stroking #Stop @StopStroking
+So, you think you have control of your cock?
+Do you think it's up to you when it gets hard, when it stays soft, when it explodes in orgasmic pleasure?
+Well, let's put it to the test.
+I've got a little game.
+Look at you. 
+You're already twitching. 
+@AllowsOrgasm(Never) It must be horrible to know that you're not going to be allowed to cum today, all because you just have no control over your own cock.
+Poor boy. Just a horny little boy, aren't you?
+You don't have any control at all. I control your cock.
+How's that cock feeling? Good?
+#StartStroking
+Imagine my soft, gentle, feminine fingers wrapping around it. 
+Gently stroking up and down the length of your shaft, my soft skin caressing your cock up and down. 
+Just slowly at first
+My thumb rubbing against the tip of your cock
+spreading the precum around your head.
+Rubbing against that sensitive spot on the underside of your tip.
+Stroking harder and harder. A little faster now.
+Can you feel the blood rushing to your cock, filling it up?
+It's getting harder and harder with my every word isn't it?
+Oh, you poor boy. You have no chance, do you? @EdgeMode(Goto, 7fi7rf)
+Are you @RT(near, getting) to that edge yet? 
+[yes] #Good @Goto(me894)
+[no] You don't? 
+@DifferentAnswer #YesorNo #SubName?
+Edge for me and I'll make sure today will be a good day for you!
+Just give it everything you've got right now!
+(me894)
+#Edge 
+(44yyhh)
+@RT(Edge it baby!, You like to edge,, you want to edge,, you NEED to edge,, so just do it now!) @Wait(10)
+@RT(Come on,, just a bit faster for me!, You can go faster,, I know you can!) @Wait(10)
+@NullResponse @Goto(44yyhh)
+(7fi7rf)
+Ride the edge and keep yourself there.
+I'll count you down.
+10
+Keep stroking. Stay on that edge
+9
+Nearly there @EdgeMode(Normal)
+8
+Think about my lips wrapping around your cock
+7
+And sucking and licking 
+6
+Your cock deep inside my warm, wet mouth, taking you all the way down
+5
+So close
+4
+Concentrate on that cock of yours
+3
+Think of me fucking you
+2
+My warm, wet pussy sliding down your shaft
+1
+#StopStroking
+Mmmmm.... That was intense.
+I hope you enjoyed it.
+@End
+(Modulo4)
+@Stroking #Stop @StopStroking
+@RT(#PetName, #SubName)
+Party time... @AddContact1 @AddContact2 @AddContact3
+See you soon #Lol @RemoveDomme
+@Contact1 We're unbelievably horny. And we've got a fresh body here ready to do whatever we say.
+@Contact2 Wait... what if he doesn't do what we say?
+@Contact3 Easy. We punish him. 
+@Contact2 You're just a body to us. You have no power, all you are is a pile of flesh.
+@NotFlag(AV_LikeAnal) @NullResponse @Goto(34eh89fde)
+@Contact3 Okay... I thought we were gonna fuck him.
+@Contact2 Yeah, we know you are a little anal slut...
+@Contact1 We known! I just wanted to... you know what? I'll explain it later. Go get your toy and some lube @Wait(40)
+@Contact3 Not bad... I can get some serious work done with this.
+@Contact1 I'm... surprised. Didn't think he'd have one of these there.
+@Contact2 Huh. I wonder what else is around his place.
+@Contact1 Yeah... I still feel a bit weird about it, but I can't really blame you.
+@Contact3 Our slave here's a bit of a hoarder, huh?
+@Contact2 We're calling him our slave now?
+@Contact3 Why not? He deserves that treatment.
+@Contact2 Whatever.
+@Contact3 Alright, slave. Open that asshole of yours. Cause this cock ain't gonna fuck itself. 
+@Contact2 I even let you get some lube. @Wait(35)
+@Contact2 Put your legs on the table...open it @Wait(15)
+@Contact2 Now let me in...
+@Contact2 There we go. A nice big cock for the asshole's asshole. 
+@Contact3 I'm sure you'll be feeling plenty sore after this is over.
+@NotFlag(av_fetish_pain) @NullResponse @Goto(34eh89fde)
+@Contact3 this is a nice position to spank your balls. 
+@Contact3 Spank those balls @PlayAudio[tease\G3Spank\*.mp3] @Wait(20)
+@Contact3 Did that hurt? I bet you liked it, you freak.
+@Contact3 Now fuck that ass...
+(34eh89fde)
+@Contact1 Mmm... #DomName conditioned him nicely. 
+@Contact1 #StartStroking
+@Contact2 Well well, someone's having fun.
+@Contact3 I am having a lot of fun with it, but I don't mind sharing.
+@Contact1 I wonder how the slave's doing...
+@Contact1 I can see it in his eyes. He's ~oh fuck!~ probably on the edge.
+@Contact2 I want to try something new.
+@Contact2 Let's see if he can edge a lot...
+@Flag(AV_LikeAnal) @Contact2 while fucking his ass...
+@Contact2 without cumming
+@Contact2 At the beginning, you'll have enough time to recover, but it's getting shorter and shorter.
+@Contact2 At the end you'll have about 5 seconds to rest.
+@Contact2 It's going to be very frequently. Much more than you had before.
+@Flag(AV_LikeAnal) @Contact3 Remember, you fuck your ass only when you stroke
+@Contact2 Let's begin. I'll give you as a lot time for the first ones.
+@Contact2 #Edge @EdgeNoHold
+@Contact2 Good boy.
+@Contact2 #Edge @EdgeNoHold @MultipleEdges(2, 20, 100)
+@Contact2 You see, we are starting very slow this time..
+@Contact2 But don't worry, it's getting faster very soon.
+@Contact1 Let me try
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(3, 18, 100)
+@Contact1 I love these frequent edges.. --------- 6 -----------
+@Contact3 There's nothing more intense than that.
+@Contact3 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 15, 100)
+@Contact3 Can you feel the frustration?
+@Contact2 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 12, 100)
+@Contact2 Good boy. You deserved a short rest.
+@Contact2 But don't think we are finish.
+@Contact1 No, no.
+@Contact1 You have to do more.
+@Contact1 Alright,
+@Contact1 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@Contact1 You're so good..
+@Contact1 You love it!
+@Contact3 We're not done..
+@Contact3 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 5, 100)
+@Contact3 You're all worked up over some STUPID little thing. 
+@Contact3 No, I know that look. 
+@Contact3 Soon you're going to start... start.. no no stop. right here. 
+@Contact3 I know that you want to be mad.. but I just don't have time for that right now. 
+@Contact2 You don't even mind when we are rude like that. 
+@Contact2 In fact.. as long as we don't stop groping at your hard cock.. 
+@Contact2 I'll bet you will put up with we, no matter how much of a mean little cunt we're being? 
+@Contact1 Mmm let's put that to the test, shall we?  
+@Contact3 Get on your knees, #Slave!
+@Flag(AV_LikeAnal) @Contact3 You don't need to fuck your ass, but keep it full...
+@Contact3 Trust me, you won't enjoy my torment.
+@Contact3 Now you will suffer!
+@Contact3 Crab that cock and stroke it! @PlayAudio[tease\cStroke.mp3]
+@Contact1 Stroke it faster!
+@Contact2 You shouldn't enjoy that.
+@Contact2 I've heard, you like it to hit the edge..
+@Contact1 You like that moment, you're quite before releasing your desperate cock.
+@Contact3 Oh boy. I will let you edge.
+@Contact3 I will let you edge so damn hard!
+@Contact2 Stroke it faster!
+@Contact3 Harder!
+@Contact3 Don't you dare edge before I say you can!
+@Contact3 I won't just let you edge.
+@Contact3 No, I will let you ride the edges.
+@Contact3 Your cock will be so swollen, when I'm done with you.
+@Contact1 Are you already near the edge?
+@Contact1 Not yet #Slave
+@Contact3 I tell you, when you can.
+@Contact3 First you have to suffer for me.
+@Contact3 Jerk it..
+@Contact2 Stroke, stroke, stroke. 
+@Contact3 Now get on the edge, #Slave! @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@Contact1 You look a bit exhausted.
+@Contact2 Maybe we should take a short break.
+@Contact3 Nope
+@Contact2 Get back on the edge now! @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@Contact1 No cumming..
+@Contact3 I would never let him cum.
+@Contact3 No, I would deny him every single time.
+@Contact3 No orgasm ever..
+@Contact1 Feel the torture..
+@Contact2 Suffer for your goddess!
+@Contact3 I want you to feel the ache.. @RTOn
+@Contact3 Just pure, 
+@Contact3 deep, 
+@Contact3 ache. @RTOff
+Well,.. @EdgeMode(Goto, 3edhd7)
+get back on the edge. @PlayAudio[tease\cEdge.mp3]
+(Loop21)
+@Contact2 Get on the edge and get ready to hold it! @Wait(10)
+@Contact3 Let me see that edge... @Goto(Loop21)
+(3edhd7)
+@Contact3 You will learn to love being denied.
+@Contact3 'Cause being denied is suffering for me.
+@Contact3 And you suffering makes me happy.
+@Contact1 Stay on that edge, #Slave.
+@Contact1 I don't think you're suffering enough. @EdgeMode(Normal)
+@Contact2 You could always suffer more for me.
+@Contact3 #StopStroking
+@Contact3 You think I have enough?
+@Contact2 Oh no. not at all.
+@Contact2 Get back on the edge! @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@Contact1 We have enough of you now
+@Flag(AV_LikeAnal) @Contact2 You can sit, remove the plug and clean yourself @Wait(45)
+@Contact1 You are ready for your Domme again @AddDomme
+@NullResponse @RemoveContact1 @RemoveContact2 @RemoveContact3
+@End

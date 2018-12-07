@@ -1,0 +1,9 @@
+[#AV_YouWrong]
+[All]
+@Flag(AVp001) That's good to know, #SubName
+@Flag(AVp002) And why the hell you are here #PetName?
+@Flag(AVp004) I'm not, #SubName
+@Flag(AVp005) I bet I can make you handle even way more than you think you can
+@Flag(AVp006) That's not true and you know it #Smile
+@NotFlag(AVp001, AVp002, AVp004, AVp005, AVp006) #IDisagree
+[All End]

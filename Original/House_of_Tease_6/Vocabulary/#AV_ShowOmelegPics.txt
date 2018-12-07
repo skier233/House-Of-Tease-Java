@@ -1,0 +1,5 @@
+@NotFlag(AV_GirlErina, AV_GirlKris, AV_GirlMandy, AV_GirlNelly) @ShowImage[av_imagens\Girls2\Carolinne\*.*]
+@NotFlag(AV_GirlCarolinne, AV_GirlKris, AV_GirlMandy, AV_GirlNelly) @ShowImage[av_imagens\Girls2\Erina\*.*]
+@NotFlag(AV_GirlCarolinne, AV_GirlErina, AV_GirlMandy, AV_GirlNelly) @ShowImage[av_imagens\Girls2\Kris\*.*]
+@NotFlag(AV_GirlCarolinne, AV_GirlErina, AV_GirlKris, AV_GirlNelly) @ShowImage[av_imagens\Girls2\Mandy\*.*]
+@NotFlag(AV_GirlCarolinne, AV_GirlErina, AV_GirlKris, AV_GirlMandy) @ShowImage[av_imagens\Girls2\Nelly\*.*]

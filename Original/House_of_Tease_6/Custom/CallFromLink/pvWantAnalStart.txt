@@ -1,0 +1,25 @@
+#StartStroking @CheckFlag(pthevAnal)
+#StrokeFaster
+So, #SubName...
+You told me you want me to violate your ass... @CheckFlag(pthevNoAnal)
+That's right, isn't it?
+[yes] Interesting... #Smile
+[no] Oh... I must have misunderstood then @Goto(misunderstood)
+@DifferentAnswer #YesOrNo
+Let's talk about that some more, shall we... @DeleteFlag(pvWA) @Interrupt(pvIn_AnalPlayBuffer)
+@End
+(pthevAnal)
+#StrokeFaster @DeleteFlag(pvWA) @StartStroking
+@End
+(pthevNoAnal)
+I thought you weren't into that
+Let's get this straight, you are asking me to do anal play with you?
+[yes] Oohhh #EmoteHappy @DeleteFlag(pthevNoAnal) @SetFlag(pthevAnal)
+[no] Hm... @Goto(misunderstood)
+@DifferentAnswer #YesOrNo
+#StopStroking
+This should be interesting... @DeleteFlag(pvWA) @Interrupt(pvIn_AnalPlayBuffer)
+@End
+(misunderstood)
+Never mind then #Smile @DeleteFlag(pvWA) @StartStroking
+@End

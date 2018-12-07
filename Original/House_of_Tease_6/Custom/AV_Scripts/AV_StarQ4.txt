@@ -1,0 +1,11 @@
+If you've just received punishment, you say?
+[thank you, thanks, thanking you, thankful for, thx, grateful for] That's correct. After punishment you should thank me for letting you redeem yourself. @Goto(StartQ04Right)
+[sorry, I am sorry, Im sorry, apologize] If you've successfully received punishment, then you have nothing to say sorry for.	
+@AcceptAnswer Punishment is meant to teach you something, reflect that in your answer.
+@CBT
+@NullResponse @Goto(EndQuestionsAV)
+(StartQ04Right)
+#Stroke #RandomRound10(10, 50) times @Wait(20)
+(EndQuestionsAV)		
+This kind of verbal discipline turns me on so much.	
+@End

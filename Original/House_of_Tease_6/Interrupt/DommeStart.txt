@@ -1,0 +1,23 @@
+#Name #NameDomme wants to decide if you get to come #GeneralTime #Smile @CheckFlag(ErLoss)
+@NullResponse @CheckFlag(ERLoss2)
+She's waiting for you to message her right now
+#EmoteMoan I hate to let you go, but #NameDomme is waiting on you
+We shouldn't keep her waiting any longer
+I hope she torments you well
+Bye, bye #Name @SetFlag(DommeStart) @EndTease
+(ERLoss)
+She's waiting on you to message her right now
+Ohh, by the way #Smile
+I let her know that you owe a ruined orgasm #Smile
+We shouldn't keep her waiting any longer #Smile
+Have fun #Name, bye bye @SetFlag(DommeStart) @EndTease
+@End
+(ERLoss2)
+She's waiting for you to message her right now
+Ohh, by the way #Smile
+I let #NameDomme know that you're not allowed to come tonight #Smile
+So I guess what I should have said
+Is that #NameDomme wants to #Tease you #GeneralTime
+We shouldn't keep her waiting any longer #Smile
+Have fun #Name, bye bye @SetFlag(DommeStart) @EndTease
+@End 

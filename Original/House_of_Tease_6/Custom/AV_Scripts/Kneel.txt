@@ -1,0 +1,10 @@
+@NullResponse @CheckFlag(AV_SubKnees) @RapidCodeOn
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+And you know what else? I think I want my #PetName on his knees. 
+#KneelForMe in my presence @SetFlag(AV_SubKnees)
+@End
+(AV_SubKnees)
+@End

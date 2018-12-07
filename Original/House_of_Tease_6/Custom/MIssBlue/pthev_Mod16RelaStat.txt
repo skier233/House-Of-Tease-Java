@@ -1,0 +1,323 @@
+@NullResponse @CheckFlag(pthvRelaStatSKIP) @RapidCodeOn
+@NullResponse @CheckFlag(pvModRelaComplete)
+@NullResponse @CheckFlag(pthevMarried)
+@NullResponse @CheckFlag(pthevGirlfriend)
+@NullResponse @CheckFlag(pthevPartnerCanJoin)
+@NullResponse @CheckFlag(pthevSubInLove)
+@NullResponse @CheckFlag(pthevExGF)
+@NullResponse @CheckFlag(pthevSingle)
+@NullResponse @TempFlag(pthvRelaStatSKIP)
+Doesn't it feel good to #JerkOff #PetName? @Timeout(8,feelsgood)
+[yes] #Great #Smile
+[no] And yet here you are, stroking away
+[amazing,incredible,super,fantastic] #Smile
+@AcceptAnswer I bet you'd do it all day long if you could 
+(feelsgood)
+It's what make you so easy to control
+#Edge @Edge
+#LetTheEdgeFade
+Can I ask you a personal question #SubName?
+[yes,shoot,go ahead,sure] It's something I've been wanting to know
+[no] Oh okay then, no problem @Goto(continuestroking)
+@DifferentAnswer #YesOrNo
+(status reset)
+Just tell me if any of my questions are <i>too</i> personal @SetFlag(pthevModRelaDone)
+Do you have a girlfriend at the moment? Or are you married even?
+[yes] Is she your girlfriend or your wife? @LoopAnswer
+[no,neither] @NullResponse @SetFlag(pthevSingle) @Goto(relationshipno)
+[married,wife] @NullResponse @SetFlag(pthevMarried) @SetFlag(pvHasPartner)
+[girlfriend] @NullResponse @SetFlag(pthevGirlfriend) @SetFlag(pvHasPartner)
+[you] Yeah okay, but I mean in real life... @LoopAnswer
+[too personal, about something else,don't want to,change the subject] Okay no problem #Smile @Goto(continuestroking)
+@DifferentAnswer So are you with someone?
+(what is her name)
+What's her name? @InputVar[pthevNamePartner]
+[too personal, about something else,don't want to,change the subject] Okay no problem #Smile @Goto(deletevar)
+@AcceptAnswer Always good to know the name of the competition #EmoteWink
+And does @ShowVar[pthevNamePartner] know about you and me?
+[yes] Oh really now, that's interesting... #Smile
+[no] That's okay #SubName it's our little secret #Smile @Goto(focusonme)
+[too personal,about something else,don't want to,change the subject] Okay no problem #Smile @Goto(focusonme)
+@DiffentAnswer #YesOrNo
+Maybe we can involve her in our little games at some point, would that be okay?
+[yes,like that,great,awesome,love that] That's #Great #Smile @SetFlag(pthevPartnerCanJoin)
+[no,don't,can't,impossible,not possible] That's okay, I won't do that then @Goto(focusonme)
+@DifferentAnswer Would it be okay if @ShowVar[pthevNamePartner] gets involved?
+It does open up all kinds of possibilities #Grin
+@End
+(focusonme)
+You should focus on me now anyway
+@End
+(deletevar)
+@NullResponse @DeleteFlag(pthevMarried) @DeleteFlag(pthevGirlfriend) @DeleteFlag(pvHasPartner) @DeleteVar[pthevNamePartner]
+(continuestroking)
+After all you don't come to me to talk
+You come to me to be teased @ShowBlowjobImage
+And tormented @ShowFemdomImage
+You come to me because I make you #Balls ache @ShowLesbianImage
+Because I make your #Cock feel good @ShowHardcoreImage
+And I come to you because I love making you suffer #Grin
+@End
+(relationshipno)
+That's a shame #SubName
+On the other hand, it means I have you all to myself #Smile
+@End
+------------
+--- SKIP ---
+------------
+(pthvRelaStatSKIP)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+----------------------------------------
+--- ABOVE: married/girlfriend/single ---
+----------------------------------------
+--- BELOW: exgf/subinlove/virgin -------
+----------------------------------------
+(pthevSingle)
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pthevModRelaSingle2)
+@NullResponse @SetFlag(pthevModRelaSingle2)
+It's too bad you don't have a girlfriend @Timeout(10,ontheother)
+[i do,have a girlfriend,have girlfriend,you're wrong] Wait...
+@AcceptAnswer @NullResponse @Goto(ontheother)
+So you actually have a girlfriend now?
+[yes] That's great news! #Smile @SetFlag(pthevGirlfriend) @SetFlag(pvHasPartner) @DeleteFlag(pthevSingle) @Goto(what is her name)
+[no] I must have misunderstood you then @Goto(ifthis)
+[married,wife] Wow... @SetFlag(pthevMarried) @SetFlag(pvHasPartner) @DeleteFlag(pthevSingle) @Goto(what is her name)
+[you] Yeah okay, but I mean in real life...? @LoopAnswer
+[too personal, about something else,don't want to,change the subject] Okay no problem #Smile @Goto(deletevar)
+@DifferentAnswer So... are you with someone?
+(ontheother)
+But it does mean I have you all to myself 
+(ifthis)
+Is there anyone right know you <i>wish</i> were your girlfriend?
+[yes] Oooh interesting... #Smile
+[no] @NullResponse @Goto(theresnobody)
+[too personal, about something else,don't want to,change the subject] Okay no problem #Smile @Goto(continuestroking2)
+@DifferentAnswer Yes or no #SubName ...or is this too personal?
+What's her name? @InputVar[pthevNamePartner]
+[too personal, something else,don't want,change the subject, don't know] Okay no problem #Smile @Goto(deletevar2)
+@AcceptAnswer I bet she's way too pretty for you #EmoteWink
+Do you think @ShowVar[pthevNamePartner] would make you #Ache the way I do? @SetFlag(pthevSubInLove)
+[yes] Hmm competition... I guess I'll have to be even more cruel from now on #Grin
+[no] I guess that would be too much too ask #Laugh
+[hope so,hope she will,maybe,perhaps,don't know,not sure] At least with me you <i>know</i> I will #Grin
+[don't hope,hope not] You couldn't handle two of us #PetName #Grin
+@AcceptAnswer I don't think you'd be able to handle it #PetName
+In any case, I hope you find out someday
+For the moment I'm all you've got I guess @SetFlag(pthevModRelaSingleDone)
+And that's quite enough for your #Leaking #Cock to take
+@End
+(theresnobody)
+Or maybe an ex-girlfriend you still fantasize about?
+[yes] @NullResponse 
+[no] @NullResponse @Goto(therereallyissnobody)
+[too personal, about something else,don't want to,change the subject] Okay no problem #Smile @Goto(continuestroking2)
+@DifferentAnswer Yes or no #SubName ...or is this too personal?
+What's her name? @InputVar[pthevNamePartner]
+[too personal, about something else,don't want to,change the subject] Okay no problem #Smile @Goto(deletevar2)
+@AcceptAnswer That's a pretty name #Smile
+Did @ShowVar[pthevNamePartner] torment you the way I do? @SetFlag(pthevExGF)
+[yes] Well tormenting you <i>is</i> a lot of fun #Laugh
+[no] She should have #Grin
+[wish,unfortunately,if only] She doesn't know what she missed out on
+@AcceptAnswer I guess nobody could torment quite like I do #Grin
+Don't think about her too much #SubName
+You know she's no match for me anyway #EmoteWink @SetFlag(pthevModRelaSingleDone)
+@End
+(deletevar2)
+@NullResponse @DeleteVar[pthevNamePartner]
+(therereallyissnobody)
+You're not still a virgin are you...?
+[yes] Aw that's okay though #SubName @SetFlag(pthevVirgin)
+[no] Not that that would be a problem of course...
+[too personal, about something else,don't want to,change the subject] Okay no problem #Smile @Goto(continuestroking2)
+@DifferentAnswer Yes or no #SubName ...or is this too personal?
+At least you still have me #Smile @SetFlag(pthevModRelaSingleDone)
+@End
+(continuestroking2)
+@NullResponse
+@End
+(pthevModRelaSingle2)
+#StopStroking @StopStroking
+What would your ideal girlfriend look like #SubName?
+Something like this? @ShowTaggedImage @TagSoloF
+Or like this? @ShowTaggedImage @TagSoloF
+There's just an endless supply of perfect girls on the web @ShowTaggedImage @TagSoloF
+Girls with perfect #Boobs @ShowBoobsImage
+Girls with a perfect #Ass @ShowButtImage
+Or perfect long legs @ShowTaggedImage @TagBodyLegs
+Isn't she just amazing #Name? @ShowTaggedImage @TagSoloF @LockImages
+Edge for her @EdgeHold
+#LetTheEdgeFade
+Do you think you could get a girl like this?
+[yes] Keep telling yourself that #PetName
+[no] Don't be so hard on yourself #SubName, that's my job #Grin
+@DifferentAnswer #YesOrNo
+Edge to her picture on more time @EdgeNoHold
+Now just ache for her a moment
+Keep you eyes fixed on her
+You can always keep dreaming #PetName @UnlockImages
+@End
+-------------------------------
+--- END MAIN SCRIPT -----------
+-------------------------------
+(pthevExGF)
+#StopStroking @StopStroking
+I wonder what @ShowVar[pthevNamePartner] would say if she could see you like this
+Would she feel sorry for you? Would she just laugh?
+I'm sure it wouldn't surprise her one bit #Laugh
+Think about her #PetName, picture her in your mind
+Now edge for her @EdgeNoHold
+#LetTheEdgeFade
+I don't want you to think too much about her @CBT
+That should bring your focus back on me @SetFlag(pvModRelaComplete)
+@End
+(pthevSubInLove)
+#StopStroking @StopStroking
+Blowjobs are so fucking hot @ShowBlowjobImage @LockImages
+Can you imagine @ShowVar[pthevNamePartner] doing this for you?
+Of course you can #Grin
+How about this #Name @ShowCaptionsImage
+Is this how you want her to treat you?
+[yes] Be careful what you wish for #SubName
+[no] Then you better make sure she never finds this little collection of yours
+@AcceptAnswer @NullResponse
+Maybe I'll look for her on facebook and send her this picture
+It's surprisingly easy to find people these days #Grin @UnlockImages
+Don't worry #SubName, I'm just teasing you #Smile
+I was wondering, since you don't have a girlfriend
+How long has it been since you've had sex...
+Like, has it been weeks, months or years?
+[days] You're such a slut #Lol @Goto(such a slut)
+[weeks] That's not that bad @Goto(such a slut)
+[months] At least you have some memory of having sex then #Smile @Goto(such a slut)
+[years] Ouch, that must be tough @Goto(such a slut)
+[never, haven't had sex, virgin, not had sex] @NullResponse
+@DifferentAnswer So, weeks, months or years? Or never...
+Oh really, you're still a virgin? 
+[yes] Wow... @SetFlag(pthevVirgin)
+[no] Sorry, I must have misunderstood then @Goto(such a slut)
+@DifferentAnswer #YesOrNo
+I kind of envy you #SubName
+You still have that to look forward to
+It's an amazing journey for sure #Smile @SetFlag(pvModRelaComplete)
+(such a slut)
+@NullResponse @SetFlag(pvModRelaComplete)
+@End
+(pthevPartnerCanJoin)
+#StopStroking @StopStroking
+Is @ShowVar[pthevNamePartner] there #SubName?
+[yes] @NullResponse
+[no] Too bad, she could have joined in the fun #Grin @Goto(ending)
+[none of your business,not telling,don't] Never mind then, I was just wondering @Goto(ending)
+[why] O well I just wondered... so is she? @LoopAnswer
+@DifferentAnswer #YesOrNo
+Can you call her to come over?
+[yes,sure,ok,okay] @NullResponse
+[no,busy,occupied,not coming,not possible, impossible] Never mind then, maybe some other time #Smile @Goto(ending)
+[why] You'll find out when she gets here won't you #Grin @LoopAnswer
+[try,moment] Okay so is he coming? @LoopAnswer
+[she's here,already here] Good!
+@DifferentAnswer Can she come over or not?
+Is she there?
+[yes] Good #Smile
+[no] Let me know when she's there! @LoopAnswer
+[she's here,here,ready] Good #Smile
+[busy,occupied,not coming,not possible, impossible] Never mind then, maybe some other time #Smile @Goto(ending)
+@DifferentAnswer is she there yet #SubName?
+Hey @ShowVar[pthevNamePartner], I though you could help out
+I gotta make a phone call, could you stroke his #Cock until I get back?
+[yes,sure,no problem] Great! It won't take long, I'll be back in a minute
+[no] Then I guess you came over for nothing, sorry! @Goto(yourself)
+@DifferentAnswer Yes or no?
+Okay start stroking, but don't let him cum! @AFKOff @Wait(95)
+I'm back! You can stop now @AFKOn
+One more thing before you go @ShowVar[pthevNamePartner]...
+Could give those #Balls a nice smack for me?
+[yes,sure,okay,done] Thanks! #Smile
+[no] No problem, you've been a great help already #Smile
+@DifferentAnswer Yes or no?
+I'll take over from here on in @Wait(10)
+I like that @ShowVar[pthevNamePartner] and I can share you #PetName
+But I also like having you all to myself again @SetFlag(pvModRelaComplete)
+(ending)
+@NullResponse
+@End
+(yourself)
+You'll have to do all your stroking yourself #SubName 
+Start stroking, but don't edge! @AFKOff @Wait(95)
+I'm back! You can stop stroking now @AFKOn @SetFlag(pvModRelaComplete)
+@End
+(pthevMarried)
+(pthevGirlfriend)
+#StopStroking @StopStroking
+Interesting fantasies you have #PetName @ShowCaptionsImage @LockImages
+I this how @ShowVar[pthevNamePartner] treats you?
+[yes] She's lucky to have you #SubName #Smile
+[no] Maybe she should #Grin
+[wish,if only,she should] I'm sure she'd love to #Laugh
+@DifferentAnswer #YesOrNo
+Maybe she and I could team up someday, what do you think? @UnlockImages
+[yes,great,good,awesome] That's interesting... @SetFlag(pthevPartnerCanJoin)
+[no,bad idea,don't want,don't like,not good,not a good idea] Don't worry #PetName, it won't happen @Goto(noteamup)
+@DifferentAnswer Would you like that or not?
+(teamup)
+I'll keep it in mind #Smile
+@End
+(noteamup)
+@NullResponse @SetFlag(pvModRelaComplete)
+@End
+----------------
+--- COMPLETE ---
+----------------
+(pvModRelaComplete)
+@NullResponse @Goto(one,two,three)
+(one)
+#Edge @Edge
+I'm a little bit surprised you still keep coming back to me, #PetName
+@Flag(pthevGlitterIntroduced) Give how cruel me and my friends have been to you
+Surprised but happy, obviously #Smile
+@Flag(pvHasPartner) I'm glad @ShowVar[pthevNamePartner] doesn't mind me playing with you
+And even though you seem to need me a lot more than I need you...
+I've grown quite fond of teasing and tormenting you
+@Flag(pthevSingle) I almost wish you'll never find a girlfriend
+@Flag(pthevSingle) Just so I can keep you as my private pet forever #EmoteWink
+@Flag(pthevSubInLove) But I'll make an exception for @ShowVar[pthevNamePartner]
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(two)
+#StopStroking @StopStroking
+You've got so many lovely porn videos on your hard drive
+Hmmm... @PlayVideo(#Random(10,20)) @JumpVideo
+That was just a tease, #Name
+You didn't think I was going to let you watch the whole thing, did you?
+#StartStroking @PlayVideo(#Random(5,10)) @JumpVideo
+#StopStroking
+Tickle the underside of your #Balls a little bit, #Name
+Now look at this... #Smile @PlayVideo(#Random(6,12)) @JumpVideo
+That's all you get, just a little peek
+#StartStroking @PlayVideo(#Random(20,28)) @JumpVideo
+#StopStroking @CBTCock
+Now just watch and ache, #Name @PlayVideo(#Random(30,100)) @JumpVideo
+Frustrating isn't it? #Laugh @ResponseYes(Ark_Frustrated)
+That's probably the thing I enjoy most about teasing you
+Giving you something good and then snatching it away again
+@End
+(three)
+#StopStroking @StopStroking
+I don't think you're aching enough, #Name
+#Edge @Edge @MultipleEdges(5,7)
+#LetTheEdgeFade
+That's better...
+You <i>do</i>feel a lot better after a couple of edges, don't you?
+[yes] I thought so #Smile
+[no] Oh come on, that's not true and you know it
+@DifferentAnswer #YesOrNo
+And I <i>do</i> want to make you feel good
+So get to the edge for me again, #Name @Edge @MultipleEdges(3,5)
+#LetTheEdgeFade
+You must be feeling pretty good now... @ResponseYes(Feels Good)
+@End

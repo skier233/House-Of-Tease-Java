@@ -1,0 +1,33 @@
+@NullResponse @BadMood(go to interrupt)
+@NullResponse @RapidCodeOn @Chance50(no punishment)
+@NullResponse @Chance30(slap face)
+@BallTorture @NullResponse @Chance50(punch balls)
+@CockTorture @NullResponse @Chance50(smack cock)
+@NullResponse @Goto(kneeling)
+(slap face)
+@NullResponse @CheckFlag(pvNoFaceSlap,kneeling)
+#pvPLslapface @Timeout(8,keep stroking)
+[don't want to,not want to,don't make me,not make me] You're @RT(a total,such a) @RT(wuss,pussy,sissy) #Lol @Interrupt(pvIn_NotWantFaceSlap)
+@AcceptAnswer @NullResponse
+(keep stroking)
+#pvPLkeepstroking
+@End
+(punch balls)
+@NullResponse @CBTBalls
+#pvPLbacktostroking
+@End
+(smack cock)
+@NullResponse @CBTCock
+#pvPLbacktostroking
+@End
+(kneeling)
+@Flag(pvKneeling) You're on your knees already, otherwise I'd tell you to kneel right now @Goto(no punishment)
+#OnYourKnees @TempFlag(pvKneeling)
+#pvPLkeepstroking
+@End
+(no punishment)
+#pvPLnopunishment @MoodDown
+@End
+(go to interrupt)
+I've @RT(had it with you,had enough of this), #PetName @Interrupt(pvInt_Punishment)
+@End

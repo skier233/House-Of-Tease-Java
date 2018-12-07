@@ -1,0 +1,110 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link23_NotFirstTime)
+@NullResponse @SetVar[AV_Link23]=[0] 
+@NullResponse @SetFlag(AV_Link23_NotFirstTime)
+(AV_Link23_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link23]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link23]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link23]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link23]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link23]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link23]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link23]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link23]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link23]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link23]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link23]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link23]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link23]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link23]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link23]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link23]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link23]=[AV_Link23]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link23]=[AV_Link23]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link23]=[AV_Link23]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link23]=[AV_Link23]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link23]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Don't act all pissy, #SubName! 
+You get a thrill knowing that I'm going to show all my girlfriends what a little submissive you are, don't you? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+I bet you'd like for me and my friends to be told what to do, wouldn't you? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+It's okay, #Name
+You need to be comfortable with yourself. 
+You're safe with me 
+but that doesn't mean I'm not going to force you to admit that you enjoy being a submissive little slut 
+and it doesn't mean I'm not going to push your boundaries. 
+#StartStroking @StartStroking
+@End
+(Link2)
+Oh, believe me. @TempFlag(AVp003)
+I *AM* going to take control of you. 
+I am going to take absolute control of you every chance I get. @ResponseYes(AV_002)
+You will be mine to do with as I please.
+Now, get back to work. 
+I want to see some precum come out of you but don't you dare come until I've given you permission! @DeleteFlag(AVp003)
+#StartStroking @StartStroking
+@End
+(Link3)
+You will learn to respect women, learn to treat us as more than sex objects that roam the earth solely for your viewing pleasure! 
+And of course you will suffer a little humiliation in the process! 
+First and foremost: you must treat all women respectfully. 
+This shouldn't really have to be said, but I wanna be sure you don't forget!
+When talking to women, no matter their age, you will address them as "ma'am". No exceptions.
+Second, you can't lie to any woman, and you must answer every question that you are asked. 
+Who knows, where this might lead. #Lol
+Simple right?
+Its not rocket science honey! Even you can remember this right?!
+#StartStroking @StartStroking
+@End
+(Link4)
+I want you to be hard the entire time
+to feel the sweet torment of being on edge
+wanting me to allow you to cum.
+But that it's not what I had planned for now.
+#StartStroking @StartStroking
+@End

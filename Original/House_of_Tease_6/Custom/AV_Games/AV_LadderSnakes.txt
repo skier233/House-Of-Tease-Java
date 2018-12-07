@@ -1,0 +1,513 @@
+#StopStroking @StopStroking @CheckFlag(AV_SnakeSession)
+I feel like playing a game of Snakes and Ladders
+You up for it?
+[yes] Awesome #EmoteHappy
+[no] Oh well @Goto(No Thanks)
+@DifferentAnswer Yes or no #PetName?
+oh yeah if a TASK Space comes along, you must keep carrying on with this action as you play across the board. 
+If you roll a six you can stop the task at whatever point you are at. 
+if you don't, you must do the task given to you on the next roll while doing this one... @TempFlag(AV_SnakeSession)
+And now we can begin @SetVar[AV_LadSnake]=[0]
+(roll dice)
+@SystemMessage Rolling dice... @Goto(dice1,dice2,dice3,dice4,dice5,dice6) @RapidCodeOn
+(dice1)
+@NullResponse @ChangeVar[AV_LadSnake]=[AV_LadSnake]+[1]
+@SystemMessage Number 1  @Goto(move)
+(dice2)
+@NullResponse @ChangeVar[AV_LadSnake]=[AV_LadSnake]+[2]
+@SystemMessage Number 2 @Goto(move)
+(dice3)
+@NullResponse @ChangeVar[AV_LadSnake]=[AV_LadSnake]+[3]
+@SystemMessage Number 3 @Goto(move)
+(dice4)
+@NullResponse @ChangeVar[AV_LadSnake]=[AV_LadSnake]+[4]
+@SystemMessage Number 4 @Goto(move)
+(dice5)
+@NullResponse @ChangeVar[AV_LadSnake]=[AV_LadSnake]+[5]
+@SystemMessage Number 5 @Goto(move)
+(dice6)
+@NullResponse @ChangeVar[AV_LadSnake]=[AV_LadSnake]+[6]
+@SystemMessage Number 6 @Goto(move)
+(pausa)
+@NullResponse @Goto(pausa1,pausa2,pausa3,pausa4,pausa5)
+(pausa1)
+#_ThisMustBeTortureForYou @Goto(roll dice)
+(pausa2)
+#_ThisMustBeTorture_ST_2L @Goto(roll dice)
+(pausa3)
+#_TheThingsICanDoToYou @Goto(roll dice)
+(pausa4)
+#1_ST_Squirm @Goto(roll dice)
+(pausa5)
+#1_ST_TagState @Goto(roll dice)
+(Space 1)
+@SystemMessage SPACE 1
+#Stroke yourself 10 times 
+Let me know if you're done.
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 2) 
+@SystemMessage SPACE 2
+#Stroke for 20 seconds while rubbing your #Balls. @Wait(10)
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 3) 
+@SystemMessage SPACE 3
+punch those #Balls 3 times! @Wait(12)
+@NullResponse @Goto(pausa)
+(Space 4) 
+@SystemMessage SPACE 4
+stroke once every 2 seconds for 20 seconds.  @Wait(10)
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 5) 
+@SystemMessage SPACE 5
+#Stroke with both hands 15 times. 
+Let me know if you're done.
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 6) 
+@SystemMessage SPACE 6
+LADDER!! 
+#Stroke yourself 30 times in 10 seconds then proceed to Space 20.  @Wait(10)
+@NullResponse @SetVar[AV_LadSnake]=[20]
+Make sure you do the task on Space 20 aswell! @Goto(Space 20)
+(Space 7) 
+@SystemMessage SPACE 7
+#Stroke one time per second for 10 seconds. @Wait(12) 
+@NullResponse @Goto(pausa)
+(Space 8) 
+@SystemMessage SPACE 8
+stroke yourself 40 times however you like 
+Let me know if you're done.
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 9) 
+@SystemMessage SPACE 9
+TASK Space
+start lubing up your little man pussy for a minute and a half while you roll the dice again. 
+then push one finger in there and fuck yourself with that finger for a minute and a half. 
+every minute and a half you add a finger, until you can fit your dildo up your man pussy. 
+then fuck yourself with that.  @Goto(pausa)
+(Space 10) 
+@SystemMessage SPACE 10
+#Stroke 40 times in 30 seconds  @Wait(20)
+10 seconds left @Wait(10) 
+@NullResponse @Goto(pausa)
+(Space 11) 
+@SystemMessage SPACE 11
+#Stroke yourself as fast as you can for 5 seconds  @Wait(7) 
+@NullResponse @Goto(pausa)
+(Space 12) 
+@SystemMessage SPACE 12 @RapidCodeOn
+@NullResponse @CheckFlag(AV_Know_12)
+find a picture of a girl you know and jerk off however you like for 1 minute.  @Wait(75)
+10 seconds left @Wait(10) 
+@NullResponse @Goto(pausa)
+(AV_Know_12)
+#Stroke for #Var[AV_Persona13] however you like for 1 minute. @ShowImage[av_imagens\01\09.jpg] @Wait(22) 
+@NullResponse @ShowImage[av_imagens\01\01.jpg] @Wait(10)  
+@NullResponse @ShowImage[av_imagens\01\02.jpg] @Wait(10)  
+@NullResponse @ShowImage[av_imagens\01\06.jpg] @Wait(10)  
+10 seconds to go @ShowImage[av_imagens\01\10.jpg] @Wait(10) 
+@NullResponse @Goto(pausa)
+(Space 13)
+@SystemMessage SPACE 13
+punch your balls 6 times!!! 
+Let me know if you're done.
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 14) 
+@SystemMessage SPACE 14
+Stroke yourself 120 times in one minute to my gorgeous pussy. @Wait(50)
+10 seconds left @Wait(10) 
+@NullResponse @Goto(pausa)
+(Space 15) 
+@SystemMessage SPACE 15
+if you own a chastity device, Edge once for this picture. @ShowLikedImage @LockImages
+If you do not, punch yourself in the balls 5 times and don't touch your cock for the next two turns unless its CBT. 
+Tell me when you're done #PetName
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(pausa)
+(Space 16) 
+@SystemMessage SPACE 16
+start lubing up your slut hole and start fingering yourself until you can fit two fingers in. 
+then finger yourself with two fingers for one minute. 
+Do not touch your cock once like the good slut you are! @Wait(40) 
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 17) 
+@SystemMessage SPACE 17
+SNAKE!!!!
+return to Space 1. also palm the head of your cock for 30 seconds. @SetVar[AV_LadSnake]=[1]
+Thats right, nice hard circular motions on the head of that cock you slut! @Wait(20) 
+@NullResponse @Goto(Space 1)
+(Space 18) 
+@SystemMessage SPACE 18
+stroke your cock 60 times in 20 seconds. Dont cum! @Wait(10) 
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 19) 
+@SystemMessage SPACE 19
+LADDER!!!
+progress to Space 30 after edging once. @SetVar[AV_LadSnake]=[30]
+Tell me when you edged #PetName
+[done, yes, Yes Mistress, yeah, yea, sure, ready, edge, edged] #ICanKeepThisUp @Goto(Space 30)
+@DifferentAnswer Are you done #SubName?
+(Space 20) 
+@SystemMessage SPACE 20
+stroke yourself all the way to the edge and hold it! @EdgeHold
+@NullResponse @Goto(pausa)
+(Space 21) 
+@SystemMessage SPACE 21
+TASK Space
+tie your balls up nice and tight, keep them on until the end.
+smack your balls 5 times every time you roll until you roll a 6 
+Tell me when you're done #PetName
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 22) 
+@SystemMessage SPACE 22
+If you own a dildo, you have to lube up and stretch your man pussy until you can fuck your ass. 
+Then fuck your ass for 2 minutes, grab your balls as you do it. @Wait(55) 
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 23) 
+@SystemMessage SPACE 23 @RapidCodeOn
+@NullResponse @Goto(23a,23b)
+(23a)
+#Stroke to the edge and hold it. @EdgeHold
+@NullResponse @Goto(pausa)
+(23b)
+#PetName @CustomTask(AV_StrokePositions)
+@NullResponse @Goto(pausa)
+(Space 24) 
+@SystemMessage SPACE 24
+If you have any lube, lube up your #Cock nice and slippery. If not, rub all the pre-cum off your cock and wipe it into your legs.
+If you have lube, get to the edge.
+If you dont have lube, make your cock as dry as you can and then edge. 
+Thats your punishment for not having any. Make sure you rub your head hard as you do! 
+Tell me when you're done #PetName
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 25) 
+@SystemMessage SPACE 25
+#PetName @CustomTask(AV_StrokeNumber)
+@NullResponse @Goto(pausa)
+(Space 26) 
+@SystemMessage SPACE 26
+If you are leaking precum, scoop it up and eat it. 
+If you do not, edge until you do.
+Tell me when you're done #PetName
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 27) 
+@SystemMessage SPACE 27
+@NullResponse @Goto(27a,27b)
+(27a)
+stroke your cock with your opposite hand as fast as you can for 10 seconds, do not cum!!! @Wait(12)
+@NullResponse @Goto(pausa)
+(27b)
+#PetName @CustomTask(AV_StrokeNumber)
+@NullResponse @Goto(pausa)
+(Space 28) 
+@SystemMessage SPACE 28
+stroke that cock as fast as you can for 15 seconds, if you reach the edge stop and punch your balls 20 times. 
+if you do not edge, go to Space 35.
+Did you edged?
+[yes] #ICanKeepThisUp @Goto(pausa)
+[no] Good job @Goto(Space 35) 
+@DifferentAnswer Yes or no #SubName?
+(Space 29) 
+@SystemMessage SPACE 29
+jerk off only staring at my eyes for 1 minute.  @Wait(50)
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 30) 
+@SystemMessage SPACE 30
+#Stroke however you want to this photo. although for every 10 strokes you owe one slap to those balls of yours. @ShowLikedImage @LockImages
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(pausa)
+(Space 31) 
+@SystemMessage SPACE 31
+SNAKE!!!!
+@CBT
+@NullResponse @SetVar[AV_LadSnake]=[11]
+Now move back to Space 11 @Goto(Space 11)
+(Space 32) 
+@SystemMessage SPACE 32
+TASK Space!!!
+Whenever you are asked to stroke, you must hold your breath for the duration. 
+If you cannot hold your breath for the entire length, punch your balls ten times for each time you dont. 
+If you roll a six you can stop. @Goto(pausa)
+(Space 33) 
+@SystemMessage SPACE 33
+stroke with both your hands completely straight,
+do not curl your fingers and stroke 100 times however you like, just dont edge. 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 34) 
+@SystemMessage SPACE 34
+stroke 3 times per second for 15 seconds. 
+if you cant hold back, i guess you'll just have to ruin your orgasm for me. then carry on playing. @Wait(15)
+@NullResponse @Goto(pausa)
+(Space 35) 
+@SystemMessage SPACE 35
+@NullResponse @Goto(35a,35b)
+(35a)
+Stroke yourself once every 2 seconds for a minute. @Wait(40)
+10 seconds left @Wait(10)
+awww frustrating isn't it? hehe @Goto(pausa)
+(35b)
+@AddContact2
+@Contact2 Hi #SubName How are doing that game?
+@Contact2 Let me help with that.
+@Contact2 #PetName @CustomTask(AV_StrokeNumberGliter2)
+@NullResponse @RemoveContact2
+@NullResponse @Goto(pausa)
+(Space 36) 
+@SystemMessage SPACE 36
+if you own a cock ring, stick it on and wear it for the rest of the tease. 
+If not, bust your balls 20 times. 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 37) 
+@SystemMessage SPACE 37
+@NullResponse @Goto(37a,37b)
+(37a)
+jerk off witth your left hand for one minute. however you like just dont edge! @Wait(45)
+10 seconds left @Wait(10)
+(37b)
+@AddContact1
+@Contact1 Hi #SubName How are doing that game?
+@Contact1 Let me help with that.
+@Contact1 #PetName @CustomTask(AV_StrokeNumberGliter1)
+@NullResponse @RemoveContact1
+@NullResponse @Goto(pausa)
+@NullResponse @Goto(pausa)
+(Space 38) 
+@SystemMessage SPACE 38
+get into the position that the man is in and fuck your ass with a dildo for two minutes, one thrust per second. 
+if you dont own a dildo, finger your ass until you can fit 4 fingers in, then continue. 
+your fault for not having one! @Goto(pausa)
+(Space 39) 
+@SystemMessage SPACE 39
+if you own a fleshlight or any sort of fake pussy stroke with it at 1 stroke per second for two minutes. do not cum!! 
+if you dont own one, you have to edge 3 times with 10 second breaks in between! squeeze your balls after every edge slave!
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 40) 
+@SystemMessage SPACE 40
+grab a sock and put it over your hand, jerk off once per second for 30 seconds. frustrating eh? hehe. @Wait(25)
+@NullResponse @Goto(pausa)
+(Space 41) 
+@SystemMessage SPACE 41
+LADDER!!!
+Go to Space 60 after stroking 50 times for me. @SetVar[AV_LadSnake]=[60]
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(Space 60)
+@DifferentAnswer Are you done #SubName?
+(Space 42) 
+@SystemMessage SPACE 42
+bring yourself to the edge and hold it for 5 seconds. while you are holding it smack your balls 10 times slave. @EdgeHold
+@NullResponse @Goto(pausa)
+(Space 43) 
+@SystemMessage SPACE 43
+stroke once per second for a minute. @Wait(50)
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 44) 
+@SystemMessage SPACE 44
+SNAKE!!!!
+Go to Space 34 and smash those balls 30 times. make sure each punch is harder than the last! @SetVar[AV_LadSnake]=[34]
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(Space 34)
+@DifferentAnswer Are you done #SubName?
+(Space 45) 
+@SystemMessage SPACE 45
+go watch one of your favourite porn video and skip to the most intense 2 minutes of the video and watch it without touching your cock! @Goto(pausa)
+(Space 46) 
+@SystemMessage SPACE 46
+@NullResponse @Goto(46a,46b)
+(46a)
+stroke how you want to me for 30 seconds. I wouldn't stroke too fast though, dont wanna have an accident do we? @Wait(20)
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(46b)
+@AddContact3
+@Contact3 Hi #SubName How are doing that game?
+@Contact3 Let me help with that.
+@Contact3 #PetName @CustomTask(AV_StrokeNumberGliter3)
+@NullResponse @RemoveContact3
+@NullResponse @Goto(pausa)
+(Space 47) 
+@SystemMessage SPACE 47
+stroke 100 times at any pace 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 48) 
+@SystemMessage SPACE 48
+stroke just the head of your cock 20 times.
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp  @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 49) 
+@SystemMessage SPACE 49
+dont touch your cock and just admire my body for a minute. dont touch!!!  @Wait(45)
+10 seconds left @Wait(10)
+@NullResponse @Goto(pausa)
+(Space 50) 
+@SystemMessage SPACE 50
+TASK Space!!!
+get some string or shoelace and tie your balls with it, leave some slack at the tie the remainder around your little toe. 
+there shouldn't be enough slack to let your leg go full stretch. 
+then you have got to stand up on one leg with that toe attached to your balls. 
+You must continue like this balancing on one leg until you roll a 6.
+if you dont have a string you must punch those balls 50 times. make sure they hurt slave!! 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 51) 
+@SystemMessage SPACE 51
+take your age and times it by 3. That's how many strokes you have to do. 
+If you are below 20 you must edge 3 times because you're a fresh slut and because I said so.
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 52) 
+@SystemMessage SPACE 52
+if you have shaved/trimmed pubes, you can stroke 50 times. 
+If not smack those balls 20 times! you need to be more presentable slut! 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 53) 
+@SystemMessage SPACE 53
+stroke and finger your ass 100 times. 
+do this at any pace, just make sure its at the same time. 
+That's a good slave. 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 54) 
+@SystemMessage SPACE 54
+if you own a vibrator, get to the edge once with that vibrator! 
+If you do not, edge 5 times with 5 second breaks in between. 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 55) 
+@SystemMessage SPACE 55
+This time I give you the choice, you must either fuck your ass with your dildo for 2 minutes.
+ Or edge 10 times. If you don't own a dildo, well I think you've made the decision already xD 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 56) 
+@SystemMessage SPACE 56
+edge and hold it. ooo feel so close don't you??? @EdgeHold
+I know that you know it feels so nice to be this close. just don't have an accident hehe @Goto(pausa)
+(Space 57) 
+@SystemMessage SPACE 57
+I want you to reach the edge 3 times with 10 second breaks in between. 
+Everytime you reach the edge i want you to punch your balls 5 times as you cool down from each one slave. 
+[done, yes, Yes Mistress, yeah, yea, sure, ready] #ICanKeepThisUp @Goto(pausa)
+@DifferentAnswer Are you done #SubName?
+(Space 58) 
+@SystemMessage SPACE 58
+edge 3 times, 5 second breaks in between. :)
+[done, yes, Yes Mistress, yeah, yea, sure, ready] We are done #PetName
+@DifferentAnswer Are you done #SubName?
+@End
+(Space 59) 
+@SystemMessage SPACE 59
+edge 3 times, 5 second breaks in between. :)
+[done, yes, Yes Mistress, yeah, yea, sure, ready] We are done #PetName
+@DifferentAnswer Are you done #SubName?
+@End
+(Space 60) 
+@SystemMessage SPACE 60
+edge 3 times, 5 second breaks in between. :)
+[done, yes, Yes Mistress, yeah, yea, sure, ready] We are done #PetName
+@DifferentAnswer Are you done #SubName?
+@End
+(Space 61) 
+@SystemMessage SPACE 61
+edge 3 times, 5 second breaks in between. :)
+[done, yes, Yes Mistress, yeah, yea, sure, ready] We are done #PetName
+@DifferentAnswer Are you done #SubName?
+@End
+(Space 62) 
+@SystemMessage SPACE 62
+edge 3 times, 5 second breaks in between. :)
+[done, yes, Yes Mistress, yeah, yea, sure, ready] We are done #PetName
+@DifferentAnswer Are you done #SubName?
+@End
+(move)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_LadSnake]=[1]Then(Space 1)
+@NullResponse @If[AV_LadSnake]=[2]Then(Space 2)
+@NullResponse @If[AV_LadSnake]=[3]Then(Space 3)
+@NullResponse @If[AV_LadSnake]=[4]Then(Space 4)
+@NullResponse @If[AV_LadSnake]=[5]Then(Space 5)
+@NullResponse @If[AV_LadSnake]=[6]Then(Space 6)
+@NullResponse @If[AV_LadSnake]=[7]Then(Space 7)
+@NullResponse @If[AV_LadSnake]=[8]Then(Space 8)
+@NullResponse @If[AV_LadSnake]=[9]Then(Space 9)
+@NullResponse @If[AV_LadSnake]=[10]Then(Space 10)
+@NullResponse @If[AV_LadSnake]=[11]Then(Space 11)
+@NullResponse @If[AV_LadSnake]=[12]Then(Space 12)
+@NullResponse @If[AV_LadSnake]=[13]Then(Space 13)
+@NullResponse @If[AV_LadSnake]=[14]Then(Space 14)
+@NullResponse @If[AV_LadSnake]=[15]Then(Space 15)
+@NullResponse @If[AV_LadSnake]=[16]Then(Space 16)
+@NullResponse @If[AV_LadSnake]=[17]Then(Space 17)
+@NullResponse @If[AV_LadSnake]=[18]Then(Space 18)
+@NullResponse @If[AV_LadSnake]=[19]Then(Space 19)
+@NullResponse @If[AV_LadSnake]=[20]Then(Space 20)
+@NullResponse @If[AV_LadSnake]=[21]Then(Space 21)
+@NullResponse @If[AV_LadSnake]=[22]Then(Space 22)
+@NullResponse @If[AV_LadSnake]=[23]Then(Space 23)
+@NullResponse @If[AV_LadSnake]=[24]Then(Space 24)
+@NullResponse @If[AV_LadSnake]=[25]Then(Space 25)
+@NullResponse @If[AV_LadSnake]=[26]Then(Space 26)
+@NullResponse @If[AV_LadSnake]=[27]Then(Space 27)
+@NullResponse @If[AV_LadSnake]=[28]Then(Space 28)
+@NullResponse @If[AV_LadSnake]=[29]Then(Space 29)
+@NullResponse @If[AV_LadSnake]=[30]Then(Space 30)
+@NullResponse @If[AV_LadSnake]=[31]Then(Space 31)
+@NullResponse @If[AV_LadSnake]=[32]Then(Space 32)
+@NullResponse @If[AV_LadSnake]=[33]Then(Space 33)
+@NullResponse @If[AV_LadSnake]=[34]Then(Space 34)
+@NullResponse @If[AV_LadSnake]=[35]Then(Space 35)
+@NullResponse @If[AV_LadSnake]=[36]Then(Space 36)
+@NullResponse @If[AV_LadSnake]=[37]Then(Space 37)
+@NullResponse @If[AV_LadSnake]=[38]Then(Space 38)
+@NullResponse @If[AV_LadSnake]=[39]Then(Space 39)
+@NullResponse @If[AV_LadSnake]=[40]Then(Space 40)
+@NullResponse @If[AV_LadSnake]=[41]Then(Space 41)
+@NullResponse @If[AV_LadSnake]=[42]Then(Space 42)
+@NullResponse @If[AV_LadSnake]=[43]Then(Space 43)
+@NullResponse @If[AV_LadSnake]=[44]Then(Space 44)
+@NullResponse @If[AV_LadSnake]=[45]Then(Space 45)
+@NullResponse @If[AV_LadSnake]=[46]Then(Space 46)
+@NullResponse @If[AV_LadSnake]=[47]Then(Space 47)
+@NullResponse @If[AV_LadSnake]=[48]Then(Space 48)
+@NullResponse @If[AV_LadSnake]=[49]Then(Space 49)
+@NullResponse @If[AV_LadSnake]=[50]Then(Space 50)
+@NullResponse @If[AV_LadSnake]=[51]Then(Space 51)
+@NullResponse @If[AV_LadSnake]=[52]Then(Space 52)
+@NullResponse @If[AV_LadSnake]=[53]Then(Space 53)
+@NullResponse @If[AV_LadSnake]=[54]Then(Space 54)
+@NullResponse @If[AV_LadSnake]=[55]Then(Space 55)
+@NullResponse @If[AV_LadSnake]=[56]Then(Space 56)
+@NullResponse @If[AV_LadSnake]=[57]Then(Space 57)
+@NullResponse @If[AV_LadSnake]=[58]Then(Space 58)
+@NullResponse @If[AV_LadSnake]=[59]Then(Space 59)
+@NullResponse @If[AV_LadSnake]=[60]Then(Space 60)
+@NullResponse @If[AV_LadSnake]=[61]Then(Space 61)
+@NullResponse @If[AV_LadSnake]=[62]Then(Space 62)
+@End
+(No Thanks)
+Maybe you'll feel a little more adventurous next time #Grin
+@End
+(AV_SnakeSession)
+I bet the last Snakes and Ladders game aren't doing you any favors 
+But honestly
+If it didn't make your #Cock ache like crazy
+It wouldn't be of any interest to me in the first place #Grin
+@End
+@Info Inspirated by eilrahc231 and statingjake webteases

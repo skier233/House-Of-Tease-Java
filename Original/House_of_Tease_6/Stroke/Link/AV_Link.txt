@@ -1,0 +1,225 @@
+@NullResponse @RapidCodeOn
+@NullResponse @AFKOff
+@NullResponse @UnlockImages
+@NullResponse @SlideshowOff
+@NullResponse @DeleteVar[AV_AskedSlow]
+@NullResponse @DeleteFlag(av_intera_001, av_intera_002, av_intera_003, av_intera_004, av_intera_005, av_intera_006, av_intera_007, av_intera_008, av_intera_009)
+@NullResponse @DeleteFlag(av_intera_010, av_intera_011, av_intera_012, av_intera_013, av_intera_014, av_intera_015, av_intera_016, av_intera_017, av_intera_018, av_intera_019)
+@NullResponse @DeleteFlag(av_MAT5a04, av_MAT5a03, av_MAT5a02, av_MAT5a01, av_MG6a03, av_MG6a02, av_MG6a01, av_GlitterPin, StopAllowed, AV_AskedEdge)
+@NullResponse @ChangeVar[AV_QteModulos]=[AV_QteModulos]+[1]
+@Flag(av_CamDone) @NullResponse @Goto(SkipCam)
+@NullResponse @Chance85(SkipCam)
+@Flag(av_CamAlternate) @NullResponse @Goto(ResetCam)
+@NullResponse @SetModule(WebCam)
+@NullResponse @Goto(SkipCam)
+(ResetCam)
+@NullResponse @DeleteFlag(av_CamAlternate)
+@NullResponse @TempFlag(av_CamDone)
+(SkipCam)
+@NullResponse @If[AV_LikedClothes]<=[0]Then(AV_ChClothes)
+@NullResponse @If[AV_LikedClothes]>[0]Then(AV_KeepClothes)
+(AV_ChClothes)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance40(NoClothes)
+#AV_ChangeClothes
+#Brb @ShowImage[System\Black.jpg] @NewDommeSlideshow
+@NullResponse @RapidCodeOn
+@NullResponse @Goto(NoClothes)
+(AV_KeepClothes)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_LikedClothes]=[AV_LikedClothes]-[1]
+(NoClothes)
+@NullResponse @RapidCodeOn 
+@Flag(AV_RuinHorny) @NullResponse @Goto(AV_RuinHorny)
+@NullResponse @Goto(NoRuin)
+(AV_RuinHorny)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_RuinHorny]=[0]Then(Part1_1)
+@NullResponse @If[AV_RuinHorny]=[1]Then(Part1_2)
+@NullResponse @If[AV_RuinHorny]=[10]Then(Part1_3)
+@NullResponse @If[AV_RuinHorny]=[100]Then(Part1_4)
+@NullResponse @If[AV_RuinHorny]=[11]Then(Part1_6)
+@NullResponse @If[AV_RuinHorny]=[101]Then(Part1_7)
+@NullResponse @If[AV_RuinHorny]=[111]Then(Part1_12)
+@NullResponse @If[AV_RuinHorny]=[110]Then(Part1_9)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_6)
+@NullResponse @Goto(Mod3)
+(Part1_7)
+@NullResponse @Goto(Mod2)
+(Part1_9)
+@NullResponse @Goto(Mod1)
+(Part1_12)
+@NullResponse @Goto(NoRuin)
+(Mod1)
+@NullResponse @SetModule(AV_RuinHorny1)
+@NullResponse @Goto(NoRuin)
+(Mod2)
+@NullResponse @SetModule(AV_RuinHorny2)
+@NullResponse @Goto(NoRuin)
+(Mod3)
+@NullResponse @SetModule(AV_RuinHorny3)
+@NullResponse @Goto(NoRuin)
+(NoRuin)
+@NullResponse @RapidCodeOn 
+@NullResponse @Chance50(continue4)
+@Flag(AV_DecOrg) @NullResponse @Goto(SMood2)
+@NullResponse @SetFlag(AV_DecOrg)
+@BadMood @NullResponse @DecreaseOrgasmChance
+(SMood2)
+@NullResponse @RapidCodeOn 
+@Flag(AV_IncRuin) @NullResponse @Goto(SMood3)
+@NullResponse @SetFlag(AV_IncRuin)
+@BadMood @NullResponse @IncreaseRuinChance
+(SMood3)
+@NullResponse @RapidCodeOn 
+@Flag(AV_IncOrg) @NullResponse @Goto(SMood4) 
+@NullResponse @SetFlag(AV_IncOrg)
+@GoodMood @NullResponse @IncreaseOrgasmChance
+(SMood4)
+@NullResponse @RapidCodeOn 
+@Flag(AV_DecRuin) @NullResponse @Goto(continue4)
+@NullResponse @SetFlag(AV_DecRuin)
+@GoodMood @NullResponse @DecreaseRuinChance 
+(continue4)
+@Flag(AV_SubKnees) #SitDown @DeleteFlag(AV_SubKnees) @Wait(20)
+@Flag(AV_Pins) You can remove all clothespins @DeleteFlag(AV_Pins) @Wait(20)
+@Flag(av_GagOn) #BallGagOff @DeleteFlag(av_GagOn) @Wait(20)
+@Flag(AV_BallTied) You @RT(can, may) @RT(untie your #Balls, remove the shoelace from your #Balls) @RT(now, #PetName, #SubName) @Wait(10)
+@Flag(AV_BallTied) @NullResponse @DeleteFlag(AV_BallTied) @Goto(continue5)
+@Flag(AV_DommeMistress) @NullResponse @Chance10(TieBall)
+@NotFlag(AV_DommeMistress) @NullResponse @Chance07(TieBall)
+@NullResponse @Goto(continue45)
+(TieBall)
+#TieYourBalls @TempFlag(AV_BallTied)
+(continue45)
+@NullResponse @RapidCodeOn
+@NotFlag(AV_MantPositions) @NullResponse @Goto(continue5)
+@NullResponse @Chance90(continue5)	
+@Flag(AV_PositionSecDone) @NullResponse @CallReturn(Custom\CallReturn\AV_GoToPosit.txt) 
+@NullResponse @Goto(continue6)
+(continue5)
+@NullResponse @Chance99(continue6)	
+@NotFlag(AV_DisconectOnce) @NullResponse @CallReturn(Custom\CallReturn\AV_Disconnect.txt)
+@NullResponse 
+(continue6)
+@NullResponse @RapidCodeOn
+@Flag(AV_GlitterJoinOnce) @NullResponse @Goto(continue7)
+@NullResponse @Chance95(continue7)
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_GlitterBored.txt)
+@NullResponse
+(continue7)
+@NullResponse @RapidCodeOn
+@Variable[#DateDifference(AV_SessionTime,seconds)]>[3600] @NullResponse @Goto(AV_DommeMistress)
+@NullResponse @CheckFlag(AV_DommeMistress)
+@NullResponse @Chance92(AV_DommeMistress)
+@NullResponse @Chance50(AV_Opcao2)
+What I want @RT(now, today) is a slave, a toy that I can @RT(use, play with), someone who will do ANYTHING I @RT(tell, demand)
+I guess I have a sadistic streak after all. @Goto(Pergunta)
+(AV_Opcao2)
+I think deep down you were hoping I would see your devotion and desire
+But I already had other plans. I want a slave.
+Someone who I could @RT(control, use for my pleasure, abuse) and they'd still come crawling back, desperate to worship me. 
+(Pergunta)
+You need to make a decision do you want to commit to being my slave today?
+[yes] Ok, I am glad you have agreed @CallReturn(Custom\AV_Scripts\AV_Mistress.txt, youslave)
+[no] You don't? @Goto(AV_DommeMistress)
+@DifferentAnswer Yes or no #SubName?  
+@NullResponse 
+(AV_DommeMistress)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance95(AV_NoPosi)
+@NotFlag(AV_PositionSecDone) @NullResponse @CallReturn(Custom\CallReturn\AV_Positions.txt)
+@NullResponse
+@NullResponse @Goto(FinalLink)
+(AV_NoPosi)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_QteModulos]>[5]Then(Trivia)
+@NullResponse @Goto(NoTrivia)
+(Trivia)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance90(NoTrivia)
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Trivia.txt)
+@NullResponse 
+(NoTrivia)
+@NullResponse @RapidCodeOn
+@Flag(av_doanalnight) @NullResponse @Goto(DoAnal)
+@NotFlag(AV_LikeAnal) @NullResponse @Goto(Continue9)
+@Flag(av_NoAskAnal) @NullResponse @Goto(Continue9)
+@Variable[#DateDifference(AV_SessionTime,seconds)]>[3600] @NullResponse @Goto(Continue9)
+@Flag(AV_DommeMistress) @NullResponse @Chance20(AskAnal)
+@NotFlag(AV_DommeMistress) @NullResponse @Chance10(AskAnal)
+@NullResponse @Goto(Continue9)
+(AskAnal)
+@NullResponse @RapidCodeOn
+@NullResponse @CallReturn(Custom\AV_Scripts\AskAnalNight.txt)
+@NullResponse @Goto(Continue9)
+(DoAnal)
+@NullResponse @RapidCodeOn
+@Flag(AV_DommeMistress) @NullResponse @Chance35(CallAnal)
+@NotFlag(AV_DommeMistress) @NullResponse @Chance25(CallAnal)
+@NullResponse @Goto(Continue9)
+(CallAnal)
+@NullResponse @RapidCodeOn
+@NullResponse @CallReturn(Custom\AV_Scripts\DoAnalNight.txt)
+#RelaxAndBreathe #PetName @Wait(30)
+#StartStroking @StartStroking
+@End
+(Continue9)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance85(FinalLink)
+@NullResponse @Chance50(EdgeAV)
+@Flag(AV_BreakOne) @NullResponse @Goto(FinalLink)
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause) @TempFlag(AV_BreakOne)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some @RT(porn videos, videos, nice videos) on your @RT(PC, computer)
+Have fun @PlayVideo
+#CensorContinue
+@NullResponse @Goto(FinalLink)
+(EdgeAV)
+#StartStroking @Slideshow(Softcore, slow)
+@NullResponse  @SlideshowOn 
+@NullResponse  @Wait( #Random(15, 20))
+#Edge @EdgeMode(Goto, EdgeForGoto)
+(Loop)
+#GetClose
+@NullResponse 
+@NullResponse 
+@NullResponse  @Goto(Loop)
+(EdgeForGoto)
+@NullResponse @RapidCodeOn 
+@NullResponse @SlideshowOff 
+@NullResponse @Goto(V10, V15, V60)
+(V10)
+stay on the edge @PlayVideo[AV_Clips/webm/10/*.webm]
+#StopStroking @Goto(FimEdge)
+(V15)
+stay on the edge @PlayVideo[AV_Clips/webm/15/*.webm]
+#StopStroking @Goto(FimEdge)
+(V60)
+stay on the edge @PlayVideo[AV_Clips/webm/60/*.webm]
+#StopStroking @Goto(FimEdge)
+(FimEdge)
+@NullResponse @EdgeMode(Normal)
+(FinalLink)
+@NullResponse @RapidCodeOff
+@Variable[#DateDifference(AV_GlitterJoin,seconds)]>[1200] @CallReturn(Custom\AV_Scripts\AV_GlitterBye.txt)
+@NullResponse
+@NullResponse @CallRandom(Custom\RamdomLinks) 
+@NullResponse
+#RelaxAndBreathe #PetName @Wait(30)
+#StartStroking @StartStroking
+@End
+@Info Control file to run
+@Info some variables and
+@Info check for conditions
+@Info Some lines at the end
+@Info to prevent errors
+@Info by avatarbr

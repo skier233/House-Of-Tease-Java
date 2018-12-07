@@ -1,0 +1,53 @@
+#pvEdgeAllowed @Edge
+#LetTheEdgeFade @Chance50(lines)
+@End
+(lines)
+@NullResponse @Goto(one,two,three,four,five)
+(one)
+What if I don't let you cum at all anymore for a very long time
+But still make you edge every day over and over again
+I wonder if your body would simply forget how to climax
+And then you'd be unable to cum even if I told you to cum...
+That would be my ultimate goal, #PetName
+Permanent Orgasm Denial
+I suppose that will always remain a dream #Smile
+@End
+(two)
+In a way, and edge is always a disappointment, isn't it?
+Even if you know it's only an edge and you're not going to get to cum
+I bet there's always a little glimmer of hope in your mind
+Like a tiny little voice telling you: Maybe this time she'll let me cum
+And then I tell you to stop again and get away from the edge...
+That the way I am, always crushing your hopes in so many little ways... #Grin
+@End
+(three)
+I shouldn't be so kind as to let you edge when you want to... being way too lenient
+The problem with edging, #SubName...
+Is that although it does make you ache like crazy... 
+It also always leads to you taking you hand off your #Cock
+Sometimes I think I shouldn't even let you edge at all anymore
+Just endless stroking: no edges, no orgasm
+But... that would be too cruel, even for me #EmoteWink
+@End
+(four)
+You're so desperate for release now, aren't you?
+Maybe I should just let you cum, like right now...
+Would you like to cum right now?
+[yes] Mmmm yes I thought you might say that...
+[no] I suppose we can draw this out a little longer @Goto(not another edge)
+@DifferentAnswer #YesOrNo
+But remember, you can only cum if you have my permission
+And I'm going to let you cum now, but you'll have to do a few edges first...
+#Edge @EdgeHold @MultipleEdges(3,7,100)
+#LetTheEdgeFade
+#SubName...
+I lied, I'm not going to let you cum right now #Smile
+But you didn't actually think I would, right?
+@End
+(not another edge)
+I hope you're not going to regret your decision, #PetName #Grin
+@End
+(five)
+So close to cumming now... I bet I could push you over the edge in seconds now
+But I'm not done with you yet, #PetName
+@End

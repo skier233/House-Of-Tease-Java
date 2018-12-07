@@ -1,0 +1,400 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGlitter4_NotFirstTime)
+@NullResponse @SetVar[AV_ModGlitter4]=[0] 
+@NullResponse @SetFlag(AV_ModGlitter4_NotFirstTime)
+(AV_ModGlitter4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGlitter4]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGlitter4]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGlitter4]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGlitter4]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGlitter4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGlitter4]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGlitter4]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGlitter4]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGlitter4]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGlitter4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGlitter4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGlitter4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGlitter4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGlitter4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGlitter4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGlitter4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGlitter4]=[AV_ModGlitter4]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGlitter4]=[AV_ModGlitter4]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGlitter4]=[AV_ModGlitter4]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGlitter4]=[AV_ModGlitter4]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGlitter4]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+I am going to make it a surprise party 
+@Flag(AV_Pins) Remove all the clothespins @Wait(10)
+@NotFlag(AV_PinDone) Go fetch a ruler and some clothespins. At least 10 of them. @Wait(20)
+Put 2 clothespins on your nipples @Wait(10) @DeleteFlag(AV_Pins)
+I want this #GeneralTime to be one you never forget...
+and for all the right reasons.
+Maybe @AddContact1
+Ready to play with my friends again? @AddContact2 
+#Emote  @AddContact3 
+@Contact1 Hello! Wow what a nice toy we got here!
+@Contact3 Hi there #PetName! Do you like some pain too?
+Looks like we got company baby, show them how you play!
+@Contact2 He looks so cute, I wonder what his pain face look like...
+@Contact3 We should try that, Im interested too...
+@Contact1 Come on girls, give him time to get horny !
+@Contact1 #StartStroking
+@Contact2 Judging by his cock he is already...
+@Contact3 or do you by horny mean more frustrated?
+@Contact2 I think that he should be close to edge now.
+@Contact3 Agree, get on the edge and tell us when you do! @EdgeNoHold
+@Contact1 That is so cute, look at his cock !
+@Contact2 Oh my, it looks like your dick wants to cum without your hands!
+And our permission! Hold that inside your balls #PetName!
+@Contact1 He is doing fine
+Back to stroking #SubName @PlayAudio[tease\cStroke.mp3] 
+@Contact3 And do you think he deserves some pleasure?
+@Contact2 How long has he had those clothepins on anyway?
+I have no idea, haha !
+@Contact3 Do you want to take them off #Slave?  @Timeout(5, AV_Timeo302)
+[yes] @Contact2 I think he likes them on his nipples...
+[no] You don't? 
+@AcceptAnswer #YesorNo
+(AV_Timeo302)
+Im pretty sure he doesnt, but I dont care!
+@Contact1 I just think we should give him a chance
+@Contact1 to ease some pain...
+Ok lets see how horny is he...
+Lets play a game #PetName, you will love it!
+I will start a timer and say smack or #Stroke.
+Smack means you will smack your #Balls till next round
+#Stroke means you will stroke fast, if you hit edge, ride it.
+Or you know what? I will let all to decide.. 
+who writes first, you must do it!
+@Contact1 Omg this will not end up well!
+@NullResponse @SetVar[AV_SmackStroke]=[#Random(5, 10)] 
+(SSGame)
+@RandomText(Ready?, Set) @FollowUp(Go!) @RapidCodeOn
+@NullResponse @Goto(GL1, GL2, GL3)
+(GL1)
+@Contact1 #Stroke
+@NullResponse @Goto(Ro2)
+(GL2)
+@Contact2 @RandomText(#Stroke, Smack)
+@NullResponse @Goto(Ro2)
+(GL3)
+@Contact3 @RandomText(Spank, Smack)
+@NullResponse @Goto(Ro2)
+(Ro2)
+@NullResponse @ChangeVar[AV_SmackStroke]=[AV_SmackStroke]-[1]
+@NullResponse @If[AV_SmackStroke]=[0]Then(SSGameFim)
+@NullResponse @Goto(SSGame)
+(SSGameFim)
+@Contact1 Poor boy, he cant stand more pain..
+He can stand much more, trust me!
+@Contact2 Dont worry, I just want you to stroke.. 
+@Contact2 so stroke to the edge! @Edge
+take off clothepins from your nipples... 
+@Contact3 Hey #DomName, we need to discuss some ideas
+@Contact1 Yeah, keep #SubName busy @RemoveContact3
+Sure #Lol @RemoveContact1
+@Contact2 We will be back soon 
+@NullResponse @RemoveContact2
+Don't worry #SubName, they will be back #EmoteLaugh @BookmarkModule
+@End
+@Stroking #StopStroking @StopStroking
+@NullResponse @AddContact1
+Ready to play with my friends again? @AddContact2 
+@NullResponse @AddContact3 
+@Contact2 We are back!!
+@Contact3 How long you want to tease him for haha!		
+@Contact1 Look at him, he would do anything for orgasm!
+@Contact3 You should show him more for that pain he just suffered!
+Ok, put #Random(4, 5) clothepins on your #Balls @Wait(20)
+@Contact3 Haha you are pain slut #SubName!
+@Contact3 Here is your reward
+@Contact3 #Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@Contact2 I think we should let him rest...
+@Contact3 With those clothepins on it will not be very pleasurable rest #Lol
+@Contact2 I mean from stroking, he doesnt need rest from pain
+@Contact3 Hey pain slave! You want to take off those clothepins?
+That is a stupid question #Contact3 haha...
+@Contact1 Now edge and hold it #SubName ! @EdgeHold
+Thats what you like right? Holding on the edge!
+@Contact1 Right on the point of no return...
+@Contact2 But you know you cant cum
+You can't live without girls humiliating you
+@Contact3 #Stroke to the beat #Slave! @PlayAudio[tease\b075.mp3] 
+@Contact2 Look in his eyes, he is not here anymore #Lol
+@Contact1 Come on #SubName! You can do this, dont cum! @PlayAudio[tease\b110.mp3] 
+That is rough.. are you still with us #PetName?
+@Contact2 I have never seen so much pain and denial..
+@Contact1 Do you think we should give him break?
+No... he is doing fine haha
+Remove the clothespins @Wait(15)
+@Contact3 NO breaks! Lets be cruel! @PlayAudio[tease\b120.mp3] 
+@Contact2 Do you like being toy of lots of girls #Slave?
+What we make him do next? Pain, teasing or both?
+@Contact1 #Lol, I vote for both, some nice predicament...
+@Contact3 But first edge again! @EdgeNoHold
+@Contact1 Oh that will be painfull...
+Are you sitting comfy #PetName? #Lol!
+@Contact3 Put clothepins on you nipples, 1 on each @Wait(15)
+@Contact2 And #Random(2, 4) on your #Balls  @Wait(25)
+and now he is all yours, #Stroke for the girls #Slave! @PlayAudio[tease\cStroke.mp3]
+@Contact1 Give us a great show #SubName!
+@Contact2 Yes! We want to see action, stroke that cock pain #Slave!
+@Contact3 But remember, no cumming....
+Go easy on yourself, this will be long...
+@Contact2 Its nothing, we are far from letting him cum #Lol!
+@Contact1 How long do you plan to hold him in denial?
+Who knows? #Lol
+@Contact2 EDGE for us honey! I bet you were on edge already haha! @Edge
+@Contact1 This is mean, you cant let him stroke right after edging...
+@Contact3 Oh we can, wanna see? #Stroke to the beat  @PlayAudio[tease\b055.mp3] 
+@Contact1 He can't stand it, he will cum for sure...		
+He can't cum, he likes to be our #Slave too much...
+@Contact2 Yeah, he will hold that, look how much pain and frustration he's in @PlayAudio[tease\b055.mp3] 
+@Contact3 he's made it this far, this will not break him		
+@Contact1 You are right, he looks fine so far...
+@Contact1 Oh god I want him as a personal fuck toy... @PlayAudio[tease\b055.mp3] 
+@Contact1 He can last so long..
+#StopStroking 
+enough of fun...
+Take off clothepins slave, leave just those on nipples!
+@Contact2 Time for some pain!
+@Contact3 Stand up and spank your #Balls 10 times!	@Wait(15)
+Oh god watchin you hurting yourself is fucking hot...
+@Contact2 What about his ass? Spank it 15 times! @Wait(15)
+And dont go easy on yourself
+@Contact1 Fuck this is something, imagine the pain he is in!
+@Contact3 Oh god Im cumming just from watching you...
+@Contact3 again, 20 times now! @Wait(15)
+This is amazing...
+@Contact2 Fuck me, this feels so good....
+@Contact3 Take those fucking clothepins off and spank both nipples..
+spank them hard, 20 times, gogo! @Wait(15)
+@Contact1 This girl is fucking crazy, haha!
+Honey are your nipples ok? Massage them...
+@Contact3 Don't be so nice to him, come on!		
+Let's distract him from the pain a little bit, what do you say?
+@Contact1 Edge for us @Edge
+@Contact3 No, I can't allow this much pleasure!
+@Contact3 Slap those balls 10 times! @Wait(15)
+This is crazy, everyone wants something different...		
+@Contact2 I want to see edges, come on! @Edge
+Haha I love this!		
+@Contact3 20 hits on your both balls, you will love it!
+@Contact1 You're going to turn him into a pain slut!		
+They are so mean to you #PetName!
+Edge for me, I will be nice to you... @Edge	
+@Contact1 Oh honey, I will be super nice to you too..
+@Contact1 hold that edge for me, haha! @EdgeHold
+@Contact2 Is she nice enough?
+@Contact3 I need to leave for a few minutes
+@Contact3 Can we take another break?
+Sure, I will keep #SubName horny
+@Contact1 #Lol
+@NullResponse @RemoveContact3
+I hope you're excited to find out what we'll be doing in the next part. @RemoveContact1
+@NullResponse @RemoveContact2
+Because this is not finished yet #EmoteSquirm @BookmarkModule
+@End
+@Stroking #StopStroking @StopStroking
+@NullResponse @AddContact1
+@NullResponse @AddContact2 
+@NullResponse @AddContact3 
+@Contact1 How you doing honey? Are you still with us?
+@Contact3 I think he need some intense pain to wake up!
+I agree, any ideas?
+@Contact2 Do you like your nipples in pain? I hope you do...
+@Contact2 because I do.. so double clothepins right on them... @Wait(20)
+@Contact3 Oh and one edge for me when you are done... @Edge	
+Now I want to spank your ass...
+20 hits, on each cheek should be enough...
+@Contact1 Its red already! Bet its sore too...
+@Contact1 ofcourse, edge to show me you like my body! @Edge	
+@Contact3 Im wet from all the pain you suffer for me #Slave!
+@Contact3 Spank your ass once more, 20 hits on both again... @Wait(20)
+@Contact2 This is so hot!
+@Contact2 And edge for me! Dont go over sweety... @EdgeNoHold
+Oh god this feels so fucking good, hurt yourself more!
+Squeeze those fucking nipples, hard!
+@Contact3 He cant even feel that anymore...
+@Contact3 Oh.. edge for me.. and squeeze them again! @Edge
+This should certainly give you enough incentive to be more obedient.
+@Contact2 I am so wet and worked up I am going to grab my vibrator and have some  "me" time now.
+@Contact1 Can it be a group "me" time?
+@Contact3 I am in.
+Cya girls
+@NullResponse @RemoveContact1
+@NullResponse @RemoveContact2
+@NullResponse @RemoveContact3
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+Since you seems so turned up today, I've choose to call #Contact2 back.
+Get your #Cock ready #EmoteHappy 
+I will be  back in a few minutes @AddContact2
+@Contact2 Hi #SubName
+@Contact2 #DomName asked me to take care of you
+@Contact2 see how you were doing...
+@Contact2 and if needed give you some discipline.
+@Contact2 #StartStroking
+@Contact2 If I give you an order
+@Contact2 you will obey immediately, without hesitation.
+@Contact2 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @NullResponse @CustomTask(AV_CBT_Gliter2)
+@Contact2 Yeah! I really love making horny little men like you my bitches!
+@Contact2 #StartStroking
+@Contact2 Moan like the true #Slave that you are
+@Contact2 I just love the way how you horny slaves surrender to me
+@Contact2 This really isn't working very well is it... 
+@Contact2 I guess I will just need to be a little more harsh 
+@Contact2 and a little more specific with what I expect.
+@Contact2 #StopStroking @DeleteFlag(AV_Pins)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(going)
+@Flag(AV_Pins) @Contact2 Remove all the clothespins @Wait(10)
+@NotFlag(AV_PinDone) @Contact2 Go fetch a ruler and some clothespins. At least 10 of them. @Wait(20)
+@Contact2 Get your ruler and
+@Contact2 Give me #Random(5, 10) balls smacks @Wait(10)
+@Contact2 A #Slave that doesn't comply, gets smacked!
+@Contact2 Give me #Random(5, 10) balls smacks @Wait(10)
+@Contact2 2 clothespins on your nipples @Wait(10)
+@Contact2 #Random(3, 6) clothespins on your #Balls @Wait(20)
+@NullResponse @Goto(pe, jo, going)
+(pe)
+@Contact2 I think you're going to need to stand up #SubName @Goto(going)
+(jo)
+@Contact2 I think you're going to #KneelForMe #SubName
+(going)
+@Contact2 #StartStroking
+@Contact2 Let's see how many edges you will give me 
+@Contact2 Keep going
+@Contact2 Time to put some tension in those cock and balls.
+@Contact2 #Edge @EdgeNoHold @MultipleEdges(4, 10, 100)
+@Contact2 I am curious when you first realised that your #Cock
+@Contact2 wasn't really yours anymore...
+@Contact2 Lucky for you I am here to help you.
+@Contact2 I understand how frustrated you must be.
+@Contact2 Now sit comfortably in your chair...
+@Contact2 and watch this video while you #Stroke  @PlayVideo
+@Contact2 Did you edged watching the video?
+[yes] @Contact2 Good boy @Goto(skipPunish)
+[no] @Contact2 Bad Boy
+@DifferentAnswer @Contact2 #YesorNo #SubName?
+@Contact2 Punishment seems the reasonable answer to this kind of behavior!
+@Flag(av_fetish_pain) @Contact2 Give me #Random(10, 30) cock smacks @Wait(20)
+(skipPunish)
+@Contact2 You can remove everything #SubName
+@Contact2 I will call your #Owner back
+@Contact2 Cya @RemoveContact2
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+Hey #SubName
+#Contact1 wants to ask you for a favor
+I think you will find it interesting @AddContact1
+I will leave you 2 alone for a few minutes #EmoteLaugh
+@Contact1 Hi #SubName
+@Contact1 So, here is the deal...
+@Contact1 I played some Risky Pick with #DomName last night
+@Contact1 And, err, I got screwed #Lol
+@Contact1 But she is a good friend and...
+@Contact1 let me transfer my debt to you @SetVar[AV_GlitEdges]=[#RandomRound5(10, 30)] 
+@Contact1 Isn't #Great? #Smile
+@Contact1 My debt is #Var[AV_GlitEdges] edges
+@Contact1 So, I think we should start...
+(Edged By Glitter)
+@Contact1 #Edge @EdgeNoHold @ChangeVar[AV_GlitEdges]=[AV_GlitEdges]-[1]
+@NullResponse @If[AV_GlitEdges]=[0]Then(Edges Finished)
+@Contact1 #GNMCheerEdgeATon
+@NullResponse @Goto(Edged By Glitter)
+(Edges Finished)
+@Contact1 #LetTheEdgeFade 
+@Contact1 That was the last edge you owed me #SubName
+@Contact1 I hope you had as much fun as I did #EmoteHappy
+@NullResponse @RemoveContact1
+Should we play a Risky Pick Game now? #Lol
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+I am in the mood for some playing today
+That of course includes edging on command
+But no edging without permission!
+If you break That rule I will call #Contact3 to punish you
+You want to start #Stroking  again right #SubName?
+#StartStroking
+Follow the beat @PlayAudio[tease\b055.mp3] 
+Oh, poor boy, is it still to slow for you?
+I just love watching little wankerboys like you...
+#Stroke their cocks how I want them to!
+A little faster @PlayAudio[tease\b075.mp3] 
+Teasing them senseless...
+Faster  @PlayAudio[tease\b120.mp3] 
+Come on, EDGE FOR ME @EdgeNoHold
+what else are you good for than #Stroking
+and edging you #PetName?
+Oh, poor little boy, I hope it's not already getting too hard not to cum?
+@Flag(av_fetish_pain) @CBTBalls
+@Flag(av_fetish_pain) Obviously just slapping your balls doesn't do the trick,
+#Lol, you're really starting to make me laugh #PetName,
+I love it how you obey my every command,
+and I love playing with you honey, makes me feel so powerful...
+You're soo desperate to touch and #Stroke it like crazy right now
+am I right #SubName? @Chance50(GoodForYou)
+Well, I just love to deny you
+so NO WANKING YET!!
+But you can start massaging your #Balls for me baby!
+@Flag(av_fetish_pain) Start squeezing those balls harder baby
+and with your other hand start playing with those nipples
+@Flag(av_fetish_pain) squeeze and pinch them as well for me 
+(GoodForYou)
+#StartStroking
+Let me help you @ShowLocalImage(boobs, butts) @Wait(10)
+@NullResponse @ShowLocalImage(femdom, softcore)  @Wait(10)
+#StopStroking
+@End

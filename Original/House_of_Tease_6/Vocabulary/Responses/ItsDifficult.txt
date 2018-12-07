@@ -1,0 +1,7 @@
+[is tough,is difficult,it's tough,it's difficult]
+[All]
+I never said it would be easy, #PetName
+Whatever made you think this would be easy for you...?
+Well @RT(obviously,of course) - it's @RT(meant,supposed) to be hard, #PetName
+It's not supposed to be easy, #Name
+[All End]

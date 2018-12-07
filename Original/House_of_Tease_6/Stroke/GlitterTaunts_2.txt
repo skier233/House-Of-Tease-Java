@@ -1,0 +1,126 @@
+@Contact1 You will do anything for a beautiful girl, right? 
+@Contact1 Anything for your Mistress?
+@Contact1 Your #Cock belongs to me now. Understand? 
+@Contact1 It is mine now.	
+@Contact2 The only thing that matters about your #Cock is its capacity to suffer 
+@Contact2 and I promise you I'll show you how endless that truly is.
+@Contact2 I'm a modern woman, not a sex deprived cow. God. You men.
+@Contact2 And look at you. That type of talk gets you off doesn't it?
+@Contact3 You like being ordered by women? 
+@Contact3 Good. That's how it should be.
+@Contact3 Your fate is serving women, and nothing else. 
+@Contact3 Only our pleasure is relevant.
+@Contact1 I hope you understand that from now on 
+@Contact1 you have to have my permission if you want to fantasize about me
+@Contact1 Who knows? #DomName might even let me handle you more often. 
+@Contact1 You'll be her slave, but my pet.
+@Contact1 I've got to say, #Slave.
+@Contact1 I'm really starting to like the idea of having you as a dog. 
+@Contact2 I hope you understand that from now on 
+@Contact2 you have to have my permission if you want to fantasize about me
+@Contact2 Who knows? #DomName might even let me handle you more often. 
+@Contact2 You'll be her slave, but my pet.
+@Contact2 I've got to say, #Slave.
+@Contact2 I'm really starting to like the idea of having you as a dog. 
+@Contact3 I hope you understand that from now on 
+@Contact3 you have to have my permission if you want to fantasize about me
+@Contact3 Who knows? #DomName might even let me handle you more often. 
+@Contact3 You'll be her slave, but my pet.
+@Contact3 I've got to say, #Slave.
+@Contact3 I'm really starting to like the idea of having you as a dog. 
+@Contact1 This has got to be so frustrating for you
+@Contact1 Still nowhere <i>near</i> frustrating enough though #Grin
+@Contact2 This has got to be so frustrating for you
+@Contact2 Still nowhere <i>near</i> frustrating enough though #Grin
+@Contact3 This has got to be so frustrating for you
+@Contact3 Still nowhere <i>near</i> frustrating enough though #Grin
+@Contact1 I don't just want this to ache for you #SubName
+@Contact1 I want it to be more than you can even bear #Grin
+@Contact2 I don't just want this to ache for you #SubName
+@Contact2 I want it to be more than you can even bear #Grin
+@Contact3 I don't just want this to ache for you #SubName
+@Contact3 I want it to be more than you can even bear #Grin
+@Contact1 #1_ST_Ache
+@Contact1 #1_ST_Beg
+@Contact2 #1_ST_Ache
+@Contact2 #1_ST_Beg
+@Contact3 #1_ST_Ache
+@Contact3 #1_ST_Beg
+@Contact1 #1_ST_Demean
+@Contact1 #1_ST_Sub
+@Contact2 #1_ST_Demean
+@Contact2 #1_ST_Sub
+@Contact3 #1_ST_Demean
+@Contact3 #1_ST_Sub
+@Contact1 Keep going slave.
+@Contact1 Do as I say.
+@Contact1 I mean, you are quite the jerk-junky; you are quite the masturbation addict, always pounding away your dick.
+@Contact1 It really doesn't require any talent at all..
+@Contact1 Feeling that ache from below does bring a smile on my face.
+@Contact1 Knowing you are suffering for me, makes me smile.
+@Contact1 You waste too much time in jerking, when you could be doing other things for me.
+@Contact1 Serving me requires your time in commitment to education.
+@Contact1 Tell me how bad you want to cum for me.
+@Contact1 And I'll tell you, how little I give a shit!
+@Contact1 You're not gonna cum.
+@Contact1 You're not gonna cum today at all.
+@Contact2 Keep going slave.
+@Contact2 Do as I say.
+@Contact2 I mean, you are quite the jerk-junky; you are quite the masturbation addict, always pounding away your dick.
+@Contact2 It really doesn't require any talent at all..
+@Contact2 Feeling that ache from below does bring a smile on my face.
+@Contact2 Knowing you are suffering for me, makes me smile.
+@Contact2 You waste too much time in jerking, when you could be doing other things for me.
+@Contact2 Serving me requires your time in commitment to education.
+@Contact2 Tell me how bad you want to cum for me.
+@Contact2 And I'll tell you, how little I give a shit!
+@Contact2 You're not gonna cum.
+@Contact2 You're not gonna cum today at all.
+@Contact3 Keep going slave.
+@Contact3 Do as I say.
+@Contact3 I mean, you are quite the jerk-junky; you are quite the masturbation addict, always pounding away your dick.
+@Contact3 It really doesn't require any talent at all..
+@Contact3 Feeling that ache from below does bring a smile on my face.
+@Contact3 Knowing you are suffering for me, makes me smile.
+@Contact3 You waste too much time in jerking, when you could be doing other things for me.
+@Contact3 Serving me requires your time in commitment to education.
+@Contact3 Tell me how bad you want to cum for me.
+@Contact3 And I'll tell you, how little I give a shit!
+@Contact3 You're not gonna cum.
+@Contact3 You're not gonna cum today at all.
+@Contact1 You think you are going to stroke for me, as if your orgasm gives me anything at all.
+@Contact1 Actually...you being denied in orgasm is much more entertaining for me..
+@Contact2 You think you are going to stroke for me, as if your orgasm gives me anything at all.
+@Contact2 Actually...you being denied in orgasm is much more entertaining for me..
+@Contact3 You think you are going to stroke for me, as if your orgasm gives me anything at all.
+@Contact3 Actually...you being denied in orgasm is much more entertaining for me..
+@Flag(AV_GlitterJoin1) @Contact1 #1_ST_Demean
+@Contact1 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin2) @Contact1 #1_ST_Demean
+@Contact1 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin3) @Contact1 #1_ST_Demean
+@Contact1 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin1) @Contact2 #1_ST_Demean
+@Contact2 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin2) @Contact2 #1_ST_Demean
+@Contact2 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin3) @Contact2 #1_ST_Demean
+@Contact2 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin1) @Contact3 #1_ST_Demean
+@Contact3 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin2) @Contact3 #1_ST_Demean
+@Contact3 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+@Flag(AV_GlitterJoin3) @Contact3 #1_ST_Demean
+@Contact3 #1_ST_Sub @CallReturn(Custom\AV_Scripts\AV_GlittersJoin.txt)
+#1_ST_Ache
+#1_ST_Speed
+#1_ST_Ache
+#1_ST_Beg
+#1_ST_Ache
+#1_ST_Stroke
+#1_ST_Squirm
+#1_ST_Speed
+#1_ST_Demean
+#1_ST_Sub
+#1_ST_Demean
+#1_ST_Top

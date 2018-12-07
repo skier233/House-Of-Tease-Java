@@ -1,0 +1,8 @@
+[#AV_NoWay]
+[All]
+@NotFlag(AV_Cha01) Do you have a problem with that #PetName? @ResponseYes(AV_003) @ResponseNo(AV_004)
+@NotFlag(AV_Cha01) But #Name, that's what makes it so fun to MAKE you take it.
+@NotFlag(AV_Cha01) Really? You don't want to do this anymore? @ResponseYes(AV_004) @ResponseNo(AV_003)
+@NotFlag(AV_Cha01) Are you serious? @ResponseYes(AV_003) @ResponseNo(AV_004)
+@Flag(AV_Cha01) Well, your #Cock will be free to @RT(suffer, ache)
+[All End]

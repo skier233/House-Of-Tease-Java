@@ -1,0 +1,122 @@
+@RT(This is a very special game, I want you fully focused on this).
+@RT(You are asking, what this will be all about?, I will try to explain to you,, what I have in mind.)
+Our goal is reach a state of edging, wherein you become completely focused and entranced by the sensation coming from your  #Cock.
+This state is called gooning.
+@RT(That's the state we are heading for, While gooning,, your erection will be incredibly intense).
+@RT(I want you to build up your arousal,. so that we can get started with a lot of edging, We will build it up slowly,, getting more and more intense).
+And since you already know, what its all about, we can switch over to the next part.
+You started already holding out these edges for some seconds before backing off and cooling down.
+Now there will be only such edges, so prepare that you will hold ALL of them.
+Lets try this out and bring yourself to the edge @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(20, 30))
+How does this feel to you at this state?
+I promise you that there will lots of edges like this following.
+Here is your next one following @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(20, 30))
+This one was slightly longer, than the first one I think.
+Holding out these edges isnt that easy, is it?
+Therefor you need to practice.
+Here you go @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(20, 30))
+Dont forget to breathe inbetween #PetName
+And always lube your #Cock
+#Edge @EdgeHold
+@NullResponse @Wait( #Random(10,20))
+Is the time to cool down enough for you?
+[yes] Ok lets keep going. @RapidTextOn @Goto(Edges_hold_2)
+[no] Then you should again take a break @RapidTextOn @Goto(Break2)
+@DifferentAnswer ..
+(Break2)
+@NullResponse @RapidTextOff
+Close your eyes and calm down.
+Take as much time as you need.
+Just take care, that your #Cock doesnt get soft.
+To keep your brain busy, I will show you one video of your nice collection
+@PlayVideo
+Give me a sign, when you feel ready to go.
+[ready] Me too :-) @RapidTextOn @Goto(Edges_hold_2)
+[no] Take time
+@NullResponse @LoopAnswer
+@AcceptAnswer Thats fine
+(Edges_hold_2)
+@NullResponse @RapidTextOff
+Its going to get harder @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(10, 30))
+@TagFace What do you think about?
+Are you worried to handle that?
+#Edge @EdgeHold
+@NullResponse @Wait( #Random(10, 20))
+Just keep your goal in mind!
+@TagAss Focus on the important things, like my sexy #Ass
+#Edge @EdgeHold 
+@NullResponse @Wait( #Random(10, 20))
+@TagPussy @TagCloseUp Dont go over the point of no return! Even if you see my #Pussy
+@TagBoobs Vary your stroking speed! Think of my #Boobs instead #Grin
+Yes even stop for some seconds if needed
+#Edge @EdgeHold
+@NullResponse @Wait( #Random(10, 20))
+But as soon as possible, resume stroking
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(10,20))
+We want to reach a special state ...
+Where you are continuously stroking
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(5,15))
+But always stay just under that special point
+@TagBoobs @TagCloseUp Never go over it, even if you see my #Boobs
+#Edge @EdgeHold 
+@NullResponse @Wait( #Random(5,25))
+But even master edgers need a break from time to time
+Take some deep breathes
+@NullResponse @Wait(60)
+Need to put some more lube on?
+Or drink some water?
+@NullResponse @Wait( #Random(5,15))
+These are important things #SubName
+Because the next big wave of edges is coming up on you
+@NullResponse @Wait(3)
+And will be very intense
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(5,10))
+#Edge @EdgeHold 
+@NullResponse @Wait( #Random(5,10))
+Use more lube!
+@NullResponse @Wait( #Random(5,10))
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(5,10))
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(5,10))
+@TagBoobs @TagCloseUp Look my nipples are getting hard
+#Edge @EdgeHold
+@NullResponse @Wait( #Random(5,25))
+Oh my god this must be very intense for you.
+@TagPussy @TagCloseUp I am getting soaking wet while watching you #SubName
+#Edge @EdgeHold
+@NullResponse @Wait( #Random(5,25))
+Your #Cock must be leaking like hell
+And it seems that this is going to get much more intense
+#Edge @EdgeHold 
+@NullResponse @Wait( #Random(5,10))
+@TagAss @TagCloseUp Hope my beautiful #Ass will not let you go over
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(5,10))
+Oh did I hear you moaning?
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Wait( #Random(5,10))
+Are you entering the state of trance yet?
+#Edge @EdgeHold 
+@NullResponse @Wait( #Random(5,10))
+Is your mind intimately merging with your #Cock already?
+#Edge @EdgeHold 
+@NullResponse @Wait( #Random(5,10))
+@NullResponse @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse 
+@NullResponse @Wait( #Random(10,30))
+WOW #SubName
+You were really gooning out babe!
+Simply awesome!
+How do you feel now?
+[good, fantastic, great] I can imagine that.
+[bad, awful, shit] Oh you didnt like it though?
+@AcceptAnswer I really liked it very, very much!
+@End

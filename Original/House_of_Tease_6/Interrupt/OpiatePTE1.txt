@@ -1,0 +1,72 @@
+#EmoteHer You want to edge #Name? @Chance30(PTE2) @CheckFlag(EREx)
+@NullResponse @Interrupt(NoEREx)
+(PTE2)
+@NullResponse @Interrupt(OpiatePTE2)
+(EREx)
+@NullResponse @Chance50(1)
+#EmoteHer Too bad
+Keep stroking, no edging
+@End
+(1)
+#Edge @Edge
+#LetTheEdgeFade
+(2)
+#EmoteHer @Chance50(Contx)
+Still want to edge #Name?
+[yes] #Smile
+[no] #Smile It wasn't actually a question #Name
+@DifferentAnswer #YesorNo
+#Edge @Edge
+#LetTheEdgeFade @Chance40(Contx)
+(3)
+#EmoteHer
+Do you want another #Name?
+[yes] #EmoteFace
+[no] #Smile #Shh
+@DifferentAnswer #YesorNo
+#Edge @Edge
+#LetTheEdgeFade @Chance30(Contx)
+(41)
+#EmoteHer @Chance50(Contx)
+You should be careful #Name
+You never know when I might feel like playing edge roulette with you
+#EmoteHer Maybe we're playing it now @CheckFlag(OpiateNPS) @CheckFlag(OpiateNPR) @CheckFlag(OpiateNPC) @Chance20(EdgeRoulette)
+(42)
+#Edge @EdgeHold
+#LetTheEdgeFade @Chance50(Contx)
+I'll let you in on a little secret
+You've been pretty good lately, so I won't make you play roulette with me
+(5)
+#EmoteFace Just keep it in mind though #Name
+I know exactly how to make you #Ache <i>too</i> much @Chance50(Contx)
+#Edge @EdgeHold
+#LetTheEdgeFade
+(Contx)
+That's enough edging for now
+I'll let you edge yourself into oblivion later #EmoteSmile
+I just feel like #Torturing you some more for now #EmoteLaugh
+@End
+(EdgeRoulette)
+@NullResponse @Interrupt(EdgeRoulette)
+(OpiateNPS)
+You were stroking without my permission after all @Chance75(42) @Interrupt(EdgeRoulette)
+(OpiateNPR)
+After all, you did ruin an orgasm
+You still came <i>without</i> permission @Chance25(ERNPRno) @Interrupt(EdgeRoulette)
+(ERNPRno)
+#EmoteFace #Name
+I think since you ruined that last orgasm you had for me
+I'll spare you, <i>this</i> time #EmoteSmile @Goto(5)
+(OpiateNPC)
+Besides, you probably deserve roulette
+#EmoteThought Maybe you deserve even worse @Chance10(NPCTerm) 
+Fortunately for you
+I'm having too much fun playing with you right now
+Otherwise I would just deny you... <i>right now</i> @Chance20(ERNPCno) @Interrupt(EdgeRouletteNPC)
+(ERNPCno)
+#EmoteSmile I'm feeling generous tonight though
+So even though you came without my permission last time
+I think I'll spare you both <i>for now</i> #EmoteHer @Goto(5)
+(NPCTerm)
+#EmoteThought Maybe you deserve even worse @Interrupt(NPCTerm)
+@End

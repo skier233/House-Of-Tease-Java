@@ -1,0 +1,160 @@
+@NullResponse @Goto(one,two,three,four)
+(one)
+#StopStroking @StopStroking
+I love @RT(telling you how to,being in control of how you) #JerkOff
+And @RT(it's obvious that,I know that,obviously) you love it @RT(at least as much,too), #Name
+But that creates a @RT(problem,dilemma) for me
+You see, I also love making you do things you <i>don't</i> want to do #Grin
+So really, the best way to #Torment you would be to <i>stop</i> telling you what to do
+But we both know that's not an option, right? #Lol
+I'll have to find some other way...
+@Flag(pthevCEI_No) Maybe I'll force you to eat your cum...
+@Flag(pthevSissyNO) I might have to force you to dress up like a sissy girl...
+@Flag(pthevNoAnal) That ass of yours is still unexplored territory, of course...
+@AllowsOrgasm(Always,Often) I could take away your orgasms, never let you cum ever again...
+In any case, I can still make your #Cock and #Balls #Ache
+And that'll do for now #Smile
+@End
+(two)
+Look at that, that is so hot... #EmoteMoan @ShowTaggedImage @TagLesbian @TagKissing @LockImages 
+Slow your strokes way down, #Name
+All the way down, until can't go any slower
+There's something about two pretty girls kissing... fuck #EmoteHappy
+This is just crazy hot, don't you think?
+[yes] Keep it under control, don't speed up those strokes, #PetName #Laugh
+[no] What?? No way, #Name
+@DifferentAnswer #YesOrNo
+You can't help but imagine yourself in the room with them, right? @ShowTaggedImage @TagLesbian @TagKissing
+Is that the thing about guys watching lesbian porn?
+Is it always somehow a threesome in your dirty mind?
+Do you think they would let you slide your #Cock between their mouths? @ShowTaggedImage @TagLesbian @TagKissing 
+Hands off your #Cock #Name @StopStroking
+@BallTorture Give your #Balls a hard smack for thinking those dirty thoughts
+Truth is, the best you could hope for is that they'd let you worship their pussies
+But even that if a big IF #Laugh
+They'd probably just ignore you and leave you to #JerkOff by yourself @ShowTaggedImage @TagLesbian @TagKissing
+@CockTorture Slap your #Cock for having such a dirty mind, #PetName
+It's a good thing you're under my control... @UnlockImages
+We wouldn't want a horny boy like you wandering the streets unattended #EmoteWink
+@End
+(three)
+#Edge @Edge @MultipleEdges(3,9,50)
+#LetTheEdgeFade @CheckFlag(pthevAnal,anal play)
+@End
+(anal play)
+@NotFlag(pvKneeling) #KneelForMe @TempFlag(pvKneeling)
+@Flag(pthevPlugged) @NullResponse @CallReturn(Custom/CallReturn/pvCr_PlugOut.txt)
+I want you to take one lubed up finger, you can choose which one...
+I want you to reach back... @CustomMode(#pvDontWantTo,Goto,do not want finger)
+And slide that finger inside your ass
+Push it in as far as feels comfortable to you
+If you think you can go a little deeper, then go deeper
+Pull it back a little...
+And push it back in...
+Keep doing that, keep fucking yourself with your finger
+That's a good boy #Laugh 
+@Flag(pthevGlitterIntroduced) @NullResponse @Chance50(enter a contact)
+Can you fit in a second finger?
+[yes] Such a good slut, go ahead and do it #Smile
+[no] You have such a tight little ass #Laugh 
+@DifferentAnswer #YesOrNo
+Slowly stroke your #Cock while you keep fucking your ass @Wait(#Random(10,30))
+#StrokeFaster @Wait(#Random(10,20))
+#Edge @EdgeHold
+Back away from the edge and take that finger out of your ass @CustomMode(#pvDontWantTo,Normal)
+That was pretty intense, #Name #EmoteHappy
+Need a moment or can we continue?
+[moment,wait] Okay let me know when you're ready @LoopAnswer
+[ready,continue] Good boy
+@DifferentAnswer Let me know when you're ready...
+Oh and you can get off your knees if you hadn't already #EmoteWink @DeleteFlag(pvKneeling)
+@End
+(enter a contact)
+@NullResponse @AddContact3
+@Contact3 Looks like #SubName is getting his ass handed to him #Laugh
+Yeah #Smile
+@Contact3 Can you fit in a second finger, #SubName?
+[yes] @Contact3 Such a good slut, go ahead and do it #Smile
+[no] You have such a tight little ass #Laugh
+@DifferentAnswer @Contact3 Yes or no?
+Slowly stroke your #Cock while you keep finger fucking your ass @CustomMode(#pvDontWantTo,Normal)
+@Contact3 You know I love the strapon #ShortName, but this - making #SubName finger his own ass...
+@Contact3 This might somehow be even more humiliating...
+I thought you might like it #Laugh
+@Contact3 Hehe I live for humiliating little worms like #SubName
+Is there anything you would <i>not</i> do?
+@Contact3 I dunno... probably, sure... I'm not a complete monster, #DomName #Laugh
+@Contact3 Although some may disagree there... #EmoteWink
+@Contact3 Hey #SubName...
+@Contact3 Take a break from #JerkingOff to answer me this question...
+@Contact3 Would you prefer me as your Domme instead of #DomName?
+[yes] What!?? @MoodDown @Goto(wrong answer)
+[no] Of course not #EmoteWink
+@DifferentAnswer @Contact3 Don't evade the question, yes or no?
+Stop, give that ass a rest, #Name
+@Contact3 Well, that's why #SubName prefer you as a Domme I guess
+@Contact3 You're just such a <i>nice</i> person, #ShortName #EmoteWink
+Hmmm I don't know if #SubName would agree there, necessarily #Laugh @RemoveContact3
+Get up off your knees, #PetName
+Need a moment or can we continue?
+[moment,wait] Okay let me know when you're ready @LoopAnswer
+[ready,continue] Good boy
+@DifferentAnswer Let me know when you're ready...
+Let's move on then
+@End
+(wrong answer)
+@Contact3 I don't think that was the right answer, #SubName #Lol
+That <i>definitely</i> was not the right answer @MoodDown
+@Contact3 I better get going then.... see ya #Smile @RemoveContact3
+I don't know where you get the nerve to say such a thing, #PetName @Interrupt(pvInt_Punishment)
+@End
+(do not want finger)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_NotWantAnalFinger.txt)
+I want to move on to something else now, #Name
+Next time just follow instruction, okay? #Smile @Interrupt(pvIn_General)
+@End
+(four)
+#Edge @Edge @MultipleEdges(3,9,50)
+#LetTheEdgeFade @CheckFlag(av_fetish_cei,lick it up)
+@End
+(lick it up)
+Is that #Cock leaking precum right now, #Name?
+[yes] Ooooh yes that's what I want to see #EmoteHappy @MoodUp @Goto(leaking now)
+[no] I guess we have some work to do then #Smile
+@DifferentAnswer #YesOrNo
+A couple more edges will do the trick, I'm sure
+#Edge @EdgeNoHold @MultipleEdges(3,6,100)
+Back away now, let's take a look at that precum production
+I bet you're leaking like crazy now, right?
+[yes] Ooooh yes that's what I want to see #EmoteHappy @Goto(leaking now)
+[no] Well I'll me damned...
+@DifferentAnswer #YesOrNo
+Time to bring out the big guns then...
+#Edge @EdgeHold(5,5,100)
+#LetTheEdgeFade
+Leaking precum now, #Name?
+[yes] Yeah, that's what I thought #Laugh @Goto(leaking now)
+[no] Oh... @MoodDown
+@DifferentAnswer #YesOrNo
+Never mind then @MoodDown
+@End
+(leaking now)
+Grab your #Cock and squeeze out some of that precum...
+Scoop it up with your fingers... @CustomMode(#pvDontWantTo,Goto,do not want to scoop) 
+And lick it off like the good cum eater that you are
+Taste it on your tongue...
+@NullResponse
+Disgusting isn't it?
+[yes] Better you than me, #PetName #Laugh
+[no] That's a little messed up, #PetName #Laugh
+@DifferentAnswer #YesOrNo
+Although between you and me, #PetName @CustomMode(#pvDontWantTo,Normal)
+I've tasted my own juices too, and they were pretty sweet...
+But then, girls taste better than guys anyway #Smile
+@End
+(do not want to scoop)
+Oh alright then, I guess it is kind disgusting #Laugh
+Although between you and me, #PetName
+I've tasted my own juices, and they were pretty sweet...
+But then, girls taste better than guys anyway #Smile
+@End

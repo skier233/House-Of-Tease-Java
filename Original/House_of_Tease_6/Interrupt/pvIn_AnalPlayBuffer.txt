@@ -1,0 +1,6 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@NullResponse  @Call(Modules\pthev_Mod12AnalPlay.txt,guessed_it)
+@End

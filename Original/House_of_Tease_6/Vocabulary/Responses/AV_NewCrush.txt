@@ -1,0 +1,31 @@
+[i found a new crush, new crush, i found a new girl, i have a new crush, i have new crush, i found new crush, i found new girl, new girl]
+[Before Tease]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[Before Tease End]
+[First Round]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[First Round End]
+[Stroking]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[Stroking End]
+[Not Stroking]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[Not Stroking End]
+[Edging]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[Edging End]
+[Holding The Edge]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[Holding The Edge End]
+[CBT Cock]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[CBT Cock End]
+[CBT Balls]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[CBT Balls End]
+[Chastity]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[Chastity End]
+[After Tease]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_AddCrush.txt)
+[After Tease End]

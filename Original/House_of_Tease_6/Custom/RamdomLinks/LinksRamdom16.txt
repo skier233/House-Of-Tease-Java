@@ -1,0 +1,134 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link16_NotFirstTime)
+@NullResponse @SetVar[AV_Link16]=[0] 
+@NullResponse @SetFlag(AV_Link16_NotFirstTime)
+(AV_Link16_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link16]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link16]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link16]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link16]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link16]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link16]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link16]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link16]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link16]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link16]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link16]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link16]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link16]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link16]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link16]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link16]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link16]=[AV_Link16]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link16]=[AV_Link16]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link16]=[AV_Link16]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link16]=[AV_Link16]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link16]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_DommeMistress)
+@NullResponse @CheckFlag(av_fetish_rough)
+Your job is to please your owner and not the other way around.
+But you are a good #PetName and obedient #Slave. 
+And I love when you beg like a puppy. 
+You will learn that I'm in charge, and you will obey to my orders.
+It's a pity that I need to punish you when you disobeyed me
+@Flag(av_fetish_foot) I want you to kiss my shoes when we meet. I want you to lick them shine. Do you understand'
+#StartStroking @StartStroking
+@End
+(AV_DommeMistress) 
+I can tell you now that this is not experiment. 
+This is a slavery program. 
+You  belong to me now and depended on my mercy. 
+During the session, I will use mental techniques that I have developed to control males.
+It's going to be a physically and  mentally hard process for you. 
+I will play with you mind and recreate you, but at the end you will be happy. 
+happy to serve me.
+Trust me, In a few days, you will worship me as your god and kiss the ground I'm waling on.
+#StartStroking @StartStroking
+@End
+(av_fetish_rough)
+You see, Just as I told you. 
+It's easy to train males.
+This is the point where you understands I am above you and accepts my authority.
+I never knew I can have such control on you. 
+Let's schedule this week another training session. 
+I want you to obey every word I say. 
+How long it will take'
+You will see the progress every week. 
+Every week I give you more restrictions until you does not do anything but serving me.
+#StartStroking @StartStroking
+@End
+(Link2)
+Excellent #PetName, we made huge progress. 
+I managed to tame you quickly. 
+Some time ago, you were just a vanilla guy, and now look at you
+a submissive male with passion to serve his mistress.
+Now I can really use you for my needs. You will be a good slave to me.
+@Flag(av_fetish_foot) Kiss my feet and show me respect. 
+I am your #Owner.
+#StartStroking @StartStroking
+@End
+(Link3)
+I'm going out with the girls tomorrow
+and I know you will be a good boy and wait for me. 
+You see. This is why I like you. 
+You are obedient and worshipful. 
+I'm so proud of you since you took the oath to serve me as my slave. 
+We will have a great future together.
+#StartStroking @StartStroking
+@End
+(Link4)
+I will train you and show you the way to serve me. 
+It will be hard in the beginning
+but eventually you will get used to it.
+You will entertain me!
+@Flag(av_fetish_rough) You are inferior to me. A am a female.
+@Flag(av_fetish_pegging) You are my bitch. You will stay here with spread legs until I cum.
+#StartStroking @StartStroking
+@End

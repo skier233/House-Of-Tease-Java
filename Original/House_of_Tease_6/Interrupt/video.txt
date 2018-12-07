@@ -1,0 +1,12 @@
+Stop stroking @StopStroking
+So, you want to #ache more? 
+(01)
+Have fun @PlayVideo
+#CensorContinue
+Do you want more?
+[yes] #Exclaim @Goto(01)
+[no] #Okay @Goto(02)
+@DifferentAnswer Yes or no #PetName
+(02)
+#ThatsEnough
+@End

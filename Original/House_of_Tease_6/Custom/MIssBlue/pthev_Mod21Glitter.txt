@@ -1,0 +1,430 @@
+@NullResponse @CheckFlag(pthevModRelaDone)
+@NullResponse @Call(Custom/MIssBlue/pthev_Mod16RelaStat.txt)
+@End
+(pthevModRelaDone)
+@NullResponse @CheckFlag(pthevGlitterIntroduced)
+@NullResponse @Call(Custom/MIssBlue/pthev_Mod08GlitterIntro.txt)
+@End
+(pthevGlitterIntroduced)
+@NullResponse @Goto(Contact1,Contact2,Contact3)
+(Contact1)
+@NullResponse @AddContact1
+#StopStroking @StopStroking
+@Contact1 Get to the edge, #SubName! @EdgeHold
+#LetTheEdgeFade
+@Contact1 I thought I'd help you out there, #ShortName #EmoteWink
+Just in time too, all this controlling and ordering edges is making me feel so tired #Lol
+@Contact1 I figured as much... #EmoteWink
+@Contact1 Edge again, #SubName @EdgeHold
+@Contact1 That's enough, calm down now @AddContact3
+@Contact1 You're not going to let him cum #GeneralTime are you?
+Your guess is as good as mine #Smile
+@Contact3 If it were up to me, #SubName would never ever cum again
+@Contact1 I think eventually I would have to let him cum...
+@Contact1 Even if it's just to see the expression on him face...
+@Contact1 when he realizes I'm going to ruin that orgasm #Lol
+You're so deliciously evil, #Contact1 #Laugh
+@Contact3 I think I could live with that outcome
+@Contact3 But only after keeping that #Cock locked in chastity for 6 months or so...
+@Contact3 Don't just sit there, #SubName - edge for us right fucking now! @EdgeHold
+#LetTheEdgeFade
+@Contact1 I was wandering, #ShortName...
+Wandering lonely like a cloud...? #EmoteWink
+@Contact1 I was <i>wondering</i>...
+@Contact3 #DomName can be such a grammar nazi sometimes #Lol
+Sorry #Smile
+That's spelling, not grammar BTW
+@Contact3 In the meantime, while you gals discuss the English language... *rolls eyes*
+@Contact3 Get to the fucking edge, #SubName @EdgeNoHold
+@Contact3 Relax, #SubName
+@Contact1 #ShortName, how can you be sure that he doesn't cum all over himself after going offline?
+@Flag(pthevCompleteControlYES) #SubName made a promise to only cum when I allow it, and that's enough for me @Goto(made a promise)
+@Flag(pthevCompleteControlNO) There's no way to know, really... you know how boys are #Smile @Goto(no way to know)
+That's a good point actually... there's no way to know, really...
+@Contact1 Don't you think it would be better if you could be sure that #SubName masturbated only to our instructions?
+@Flag(pvHasPartner) I'm not sure how @Var[pthevNamePartner] would feel about that, but...
+Yeah, that would be pretty neat #Giggles
+@Contact1 Listen up, #SubName - here's what we want from you...
+@Contact1 From now on you only jerk that pathetic #Cock of yours when #DomName says you can jerk it
+@Contact3 Yes, and you only cum when she says you can cum
+You should follow any of my friends' instructions too, #PetName
+@Contact1 That goes without saying, sharing is caring #EmoteHappy @AddContact2
+@Contact2 This looks promising... #Smile
+So here comes  the million dollar question, #SubName
+Do you promise to only masturbate when I say you can masturbate?
+[yes] I think this arrangement of ours just got interesting #Grin @SetFlag(pthevCompleteControlYES)
+[no] Too bad #EmoteSad @Goto(the answer is no)
+@DifferentAnswer #YesOrNo
+One thing though, #SubName
+This only works when you are completely honest with me
+I mean, I can't come over and check if you're being a good boy every day...
+And and I don't what to have to ask you if you've been good every single time
+So that means you should tell me whenever you've masturbated or had an orgasm without my permission
+Even if it happened outside of our sessions together
+Is that understood?
+[yes,okay,alright,agreed,understood,understand,clear] Great #Smile
+[no] #pthevCoCo-1 @LoopAnswer
+[don't want,do not want,not going to,not gonna,won't,will not] Too bad #EmoteSad @Goto(the answer is no)
+@DifferentAnswer #YesOrNo
+@Contact1 You're so screwed now, #SubName #Lol
+@Contact2 Oh come on, I think it's sweet that he trusts us so much #Smile
+@Contact3 Oh yes, because we can definitely be trusted with that pathetic excuse for a dick
+I hope you realize what you're getting yourself into, #Name #Grin
+#Edge @EdgeHold
+#LetTheEdgeFade
+From now on, you will not masturbate unless I tell you to masturbate
+And not have an orgasm unless I allow it #Smile
+@Contact1 The women of the world can sleep easy tonight, another pervert has been neutralised
+@Contact3 #Lol 
+@Contact3 Enjoy, #ShortName @RemoveContact3
+@Contact2 Don't worry #SubName, we'll take good care of your dick #Giggles @RemoveContact2
+@Contact1 Have fun with your newly acquired power over this one, #ShortName #Smile
+Oh I will #Laugh @RemoveContact1
+I hope you're not going to regret your decision, #SubName
+Although... I'm going do my best to make you regret it #Laugh
+@End
+(the answer is no)
+@Contact2 Well that was an anticlimax
+@Contact1 Yeah, you better give #SubName an anticlimax #GeneralTime too, #ShortName
+This is a bit disappointing, #PetName @MoodDown
+@Contact3 You should bust his #Balls for being disappointing, #DomName
+@BallTorture @NullResponse @CBTBalls
+@Contact2 I'm outta here, later girls! @RemoveContact2
+@Contact3 I want you to edge for us, #SubName @EdgeHold
+#LetTheEdgeFade @RemoveContact3
+@HasChastity @NullResponse @Goto(anticlimax into chastity)
+@Contact1 Maybe you shouldn't let him #JerkOff for a while
+@Contact1 Let's see if he changes his mind then...
+Yeah maybe... @RemoveContact1
+#Contact1 is right, no more touching for you, #PetName @ChastityOn
+@End
+(anticlimax into chastity)
+@Contact1 So, #ShortName
+@Contact1 That was pretty lame... but there's still the chastity device, right?
+You're right, this calls for some chastity time #Smile
+@CockTorture We've got to get that erection down somehow first @CBTCock
+@Contact1 I wonder if that didn't just make it harder #Lol
+Let's find out... @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@Contact1 Maybe you'll change your mind on giving us control over your masturbation habits, #SubName
+@Contact1 Have fun, #ShortName
+@Contact1 #SubName doesn't look like he's about have fun, so you should have some on his behalf too
+#Laugh yeah @RemoveContact1
+@NullResponse
+@End
+(no way to know)
+@Contact1 Total perverts, every last one of them #Lol
+@DoesNotHaveChastity @Contact3 You should lock his #Cock in chastity so he doesn't have a choice...
+@HasChastity @Contact3 You can always lock his #Cock in chastity so he's not able to #JerkOff #EmoteHappy
+@Contact1 Good point #Smile
+@BallTorture Yeah, I should smack his #Balls for being such a pervert #Grin @CBTBalls
+@Contact3 See, now we're getting somewhere #Laugh @Goto(now getting somewhere)
+(made a promise)
+@DoesNotHaveChastity @Contact3 I would lock his #Cock in chastity just in case...
+@HasChastity @Contact3 You can always lock his #Cock in chastity to be sure #EmoteHappy
+@Contact1 Good point #Smile
+(now getting somewhere)
+Although, a chastity does mean we can't make him edge... 
+@Contact1 True! Get to the edge for us right now, #SubName @Edge
+#LetTheEdgeFade
+@Flag(pvCollared) @Contact1 That collar looks so cute on #SubName @Goto(collar now on or not)
+@Flag(pvHasCollar) @Contact1 I think #SubName should wear his collar, it look so cute on him #Smile
+@Flag(pvHasCollar) That can be arranged @CallReturn(Custom/CallReturn/pvCr_CollarOn)
+(collar now on or not)
+@NullResponse @CheckFlag(pvWillNotKneel,not on knees)
+@NotFlag(pvKneeling) @Contact3 You should be on your knees, #SubName
+@NotFlag(pvKneeling) @Contact1 Yeah, get down on your knees #Laugh @TempFlag(pvKneeling)
+(not on knees)
+Let's take this opportunity of #SubName not being in chastity...
+@Contact1 ... to <i>really</i> edge the fuck out of him?
+You read my mind! #Lol
+@Contact1 Get to the edge, #SubName @EdgeNoHold @MultipleEdges(3,9,100)
+#LetTheEdgeFade
+@Contact3 You know what happens in that little brain when you string edges together like that, right?
+@Contact3 They just congeal into one big juicy drawn-out EDGE 
+@Contact3 Do it again, get right up to the edge or orgasm, #SubName @EdgeHold @MultipleEdges(5,6,100)
+@Contact1 Oh yeah just relax and let those edges sink in, #SubName #Laugh
+@NotFlag(pvNoFaceSlap) @Contact3 Slap yourself in the fucking face, bitch
+I think #Contact3 is starting to get fired up #Laugh
+@Contact3 Sorry, you girls can have some fun too... #EmoteWink
+@Contact3 I have to go anyway, maybe you girl can hurt those #Balls for me...?
+@BallTorture Will do #Contact3 #Smile @Goto(will do hurt balls)
+Maybe some other time, we'll just do some edges now #Smile
+@Contact3 Make 'em long edges then #EmoteHappy @RemoveContact3
+@NullResponse @Goto(after the hurting)
+(will do hurt balls)
+@Contact3 Have fun, #SubName #Grin @RemoveContact3
+#Contact3 does like hurting boys' testicles, doesn't she? #Laugh @CBTBalls
+@Contact1 Ouch... that looked like it must have hurt... #Giggles
+(after the hurting)
+@Contact1 I guess that means it's about time #SubName did some more edging
+I think so too...
+@Contact1 So get to the edge, #SubName @EdgeNoHold
+@Contact1 Let it fade away for a moment
+@Contact1 You're going to need this little break
+@Contact1 Because what I'm about to do...
+@Contact1 Might just break your #Cock as well as your mind...
+O...Oh... be careful, #Contact1 #Laugh
+@Contact1 #SubName...
+@Contact1 Get to the edge @EdgeHold @MultipleEdges(8,9,100)
+@Contact1 Put your hands behind your back for a minute, #SubName
+@Contact1 Just let that #Cock twitch and throb and ache for release...
+That was intense #EmoteHappy
+There must be soooo much precum flowing from that #Cock now
+@Flag(av_fetish_cei) Lick it up, I know you want to do it anyway
+@Contact1 That is so icky #Laugh
+Well, you did that to him, #Contact1 #Lol
+@CockTorture Let's add a little pain to your frustration, #PetName @CBTCock
+@Contact1 I'm going to let you deal with this frustrated mess now
+Alright, talk to you later!
+@Contact1 See ya later, #SubName #Grin @RemoveContact1
+#PetName... do you think you could handle three more edges for me right now?
+[yes] Good, then we'll do five! #Laugh @Goto(then we will do five)
+[no] Aww... I guess #Contact1 did actually break you #Laugh
+@DifferentAnswer #YesOrNo
+She'll be so happy to hear that @Glitter(pvMod12HappyToKnow)
+Also, good to know that we can actually break you
+Because once we've figured out exactly how to do that...
+We're going to break you over and over and over again #Grin
+@End
+(then we will do five)
+#Edge @EdgeNoHold @MultipleEdges(5,8,100)
+#LetTheEdgeFade
+@End
+(Contact2)
+#Edge @Edge
+#LetTheEdgeFade @AddContact2
+@Contact2 Hey, what's going on #Smile
+Nothing much, you just missed #SubName doing another one of my evil edges #Laugh
+@Contact2 There are so many of those, I can skip a few #Laugh
+Yeah exactly, like the subway, there's always another one coming shortly #Lol
+@Contact2 #Lol
+@Contact2 I think another one is about to roll into the station...
+@Contact2 Edge for me, #SubName @EdgeNoHold
+@Contact2 Right on schedule #Laugh
+Gotta love public transport #Laugh @CheckFlag(pvHasBlindfold)
+@Contact2 I have something I want to try, may I...?
+Sure, go ahead
+@Contact2 #SubName... do you have a blindfold, or something you can use as such?
+[yes] @Contact2 That's great! #EmoteHappy
+[no] @Contact2 Oh... that's too bad #EmoteSad @Goto(no blindfold)
+@DifferentAnswer @Contact2 Yes or no?
+@Contact2 Go get it, but don't put it on yet! I need to explain something first...
+#SubName may be a doormat but he's not stupid, #Contact2 #Lol
+@Contact2 #Laugh he needs to be taken by the hand though
+He needs to be taken by the penis, that's for sure
+@Contact2 #Lol
+@Contact2 Ready to continue, #SubName?
+[yes,ready] @Contact2 Good boy #Smile
+[no] @Contact2 Let me know when you're ready @LoopAnswer
+@DifferentAnswer @Contact2 Let me know when you're ready
+@Contact2 This is actually something I learned from my friend Jana
+You mean Jana the-blond-with-the-blue-eyes-and-the-big-boobies?
+@Contact2 That's the one #Smile
+@Contact2 Here's what we're going to do... you're going to blindfold yourself
+@Contact2 And you're going to make sure you have your speakers turned on
+@Contact2 Or even better, headphones on...
+@Contact2 Because I'm going to guide you with sounds #Smile
+@Contact2 It's very simple: when you hear this sound...
+@Contact2 ...you will start #JerkingOff @PlayAudio[MissBlue\slowstroke.mp3]
+@Contact2 When you hear this sound...
+@Contact2 ...you will stop @PlayAudio[MissBlue\bell.mp3]
+@Contact2 And then there's sound number three...
+@Contact2 ...this is your command to edge for me @PlayAudio[MissBlue\edge2.mp3]
+@Contact2 When you you hear that sound, you should edge as quickly as possible
+@Contact2 No need to stay on the edge
+@Contact2 There is one more sound...
+@Contact2 At the very end, I will play you an mp3 of a girl masturbating to orgasm
+@Contact2 You will keep your hand off your cock and listen to her cum
+@Contact2 And when she's done cumming, you can take the blindfold off
+@Contact2 All clear? #Smile
+[yes] @Contact2 #DomName was right, you <i>are</i> a smart one #Laugh
+[no] @Contact2 It's not complicated, #SubName @Goto(it is not complicated)
+@DifferentAnswer @Contact2 Yes or no?
+Sounds like an interesting setup, #Contact2 #EmoteHappy
+(get ready put on blindfold)
+@Contact2 Oh and don't worry about telling me when you edge, there's no need for that now
+@Contact2 Get ready, #SubName
+@Contact2 Put on headphones if you have them and blindfold yourself... @SetDate(pvMod21BlindTimer,2 minutes)
+@Contact2 ...and wait for the first sound #Smile @Wait(#Random(30,50))
+@Contact2 @NullResponse @PlayAudio[MissBlue\slowstroke.mp3] @Wait(#Random(30,60))
+@Contact2 @NullResponse @PlayAudio[MissBlue\bell.mp3] @Wait(#Random(10,30))
+@Contact2 @NullResponse @PlayAudio[MissBlue\slowstroke.mp3] @Wait(#Random(30,60))
+@Contact2 @NullResponse @Goto(sound edge)
+(sound stop)
+@Contact2 @NullResponse @PlayAudio[MissBlue\bell.mp3] @Wait(#Random(10,30))
+@Contact2 @NullResponse @CheckDate(pvMod21BlindTimer,chance of orgasm)
+@Contact2 @NullResponse @Goto(sound stroke)
+(sound stroke)
+@Contact2 @NullResponse @PlayAudio[MissBlue\slowstroke.mp3] @Wait(#Random(15,45))
+@Contact2 @NullResponse @Goto(sound stop,sound edge)
+(sound edge)
+@Contact2 @NullResponse @PlayAudio[MissBlue\edge2.mp3] @Wait(#Random(30,45))
+@Contact2 @NullResponse @Goto(sound stroke)
+(chance of orgasm)
+@Contact2 @NullResponse @Chance40(sound orgasm)
+@Contact2 @NullResponse @Goto(sound stroke)
+(sound orgasm)
+@Contact2 @NullResponse @PlayAudio[MissBlue\orgasm.mp3]
+@Contact2 You can come back to us now, #SubName #Smile
+@Contact2 Let your eyes adjust to the light #Smile @CheckFlag(pvHasBlindfold,back to naked pictures)
+@Contact2 Did you like that?
+[yes] @Contact2 Guess you got tired of looking at pictures of naked girls #Laugh
+[no] @Contact2 What, you're sour because you didn't get to look at pictures of naked girls? #Laugh
+@DifferentAnswer @Contact2 Yes or no?
+I thought that was pretty neat, #Contact2 #EmoteHappy
+You should keep that blindfold close and ready to use, #SubName @SetFlag(pvHasBlindfold)
+(back to naked pictures)
+@Contact2 Gotta run now, talk to you later, #ShortName @RemoveContact2
+That was fun, but I kinda wanna go back to teasing you with pictures of naked girls again #Lol
+@End
+(it is not complicated)
+@Contact2 Chimes means stroke... @PlayAudio[MissBlue\slowstroke.mp3]
+@Contact2 Bell means stop @PlayAudio[MissBlue\bell.mp3]
+@Contact2 Doorbell means edge... @PlayAudio[MissBlue\edge2.mp3]
+@Contact2 And when you hear a girl cum, you can come back to us #Smile 
+And no peaking, #PetName @Goto(get ready put on blindfold)
+@End
+(no blindfold)
+@Contact2 Then I can't do it... #EmoteSad
+@Contact2 Maybe next time, #SubName?
+You can still make him hold a mean edge though
+@Contact2 #Yay
+@Contact2 Get to the edge, #SubName @EdgeHold
+@Contact2 Oh my, calm down a little, you look you're about to overheat #lol
+Not likely, or at least not until I'm done with him #Grin
+@Contact2 #Laugh talk to you later, #ShortName @RemoveContact2
+You should get a blindfold somehow, I'm curious what she wanted to do...
+@End
+(pvHasBlindfold)
+@Contact2 I want to play my little blindfold game again
+@Contact2 #SubName do you need a reminder of the sounds and what they mean?
+[yes] @Contact2 Make sure you have your speakers on headphones on and blindfold ready... @Goto(it is not complicated)
+[no] @Contact2 Then get ready to put on the blindfold #Smile
+@DifferentAnswer @Contact2 Yes or no?
+And just follow the sounds as they come... @Goto(get ready put on blindfold)
+@End
+(Contact3)
+#StopStroking @StopStroking
+Let's take it easy for a bit, #Name
+You could probably use a break, right? #Smile
+[yes] I thought so #Laugh
+[no] Well it's not like you have a choice in the matter
+@DifferentAnswer #YesOrNo
+Just breath easy now and get your strength back
+You're going to need it #Grin
+@Flag(pvKneeling) Get up off you knees, you can sit back comfortably now @DeleteFlag(pvKneeling)
+You can play with yourself a little bit, but no stroking
+Just touch my #Cock gently and slowly @AddContact3
+No need to rush anything right now, no need to get to the edge
+Relax and give yourself some time to recuperate
+@Contact3 OMG what's all this weak ass pillow talk about #Lol
+#Laugh well #SubName needs some loving sometimes, with all the cruelty we put him though
+@Contact3 Have you gone soft on him?
+Just because I let #SubName relax once in a while doesn't mean I've gone soft, #Contact3
+@Contact3 It does to me #ShortName #Lol @RapidTextOn
+@Contact3 Come on #SubName time to give us an edge!
+Don't listen to her, just keep yourself very gently @RapidTextOff
+@Contact3 Fuck that, I want you to edge right now, DO IT! @EdgeMode(Goto,obeyed contact)
+You can try all you like, #Contact3 but #SubName listens only to me
+I'll let you borrow him sometime, you can do whatever you want then #Smile
+@Contact3 Don't listen to her, #SubName
+@Contact3 I want you to edge for me RIGHT NOW and if you don't...
+@Contact3 I'm going to fucking make you regret it, so get to the edge 
+Don't do it, in fact you should stop touching that #Cock now, #PetName
+@Contact3 Start pumping as fast as you can, #SubName
+@Contact3 I want you to edge so hard for me right now, come on
+@Contact3 I'm going to bust your nuts and beat your ass if you don't do as I say 
+You know better than to disobey me, do not touch that #Cock
+@Contact3 Oh she can say that, but let me tell you something, #SubName
+@Contact3 My punishment is going to be much worse than anything #DomName can dish out
+Well... that's probably true... #Lol
+But still, NO #SubName
+@Contact3 I think you know it's true as well, so start edging, #SubName
+@Contact3 Let me help you along with some pictures @ShowFemdomImage
+@Contact3 You're going to have to make a choice... @ShowFemdomImage
+@Contact3 And I don't think #DomName is going to help you if you choose to disobey me @ShowFemdomImage
+I don't think I need to, #Contact3
+#SubName is going to accept your wrath if that's what it takes to please me
+So if you feel the need to punish hem for not obeying your orders, be my guest
+It will just confirm how devoted #SubName is to me #Smile
+@Contact3 Alright, I'm giving you one last chance to change your mind, #SubName
+@Contact3 One last change to avoid my anger and punishment
+@Contact3 Edge for me right now and you're off the hook
+@Contact3 Edge for me and all you have to get through is some weak ass punishment from #DomName
+@Contact3 Well...?
+@NullResponse
+@NullResponse
+@NullResponse
+@Contact3 Alright then, I guess you've made your choice @EdgeMode(Normal)
+You've been very good, #Petname #Smile @MoodUp
+But I suppose I'm going to have to leave it up to #Contact3 now to deal with you
+@Contact3 Oh I'm going to enjoy dealing with your #PetName #ShortName
+@Contact3 Because I like making him edge, but I <i>love</i> making him hurt *evil grin*
+@Flag(pvBallsTied) Good thing those #Balls are already wrapped up and ready to go #Smile @Goto(wrapped and ready)
+@Flag(pthevShoelace) Let me help you along there, #Contact3 @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+@Flag(pvBallsTied) There you go, #Contact3 - all wrapped up and ready to go #Lol
+(wrapped and ready)
+@Flag(pvBallsTied) @Contact3 That's awesome, #ShortName
+@Contact3 Give you balls a good hard smack, #SubName
+[done] I don't think that was quite hard enough #Laugh
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] @Contact3 What. The. Fuck. @Goto(what the fuck)
+@AcceptAnswer I don't think that was quite hard enough #Laugh
+@Contact3 Agreed! Do it again, but harder #SubName
+[done] I think you'd have been better off listening to her instead of me #Lol
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] @Contact3 What. The. Fuck. @Goto(what the fuck)
+@AcceptAnswer I think you'd have been better off listening to her instead of me #Lol
+@Contact3 #SubName I want you to get something to spank yourself with
+@Contact3 A wooden spoon, spatula, paddle, whatever you can find
+@Contact3 Go get it and let me know when you're ready to continue
+[ready,got it,have it] @Contact3 Good
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] @Contact3 What. The. Fuck. @Goto(what the fuck)
+@DifferentAnswer @Contact3 Just let me know when you're ready to continue
+@Contact3 Now get down on your fucking knees, #SubName
+Oooh this is going to be bad... #Laugh @TempFlag(pvKneeling)
+@Flag(pthevButtPlug) @Contact3 Hey #ShortName doesn't he also have butt plug?
+@Flag(pthevPlugged) Already wearing it #EmoteHappy @Goto(already wearing it)
+@Flag(pthevButtPlug) Yeah... #Grin @CallReturn(Custom/CallReturn/pvCr_PlugIn.txt)
+(already wearing it)
+@Contact3 Now... I want you on all fours like a good doggy, #SubName
+@Flag(pvCollared) Looks the part too, with that collar #Lol @Goto(already wearing collar)
+@Flag(pvHasCollar) Hold on, that gives me an idea... @CallReturn(Custom/CallReturn/pvCr_CollarOn.txt)
+(already wearing collar)
+@Contact3 Let's turn that cute little butt of yours bright red, #SubName
+@Contact3 Spank each ass cheek 10 times
+[done] @Contact3 Mmm that's much better, but I'm not done yet...
+@AcceptAnswer @Contact3 Mmm that's much better, but I'm not done yet...
+@Contact3 #pvMod21C3Spanks
+[done] Aww... poor #PetName #Laugh
+@AcceptAnswer Aww... poor #PetName #Laugh
+@Contact3 Smack those pathetic #Balls of yours 10 times, #SubName
+[done] Aww... poor #PetName #Laugh
+@AcceptAnswer Aww... poor #PetName #Laugh
+@Contact3 I'm done, you can have him back now, #ShortName
+I think there might be a little tear in his eye, #Contact3
+@Contact3 That's what you get for being soft on him, he can't even take a mild spanking #Lol
+Some training might be in order #EmoteWink @RemoveContact3
+@FlagFlag(pvKneeling) You can get off your knees now, #PetName @DeleteFlagFlag(pvKneeling)
+@Flag(pvCollared) The collar stays on for now, I like how it look on you #Smile
+#Contact3 sure had her way with you... maybe next time you'll listen to her instead of me
+But you should know that I am very happy that you didn't #GeneralTime #Smile @MoodUp
+@Flag(pvBallsTied) You can untie those poor #Balls now, by the way @DeleteFlag(pvBallsTied)
+As a reward, I'll let you edge for me right now
+So go ahead and bring yourself to the brink of orgasm, #SubName @Edge
+#LetTheEdgeFade
+@End
+(what the fuck)
+@Contact3 You go ahead and deal with him, #ShortName @MoodWorst
+@Contact3 I don't want to waste my time with this weakling @RemoveContact3
+I think you really pissed off #Contact3 this time, #PetName @Interrupt(pvInt_Punishment)
+@End
+(obeyed contact)
+@Contact3 Hands off, don't you fucking cum, #SubName
+I'm very disappointed, #PetName @MoodWorst
+@Contact3 You made the right choice, #SubName
+@Contact3 Whatever #DomName has in store for you... 
+@Contact3 I'm sure it's only a fraction of the misery I would have put you in
+@Contact3 Enjoy #ShortName #Laugh @RemoveContact3
+I didn't think you'd do it, #PetName
+But I guess #Contact3 scared you enough to make you disobey my commands @Interrupt(pvInt_Punishment)
+@End
+@Info the contact2 part was inspired by Decker's tease "A Month With Jana"; audio of unnamed girl taken from http://audibleporn.tumblr.com

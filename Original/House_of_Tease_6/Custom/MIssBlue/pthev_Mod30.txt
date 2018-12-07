@@ -1,0 +1,104 @@
+@NullResponse @CheckFlag(pvMod30B)
+@NullResponse @CheckFlag(pvMod30A)
+#Edge @EdgeNoHold
+Mmmm yes the edge is where you want to be, isn't it? @SetFlag(pvMod30A)
+You'd stay there forever if you could
+You can forget about the world when you're edging
+But it's such a fleeting moment
+If only it could last forever, right?
+If only you could build a cabin on the edge of orgasm and live there for the rest of your life
+At least I can let you visit the edge a little longer #Smile
+#Edge @EdgeHold
+#LetTheEdgeFade @CheckFlag(pthevButtPlug,call custom plug)
+@End
+(call custom plug)
+@NullResponse @Chance50(do that one more time)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagButtPlug.txt)
+@End
+(do that one more time)
+Fuck that was hot...
+Let's do it one more time #Smile
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+@End
+(pvMod30A)
+#StopStroking @StopStroking @DeleteFlag(pvMod30A) @SetFlag(pvMod30B)
+@Flag(pthevButtPlug) @NullResponse @Chance50(are you wearing plug)
+(feel a little lazy)
+You know what? @SetFlag(pvMod30A)
+I feel a little lazy, #SubName
+@RT(I'm going to pick,Why don't you watch,I'll let you watch) one of your videos 
+And to make it a @RT(wee bit,tad,little bit) more @RT(challenging,interesting)...
+You <i>have</i> to keep stroking at a steady pace
+Let's say <i>at least</i> 1 full stroke every second
+If you @RT(happen to reach,get to) the edge... 
+@RT(Hands off,Let go,No touching,Stop stroking) for 10 seconds
+@BallTorture @RT(slap,smack) your #Balls 
+And start #JerkingOff again
+Now @RT(to find a nice,to pick a,I just have to choose a) video...
+Start stroking, #PetName @PlayVideo @AFKOn
+That was a pretty @RT(great,awesome,amazing,sexy,hot) @RT(clip,video), @RT(don't you think,right,wasn't it)? @AFKOff
+[yes] That's bad news for your #Balls I guess #Laugh
+[no] Well, it's one of your own, so maybe you should get some better videos
+@DifferentAnswer #YesOrNo
+Did you @RT(get,manage to get,make it) through the video without edging?
+[yes] I should have picked a longer video #Laugh
+[no] Mission accomplished #Grin
+@DifferentAnswer #YesOrNo
+Next time maybe we'll try another one
+@End
+(are you wearing plug)
+@Flag(pthevPlugged) @NullResponse @Goto(you are wearing plug)
+I think it's about time for you to fill up that ass of yours
+@Flag(pthevSissyYES) Like a good sissy girl #Smile
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_PlugIn.txt)
+@End
+(you are wearing plug)
+Are you still wearing your butt plug, #PetName?
+[yes] Good, you'll wear it for as long as it pleases me @Goto(feel a little lazy)
+[no] What!?
+@DifferentAnswer #YesOrNo
+Did I tell you to take it out?
+[yes] Hmm, never mind then @Goto(never mind the plug then)
+[no] Then why would you take it out??
+@DifferentAnswer #YesOrNo
+You know what, I really don't care about your excuses @MoodDown @CallReturn(Custom/CallReturn/pvCr_PlugIn.txt)
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(never mind the plug then)
+I make mistakes too... @DeleteFlag(pthevPlugged)
+Not too many tough #Laugh
+@End
+(pvMod30B)
+#StopStroking @StopStroking @DeleteFlag(pvMod30B)
+@CockTorture My #Cock needs to be punished for having such a good time @CBTCock
+@NullResponse @Wait(#Random(5,15))
+Start stroking again, #PetName @CustomMode(#pvCantTakeIt,Goto,cannot take more)
+#StrokeSlowest @EdgeMode(Goto,cannot take more)
+It's funny how that little mind of yours works
+You want this so badly @ShowButtImage
+And this... @ShowBoobsImage
+@ImageTag(TagBodyPussy ) And this you probably crave more than anything else...
+And you want to #JerkOff
+You want it so badly you can barely hold any other thought in your head
+And yet...
+You also want me to take it all away from you
+Is it that you feel like you don't deserve to have pleasure?
+[yes] Aww my poor #PetName #Giggles @SetFlag(pvDeserveNoPleasure)
+[no] I'm glad you still have a sense of self worth #Smile @SetFlag(pvDeservePleasure)
+@DifferentAnswer #YesOrNo
+#StrokeFaster
+I can never decide what I like more...
+Ramping up your arousal by making you stroke to hot pictures...
+Or making you sit still and wait in agonizing anticipation...
+#StopStroking @EdgeMode(Normal)
+@NullResponse @CustomMode(#pvCantTakeIt,Normal)
+@NullResponse @Wait(#Random(5,15))
+Good thing I don't really have to choose at all
+I can make you wait...
+And I can make you #JerkOff as long as I want #Smile
+@End
+(cannot take more)
+#StopStroking @MoodDown
+Your endurance is lacking severely, #PetName @Interrupt(pvInt_Punishment)
+@End

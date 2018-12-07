@@ -1,0 +1,317 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral3_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral3]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral3_NotFirstTime)
+(AV_ModGeneral3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral3]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral3]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral3]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral3]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral3]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral3]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral3]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral3]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral3]=[AV_ModGeneral3]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral3]=[AV_ModGeneral3]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral3]=[AV_ModGeneral3]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral3]=[AV_ModGeneral3]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral3]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+I need a man who knows how to control his #Cock
+If you're #Submissive enough...
+I'll do my best to reward you as we go along.
+@NullResponse @CustomTask(AV_StrokeNumber)
+There you go...
+@Flag(AV_DommeMistress) Now your Mistress want to make you suffer @CBT
+I want you to stroke it like you're balls deep inside my pussy.
+@NullResponse @CustomTask(AV_StrokeNumber)
+Oooh, that got you a little harder didn't it?
+@NullResponse @CustomTask(AV_StrokeNumber)
+That's it.  Are you starting to feel yourself getting to the edge?
+[yes] Good..
+[no] Too bad
+@DifferentAnswer Yes or no #PetName? 
+#Edge @Edge
+Not...bad.
+You might impress me after all.
+You know...since you did such a good job for round one here?
+@Flag(AV_SubKnees) @NullResponse @Goto(AV_SkipKnee1)
+Wouldn't it be more fun to go to your knees while you jack it hard for me the second time?
+#KneelForMe @SetFlag(AV_SubKnees)
+(AV_SkipKnee1)
+I'm going to tell you to stroke again in a second...
+Ready?
+@NullResponse @CustomTask(AV_StrokeNumber)
+Imagine me right there in front of you 
+in your knees looking up into my eyes while you #Stroke
+Almost makes you wish you could explode all over me right now doesn't it?
+@NullResponse @CustomTask(AV_StrokeNumber)
+Only you should that know if you tried to do that...
+I'd punch you in the balls @FollowUp50(with all my strength and you'd never see me again so)
+@NullResponse @CustomTask(AV_StrokePositions)
+I'd show a little restraint if I were you.
+You can sit @DeleteFlag(AV_SubKnees)
+#EmoteLaugh Oh my God...you look like you're literally in pain...
+That felt good for you didn't it?
+Even if you do pass this test...how the hell will you even sleep tonight?
+Hm...guess that's your problem to solve.
+You've done well so far...
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+#LittleGame #PetName
+You will #Stroke to the beat
+#StartStrokingNS #AudioStroke
+#StopStroking  @Wait(10)
+#StartStrokingNS #AudioStroke
+#StopStroking  @Wait(10) @Chance70(ContinueStroke1)
+@End
+(ContinueStroke1)
+#StartStrokingNS #AudioStroke
+#StopStroking  @Wait(10) @Chance60(ContinueStroke2)
+@End
+(ContinueStroke2)
+#StartStrokingNS #AudioStroke
+#StopStroking  @Wait(15) @Chance50(ContinueStroke3)
+@End
+(ContinueStroke3)
+#StartStrokingNS #AudioStroke
+#StopStroking  @Wait(10)
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+@NullResponse @AddContact1
+@Contact1 Hi #PetName
+@Contact1 The question is
+@Contact1 Will I be rough with you?
+@Contact1 I don't know...
+@Contact1 #DomName always ask me how much she should deny you
+@Contact1 how long should I make YOU wait?
+@Contact1 #StartStroking
+@Contact1 I mean, guys are different than girls right?
+@Contact1 A year for me isn't the same as a year for you.
+@Contact1 Hell, I bet making you just go a WEEK would be pretty rough...
+@Contact1 somehow it just doesn't seem like enough
+@Contact1 Two weeks, maybe.
+@Contact1 Fourteen days of making you stroke and edge
+@Contact1 over and over
+@Contact1 maybe even make you ruin another orgasm or two
+@Contact1 now THAT would be rough
+@Contact1 But then again
+@Contact1 Why stop at two weeks when I could make you go an entire month?
+@Contact1 Could you fucking imagine?
+@Contact1 I mean, there's no way #DomName would make you go that long
+@Contact1 so it would be priceless watching you 
+@Contact1 have to worm your way out of all those orgasms she'd want to give you
+@Contact1 #StopStroking
+@Contact1 Which brings us to our next question
+@Contact1 will I be gentle with you?
+@Contact1 Why should I be? That's what #DomName for.
+@Contact1 You have no idea how much that cracks me up, by the way.
+@Contact1 So the only question left is...
+@Contact1 ...will I hurt you? @CustomTask(AV_StrokeNumberGliter1)
+@Contact1 I am SO gonna fucking hurt you.
+@Contact1 I've been thinking about last night all morning
+@Contact1 and it's so fucking obvious.
+@Contact1 The more your dick aches and suffers...
+@Contact1 the more and more it wants to cum...
+@Contact1 the better my clit will feel.
+@Contact1 #StartStroking
+@Contact1 So I will make you stroke until you absolutely can't take it anymore
+@Contact1 then let you go run back to #DomName 
+@Contact1 who thinks she's being all playful and respectful of your limits...
+@Contact1 but really she's just torturing you when you're already past the point of being broken.
+@Contact1 I can't even begin to tell you how much satisfaction I'm going to get from that.
+@Contact1 I'm going to make you edge
+@Contact1 hovering at the brink of the same orgasm I'm going to deny you every day.
+@Contact1 But don't worry...
+@Contact1 I'll still give you enough of a taste to let you know what you're missing.
+@Contact1 Get close for me
+@Contact1 Stroke it like you fucking mean it
+@Contact1 I want you so close to cumming you feel like your #Cock gonna break.
+@Contact1 Are you there...?
+@Contact1 Are you that close for me?
+@Contact1 #StopStroking
+@NullResponse @RemoveContact1
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+#PetName
+We should raise your pulse a bit. @Chance50(knees1)
+(getup1)
+Get up! @Chance50(Bite1g)
+@Goto(knees2)
+(knees1)
+#KneelForMe @Chance50(Bite1k)
+@Goto(getup2)
+(Bite1k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup2)
+(Bite1g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees2)
+(getup2)
+Get up! @Chance50(Bite2g)
+@Goto(knees3)
+(knees2)
+#KneelForMe @Chance50(Bite2k)
+@Goto(getup3)
+(Bite2k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup3)
+(Bite2g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees3)
+(getup3)
+Get up! @Chance50(Bite3g)
+@Goto(knees4)
+(knees3)
+#KneelForMe @Chance50(Bite3k)
+@Goto(getup4)
+(Bite3k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup4)
+(Bite3g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees4)
+(getup4)
+Get up! @Chance50(Bite4g)
+@Goto(knees5)
+(knees4)
+#KneelForMe @Chance50(Bite4k)
+@Goto(getup5)
+(Bite4k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup5)
+(Bite4g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees5)
+(getup5)
+Get up! @Chance50(Bite5g)
+@Goto(knees6)
+(knees5)
+#KneelForMe @Chance50(Bite5k)
+@Goto(getup6)
+(Bite5k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup6)
+(Bite5g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees6)
+(getup6)
+Get up! @Chance50(Bite6g)
+@Goto(knees7)
+(knees6)
+#KneelForMe @Chance50(Bite6k)
+@Goto(getup7)
+(Bite6k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance70(getup7)
+#ThatsEnough @Goto(final)
+(Bite6g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance70(knees7)
+#ThatsEnough @Goto(final)
+(getup7)
+Get up! @Chance50(Bite7g)
+@Goto(knees8)
+(knees7)
+#KneelForMe @Chance50(Bite7k)
+@Goto(getup8)
+(Bite7k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance60(getup8)
+#ThatsEnough @Goto(final)
+(Bite7g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance60(knees8)
+#ThatsEnough @Goto(final)
+(getup8)
+Get up! @Chance50(Bite8g)
+@Goto(knees9)
+(knees8)
+#KneelForMe @Chance50(Bite8k)
+@Goto(getup9)
+(Bite8k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance50(getup9)
+#ThatsEnough @Goto(final)
+(Bite8g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance50(knees9)
+#ThatsEnough @Goto(final)
+(getup9)
+Get up! @Chance50(Bite9g)
+@Goto(final)
+(knees9)
+#KneelForMe @Chance50(Bite9k)
+@Goto(final)
+(Bite9k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking
+#ThatsEnough @Goto(final)
+(Bite9g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking
+#ThatsEnough @Goto(final)
+(final)
+#SitDown
+That was #Great
+@End

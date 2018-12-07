@@ -1,0 +1,114 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@Flag(AV_PositionGameRules) @NullResponse @Goto(SkipInstruction)
+Hey #SubName @SetVar[AV_PosKneelNumber]=[0] 
+We are doing this for some time now... @SetVar[AV_PosPoints]=[0] 
+And I want to bring this to the next level
+Being a slave means more than jerking your cock for me every time you're aroused. 
+Being a slave means devoting yourself to an ideal, and being MY slave means devoting yourself to being the ideal slave. 
+One who rises every morning thinking of me and goes to sleep each night thinking of me. 
+One who focuses on the things that can be done to please me, learning my likes and dislikes, trying to make himself useful to me. 
+So I will begin with a little training
+Sessions affirmations and mantras for you.
+Because I know how the male mind works, 
+my words will burn themselves into your mind.
+Follow the instructions and you'll be on your way to being a good little slave boy. 
+you're gonna work on some slave positions
+I will show you a position (kneel or stand)
+You need to memorize this position for future sessions
+Anytime in the session when you hear a specific sound
+you must go to this position immediately
+If you get the correct position fast, you got points.
+If not, you lose points.
+from time to time, I can change the position, for you do not get spoiled 
+understood?
+[yes] Good 
+[no] You will when we start
+@DifferentAnswer #YesorNo #SubName?
+Let's begin... @SetFlag(AV_PositionGameRules)
+@NullResponse @Goto(AV_PositionRoll) 
+(SkipInstruction)
+Continuing in My training program, this lesson contains your new position.  @SetVar[AV_PosStandNumber]=[0] 
+Remember its Only My Way. 
+you just submit and fallow my rules.. @SetFlag(AV_PositionSecDone)
+I will reprogram you, make you to become my obediant puppet @Goto(SecondRoll) 
+(AV_PositionRoll) 
+Your first position is kneeling for me @SetVar[AVRamdomKneel]=[#Random(1, 7)]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AVRamdomKneel]=[1]Then(AVRamdKneeling1)
+@NullResponse @If[AVRamdomKneel]=[2]Then(AVRamdKneeling2)
+@NullResponse @If[AVRamdomKneel]=[3]Then(AVRamdKneeling3)
+@NullResponse @If[AVRamdomKneel]=[4]Then(AVRamdKneeling4)
+@NullResponse @If[AVRamdomKneel]=[5]Then(AVRamdKneeling5)
+@NullResponse @If[AVRamdomKneel]=[6]Then(AVRamdKneeling6)
+@NullResponse @If[AVRamdomKneel]=[7]Then(AVRamdKneeling7)
+(AVRamdKneeling1)
+Go down in this position @ShowImage[av_imagens\positions\kneel\01.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling2)
+Go down in this position @ShowImage[av_imagens\positions\kneel\02.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling3)
+Go down in this position @ShowImage[av_imagens\positions\kneel\03.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling4)
+Go down in this position @ShowImage[av_imagens\positions\kneel\04.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling5)
+Go down in this position @ShowImage[av_imagens\positions\kneel\05.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling6)
+Go down in this position @ShowImage[av_imagens\positions\kneel\06.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling7)
+Go down in this position @ShowImage[av_imagens\positions\kneel\07.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(FimKneel)
+Remember this exact position #PetName
+This is your kneel slave position
+From now on, when you hear this sound @PlayAudio[tease\Bell2.mp3] 
+you need to go to this position fast to earn points
+Unless I change to another kneeling position
+You can sit now
+@End
+(SecondRoll)
+Your Second position is standing and waiting for me  @SetVar[AVRamdomStand]=[#Random(1, 7)]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AVRamdomStand]=[1]Then(AVRamdStanding1)
+@NullResponse @If[AVRamdomStand]=[2]Then(AVRamdStanding2)
+@NullResponse @If[AVRamdomStand]=[3]Then(AVRamdStanding3)
+@NullResponse @If[AVRamdomStand]=[4]Then(AVRamdStanding4)
+@NullResponse @If[AVRamdomStand]=[5]Then(AVRamdStanding5)
+@NullResponse @If[AVRamdomStand]=[6]Then(AVRamdStanding6)
+@NullResponse @If[AVRamdomStand]=[7]Then(AVRamdStanding7)
+(AVRamdStanding1)
+Stand up in this position @ShowImage[av_imagens\positions\stand\01.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding2)
+Stand up in this position @ShowImage[av_imagens\positions\stand\02.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding3)
+Stand up in this position @ShowImage[av_imagens\positions\stand\03.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding4)
+Stand up in this position @ShowImage[av_imagens\positions\stand\04.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding5)
+Stand up in this position @ShowImage[av_imagens\positions\stand\05.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding6)
+Stand up in this position @ShowImage[av_imagens\positions\stand\06.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding7)
+Stand up in this position @ShowImage[av_imagens\positions\stand\07.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(FimStand)
+Remember this exact position #SubName
+This is your stand slave position
+From now on, when you hear this sound @PlayAudio[tease\Bell.mp3] 
+you need to go to this position fast to earn points
+Unless I change to another standing position
+You can sit now
+@End

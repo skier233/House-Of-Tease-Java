@@ -1,0 +1,29 @@
+[lets play a game, let play a game, lets play, want to play a game]
+[Before Tease]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[Before Tease End]
+[First Round]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[First Round End]
+[Stroking]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[Stroking End]
+[Not Stroking]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[Not Stroking End]
+[Edging]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[Edging End]
+[Holding The Edge]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[Holding The Edge End]
+[CBT Cock]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[CBT Cock End]
+[CBT Balls]
+@NullResponse @CallRandom(Custom\AV_Games) 
+[CBT Balls End]
+[Chastity]
+[Chastity End]
+[After Tease]
+[After Tease End]

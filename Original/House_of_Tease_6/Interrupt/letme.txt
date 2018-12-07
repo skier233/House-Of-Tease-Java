@@ -1,0 +1,48 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#Okay keep stroking and tell me #SubName @UnlockImages @Goto(inicio)
+(Sub Not Stroking)
+#Okay tell me #SubName @UnlockImages
+(inicio)
+You want to edge for who?
+[femdom, female domination] hmm @Goto(Pic1)
+[tits, boobs, tit, boob]  hmm @Goto(Pic2)
+[ass, butt] hmm @Goto(Pic3)
+[girl, pretty girl] hmm @Goto(Pic4)
+[softcore] hmm @Goto(Pic5)
+[lesbian, lesbians] hmm @Goto(Pic6)
+[Lezdom, lesdom] hmm @Goto(Pic7)
+[you, to you, mistress] hmm @Goto(Pic8)
+@DifferentAnswer You want to edge for Femdom, #Tits, #ass, a Pretty Girl, Softcore, Lesbian, Lezdom or to me,  #PetName?
+(Pic1)
+#Edge @Edge @ShowFemdomImage
+#LetTheEdgeFade
+@End
+(Pic2)
+#Edge @Edge @ShowBoobsImage
+#LetTheEdgeFade
+@End
+(Pic3)
+#Edge @Edge @ShowButtImage 
+#LetTheEdgeFade
+@End
+(Pic4)
+#Edge @Edge @ShowTaggedImage @TagArtwork
+#LetTheEdgeFade
+@End
+(Pic5)
+#Edge @Edge @ShowSoftcoreImage
+#LetTheEdgeFade
+@End
+(Pic6)
+#Edge @Edge @ShowLesbianImage
+#LetTheEdgeFade
+@End
+(Pic7)
+#Edge @Edge @ShowLezdomImage
+#LetTheEdgeFade
+@End
+(Pic8)
+#Edge @Edge
+#LetTheEdgeFade
+@End

@@ -1,0 +1,286 @@
+#GreetSub 
+@NotFlag(AV_HoTv4) @NullResponse @Call(Custom\AV_Scripts\HoTSetup.txt)
+@Flag(AV_CrashReport) @NullResponse @Goto(TeaseAICrashed)
+(NormalStart)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_QteModulos]=[0]
+@NullResponse @SetVar[AV_QteEdges]=[0]
+@NullResponse @SetVar[AV_UserEdges]=[0]
+@NullResponse @SetVar[AV_LikedClothes]=[0]
+@NullResponse @SetVar[AV_RuinChance]=[0]
+@NullResponse @SetVar[AV_CumChance]=[0]
+@NullResponse @SetDate(AV_SessionTime,0 seconds)
+@NullResponse @DeleteVar[AV_EdgeCount]
+@NullResponse @DeleteVar[AV_EdgeGoal]
+@NullResponse @DeleteVar[AV_EdgeRemaining]
+@NullResponse @DeleteVar[AV_EdgeRepeat]
+@NullResponse @DeleteVar[AV_EdgeTimeRemaining]
+@NullResponse @DeleteVar[AV_EdgeTimes]
+@NullResponse @DeleteVar[AV_EdgeCountGoal]
+@NullResponse @DeleteVar[AV_EdgeReal]
+@NullResponse @DeleteFlag(AV_SubKnees, AV_Pins, AV_task2_First, AV_PinDone, AV_DommeMistress)
+@NullResponse @DeleteFlag(AV_task2_Second, AV_task2_Third, AV_task2_Forth, AV_task2_Fift)
+@NullResponse @DeleteVar[AV_AskedSlow]
+@NullResponse @DeleteVar[AV_task2_time1]
+@NullResponse @DeleteVar[AV_task2_time2]
+@NullResponse @DeleteVar[AV_task2_time3]
+@NullResponse @DeleteVar[AV_task2_time4]
+@NullResponse @DeleteVar[AV_task2_time5]
+@NullResponse @DeleteVar[AV_task2_time6]
+@NullResponse @DeleteVar[AV_task2_EdgeCount]
+@NullResponse @DeleteVar[AV_DommeMistress]
+@NullResponse @DeleteVar[AV_GlitterControl]
+@NullResponse @SetFlag(pvNotWantNormal)
+@NullResponse @SetFlag(pthevBreakNormal)
+@NullResponse @SetVar[pthevBegForCEI]=[0]
+@NullResponse @SetVar[pthevEdgesToday]=[0]
+@NullResponse @SetVar[pvBegToCum]=[0]
+@NullResponse @SetFlag(AV_CrashReport)
+@Flag(AV_DecOrg) @NullResponse @IncreaseOrgasmChance
+@Flag(AV_IncRuin) @NullResponse @DecreaseRuinChance 
+@Flag(AV_IncOrg) @NullResponse @DecreaseOrgasmChance
+@Flag(AV_DecRuin) @NullResponse @IncreaseRuinChance
+@NullResponse @DeleteFlag(AV_TaskON, AV_DecOrg, AV_IncRuin, AV_IncOrg, AV_DecRuin)
+@NotFlag(av_fetish_pain) @NullResponse @SetFlag(AV_PinDone)
+@NullResponse @RapidCodeOff
+@NullResponse @CheckFlag(AV_NewVersion)
+@SystemMessage Everything you do in this tease is at your own risk. Know your limits.
+I am so excited for the new version of "House of Tease"
+So you're probably curious about the new features in this version
+I do have a couple new tricks up my sleeve #Grin
+First I can use a mic now
+@SystemMessage #DomName turned on the mic @PlayAudio[tease\SeSp\hello.mp3]
+Just in case I need my hands free for somethingh else #Emote
+Or just to tease you a little more
+Second, I can play some audio files for you
+And I already found a good use for this #EmoteLaugh
+you know that site with a lot of webteases?
+Milovana?
+I got some beats from there to you stroke along #Lol
+My favorite its called "Overdrive". 
+Listen @PlayAudio[tease\overdrive3.mp3] @Wait(35)
+Just imagine you stroking at that speed...
+This are some tools to help me constrain you in be a good #Slave
+There is something about having a man follow my commands against his basic instincts that just makes me wet. 
+But The best use to this is...
+I'll give you a command to 'stroke' and you'll become horny. 
+You won't be able to help it. 
+I'll tell you to get closer to an orgasm 
+and your heart will race with excitment as your cock starts to throb. 
+I'll tell you to stop and you'll immediately stop 
+even though you were so close to orgasm you could feel the cum working it's way up your cock.
+You are going to love being controlled and you will love knowing how much controlling you turns me on.
+But I'm getting ahead of myself. For now we are doing conditioning.
+I'm going to condition you to respond to the sounds of EDGE, STROKE and STOP.
+I will play this sound when I want you to start stroking @PlayAudio[tease\cStroke.mp3]
+This for a edge @PlayAudio[tease\cEdge.mp3]
+and this to stop @PlayAudio[tease\cStop.mp3]
+But this isn't really a bad thing for you.  @SetFlag(AV_NewVersion)
+You are going to love being controlled and you will love knowing how much controlling you turns me on. @Goto(Start Stroking)
+(AV_NewVersion)
+@RT(I'm having another one of those days where I'm so excited to start fucking with you, Just thinking about the things you're about to do for me, I was just thinking about you #SubName, I'm really happy to see you #GeneralTime, I think it's time for one of our special sessions, I've been thinking about all the things I could do to you, Great timing,, I just got out of the shower,, all fresh and rosy #Smile)
+@RT(What makes my pussy tingle a little bit #Smile, Your #Cock must have sensed I'm feeling a little wicked, I've been thinking about all these fun ways to torment a cock, I know we both really enjoy it, Just knowing you would come crawling back to me,, you can't imagine how horny that made me, Are you ready to be teased and denied #SubName ?) @Chance50(HornyStart)
+Is your #Cock hard already?
+[yes,hard] @RT(Mmm why doesn't that surprise me #Smile, Good boy, of course it is, Mmmm... I love when you come prepared) @Goto(start1 not surprised)
+[no,isnt,not,soft,flaccid] @RT(I think, Maybe) you need some encouragement... @Chance50(ExtraStart)
+@DifferentAnswer #YesOrNo
+That's why you have that nice collection of pictures I guess
+Pictures like this one @ShowSoftcoreImage 
+Or this video to #Stroke @PlayVideo
+@NullResponse @Goto(start1 not surprised)
+(HornyStart)
+Are you horny already?
+[yes,hard] @RT(Mmm why doesn't that surprise me #Smile, Good boy, of course it is) @Goto(start1 not surprised)
+[no,isnt,not,soft,flaccid] @RT(I think, Maybe) you need some encouragement... @Chance50(ExtraStart)
+@DifferentAnswer #YesOrNo
+Wouldn't you love some of this @ShowBlowjobImage
+Those lips wrapped around your #Cock
+#Stroke to this should help you @PlayVideo
+@NullResponse @Goto(start1 not surprised)
+(start1 not surprised)
+I @RT(demand, want, like) your #Cock @RT(hard , erect) all the time, @RT(#SubName, #PetName)
+@NotFlag(av_fetish_cfnm) @NullResponse @Chance80(NoHard)
+@Flag(av_fetish_cfnm) @NullResponse @Chance50(NoHard)
+Are you completely naked?
+[yes] Good, I like it when you're all @RT(exposed, vulnerable) #Smile @Goto(Start Stroking)
+[no] That's no good #PetName
+@DifferentAnswer #YesOrNo
+I #Want you #Naked. Take off your clothes @Chance50(NoStripSound)
+@SystemMessage #DomName turned on the mic @PlayAudio[tease\commands\Strip*.mp3]
+@NullResponse @Goto(AfterStripSound)
+(NoStripSound)
+Go ahead and take everything off
+(AfterStripSound)
+I'll show you some pictures in the meantime @ShowLesbianImage
+Just to get you in the mood #Smile @ShowHardcoreImage
+To make sure your #Cock gets hard @ShowBlowjobImage
+To get your blood pumping @ShowHardcoreImage
+(NoHard)
+@RT(Are you ready to be #GeneralTime 's entertainment for me, Are you ready to be my naked and sexy showman for today, Well come on then #PetName,, Let's do this, Are you ready for the show of a lifetime, Ready to make me soaking wet with your pain, Ready to show me how badly you need to cum)?  @ResponseYes(AV_YesNeutral) @ResponseNo(AV_NoNeutral) 
+(Start Stroking)
+@NullResponse @Goto(TaskReady)
+author comment: The line above remove the tasks from the session. If you want that back, just delete the that line and this one too.
+Now before we @RT(start, continue) @Goto(CheckPics)
+(CheckPics)
+@NullResponse @RapidCodeOn
+@Flag(AV_StartQ_04) @NullResponse @Goto(CheckPicsContinue)
+Time to get into your mind.
+You need to be taught how to speak to someone superior
+I love a #PetName who know how to speak properly. @RapidCodeOn
+@NotFlag(AV_StartQ_01) @NullResponse @CallReturn(Custom\AV_Scripts\AV_StarQ1.txt) 
+@NotFlag(AV_StartQ_01) @NullResponse @Goto(AV_SkipQ_01)
+@NotFlag(AV_StartQ_02) @NullResponse @CallReturn(Custom\AV_Scripts\AV_StarQ2.txt) 
+@NotFlag(AV_StartQ_02) @NullResponse @Goto(AV_SkipQ_02)
+@NotFlag(AV_StartQ_03) @NullResponse @CallReturn(Custom\AV_Scripts\AV_StarQ3.txt) 
+@NotFlag(AV_StartQ_03) @NullResponse @Goto(AV_SkipQ_03)
+@NotFlag(AV_StartQ_04) @NullResponse @CallReturn(Custom\AV_Scripts\AV_StarQ4.txt) 
+@NotFlag(AV_StartQ_04) @NullResponse @Goto(AV_SkipQ_04)
+(AV_SkipQ_01)
+@NullResponse @RapidCodeOn
+@NullResponse @SetFlag(AV_StartQ_01)	
+@NullResponse @Goto(CheckPicsContinue)
+(AV_SkipQ_02)
+@NullResponse @RapidCodeOn
+@NullResponse @SetFlag(AV_StartQ_02)	
+@NullResponse @Goto(CheckPicsContinue)
+(AV_SkipQ_03)
+@NullResponse @RapidCodeOn
+@NullResponse @SetFlag(AV_StartQ_03)	
+@NullResponse @Goto(CheckPicsContinue)
+(AV_SkipQ_04)
+@NullResponse @RapidCodeOn
+@NullResponse @SetFlag(AV_StartQ_04)	
+@NullResponse @Goto(CheckPicsContinue)
+(CheckPicsContinue)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Know_12_NOTREADY)
+@NullResponse @CheckFlag(AV_Know_03_NOTREADY)
+@NullResponse @CheckFlag(AV_Know_01_NOTREADY)
+@NullResponse @CheckFlag(AV_Know_00_NOTREADY)
+@NullResponse @Goto(CheckTasks)
+(AV_Know_00_NOTREADY)
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\02\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage There are 10 pictures files and the last file in that folder is MyCelebCrush_Actress.txt @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Did you want to share this folder with your partner? @ShowImage[av_imagens\System.jpg] 
+[yes] @NullResponse @DeleteFlag(AV_Know_00_NOTREADY) @ShowImage[av_imagens\System.jpg]
+[no] @NullResponse  @ShowImage[av_imagens\System.jpg] @Goto(pula1)
+@SystemMessage @DifferentAnswer Yes or no? @ShowImage[av_imagens\System.jpg] 
+@NullResponse @ChangeVar[AV_ModGlitter2]=[AV_ModGlitter2]-[1]
+(pula1)
+@NullResponse @CheckFlag(AV_Know_12_NOTREADY) @RapidCodeOn
+@NullResponse @CheckFlag(AV_Know_03_NOTREADY)
+@NullResponse @CheckFlag(AV_Know_01_NOTREADY)
+@NullResponse @Goto(DommeBack) @ShowImage[av_imagens\System.jpg] 
+(AV_Know_01_NOTREADY)
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\03\ @ShowImage[av_imagens\System.jpg] 
+@SystemMessage There are 10 pictures files, 1 video file *TeaseAI\Video\AV_Clips* and the last file in that folder is MyCelebCrush_Singer.txt @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Did you want to share this folder with your partner? @ShowImage[av_imagens\System.jpg] 
+[yes] @NullResponse @DeleteFlag(AV_Know_01_NOTREADY) @ShowImage[av_imagens\System.jpg] 
+[no] @NullResponse  @ShowImage[av_imagens\System.jpg]  @Goto(pula2)
+@SystemMessage @DifferentAnswer Yes or no? @ShowImage[av_imagens\System.jpg] 
+@NullResponse @ChangeVar[AV_ModGlitter2]=[AV_ModGlitter2]-[100]
+(pula2)
+@NullResponse @CheckFlag(AV_Know_12_NOTREADY) @RapidCodeOn
+@NullResponse @CheckFlag(AV_Know_03_NOTREADY)
+@NullResponse @Goto(DommeBack) @ShowImage[av_imagens\System.jpg] 
+(AV_Know_03_NOTREADY)
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\04\  and TeaseAI\Video\AV_Clips\04 @ShowImage[av_imagens\System.jpg] 
+@SystemMessage There are 10 pics in the first and 1 video file in the second, the last file in that folder is MyFavouritePornstar.txt @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Did you want to share this folder with your partner? @ShowImage[av_imagens\System.jpg] 
+[yes] @NullResponse @DeleteFlag(AV_Know_03_NOTREADY) @RapidCodeOn @ShowImage[av_imagens\System.jpg] 
+[no] @NullResponse  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage @DifferentAnswer Yes or no? @ShowImage[av_imagens\System.jpg] 
+@NullResponse @CheckFlag(AV_Know_12_NOTREADY) @ShowImage[av_imagens\System.jpg] 
+@NullResponse @Goto(DommeBack) @ShowImage[av_imagens\System.jpg] 
+(AV_Know_12_NOTREADY)
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\01\ @ShowImage[av_imagens\System.jpg] 
+@SystemMessage There are 10 pictures files and the last file in that folder is MySecretCrush.txt @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Did you want to share this folder with your partner? @ShowImage[av_imagens\System.jpg] 
+[yes] @NullResponse @DeleteFlag(AV_Know_12_NOTREADY) @RapidCodeOn @ShowImage[av_imagens\System.jpg] 
+[no] @NullResponse  @ShowImage[av_imagens\System.jpg]  @Goto(DommeBack)
+@SystemMessage @DifferentAnswer Yes or no? @ShowImage[av_imagens\System.jpg] 
+@NullResponse @ChangeVar[AV_ModGlitter2]=[AV_ModGlitter2]-[1000]
+(DommeBack)
+I see you shared a new folder with me #EmoteSmile
+I'll check this later
+For now
+(CheckTasks)
+Did you completed the tasks I sent you in the last session?
+[yes] #Great  @Goto(TaskReady)
+[no] too bad, now I need to give you some extra tasks in this session 
+@DifferentAnswer Yes or no #PetName?
+@NullResponse @CheckFlag(AV_knowTask_Rules)
+You can execute at any moment of this session
+You only need to ask me, typing "task" in the chat room
+Sometimes I will ask you to execute the tasks when I want to
+But do not take too long
+If I end our session without you finished your tasks
+will have consequence in you chance to cum @SetFlag(AV_knowTask_Rules)
+(AV_knowTask_Rules)
+@NullResponse @TempFlag(AV_TaskON)
+Let's choose you task for today @Goto(task1,task2,task3,task4,task5,task6,task7,task8,task9) @RapidCodeOn
+(task1)
+@NullResponse @Call(Custom\AV_Scripts\AV_Task1.txt)
+(task2)
+@NullResponse @Call(Custom\AV_Scripts\AV_Task2.txt)
+(task3)
+@NullResponse @Call(Custom\AV_Scripts\AV_Task3.txt)
+(task4)
+#1_ST_TagState @TempFlag(AV_taskOP4)
+Your task today: I want you to pick out 1 of your favorite sexy videos. 
+It can be long or short, but you are going to stroke through the entire thing. #Grin 
+To make it more interesting, if you get close I want you to take your hands off and pause the video. 
+When you've cooled down a little, press play and get back to stroking. @Goto(TaskReady)
+(task5) @RapidCodeOn
+@NullResponse @Call(Custom\AV_Scripts\AV_Task5.txt)
+(task6) @RapidCodeOn
+@NullResponse @Call(Custom\AV_Scripts\AV_Task6.txt)
+(task7) @RapidCodeOn
+@NullResponse @Call(Custom\AV_Scripts\AV_Task7.txt)
+(task8) @RapidCodeOn
+@NullResponse @Call(Custom\AV_Scripts\AV_Task8.txt)
+(task9)
+#1_ST_TagState @TempFlag(AV_taskOP9)
+For task today I feel like being very, very cruel to you #PetName. 
+I want you to set 10 minutes. Then I want you to start stroking your #Cock. 
+You're going to edge yourself as much as possible for me. 
+When you get close, stop and rest for 30 seconds, then right back to the edge. 
+You're going to do this for me, edging over and over for the entire amount of time. 
+When the time's up, you're done touching with a painful case of blue balls #Grin @Goto(TaskReady)
+(TaskReady)
+@NullResponse @Chance25(ExtraStart)
+Now take that #Cock @RT(out of your pants, in your hand)
+And #StartStroking @StartStroking
+@End
+(TeaseAICrashed)
+@SystemMessage Did TeaseAI crashed? @ShowImage[av_imagens\System.jpg] 
+[yes] @SystemMessage OK, Let's try to continue the last session @ShowImage[av_imagens\System.jpg] 
+[no] @SystemMessage OK @Goto(NormalStart) @ShowImage[av_imagens\System.jpg] 
+@DifferentAnswer #YesorNo?
+@SystemMessage How many minutes (approximately) passed before the crash? @ShowImage[av_imagens\System.jpg] 
+[10] @SystemMessage OK @RemoveTeaseTime(10 Minutes) @ShowImage[av_imagens\System.jpg] 
+[20] @SystemMessage OK @RemoveTeaseTime(20 Minutes) @ShowImage[av_imagens\System.jpg] 
+[30] @SystemMessage OK @RemoveTeaseTime(30 Minutes) @ShowImage[av_imagens\System.jpg] 
+[40] @SystemMessage OK @RemoveTeaseTime(40 Minutes) @ShowImage[av_imagens\System.jpg] 
+[50] @SystemMessage OK @RemoveTeaseTime(50 Minutes) @ShowImage[av_imagens\System.jpg] 
+[60] @SystemMessage OK @RemoveTeaseTime(59 Minutes) @ShowImage[av_imagens\System.jpg] 
+@DifferentAnswer The options are: 10, 20, 30, 40, 50 or 60
+@SystemMessage Did you enter in the "Mistress Mode"? - #DomName said "What I want today is a slave, a toy that I can play with, someone who will do ANYTHING I demand" @ShowImage[av_imagens\System.jpg] 
+[yes] @SystemMessage OK @ShowImage[av_imagens\System.jpg] 
+[no] @SystemMessage OK @ShowImage[av_imagens\System.jpg]  @Goto(RamdomMOOD)
+@DifferentAnswer #YesorNo?
+@NullResponse @RapidCodeOn
+@NullResponse @MoodUp
+@NullResponse @DommeLevelUp
+@NullResponse @ApathyLevelUp 
+@NullResponse @TempFlag(AV_DommeMistress)
+@NullResponse @TempFlag(AV_PinDone)
+(RamdomMOOD)
+@SystemMessage Ready to continue the last session... @ShowImage[av_imagens\System.jpg] 
+#StartStroking @StartStroking
+@End
+(ExtraStart)
+@NullResponse @CallReturn(Custom\AV_Scripts\StartVariation.txt)
+Now @RT(the real fun begins, let's get serious, let's start for real)...
+#StartStroking @StartStroking
+@End

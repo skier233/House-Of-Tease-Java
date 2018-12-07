@@ -1,0 +1,728 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModMissBlue2_NotFirstTime)
+@NullResponse @SetVar[AV_ModMissBlue2]=[0] 
+@NullResponse @SetFlag(AV_ModMissBlue2_NotFirstTime)
+(AV_ModMissBlue2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModMissBlue2]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModMissBlue2]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModMissBlue2]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModMissBlue2]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModMissBlue2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModMissBlue2]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModMissBlue2]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModMissBlue2]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModMissBlue2]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModMissBlue2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModMissBlue2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModMissBlue2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModMissBlue2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModMissBlue2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModMissBlue2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModMissBlue2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModMissBlue2]=[AV_ModMissBlue2]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModMissBlue2]=[AV_ModMissBlue2]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModMissBlue2]=[AV_ModMissBlue2]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModMissBlue2]=[AV_ModMissBlue2]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModMissBlue2]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+#StopStroking @StopStroking 
+Hmmm... #Grin @ShowFemdomImage
+I like the idea of sharing you with other women #SubName
+@Flag(pthevPartnerCanJoin) And I mean not just @ShowVar[pthevNamePartner]
+Some of my friends would love to have their way with you #Grin
+Especially #Contact1 and #Contact3
+To be honest, #Contact3 might be too much for you to handle #Laugh
+Would you mind if they join us sometime?
+[yes] That's unfortunate
+[no] Good #Smile
+@DifferentAnswer #YesOrNo
+Because #Contact1 has already been reading along...
+@NullResponse @AddContact1
+@Contact1 Hi #SubName :) @Timeout(7,said hi)
+[hi,hello,hey] @NullResponse @Goto(replied something)
+[how are you,how do you do] @Contact1 I'm fine thank you. Wow #ShortName you've trained him well
+[nice to meet,happy to meet,glad to meet] @Contact1 Same here #SubName. Wow #ShortName you've trained him well 
+@AcceptAnswer @NullResponse @Goto(replied something)
+Well he was pretty well-trained to begin with...
+God knows how that happened #Laugh
+@Flag(pthevMarried) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevGirlfriend) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevExGF) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevSubInLove) Maybe he's trying to impress @ShowVar[pthevNamePartner] by being an allround nice guy
+@Contact1 Well, submissive guys tend to be like that
+That's true @Goto(replied something)
+(said hi)
+Aren't you going to say hi to my friend #PetName?
+[hi,hello,hey] @NullResponse @Goto(replied something)
+[how are you,how do you do] @Contact I'm fine thanks. #ShortName you may have trained him too well
+[nice to meet,happy to meet,glad to meet] @Contact1 Same here #SubName. #ShortName you've trained him too well 
+@AcceptAnswer @NullResponse @Goto(replied something)
+@Contact1 I mean, waiting for your permission to say hello seems a bit much
+Well he was pretty well-trained to begin with...
+God knows how that happened #Laugh
+@Flag(pthevMarried) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevGirlfriend) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevExGF) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevSubInLove) Maybe he's trying to impress @ShowVar[pthevNamePartner] by being an allround nice guy
+@Contact1 Well, submissive guys tend to be like that
+That's true
+(replied something)
+@Contact1 So how turned on is he right now?
+Only one way to be sure: check how fast he can edge #EmoteHappy
+@Contact1 Alright, get to the edge #SubName @Edge
+@Contact1 Well we did learn that he listens pretty good 
+What about his turned-on-ness?
+@Contact1 I'm not sure, I think I have to see that again
+@Contact1 Get to the edge again #SubName @Edge
+@Contact1 I think his turned-on-ness isn't quite up to my standards yet 
+Your standards are pretty high, to be honest
+@Contact1 At least you didn't invite #Contact3, I can't even <i>see</i> her standards
+I'm sure she'll want to get in on this soon enough #Laugh
+@Contact1 Be very afraid #SubName... Also, get to the edge one more time @Edge
+@Contact1 Nice...
+@Contact1 I'll leave you to it #ShortName, I'd love to get some more time with #SubName though
+I'm sure there will be plenty of time for that #Grin
+@Contact1 Good! See ya soon...
+Bye #Contact1
+@Contact1 Bye #SubName
+@NullResponse @RemoveContact1
+Such a nice girl #Smile
+@End
+(Modulo2)
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pthevMod09NoInstructions)
+Let's do a little training exercise #PetName
+(explain again)
+This exercise is not about how fast you can go
+But how <i>slow</i>
+In a moment you're going to hear a bell
+This bell @PlayAudio[PtheV\bell.mp3]
+When you do, I want you to start stroking at a very slow pace
+1 full stroke up and down every 5 seconds
+You will count your strokes: up and down counts as one stroke
+I will keep time, and at the end we'll see if you've kept pace #Smile @SetFlag(pthevMod09NoInstructions)
+You have to stop stroking when you hear the bell, clear?
+[yes] Good @Goto(and no cheating)
+[no] It's not that hard #PetName
+[how long,how much time] You'll know when the bell rings again #Smile @Goto(and no cheating)
+@DifferentAnswer #YesOrNo
+When you hear the bell, start stroking at 1 stroke per 5 seconds
+Count your strokes
+When you hear the bell again, stop stroking
+Then I will ask you how many strokes you did
+(and no cheating)
+And no cheating by looking at the clock #SubName! @Goto(eighty,ninety,hundred)
+(pthevMod09NoInstructions)
+Let's do another slow-stroking exercise
+You remember the rules, right?
+[yes] Alright, then let's play #Smile
+[no] Then let me explain, again... *sigh* @Goto(explain again)
+@DifferentAnswer #YesOrNo
+@NullResponse @Goto(eighty,ninety,hundred)
+(ninety)
+Get ready...
+@NullResponse @RapidTextOn @AFKOn
+Go! @PlayAudio[PtheV\bell.mp3] @Wait(90)
+@NullResponse @PlayAudio[PtheV\bell.mp3]
+@NullResponse @RapidTextOff @AFKOff
+That was the bell, you better stop stroking #PetName
+How many strokes did you do?
+[lost count, don't know] Better start over #PetName @Goto(ninety)
+[18,eighteen] That's exactly the right amount!
+[16,sixteen] You'll a little off target there #SubName @Goto(ninety almost right)
+[17,seventeen] Oooh so close...! @Goto(ninety almost right)
+[19,nineteen] Close, but no @Goto(ninety almost right)
+[20,twenty] A few too many, you got greedy #SubName @Goto(ninety almost right)
+@DifferentAnswer Nope, start again #Smile @Goto(ninety)
+As a reward you can edge for me now #Smile @Edge
+#LetTheEdgeFade
+@End
+(ninety almost right)
+But because you were close, I won't let you start over
+You're going to have to endure some pain though #Grin @CBT
+Maybe next time you'll do better #Smile
+@End
+(hundred)
+Get ready...
+@NullResponse @RapidTextOn @AFKOn
+Go! @PlayAudio[PtheV\bell.mp3] @Wait(100)
+@NullResponse @PlayAudio[PtheV\bell.mp3]
+@NullResponse @RapidTextOff @AFKOff
+That was the bell, you better stop stroking #PetName
+How many strokes did you do?
+[lost count, don't know] Better start over #PetName @Goto(hundred)
+[20,twenty] That's exactly the right amount!
+[18,eighteen] You'll a little off target there #SubName @Goto(hundred almost right)
+[19,nineteen] Oooh so close...! @Goto(hundred almost right)
+[21,twenty-one] Close, but no @Goto(hundred almost right)
+[22,twenty-two] A few too many, you got greedy #SubName @Goto(hundred almost right)
+@DifferentAnswer Nope, start again #Smile @Goto(hundred seconds)
+As a reward you can edge for me now #Smile @Edge
+#LetTheEdgeFade
+@End
+(hundred almost right)
+But because you were close, I won't let you start over
+You're going to have to endure some pain though #Grin @CBT
+Maybe next time you'll do better #Smile
+@End
+(eighty)
+Get ready...
+@NullResponse @RapidTextOn @AFKOn
+Go! @PlayAudio[PtheV\bell.mp3] @Wait(80)
+@NullResponse @PlayAudio[PtheV\bell.mp3]
+@NullResponse @RapidTextOff @AFKOff
+That was the bell, you better stop stroking #PetName
+How many strokes did you do?
+[lost count, don't know] Better start over #PetName @Goto(eighty)
+[16,sixteen] That's exactly the right amount!
+[14,fourteen] You'll a little off target there #SubName @Goto(eighty almost right)
+[15,fifteen] Oooh so close...! @Goto(eighty almost right)
+[17,seventeen] Close, but no @Goto(eighty almost right)
+[18,eighteen]  A few too many, you got greedy #SubName @Goto(eighty almost right)
+@DifferentAnswer Nope, start again #Smile @Goto(eighty)
+As a reward you can edge for me now #Smile @Edge
+#LetTheEdgeFade
+@End
+(eighty almost right)
+But because you were close, I won't let you start over
+You're going to have to endure some pain though #Grin @CBT
+Maybe next time you'll do better #Smile
+@End
+(Modulo3)
+@NullResponse @CheckFlag(pthevMod12Skip)
+@NullResponse @TempFlag(pthevMod12Skip)
+@NullResponse @CheckFlag(pthevAnal)
+@NullResponse @CheckFlag(pthevNoAnal)
+#Edge @Edge
+We pay a lot of attention to your #Cock don't we
+But there are other things we can do to deepen the ache in your #Balls
+Other... parts of your body to explore
+Would you like that?
+[yes] Good #EmoteHappy You must be wondering what I'm thinking of now
+[no] You haven't even heard what I have in mind... #Grin
+[like what,have in mind,what is it,what do you mean,don't understand] Oh you'll find out soon enough #Grin
+[not sure,don't know] You could be a little more trusting #SubName #Smile
+[anal,assplay,dildo,buttplug,butt,ass] That's amazing, you read my mind! @Goto(guessed_it)
+@AcceptAnswer You must be wondering what I have in mind
+Does the uncertainty make you nervous, maybe even a little scared?
+[yes] I like it when you're a little scared #Grin
+[no] I guess there's probably no need to be nervous
+[nervous] You probably <i>should</i> be a little nervous #Grin
+[scared] Aww poor #PetName #Grin
+@AcceptAnswer There's probably no need to be nervous
+Want to guess what it is that I want you to do?
+[yes,sure,okay,let me think,allright] So what do you think? @LoopAnswer
+[no,tell me,don't want,don't like,don't know,what is it,give up,say it] @NullResponse
+[anal,assplay,dildo,buttplug,butt,ass] Bingo! @Goto(guessed_it)
+@DifferentAnswer Nope, try again
+#SubName...
+(guessed_it)
+Have you ever done anal play before?
+[yes] Wow... @Goto(doneitbefore)
+[no] Okay, no problem
+@DifferentAnswer Have you done it or not?
+First time for everything, right? @TempFlag(pthevAnalFirstTimer)
+[yes,i guess,true] Glad you agree #Smile @Goto(doneitbefore)
+[no,don't want,please don't] Okay, don't worry #SubName 
+[if you want,if that's what you want] That <i>is</i> what I want #Smile @Goto(doneitbefore)
+[if you say so] I say so #Smile @Goto(doneitbefore)
+@DifferentAnswer Is anal play something you'd like to try?
+(some other time)
+Maybe some other time... @SetFlag(pthevNoAnal) @DeleteFlag(pthevAnal)
+I do hope you'll reconsider #Smile
+@End
+(doneitbefore)
+Do you have a dildo or buttplug, or both?
+[yes] which one? @LoopAnswer
+[no,neither] That's too bad @Goto(does not own dildo)
+[dildo] Awesome! @SetFlag(pthevDildo)
+[buttplug] Great! @SetFlag(pthevButtPlug)
+[both] I was hoping you'd say that! @SetFlag(pthevDildo) @SetFlag(pthevButtPlug)
+@DifferentAnswer That's very interesting, but do you own a dildo or buttplug?
+(how about it)
+So how about it, will you take it up the ass for me?
+[yes] #Yay @Goto(saidyes)
+[no] That's okay, I don't want to force you to do it
+@DifferentAnswer #YesOrNo
+It's too bad though @ShowTaggedImage @TagAnal @LockImages
+Your porn collection seems to suggest you're into it @ShowTaggedImage @TagAnal
+Are you sure about this? @ShowTaggedImage @TagAnal @UnlockImages
+[yes,i'm sure] Alright then #EmoteSad @Goto(some other time)
+[no,not sure,don't know] Those images looked pretty good eh? #Grin @Goto(how about it)
+@DifferentAnswer Do you want to move on to something else?
+I'll ease you into it #SubName
+(saidyes)
+@NullResponse @SetFlag(pthevAnal) @DeleteFlag(pthevNoAnal)
+@Flag(pthevDildo) Let's play with that dildo #Name @Goto(go get dildo)
+@Flag(pthevButtPlug) I do wish you had a dildo too
+Maybe you will someday...
+But it's good to know you have a plug
+I'm sure I'll find a way to put it to use #Grin
+But not now
+@End
+(does not own dildo)
+Do you have something with a similar shape you could use?
+[yes] Great! I'm not sure I want to know what it is though #Lol @Goto(gogetitthen)
+[no] Never mind then @Goto(nothingavailable)
+[like what,don't know,not sure,example,what do you mean] Well, anything shaped like an erect cock will do...
+[changed my mind,don't want,don't make me] #EmoteSad @Goto(some other time)
+@DifferentAnswer #YesOrNo
+You do know what a cock looks like right? #Smile
+So do you have something you can use?
+[yes] Great! I'm not sure I want to know what it is though #Lol @Goto(gogetitthen)
+[no] Hmm then it no use I guess @Goto(nothingavailable)
+[changed my mind,don't want,don't make me] Alright then... #EmoteSad @Goto(some other time)
+@DifferentAnswer Yes or no?
+(gogetitthen)
+Go get it, let me know when you're ready
+[yes,back,returned,i'm here,got it,ready] This is going to be interesting #Grin
+[don't have,haven't got,couldn't find,haven't found] Oh well, maybe next time #EmoteSad @Goto(nothingavailable)
+[changed my mind,don't want,don't make me] Alright then... #EmoteSad @Goto(some other time)
+[no] Go get your dildo-shaped something #PetName! @LoopAnswer
+[don't like it,don't like this] You don't have to like, you're doing it for me remember #EmoteHappy @LoopAnswer
+[wait,one sec,one second,one moment,hold on,not ready] I'll wait @LoopAnswer
+@DifferentAnswer Are you ready?
+Before we get started... @SetFlag(pthevAnalOther)
+#Edge @Edge
+#LetTheEdgeFade
+Here's some inspiration @ShowTaggedImage @TagAnal @LockImages
+#EmoteMoan @ShowTaggedImage @TagAnal 
+@NullResponse @ShowTaggedImage @TagAnal
+#Edge @Edge
+#LetTheEdgeFade @UnlockImages
+I'm going to regret asking, but I'm going to anyway...
+What have you got there?
+[changed my mind,don't want,don't make me] I don't want to force you to do anything you don't want #SubName @Goto(some other time)
+[dildo] I thought you didn't have one... #Lol @Goto(lubeonit)
+[carrot,cucumber,banana,fruit,vegetable] As long as you don't eat it afterwards #Lol
+[candle,candelstick] We could use that in other ways as well...
+[what do you mean,dont understand] What are you going to stick in your #Ass @LoopAnswer
+@AcceptAnswer Alright, if it works for you...
+You might want to use a condom with that too 
+Need some more time to prepare?
+[yes,wait,one sec,one second,one moment,hold on,not ready] I'll wait @LoopAnswer
+[no,ready,i'm fine,lets begin,lets go] I'm sure you're getting a little impatient too #Grin @Goto(lubeonit)
+[changed my mind,don't want,don't make me] I don't want to force you to do anything you don't want #SubName @Goto(some other time)
+@DifferentAnswer Are you going to make me wait much longer?
+(go get dildo)
+Go get it for me, let me know when you're ready
+[yes,back,returned,i'm here,got it,ready] This is going to be interesting #Grin
+[changed my mind,don't want,don't make me] It's okay #SubName I don't want to force you to do anything you don't want #SubName @Goto(some other time)
+[no] Go get your dildo #PetName! @LoopAnswer
+[don't like it,don't like this] You don't have to like, you're doing it for me remember #EmoteHappy @LoopAnswer
+[wait,one sec,one second,one moment,hold on,not ready] Sure I'll wait @LoopAnswer
+@DifferentAnswer Are you ready?
+(lubeonit)
+Put some lube on it
+Make it nice and slippery
+Just imagine I'm there with you
+Wearing a strapon
+That would look something like this @ShowTaggedImage @TagStrapon @TagSoloF @LockImages
+Lube up your asshole too, rub it with your fingers
+Alright here we go #PetName @UnlockImages
+Put the tip against your asshole, but don't push it in yet
+Gently rub your #Ass with it
+Draw little circles
+Put a little bit of pressure on it
+Doesn't that feel gooood #EmoteHappy
+Imagine it's a girl licking your ass @ShowTaggedImage @TagLesbian @TagRimming
+Feel her warm wet tongue on your skin @ShowTaggedImage @TagLesbian @TagRimming
+#SubName...
+Push it inside, but no more than 1 inch
+Hold it there #SubName, think about me and my strapon @ShowTaggedImage @TagStrapon @TagSoloF
+Take it out again
+And push it back in, deeper than before
+#EmoteMoan just feel that cock inside of your ass
+Pull it out... @Wait(8)
+And slide it in again
+Deeper #SubName @Wait(5)
+Even deeper, as deep as you can now
+God that's hot @ShowTaggedImage @TagStrapon
+Pull it back out again @ShowTaggedImage @TagStrapon @Wait(5)
+Now push it in very slowly one more time
+Push it in all the way 
+Push it in deeper #Name @Wait
+Hold it right there, start stroking your #Cock @Wait(8)
+#Edge @EdgeNoHold
+#LetTheEdgeFade 
+Take it out out of your #Ass
+That's enough for now #Smile
+Take a moment to clean up if necessary #SubName
+Let me know when you're ready to continue
+[ready,continue,go on,move on] #Smile
+[not yet,hold on,wait,need some time,need more time] I'll be right here #PetName, let me know when you're ready @LoopAnswer
+@DifferentAnswer Are you ready or do you need more time?
+@NullResponse @CheckFlag(pthevAnalFirstTimer,proud of you)
+@End
+(proud of you)
+I'm proud of you #Name #EmoteHappy
+You made me very happy #GeneralTime
+How do you feel about what you just did?
+[good,awesome,great] Glad to hear it #EmoteHappy
+[bad,terrible,like shit,ashamed] I'm sorry to hear that #SubName
+[horny,aroused,turned on,sexy] #Grin
+[weird,strange,confused] Would you say it's more a good or a bad feeling? @LoopAnswer
+@DifferentAnswer So... is that good or bad?
+Do you want to continue or is that enough for today?
+[enough] That's okay, it's been a pretty intense session @Goto(endsession)
+[continue,don't stop,don't want to stop,don't wanna stop,go on] Yeah, I didn't think you'd want to stop
+@DifferentAnswer Do you want to continue or have you had enough?
+We're just getting into a groove here #EmoteHappy @BookmarkModule
+@End
+#StopStroking @StopStroking 
+I hope your asshole has recovered by now...
+Don't worry #PetName, we won't go there again #Smile
+Just wanted to tell you again that I'm really proud of you
+You know I will always respect your limits
+But I LOVE it when you allow me to stretch those limits a little bit
+Now I do wonder what else I can talk you into doing... #Grin
+@End
+(endsession)
+But I want you to know that I'm really proud of you #PetName
+I hope we didn't cross your limits #GeneralTime?
+[yes,we did,you did,too much,crossed my limits] I'm so sorry #SubName #EmoteSad
+[no,i'm okay,i'm fine,no problem] Okay then #Smile @Goto(seeyasoon)
+@DifferentAnswer So did we cross your limits, yes or no?
+You know you can always use the safeword right?
+Whenever we cross a line or it's just a little too much just type the safeword
+And we'll stop our session immediately
+Go take care of yourself now #SubName 
+(seeyasoon)
+Bye for now, see you soon! #EmoteHappy @EndTease
+@End
+(nothingavailable)
+Make sure to find something you can use
+Like a candle or the handle of a hairbrush
+Or a firm and appropriately shaped piece of fruit #Laugh
+You could buy a dildo of course...
+Keep it ready so we can play when I feel like it
+@End
+(pthevAnal)
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pthevDildo)
+@NullResponse @CheckFlag(pthevButtPlug)
+@NullResponse @CheckFlag(pthevAnalOther)
+Remember when we talked about doing some anal #SubName?
+I think you were going to get a dildo or buttplug...
+Did you get it?
+[yes] Did you get a dildo or buttplug? Or do you have some other phallus shaped object... @LoopAnswer
+[no] Too bad, well maybe next time... @Goto(luckyforme)
+[dildo] Awesome @SetFlag(pthevDildo)
+[buttplug] Awesome @SetFlag(pthevButtPlug)
+[both] Excellent! @SetFlag(pthevDildo) @SetFlag(pthevButtPlug)
+[something else,other,different,object] Okay #Smile
+@DifferentAnswer You have something yes or no?
+I'll keep it in mind #SubName #Grin
+@End
+(pthevAnalOther)
+(pthevDildo)
+How about some anal play #SubName?
+[yes] Good boy #EmoteHappy
+[no] Oh you spoilsport... #EmoteSad @Goto(luckyforme)
+@DifferentAnswer Is that a yes or a no?
+Do you have your toy ready to go?
+[yes,ready] Look at you, all prepared #Lol @Goto(readytogo)
+[no,need time,need a moment,wait,hold on] You know you have to be ready for anything #PetName
+@DifferentAnswer Are you ready or do you need a moment?
+Let me know when you are ready, I'll wait...
+[ready,let's begin, let's start,good to go] Alright then
+[need time,need more time,need a moment,wait,hold on] No problem @LoopAnswer
+[changed my mind,don't want,don't make me] It's okay #SubName @Goto(luckyforme)
+@DifferentAnswer Ready, or do you need more time?
+(readytogo)
+Go ahead and get that toy lubed up if you haven't already
+Make it nice and slippery
+And don't forget to put some lube on your ass
+You'll want it to slide in nice and smooth
+I've been there, I know what I'm talking about #EmoteLaugh
+Get ready, hold the tip of your toy up against your ass
+Nice and easy now 
+You know what to do #SubName, push it in @Wait(10)
+Slide it in and out, imagine how I would fuck you @Wait(15)
+If me and my big strapon were right there with you...
+I'd make you my bitch #SubName @CBTCock
+Do you think you could cum just by doing this?
+[yes] Better make sure you don't #PetName, not without permission anyway @Goto(edgebyanal)
+[no] A lot of guys can do that you know
+[maybe,don't know,not sure] Let's not wait for something that might never happen
+@DifferentAnswer Yes or no #PetName?
+Take your toy out of your ass
+Now grab your #Cock and edge for me @Edge
+#LetTheEdgeFade
+That's enough for now, put that toy away #PetName
+Let me know when you're ready to continue
+[ready,continue,go on,move on] Good
+[not ready,hold on,wait,need some time,need more time] Alright, let me know when you're ready @LoopAnswer
+@DifferentAnswer Are you ready or do you need more time?
+@End
+(edgebyanal)
+Try to edge for me without touching your #Cock
+If you can't then you can use your free hand to stroke to the edge @Edge
+#LetTheEdgeFade
+Put that toy away #PetName, clean up if necessary
+Let me know when you're ready to continue
+[ready,continue,go on,move on] #Smile
+[not ready,hold on,wait,need some time,need more time] Alright, let me know when you're ready @LoopAnswer
+@DifferentAnswer Are you ready or do you need more time?
+@End
+(luckyforme)
+Lucky for me there are plenty of other ways to torment you #Grin
+@End
+(pthevButtPlug)
+Go get your Buttplug #PetName
+I want you to wear it for me
+Put it in right now #Name
+I think you probably don't need me to tell you how, right? @Timeout(10,tell me how)
+[yes] It's simple #Name
+[no] I didn't think so
+@AcceptAnswer It's not a difficult task
+(tell me how)
+Just lube it up and slide it in @Wait(9)
+Is it in?
+[yes,ready,done,it's in] Good @TempFlag(pthevPlugged)
+[no] Hurry up then, let me know when you're ready
+@DifferentAnswer Let me know when you're ready
+@End
+(pthevMod12Skip)
+(pthevNoAnal)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(Modulo4)
+@NullResponse @CheckFlag(pthevMod01xC)
+@NullResponse @CheckFlag(pthevMod01xB)
+@NullResponse @CheckFlag(pthevMod01xA)
+Stop @StopStroking
+Don't you hate it when you have to stop
+Just when you're getting into a nice groove
+Not that I'm done teasing you of course #Grin
+The great thing about that is that I can always start over @SetFlag(pthevMod01xA)
+@End
+(pthevMod01xA)
+@NullResponse @SetFlag(pthevMod01xB) @DeleteFlag(pthevMod01xA)
+#StopStroking @StopStroking
+I love it when you do what I say
+Makes me wonder what else I could make you do
+Would you do <i>anything</i> I say?
+[yes, of course, absolutely, always] Oh really now #Grin @Goto(will do anything)
+[no] That's good, you still have a mind of your own #Smile @Goto(mind of your own)
+[maybe, don't know, not sure, depends] I'm sure we'll hit your limit at some point
+@DifferentAnswer #YesOrNo
+We'll see it when we get there I suppose #Smile
+(mind of your own)
+@End
+(will do anything)
+Okay, let me think...
+If I told you to run outside naked
+And kiss the ass of the first woman you see
+Would you do it?
+[yes] Don't be ridiculous #PetName #Lol
+[no] And thank god for that #Lol
+@DifferentAnswer #YesOrNo
+No woman wants some random naked guy kiss her ass
+@End
+(pthevMod01xB)
+@NullResponse @SetFlag(pthevMod01xC) @DeleteFlag(pthevMod01xB)
+@NullResponse @CheckFlag(pthevVirgin)
+@NullResponse @CheckFlag(pthevMarried) 
+@NullResponse @CheckFlag(pthevGirlfriend)
+#StopStroking @StopStroking
+I love it when you obey me just like that
+Without even asking why
+When I stop stroking you just stop @Goto(being an obedient)
+@End
+(pthevVirgin)
+#StopStroking @StopStroking
+You're my little virgin aren't you?
+[yes] I like that about you #SubName @Goto(i like that about you)
+[no] @NullResponse
+@DifferentAnswer #YesOrNo
+You're not mine or not a virgin?
+[not yours, don't belong] I beg to differ #PetName
+[not a virgin, not virgin, had sex, both] Oh sorry I thought you were still a virgin... @Goto(thought you were)
+@DifferentAnswer Either you're not mine or not a virgin, which is it?
+You're still a virgin though, right?
+[yes] I like that about you #SubName @Goto(i like that about you)
+[no]  Oh sorry I thought you were still a virgin...
+@DifferentAnswer #YesOrNo
+(thought you were)
+I'll remember it from now on @DeleteFlag(pthevVirgin)
+It's a pity, I kind of like virgins
+It's okay though, as long as you obey my commands #Smile
+And by the way #SubName @Goto(being an obedient)
+@End
+(i like that about you)
+#StopStroking @StopStroking
+Do you feel embarrassed you that you are still a virgin?
+[yes] Well don't #SubName @SetFlag(pthevVirginEmbarrassed)
+[no] Good, it shouldn't #Smile
+@DifferentAnswer #YesOrNo
+It's not a big deal, not to me at least
+Though I know to some people it is, #Contact1 for example
+She's my friend, but she can be a real bitch sometimes #Laugh
+Somehow I feel like being a virgin makes you a better sub
+More eager to please and follow instructions @Goto(being an obedient)
+@End
+(pthevGirlfriend)
+(pthevMarried)
+#StopStroking @StopStroking
+I wonder what real life is like for you
+Like, do you obey @ShowVar[pthevNamePartner] as well as you obey me?
+[yes] Good, that's the way it should be #Smile
+[no] Maybe you should #SubName
+@DifferentAnswer #YesOrNo
+(being an obedient)
+You shouldn't stop being submissive when you log off
+Remember #SubName, every woman you meet is a potential domme 
+The girl behind the checkout counter of the supermarket
+That co-worker with the high heels
+The woman at the bus stop with the long legs
+Or that neighbour with the mysterious smile
+@Flag(pthevSubInLove) Or @ShowVar[pthevNamePartner] for that matter...
+You don't have to tell her that you want to serve her
+Or kneel to kiss her feet
+You can do little things
+Hold the door for her
+Offer to get her a drink
+Be courteous
+She'll appreciate the gesture
+She doesn't have to know the feelings it stirs in you
+But if she's a domme, she'll understand
+And the glint in her eyes might tell you all you need to know #Smile
+@NullResponse @SetDate(pthevMod01Delay,14 days)
+@End
+(pthevMod01xC)
+@NullResponse @DeleteFlag(pthevMod01xC)
+#Edge @Edge
+#LetTheEdgeFade
+Be careful not to cum when you're edging
+@Flag(pthevCEI_No) I might have to make you eat your load #Grin
+@Flag(pthevCEI_Yes) You might like the taste of cum a little too much for your own good
+@NullResponse @CheckDate(pthevMod01Delay)
+Obeying me is more important than satisfying your dirty needs
+Although obeying satisfies a need as well, doesn't it #SubName?
+Remember what I said about being submissive after you log off?
+[yes] @NullResponse @Goto(yes I remember)
+[no] Let me refresh you memory
+@AcceptAnswer @NullResponse
+I said that every woman or girl you meet could be a Domme
+And that you can do little things the please them
+(yes I remember)
+Have you been putting it to practice?
+[yes] Being submissive is always good #SubName #Smile
+[no] Let's just say you're very loyal #PetName #Smile
+@DifferentAnswer #YesOrNo
+Always remember where you belong @ShowFemdomImage
+I will certainly do everything I can to remind you @ShowCaptionsImage
+And to reinforce what's already inside of you @ShowFemdomImage
+Does it turn you on to think that way about women you meet?
+[yes] I promise you many of those women feel the same way
+[no] I promise you many of those women do feel that way #SubName
+@DifferentAnswer #YesOrNo
+Well, not all of them of course
+But some will #Smile
+Imagine it #SubName
+Imagine one of those women, just someone you meet
+Maybe she'll see your submissive nature
+Maybe at night, when she's alone
+She'll masturbate while picturing you kneeling before her
+The smallest gesture can do that to a woman #Smile
+I want you to think about that #PetName
+@End
+(pthevMod01Delay)
+A while back I told you about how every woman you meet could be a Domme
+Do you remember that?
+[yes] @NullResponse @Goto(yes I remember still)
+[no] Let me refresh you memory then #PetName
+@AcceptAnswer @NullResponse
+@NullResponse @SetFlag(pthevMod01xC) @DeleteFlag(pthevMod01xD)
+@NullResponse @SetDate(pthevMod01Delay,30 days)
+Imagine a beautiful woman with long legs
+If your imagination needs some help...
+That can be arranged #Smile @ShowTaggedImage @TagLegs @LockImages
+Imagine her walking down the street
+The clicking of her heels on the pavement
+Her hips swaying, her head held high
+You might the urge to drop to your knees and worship her @UnlockImages
+But that would be ridiculous #SubName
+You can't go around kneeling for every woman you meet #Smile
+Being submissive can mean all kinds of things though
+I want you to think of small ways you can do to serve women
+They don't even have to know #Smile
+A dominant woman will appreciate it
+And maybe a mischievous smile will tell you she understands you
+Sees your submissive nature
+Maybe it will even turn her on
+Maybe at night, when she's alone
+She'll masturbate while picturing you kneeling before her
+The smallest gesture can do that to a woman #Smile
+I want you to think about that #PetName
+Think about the little ways in which you can serve the women in your life
+#Edge @Edge 
+#LetTheEdgeFade
+@End
+(yes I remember still)
+Have you been putting it to practice?
+[yes] Being submissive is always good #SubName #Smile
+[no] Let's just say you're very loyal #PetName #Smile
+@DifferentAnswer #YesOrNo
+Does it turn you on to think that way about women you meet?
+[yes] I promise you many of those women feel the same way
+[no] I promise you many of those women do feel that way #SubName
+@DifferentAnswer #YesOrNo
+Well, not all of them of course
+But some will #Smile
+Imagine it #SubName
+Imagine one of those women, just someone you meet
+Maybe she'll see your submissive nature
+Maybe at night, when she's alone
+She'll masturbate while picturing you kneeling before her
+The smallest gesture can do that to a woman #Smile
+I want you to think about that #PetName
+#StopStroking @StopStroking
+@End

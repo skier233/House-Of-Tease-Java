@@ -1,0 +1,33 @@
+@NullResponse @DeleteFlag(pvNoSession)
+@NullResponse @CheckDate(pvNoSessionLate,you are late)
+So... you finally get to #JerkOff again #Smile @Goto(have you been good)
+(you are late)
+Oh, by the way...
+You stayed away longer than you needed to, #SubName
+That's okay though
+Well it's okay unless...
+(have you been good)
+Have you been a good boy and restrained yourself since last time?
+[yes] Good
+[no] Oh no no no @Goto(not good)
+@DifferentAnswer Have you kept yourself from #JerkingOff since our last session, yes or no?
+You @RT(are probably,must be) @RT(pretty desperate,aching) to start #JerkingOff again then @CheckFlag(pvNoSessionTried)
+@End
+(not good)
+Fuck that @MoodWorst
+I'm really disappointed, #PetName @DommeLevelUp
+And I'm going to make sure you regret your disobedience #GeneralTime
+@End
+(pvNoSessionTried)
+Unfortunately I also know that you've been trying to contact me when you weren't supposed to... @DeleteFlag(pvNoSessionTried)
+@NullResponse @MoodWorst
+So I'm still far from happy with you, #PetName @DommeLevelUp
+When I say no session, it's NO FUCKING SESSION
+It doesn't mean, oh just come by and we'll see if you get to #JerkOff
+It means you wait until you're allowed to come crawling back to me
+Is that clear?
+[yes] Good
+[no] Don't get fucking clever with me, #PetName
+@DifferentAnswer #YesOrNo
+We've got some teasing to get to, and don't think I'm going easy on you #GeneralTime
+@End

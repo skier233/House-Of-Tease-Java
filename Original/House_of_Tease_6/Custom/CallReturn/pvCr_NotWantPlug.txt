@@ -1,0 +1,17 @@
+@Stroking #StopStroking @StopStroking
+I don't like it when you say 'no' to me, #Name @MoodDown
+Are you going to wear your butt plug for me, yes or no?
+[yes] Good @Goto(said yes)
+[no] If that's how it's going to be...
+@DifferentAnswer #YesOrNo
+Put away your butt plug @InterruptsOn
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(said yes)
+Then do as I say, #Name
+Let me know when you're ready
+[done,did,ready,finished] @RT(Good,Alright,There you go,That's much better) #Smile @TempFlag(pthevPlugged)
+@DifferentAnswer Just say 'ready' when you are, #SubName #EmoteFlustered
+@RT(That plug fills you up nicely,I don't know why I don't do this more often,Plugged like a good slut) #Grin
+@NullResponse @Interrupt(pvIn_General)
+@End

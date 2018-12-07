@@ -1,0 +1,8 @@
+@NotFlag(pvMs_WantToAsk_F1) Shoot @TempFlag(pvMs_WantToAsk_F1)
+@NotFlag(pvMs_WantToAsk_F1) Go ahead... @TempFlag(pvMs_WantToAsk_F1)
+@NotFlag(pvMs_WantToAsk_F1) Alright, what do you want to know? @TempFlag(pvMs_WantToAsk_F1)
+@NotFlag(pvMs_WantToAsk_F1) What is it #Name? @TempFlag(pvMs_WantToAsk_F1)
+@NotFlag(pvMs_WantToAsk_F1) What do you want to know? @TempFlag(pvMs_WantToAsk_F1)
+@NotFlag(pvMs_WantToAsk_F1) *sigh* alright then, what? @TempFlag(pvMs_WantToAsk_F1)
+@Flag(pvMs_WantToAsk_F1) You're full of questions #GeneralTime... what is it now?
+@Flag(pvMs_WantToAsk_F1) What is it this time, #Name?

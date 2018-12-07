@@ -1,0 +1,119 @@
+This is a setup file for House of Tease v.4 for TeaseAI @ShowImage[av_imagens\System.jpg] @LockImages
+You will need to restart TeaseAI to begin a new session after this one time setup @RTOn
+This questions should be asked by your Domme, but since HoT has too many modules now, will take too many time to get all these question *maybe never*
+And a lot of things need this to work better.
+You will see some of the original Domme comments on your aswers, because I did not edit that parts. 
+If this is the first time ever you are running House of Tease, dont skip any question, same thing if you reseted all the variables and flags. @RTOff
+First thing, <Font color="blue">we have 4 Crushes to select, Actress, Singer, PornStar and your Secret Crush.</Font>
+If you are missing at least one, you need to say "no", TeaseAI should skip the one you already have, but in case you are asked again, just type the same name.
+So, did you have all your crushes set? 
+[yes] OK @Goto(004)
+[no] OK
+@DifferentAnswer Yes or no?
+@Flag(AV_Know_00) @NullResponse @Goto(001)
+Who is your Celeb Crush? *Actress* @InputVar[AV_Persona01]
+Hmm... she is hot! @SetFlag(AV_Know_00)
+Put some #Var[AV_Persona01] pictures and put in the folder TeaseAI\Images\av_imagens\02\
+So, maybe I can make a good use of that in the future
+(001)
+@Flag(AV_Know_01) @NullResponse @Goto(002)
+Who is your Celeb Crush? *Singer* @InputVar[AV_Persona02]
+I don'f know if you like her music or other thing #EmoteFace  @SetFlag(AV_Know_01)
+Can you get a #Var[AV_Persona02] music video and put in Tease AI\Video\AV_Clips folder with the name AV_01.mp4
+And pics in the folder TeaseAI\Images\av_imagens\03\
+I can make a good use of that in the future
+(002)
+@Flag(AV_Know_03) @NullResponse @Goto(003)
+Who is your favourite Pornstar? @InputVar[AV_Persona04]
+Can you get a #Var[AV_Persona04] music video and put in the folder TeaseAI\Images\av_imagens\04\ @SetFlag(AV_Know_03)
+(003)
+@Flag(AV_Know_12) @NullResponse @Goto(004)
+Who is your Secret Crush? *Someone you know* @InputVar[AV_Persona13]
+Let me tell you... #EmoteFace @SetFlag(AV_Know_12)
+Look at her Facebook, instagram, etc 
+Find some #Var[AV_Persona13] pictures and put in the folder TeaseAI\Images\av_imagens\01\
+Please, take note of the folders before contining, and put the pictures there before start a new session
+(004)
+@Flag(AV_Know_04) @NullResponse @Goto(005)
+What is the girl's name you lost your virginity? @InputVar[AV_Persona05]
+OK @SetFlag(AV_Know_04)
+(005)
+@Flag(AV_Know_06) @NullResponse @Goto(006)
+Which sex toy would you like I had?  @InputVar[AV_Persona07]
+Putting on my Shop list @SetFlag(AV_Know_06)
+(006)
+@Flag(AV_Know_11) @NullResponse @Goto(007)
+Are you actually interested in Post Orgasm Torture? @SetFlag(AV_Know_11)
+[yes] #Great  @SetFlag(AV_Persona30)
+[no] #EmoteSad
+@DifferentAnswer Yes or no #PetName?
+(007)
+Now, we need to check what fetishes you like.
+This is important, because a lot of things in HoT will only run if you have set that.
+Do you enjoy bondage? 
+[yes] I think that #Cock could use a little bondage. @SetFlag(av_fetish_bondage)
+[no] It's #Okay 
+@DifferentAnswer yes or no?
+Are you into playing with hot wax? 
+[yes] Hmm @SetFlag(av_fetish_hothax)
+[no] It's #Okay 
+@DifferentAnswer yes or no?
+Do you enjoy pegging? This may include anal play, but your Domme probably will ask this first. 
+[yes] I'm gonna train you to be a good anal whore. @SetFlag(av_fetish_pegging)
+[no] ok
+@DifferentAnswer yes or no?
+That one its important, because pain teases are too mixed with stroking/edges
+I tried my best to skip the pain part for those who did not enabled that part
+Note, you should NOT disable CBT from the menu of TeaseAI and uncheck the files with that requirement, because all files have 4 modules inside, and you will disable some without CBT
+HoT should deal with this even with CBT enabled
+Do you like receiving pain? Slaping your balls, using clothespins, etc - remember to respect your limits -
+[yes] I already knew it @SetFlag(av_fetish_pain)
+[no] #Okay
+@DifferentAnswer yes or no?
+Do you like being handled roughly? This mean the Domme will call you names and be more hard with you in some aspects. It's like the Supremacist and Degrading options on the TeaseAI-Domme menu
+[yes] #Yes, you like that #Slave @SetFlag(av_fetish_rough)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+Do you like CEI *cum eating* ?
+[yes]  I'm gonna train you to be a good slut. @SetFlag(av_fetish_cei)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+Do you like Titjobs? 
+[yes]  Mmm, we have a tit slave here  @SetFlag(av_fetish_titjob)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+Do you like CFNM? *clothed female, nude male*
+[yes]  Mmm, good thing is, you are already naked for me  @SetFlag(av_fetish_cfnm)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+Do you like Gag ball? 
+[yes]  Mmm, shut up #Lol  
+[no] It's #Okay 
+@DifferentAnswer yes or no?
+Do you like facesitting? 
+[yes] So this is the kind of stuff that turns you on huh?  @SetFlag(av_fetish_facesitting) 
+[no] It's #Okay 
+@DifferentAnswer yes or no?
+Almost done @SetFlag(av_quest_done)
+Do you want to keep the slave position trainning, where you need to remember the stand and kneeling positions?
+[yes] OK @SetFlag(AV_MantPositions) 
+[no] OK
+@DifferentAnswer yes or no?
+Do you want to be asked to go to slave positions in some situations?
+[yes] OK @SetFlag(AV_WantPositions) 
+[no] OK
+@DifferentAnswer yes or no?
+Setting... @SetFlag(AV_HoTv4)
+All done 
+You should not see that again, but sometimes I saw TeaseAI ignore a flag on the start and run what should not run. @RTOn
+If this happens to you, just close TeaseAI when in this file and try again. 
+In the case you find any bugs on House of Tease, please first enter "@" on the chat, to see where is the bug 
+*This will be saved in the chat log too, where you can see later*
+The important part it's something like that <Font color="green">"::: FileText = C:\Tease AI\Scripts\House of Tease\Modules\AV_ModGames2.txt ::: LineVal = 180"</Font>
+After that, you can enter "debug" on the chat, and the script will try to: 
+Unlock Images, Stop Slideshows, add the Domme and remove any Glitter from the chat.  @RTOff
+If you are stucked, try to type "fix", a CBT will be called *for some reason, its the only thing able to unlock teaseai*
+ and try to type your safeword after the cbt part.
+<Font color="red">And remember to play safe...Dont do anything you think you should not.</Font> @UnlockImages
+@EndTease
+@End

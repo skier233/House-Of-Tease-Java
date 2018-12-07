@@ -1,0 +1,258 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGlitter3_NotFirstTime)
+@NullResponse @SetVar[AV_ModGlitter3]=[0] 
+@NullResponse @SetFlag(AV_ModGlitter3_NotFirstTime)
+(AV_ModGlitter3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGlitter3]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGlitter3]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGlitter3]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGlitter3]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGlitter3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGlitter3]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGlitter3]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGlitter3]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGlitter3]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGlitter3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGlitter3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGlitter3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGlitter3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGlitter3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGlitter3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGlitter3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGlitter3]=[AV_ModGlitter3]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGlitter3]=[AV_ModGlitter3]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGlitter3]=[AV_ModGlitter3]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGlitter3]=[AV_ModGlitter3]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGlitter3]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+I think your cock is #Leaking enough for now, don't you?!  @ResponseYes(Dripping)
+Well, I want to make sure you remember me all day!  
+@NotFlag(AV_DommeMistress) Go get a wooden spoon and 10 clothespins! @Wait(20)
+I know your #Cock is going to remember me, 
+but we need to make sure those #Balls and nipples do too!  
+Let's start with the nipples... 1 clothespin on each  @Wait(15)
+Now smack those balls 20 times... make the last 3 smacks really hurt! @Wait(20)
+4 clothespins on your #Balls @Wait(30)
+#Edge @EdgeNoHold @MultipleEdges(6, 5, 100)
+Fantastic!  Now your balls, nipples, and cock will remember to return to me!  
+Remove all clothespins
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+I thought it was about time to let #Contact1 come back... 
+I know she is not so harsh, but she need to learn how to make men suffer!  
+I'm gonna be here the whole session too... help her @AddContact1
+@Contact1 Time to feel good!  Well, time to feel good frustration! 
+@Contact1 Well I think it's time for a good old fashioned beat down!
+@Flag(av_fetish_pain) @Contact1 Go get the usual tools... wooden spoon and clothespins @Wait(25)
+@Contact1 Now #KneelForMe
+@Flag(av_fetish_pain) @Contact1 Clothespin time!
+@Flag(av_fetish_pain) @Contact1 1 on each nipple @Wait(15)
+@Flag(av_fetish_pain) @Contact1 4 on your #Balls @Wait(30)
+@Flag(av_fetish_pain) @Contact1 They will stay on until you see #DomName again.
+@Contact1 #StartStroking
+@Contact1 I bet my cock wouldn't mind letting all that cum out today! 
+@Contact1 I'm going to make it BEG for release! 
+@Contact1 After you are on your knees, crying and begging, you're gonna get denied today!
+@Contact1 But there's something that I think will be REALLY sexy that we're gonna do before then
+@Contact1 #Edge @EdgeNoHold
+@Contact1 #Edge @EdgeNoHold
+@Contact1 #Edge @EdgeNoHold
+@Contact1 Am I driving you insane?
+@Contact1 It's been a really long time since you got to feel a REAL orgasm...
+@Contact1 I bet your cock is really leaking now
+My poor #PetName!
+But I know you need a little discipline every now and then
+so I guess it's not such a bad thing!
+@Flag(av_fetish_pain) Remove the clothespins 
+#SitDown
+@Contact1 Thanks #DomName
+@Contact1 I am really start to learn now
+@Contact1 Thank you too #SubName
+@Contact1 I hope I did not hurt you... too much
+I'll take care of him! #Smile
+@Contact1 Cya
+Cya @RemoveContact1
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+You see, I obviously get off on seeing you in pain, 
+but it's a lot of work for me!  
+Now, I'm just going to sit back and observe. @AddContact3
+@Contact3 We need to get a few things straight here.
+@Contact3 First of all, when you are in my presence, you will constantly be on your knees...
+@Contact3 Let me be clear... today, you are my #Slave.
+@Contact3 I will talk to you like a #Slave
+@Contact3 I will treat you like a #Slave, and I will hurt you like a #Slave.  
+@Contact3 You will do EVERYTHING I say,
+@Contact3 Are we COMPLETELY clear that you will do EVERYTHING I say WITHOUT HESITATION?! 
+@Contact3 Well then let's get started #Slave!  
+@Contact3 You need
+@Flag(av_fetish_pain) a belt
+@NotFlag(AV_DommeMistress) @Contact3 10 clothespins
+@NotFlag(AV_DommeMistress) @Contact3 A spoon
+@Flag(av_fetish_pain) @Contact3 10 rubber bands, 
+@NotFlag(AV_DommeMistress) @Contact3 Come back and get on your knees again! @Wait(20)
+@Flag(av_fetish_pain) @Contact3 First of all #Slave, you will put a rubber band around each of the following body parts:
+@Flag(av_fetish_pain) @Contact3 each upper arm, each forearm, each asscheek, 
+@Flag(av_fetish_pain) @Contact3 each thigh, and each calf. 
+@Flag(av_fetish_pain) @Contact3 If it is too loose to stay on properly, double it up #Slave!  
+@Flag(av_fetish_pain) @Contact3 his will allow us to spread the pain all around that shitty body of yours!  
+@Flag(av_fetish_pain) @Contact3 Remain kneeling!
+@Flag(av_fetish_pain) @Contact3  Starting with your left forearm, you will stretch the rubber band and release it so it give you a fast, sharp bite.
+@Flag(av_fetish_pain) @Contact3 Then you will do your left upperarm
+@Flag(av_fetish_pain) @Contact3 your left asscheek, your left thigh,
+@Flag(av_fetish_pain) @Contact3 your left calf, your right calf,
+@Flag(av_fetish_pain) @Contact3 your right thigh, your right asscheek
+@Flag(av_fetish_pain) @Contact3 your right upperarm, and lastly your right forearm.
+@Flag(av_fetish_pain) @Contact3 Remain kneeling!
+@Flag(av_fetish_pain) @Contact3 Now take your thumb and forefinger and make a ring around your balls, pulling them away from your body.
+@Flag(av_fetish_pain) @Contact3 I want 20 lashings with the belt to those balls #Slave!
+@Contact3 Now attach 6 clothespins to your #Balls @Wait(20)
+@Contact3 and 2 to each nipple @Wait(20)
+@Contact3 Do it now #Slave! @Wait(20)
+@Contact3 Now hold your arms straight out to the outside of your body.
+@Contact3 Do not bend your elbows and do not let your arms drop.
+@Contact3 I think it's time I just let you stand there for a bit @Wait(15)
+@Contact3 Look at yourself. 
+@Contact3 You're a such a pathetic #Slave. 
+@Contact3 #Edge @EdgeNoHold
+@Contact3 #Edge @EdgeNoHold
+@Contact3 #Edge @EdgeNoHold
+@Contact3 #Edge @EdgeNoHold
+@Contact3 I need to violate you a bit more.
+@Contact3 #Edge @EdgeNoHold
+@Contact3 #Edge @EdgeNoHold
+@Contact3 I am here for 1 simple reason...
+@Contact3 to administer pain 
+@Contact3 Now get all those clothespins off your body using only the spoon. @Wait(20)
+@Contact3 Make it happen #Slave! @Wait(20)
+@Contact3 Well now we certainly have some nice little markings, yes?
+@Contact3 Since those clothespins aren't in the way anymore
+@Contact3 give me 10 hard smacks to each nipple.
+@Contact3 Now #Slave! @Wait(10)
+@Contact3 Now 30 to those #Balls  @Wait(20)
+@Contact3 Now 10 to the top of that #Cock
+@Contact3 10 to the bottom
+@Contact3 and 10 to each side
+@Contact3 Hurt it #Slave! @Wait(20)
+@Contact3 Now put them all back on, in EXACTLY THE SAME PLACES! @Wait(30)
+@Contact3 Hurts, doesn't it #Slave?! @Wait(20)
+@Contact3 #Edge @EdgeNoHold @MultipleEdges(8, 5, 100)
+@Contact3 #ThatsEnough
+#Lol  She fucking OWNED you!!  
+I definitely got my time's worth, didn't I #PetName! 
+I think you'll be feeling that shit for awhile!!
+@Contact3 You are welcome #DomName #Lol
+#Smile @RemoveContact3
+Well done babe!  
+You can remove the clothespins and sit down  
+It's a good thing you made it through... 
+#Contact3 has been looking very menacing!  
+Well like I said
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+Yes, I'm going to hurt you again.  
+But instead of spreading out the pain, 
+I will be very focused today. 
+Focused on..
+Those #Balls!
+get 10 clothespins, spoon, a shoelace and a candle @Wait(20)
+You will put 1 on each nipple and ALL OTHER either on your balls 
+or the skin between your balls and your asshole!   @Wait(20)
+Fit them all on there #Slave! @Wait(20)
+You better make sure they're all on there nice and tight! @Wait(20)
+#StartStroking
+I know all you want to do is stroke and edge 
+Well, we're gonna see just how badly you want to do those things.  
+And I also know that, even more than stroking and edging 
+you REALLY want to cum!  
+Now I know what you're thinking... 
+you think there's no way in hell I'd actually let you cum.
+But that got me thinking... 
+we both know I like to make you hurt yourself.  
+#StopStroking
+#KneelForMe @Wait(10)
+#StartStroking
+What if this really strong desire to cum would make you do things to yourself
+that even I wouldn't make you do?  
+That would definitely be worth it!
+#Edge @EdgeNoHold @MultipleEdges(6, 5, 100)
+Time to get our weapons!  
+Now, we will do your ass... my favorite!  
+You will smack you ass with the spoon a minimum of 20 times on each cheek. @Wait(20)
+I hope that ass is nice and red!  
+So... are you aching yet?!  
+You know we're not done yet... 
+those candles are just burning ominously in the corner over there
+Sit in your chair again
+Get your candle
+You will be pouring the wax on your body, starting with your balls.  
+#DoAsISay @Wait(20)
+Now you may choose from your balls, your ass, your thighs or your chest.  
+You may do no more than 3 pours per body part.  
+Get started #Slave! @Wait(20)
+Now clean yourself up.  
+All wax off your body.
+That sure was a lot of pleasureless task...  
+I'd hate to see that happen to you #PetName
+We now will start the edging portion of our time together.  
+You will be doing a fair number of edges for me, which I think you really like! 
+But I'm not gonna let you just edge and rest 1 or 2 seconds 
+and edge again and again like that.  
+I'm going to make you take rests to let that cum settle a little before you stroke it back up!  
+I think it will be much better that way!  
+Go ahead and #Edge @EdgeNoHold @MultipleEdges(8, 15, 100)
+Did your #Cock leak on the floor a little bit?? 
+#Lol I thought it might!  
+Well now we get to continue our session #GeneralTime !
+Remove all the toys @Wait(10)
+Some more good old fashioned cock teasing!
+@End

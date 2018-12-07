@@ -1,0 +1,264 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral15_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral15]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral15_NotFirstTime)
+(AV_ModGeneral15_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral15]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral15]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral15]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral15]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral15]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral15]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral15]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral15]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral15]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral15]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral15]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral15]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral15]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral15]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral15]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral15]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral15]=[AV_ModGeneral15]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral15]=[AV_ModGeneral15]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral15]=[AV_ModGeneral15]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral15]=[AV_ModGeneral15]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral15]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+Look, we don't have to pretend.. 
+you're going to do whatever I say right now. 
+I don't have to coerce you into obeying me, you just do it. 
+#StartStroking
+I'm not going to tease you with My body because it's so unnecessary, isn't it? 
+I dominate you so effortlessly. 
+@Flag(av_fetish_foot) I know that you are a good footboy already but it's not enough. 
+@Flag(av_fetish_foot) you're still trying to have sex and that's not going to work for me. 
+@Flag(av_fetish_foot) I want you to be totally devoted to My feet only. 
+I want you to be totally devoted to me.
+That's right, just let your dick drip for me
+I know how badly you crave your cum. 
+@Flag(av_fetish_cei) You are desperate to swallow down your hot load and I am in the mood to deny you for My own satisfaction. 
+I love teasing you, getting you all riled up and horny and then taking away the one thing you want the most. 
+But hey, maybe if you beg me...
+@Flag(av_fetish_cei) I'll let you eat your cum
+@NotFlag(av_fetish_cei) I'll let you cum
+Now #EdgeNoun for me @Edge @PlayAudio[tease\cEdge.mp3] 
+What a sad little cycle you've stuck yourself in. 
+No matter how much your try to avoid me, @RT(your addiction will always prevail, you will always come back).
+Just sit there and be denied. you can't resist the teasing though. 
+Show Me how obedient you can be and you'll get a really great treat. 
+@Flag(av_fetish_pain) @CBTBalls
+#Edge @Edge
+@Flag(av_fetish_pain) @RT(Hit, slap) your #Balls @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+#Edge @Edge
+@Flag(av_fetish_pain) @RT(Hit, slap) your #Balls @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+You make it so easy for me. 
+@RT(So easy to manipulate you, you will do anything for me)
+@End
+(Modulo2)
+You want me to deny you. 
+You want me to bring you right to edge of cumming 
+and then tell you to take your hands off. 
+To put your throbbing, dripping cock away, and come back next time. 
+I know you. You ache to have me deny you. 
+Well, now I'm going to see exactly how badly you want that.
+#StartStroking
+Run your hand up and down the length of your cock.
+I need you as hard as possible right now. 
+I want it so bad. 
+Now keep jerking. 
+Imagine if I were to lend you a hand with that? 
+If I were to trail my fingertips up and down your shaft
+Keep stroking for me. I'm not done with you yet. 
+But I do need you on the edge, so be a good boy and get there for me. 
+Believe me, I'll make it worth your while. 
+#Edge @Edge
+So, you claim you liked to be denied? 
+It's time to test that you. 
+I am going to @RT(do so many things to you, make you feel so many things you didn't even think possible). 
+I am going to @RT(make your cock ache more that you've ever felt before, drive you wild with pleasure)
+and then I'm going to deny you. 
+Time to start the real fun. 
+no touching until I say so. 
+I hope you get nice and worked up and right to the edge during the previous part. 
+You are going to be @RT(so horny, so worked up, so frustrated)
+Time to start the real fun, for me that is.
+@RT(Stand up, #KneelForMe)
+keep your hands on your sides.
+You want to touch yourself again don't you? 
+Well you can, but I just want you to rub your sweet spot for me. 
+You know, that little area on the underside of your cock where the foreskin connects. 
+Just use one or two fingers and rub that for me.
+As fast as you want. 
+Mmm... that feels good doesn't it? 
+Keep going for me.
+But don't worry, I'm not done with you yet. 
+Oh no, oh no. Far from it. 
+#StartStroking
+Keep stroking, enjoy it while you can, because it's pretty much time for you to stop. 
+Keep going
+I've had some much fun with you today
+I hope you're as frustrated as I hope you are
+Imagine how amazing it would be if I let you cum right now.
+If I just said fuck it and let you.
+mmm... this is a tough choice.
+#StopStroking 
+I am really loving watching you abuse and frustrate yourself  
+No breaks for you, time for some more edges.
+Get on your knees and edge once as quick as you can @Edge @PlayAudio[tease\cEdge.mp3] 
+I just like to see betas struggle to prove themselves #Lol
+Is your body quivering from so many edges? 
+Why don't you hump the air for me? 
+haha you look so funny with your sissy clit waving around, straining for release.
+Keep your hands on your head while you imagine you are having sex with me
+@RT(pleasuring, caressing) me.
+You can sit
+@End
+(Modulo3)
+Now I want you to #Stroke for me again
+@RT(You are asking,, what this will be all about?, I will try to explain to you,, what I have in mind.)
+You can't edge in this part of the session
+If you edge, I will punish you
+Simple, right?
+@NullResponse @RapidCodeOn
+@Flag(AV_DommeMistress) @NullResponse @SetVar[AV_NoEdge]=[#Random(8, 10)] 
+@NotFlag(AV_DommeMistress) @NullResponse @SetVar[AV_NoEdge]=[#Random(5, 7)] 
+@NullResponse @RapidCodeOn
+@NullResponse @EdgeMode(Goto, EdgeFail)
+@NullResponse @SetVar[AV_NE_Rounds]=[0]
+(Loop)
+@NullResponse @Goto(Serie1, Serie2, Serie3, Serie4, Serie5)
+(Serie1)
+#Stroke to the beat @PlayAudio[tease\StrokePattern\*.mp3] 
+Remember @RT(No Edges, Edging is forbidden, to not edge, no edge allowed, no edging) @Wait( #Random(10, 15))
+@RT(How are you doing?, Can you still make it?, You look exhausted?, Sure you want to make me happy,, right?) @Wait( #Random(5, 10))
+#Stop @RT(#SubName, #PetName, #Slave)
+@NullResponse @Goto(AV_CheckRounds)
+(Serie2)
+@RT(Pump that meat for me, Go for it, Grab your dick and stroke, Stroke, Wank, Jerk it) @PlayVideo[AV_Clips/webm/60/*.webm]
+#Stop @RT(#SubName, #PetName, #Slave)
+@NullResponse @Goto(AV_CheckRounds)
+(Serie3)
+#Stroke to the beat @PlayAudio[tease\erotic\*.mp3] 
+I am sure you didnt forget that there is no edge allowed, did you ? @Wait( #Random(10, 15))
+@RT(Almost done, Keep it up, Nearly finished, Be strong, almost there, Just a few more seconds, Just a little overtime) @Wait( #Random(5, 10))
+#Stop @RT(#SubName, #PetName, #Slave)
+@NullResponse @Goto(AV_CheckRounds)
+(Serie4)
+Now, @RT(make your Mistress proud and, Just, Go on, Simply, You have to, I want you, you will) #Stroke @RT(really fast, as fast you can) watching the next short video...
+@RT(Pump that meat for me, Go for it, Grab your dick and stroke, Stroke, Wank, Jerk it)  @PlayVideo[AV_Clips/webm/10/*.webm]
+#Stop @RT(#SubName, #PetName, #Slave)
+@NullResponse @Goto(AV_CheckRounds)
+(Serie5)
+Now, @RT(make your Mistress happy and, can you do me a favour and, go on, simply, you have to, I want you to, you will) #Stroke @RT(really fast, as fast you can) watching the next short video...
+@RT(Pump that meat for me, Go for it, Grab your dick and stroke, Stroke, Wank, Jerk it) @PlayVideo[AV_Clips/webm/15/*.webm]
+#Stop @RT(#SubName, #PetName, #Slave)
+@NullResponse @Goto(AV_CheckRounds)
+(AV_CheckRounds)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_NE_Rounds]=[AV_NE_Rounds]+[1]
+@NullResponse @If[AV_NE_Rounds]>=[AV_NoEdge]Then(YouDid) @RapidCodeOn
+@RT(Cool down a bit, Just a few seconds to realx and calm down, You have earned a short break, Take a break, a little break for you, rest, rest a little) @Wait( #Random(5, 20))
+@NullResponse @RapidCodeOn
+@NullResponse @Goto(Loop)
+@NullResponse 
+(EdgeFail)
+#Stop @RT(#SubName, #PetName, #Slave)
+@RT(You failled, I told you to not edge, Oops)... @EdgeMode(Goto, EdgeFail)
+@RT(Punishment time, I need to punish you now)
+@CBT
+@Flag(AV_DommeMistress) Now you will spank your #Balls following the beat
+@Flag(AV_DommeMistress) @RT(Spank, Hit) your #Balls @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+Let's @RT(try again, continue) @Goto(Loop)
+(YouDid)
+You did it #SubName @EdgeMode(Normal)
+@End
+(Modulo4)
+You're hoping to cum tonight, aren't you? 
+How long as it been? 
+I like it when you're frustrated, and, less importantly, so do you. 
+@Flag(AV_DommeMistress, av_fetish_rough)  I want you to degrade yourself
+@Flag(AV_DommeMistress, av_fetish_rough) #lol now your fun can begin #Slave.    
+I want you kneeling @Wait(10)
+Get yourself hard then give me 50 strokes at a medium pace @PlayAudio[tease\cStroke.mp3] @Wait(30)
+Another 50 strokes. @PlayAudio[tease\cStroke.mp3] @Wait(10)
+I am working you up to your first edge, but don't get there just yet.    
+Enjoy the feeling of submission, of not knowing what challenges lie in store.    
+#Edge @Edge 
+There will be many more edges before you get a chance to cum. @Wait(25) 
+Why don't you get yourself to the edge again right now. @Edge @PlayAudio[tease\cEdge.mp3] 
+Enjoy the sensations. 
+Let your hands drift down to your cock, softly pet your #Cock 
+Uh huh, yes, @RT(does your cock want more?, make your cock want more.) 
+Not yet though 
+I want you to spread your knees wide apart and arch your back a little bit
+just like in this picture @ShowImage[av_imagens\positions\kneel\07.jpg] @Wait(20)
+Start stroking yourself in this subservient sissy position @PlayAudio[tease\cStroke.mp3] 
+your rightful place is being kept horny, frustrated and ready to do anything you are told.  
+Lick your thumb and some fingers on your left hand. 
+@Flag(AV_LikeAnal) Do I need to tell you where these will be going? 
+Ok time for one of your videos.
+Keep stroking your little dicklet @PlayVideo 
+#Stop 
+You can sit
+Now spread your legs for me and raise your legs up the table  
+so that your cock is pointing at you  
+stroke yourself at a much faster pace so that you bring yourself to an edge.  
+Keep going  
+And now Edge for me @Edge @PlayAudio[tease\cEdge.mp3] 
+Put your legs down
+@End

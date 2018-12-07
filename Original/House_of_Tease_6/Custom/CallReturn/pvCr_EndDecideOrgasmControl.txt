@@ -1,0 +1,72 @@
+@NullResponse @RapidCodeOn
+@NotFlag(pvOCskipDate) @NullResponse @SetFlag(pvOCskipDate) @SetDate(pvDecideOCdelay,2 weeks)
+@NullResponse @CheckDate(pvDecideOCdelay)
+@NullResponse @Call(Stroke/End/pthev_Endscript.txt,return orgasm control)
+(pvDecideOCdelay)
+@NullResponse @DeleteFlag(pvOCskipDate) @Chance80(no orgasm control)
+@NullResponse @Goto(Denial Game,Roll The Dice)
+(Denial Game)
+So nice to have an orgasm once in a while, isn't it?
+But let's not make it a habit, #Name
+In fact, consider yourself denied for the foreseeable future
+The first question that enters your mind is probably "for how long?"
+Well, at the end of our next session we'll play a little game to find out @RestrictOrgasm(4 weeks) @SetFlag(pvOrgasmControl) @SetFlag(pvOCGame)
+It might be only a few days... but it might be a fair bit longer too
+Like I said, we'll see next time, but let me give you a quick rundown of the rules
+I will pick a number between 3 and 15
+That number will be your initial number of days of denial
+You get to guess what the number is
+If you guess the right number or higher... then you get the number of days you chose
+But If you guess too low... I add 1 to the initial number
+And then you get to guess again the next day, a number between 4 and 16 #Grin
+So you can see the dilemma...
+If you choose a high number, you have to suffer denial for a long time
+So you can try to reduce your suffering by going for a lower number
+But each time you do you risk increasing the minimum by 1...
+And who knows, maybe you'll get really lucky and it's only 3 days! #Smile
+I'll leave you to think it over now, #PetName
+@NullResponse @Call(Stroke/End/pthev_Endscript.txt,return orgasm control)
+(Roll The Dice)
+I'm having a lot of fun deciding when you get to cum
+But I want to try something a little bit different the next few weeks
+I'm not going to be the one deciding your fate
+A roll of the dice will...
+Here's what I'm going to do, #Name
+I'm going to throw the dice to decide the number of days until you get a chance of orgasm
+If you're lucky I'll throw a 1, which means you get a chance tomorrow
+But it could also be 6, meaning almost a week before you get a chance to cum
+And on that day you either cum or you don't, after which I throw the dice again #Smile @SetVar[OCDiceThrows]=[1] @RestrictOrgasm(4 weeks)
+If you can't make it on that day, you will have missed your chance @SetFlag(pvOCRollDice) @SetFlag(pvOrgasmControl)
+So here we go for the first throw... @Goto(one,two,three,four,five,six)
+(one)
+It's 1...
+Okay, so I guess you'll get another chance tomorrow #Smile
+@NullResponse @SetVar[pvOCDice]=[1] @SetDate(pvOCDiceMin,12 hours) @SetDate(pvOCDiceMax,36 hours)
+@End
+(two)
+It's a 2
+That means the day after tomorrow is the next chance you get
+@NullResponse @SetVar[pvOCDice]=[2] @SetDate(pvOCDiceMin,36 hours) @SetDate(pvOCDiceMax,60 hours)
+@End
+(three)
+It's 3
+So 2 days of denial before you get another chance
+@NullResponse @SetVar[pvOCDice]=[3] @SetDate(pvOCDiceMin,60 hours) @SetDate(pvOCDiceMax,84 hours)
+@End
+(four)
+It's 4
+So 3 days of denial before you get another chance
+@NullResponse @SetVar[pvOCDice]=[4] @SetDate(pvOCDiceMin,84 hours) @SetDate(pvOCDiceMax,108 hours)
+@End
+(five)
+It's 5
+So 4 days of denial before you get another chance
+@NullResponse @SetVar[pvOCDice]=[5] @SetDate(pvOCDiceMin,108 hours) @SetDate(pvOCDiceMax,132 hours)
+@End
+(six)
+It's 6
+So 5 days of denial before you get another chance
+@NullResponse @SetVar[pvOCDice]=[6] @SetDate(pvOCDiceMin,132 hours) @SetDate(pvOCDiceMax,156 hours)
+@NullResponse @Call(Stroke/End/pthev_Endscript.txt,return orgasm control)
+(no orgasm control)
+@NullResponse @Call(Stroke/End/pthev_Endscript.txt,return orgasm control)

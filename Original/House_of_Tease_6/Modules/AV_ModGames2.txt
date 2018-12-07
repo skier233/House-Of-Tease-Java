@@ -1,0 +1,266 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGames2_NotFirstTime)
+@NullResponse @SetVar[AV_ModGames2]=[0] 
+@NullResponse @SetFlag(AV_ModGames2_NotFirstTime)
+(AV_ModGames2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGames2]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGames2]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGames2]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGames2]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGames2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGames2]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGames2]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGames2]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGames2]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGames2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGames2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGames2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGames2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGames2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGames2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGames2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGames2]=[AV_ModGames2]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGames2]=[AV_ModGames2]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGames2]=[AV_ModGames2]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGames2]=[AV_ModGames2]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGames2]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+Must feel nice...  @FollowUp50(in fact)
+every time you see me, @FollowUp50(assuming I let your #Cock out)
+@Flag(AV_Pins) Remove all the clothespins @Wait(10)
+you're gonna get that nice feeling. @DeleteFlag(AV_Pins)
+You'll be like a puppy greeting his owner after a long day out of the house! 
+I bet Your #Cock is already #Wet, isn't it?! @ResponseYes(Dripping)
+You see, my secret is that I'm not always nice 
+I have a very dark side.  
+Usually I don't find myself in situations where it comes out, 
+@Flag(AV_DommeMistress) but today, you're going to get a close up view of my inner bitch. 
+@Flag(AV_DommeMistress) You are not "stroker" today.  
+@Flag(AV_DommeMistress) I'm not here to watch you jerk off.  
+Today, you are quite simply, my SLAVE.
+Yes, I'm going to hurt you.  
+I'm going to humiliate you. 
+@Flag(AV_PinDone) @NullResponse @Goto(Jump30)
+Go get: 10 clothespins and a wooden spoon or ruler @Wait(20)
+(Jump30)
+Stand up, legs apart.  
+@NotFlag(av_fetish_pain) @NullResponse @Goto(5r0fg)
+In this order, put one on each nipple
+@Flag(AV_DommeMistress) then 6 on your #Balls. @Wait(30)
+@NotFlag(AV_DommeMistress) then 4 on your #Balls. @Wait(30)
+(5r0fg)
+#StartStroking
+I know they're probably starting to fill up with that cum you've been saving for me...
+but I think we should make sure there's definitely enough room in those balls 
+for a lot more cum buildup!  
+After all, who knows how long our lsession is going to go for
+and who knows when I'll let you cum!
+#StopStroking
+@NotFlag(av_fetish_pain) @NullResponse @Goto(034fihm)
+Remove the clothespins from your #Balls @Wait(15)
+Now get your spoon or ruller ready
+@CBTBalls
+There we go!  
+That should stretch a little more room in those balls! 
+@Flag(AV_DommeMistress) @CBTBalls
+I bet you're glad we're done with that...  
+Put the clothespins back on your #Balls @Wait(30)
+(034fihm)
+Time for something different!
+#StartStroking
+You must really be hurting! 
+I bet you've never received a beating this hard ever before, have you!?
+@Flag(AV_DommeMistress) #Edge @EdgeNoHold @MultipleEdges(8, 5, 100)
+@NotFlag(AV_DommeMistress) #Edge @EdgeNoHold @MultipleEdges(5, 8, 100)
+I just need you to know that I understand what you're going through. 
+Your #Cock is probably getting all hard at night  @FollowUp50(when you're trying to sleep)
+@RandomText(you're probably thinking about me all day, all excited for our daily session)
+Your #Balls are filling with backed up cum and edging you over and over @FollowUp50(only makes them ache when we're done)
+#Edge @EdgeNoHold
+You're having a hard time focusing on other things @FollowUp50(because your cock is always begging to release)  
+You're battling between being a man of your word and honoring your commitment to me @FollowUp50(and being a coward and #Stroking when I'm not around)
+@Flag(av_fetish_pain) Remove all the clothespins #SubName @Wait(10)
+And you can sit
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+You want to #Stroke now, right?
+Well then that's too bad... isn't it.  
+You're not going to #Stroke your #Cock at all right now actually. 
+It's my time #PetName!  
+@Flag(AV_DommeMistress) And now that we're all clear on just who I really am and what I love to do 
+let's just say... it's on! 
+@Flag(AV_Pins) Remove all the clothespins @Wait(10)
+I'm gonna make sure you fucking earn that chance to cum. @DeleteFlag(AV_Pins)
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Now tie up those balls.... 
+One loop and knot around her entire cock and balls
+then a second around only the balls, with a double knot.  @Wait(10)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(ds942d)
+We'll start with smacking those balls with the spoon or ruler. 
+@CBTBalls
+put one clothespin on each nipple @Wait(20)
+@Flag(AV_DommeMistress) then 6 on your #Balls. @Wait(30)
+@NotFlag(AV_DommeMistress) then 4 on your #Balls. @Wait(30)
+(ds942d)
+We're gonna play a little game called "Stroke, Edge, Hold." 
+I think you can probably figure out basically what we're gonna be doing here..
+When I say stroke, you #Stroke your #Cock to the beat.  
+When I say edge, you get to the edge as fast as possible,
+then hands off for 3 seconds, then edge again, then hands off for 3 seconds, etc.  
+And of course, when I say hold, you will hold that edge for me!  
+Ready?
+#Stroke @PlayAudio[tease\b075.mp3] @Wait(10)
+#Stroke @PlayAudio[tease\b075.mp3] @Wait(10)
+#Edge @EdgeNoHold @MultipleEdges(5, 3, 100)
+#Stroke @PlayAudio[tease\b075.mp3] 
+#EdgeNoun and Hold @Wait(12)
+Take a short break. @PlayAudio[tease\cStop.mp3]
+I don't think I'm ever gonna get tired of having you #Stroke your cock!  
+I wonder how many thousands of strokes you've done for me
+#Stroke @PlayAudio[tease\b075.mp3] @Wait(10)
+#Edge @EdgeNoHold @MultipleEdges(4, 3, 100)
+#Stroke @PlayAudio[tease\b075.mp3] 
+#EdgeNoun and Hold @Wait(15)
+Rest...  @PlayAudio[tease\cStop.mp3]
+you doing ok over there #PetName?!  
+I wonder how much cum is gonna come out when we unleash you!
+#Stroke @PlayAudio[tease\b075.mp3] @Wait(10)
+#Stroke @PlayAudio[tease\b075.mp3] @Wait(10)
+#Edge @EdgeNoHold @MultipleEdges(6, 3, 100)
+#Stroke @PlayAudio[tease\b075.mp3] 
+#EdgeNoun and Hold @Wait(18)
+Relax...  @PlayAudio[tease\cStop.mp3]
+think you're about ready to cum yet?  
+I bet you are... 
+@Flag(av_fetish_pain) Remove all the clothespins #SubName @Wait(10)
+As I said, your dignity will be unprotected today. 
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+You see, you've certainly been very loyal to me. 
+And I know that you will do just about anything I ask you to do.  
+That's a lot of power that I have! 
+So, I think its time to help my friend
+to learn how to dominate a man 
+on your knees, and wait for her with your head down. @AddContact2
+Get your spoon and a clothespins ready @Wait(20)
+@Contact2 There is only 1 thing that I will tolerate: complete and unflinching obedience.  
+@Contact2 Any hesitation on your part will result in my dissatisfaction
+@Contact2 Understood? @Timeout(05, AV_Jump45)
+[yes] @Contact2 #Good @Goto(AV_Jump44)
+[no] @Contact2 Seriously? @Goto
+@AcceptAnswer @Contact2 So...
+(AV_Jump45)
+@CustomTask(AV_CBT_Gliter2)
+(AV_Jump44)
+@Flag(av_fetish_pain) @Contact2 Now put a clothespin on each nipple @Wait(20)
+@CustomTask(AV_StrokeNumberGliter2)
+@Contact2 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact2 put a clothespin on your balls @Wait(15)
+@Contact2 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact2 put another clothespin on your balls @Wait(15)
+@Contact2 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact2 put a clothespin on your balls @Wait(15)
+@Contact2 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact2 put other clothespin on your balls @Wait(15)
+@Contact2 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact2 put a clothespin on your balls @Wait(15)
+@Contact2 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact2 put another clothespin on your balls @Wait(15)
+@Contact2 Isn't it humiliating? 
+@Contact2 Isn't that what you want? @Timeout(05, AV_Jump46)
+[yes] @Contact2 Maybe you're just a little pain slut and you want to be hurt.
+[no] @Contact2 #Lol
+@AcceptAnswer @Contact2 So...
+(AV_Jump46)
+@Flag(av_fetish_pain) @Contact2 You may now remove the pins, one at a time. @Wait(15)
+@Flag(av_fetish_pain) @Contact2 Keep going @Wait(10)
+@Contact2 Now stand up
+@Contact2 You will now start stroking with one hand
+@Flag(av_fetish_pain) @Contact2 and 1 smack to the balls with the other hand at the same pace
+@Flag(av_fetish_pain) @Contact2 Use the spoon
+@Contact2 Begin now @PlayAudio[tease\b075.mp3] 
+@Flag(av_fetish_pain) @Contact2 If you edge, 20 more smacks to the balls
+@Contact2 Let's try a faster pace @PlayAudio[tease\b110.mp3] 
+@Contact2 #Lol
+@Contact2 You can stop #SubName @PlayAudio[tease\cStop.mp3] 
+@Contact2 That's was so much fun
+@Contact2 Thanks #DomName
+@Contact2 and #SubName
+#Smile @RemoveContact2 
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+How's it coming #PetName?  
+I hope this isn't getting tough yet.  
+I'm counting on you being tough to break.  
+Maybe I should help to toughen you up a bit 
+by telling you what might happen if you have to visit #Contact3.  
+You can be sure your balls will be aching like never before
+your ass will be brick red and your nipples will be tender for a week
+Tie it around both the cock and balls at first 
+then use the ends to tie around each ball separately
+around and around and around 
+to push them separately to the sides. @Wait(10)
+Now I'll have you simply flick those balls with your finger.  
+Back and forth, one followed by the other, 
+using just one hand, but not until I say so.  
+I'd recommend you flick hard and fast
+Ready?
+Start flicking!  
+Right nut, 
+left nut, 
+back and forth.  
+Make it hurt, my little #PetName
+Stop and...
+#Edge @EdgeNoHold @MultipleEdges(4, 5, 100)
+You see, it's an amazing sensation 
+to experience pain and pleasure at the same time.  
+@End

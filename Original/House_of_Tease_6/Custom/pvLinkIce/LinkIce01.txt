@@ -1,0 +1,36 @@
+@NullResponse @CheckFlag(pvLinkIce01A)
+I want you to take an ice cube from your bowl @TempFlag(pvLinkIce01A)
+Tease your nipples with it @Wait(10)
+Mmm that feels so cold, doesn't it?
+Slowly slide that piece of ice down your chest...
+Down to you belly button...
+I want you to tease the head of my poor #Cock with the ice cube
+Just the tip, #Name
+Let it melt and drip down the shaft
+It was so sensitive, but now it's going numb... #Grin
+Is your #Cock getting soft yet?
+[yes] Aww that's too bad... #Laugh @Goto(got soft)
+[no] Keep teasing the head with the ice, #Name 
+@DifferentAnswer #YesOrNo
+It's bound to get soft eventually #Laugh
+I want you to tease both your #Cock and your #Balls with the ice
+Until your erection is gone completely
+I want my #Cock reduced to a cold shrivelled up little worm
+Let me know when you're ready...
+[ready,done,yes,is gone] Good
+[no] Let me know when your erection is gone completely
+@DifferentAnswer Are you ready?
+(got soft)
+Put the ice back in the bowl - if it hasn't melted completely already
+Get your #Cock hard again, #Name
+I don't care how you do it, you can even go watch some porn if you have to
+Just let me know when you're hard again
+[hard,done,ready] Good #PetName #Smile
+@DifferentAnswer Let me know when you're hard
+Let's see if that thing still works after all that #Laugh
+@End
+(pvLinkIce01A)
+I bet you can still feel the coldness of the ice in your #Balls
+Maybe I should completely ice down your erection again...
+Just kidding, I want you hard as a fucking rock right now #Smile
+@End

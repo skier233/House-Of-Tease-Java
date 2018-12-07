@@ -1,0 +1,119 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link28_NotFirstTime)
+@NullResponse @SetVar[AV_Link28]=[0] 
+@NullResponse @SetFlag(AV_Link28_NotFirstTime)
+(AV_Link28_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link28]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link28]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link28]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link28]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link28]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link28]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link28]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link28]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link28]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link28]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link28]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link28]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link28]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link28]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link28]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link28]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link28]=[AV_Link28]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link28]=[AV_Link28]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link28]=[AV_Link28]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link28]=[AV_Link28]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link28]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+We share the same fantasies, #PetName
+if for different reasons.
+I know they're not always exactly how you'd imagine them
+but as long as you recognize that mine come first we'll have some very pleasurable moments.
+#StartStroking @StartStroking
+@End
+(Link2)
+I wonder... @TempFlag(AV_Cha01)
+I wonder if I should just lock your cock
+Maybe for a few minutes...
+days...... weeks...
+Just think about it. 
+How out of your mind with lust would you get, locked up for so long? @ResponseYes(PutMeInChastity)
+And with only a single orgasm to relieve you, it'd be just as bad when I locked you up again...
+and that's what we both want, you as hard and horny and pliable as possible. @ResponseYes(PutMeInChastity)
+It's such an enticing thought... and I mean
+it's not like you have a say in the matter. @DeleteFlag(AV_Cha01)
+Why should I care how much you have to cum right now?
+Your relief is a minor inconvenience on the road to a truly excellent relationship.
+It only matters to me how well you obey me.
+#StartStroking @StartStroking
+@End
+(Link3)
+What a wonderful bargain we've made here, #PetName. @TempFlag(AV_Dri01)
+You at my beck and call, ready to obey whatever frustrating, humiliating fantasy I can dream of
+just to be a part of it.
+It makes me feel so wonderful knowing that I pleasure myself at your expense
+that every earth-shattering orgasm I have is one I have without you.
+I get off on the fact that you can't.
+And I know right now all the things you would do to me if you could
+and I writhe with delight knowing that you wouldn't,
+absolutely wouldn't, because you obey me.
+You obey me.  @DeleteFlag(AV_Dri01)
+Oh, how you love obeying me. @ResponseYes(WantToServe) @ResponseNo(pvRs_WantToServeNo)
+And oh, how I love that you love it.
+#StartStroking @StartStroking
+@End
+(Link4)
+You know that all the pretty thoughts running through my head @TempFlag(AVp002)
+are those of teasing and tormenting your little toy. 
+You know that anything I command of you, you'll obey
+because I love to command you
+and you do so love to obey. @ResponseYes(WantToServe) @ResponseNo(pvRs_WantToServeNo)
+You're living in a dreamworld, #PetName.
+And all because you agreed to it. @DeleteFlag(AVp002)
+#StartStroking @StartStroking
+@End

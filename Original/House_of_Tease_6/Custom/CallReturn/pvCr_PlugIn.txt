@@ -1,0 +1,13 @@
+@RT(Go get your butt plug,Prepare your butt plug,Get your butt plug for me) @CustomMode(#pvDontWantTo,Goto,not want)
+@RT(Lube it up as much as you need to,Make it nice and slippery,Lube up good if you need it,Use as much lube as you need)
+@RT(Put it in your ass,Shove that plug up your ass,Push that plug into your tight butt)
+@RT(Your ass belongs to me,I can use your ass however I want,Your ass is mine to use,I own your ass) #Grin
+Let me know when you're ready
+[done,did,ready,finished,it's in] @RT(Good,Alright,There you go,That's much better) #Smile @TempFlag(pthevPlugged)
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] What are you talking about @Goto(not want)
+@DifferentAnswer Just say 'ready' when you are, #SubName #EmoteFlustered
+@RT(That plug fills you up nicely,I don't know why I don't do this more often,Plugged like a good slut) @CustomMode(#pvDontWantTo,Normal)
+@End
+(not want)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_NotWantPlug.txt)
+@End

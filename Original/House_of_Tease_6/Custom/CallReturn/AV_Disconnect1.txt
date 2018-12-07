@@ -1,0 +1,393 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DisconectOnce)
+@NotFlag(AV_Disco01) @NullResponse @Goto(Bryci01)
+@NotFlag(AV_Disco02) @NullResponse @Goto(Ms Anitta)
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some videos on your computer
+Stroke to the beat #Grin
+Have fun @RapidCodeOn
+@NotFlag(AV_Disco03) @NullResponse @Goto(Amy01)
+@NotFlag(AV_Disco04) @NullResponse @Goto(Natasha01)
+@NotFlag(AV_Disco05) @NullResponse @Goto(Bryci02)
+@NotFlag(AV_Disco06) @NullResponse @Goto(Amy02)
+@NotFlag(AV_Disco07) @NullResponse @Goto(Natasha02)
+@NullResponse @Goto(Ramdom_Disco)
+(Bryci01)
+You're going to be a good little boy for me #GeneralTime, aren't you? 
+You'll have to submit yourself to even more teasing.. 
+Over and over..edging repeatedly.  @InterruptsOff 
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Oh...Hi there...</Font> @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">What happ...oh my god, are you naked?</Font> @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">What were you doing, sir? *smile*</Font> @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Wait a minute...there is something here...let me check</Font> @Wait(15) @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">This is yours? LOL</Font> @ShowCaptionsImage 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">I can see your chatlog and some shared folders here...interesting</Font> @ShowImage[av_imagens\Girls2\Bryci\02\03.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">So, you are a sex slave, right?</Font> @ShowImage[av_imagens\Girls2\Bryci\02\04.jpg] @Glitter(AV_Disconnected)
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">And follow all the orders of your online Domme...</Font> @ShowImage[av_imagens\Girls2\Bryci\02\03.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">This looks fun to me</Font> @ShowImage[av_imagens\Girls2\Bryci\02\04.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Sorry? I'm blushing? no no no way you are wrong </Font> @ShowImage[av_imagens\Girls2\Bryci\02\04.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">I know exactly what you like #SubName </Font> @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Now that I know what kind of guy your are</Font> @ShowImage[av_imagens\Girls2\Bryci\02\06.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">I think we could have a lot of fun together #Grin</Font> @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">This will be our little secret, ok?</Font> @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Why you dont start #Stroking for me while I think what to do with you?</Font> @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Oh, you are conditioned to #Stroke to this sound</Font> @PlayAudio[tease\cStroke.mp3]  @Wait(20) @ShowImage[av_imagens\Girls2\Bryci\02\03.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">OK, looks like that #DomName dont give you a chance to cum till the end of the session</Font> @ShowImage[av_imagens\Girls2\Bryci\02\04.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">I will respect that.</Font> @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Oh, look that...I can choose the speed of your strokes</Font> @PlayAudio[tease\b120.mp3] @Wait(10) @ShowImage[av_imagens\Girls2\Bryci\02\06.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Let's try that fast one</Font> @PlayAudio[tease\b250.mp3] @Wait(10) @ShowImage[av_imagens\Girls2\Bryci\02\07.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000"> #Lol, you are good at this</Font> @ShowImage[av_imagens\Girls2\Bryci\02\08.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000"> #Stop</Font> @ShowImage[av_imagens\Girls2\Bryci\02\09.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">See? I already know you have a sound to stop.</Font> @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">But now, I can have more fun with the things you do with #DomName</Font> @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000"> #KneelForMe</Font> @ShowImage[av_imagens\Girls2\Bryci\02\03.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Put a clothespins on your nipples</Font> @Wait(20) @ShowImage[av_imagens\Girls2\Bryci\02\04.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">And 2 on your balls</Font> @Wait(20) @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Put your arms behind your head with your fingers intertwined</Font> @ShowImage[av_imagens\Girls2\Bryci\02\06.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Stay in this position for me</Font> @ShowImage[av_imagens\Girls2\Bryci\02\07.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Now reach down between your legs and start caressing those balls.</Font> @ShowImage[av_imagens\Girls2\Bryci\02\08.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">That's it, squeeze and caress them </Font> @ShowImage[av_imagens\Girls2\Bryci\02\09.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Look how horny this is getting you!</Font> @ShowImage[av_imagens\Girls2\Bryci\02\10.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Now reach down further and begin running your fingers along the crack of your ass.</Font> @ShowImage[av_imagens\Girls2\Bryci\02\11.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Go on, get your asshole horny as well.</Font> @ShowImage[av_imagens\Girls2\Bryci\02\12.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Go on and start slowly stroking your cock.</Font> @PlayAudio[tease\cStroke.mp3] @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Go on slut, stroke your cock</Font> @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">I love that</Font> @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000"> #Stop</Font> @ShowImage[av_imagens\Girls2\Bryci\02\10.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Go ahead and sit down.</Font> @ShowImage[av_imagens\Girls2\Bryci\02\11.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Just make sure that as your are sitting</Font> @ShowImage[av_imagens\Girls2\Bryci\02\12.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">your legs are spread so that everyone knows that your cock and ass are available for anyone to use.</Font> @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg] @Wait(15)
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">OK, I think out time its almost done, so I want one last thing </Font> @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Edge for me</Font> @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg] @PlayAudio[tease\cEdge.mp3] 
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Go #SubName, give me that edge</Font> @Wait(15) @ShowImage[av_imagens\Girls2\Bryci\02\03.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">You can hold when you get there</Font> @ShowImage[av_imagens\Girls2\Bryci\02\04.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">That's it</Font> @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">You can remove all the clothespins</Font> @ShowImage[av_imagens\Girls2\Bryci\02\06.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Try to calm down</Font> @ShowImage[av_imagens\Girls2\Bryci\02\07.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">We dont want #DomName knowing what we did here, right?</Font> @ShowImage[av_imagens\Girls2\Bryci\02\08.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">That was fun, #SubName</Font> @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg]
+@SystemMessage <Font color="#ff0000">Bryci:</Font> <Font color="#000000">Who knows if we will meet again?</Font> @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg]
+@SystemMessage Bryci has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room @InterruptsOn 
+Hi #PetName...I am trying to reconnect for a few minutes now @SetFlag(AV_Disco01)
+I bet you missed your Mistress, didn't you? 
+I told your life as my slave wouldn't be easy. 
+Well, can we continue our session?
+@End
+(Ms Anitta)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">Hi #SubName</Font> @ShowImage[av_imagens\Girls2\Mistress\001.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">Dont be scared, its nothing wrong with your application</Font> @ShowImage[av_imagens\Girls2\Mistress\002.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">In fact, TeaseAI works that way...</Font> @ShowImage[av_imagens\Girls2\Mistress\003.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">You thought it was a I.A. simulator, but its a real messenger program</Font> @ShowImage[av_imagens\Girls2\Mistress\004.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">1885 built a version for Dommes too (not available in Milovana)</Font> @ShowImage[av_imagens\Girls2\Mistress\001.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">So we can acess the computer of hornies submissives like you... #Lol</Font> @ShowImage[av_imagens\Girls2\Mistress\002.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">Yes, all that time you were playing with TeaseAI thinking you was alone with a limited I.A.</Font> @ShowImage[av_imagens\Girls2\Mistress\003.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">You was playing with a real Domme in the other side of the screen.</Font> @ShowImage[av_imagens\Girls2\Mistress\004.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">And now, we create a group to mess with you guys...</Font> @ShowImage[av_imagens\Girls2\Mistress\001.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000"> #DomName dont know nothing about that, so let's keep this in secret, ok?</Font> @ShowImage[av_imagens\Girls2\Mistress\002.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">So, anytime your TeaseAI disconnect from your Domme...</Font> @ShowImage[av_imagens\Girls2\Mistress\003.jpg]
+@SystemMessage <Font color="#0000ff">Miss Anitta:</Font> <Font color="#000000">Get ready to serve one of us</Font> @ShowImage[av_imagens\Girls2\Mistress\004.jpg]
+@SystemMessage Miss Anitta has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+my connection had some problems @SetFlag(AV_Disco02)
+At least you could rest a little
+Let's continue
+@End
+(Amy01)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Hello #Slave </Font> @ShowImage[av_imagens\Girls2\Amy\03\14.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">You look so turned on by me standing over you right here. </Font> @ShowImage[av_imagens\Girls2\Amy\03\16.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">I am here to bust your balls! </Font> @ShowImage[av_imagens\Girls2\Amy\03\21.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">A loser like you needs a good ballbusting to get his day started </Font> @ShowImage[av_imagens\Girls2\Amy\03\23.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">so go ahead and spread those legs. </Font> @ShowImage[av_imagens\Girls2\Amy\03\27.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">I kick very hard so I am probably going to drop you to the ground with just one kick. </Font> @ShowImage[av_imagens\Girls2\Amy\03\31.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">I love ballbusting losers like yourself</Font> @ShowImage[av_imagens\Girls2\Amy\03\34.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">hit your balls everytime you hear the sound of a whip</Font> @ShowImage[av_imagens\Girls2\Amy\03\38.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">ready?</Font> @ShowImage[av_imagens\Girls2\Amy\03\14.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Hit your balls </Font> @ShowImage[av_imagens\Girls2\Amy\03\16.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">I want to hear you cry out when you hit that sack.</Font> @ShowImage[av_imagens\Girls2\Amy\03\21.jpg] @PlayAudio[tease\whip.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Again</Font> @ShowImage[av_imagens\Girls2\Amy\03\23.jpg] @PlayAudio[tease\whip.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">You need ABUSE, don't you? </Font> @ShowImage[av_imagens\Girls2\Amy\03\27.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">harder</Font> @ShowImage[av_imagens\Girls2\Amy\03\31.jpg] @PlayAudio[tease\whip.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Yes, see how your dick stirred at that word. </Font> @ShowImage[av_imagens\Girls2\Amy\03\34.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Pull it out and stroke for me.</Font> @ShowImage[av_imagens\Girls2\Amy\03\38.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Stroke because you NEED this humiliation</Font> @ShowImage[av_imagens\Girls2\Amy\03\14.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">you need me to destroy your ego. </Font> @ShowImage[av_imagens\Girls2\Amy\03\16.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Let me take you by the balls and treat you like the loser you crave to be. </Font> @ShowImage[av_imagens\Girls2\Amy\03\21.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">It's natural for a man to want a bit of a chase, to be denied</Font> @ShowImage[av_imagens\Girls2\Amy\03\23.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">but you get off on it to a real fucked up extent, don't you? </Font> @ShowImage[av_imagens\Girls2\Amy\03\27.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Jerk hard for me and let this all sink in</Font> @ShowImage[av_imagens\Girls2\Amy\03\31.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">because today you're not cumming until you hate yourself.</Font> @ShowImage[av_imagens\Girls2\Amy\03\34.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400"> #Stop </Font> @ShowImage[av_imagens\Girls2\Amy\03\38.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Hit your balls again</Font> @ShowImage[av_imagens\Girls2\Amy\03\14.jpg] @PlayAudio[tease\whip.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Good #Slave </Font> @ShowImage[av_imagens\Girls2\Amy\03\16.jpg]
+@SystemMessage Amy has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco03)
+Let's continue our session
+@End
+(Amy02)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Amy has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Hello again #Slave </Font> @ShowImage[av_imagens\Girls2\Amy\01\01.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">I think of you as a filthy, horny creature that needs to be disciplined and trained. </Font> @ShowImage[av_imagens\Girls2\Amy\01\02.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">You are in need of remedial obedience training</Font> @ShowImage[av_imagens\Girls2\Amy\01\03.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">I want to make it clear that even an ounce of disobedience will not be tolerated. </Font> @ShowImage[av_imagens\Girls2\Amy\01\04.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">In this session I will be treating you just like the pet that you are. </Font> @ShowImage[av_imagens\Girls2\Amy\01\32.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Kneel down on the floor and obediently and surrender yourself to the collar and leash.</Font> @ShowImage[av_imagens\Girls2\Amy\01\36.jpg] @Wait(14)
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">In this session you will be practicing following my commands</Font> @ShowImage[av_imagens\Girls2\Amy\01\37.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Get some clothespins...and put 1 on each nipple</Font> @ShowImage[av_imagens\Girls2\Amy\01\39.jpg] @Wait(20)
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Be sure you are kneeling on the floor beneath me and stroke your cock for me.</Font> @ShowImage[av_imagens\Girls2\Amy\01\01.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">This is going to be a stop and go session. </Font> @ShowImage[av_imagens\Girls2\Amy\01\02.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">When I tell you to stroke your cock you must stroke and no matter how good it feels you must stop when I give the command.</Font> @ShowImage[av_imagens\Girls2\Amy\01\03.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400"> #Stop </Font> @ShowImage[av_imagens\Girls2\Amy\01\04.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">No matter how much I tease you and flaunt my sexy body in front of you</Font> @ShowImage[av_imagens\Girls2\Amy\01\32.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">you must refrain from touching your cock until I give you permission. </Font> @ShowImage[av_imagens\Girls2\Amy\01\36.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">This way you can practice following my commands like a good boy. </Font> @ShowImage[av_imagens\Girls2\Amy\01\37.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400"> #Stroke </Font> @ShowImage[av_imagens\Girls2\Amy\01\39.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">I will be sure to overpower you, train you and put you in a trance </Font> @ShowImage[av_imagens\Girls2\Amy\01\01.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Keep your legs spread wide as your stroke yourself.</Font> @ShowImage[av_imagens\Girls2\Amy\01\02.jpg] @Wait(20)
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">That's my slut, masturbate for me!</Font> @ShowImage[av_imagens\Girls2\Amy\01\03.jpg] @Wait(20)
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400"> #Stop </Font> @ShowImage[av_imagens\Girls2\Amy\01\04.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Sit in your chair and remove the clothespins...your Domme is comming...</Font> @ShowImage[av_imagens\Girls2\Amy\01\32.jpg]
+@SystemMessage Amy has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco06)
+Let's continue our session
+@End
+(Natasha01)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Helo #SubName </Font> @ShowImage[av_imagens\Girls2\Natasha\01\15.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Wow, you really will do anything I say, won't you? *laughs* </Font> @ShowImage[av_imagens\Girls2\Natasha\01\16.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">We don't need to play that game. </Font> @ShowImage[av_imagens\Girls2\Natasha\01\17.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">The truth is, I know you have submissive fantasies.</Font> @ShowImage[av_imagens\Girls2\Natasha\01\18.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">So the question is, what will you do for a hot little girl like me?</Font> @ShowImage[av_imagens\Girls2\Natasha\01\19.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Will you get down on your knees? </Font> @ShowImage[av_imagens\Girls2\Natasha\01\20.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">What if it's an order? </Font> @ShowImage[av_imagens\Girls2\Natasha\01\21.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Get on your knees! </Font> @ShowImage[av_imagens\Girls2\Natasha\01\22.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I can't BELIEVE you just did that! </Font> @ShowImage[av_imagens\Girls2\Natasha\01\23.jpg] @Wait(14)
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I'm gonna have a lot of fun with you.</Font> @ShowImage[av_imagens\Girls2\Natasha\01\24.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Why don't you show me how you masturbate to me, you little stroker?</Font> @ShowImage[av_imagens\Girls2\Natasha\01\25.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Stroke your cock, bitch! </Font> @ShowImage[av_imagens\Girls2\Natasha\01\26.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Haha! You're doing it!</Font> @ShowImage[av_imagens\Girls2\Natasha\01\27.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Oh God! This is great!</Font> @ShowImage[av_imagens\Girls2\Natasha\01\28.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">You can't resist me, can you? </Font> @ShowImage[av_imagens\Girls2\Natasha\01\15.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">This is everything you've ever dreamed of.</Font> @ShowImage[av_imagens\Girls2\Natasha\01\16.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Me standing over you...</Font> @ShowImage[av_imagens\Girls2\Natasha\01\17.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">ordering you around... </Font> @ShowImage[av_imagens\Girls2\Natasha\01\18.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">don't you KNOW how easy it is for someone like me to take advantage of you? </Font> @ShowImage[av_imagens\Girls2\Natasha\01\19.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Stroke your cock faster.</Font> @ShowImage[av_imagens\Girls2\Natasha\01\20.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Because that's just what I'm going to do. </Font> @ShowImage[av_imagens\Girls2\Natasha\01\21.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I'm going to humiliate you. </Font> @ShowImage[av_imagens\Girls2\Natasha\01\22.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I'm going to break you.</Font> @ShowImage[av_imagens\Girls2\Natasha\01\23.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff"> #Stop </Font> @ShowImage[av_imagens\Girls2\Natasha\01\24.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Shhh...your Domme is back</Font> @ShowImage[av_imagens\Girls2\Natasha\01\25.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Sit in your chair</Font> @ShowImage[av_imagens\Girls2\Natasha\01\26.jpg]
+@SystemMessage Natasha has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco04)
+Let's continue our session
+@End
+(Natasha02)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Natasha has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Do NOT touch your #Cock </Font> @ShowImage[av_imagens\Girls2\Natasha\02\001.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I'm serious. Don't touch yourself.</Font> @ShowImage[av_imagens\Girls2\Natasha\02\002.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I don't care how hard it gets </Font> @ShowImage[av_imagens\Girls2\Natasha\02\003.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Look, I just can't stand it that I try so hard. So, soooo 'hard'.. you know?</Font> @ShowImage[av_imagens\Girls2\Natasha\02\004.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">So look at me. Good. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\005.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">No I don't care how big and hard it is. You are not allowed to touch it. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\006.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Stand up and put your hands behind your head</Font> @ShowImage[av_imagens\Girls2\Natasha\02\007.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I want you to focus on me.. not on fucking me.. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\009.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">not on my eyes and my face and my lips and my soft skin and my clavicle or my tits or.. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\008.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">mmm... don't you dare touch it. This is not for your amusement.. there is NOTHING sexual going on here... </Font> @ShowImage[av_imagens\Girls2\Natasha\02\010.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">It's all in your head</Font> @ShowImage[av_imagens\Girls2\Natasha\02\011.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I know that you can feel it. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\012.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Building, bubbling, overflowing. You can't control it. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\013.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Ooooo you probably feel like a fucking loser right now. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\014.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Well let me tell you a secret. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\015.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">I love doing this. I love the control that I can have over you. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\016.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">And I love knowing that you'll get me back for it later. </Font> @ShowImage[av_imagens\Girls2\Natasha\02\001.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Sit</Font> @ShowImage[av_imagens\Girls2\Natasha\02\002.jpg]
+@SystemMessage Natasha has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco07)
+Let's continue our session
+@End
+(Bryci02)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Bryci has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Hi again #SubName </Font> @ShowImage[av_imagens\Girls2\Bryci\01\01.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">So...now you know the truth</Font> @ShowImage[av_imagens\Girls2\Bryci\01\02.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I have many lowly little slaves that come to Me begging to be owned and dominated by Me. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\03.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Of course, any slave that is in My presence must be thoroughly trained and obedient. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\04.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">And so, I have a training course for you slaves to follow. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\05.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Here I put you in your place, making you knee before Me</Font> @ShowImage[av_imagens\Girls2\Bryci\01\06.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">kissing my boots and submitting to Me.</Font> @ShowImage[av_imagens\Girls2\Bryci\01\07.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I make you strip nude and wrap a shoe lace around your dick while I humiliate you. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\08.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">After following some of my commands </Font> @ShowImage[av_imagens\Girls2\Bryci\01\09.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I order you to lightly stroke yourself without being allowed to cum. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\08.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Stroke</Font> @ShowImage[av_imagens\Girls2\Bryci\01\09.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I laugh at how much it tortures you while I tease you with My perfect glorious ass! </Font> @ShowImage[av_imagens\Girls2\Bryci\01\10.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">This is so much fun! </Font> @ShowImage[av_imagens\Girls2\Bryci\01\01.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">While you stroke, give yourself a spanking.</Font> @ShowImage[av_imagens\Girls2\Bryci\01\02.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Stroke and spank your ass every second. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\03.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Do it hard!</Font> @ShowImage[av_imagens\Girls2\Bryci\01\04.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Oh, don't be such a baby. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\05.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">You WANT this. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\06.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I'm giving you much more than you'll ever deserve from me.</Font> @ShowImage[av_imagens\Girls2\Bryci\01\07.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000"> #Stop </Font> @ShowImage[av_imagens\Girls2\Bryci\01\08.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Aww, am I hurting your pride?</Font> @ShowImage[av_imagens\Girls2\Bryci\01\09.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I'm a real bitch, aren't I? </Font> @ShowImage[av_imagens\Girls2\Bryci\01\10.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I'm a real mean girl, taking advantage of you like this? </Font> @ShowImage[av_imagens\Girls2\Bryci\01\11.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Well if you don't like it, you won't want to... Stroke again!</Font> @ShowImage[av_imagens\Girls2\Bryci\01\12.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">You're stroking... which means you like being humiliated. </Font> @ShowImage[av_imagens\Girls2\Bryci\01\03.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Which means I can do even MORE humiliating things to you! </Font> @ShowImage[av_imagens\Girls2\Bryci\01\04.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">How much will you take? </Font> @ShowImage[av_imagens\Girls2\Bryci\01\05.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000"> #Stop </Font> @ShowImage[av_imagens\Girls2\Bryci\01\06.jpg]
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">You can sit now.</Font> @ShowImage[av_imagens\Girls2\Bryci\01\07.jpg]
+@SystemMessage Bryci has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco05)
+Let's continue our session
+@End
+(Ramdom_Disco)
+@NullResponse @Goto(DRND1, DRND2, DRND3, DRND4)
+(DRND1)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Bryci has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Haha now your fun can begin pathetic stroker boy. </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\01.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I want you kneeling </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\02.jpg]  @Wait(10)
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Get yourself hard then give me 50 strokes at a medium pace  </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\07.jpg]  @Wait(30)
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Another 50 strokes. </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\04.jpg]  @Wait(20)
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I am working you up to your first edge, but don't get there just yet. </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\05.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Enjoy the feeling of submission, of not knowing what challenges lie in store. </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\06.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000"> #Edge </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\03.jpg] @Wait(20)
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">There will be many more edges before you get a chance to cum. </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\08.jpg] @Wait(25) 
+@SystemMessage <Font color="#0000ff">Bryci:</Font>Why don't you get yourself to the edge again right now. <Font color="#ff0000"> </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\09.jpg]  @PlayAudio[tease\cEdge.mp3] @Wait(25)
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000"> #Stop </Font>  @ShowImage[av_imagens\Girls2\Bryci\02\10.jpg] 
+@SystemMessage Bryci has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName
+Let's continue our session
+@End
+(DRND2)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Amy has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400"> #KneelForMe </Font> @ShowImage[av_imagens\Girls2\Amy\02\06.jpg]
+I want you to spread your knees wide apart and arch your back a little bit, just like in this picture @ShowImage[av_imagens\positions\kneel\07.jpg] @Wait(25)
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Start stroking yourself in this subservient sissy position </Font> @ShowImage[av_imagens\Girls2\Amy\02\08.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">your rightful place is being kept horny, frustrated and ready to do anything you are told. </Font> @ShowImage[av_imagens\Girls2\Amy\02\10.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Lick your thumb and some fingers on your left hand.  </Font> @ShowImage[av_imagens\Girls2\Amy\02\11.jpg]
+@Flag(AV_LikeAnal) @SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Do I need to tell you where these will be going? </Font> @ShowImage[av_imagens\Girls2\Amy\02\18.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Ok time for one of your videos. </Font> @ShowImage[av_imagens\Girls2\Amy\02\20.jpg]
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Keep stroking your little dicklet </Font> @ShowImage[av_imagens\Girls2\Amy\02\22.jpg] @PlayVideo 
+@SystemMessage <Font color="#0000ff">Amy:</Font> <Font color="#006400">Hands off your sissy stick, you won't be touching it for a while.  </Font> @ShowImage[av_imagens\Girls2\Amy\02\33.jpg]
+@SystemMessage Amy has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName
+Let's continue our session
+@End
+(DRND3)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Bryci has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000"> #KneelForMe </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\01.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I am really loving watching you abuse and frustrate yourself </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\02.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">No breaks for you, time for some more edges. </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\03.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Get on your knees and edge once as quick as you can </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\04.jpg]  @PlayAudio[tease\cEdge.mp3] @Wait(10)
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">I just like to see betas struggle to prove themselves hehe. </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\07.jpg]  @Wait(20)
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Is your body quivering from so many edges?  </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\10.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Why don't you hump the air for me? </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\11.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">haha you look so funny with your sissy clit waving around, straining for release. </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\08.jpg] 
+@SystemMessage <Font color="#0000ff">Bryci:</Font> <Font color="#ff0000">Keep your hands on your head while you imagine you are having sex with me, pleasuring me, caressing me. </Font>  @ShowImage[av_imagens\Girls2\Bryci\05\09.jpg] 
+@SystemMessage Bryci has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName
+Let's continue our session
+@End
+(DRND4)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Natasha has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff"> #KneelForMe </Font> @ShowImage[av_imagens\Girls2\Natasha\01\15.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Stroke yourself to the thought that no female desires intimacy from a sissy beta like you. </Font> @ShowImage[av_imagens\Girls2\Natasha\01\16.jpg] @PlayAudio[tease\cStroke.mp3] 
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">The best chance you have of intimacy is to serve as a cuckolded slave in chastity.  </Font> @ShowImage[av_imagens\Girls2\Natasha\01\17.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Licking her pussy clean after visits from a bull.  </Font> @ShowImage[av_imagens\Girls2\Natasha\01\18.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Working day and night to provide her with a lavish lifestyle.  </Font> @ShowImage[av_imagens\Girls2\Natasha\01\19.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Begging her on your knees to keep you, promising away everything you own. </Font> @ShowImage[av_imagens\Girls2\Natasha\01\20.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Now spread your legs for me and raise your legs up the table </Font> @ShowImage[av_imagens\Girls2\Natasha\01\21.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">so that your cock is pointing at you </Font> @ShowImage[av_imagens\Girls2\Natasha\01\22.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">stroke yourself at a much faster pace so that you bring yourself to an edge. </Font> @ShowImage[av_imagens\Girls2\Natasha\01\23.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">Keep going </Font> @ShowImage[av_imagens\Girls2\Natasha\01\24.jpg]
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff">And now Edge for me </Font> @ShowImage[av_imagens\Girls2\Natasha\01\25.jpg] @PlayAudio[tease\cEdge.mp3] @Wait(20)
+@SystemMessage <Font color="#0000ff">Natasha:</Font> <Font color="#0000ff"> #Stop </Font> @ShowImage[av_imagens\Girls2\Natasha\01\26.jpg]
+@SystemMessage Natasha has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName
+Let's continue our session
+@End

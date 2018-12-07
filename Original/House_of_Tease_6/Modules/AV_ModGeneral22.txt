@@ -1,0 +1,287 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral22_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral22]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral22_NotFirstTime)
+(AV_ModGeneral22_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral22]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral22]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral22]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral22]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral22]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral22]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral22]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral22]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral22]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral22]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral22]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral22]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral22]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral22]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral22]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral22]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral22]=[AV_ModGeneral22]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral22]=[AV_ModGeneral22]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral22]=[AV_ModGeneral22]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral22]=[AV_ModGeneral22]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral22]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+I know why you're here. I know the exact reason. 
+You want your Mistress to make you cum. You need it. 
+You've probably been aching for it all session. 
+And now you're right here at my beck and call, wanting and needy. 
+But let me ask you this? What have you done to earn it? 
+@RT(What exactly have you done to please your Mistress today, Were you a good boy)? 
+No, I bet you were just a greedy little slut coming here thinking I'd let you cum without earning it first. 
+Tsk, tsk. You know that's not how it works. 
+So instead of you getting what you want, we are going to play a little game.
+That toy between your legs? Mine. 
+It belongs to me and you clearly need to be reminded of what power I have over it. 
+@Flag(av_fetish_pain) @NullResponse @CBTCock
+You're going to sit there and you're going to listen to exactly how I want to be served. 
+And you, my #PetName, aren't going to touch my toy until you have permission. 
+You're going to lie there, aching and throbbing and I'll decide if you get to stroke or not.
+#KneelForMe
+Now, put your hands at your sides and you keep them there. 
+I'll let you know when I want you to touch. 
+I want you all pent up and desperate. Little boys are so much more obedient when they're desperate. 
+So you keep your hands off my property until I say so. 
+Look down. I want you to see that cock grow for me when I tell you I own it. 
+That I'm the one @RT(who gets it hard, to decide if you get relief or not). 
+@Flag(av_fetish_cfnm) I want you stripped bare. 
+@Flag(av_fetish_cfnm) You aren't allowed clothes when you do your chores, are you? No. 
+@Flag(av_fetish_cfnm) And why is that? You want me to tell you, don't you? 
+@Flag(av_fetish_cfnm) @RT(You aren't allowed clothes because I like to see your body when you serve me, I like to see that cock rigid and throbbing when you're a good boy and do what I tell you to).
+@RT(I want you hard the whole time you serve me,  I want to see how much you enjoy being an obedient little pet). My obedient little pet. 
+@Flag(av_fetish_pain) Hit your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+I bet it hurts doesn't it? 
+To be so hard, so ready and not get to touch. Let me fix that for you. 
+#StartStroking
+Can you feel the floor on your knees? 
+Feels so good doesn't it? 
+You like being down there, don't you? @Chance50(94uh3j)
+I want a nice long massage. You're going to be a good boy and make me feel good. 
+You're going to start at my feet. I want them properly massaged. 
+You just kneel right there and take them into your lap and you work them until I tell you move. @Goto(2s24sg)
+(94uh3j)
+Think about rubbing all the tension and soreness out of my soft, pretty feet. 
+Picture yourself dropping your head down, bringing you lips to them. That's a good boy. 
+Show me what an obedient little pet you are for your Owner. 
+(2s24sg)
+You like that idea, don't you? Are you squirming for me? I know you fucking are.
+Now, pet, think about your mouth being used and you stroke that cock as hard as you can. 
+@RT(I want you to edge for me soon, I want you to show me how badly you want to please me). 
+Be a good little pet and service me. 
+#Edge @Edge
+I wonder how frustrated you'll be if you don't get that relief. 
+I wonder if you'll whimper and moan. I know you will. 
+#SitDown
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+I'm going to transform you into what I want you to be 
+and I feel that only girls deserve to cum. 
+You will do as I command?
+[yes] I thought you would agree that this is the best way. 
+[no] We need to transform you into how I want you to be.
+@DifferentAnswer #YesorNo #SubName?
+I think it's time to start the reprogramming
+#StartStroking
+@Flag(av_fetish_rough) Only being able to follow orders from superior women 
+@Flag(av_fetish_rough) and never being able to think for yourself or pleasure yourself without instructions
+You want to be @RT(under my command, reprogrammed into what you deserve to be)
+No objections, you are my #PetName and you know deep down you deserve this...
+#Edge @Edge
+Now are your balls nice and full?
+@Flag(av_fetish_pain) Good, now slap those balls...
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+I know it hurts but you need this to be programmed...
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+I control your pain and your pleasure. 
+@Flag(av_fetish_pain) You will however feel more pain than pleasure....
+You want this deep down...
+#Edge @Edge
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+Don't even think about stopping untill we tell you...
+@Flag(av_fetish_pain) The pain you feel strengthens my control...
+Which makes you even weaker...
+#Edge @Edge
+More obedient...
+So that you will eventually understand that only girls cum!
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+@Flag(av_fetish_pain) Each slap puts you in your place...
+Does this all sound like fun?
+Your head may not think so but your #Cock is giving me another signal. 
+You will learn some self control
+#Edge @Edge
+Bet that was frustrating! 
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+Deep down, you know this is what you want
+You truly want me to fuck with your cock and make those balls ache so badly
+And I am more than happy to do it
+#Edge @Edge
+you gave over your control to me
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+@Flag(av_fetish_pain) I quite like seeing you hurt those balls for me
+You looked like you struggled to keep that cum in then
+#Edge @Edge
+It must suck doing all these edges...
+But I am in control so you will do as I say @Wait(10)
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+OK, so here's what were're going to do...
+You know that girl you @RT(have a massive crush on, think about all the time)?
+Yeah, #Var[AV_Persona13]
+I'm going to let you #Stroke to pictures of her.
+@RT(I bet you're excited, Aren't I just so nice?)
+#StartStroking
+Isn't she just so hot? @ShowImage[av_imagens\01\*.jpg]
+Look at her mouth. @ShowImage[av_imagens\01\*.jpg]
+Doesn't she have the sexiest little mouth? @ShowImage[av_imagens\01\*.jpg]
+Don't you want to kiss her? @ShowImage[av_imagens\01\*.jpg]
+Imagine her lips on your lips. @ShowImage[av_imagens\01\*.jpg]
+Think of her tongue flicking into your mouth, playing with your tongue. @ShowImage[av_imagens\01\*.jpg]
+So intimate and hot. @ShowImage[av_imagens\01\*.jpg]
+Yeah. That's never going to happen, is it? @ShowImage[av_imagens\01\*.jpg]
+#Edge @EdgeNoHold @ShowImage[av_imagens\01\*.jpg]
+What do you think she looks like under those clothes? @ShowImage[av_imagens\01\*.jpg]
+Wouldn't you love to see? @ShowImage[av_imagens\01\*.jpg]
+How do you think she likes to fuck? @ShowImage[av_imagens\01\*.jpg]
+#StartStroking @ShowImage[av_imagens\01\*.jpg]
+On her back with her feet in the air? @ShowImage[av_imagens\01\*.jpg]
+On her hands and knees, getting it hard from behind? @ShowImage[av_imagens\01\*.jpg]
+Reverse cowgirl, so the guy can see her asshole? @ShowImage[av_imagens\01\*.jpg]
+You think she likes having her hair pulled? @ShowImage[av_imagens\01\*.jpg]
+Look at her and think about how much you want her. @ShowImage[av_imagens\01\*.jpg]
+Think about your thing about her. @ShowImage[av_imagens\01\*.jpg]
+Your favorite part of her. @ShowImage[av_imagens\01\*.jpg]
+Is it her face? Her belly? @ShowImage[av_imagens\01\*.jpg]
+Her sexy ass? Her mouth? @ShowImage[av_imagens\01\*.jpg]
+Her feet? Maybe her lovely hair? @ShowImage[av_imagens\01\*.jpg]
+Hold that in your mind. @ShowImage[av_imagens\01\*.jpg]
+That's where he's going to edge. @ShowImage[av_imagens\01\*.jpg]
+#Edge @EdgeNoHold @ShowImage[av_imagens\01\*.jpg]
+#GoodBoy
+I hope you don't have to look her in the eye any time soon!
+@End
+(Modulo4)
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking 
+@Variable[#DateDifference(AV_SessionTime,minutes)]>=[15] #Edge @Edge
+Don't get too excited though, thats the closest you will get to cum for now...
+I hope it adds to your frustration...
+Becuase that is all you are ever going to know from now on...
+FRUSTRATION
+and denial...
+#StartStroking
+Enjoy these strokes...
+No escaping, no tampering, no release from my control...
+I am going to transform you though, make it so that you never want to cum
+@Flag(AV_DoneAnal) I want your balls to be aching so badly before I fuck you to a ruined orgasm...
+@NotFlag(AV_DoneAnal) I want your balls to be aching so badly
+@Flag(av_fetish_pain) So I think a bit of ballbusting will help make your balls ache...
+#StopStroking
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+Is this not everything you ever wanted? ...
+@Flag(AV_DoneAnal) You will learn to love getting your ass pounded by me...
+Deep down I known you want to be mine! ...
+I may be cruel but I know deep down you are happy...
+You will be even more happy when I have reprogrammed you...
+@Flag(AV_DoneAnal) into being my sissy bitch....
+@Flag(av_fetish_cei) into being my cum eating #Slave
+#Edge @Edge
+Let that pleasure just fade and turn into frustration.
+I suggest you hold onto it for as long as you can as once it ends it will be frustration from then on...
+#Edge @EdgeHold
+Let that edge fade and let the frustration build.
+Have I lulled you into a false sense of security by being kind and allowing you to feel some sort of pleasure? 
+[yes] Good then what I am going to do next will be extra sadistic for you... @Goto(SaidYes)
+[no] You know me too well! Perhaps you know what's coming next then...
+@DifferentAnswer #YesorNo #SubName?
+@Flag(AV_DoneAnal) Yes I lied... I don't want you to have that feeling of pleasure before I fuck you. 
+@NotFlag(AV_DoneAnal) Yes I lied... I don't want you to have that feeling of pleasure
+@Flag(AV_DoneAnal, av_fetish_pain) I want you to have nothing but pain before I fuck you. 
+(SaidYes)
+So take your hands off your cock. 
+You will not touch it again! 
+@Flag(av_fetish_pain) @RT(Hit, spank) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+@NotFlag(AV_DoneAnal) @NullResponse @Goto(AV_r23h87k)
+Go and grab the lube for me. @Wait(40)
+Lube up your ass for me, I know you have experimented before so don't go all shy. 
+This is going to happen.
+I want you to follow all instructions as if I were pounding you. 
+You will not need to touch the keyboard or mouse untill then end now
+so just concentrate on following the instructions
+Are you ready #Slave? 
+Then bend over and prepare yourself. @Wait(15)
+Take a deep breath! I'm going to push it in slowly...
+Nearly there, I know you can take the whole cock...
+There we are we are all the way in, how does that feel?...
+I'll start off slowly. 
+Start fucking yourself slowly, don't stop unless I say
+@Flag(av_fetish_rough) Take it bitch!
+@NotFlag(av_fetish_rough) Take it
+It feels strange doesn't it? ....
+You are starting to feel all tingly arn't you?
+I can see you like it...
+Maybe I'll go a bit harder and faster now...
+That's it take it like a real man, I'm gonna pound your ass
+I feel so powerful fucking you like this...
+@Flag(av_fetish_rough) I bet you feel so degraded and humiliated, down on your knees whils't I fuck you like my bitch....
+Tell me you love it! ...
+Tell me you love my cock in your ass! ....
+Your mind repogramming is starting to take effect....
+I'm going to fuck you as hard and as fast as I can...
+@Flag(av_fetish_rough) Oh that's it, take it sissy....
+This is making me so hot, hearing you whimper and whine...
+You can stop #SubName
+Wow, that's was amazing
+Go clean yourself...I will need too #EmoteHappy @Wait(45)
+(AV_r23h87k)
+#RelaxAndBreathe
+@End

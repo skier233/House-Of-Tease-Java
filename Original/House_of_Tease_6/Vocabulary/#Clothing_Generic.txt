@@ -1,0 +1,18 @@
+#Clothing_Color #Clothing_Top
+#Clothing_Top
+#Clothing_Color #Clothing_Pattern #Clothing_UnderwearFabric #Clothing_Underwear
+#Clothing_Pattern #Clothing_UnderwearFabric #Clothing_Underwear
+#Clothing_UnderwearFabric #Clothing_Underwear
+#Clothing_Underwear
+#Clothing_Color #Clothing_UnderwearFabric #Clothing_Underwear
+#Clothing_Color #Clothing_Underwear
+#Clothing_Color #Clothing_Pattern #Clothing_Underwear
+#Clothing_Pattern #Clothing_UnderwearFabric #Clothing_Underwear
+#Clothing_UnderwearFabric #Clothing_Underwear
+#Clothing_Color #Clothing_Bottom
+#Clothing_Bottom
+#Clothing_Color #Clothing_Dress
+#Clothing_Fabric #Clothing_Dress
+#Clothing_Color #Clothing_Dress
+#Clothing_Dress
+#Clothing_Other

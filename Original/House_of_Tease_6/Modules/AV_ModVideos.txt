@@ -1,0 +1,229 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModVideos_NotFirstTime)
+@NullResponse @SetVar[AV_ModVideos]=[0] 
+@NullResponse @SetFlag(AV_ModVideos_NotFirstTime)
+(AV_ModVideos_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModVideos]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModVideos]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModVideos]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModVideos]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModVideos]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModVideos]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModVideos]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModVideos]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModVideos]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModVideos]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModVideos]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModVideos]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModVideos]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModVideos]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModVideos]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModVideos]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModVideos]=[AV_ModVideos]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModVideos]=[AV_ModVideos]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModVideos]=[AV_ModVideos]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModVideos]=[AV_ModVideos]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModVideos]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1 @AddContact1
+@Contact1 Hands off your #Cock #SubName! @CheckFlag(AV_PinDone)
+@Contact1 I want you to fetch some nipple clamps or clothespins  @TempFlag(AV_PinDone)
+@Contact1 Are you ready to start? 
+[yes, ready, done] @Contact1 Alright #Grin
+[no] @Contact1 Well you should be if you are back on your computer... Slap your cock 5 times and then hurry up
+@DifferentAnswer @Contact1 I don't care about your vague answers! Slap your cock 2 times!
+(AV_PinDone) 
+@Flag(AV_Pins) @Contact1 First, you can remove all clothespins @DeleteFlag(AV_Pins)
+@Contact1 I know that #ShortName isn't around. She gave ME control, so don't do anything stupid.
+@Contact1 You are going to stroke more, but #OfCourse you know you won't be cumming
+@Contact1 #StartStroking
+@Contact1 You shouldn't be struggling yet, this is just a warmup for you
+@Contact1 Think about how much you love to stroke that cock and try to remember what it's like to cum...
+@Contact1 You won't have any feeling of release for a long time toy
+@Contact1 before I'm finished with you you'll be begging me
+@NotFlag(av_fetish_pain) @NullResponse @Goto(234d2dm)
+@Contact1 #StopStroking
+@Contact1 Put one clothespin on each nipple and squeeze them tight!
+@Contact1 I'm going to teach you how to hurt those balls
+@Contact1 Grab them with one hand
+@Contact1 Now squeeze them for me
+@Contact1 They look like they are aching slave, let's see how much more pain you can take @CustomTask(AV_CBT_Gliter1)
+@Contact1 That's better
+@Contact1 I love seeing you follow my instructions and hurting youself @CustomTask(AV_StrokeNumberGliter1)
+(234d2dm)
+@Contact1 #Edge @EdgeNoHold
+@Contact1 #Edge @EdgeNoHold
+@Contact1 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact1 Take off the clothespins, turn them 45 degrees and put them back on
+@Contact1 Hands behind your head #Slave
+@Contact1 Take a break to look at me and think about how good it would feel to cum!
+@Contact1 #KneelForMe @Wait(10)
+@Contact1 #Edge @EdgeNoHold
+@Contact1 #Edge @EdgeNoHold
+@Contact1 #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact1 Slap those #Balls with your hand @PlayAudio[tease\spank\*.mp3] @Wait(15)
+@Flag(av_fetish_pain) @Contact1 @CustomTask(AV_CBT_Gliter1)
+@Contact1 Has it gone soft for me from all that pain, slave? @Timeout(5, AV_Timeo13)
+[yes] @Contact1 Oops... #Lol
+[no] @Contact1 #Good 
+@DifferentAnswer @Contact1 #YesorNo
+(AV_Timeo13)
+@Contact1 Do you think you can edge for me?
+@Contact1 I don't care what the answer is to be honest... #Edge @EdgeNoHold
+@Flag(av_fetish_pain) @Contact1 take the clothespins off
+@Contact1 Now look me in the eyes
+@NullResponse @RemoveContact1
+#SitDown
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @CheckFlag(NoRedLightGreenLightInstructions)
+I want to play a game called Red Light Green Light with you
+It's really simple #SubName
+I'm going to pick out one of your porn videos and show it to you
+Any time the video is playing, you have to stroke
+But I'll be over here with my finger on the controls
+And if I pause it, then you have to stop stroking completely
+Red light - I pause the video and you stop stroking
+Green light - I play the video and you stroke
+Easy right? @SetFlag(NoRedLightGreenLightInstructions)
+So let's do it @PlayRedLightGreenLight
+You made it!
+I have a lot of fun with that game, I hope you do too
+We'll try playing it again sometime, but for now
+I'm very much in a green light kind of mood #Lol
+@End
+(NoRedLightGreenLightInstructions)
+Feel like playing Red Light Green Light with me again? #EmoteHappy
+[yes] In that case
+[no] That's okay #PetName @Goto(That's Okay)
+@DifferentAnswer Yes or no #PetName?
+Drivers start your engines #Grin @PlayRedLightGreenLight
+You made it!
+That was fun #EmoteHappy
+I'll have to rev up your engine like that again real soon #Grin
+@End
+(That's Okay)
+I have other ways of making you ache #Grin
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @CheckFlag(WonderJOI)
+Since you have so much porn
+I wonder if you have any JOI videos @CheckJOIVideo
+Oooh, you do! #Grin
+You seem to do pretty well with my instructions
+But let's see how you do with one of these girls
+I'm going to pick out one of your videos
+And I want you to do what they say until it's over
+With one exception...
+You're not allowed to cum, not even to ruin
+Even if they say you can
+This is going to be my rule pretty much any time I play videos for you
+So now that you know what <i>I</i> want...@SetFlag(WonderJOI)
+Let's see if you can give her what <i>she</i> wants #Grin @PlayJOIVideo
+It's nice to suffer for a girl like that sometimes
+But now you get to suffer for a girl like me again #Grin
+@End
+(WonderJOI)
+Still got those JOI videos? @CheckJOIVideo
+Oh yes, now we're talking #Lol
+Sit back and get comfortable #PetName
+I've got someone who's going to take over for a minute #EmoteRandom @PlayJOIVideo
+I don't mind sharing you with girls like that
+Because in the end
+I'm the only one who decides if you get to cum #Grin
+@End
+(No JOI Found)
+Nope 
+Oh well
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @CheckFlag(NoCensorshipSucksInstructions)
+I want to play a game I came up with called Censorship Sucks 
+Since you haven't played this with me before, I need you to just listen to me for a few minutes @AFKOn
+I'm #Gonna show you a porn video from your collection
+And as long as you can see everything sexy on the screen
+You can stroke #EmoteHappy
+What I mean by sexy is
+Nudity in a softcore video, whether it's an amazing pair of breasts, an incredible ass or a perfect little pussy
+Nudity or passionate kissing in a lesbian scene
+Female nudity or lips wrapped around a hard cock in a blowjob scene
+Or a domme's sadistic attentions to a helpless slave in a femdom session
+You get the idea
+Every now and then a black bar will pop up on the screen trying to censor what you can see
+And if that bar is covering anything good
+Then you have to stop stroking immediately
+Even if you can see something else good on the screen, you have to stop if <i>any</i> sexy parts are covered up at all
+There might be situations where a girl will flash you one breast while hiding the other, or something like that
+In that case you can stroke because there's still something sexy on the screen
+It's only when the censorship bar is hiding something that you have to stop
+Well, you also have to stop if you're about to cum
+But I'm not sure my censorship bar will even <i>let</i> you get that close #Grin
+So now that you know how to play @AFKOff @SetFlag(NoCensorshipSucksInstructions)
+Let's get started @PlayCensorshipSucks
+You made it!
+Pretty interesting game, I think
+We'll try playing it again when the time is right, but for now
+I think there's something else I can do to that #Cock #Grin
+@End
+(NoCensorshipSucksInstructions)
+Feel like playing Censorship Sucks with me again? #EmoteHappy
+[yes] That's the spirit
+[no] That's okay #PetName @Goto(That's Okay)
+@DifferentAnswer Yes or no #PetName?
+Now let's see if I can't break it #Grin @PlayCensorshipSucks
+You made it!
+That was fun #EmoteHappy
+Next time I'll find something even better to make you wish you could stroke to #Grin
+@End
+(That's Okay)
+I have other ways of making you ache #Grin
+@End

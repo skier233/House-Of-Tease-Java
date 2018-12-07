@@ -1,0 +1,303 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DisconectOnce)
+@NotFlag(AV_Disco01) @NullResponse @Goto(Bryci01)
+@NotFlag(AV_Disco02) @NullResponse @Goto(Ms Anitta)
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some videos on your computer
+Stroke to the beat #Grin
+Have fun @RapidCodeOn
+@NotFlag(AV_Disco03) @NullResponse @Goto(Amy01)
+@NotFlag(AV_Disco04) @NullResponse @Goto(Natasha01)
+@NotFlag(AV_Disco05) @NullResponse @Goto(Bryci02)
+@NotFlag(AV_Disco06) @NullResponse @Goto(Amy02)
+@NotFlag(AV_Disco07) @NullResponse @Goto(Natasha02)
+@NullResponse @Goto(Ramdom_Disco)
+(Bryci01)
+You're going to be a good little boy for me #GeneralTime, aren't you? 
+You'll have to submit yourself to even more teasing.. 
+Over and over..edging repeatedly. 
+@SystemMessage connection lost @SetDomme(Random) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+Oh...Hi there...  
+What happ...oh my god, are you naked?  
+What were you doing, sir? *smile*  
+Wait a minute...there is something here...let me check @Wait(15)  
+This is yours? LOL @ShowCaptionsImage 
+I can see your chatlog and some shared folders here...interesting  
+So, you are a sex slave, right?  @Glitter(AV_Disconnected)
+And follow all the orders of your online Domme...  
+This looks fun to me 
+Sorry? I'm blushing? no no no way you are wrong  
+I know exactly what you like #SubName   
+Now that I know what kind of guy your are  
+I think we could have a lot of fun together #Grin  
+This will be our little secret, ok?  
+Why you dont start #Stroking for me while I think what to do with you?  
+Oh, you are conditioned to #Stroke to this sound @PlayAudio[tease\cStroke.mp3]  @Wait(20)  
+OK, looks like that #MainDom dont give you a chance to cum till the end of the session  
+I will respect that.  
+Oh, look that...I can choose the speed of your strokes @PlayAudio[tease\b120.mp3] @Wait(10)  
+Let's try that fast one @PlayAudio[tease\b250.mp3] @Wait(10)  
+#Lol, you are good at this  
+#Stop  
+See? I already know you have a sound to stop.  
+But now, I can have more fun with the things you do with #MainDom  
+#KneelForMe  
+Put a clothespins on your nipples @Wait(20)  
+And 2 on your balls @Wait(20)  
+Put your arms behind your head with your fingers intertwined  
+Stay in this position for me  
+Now reach down between your legs and start caressing those balls.  
+That's it, squeeze and caress them   
+Look how horny this is getting you!  
+Now reach down further and begin running your fingers along the crack of your ass.  
+Go on, get your asshole horny as well.  
+Go on and start slowly stroking your cock. @PlayAudio[tease\cStroke.mp3]  
+Go on slut, stroke your cock  
+I love that  
+#Stop  
+Go ahead and sit down.  
+Just make sure that as your are sitting  
+your legs are spread so that everyone knows that your cock and ass are available for anyone to use.  @Wait(15)
+OK, I think out time its almost done, so I want one last thing   
+Edge for me  @PlayAudio[tease\cEdge.mp3] 
+Go #SubName, give me that edge @Wait(15) 
+You can hold when you get there 
+That's it 
+You can remove all the clothespins 
+Try to calm down 
+We dont want #MainDom knowing what we did here, right? 
+That was fun, #SubName 
+Who knows if we will meet again? 
+@SystemMessage Unknown user has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @SetDomme(Domme) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room @InterruptsOn 
+Hi #PetName...I am trying to reconnect for a few minutes now @SetFlag(AV_Disco01)
+I bet you missed your Mistress, didn't you? 
+I told your life as my slave wouldn't be easy. 
+Well, can we continue our session?
+@End
+(Ms Anitta)
+@SystemMessage connection lost @SetDomme(Random) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+Hi #SubName 
+Dont be scared, its nothing wrong with your application 
+In fact, TeaseAI works that way... 
+You thought it was a I.A. simulator, but its a real messenger program 
+1885 built a version for Dommes too (not available in Milovana) 
+So we can acess the computer of hornies submissives like you... #Lol 
+Yes, all that time you were playing with TeaseAI thinking you was alone with a limited I.A. 
+You was playing with a real Domme in the other side of the screen. 
+And now, we create a group to mess with you guys... 
+#MainDom dont know nothing about that, so let's keep this in secret, ok? 
+So, anytime your TeaseAI disconnect from your Domme... 
+Get ready to serve one of us 
+@SystemMessage Unknown user has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection... @SetDomme(Domme) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+my connection had some problems @SetFlag(AV_Disco02)
+At least you could rest a little
+Let's continue
+@End
+(Amy01)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection... @SetDomme(Random) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+Hello #Slave  
+You look so turned on by me standing over you right here.  
+I am here to bust your balls!  
+A loser like you needs a good ballbusting to get his day started  
+so go ahead and spread those legs.  
+I kick very hard so I am probably going to drop you to the ground with just one kick.  
+I love ballbusting losers like yourself 
+hit your balls everytime you hear the sound of a whip 
+ready? 
+Hit your balls  
+I want to hear you cry out when you hit that sack.  @PlayAudio[tease\whip.mp3] 
+Again  @PlayAudio[tease\whip.mp3] 
+You need ABUSE, don't you?  
+harder  @PlayAudio[tease\whip.mp3] 
+Yes, see how your dick stirred at that word.  
+Pull it out and stroke for me.  @PlayAudio[tease\cStroke.mp3] 
+Stroke because you NEED this humiliation 
+you need me to destroy your ego.  
+Let me take you by the balls and treat you like the loser you crave to be.  
+It's natural for a man to want a bit of a chase, to be denied 
+but you get off on it to a real fucked up extent, don't you?  
+Jerk hard for me and let this all sink in 
+because today you're not cumming until you hate yourself. 
+#Stop  
+Hit your balls again  @PlayAudio[tease\whip.mp3] 
+Good #Slave  
+@SystemMessage Unknown user has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting... @SetDomme(Domme) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco03)
+Let's continue our session
+@End
+(Amy02)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting... @SetDomme(Random) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+Hello again #Slave  
+I think of you as a filthy, horny creature that needs to be disciplined and trained.  
+You are in need of remedial obedience training 
+I want to make it clear that even an ounce of disobedience will not be tolerated.  
+In this session I will be treating you just like the pet that you are.  
+Kneel down on the floor and obediently and surrender yourself to the collar and leash.  @Wait(14)
+In this session you will be practicing following my commands 
+Get some clothespins...and put 1 on each nipple  @Wait(20)
+Be sure you are kneeling on the floor beneath me and stroke your cock for me.  @PlayAudio[tease\cStroke.mp3] 
+This is going to be a stop and go session.  
+When I tell you to stroke your cock you must stroke and no matter how good it feels you must stop when I give the command. 
+#Stop  
+No matter how much I tease you and flaunt my sexy body in front of you 
+you must refrain from touching your cock until I give you permission.  
+This way you can practice following my commands like a good boy.  
+ #Stroke   @PlayAudio[tease\cStroke.mp3] 
+I will be sure to overpower you, train you and put you in a trance  
+Keep your legs spread wide as your stroke yourself.  @Wait(20)
+That's my slut, masturbate for me!  @Wait(20)
+#Stop  
+Sit in your chair and remove the clothespins...your Domme is comming... 
+@SystemMessage Unknown user has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection... @SetDomme(Domme) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco06)
+Let's continue our session
+@End
+(Natasha01)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection... @SetDomme(Random) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting... @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+Helo #SubName  
+Wow, you really will do anything I say, won't you? *laughs*  
+We don't need to play that game.  
+The truth is, I know you have submissive fantasies. 
+So the question is, what will you do for a hot little girl like me? 
+Will you get down on your knees?  
+What if it's an order?  
+Get on your knees!  
+I can't BELIEVE you just did that!   @Wait(14)
+I'm gonna have a lot of fun with you. 
+Why don't you show me how you masturbate to me, you little stroker?  @PlayAudio[tease\cStroke.mp3] 
+Stroke your cock, bitch!  
+Haha! You're doing it! 
+Oh God! This is great! 
+You can't resist me, can you?  
+This is everything you've ever dreamed of. 
+Me standing over you... 
+ordering you around...  
+don't you KNOW how easy it is for someone like me to take advantage of you?  
+Stroke your cock faster. 
+Because that's just what I'm going to do.  
+I'm going to humiliate you.  
+I'm going to break you. 
+#Stop  
+Shhh...your Domme is back 
+Sit in your chair 
+@SystemMessage Unknown user has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting... @SetDomme(Domme) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco04)
+Let's continue our session
+@End
+(Natasha02)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection... @SetDomme(Random) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+Do NOT touch your #Cock 
+I'm serious. Don't touch yourself. 
+I don't care how hard it gets  
+Look, I just can't stand it that I try so hard. So, soooo 'hard'.. you know? 
+So look at me. Good.  
+No I don't care how big and hard it is. You are not allowed to touch it.  
+Stand up and put your hands behind your head 
+I want you to focus on me.. not on fucking me..  
+not on my eyes and my face and my lips and my soft skin and my clavicle or my tits or..  
+mmm... don't you dare touch it. This is not for your amusement.. there is NOTHING sexual going on here...  
+It's all in your head 
+I know that you can feel it.  
+Building, bubbling, overflowing. You can't control it.  
+Ooooo you probably feel like a fucking loser right now.  
+Well let me tell you a secret.  
+I love doing this. I love the control that I can have over you.  
+And I love knowing that you'll get me back for it later.  
+Sit 
+@SystemMessage Unknown user has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting... @SetDomme(Domme) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco07)
+Let's continue our session
+@End
+(Bryci02)
+@SystemMessage connection lost @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection... @SetDomme(Random) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unknown user has joined the chat room...  @ShowImage[av_imagens\System.jpg] 
+Hi again #SubName  
+So...now you know the truth 
+I have many lowly little slaves that come to Me begging to be owned and dominated by Me.  
+Of course, any slave that is in My presence must be thoroughly trained and obedient.  
+And so, I have a training course for you slaves to follow.  
+Here I put you in your place, making you knee before Me 
+kissing my boots and submitting to Me. 
+I make you strip nude and wrap a shoe lace around your dick while I humiliate you.  
+After following some of my commands  
+I order you to lightly stroke yourself without being allowed to cum.  
+Stroke  @PlayAudio[tease\cStroke.mp3] 
+I laugh at how much it tortures you while I tease you with My perfect glorious ass!  
+This is so much fun!  
+While you stroke, give yourself a spanking. 
+Stroke and spank your ass every second.  
+Do it hard! 
+Oh, don't be such a baby.  
+You WANT this.  
+I'm giving you much more than you'll ever deserve from me. 
+#Stop  
+Aww, am I hurting your pride? 
+I'm a real bitch, aren't I?  
+I'm a real mean girl, taking advantage of you like this?  
+Well if you don't like it, you won't want to... Stroke again!  @PlayAudio[tease\cStroke.mp3] 
+You're stroking... which means you like being humiliated.  
+Which means I can do even MORE humiliating things to you!  
+How much will you take?  
+#Stop  
+You can sit now. 
+@SystemMessage Unknown user has left the chat room @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Trying to re-establish connection...  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage connecting... @SetDomme(Domme) @ShowImage[av_imagens\System.jpg] 
+@SystemMessage #DomName has joined the chat room 
+I am back #SubName @SetFlag(AV_Disco05)
+Let's continue our session
+@End
+(Ramdom_Disco)
+@PlayVideo
+#Stop
+@End

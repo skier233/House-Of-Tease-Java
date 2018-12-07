@@ -1,0 +1,361 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral27_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral27]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral27_NotFirstTime)
+(AV_ModGeneral27_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral27]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral27]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral27]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral27]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral27]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral27]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral27]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral27]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral27]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral27]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral27]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral27]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral27]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral27]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral27]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral27]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral27]=[AV_ModGeneral27]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral27]=[AV_ModGeneral27]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral27]=[AV_ModGeneral27]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral27]=[AV_ModGeneral27]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral27]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+Girls are cumming hard. And boys are not allowed to!
+I'm here to remind you that.
+I'm sure that sometimes I am too kind to you.
+Then, I think I should lock you in chastity permanently.
+And the only award would be permission to eat me out.
+You should be so frustrated now, isn't it? @ResponseYes(Ark_Frustrated) @ResponseNo(AV_NoNeutral) 
+@Flag(av_fetish_rough) Because nasty perverted boys must stay locked.
+#Edge @Edge
+You must suffer for your Mistress.
+Because girls are nice and sweet.
+Beautiful and desirable.
+And when they cumming - that is wonderful!
+But cumming boys are gross.
+Soiled with sticky mess, immediately lost all their attractiveness.
+That is why you should stay denied.
+No cumming. No relief. Pure lust only.
+That should be the only acceptable option.
+Caged, denied cock. Full, achy balls. No permission to cum.
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+That is what you deserve.
+The funniest thing is that you always want more!
+To be more excited and horny.
+More stroking, more edging.
+Being closer and closer to cumming!
+And I want more as well!
+More teasing, more torturing, more and more denial!
+I love it! To control, to order, to keeping you always horny!
+And slaves must stay obedient.
+@Flag(av_fetish_pain) @CBTBalls
+I'll make your cock cry with precum while you are holding that massive load for me.
+#Edge @Edge
+You are all mine now. 
+@End
+(Modulo2)
+#Name, I'm even jealous a little!
+You're having so much pleasure now...
+So sensitive! So horny! @AddContact1
+@Contact1 Hi
+Hi #Contact1
+@Contact1 #SubName, you just another horny denied boy for me.
+@Contact1 And you must stay denied until your mistress let you cum.
+@Contact1 Girls are cumming hard. And boys are not allowed to!
+#Lol Where did that come from?
+@Contact1 I am learning #EmoteFace
+@Contact1 #Edge @EdgeHold
+@NotFlag(AV_MasuDone) @NullResponse @Goto(end3430)
+@Contact1 Hey #DomName, can I try that Masu thing you talked about?
+Sure, you already know the beats...
+@Contact1 Great, let's try #SubName @SetVar[AV_MasuRounds]=[#Random(5, 9)] 
+(MasuLoop)
+@NullResponse @Goto(Mas1, Mas2, Mas3, Mas4, Mas5, Mas6, Mas7, Mas8, Mas9, Mas10, Mas11)
+(Mas1)
+@Contact1 @RT(ONE two three four,, ONE two three four, ONE two three four, Dog) @PlayAudio[tease\Masu\dogdog120.wav] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas2)
+@Contact1 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat100.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas3)
+@Contact1 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat120.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas4)
+@Contact1 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas5)
+@Contact1 DOG & CAT @PlayAudio[tease\Masu\dogcat80.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas6)
+@Contact1 DOG & CAT @PlayAudio[tease\Masu\dogcat100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas7)
+@Contact1 DOG & CAT faster @PlayAudio[tease\Masu\dogcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas8)
+@Contact1 DOG & CAT switch @PlayAudio[tease\Masu\dogcat-switch140.mp3] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas9)
+@Contact1 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas10)
+@Contact1 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake120.wav] @Wait(17)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas11)
+@Contact1 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(MasuBreak)
+@Contact1 @RT(Imagine if we played Masu for several hours at competition speed how much cum would have built up, Knowing all this,, knowing you will not be able to cum and dancing near the edge is the very essence of highlevel Masu play, If you do it right you will enter a blisfull trance like state, That's it. Keep your form. Work it hard, Stroke is To Obey)
+@NullResponse @If[AV_MasuTrain]>=[AV_MasuRounds]Then(MasuEnds)
+@NullResponse @Goto(MasuLoop)
+(MasuEnds)
+@Contact1 #ThatsEnough
+(end3430)
+@Contact1  See you later, thanks for let me use #SubName
+Bye #Contact1
+@NullResponse @RemoveContact1
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+@RT(#PetName, #SubName)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(6723fjs)
+Now I’m going to make you suffer.
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Shall we begin your punishment? 
+You may say “yes mistress”.
+[yes] Good. I’m glad you agree.
+[no] You aked for this @CBTBalls
+@DifferentAnswer #YesorNo
+#KneelForMe
+Gently rub your nipples for me. 
+Get them all excited, just starting to perk up. 
+Feel the blood rushing to them, interested in the pleasant sensation. @RT(Is that working, Does that feel nice)? 
+Now pinch them.
+Hard. You heard me.
+@Flag(av_fetish_rough) Fucking pinch them as hard as you can you worthless fuck.
+Twist them clockwise for me, right to the point when you can’t twist them any more.
+Hold it there.
+Look at you. 
+@Flag(av_fetish_rough) You’re pathetic. 
+Kneeling there at my feet, debasing yourself for my amusement. 
+Stop twisting now, go back to rubbing them. 
+You’ll do anything I tell you to, not just because you’re mine, but because deep down, you know you deserve it.
+Pinch them hard again, like you fucking mean it. 
+You know that all of these punishments are 100% completely deserved
+@Flag(av_fetish_rough) because you’re a pathetic little fuckup.
+Right, down on all fours, on the floor, right now. 
+Grab whatever it is you got to beat yourself with and take it in your dominant hand. 
+On my count, you’re going to slap the right cheek of your ass. 
+And no little sissy hits! I want to hear the crack as it hits you
+and a little mumble of suffering slip out of your piece of shit mouth. @Chance50(ewfiu34)
+@NullResponse @PlayAudio[tease\spank\Belle05a.mp3] @Wait(15)
+@NullResponse @Goto(23rin)
+(ewfiu34)
+ONE! @PlayAudio[tease\whip.mp3]
+TWO! @PlayAudio[tease\whip.mp3]
+HARDER! THREE! @PlayAudio[tease\whip.mp3]
+Like you fucking mean it! FOUR! @PlayAudio[tease\whip.mp3]
+FIVE! @PlayAudio[tease\whip.mp3]
+(23rin)
+Wait. We forgot to put the nipple clamps on you! 
+We got your nipples all worked up, and then didn’t finish off! 
+Why didn’t you remind me?
+Were you trying to get out of your full punishment? Bad slave.
+Put the clamps on, now. And do it properly, not just resting there. 
+I want to see your nipples bulging through the clips, and see you squirm whenever your touch them.
+Go on. Once they’re clamped, flick them. Right on the tip. 
+Mmmm. Hurts, doesn’t it? @Timeout(5, AV_Timeo300)
+[yes] Good. It’s supposed to. 
+[no] You're brave #SubName
+@AcceptAnswer #YesorNo
+(AV_Timeo300)
+That’s for trying to dodge some pain.
+Right back to your ass. 
+But how silly of me, I’ve forgotten how far we’d counted. 
+Better just start again to be safe  @Chance50(bfg87)
+@NullResponse @PlayAudio[tease\spank\Belle10b.mp3] @Wait(15)
+@NullResponse @Goto(0dfmnf)
+(bfg87)
+ONE! @PlayAudio[tease\whip.mp3]
+TWO! @PlayAudio[tease\whip.mp3]
+THREE! @PlayAudio[tease\whip.mp3]
+I bet your ass is starting to feel really sore now. FOUR! @PlayAudio[tease\whip.mp3]
+FIVE! @PlayAudio[tease\whip.mp3]
+Every time it strikes, you’re in agony.
+SIX! @PlayAudio[tease\whip.mp3]
+Mmmm. You better be fucking suffering.
+SEVEN! EIGHT! NINE! @PlayAudio[tease\whip.mp3]
+Oh, don’t think you know what I’m gonna say. I make all the choices.
+TEN! @PlayAudio[tease\whip.mp3]
+ELEVEN! @PlayAudio[tease\whip.mp3]
+You thought we were done at ten? No no no! You’ve been far too bad for that.
+TWELVE! @PlayAudio[tease\whip.mp3]
+THIRTEEN! @PlayAudio[tease\whip.mp3]
+(0dfmnf)
+Stop. That will do for now... for that cheek. 
+Start again, other side.
+Left cheek, ONE! @PlayAudio[tease\whip.mp3]
+TWO! @PlayAudio[tease\whip.mp3]
+THREE! @PlayAudio[tease\whip.mp3]
+FOUR! @PlayAudio[tease\whip.mp3]
+FIVE! @PlayAudio[tease\whip.mp3]
+You’re slowing up. Don’t. Hit that ass as hard as you fucking can.
+SIX! SEVEN! EIGHT! @PlayAudio[tease\whip.mp3]
+Better, but could still be harder.
+NINE! @PlayAudio[tease\whip.mp3]
+TEN! @PlayAudio[tease\whip.mp3]
+Stop. Back to the right cheek for the last three.
+ELEVEN! TWELVE! THIRTEEN! @PlayAudio[tease\whip.mp3]
+Actually, no, now I feel like I’ve neglected the left. 
+Hit it again for me @PlayAudio[tease\whip.mp3] 
+one more time.  @PlayAudio[tease\whip.mp3]
+And another. @PlayAudio[tease\whip.mp3]
+And another. @PlayAudio[tease\whip.mp3]
+(6723fjs)
+See, I’m training you, like one would train a dog.
+If you’re bad, you get punished. But if you do good, then nice things will happen.
+Grab your hard cock for me.
+Wrap your fingers round it gently and start stroking up and down. @PlayAudio[tease\cStroke.mp3]
+Just slowly at first.
+Really work your way from the base of your cock right up to the tip.
+Feel the pleasure work up and down your cock.
+Think about it being my soft, gently hand on your cock.
+Stroking you up and down.
+Now, speed it up a little bit. 
+Not too fast yet, just a medium pace. 
+Maybe grip a little more firmly, stroke it up and down. 
+If it helps, imagine my infront of you, wearing just some black lace lingerie, stroking your cock, my hair flicking over your thighs and legs, teasing you.
+Now go faster. As fast as you like. 
+It's time for you to get yourself to the edge. 
+Really stroke hard as you imagine thrusting in and out of my tight wet pussy. 
+My lips gripping around your hard thick cock as you slide in and out of me. 
+#Edge @Edge
+I bet you really want to cum right about now, don't you? 
+You just want to erupt in pleasure and spurt all that hot cum out for me. 
+I want you to do that as well. But just not quite yet. 
+I want your hot, sweet cum, but I want to tease it out. 
+#SitDown
+@End
+(Modulo4)
+@Stroking #Stop @StopStroking
+It looks like I get to test your submission now
+I think my goal will be to get you as horny as possible
+so that you are ready to degrade yourself like never before for anyone.
+Stand up...
+Now reach down between your legs and start caressing those balls.
+That's it, squeeze and caress them @Wait(15)
+Look how horny this is getting you!
+@Flag(AV_LikeAnal) Now reach down further and begin running your fingers along the crack of your ass. 
+@Flag(AV_LikeAnal) Go on, get your asshole horny as well.
+#StartStroking
+Lick your fingers and start rubbing those nipples.
+Feels good, no? 
+Keep rubbing and twisting them until they are as hard as your cock.
+#StopStroking
+Go on, try to see how horny you can get by just playing with your nipples. 
+hmm...
+Reach down and caress your cock and balls @Wait(15)
+Take your hands and grab the top of the back of the chair
+@Flag(av_fetish_rough, AV_LikeAnal) put one leg on each side of the chair
+@Flag(av_fetish_rough, AV_LikeAnal) and arch your back so that your ass is sticking out in the "I want to get fucked in the ass" position.
+@Flag(av_fetish_rough, AV_LikeAnal) That's it, show me that you want to get fucked in the ass!
+Now, take your left hand and start stroking your cock @PlayAudio[tease\cStroke.mp3]
+@Flag(av_fetish_rough, AV_LikeAnal) all the while you are sticking out your ass. 
+@Flag(av_fetish_rough, AV_LikeAnal) That looked so pathetic! You really are a desperate slut! 
+#Edge @EdgeNoHold
+#SitDown
+You want to degrade and abuse yourself for me, don't you? @Timeout(5, time239js)
+[yes] #GoodBoy @MoodUp @Goto(yespainhum)
+[no] You don't? @Goto(nopainhum)
+@DifferentAnswer #YesorNo
+(time239js)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(nopainhum)
+(yespainhum)
+Oh fuck that makes me so wet #Slave, I can't wait to take advantage of you
+I'm going to make you hurt your balls so bad #PetName
+I want to see you doubled up in pain
+I'm going to masturbate and cum while you're abusing your horrible blue balls. 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+I think its time I showed you what we're going to use some of these toys for. 
+First...
+#Edge @Edge
+Get the spoon...
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+#Edge @Edge
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+#Edge @Edge
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+Oh, are those balls starting to hurt #Slave ?
+They are? Good, I want you to suffer. 
+Grab those clothespins and put 2 on each nipple. 
+Twist them round slave
+squeeze them
+pull on them
+twist them
+make yourself hurt because it turns me on. 
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+that's so hot to see you hurt your balls like this!
+(nopainhum)
+that hard cock desperate to cum, maybe I should lock you up in a chastity belt slave
+make you hornier than you've ever been before.
+I'll sit on your face, and suck and lick your cock through the cage
+and you'll stay denied while I cum and cum and cum again. 
+#StartStroking
+and rub your balls for me
+I want them to be able to take more abuse soon.
+#Edge @Edge
+How are those balls feeling?
+I'm not sure how much more they can take
+Remove the clothespins...
+@End

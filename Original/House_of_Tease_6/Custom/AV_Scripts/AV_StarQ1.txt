@@ -1,0 +1,11 @@
+When I say: Hello. You say?
+[Nothing] Good thinking. But when I speak directly to you, you better respond!  
+[Mistress] correct @Goto(StartQ01Right)
+@AcceptAnswer No no no. You must always use my title when speaking!
+@CBT
+@NullResponse @Goto(EndQuestionsAV)
+(StartQ01Right)
+#Stroke #RandomRound10(10, 50) times @Wait(20)
+(EndQuestionsAV)		
+This kind of verbal discipline turns me on so much.
+@End

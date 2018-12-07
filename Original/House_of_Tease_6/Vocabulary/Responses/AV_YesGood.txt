@@ -1,0 +1,26 @@
+[All]
+#Good
+#Good
+#Good 
+#Good @MoodUp
+#Good @MoodUp
+Good Boy
+#GoodBoy
+#GoodBoy
+@Flag(AV_Know_17) #Var[AV_Persona09]
+@Flag(AV_Know_17) #Var[AV_Persona09]
+@Flag(AV_Know_17) #Var[AV_Persona09] @MoodUp
+#ImPleased
+#ImPleased
+#Lovingly
+#Lovingly @MoodUp
+#Lovingly
+#Lovingly
+#OfCourse @MoodUp
+#OfCourse
+#OfCourse @MoodUp
+This is awesome!
+I love it! @MoodUp
+This is what true power feels like! @MoodUp
+@RT(Good, Better), that is how I @RT(want, expect) you to @RT(answer, respond) to all my questions.
+[All End]

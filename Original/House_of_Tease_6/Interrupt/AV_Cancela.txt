@@ -1,0 +1,5 @@
+@Flag(av_intera_003) @NullResponse @AddDomme
+@Flag(av_intera_003) @NullResponse @RemoveContact3
+@Flag(av_intera_012) @NullResponse @RemoveContact3
+@Flag(av_intera_008) @NullResponse @RemoveContact2
+@End

@@ -1,0 +1,4 @@
+[ve been bad, ve been a bad,ve been disobedient,ve disobeyed, i'm a bad, i am a bad]
+[All]
+@NullResponse @MiniScript(pvMs_HaveBeenBad)
+[All End]

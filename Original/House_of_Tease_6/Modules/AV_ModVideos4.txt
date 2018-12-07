@@ -1,0 +1,395 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModVideos4_NotFirstTime)
+@NullResponse @SetVar[AV_ModVideos4]=[0] 
+@NullResponse @SetFlag(AV_ModVideos4_NotFirstTime)
+(AV_ModVideos4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModVideos4]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModVideos4]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModVideos4]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModVideos4]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModVideos4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModVideos4]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModVideos4]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModVideos4]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModVideos4]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModVideos4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModVideos4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModVideos4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModVideos4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModVideos4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModVideos4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModVideos4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModVideos4]=[AV_ModVideos4]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModVideos4]=[AV_ModVideos4]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModVideos4]=[AV_ModVideos4]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModVideos4]=[AV_ModVideos4]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModVideos4]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+So I have to be honest...
+I've really been enjoying our arrangement so far.
+Knowing all your crushes give me so much @RT(power, control) over you
+We really have you willing to do anything.
+Let's use this now...
+You will #Stroke and edge for every crush you told me...
+Looks fun, right? #EmoteLaugh
+Let's start with...
+@Flag(AV_Know_12) Your secret crush, #Var[AV_Persona13] @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) #StartStroking @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) Feels good, right? @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) Maybe I should give her a call if you dont do what I say @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) #LetTheEdgeFade @ShowImage[av_imagens\01\*.jpg] @Wait(10)
+@Flag(AV_Know_00) Hmm @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) Your Crush actress, #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) #StartStroking @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) Oh it feels so good to touch ourselves doesn't it. @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) Keep going, you can stay on this picture for quite some time. @ShowImage[av_imagens\02\*.jpg] @Wait(15)
+@Flag(AV_Know_00) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) #LetTheEdgeFade @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_01) Your Crush singer, #Var[AV_Persona02] @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) #StartStroking @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) I want you to imagine those are her hands which are running over your #Cock @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) As if holding a microphone #Lol @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) #LetTheEdgeFade @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_03) Paying tribute to #Var[AV_Persona04] @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) #StartStroking @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) Take a good look at her body. @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) I want you to have her body firmly in your mind. @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) #LetTheEdgeFade @ShowImage[av_imagens\04\*.jpg]
+Now I need to check your new crushes
+@NotFlag(AV_Know_50, AV_Know_51, AV_Know_52, AV_Know_53, AV_Know_54, AV_Know_55, AV_Know_56, AV_Know_57, AV_Know_58, AV_Know_59) @NullResponse @Goto(NoNewCrush)
+This can be a lot of edges for you #EmoteSmile
+I want you to focus on all of their bodies
+Imagine kissing her lips
+her legs running against your legs
+your hands around her neck
+Ready?
+@Flag(AV_Know_50) #EdgeNoun @EdgeNoHold for #Var[AV_Persona50] @ShowImage[av_imagens\10\*.jpg] 
+@Flag(AV_Know_51) #EdgeNoun @EdgeNoHold for #Var[AV_Persona51] @ShowImage[av_imagens\11\*.jpg] 
+@Flag(AV_Know_52) #EdgeNoun @EdgeNoHold for #Var[AV_Persona52] @ShowImage[av_imagens\12\*.jpg] 
+@Flag(AV_Know_53) #EdgeNoun @EdgeNoHold for #Var[AV_Persona53] @ShowImage[av_imagens\13\*.jpg] 
+@Flag(AV_Know_54) #EdgeNoun @EdgeNoHold for #Var[AV_Persona54] @ShowImage[av_imagens\14\*.jpg] 
+@Flag(AV_Know_55) #EdgeNoun @EdgeNoHold for #Var[AV_Persona55] @ShowImage[av_imagens\15\*.jpg] 
+@Flag(AV_Know_56) #EdgeNoun @EdgeNoHold for #Var[AV_Persona56] @ShowImage[av_imagens\16\*.jpg] 
+@Flag(AV_Know_57) #EdgeNoun @EdgeNoHold for #Var[AV_Persona57] @ShowImage[av_imagens\17\*.jpg] 
+@Flag(AV_Know_58) #EdgeNoun @EdgeNoHold for #Var[AV_Persona58] @ShowImage[av_imagens\18\*.jpg] 
+@Flag(AV_Know_59) #EdgeNoun @EdgeNoHold for #Var[AV_Persona59] @ShowImage[av_imagens\19\*.jpg] 
+@Flag(AV_Know_50) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona50] @ShowImage[av_imagens\10\*.jpg] 
+@Flag(AV_Know_51) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona51] @ShowImage[av_imagens\11\*.jpg] 
+@Flag(AV_Know_52) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona52] @ShowImage[av_imagens\12\*.jpg] 
+@Flag(AV_Know_53) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona53] @ShowImage[av_imagens\13\*.jpg] 
+@Flag(AV_Know_54) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona54] @ShowImage[av_imagens\14\*.jpg] 
+@Flag(AV_Know_55) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona55] @ShowImage[av_imagens\15\*.jpg] 
+@Flag(AV_Know_56) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona56] @ShowImage[av_imagens\16\*.jpg] 
+@Flag(AV_Know_57) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona57] @ShowImage[av_imagens\17\*.jpg] 
+@Flag(AV_Know_58) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona58] @ShowImage[av_imagens\18\*.jpg] 
+@Flag(AV_Know_59) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona59] @ShowImage[av_imagens\19\*.jpg] 
+#LetTheEdgeFade
+Wow, that was @RT(intense, hot, harsh) #Lol
+(NoNewCrush)
+@NotFlag(AV_Know_50, AV_Know_51, AV_Know_52, AV_Know_53, AV_Know_54, AV_Know_55, AV_Know_56, AV_Know_57, AV_Know_58, AV_Know_59) Aww...you don't have any...well...
+But I know you love it @Wait(10)
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+@NotFlag(av_fetish_pain) @NullResponse @Goto(YesRemove)
+@NotFlag(AV_PinDone) Go fetch a ruler and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Flag(AV_Pins) I will give you a chanve to remove all the clothespins 
+@NotFlag(AV_Pins) I want you to put 2 clothespins on your nipples and 2 on your balls @SetFlag(AV_Pins)
+You're going to rack up points by #Stroking yourself, smacking your balls, and spanking your ass.  
+The more you do each, the more points you'll rack up.  
+If you get enough points, I'll let you take it off.  
+And no, I'm not going to tell you how many points you need. 
+Just try to impress me.
+You can stroke yourself now. @PlayAudio[tease\cStroke.mp3] 
+Just a little bit though. 
+We're going to take our time.
+I want you to be fully erect while you are #Stroking before you move forward.
+Feel free to give me an edge, when you're ready! @CustomMode(#ZAVI_IreadyToEdge, Goto, UserEdged) 
+I love @RandomText(watching your frustration, watching you suffer, watching you squirm, denying you, teasing you, torturing you, controlling you)
+I think that your balls should be aching.
+I think we both know that that cock is gonna be doing some major leaking today!
+@Edge #Edge
+@NullResponse @Goto(FimEdgeUser)
+(UserEdged)
+@NullResponse @DecideEdge 
+(FimEdgeUser)
+#LetTheEdgeFade @CustomMode(ModeText, Normal) 
+You have one more edge for me, don't you?
+You have to do better, if you want to play with me! 
+@Edge #Edge
+#LetTheEdgeFade
+Watching you with our plaything has gotten me very aroused, #PetName. @SetVar[AV_Points]=[0] 
+@CustomTask(AV_GamesPoints, 5)
+I hope you've learned your place as a slave, now. 
+Now...
+you will have to stroke at the pace of the sound.
+Do not touch your #Cock between those lapses.
+Nothing more, I don't even want to know if it was enough or not.
+#StartStrokingNS #AudioStrokeNW @Wait(15)
+#StopStroking
+#StartStrokingNS #AV_AudioBeat @Wait(15)
+#StopStroking
+#StartStrokingNS #AudioStrokeNW @Wait(15)
+#StopStroking
+#StartStrokingNS #AV_AudioBeat @Wait(15)
+#StopStroking
+#WellDone @ChangeVar[AV_Points]=[AV_Points]+[5]
+Oh, knowing what you did, and that you did it just because I asked you to
+and you knew in advance what would happen...
+You've gotten me very wet. 
+I just might have to taste you myself.
+Now...
+Maybe I should @RT(stroke your cock, caress your balls, finger myself, stop this #Stroking, use one hand, stop fingering myself)?
+Let me see if I will let you remove those clothespins...
+@NullResponse @If[AV_Points]>[20]Then(YesRemove)
+Sorry #SubName, you did not pass
+Keep the clothespins for now
+@End
+(YesRemove)
+@Flag(av_fetish_pain) Yes, you can remove all the clothespins #SubName @DeleteFlag(AV_Pins)
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+So...
+You're a horny little boy, needy. And you want me...
+Am I understanding this correctly?
+Want to cum for me?... But this cock isn't ready for me is it?
+#KneelForMe 
+In your mind, your hands are tied, but in reality, they aren't.
+Take your cock in your hand. Grip it. 
+That's my hand on you. 
+@RT(Holding your cock...owning it. My body behind you...reaching around, Grasping you. My mouth near your ear...whispering these words to you.)
+My tongue dragging along your earlobe, 
+As I tell you..."Fuck... My hand."
+Do it. Rock your hips... And fuck your hand #PetName. @PlayAudio[tease\cStroke.mp3] 
+Mmm, that's it. Feels good doesn't it? @ResponseYes(AV_YesNeutral) @ResponseNo(AV_NoNeutral) 
+Picture me walking around you...
+Taking in the sight of you on your knees,
+@RT(Ready to beg, You will beg. I have no doubt of this)
+@RT(You can't resist, you want to touch me)
+I'm going to stand in front of you... Legs spread. 
+@RT(Glistening...excited at the idea of you so desperate, Just inches from your face)
+Beg me. Let me hear you beg for my pussy. #EmoteMoan
+Good. But it doesn't look like enough for you. 
+@RT(Your eyes. They tell me you want more, Do you want more baby?)
+Beg me. Beg me to let you stroke that cock harder... Faster.
+No. Not good. 
+#StopStroking 
+I know. It's frustrating. With the desire to orgasm so great?
+#SitDown. Spread your legs. 
+Grip your cock again. 
+Squeeze it.
+#StartStroking
+Imagine my pussy, @RT(wet, slippery)...
+Not swallowing that cock... But sliding against it. 
+@RT(My pussy, my lips, my clit)...
+Stroking that cock. 
+@RT(My tits in your face, My nails clawing at your shoulders)...
+Riding you, but not fucking you...
+Agonizing, isn't it baby? @ResponseYes(Killing)
+#KeepStroking Go faster now. 
+I want you on that edge...
+Get close for me baby.. That's it. 
+Yes baby that's it... Let me count you down...
+10... That's my good boy...
+9... Closer baby That's it...
+8...Oh god yes... I feel it... I feel my cock throbbing.
+7 @RapidtextOn
+6...
+5... Fuck yes... Closer... Get closer. @RapidtextOff
+4... @RapidtextOn
+3...
+2....
+1... @RapidtextOff
+#Edge @edge
+Aww you poor boy... 
+So desperate. 
+I know sweetie... I know. 
+That was fun....
+For me...
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Be a good boy and obey @AddContact1
+@NullResponse @AddContact2 @AddContact3 
+@NullResponse @RemoveDomme 
+@NullResponse @AddTeaseTime(20 Minutes)
+@Contact3 So, you think you can handle us, eh? 
+@Contact3 I have to tell you, we've seen some pretty sorry slaves so far.
+@Contact1 Oh, #Contact3 . I'm sure he'll do great!
+@Contact1 Look at the way his cock is already throbing
+@Contact2 I don't know #Contact1  But let's give him a shot, maybe he'll surprise us. 
+@Contact2 Let's go, stroker. 
+@Contact1 Be nice, #Contact2 . C'mon, honey. Just give us a few slow strokes. @PlayAudio[tease\cStroke.mp3] 
+@CockSmall @Contact2 Speaking of things that aren't long
+@Contact3 OK, boy, let 'er rip! 
+@Contact3 Just go ahead and pound it as hard and fast as you can, for as long as you can take it 
+@Contact1 Impress us with your stamina. 
+@Contact2 Just keep going we'll let you know when we've seen enough.
+@Contact2 But definitely don't cum! We don't need that kind of nasty mess in here.
+@Contact3 OK. Hold up. I think we've seen enough. @PlayAudio[tease\cStop.mp3] 
+@Contact1 Oooooh, that was really nice! 
+@Contact1 I thought you had some really intense #Stroking
+@Contact1 and your cock seemed to be ready to burst right from the start.
+@Contact2 You really came in prepared what did you think, #Contact3?
+@Contact3 Well, it wasn't the worst slave I've ever seen. 
+@Contact3 Don't get too excited. I didn't say it was any good.
+@Contact3 Your #Stroking was uneven and you seemed to be slowing down there towards the end.
+@Contact2 Like #Contact1 said, you came in rockin it hard and fast just the way I like. @SetLink(AV_SpecGlitterLinkGeneral)
+@Contact1 Now... @CustomTask(AV_StrokeNumberGliter1, 2)
+@NullResponse @CustomTask(AV_StrokeNumberGliter2, 3)
+@NullResponse @CustomTask(AV_StrokeNumberGliter3, 2)
+@Contact2 Who do you want to #EdgeNoun for? @InputVar[AV_EscGlitter]
+@NullResponse @If[AV_EscGlitter]=[#Contact1]Then(AVContact1)
+@NullResponse @If[AV_EscGlitter]=[#Contact2]Then(AVContact2)
+@NullResponse @If[AV_EscGlitter]=[#Contact3]Then(AVContact3)
+Since you can not type, we will choose @Goto(AVContact1, AVContact2, AVContact3)
+(AVContact1)
+@Contact1 I love @RandomText(watching your frustration, watching you suffer, watching you squirm, denying you, teasing you, torturing you, controlling you)
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@NullResponse @Goto(EscEnd)
+(AVContact2)
+@Contact2 I love @RandomText(watching your frustration, watching you suffer, watching you squirm, denying you, teasing you, torturing you, controlling you)
+@Contact2 #Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@NullResponse @Goto(EscEnd)
+(AVContact3)
+@Contact3 I love @RandomText(watching your frustration, watching you suffer, watching you squirm, denying you, teasing you, torturing you, controlling you)
+@Contact3 #Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+(EscEnd)
+@Contact1 I think he needs a break @BookmarkModule
+@End
+@Contact3 @Stroking #StopStroking @StopStroking 
+@Contact1 You really impressed us with your dedication, your blue balls, and your obvious desire to please.
+@Contact2 Yes, it was a lot of fun for me seeing you throbbing for us!
+@Contact2 I wish we could keep you around to stroke for us...  
+@Contact3 Especially now when we really start testing your limits. 
+@Contact3 But we need guys who are going to work harder, tease themselves more, 
+@Contact3 and really push themselves to the edge, all simply for our entertainment
+@Contact1 #Edge @Edge
+@Contact2 #Edge @Edge
+@Contact3 #Edge @Edge
+@Contact2 OK. Hold up. I think we've seen enough.
+@Contact1 Yeah, just catch your breath now and give us a minute to take in the sight of you like this, aching and needy.
+@Contact1 Too bad you won't be cumming any time soon! 
+@Contact2 It's so much fun teasing you like this!
+@Contact2 Can  you just imagine what it would be like if we were the ones stroking this throbbing cock?
+@Contact2 Our soft little hands wrapped around your aching shaft
+@Contact3 Dont get him too excited, #Contact2 
+@Contact1 OK, that was enough of a break.
+@Contact1 Lets see some more stroking!
+@Contact1 Stroke! #AudioStroke
+@Contact1 #StopStroking @Wait(15)
+@Contact1 More! #AudioStroke
+@Contact1 #StopStroking @Wait(15)
+@Contact3 Again! #AudioStroke
+@Contact3 #StopStroking
+@Contact2 Well, #Contact3 ? sure are having fun today!
+@Contact3 Whoooo, that was hot! Hands off those cocks.
+@Contact1 Let us get a good long look at it.
+@Contact1 Ohhhh, look at how hard he is!
+@Contact3 I shouldn't have been taking it so easy on you so far @SetLink(AV_SpecGlitterLinkGeneral)
+@Contact2 This is much, much more fun!
+@Contact3 You need to cool off anyway. @BookmarkModule
+@End
+@Contact1 @Stroking #StopStroking @StopStroking 
+@Contact2 I'm having so much fun
+@Contact2 And we haven't even really started yet. @CustomTask(AV_CBT_Gliter2, 2)
+@Contact2 I'm trying to illustrate a point. 
+@Contact2 I can do anything to you, and you cannot stop me. At all. @CustomTask(AV_StrokeNumberGliter1, 3)
+@Contact1 Poor baby, can't handle a little teasing?  @ResponseYes(ILoveTeaseAndDenial) @ResponseNo(AV_NoNeutral) 
+@Contact1 That's really too bad, because yes, we are going to keep doing this. 
+@Contact1 But I can be sweet if you just behave yourself.
+@Contact3 That's true, but that's not the point
+@Contact3 Like I was telling you last night, #Contact1: Total control. 
+@Contact3 Nothing you can do. So, you'll do as I say, or I'll make you. 
+@Flag(av_fetish_pain) @NullResponse @CustomTask(AV_CBT_Gliter3, 3)
+@Contact3 I can do those at any time. I can make the sensations ten times as intense. 
+@Contact3 A hundred times, if I want. 
+@Contact3 And I can make them last for days instead of minutes. 
+@Contact2 I have an idea
+@Contact2 As well as being naked, whenever you're in our presence
+@Contact2 you must keep your body no higher than my pussy. 
+@Contact2 You can't stand, or kneel, or sit, any higher than that.
+@Contact2 So, #KneelForMe
+@Contact2 Alright, pet, I'll show a bit of feminine mercy. 
+@Contact2 #StartStroking
+@Contact1 Oh, silly boy, leaving you hanging is what it's all about!
+@Contact1 They're not even ours anyway.
+@Contact3 Maybe I should ask #DomName to do that every day
+@Contact1 He knows his place.
+@Contact2 He is a boy. And his limits are not my concern
+@Contact2 #Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@Contact2 A little push back can be fun, but it can get old fast.
+@Contact2 I'd start minding your place if I were you.
+@Contact3 Does it matter?  @SetLink(AV_SpecGlitterLinkGeneral)
+@Contact3 He have a dick. We can control it anyway. 
+@Contact3 Breaking him in could be quite fun, and could even teach me how to handle other stubborn boys. 
+@Contact1 #SitDown @BookmarkModule
+@End
+@Contact2 @Stroking #StopStroking @StopStroking 
+@Contact1 Look who is back @AddDomme
+@NullResponse @RemoveTeaseTime(20 Minutes)
+Hi #PetName, miss me?
+@Contact3 He is fine #EmoteHappy
+Thanks girls, I will take control now
+@Contact2 You are welcome... cya
+@NullResponse @RemoveContact1
+@NullResponse @RemoveContact2
+@NullResponse @RemoveContact3
+@End

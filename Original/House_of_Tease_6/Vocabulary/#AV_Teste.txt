@@ -1,0 +1,7 @@
+@Group(D123) @Contact1 1
+@Group(D123) @Contact3 3
+@Group(D123) @Contact2 2
+@Group(D123) 0
+@Group(D123) @Contact1 1
+@Group(D123) @Contact3 3
+@Group(D123) @Contact2 2

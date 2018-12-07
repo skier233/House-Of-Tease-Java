@@ -1,0 +1,114 @@
+@NullResponse @Goto(break one, break two, break three)
+(break one)
+#StopStroking 
+Actually, I want you to sit on your hands, do it #PetName
+You taking a break means I can take on too
+I wouldn't want to bore you too much, tough
+So I'll run a slideshow for you #Smile
+No touching #Name, see you in a bit! @SetVar[pthevBreak1]=[0] @SetDate(pthevBreak1Timer,2 minutes) @LockImages
+(go again)
+@NullResponse @CheckDate(pthevBreak1Timer)
+@NullResponse @Goto(Femdom, Softcore, Hardcore, Lesbian, Blowjob)
+(Hentai)
+@NullResponse @ShowHentaiImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]>[8]Then(BreakDone)
+@NullResponse @Goto(Hentai, Softcore, Hardcore, Lesbian, Blowjob)
+(Femdom)
+@NullResponse @ShowFemdomImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]>[8]Then(BreakDone)
+@NullResponse @Goto(Hentai, Softcore, Hardcore, Lesbian, Blowjob)
+(Softcore)
+@NullResponse @ShowSoftcoreImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]>[8]Then(BreakDone)
+@NullResponse @Goto(Hentai, Softcore, Hardcore, Lesbian, Blowjob)
+(Hardcore)
+@NullResponse @ShowHardcoreImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]>[8]Then(BreakDone)
+@NullResponse @Goto(Hentai, Softcore, Hardcore, Lesbian, Blowjob)
+(Lesbian)
+@NullResponse @ShowLesbianImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]>[8]Then(BreakDone)
+@NullResponse @Goto(Hentai, Softcore, Hardcore, Lesbian, Blowjob)
+(Blowjob)
+@NullResponse @ShowBlowjobImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]>[8]Then(BreakDone)
+@NullResponse @Goto(Hentai, Softcore, Hardcore, Lesbian, Blowjob)
+(BreakDone)
+@NullResponse @Chance80(go again)
+(pthevBreak1Timer)
+I'm back #Name #Smile @UnlockImages
+And now that you've cooled down a bit...
+Get off your hands and start stroking again  @AddStrokeTime
+@End
+(break two)
+#StopStroking 
+I'm going to play you one of your videos to enjoy
+But no touching that #Cock
+Have fun #Smile @PlayVideo
+@NullResponse @Wait(15)
+Hey, did you enjoy your video? 
+[yes] It must have been hard not to #JerkOff then 
+[no] It must have been easy to keep your hands off your #Cock then #Smile 
+@DifferentAnswer #YesOrNo
+Okay, start stroking again #Name  @AddStrokeTime
+@End
+(break three)
+#StopStroking 
+I'm going to take a break too #SubName
+I'll leave you with some pictures of boobs and butts
+And to make sure you're paying attention
+I'm going to throw 1 other picture in the mix
+When I'm get back I'll ask you what it was
+See you in a minute #Smile @SetVar[pthevBreak1]=[0]
+@NullResponse @ShowBoobsImage @LockImages @Goto(Boobs,Butts)
+(Boobs)
+@NullResponse @ShowBoobsImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]=[5]Then(Break two pic)
+@NullResponse @If[pthevBreak1]>[7]Then(Break two done)
+@NullResponse @Goto(Boobs,Butts)
+(Butts)
+@NullResponse @ShowButtImage @ChangeVar[pthevBreak1]=[pthevBreak1]+[1]
+@NullResponse @If[pthevBreak1]=[5]Then(Break two pic)
+@NullResponse @If[pthevBreak1]>[7]Then(Break two done)
+@NullResponse @Goto(Boobs,Butts)
+(Break two pic)
+@NullResponse @Goto(two FD,two LB,two HC, two BJ)
+(two FD)
+@NullResponse @ShowFemdomImage @TempFlag(pthevTwoFD)
+@NullResponse @Goto(Boobs,Butts)
+(two LB)
+@NullResponse @ShowLesbianImage @TempFlag(pthevTwoLB)
+@NullResponse @Goto(Boobs,Butts)
+(two HC)
+@NullResponse @ShowHardcoreImage @TempFlag(pthevTwoHC)
+@NullResponse @Goto(Boobs,Butts)
+(two BJ)
+@NullResponse @ShowBlowjobImage @TempFlag(pthevTwoBJ)
+@NullResponse @Goto(Boobs,Butts)
+(Break two done)
+@NullResponse @UnlockImages
+Okay #Name, enough boobs and butts for now...
+Now tell me, was the extra pic femdom, lesbian, hardcore or blowjob? 
+[femdom] @NullResponse  @Goto(said femdom)
+[lesbian] @NullResponse  @Goto(said lesbian)
+[hardcore] @NullResponse  @Goto(said hardcore)
+[blowjob] @NullResponse  @Goto(said blowjob)
+@DifferentAnswer Femdom, lesbian, hardcore or blowjob, #SubName?
+(said femdom)
+@Flag(pthevTwoFD) I'm glad you're still paying attention #PetName #Smile @DeleteFlag(pthevTwoFD) @Goto(got it right)
+Wrong answer #PetName, I guess you weren't paying attention  @CBTBalls
+@NullResponse @Goto(got it right)
+(said lesbian)
+@Flag(pthevTwoLB) I'm glad you're still paying attention #PetName #Smile @DeleteFlag(pthevTwoLB) @Goto(got it right)
+Wrong answer #PetName, I guess you weren't paying attention  @CBTBalls
+@NullResponse @Goto(got it right)
+(said hardcore)
+@Flag(pthevTwoHC) I'm glad you're still paying attention #PetName #Smile @DeleteFlag(pthevTwoHC) @Goto(got it right)
+Wrong answer #PetName, I guess you weren't paying attention  @CBTBalls
+@NullResponse @Goto(got it right)
+(said blowjob)
+@Flag(pthevTwoBJ) I'm glad you're still paying attention #PetName #Smile @DeleteFlag(pthevTwoBJ) @Goto(got it right)
+Wrong answer #PetName, I guess you weren't paying attention  @CBTBalls
+(got it right)
+Time to get back to stroking now  @AddStrokeTime
+@End

@@ -1,0 +1,345 @@
+@NullResponse @CheckFlag(pthevMod01xD)
+@NullResponse @CheckFlag(pthevMod01xC)
+@NullResponse @CheckFlag(pthevMod01xB)
+@NullResponse @CheckFlag(pthevMod01xA)
+#Stop @StopStroking
+Don't you hate it when you have to stop
+Just when you're getting into a nice groove
+Not that I'm done teasing you of course #Grin
+The great thing about that is that I can always start over @SetFlag(pthevMod01xA)
+@End
+(pthevMod01xA)
+@NullResponse @SetFlag(pthevMod01xB) @DeleteFlag(pthevMod01xA)
+#StopStroking @StopStroking
+I love it when you do what I say
+Makes me wonder what else I could make you do
+Would you do <i>anything</i> I say?
+[yes, of course, absolutely, always] Oh really now #Grin @Goto(will do anything)
+[no] That's good, you still have a mind of your own #Smile @Goto(mind of your own)
+[maybe, don't know, not sure, depends] I'm sure we'll hit your limit at some point
+@DifferentAnswer #YesOrNo
+We'll see it when we get there I suppose #Smile
+(mind of your own)
+That means there is still a mind for me to destroy #Grin
+That sliver of willpower you think you still have will slowly melt away
+Until one day you might find that you don't want to tell me "no" anymore
+Whatever I tell you to do, no matter how depraved or humiliating...
+You will do it happily for me
+I guess we're not there yet, #PetName
+But I'm a patient woman #Smile  
+@End
+(will do anything)
+Okay, let me think...
+If I told you to run outside naked
+And kiss the ass of the first woman you see
+Would you do it?
+[yes] Don't be ridiculous #PetName #Lol
+[no] And thank god for that #Lol
+@DifferentAnswer #YesOrNo
+No woman wants some random naked guy kiss her ass
+@End
+(pthevMod01xB)
+@NullResponse @SetFlag(pthevMod01xC) @DeleteFlag(pthevMod01xB)
+@NullResponse @CheckFlag(pthevVirgin)
+@NullResponse @CheckFlag(pthevMarried) 
+@NullResponse @CheckFlag(pthevGirlfriend)
+#StopStroking @StopStroking
+I love it when you obey me just like that
+Without even asking why
+When I stop stroking you just stop @Goto(being an obedient)
+@End
+(pthevVirgin)
+#StopStroking @StopStroking
+I can't believe you're still a virgin, #Name
+That somehow makes tormenting you even more fun #Smile
+You <i>are</i> still my little virgin, right?
+[yes] I like that about you #SubName @Goto(i like that about you)
+[no] @NullResponse
+@DifferentAnswer #YesOrNo
+You're not mine or not a virgin?
+[not yours, don't belong] I beg to differ #PetName
+[not a virgin, not virgin, had sex, both] Oh sorry I thought you were still a virgin... @Goto(thought you were)
+@DifferentAnswer Either you're not mine or not a virgin, which is it?
+You're still a virgin though, right?
+[yes] I like that about you #SubName @Goto(i like that about you)
+[no]  Oh sorry I thought you were still a virgin...
+@DifferentAnswer #YesOrNo
+(thought you were)
+I'll remember it from now on @DeleteFlag(pthevVirgin)
+It's a pity, I kind of like virgins
+It's okay though, as long as you obey my commands #Smile
+And by the way #SubName @Goto(being an obedient)
+@End
+(i like that about you)
+#StopStroking @StopStroking
+Do you feel embarrassed you that you are still a virgin?
+[yes] Well don't #SubName @SetFlag(pthevVirginEmbarrassed)
+[no] Good, it shouldn't #Smile
+@DifferentAnswer #YesOrNo
+It's not a big deal, not to me at least
+Though I know to some people it is, #Contact1 for example
+She's my friend, but she can be a real bitch sometimes #Laugh
+Somehow I feel like being a virgin makes you a better sub
+More eager to please and follow instructions @Goto(being an obedient)
+@End
+(pthevGirlfriend)
+(pthevMarried)
+#StopStroking @StopStroking
+I wonder what real life is like for you
+Like, do you obey @ShowVar[pthevNamePartner] as well as you obey me?
+[yes] Good, that's the way it should be #Smile
+[no] Maybe you should #SubName
+@DifferentAnswer #YesOrNo
+(being an obedient)
+You shouldn't stop being submissive when you log off
+Remember #SubName, every woman you meet is a potential domme 
+The girl behind the checkout counter of the supermarket
+That co-worker with the high heels
+The woman at the bus stop with the long legs
+Or that neighbour with the mysterious smile
+@Flag(pthevSubInLove) Or @ShowVar[pthevNamePartner] for that matter...
+You don't have to tell her that you want to serve her
+Or kneel to kiss her feet
+You can do little things
+Hold the door for her
+Offer to get her a drink
+Be courteous
+She'll appreciate the gesture
+She doesn't have to know the feelings it stirs in you
+But if she's a domme, she'll understand
+And the glint in her eyes might tell you all you need to know #Smile
+@NullResponse @SetDate(pthevMod01Delay,14 days)
+@End
+(pthevMod01xC)
+@NullResponse @SetFlag(pthevMod01xD) @DeleteFlag(pthevMod01xC)
+#Edge @Edge
+#LetTheEdgeFade
+Be careful not to cum when you're edging
+@Flag(pthevCEI_No) I might have to make you eat your load #Grin
+@Flag(av_fetish_cei) You might like the taste of cum a little too much for your own good
+@NullResponse @CheckDate(pthevMod01Delay)
+Obeying me is more important than satisfying your dirty needs
+Although obeying satisfies a need as well, doesn't it #SubName?
+Remember what I said about being submissive after you log off?
+[yes] @NullResponse @Goto(yes I remember)
+[no] Let me refresh you memory
+@AcceptAnswer @NullResponse
+I said that every woman or girl you meet could be a Domme
+And that you can do little things the please them
+(yes I remember)
+Have you been putting it to practice?
+[yes] Being submissive is always good #SubName #Smile
+[no] Let's just say you're very loyal #PetName #Smile
+@DifferentAnswer #YesOrNo
+Always remember where you belong @ShowFemdomImage
+I will certainly do everything I can to remind you @ShowCaptionsImage
+And to reinforce what's already inside of you @ShowFemdomImage
+Does it turn you on to think that way about women you meet?
+[yes] I promise you many of those women feel the same way
+[no] I promise you many of those women do feel that way #SubName
+@DifferentAnswer #YesOrNo
+Well, not all of them of course
+But some will #Smile
+Imagine it #SubName
+Imagine one of those women, just someone you meet
+Maybe she'll see your submissive nature
+Maybe at night, when she's alone
+She'll masturbate while picturing you kneeling before her
+The smallest gesture can do that to a woman #Smile
+I want you to think about that #PetName
+@End
+(pthevMod01xD)
+@NullResponse @CheckFlag(pvMod01xE)
+@NullResponse @SetFlag(pvMod01xE)
+#Edge @Edge
+#LetTheEdgeFade
+@CockTorture I want you to hurt your #Cock #Name @CBTCock
+That #Cock is my property and don't you forget that, #Name
+You just have it on loan from me so that you can worship me with it
+Give me 10 quick strokes
+That's how you should worship me, #PetName
+By stroking and aching and suffering for me
+Give me 25 fast strokes
+Hurry up, #Name
+But do not edge unless I give you permission, you know you have to ask for it
+@CockTorture And you can worship me by hurting for me, too @CBTCock
+#Edge @Edge
+Hands behind you back, #PetName
+Just let that #Cock throb now... it's probably leaking like crazy #Laugh
+How I love tormenting you, my helpless little #PetName
+How I love watching you squirm and ache and humiliate yourself
+You're pathetic, #SubName
+You deserve every second of agony that I put you through
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod01xE)
+@NullResponse @DeleteFlag(pthevMod01xD) @DeleteFlag(pvMod01xE)
+#StopStroking @StopStroking
+It's so odd in a way...
+That your fantasy involves bad things happening to you
+Like orgasm denial
+@BallTorture Or getting your #Balls busted
+Do you ever worry that this fantasy won't end well for you?
+That at some point you'll have gone so far down this rabbit hole that you can't go back
+Even if it makes you hate yourself for what you've become?
+I hope you haven't reached that point yet, #PetName
+Because I want to take you even deeper down
+And I want you to love every minute of it even as I torment you like never before
+And anyway, becoming what you truly are ought to be good thing, right?
+You should love yourself for becoming a better submissive for me with each passing day
+@End
+(pthevMod01Delay)
+A while back I told you about how every woman you meet could be a Domme
+Do you remember that?
+[yes] @NullResponse @Goto(yes I remember still)
+[no] Let me refresh you memory then #PetName
+@AcceptAnswer @NullResponse
+@NullResponse @SetFlag(pthevMod01xC) @DeleteFlag(pthevMod01xD)
+@NullResponse @SetDate(pthevMod01Delay,30 days)
+Imagine a beautiful woman with long legs
+If your imagination needs some help...
+@ImageTag(BodyLegs) That can be arranged #Smile @LockImages @Goto(imagine that)
+Well, you better find some pictures of long legged beauties and tag them properly
+So that I can tease you with them
+Because you don't seem to have any right now @Goto(just an edge)
+(imagine that)
+Imagine her walking down the street
+The clicking of her heels on the pavement
+Her hips swaying, her head held high
+You might the urge to drop to your knees and worship her @UnlockImages
+But that would be ridiculous #SubName
+You can't go around kneeling for every woman you meet #Smile
+Being submissive can mean all kinds of things though
+I want you to think of small ways you can do to serve women
+They don't even have to know #Smile
+A dominant woman will appreciate it
+And maybe a mischievous smile will tell you she understands you
+Sees your submissive nature
+Maybe it will even turn her on
+Maybe at night, when she's alone
+She'll masturbate while picturing you kneeling before her
+The smallest gesture can do that to a woman #Smile
+I want you to think about that #PetName
+(just an edge)
+#Edge @Edge 
+#LetTheEdgeFade
+@End
+(yes I remember still)
+Have you been putting it to practice?
+[yes] Being submissive is always good #SubName #Smile
+[no] Let's just say you're very loyal #PetName #Smile
+@DifferentAnswer #YesOrNo
+Does it turn you on to think that way about women you meet?
+[yes] I promise you many of those women feel the same way
+[no] I promise you many of those women do feel that way #SubName
+@DifferentAnswer #YesOrNo
+Well, not all of them of course
+But some will #Smile
+Imagine it #SubName
+Imagine one of those women, just someone you meet
+Maybe she'll see your submissive nature
+Maybe at night, when she's alone
+She'll masturbate while picturing you kneeling before her
+The smallest gesture can do that to a woman #Smile
+I want you to think about that #PetName
+#StopStroking @StopStroking
+@End
+========================================
+----------------------------------------
+----- BEFORE TEASE QUESTIONS ASKED -----
+----------------------------------------
+========================================
+(BT Questions Asked)
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pvDYS)
+@NullResponse @Goto(Skip DYS)
+(pvDYS)
+So #SubName, you wanted to know if I swallow when giving a blowjob? @DeleteFlag(pvDYS)
+[yes] @NullResponse @Goto(you are asking)
+[no] I must have misunderstood then...
+@DifferentAnswer #YesOrNo
+@Flag(pthevCEI_No) @NullResponse @Glitter(pthevGlitterCEIsuspicion)
+@NullResponse @Goto(is okay)
+(you are asking)
+@Flag(av_fetish_cei) I think we already talked about this #SubName @Goto(already talked yes)
+@Flag(pthevCEI_No) I think we already talked about this #SubName @Goto(already talked no)
+Well I've done it, but let me tell you something #SubName
+I *hate* it
+I hate the taste, the slimy texture, everything
+It's just gross, don't you think?
+[yes,agree] It's pretty disgusting really #Laugh @Goto(pretty gross)
+[no] Wait... @Goto(so you tried it)
+[don't know,not sure,never did,never tried,never tasted] I guess you don't suck cock all that often #Smile
+@AcceptAnswer @NullResponse
+Have you ever tasted your own cum?
+[yes,did,done,i have]  Eww #Laugh
+[no,never] So you really don't know what you're talking about
+@DifferentAnswer #YesOrNo
+I think we should put it the test
+To settle it once and for all @Goto(so if told)
+(pretty gross)
+But wait, that means you have actually tried it
+Did you eat your own cum or someone else's?
+[own,mine,my] Eww #Laugh
+[other,another,someone else] Oh wow... I didn't expect that
+[both] Oh wow... I didn't expect that
+[neither,didn't,haven't,have not,did not] So you just assume it's disgusting
+@AcceptAnswer I'm a bit confused by all this #SubName
+I think we should put it the test
+To settle it once and for all @Goto(so if told)
+(so you tried it)
+@NullResponse @Glitter(pthevGlitterMod07-01.txt)
+So you actually tried it?
+[yes] That just blew my mind, pun intended #Laugh
+[no] You just assume it tastes good then
+@DifferentAnswer #YesOrNo
+(so if told)
+So, if I told you to eat your own load, would you do it?
+[yes] Good! #Smile @SetFlag(av_fetish_cei) @Goto(said yes)
+[no] That's too bad #EmoteSad @SetFlag(pthevCEI_No)
+@DifferentAnswer #YesOrNo
+But I can understand, I'm not into it myself
+Although, now that I know that you don't like it
+I might have to use it against you someday #Grin
+@NullResponse @Goto(Skip DYS)
+@End
+(said yes)
+I'll keep that in mind
+Of course, I might keep my #Cock denied
+Then you'll have nothing to eat #Grin
+@NullResponse @Goto(Skip DYS)
+@End
+(already talked yes)
+So you know I hate it
+Weird that you wouldn't remember something like that
+Maybe you just can't figure out why I don't like it
+Since you seem to enjoy it so much
+You're not having second thoughts about that are you?
+[yes] No problem #SubName
+[no] Good! @Goto(is okay)
+@DifferentAnswer #YesOrNo
+It's not a big deal #Smile @DeleteFlag(av_fetish_cei) @SetFlag(pthevCEI_No)
+@NullResponse @Goto(Skip DYS)
+@End
+(already talked no)
+So you know I hate it
+Weird that you wouldn't remember something like that
+Are you having second thoughts about not eating your cum for me?
+[yes] Interesting...
+[no] That's okay #SubName @Goto(is okay)
+@DifferentAnswer #YesOrNo
+Have you already tasted cum?
+[yes] You know what to expect then
+[no] There's a first time for everything #PetName #Smile
+@DifferentAnswer #YesOrNo
+So if I told you to, would you eat your own cum?
+[yes] Alright then, #SubName walking on the wild side #Smile @SetFlag(av_fetish_cei) @DeleteFlag(pthevCEI_No) @Goto(said yes)
+[no] That's too bad #EmoteSad @SetFlag(pthevCEI_No)
+@DifferentAnswer #YesOrNo(pthevCEI_No)
+I understand it though
+(is okay)
+@NullResponse
+(Skip DYS)
+@NullResponse
+@End

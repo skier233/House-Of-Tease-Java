@@ -1,0 +1,17 @@
+[is my purpose in life,purpose is to serve you,you give my life purpose]
+[All]
+@NullResponse @CallReturn(Custom\Shorts\Short08.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short09.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short11.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short12.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short14.txt)
+#Yes @CallReturn(Custom\Shorts\Short26.txt, av002)
+Maybe you just say that because it's a bit difficult to think right now #Grin
+At least you've found a way to make yourself useful, #PetName #Smile
+Your purpose is to ache and suffer for me, #Name
+@GoodMood You're doing a fine job fulfilling your purpose, #PetName #Smile
+@BadMood You're going to have to try harder to fulfil your purpose, #PetName
+You should be grateful, not everyone finds their purpose in life #Smile
+I'm sure you can think of some other purposes as well #Smile
+I wouldn't say my only purpose is to make you suffer, #PetName @FollowUp(But I'm having a great time doing it anyway)
+[All End]

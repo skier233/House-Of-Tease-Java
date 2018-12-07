@@ -1,0 +1,3 @@
+#StopStroking @StopStroking
+@NullResponse @Call(Modules\pthev_Mod12AnalPlay.txt,guessed_it)
+@End

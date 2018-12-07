@@ -1,0 +1,88 @@
+#EmoteThought @CheckFlag(EdgeRoulette) @RapidCodeOn
+@NullResponse @CheckFlag(ERSWin)
+@NullResponse @CheckFlag(ERWon)
+@NullResponse @CheckFlag(ERWon2)
+@NullResponse @CheckFlag(ERLoss)
+@NullResponse @CheckFlag(ERLoss2)
+#EmoteSmile If you come #Name, you <i>have</i> to ruin it @SetFlag(EdgeRoulette)
+And then you <i>have</i> to <i>immediately</i> tell me that you're coming @SetFlag(ERS)
+#Edge @Edge
+(ER)
+#StartStroking
+#0_ERTaunts
+#Edge @Edge @Chance95(ER)
+#EmoteFace #LetTheEdgeFade
+#EmoteFace I give up #Name, you win @SetFlag(ERSWin) @DeleteFlag(ERS)
+#EmoteFace You've earned your orgasm #GeneralTime #Name
+The real question though, is do you want me to let you come <i>right now</i>
+Or do you want to <i>play</i> with me a little <i>longer</i> #Name?
+[yes] Yes... doesn't quite answer this question #Name @LoopAnswer
+[no] No... doesn't quite answer this question #Name @LoopAnswer
+[now, right now, i want to come, let me come] #EmoteAww All right @Goto(ERSWin)
+[wait, you, with you, play, longer] #EmoteRandomTF #How I love you, #SubName
+@DifferentAnswer #Name, do you want to come <i>now</i> or <i>play</i> with me a little <i>longer</i>
+#EmoteRandomTF I'm going to give you the best orgasm you've ever had #GeneralTime #Name
+#EmoteHer But for now, I'm going to #MakeSure you don't regret staying with me a #Little longer #GeneralTime
+@End 
+(EdgeRoulette)
+#EmoteThought @CheckFlag(ERSWin) @CheckFlag(ERWon) @CheckFlag(ERWon2) @CheckFlag(ERLoss) @CheckFlag(ERLoss2)
+#EmoteSmile If you come #Name, you <i>have</i> to ruin it
+And then you <i>have</i> to <i>immediately</i> tell me that you're coming @SetFlag(ERS)
+#Edge @Edge
+(2ER)
+#StartStroking
+#0_ERTaunts
+#Edge @Edge @Chance95(2ER)
+#EmoteFace #LetTheEdgeFade
+#EmoteFace I give up #Name, you win @SetFlag(ERSWin) @DeleteFlag(ERS)
+#EmoteFace You've earned your orgasm #GeneralTime #Name
+The real question though, is do you want me to let you come <i>right now</i>
+Or do you want to <i>play</i> with me a little <i>longer</i> #Name?
+[yes] Yes... doesn't quite answer this question #Name @LoopAnswer
+[no] No... doesn't quite answer this question #Name @LoopAnswer
+[now, right now, i want to come, let me come] #EmoteAww All right @Goto(ERSWin)
+[wait, you, with you, play, longer] #EmoteRandomTF #How I love you, #SubName
+@DifferentAnswer #Name, do you want to come <i>now</i> or <i>play</i> with me a little <i>longer</i>
+#EmoteRandomTF I'm going to give you the best orgasm you've ever had #GeneralTime #Name
+#EmoteHer But for now, I'm going to #MakeSure you don't regret staying with me a #Little longer #GeneralTime
+@End 
+(ERSWin)
+I want you to start #Stroking #Yourself again #Name @Interrupt(ERSWins)
+@End
+(ERSWin)
+But since you just beat me at this game, I guess that wouldn't be very fair to me #EmoteRandom
+I still owe you a few orgasms and I was looking forward to <i>making</i> you have them #Smile
+That and I would much rather play Edge Roulette after I've denied you for a few days #Smile
+#EmoteRandom That's what makes it fun
+For now, just keep your #Hands off of #Yourself 
+I know <i>better</i> ways to #Tease you #Smile
+@End
+(ERWon)
+But I guess I still owe you two orgasms for winning me last time
+I guess it wouldn't be fair if I beat you now and took that all away
+Besides, I would much rather play Edge Roulette with you after I've denied you for a couple of days #Smile
+#EmoteRandom That's what makes it fun
+For now, just keep your #Hands off of #Yourself 
+I know <i>better</i> ways to #Tease you #Smile
+@End
+(ERWon2)
+#Smile Actually, I just let you come not to long ago
+<i>And</i> I still owe you an orgasm from the last time you beat me at Edge Roulette #Smile
+So for now, just keep your #Hands off of #Yourself 
+I know <i>better</i> ways to #Tease you #Smile
+@End
+(ERLoss)
+But seeing as I just beat you at Edge Roulette
+I don't know why I'm really considering giving you another chance to beat me #Smile
+You already know what I'm going to do to you now anyway #Smile
+But since I'm feeling so #Mean, I think I'll just take #That #Cock away from you instead #Smile
+Just keep your #Hands off of #Yourself 
+I know <i>better</i> ways to #Tease you #Smile
+#EmoteRandomTF Like denying you for a few days while you think about that orgasm that I'm <i>going</i> to ruin
+@End
+(ERLoss2)
+#EmoteRandom Then again, if I play Edge Roulette with you right now
+One way or another, you still get to come and I do believe that I still owe you a denial #Smile
+So, just keep your #Hands off of #Yourself 
+I'll find another way to #Tease you #Name #Smile
+@End 

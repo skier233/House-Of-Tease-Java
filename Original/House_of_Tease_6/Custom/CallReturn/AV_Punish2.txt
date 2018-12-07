@@ -1,0 +1,35 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@NotFlag(AV_PinDone) Go fetch me some clothespins and a spoon. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Your #Cock is probably still hard, but if it's not then MAKE it hard.
+Get it as erect as possible so I have a nice big target. 
+@CockSmall Ha. Well, a target anyway.
+Hurry up, I don't like to be kept waiting.
+#KneelForMe
+You will swat your dick with the spoon
+from underneath, aiming right under the head where it's most sensitive.
+@Flag(av_fetish_pain) And don't fuck me around by tapping it lightly. 
+@Flag(av_fetish_pain) I want to hear the SMACK of leather hitting flesh, and the involuntary gasp of pain from your little bitch mouth.
+This is what your cock deserves, #PetName. 
+@Flag(av_fetish_rough) Now shut up and get ready.
+ONE. @PlayAudio[tease\whip.mp3]
+TWO. Stings, doesn't it? @PlayAudio[tease\whip.mp3]
+THREE. @PlayAudio[tease\whip.mp3]
+That cock better be bouncing off your stomach when you hit it.
+FOUR.  @PlayAudio[tease\whip.mp3]
+FIVE.  @PlayAudio[tease\whip.mp3]
+SIX. Making noise now, aren't you #PetName? @PlayAudio[tease\whip.mp3]
+Do it harder. SEVEN. @PlayAudio[tease\whip.mp3]
+EIGHT. @PlayAudio[tease\whip.mp3]
+HARDER. NINE. @PlayAudio[tease\whip.mp3]
+TEN. @PlayAudio[tease\whip.mp3]
+Now strike it from the other side. 
+ELEVEN.  @PlayAudio[tease\whip.mp3]
+TWELVE.  @PlayAudio[tease\whip.mp3]
+THIRTEEN. @PlayAudio[tease\whip.mp3]
+Ugh, you're lucky I'm not there.
+I'd beat the fuck out of that dick harder than you ever would.
+You can sit now
+@End

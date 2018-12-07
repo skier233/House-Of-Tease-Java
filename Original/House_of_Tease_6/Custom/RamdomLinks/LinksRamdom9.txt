@@ -1,0 +1,97 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link9_NotFirstTime)
+@NullResponse @SetVar[AV_Link9]=[0] 
+@NullResponse @SetFlag(AV_Link9_NotFirstTime)
+(AV_Link9_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link9]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link9]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link9]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link9]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link9]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link9]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link9]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link9]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link9]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link9]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link9]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link9]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link9]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link9]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link9]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link9]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link9]=[AV_Link9]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link9]=[AV_Link9]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link9]=[AV_Link9]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link9]=[AV_Link9]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link9]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+I like when boys willingly choose pain
+especially when it's for me and not because they like it.
+Since you've been a good boy
+I'm going to give you some pleasure.
+#StartStroking @StartStroking
+@End
+(Link2)
+It's people like you that gets me fired up.
+I love a submissive who will go through pain just for my sake.
+#StartStroking @StartStroking
+@End
+(Link3)
+Are things starting to feel real now? 
+Is a part of you thinking about quitting?  @ResponseYes(AV_YesBad) @ResponseNo(AV_NoGood) 
+I certainly hope you are smarter than that
+My vision is your only passion from now on
+#StartStroking @StartStroking
+@End
+(Link4)
+Ohh poor #SubName..
+Your balls must be aching right now..
+But i can help you.. 
+We can make them blue, #PetName.. #Lol
+#StartStroking @StartStroking
+@End

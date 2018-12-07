@@ -1,0 +1,92 @@
+(start)
+@NullResponse @RTOn @CustomMode(stop, Goto, stop test) @CheckFlag(circle1) @CheckFlag(circle2) @CheckFlag(circle3) @CheckFlag(circle4) @CheckFlag(circle5) @CheckFlag(no200300) @CheckFlag(overdrive1) @CheckFlag(overdrive2) @CheckFlag(overdrive3) @CheckFlag(tgr8_c3t1) @CheckFlag(tgr8_c3t2) @CheckFlag(tgr8_c3t3) @CheckFlag(tgr8_c3t4) @CheckFlag(tgr8_c3t5) @CheckFlag(tgr8_c3t6)
+@NullResponse @Goto(circle1,circle2,circle3,circle4,circle5,circle1,overdrive1,overdrive2,overdrive3,tgr8_c3t1,tgr8_c3t2,tgr8_c3t3,tgr8_c3t4,tgr8_c3t5,tgr8_c3t6)
+
+(circle1)
+@NullResponse @TempFlag(circle1) @PlayAudio[tease\tgr8\Contact3 special test audio\circle1.mp3]
+@NullResponse @Wait(40) @Goto(End)
+
+(circle2)
+@NullResponse @TempFlag(circle2) @PlayAudio[tease\tgr8\Contact3 special test audio\circle2.mp3]
+@NullResponse @Wait(44) @Goto(End)
+
+(circle3)
+@NullResponse @TempFlag(circle3) @PlayAudio[tease\tgr8\Contact3 special test audio\circle3.mp3]
+@NullResponse @Wait(40) @Goto(End)
+
+(circle4)
+@NullResponse @TempFlag(circle4) @PlayAudio[tease\tgr8\Contact3 special test audio\circle4.mp3]
+@NullResponse @Wait(60) @Goto(End)
+
+(circle5)
+@NullResponse @TempFlag(circle5) @PlayAudio[tease\tgr8\Contact3 special test audio\circle5.mp3]
+@NullResponse @Wait(46) @Goto(End)
+
+(no200300)
+@NullResponse @TempFlag(no200300) @PlayAudio[tease\tgr8\Contact3 special test audio\no200300.mp3]
+@NullResponse @Wait(40) @Goto(End)
+
+(overdrive1)
+@NullResponse @TempFlag(overdrive1) @PlayAudio[tease\tgr8\Contact3 special test audio\overdrive1.mp3]
+@NullResponse @Wait(61) @Goto(End)
+
+(overdrive2)
+@NullResponse @TempFlag(overdrive2) @PlayAudio[tease\tgr8\Contact3 special test audio\overdrive2.mp3]
+@NullResponse @Wait(47) @Goto(End)
+
+(overdrive3)
+@NullResponse @TempFlag(overdrive3) @PlayAudio[tease\tgr8\Contact3 special test audio\overdrive3.mp3]
+@NullResponse @Wait(45) @Goto(End)
+
+(tgr8_c3t1)
+@NullResponse @TempFlag(tgr8_c3t1) @PlayAudio[tease\tgr8\Contact3 special test audio\tgr8_c3t1.mp3]
+@NullResponse @Wait(61) @Goto(End)
+
+(tgr8_c3t2)
+@NullResponse @TempFlag(tgr8_c3t2) @PlayAudio[tease\tgr8\Contact3 special test audio\tgr8_c3t2.mp3]
+@NullResponse @Wait(40) @Goto(End)
+
+(tgr8_c3t3)
+@NullResponse @TempFlag(tgr8_c3t3) @PlayAudio[tease\tgr8\Contact3 special test audio\tgr8_c3t3.mp3]
+@NullResponse @Wait(82) @Goto(End)
+
+(tgr8_c3t4)
+@NullResponse @TempFlag(tgr8_c3t4) @PlayAudio[tease\tgr8\Contact3 special test audio\tgr8_c3t4.mp3]
+@NullResponse @Wait(28) @Goto(End)
+
+(tgr8_c3t5)
+@NullResponse @TempFlag(tgr8_c3t5) @PlayAudio[tease\tgr8\Contact3 special test audio\tgr8_c3t5.mp3]
+@NullResponse @Wait(54) @Goto(End)
+
+(tgr8_c3t6)
+@NullResponse @TempFlag(tgr8_c3t6) @PlayAudio[tease\tgr8\Contact3 special test audio\tgr8_c3t6.mp3]
+@NullResponse @Wait(31) @Goto(End)
+
+(stop test)
+@NullResponse @RapidCodeOn
+@NullResponse @RTOff
+@NullResponse @ChangeVar[fail]=[fail]+[1]
+@NullResponse @PlayAudio[tease\cStop.mp3]
+@NullResponse @If[fail]=[3]Then(test failed)
+@NullResponse @RapidCodeOff
+@RT(Take a break #PetName, Let's take a break, Rest now #PetName, Rest a bit #PetName)
+When you're ready type <i>start</i>
+[start] #Good
+@DifferentAnswer Type <i>start</i> please...
+@NullResponse @Goto(start)
+
+(test failed)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[fail]
+@NullResponse @TempFlag(tgr8 special edge test failed)
+@NullResponse @SetVar[tgr8_Edge_for_us_edges_left]=[#Var[edges_owed]]
+@NullResponse @ChangeVar[tgr8_Edge_for_us_edges_left]=[tgr8_Edge_for_us_edges_left]-[edges_done]
+@NullResponse @Goto(End)
+@NullResponse @RapidCodeOff
+
+(End)
+@NullResponse @RapidCodeOn
+@NullResponse @RTOff
+@NullResponse @DeleteFlag(circle1,circle2,circle3,circle4,circle5,no200300,overdrive1,overdrive2,overdrive3,tgr8_c3t1,tgr8_c3t2,tgr8_c3t3,tgr8_c3t4,tgr8_c3t5,tgr8_c3t6)
+@NullResponse @RapidCodeOff
+@End

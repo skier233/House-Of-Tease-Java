@@ -1,0 +1,30 @@
+Mmm, you #Want to know if I'm ticklish #SubName
+Why don't you think about tying my hands behind me back and finding out #Smile
+That's going to cost you an edge though #Smile
+#Edge @Edge
+How was that for an answer?
+Do you want me to elaborate a #Little for you #Smile?
+[yes] #Smile
+[no] #EmoteLaugh
+@DifferentAnswer #YesorNo
+#StartStroking @Goto(1, 2, 3)
+(1)
+Just #Imagine me stripped naked for you #Smile
+#Edge @Edge
+Stretched out and completely defenseless
+#Edge @Edge
+Giggling and moaning, #Squirming underneath you
+#Begging for mercy #Smile
+#Edge @Edge
+Yes #SubName
+I'm very ticklish #Smile
+@End
+(2)
+Why don't you #Imagine me in nothing but a t-shirt and a pair of panties
+And #How I might #Squirm if I <i>tried</i> to let you tickle my #Feet #Smile
+#Edge @Edge
+Does that answer your #Question? #Smile
+@End
+(End)
+Just know that I would have #EmoteSmile @Goto(End)
+@End 

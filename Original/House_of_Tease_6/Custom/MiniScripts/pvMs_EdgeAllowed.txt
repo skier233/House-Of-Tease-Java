@@ -1,0 +1,10 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#pvEdgeAllowed @Edge
+#LetTheEdgeFade
+@NullResponse @RandomModule
+@End
+(Sub Not Stroking)
+#pvEdgeAllowed @Edge
+#LetTheEdgeFade
+@End

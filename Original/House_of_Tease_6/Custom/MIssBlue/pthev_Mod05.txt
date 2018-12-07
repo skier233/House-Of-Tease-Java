@@ -1,0 +1,200 @@
+@NullResponse @CheckFlag(pvMod05Skip)
+#StopStroking @StopStroking @TempFlag(pvMod05Skip)
+@Flag(pthevAnal) @NullResponse @Chance50(call custom)
+Whose #Boobs do you prefer, hers or mine? @LockImages @ShowBoobsImage @Timeout(6,noanswer)
+[your,yours] Thank you #SubName @Goto(yours1,yours2,yours3)
+[her,hers] Well, she does have a really nice pair... @Goto(hers1,hers2,hers3)
+@DifferentAnswer Come on #PetName hers or mine?
+(noanswer)
+Are you wondering if it's a trick question?
+[yes] #Laugh well only one way to find out, do you prefer hers or mine? @LoopAnswer
+[no] So what's your answer? @LoopAnswer
+[your,yours] That's the right answer #SubName #Smile @Goto(yours1,yours2,yours3)
+[her,hers] Well, she does have a really nice pair... @Goto(hers1,hers2,hers3)
+@DifferentAnswer Come on #PetName hers or mine?
+(yours1)
+They're really nice though...
+Good enough to cover in chocolate sauce and lick clean #Laugh
+@NullResponse @Glitter(pthevGlitter01Mod05) @UnlockImages @Wait(8)
+Have you ever had your #Cock covered in chocolate #SubName?
+[yes] I wish I'd been there
+[no] Maybe you should try it
+@DifferentAnswer #YesOrNo
+Maybe I'd lick it clean for you @ShowBlowjobImage
+I <i>do</i> love chocolate
+@End
+(yours2)
+Although she does have an amazing pair don't you think?
+[yes] Well that's why you saved that picture I guess
+[no] Weird, since it's one of your own pictures
+@AcceptAnswer They make me feel a little bit jealous
+@NullResponse @UnlockImages
+@End
+(yours3)
+It's nice to get compliments #Smile @UnlockImages
+Maybe it's just what you thought I wanted to hear
+But that's okay, you'd be right #Smile
+@End
+(hers1)
+They're so nice I think you should edge for these #Boobs right now @Edge
+#LetTheEdgeFade
+In fact, since you seem to like other girls' #Boobs so much
+Maybe you should edge to all of them
+Like these, edge to them #SubName @ShowBoobsImage @EdgeNoHold
+These are lovely as well @ShowBoobsImage
+Edge for her left breast #PetName @EdgeNoHold
+#LetTheEdgeFade
+Now edge for her right breast @EdgeNoHold
+And here's another great pair @ShowBoobsImage
+Edge for both of them @EdgeHold
+Do you need to cool down a minute? @Timeout(5,nocooldown)
+[yes] You are such a pussy #Laugh @Goto(cooldown)
+[no] @Goto(edgeagain)
+@AcceptAnswer I guess you don't need a break the @Goto(edgeagain)
+(nocooldown)
+I guess not 
+(edgeagain)
+Edge for these #Boobs @ShowBoobsImage @EdgeHold
+#LetTheEdgeFade
+Had enough yet?
+[yes] You are such a pussy #Laugh @Goto(cooldown)
+[no] Good
+@DifferentAnswer #YesOrNo
+Then edge for these #Boobs #PetName @ShowBoobsImage @EdgeHold
+Can you take more?
+[yes] That's why I like playing with you #Grin
+[no] You are such a pussy #Laugh @Goto(cooldown)
+@DifferentAnswer #YesOrNo
+Edge again #PetName @ShowBoobsImage @EdgeHold
+#LetTheEdgeFade
+Do you want another one?
+[yes] @NullResponse
+[no] You are such a pussy #Laugh @Goto(cooldown)
+@DifferentAnswer #YesOrNo
+Ten edge again #PetName @ShowBoobsImage @EdgeHold
+Would you like to do another edge #SubName?
+[yes] Wow, you just keep going don't you...
+[no] You are such a pussy #Laugh @Goto(cooldown)
+@DifferentAnswer #YesOrNo
+Well edge for these then @ShowBoobsImage @EdgeHold
+#LetTheEdgeFade @UnlockImages @CheckFlag(pthevDeniedToday)
+That's enough for now #Name @GotoDommeOrgasm
+(Never Allows)
+It's a shame you don't get to cum #GeneralTime
+You've built up sooo much cum in those last couple of edges #Grin
+I hope you learned your lesson @Goto(learning)
+(Rarely Allows)
+I know don't let you cum all that often
+But I almost feel like you've earned it with those couple of edges 
+I guess you'll have to wait and see...
+Just remember #Name @Goto(learning)
+(Sometimes Allows)
+I almost feel like you've earned an orgasm with those couple of edges 
+You'll have to wait and see, no promises!
+Just remember #Name @Goto(learning)
+(Often Allows)
+I would say your chances are good #PetName
+But don't quote me on that #Grin @Goto(learning)
+(Always Allows)
+That orgasm you'll get later on will be awesome
+Thanks to that last couple of edges #Smile
+Just remember #Name @Goto(learning)
+(pthevDeniedToday)
+It's a shame you don't get to cum at the end
+You've built up sooo much cum in those last couple of edges #Grin
+I hope you learned your lesson @Goto(learning)
+(cooldown)
+@BallTorture I know just what you need to calm down @CBTBalls
+I hope you'll remember this #PetName @Goto(learning)
+@End
+(hers2)
+But you know that's not what I wanted to hear @UnlockImages 
+@BallTorture @NullResponse @CBTBalls
+Let's try that again
+Her #Boobs or mine #PetName? @ShowBoobsImage @LockImages
+[your,yours] You learn quickly #SubName @Goto(learning)
+[her,hers] I guess you just like punishments #PetName
+@DifferentAnswer Come on #PetName hers or mine?
+because that's what you're going to get
+@BallTorture @NullResponse @CBTBalls
+@NullResponse @Goto(learning through punishment)
+(hers3)
+I want you to do 50 slow worship strokes for those #Boobs
+No edging, let me know when you're done
+[done,did,finished] Hands off then
+[yes] Let me know when you did 50 strokes @LoopAnswer
+[no] Let me know when you did 50 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 50 strokes
+Do you still think her #Boobs are nicer than mine?
+[yes] Well honesty counts for something I guess
+[no] I guess you learned a little something then @Goto(learning)
+@DifferentAnswer #YesOrNo
+Give them 100 fast strokes without edging
+[done,did,finished] Better stop touching then
+[yes] Let me know when you did 100 strokes @LoopAnswer
+[no] Let me know when you did 100 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 100 strokes
+Now, whose #Boobs are nicer, hers or mine?
+[her,hers] This is harder than I thought...
+[your,yours] See, that wasn't too hard now was it @Goto(learning)
+@DifferentAnswer Hers or mine #PetName
+200 strokes for these #Boobs #PetName, go!
+But NO edging!
+Let me know when you're done
+[done,did,finished] Okay, hands off
+[yes] Let me know when you did 200 strokes @LoopAnswer
+[no] Let me know when you did 200 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 200 strokes
+So whose #Boobs are nicer, hers or mine?
+[her,hers] Fuck, it's easier to train a monkey #Laugh
+[your,yours] See, that wasn't too hard now was it @Goto(learning)
+@DifferentAnswer Hers or mine #PetName
+@CockTorture @NullResponse @CBTCock
+300 strokes now #PetName
+Remember: no edging!
+[done,did,finished] Good, hands off your #Cock then
+[yes] Let me know when you did 300 strokes @LoopAnswer
+[no] Let me know when you did 300 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 300 strokes
+I'll ask you one more time #SubName
+Whose #Boobs do you prefer, hers or mine?
+[her,hers] Oh well...
+[your,yours] See, that wasn't too hard now was it @Goto(learning)
+@DifferentAnswer Hers or mine #PetName
+#Edge @EdgeHold
+#LetTheEdgeFade
+I guess you do really like those #Boobs then @Timeout(5,reallylike)
+[yes,i do] I know they're nice #SubName
+[no,don't] You're a puzzle wrapped in a riddle #SubName #Laugh
+@AcceptAnswer It's not that they're not nice
+(reallylike)
+A girl just likes getting compliments that's all
+I have to admit I kind of admire your tenacity #SubName
+@BallTorture But I still feel I should punish you for being a jerk #Grin @CBTBalls
+#Edge @EdgeHold
+#LetTheEdgeFade
+(learning)
+My #Boobs are always nicest @UnlockImages
+Even when they are not... #Smile
+@End
+(learning through punishment)
+My #Boobs are always nicest #PetName @UnlockImages
+You should remember that @Interrupt(pvInt_Punishment)
+@End
+(pvMod05Skip)
+#StopStroking @StopStroking
+You might have gotten the impression earlier that I'm somewhat fixated on breasts
+That's because... I <i>am</i> somewhat fixated on boobs #Laugh
+I mean, they are awesome... @ShowBoobsImage
+They are soft and round and pretty @ShowBoobsImage
+What's not to like? #Smile @ShowBoobsImage
+@Flag(pvLikeBoobs) I know you love them too, #Name
+@Flag(pvLikeButts) I know you're more of an ass man, #Name
+@Flag(pvLikeButts) But still... @ShowBoobsImage
+It's hard to stop staring isn't it... @ShowBoobsImage
+Mmm @ShowBoobsImage
+Damn I wish I could suck on some nipples right now! #Laugh
+@End
+(call custom)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagAnal.txt)
+@End

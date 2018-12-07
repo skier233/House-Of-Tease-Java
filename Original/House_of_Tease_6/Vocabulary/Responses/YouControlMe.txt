@@ -1,0 +1,13 @@
+[you control me,you control my,am controlled by you,I'm controlled by you,under your control]
+[All]
+That's right, never forget it #Name
+I control you more then you are even aware of #Grin
+@NotFlag(AV_Beta) Damn right you are @CallReturn(Custom\CallReturn\AV_Beta.txt)
+@NotFlag(AV_Beta) @NullResponse @CallReturn(Custom\CallReturn\AV_Beta.txt)
+@NotFlag(AV_TotalControl) Really? @CallReturn(Custom\CallReturn\AV_TotalControl.txt)
+@NotFlag(AV_TotalControl) @NullResponse @CallReturn(Custom\CallReturn\AV_TotalControl.txt)
+I love hearing that #Smile
+Damn right you are
+Yes... that must be so frustrating for you #Smile
+Yes and I wouldn't want it any other way, #Name
+[All End]

@@ -1,0 +1,87 @@
+[I will be your little bitch, I will be your bitch, I will be your slut, I will be your slave, I am your little bitch, I am your bitch, I am your slut, I am your slave, Call me your little bitch, Call me your bitch, Call me your slut, Call me your slave, Call me your little bitch, Call me your bitch, Call me your slut, Call me your slave]
+[Before Tease]
+[Before Tease End]
+[First Round]
+I know how much you love being my bitch.
+Is that what I heard slave? 
+Oh you are, you know you are. And you will enjoy it.
+And as my bitch you will do anything I want, right? @ResponseYes(I Will Do Anything) @ResponseNo(I Will Do Anything Not)
+@NotFlag(pvCollared) Does that mean I need to collar you like a bitch? #Laugh @ResponseYes(WantToWearCollar)
+[First Round End]
+[Stroking]
+@NullResponse @CallReturn(Custom\Shorts\Short06.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short07.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short08.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short09.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short11.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short12.txt)
+@NullResponse @TempFlag(AV_Call01) @CallReturn(Custom\Shorts\Short10.txt)
+I know how much you love being my bitch. Keep #Stroking
+Is that what I heard slave? Keep #Stroking
+Oh you are, you know you are. And you will enjoy it. 
+And as my bitch you will do anything I want, right? @ResponseYes(I Will Do Anything) @ResponseNo(I Will Do Anything Not)
+@NotFlag(pvCollared) Does that mean I need to collar you like a bitch? #Laugh @ResponseYes(WantToWearCollar)
+Oh you are, you know you are. And you will enjoy it. @MiniScript(AV_Kneel_Short)
+Is that what I heard slave? @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+@BadMood Is that what I heard slave? @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+@Flag(AV_DommeHornie1) Is that what I heard slave? @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+@Flag(av_fetish_pegging) #Yes and I will make good use of you now. @Interrupt(AV_Pegging)
+#Yes and I will make good use of you now. @MiniScript(AV_Kneel_Short)
+@Flag(av_fetish_pain) #Yes and I will make good use of you now. @Interrupt(AV_Pain)
+@Flag(av_fetish_foot) #Yes and I will make good use of you now. @Interrupt(AV_Feet)
+@Flag(av_fetish_rough) #Yes and I will make good use of you now. @Interrupt(AV_Rough)
+@Flag(av_fetish_hothax) #Yes and I will make good use of you now. @Interrupt(AV_Wax)
+@Flag(av_fetish_titjob) #Yes and I will make good use of you now.  @Interrupt(AV_Titjob)
+@Flag(av_fetish_cei) #Yes and I will make good use of you now.  @Interrupt(AV_CEI)
+@Flag(AV_DommeMistress) Is that what I heard slave?  @CallReturn(Custom\AV_Scripts\Kneel.txt)
+[Stroking End]
+[Not Stroking]
+@NullResponse @CallReturn(Custom\Shorts\Short06.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short07.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short08.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short09.txt)
+I know how much you love being my bitch.
+Is that what I heard slave?
+Oh you are, you know you are. And you will enjoy it. 
+Oh you are, you know you are. And you will enjoy it. 
+[Not Stroking End]
+[Edging]
+I know how much you love being my bitch. Now #Edge
+Is that what I heard slave? Now #Edge
+Oh you are, you know you are. And you will enjoy it.
+Oh you are, you know you are. And you will enjoy it. @MiniScript(AV_Kneel_Short)
+[Edging End]
+[Holding The Edge]
+I know how much you love being my bitch. Keep edging
+Is that what I heard slave? Keep edging
+Oh you are, you know you are. And you will enjoy it.
+@Flag(av_fetish_pegging) #Yes and I will make good use of you now.  @Interrupt(AV_Pegging)
+@Flag(av_fetish_pain) #Yes and I will make good use of you now.  @Interrupt(AV_Pain)
+@Flag(av_fetish_foot) #Yes and I will make good use of you now.  @Interrupt(AV_Feet)
+@Flag(av_fetish_rough) #Yes and I will make good use of you now.  @Interrupt(AV_Rough)
+@Flag(av_fetish_hothax) #Yes and I will make good use of you now.  @Interrupt(AV_Wax)
+@Flag(av_fetish_titjob) #Yes and I will make good use of you now.  @Interrupt(AV_Titjob)
+@Flag(av_fetish_cei) #Yes and I will make good use of you now.  @Interrupt(AV_CEI)
+[Holding The Edge End]
+[CBT Cock]
+I know how much you love being my bitch.
+Is that what I heard slave?
+Is that what I heard slave? @MiniScript(AV_Kneel_Short)
+Oh you are, you know you are. And you will enjoy it.
+[CBT Cock End]
+[CBT Balls]
+Is that what I heard slave? @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+@BadMood Is that what I heard slave? @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+@Flag(AV_DommeHornie1) Is that what I heard slave? @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+I know how much you love being my bitch.
+Is that what I heard slave? @MiniScript(AV_Kneel_Short)
+Is that what I heard slave?
+Oh you are, you know you are. And you will enjoy it.
+[CBT Balls End]
+[Chastity]
+I know how much you love being my bitch.
+Is that what I heard slave?
+Oh you are, you know you are. And you will enjoy it.
+[Chastity End]
+[After Tease]
+[After Tease End]

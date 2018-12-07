@@ -1,0 +1,109 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link26_NotFirstTime)
+@NullResponse @SetVar[AV_Link26]=[0] 
+@NullResponse @SetFlag(AV_Link26_NotFirstTime)
+(AV_Link26_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link26]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link26]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link26]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link26]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link26]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link26]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link26]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link26]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link26]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link26]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link26]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link26]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link26]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link26]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link26]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link26]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link26]=[AV_Link26]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link26]=[AV_Link26]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link26]=[AV_Link26]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link26]=[AV_Link26]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link26]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+subs are clueless as to how frustrated they make dommes.
+For example, if I have you all trussed up in an office chair
+mitted hands tied above your head, legs splayed wide so I have access to all your treasures
+you have no idea the dilemma I always find myself in. 
+Do I torture those #Balls until they're rosy-red and oh so sore? 
+Do I slap that sweet face until you get all glassy-eyed and timid? 
+@Flag(av_fetish_rough) I know how much you enjoy being put in your place. 
+@FlagOr(av_fetish_pegging, AV_LikeAnal) Do I just grab the ring on that collar and cram my whole strap-on down your throat?
+@FlagOr(av_fetish_pegging, AV_LikeAnal) I know how you're always thinking about my big dick flopping around in that strap-on. 
+#StartStroking @StartStroking
+@End
+(Link2)
+I enjoyed using men for my orgasm. 
+IF I did reciprocate, I enjoyed doing it for them in a very humiliating way
+like making them masturbate with their pants around their ankles
+or telling them that they had to go out in public and find a quiet spot and jack off in the car for me while I listened. 
+I liked making them feel like a pervert or a nasty slut.
+#StartStroking @StartStroking
+@End
+(Link3)
+You know how I started getting into denial and teasing?
+I enjoyed telling men how I would tie them up
+tease their cock and maybe never let them cum. 
+Perhaps I would just leave them to jack off by themselves
+or maybe I wouldn't satisfy them at all, but get off and hang up on them.
+#StartStroking @StartStroking
+@End
+(Link4)
+At some point of my life, I thought to myself that there was no reason why I should be serving men
+and that they had better serve mine. 
+That is when I began discovering my power and enjoying domination.
+At first I just talked with men who were into oral servitude.
+I got off on telling them how I was going to put a collar on them 
+and lock them between my legs to service me. 
+I enjoyed the thought of using them as a sex toy and as an object only to fulfill my needs.
+#StartStroking @StartStroking
+@End

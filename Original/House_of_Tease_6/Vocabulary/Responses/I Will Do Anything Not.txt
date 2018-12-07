@@ -1,0 +1,8 @@
+[will not do anything,not just do anything,won't do anything,won't just do anything]
+[All]
+@NeutralMood Hm... somehow I'm not surprised...
+@NeutralMood That's a little disappointing, #PetName
+@NeutralMood Well, we'll see about that, won't we...
+@BadMood Yeah, I figured as much from your behaviour #GeneralTime
+@GoodMood We'll just see about that... #Grin
+[All End]

@@ -1,0 +1,130 @@
+#StopStroking @StopStroking
+@NullResponse @TempFlag(av_CamDone)
+@NullResponse @CheckFlag(AV_CamNotFirst)
+Hey #SubName, I have some good news...
+You know about camgirls, right?
+So, I have some friends there...and one word leads to another
+I told them about you #EmoteSmile
+although they are not really Dommes, of course all girls love to tease
+And they were very interested to meet you. @SetFlag(AV_CamNotFirst)
+What a great chance to make you ache more, and have some fun myself? @AFKOn
+So get ready to meet the first one @Goto(Cam01)
+(AV_CamNotFirst)
+@RT(#PetName, #SubName) @AFKOn
+@RT(Time to another, get ready, are you ready) to @RT(another, one more, more) @RT(webcam show, camgirls).
+@NotFlag(AV_Cam02) @NullResponse @Goto(Cam02)
+@NotFlag(AV_Cam03) @NullResponse @Goto(Cam03)
+@NotFlag(AV_Cam04) @NullResponse @Goto(Cam04)
+@NotFlag(AV_Cam05) @NullResponse @Goto(Cam05)
+@NotFlag(AV_Cam06) @NullResponse @Goto(Cam06)
+@NotFlag(AV_Cam07) @NullResponse @Goto(Cam07)
+@NotFlag(AV_Cam08) @NullResponse @Goto(Cam08)
+@NotFlag(AV_Cam09) @NullResponse @Goto(Cam09)
+@NotFlag(AV_Cam10) @NullResponse @Goto(Cam10)
+@NotFlag(AV_Cam11) @NullResponse @Goto(Cam11)
+@NotFlag(AV_Cam12) @NullResponse @Goto(Cam12)
+@NotFlag(AV_Cam13) @NullResponse @Goto(Cam13)
+@NotFlag(AV_Cam14) @NullResponse @Goto(Cam14)
+@NotFlag(AV_Cam15) @NullResponse @Goto(Cam15)
+@NotFlag(AV_Cam16) @NullResponse @Goto(Cam16)
+@NullResponse @Goto(NoMoreCams)
+(Cam01)
+The first one, it's a close friend of mine...Emma @SetFlag(av_CamAlternate)
+You will love it... @SetFlag(AV_Cam01)
+@PlayVideo[AV_Clips/cam/webcamshow06.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam02)
+#GeneralTime you will meet Kim @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam02)
+@PlayVideo[AV_Clips/cam/webcamshow01.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam03)
+#GeneralTime you will meet Kate @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam03)
+@PlayVideo[AV_Clips/cam/webcamshow05.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam04)
+#GeneralTime we will have another session with Emma @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam04)
+@PlayVideo[AV_Clips/cam/webcamshow07.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam05)
+#GeneralTime you will meet Ruby @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam05)
+@PlayVideo[AV_Clips/cam/webcamshow04.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam06)
+Emma is back #GeneralTime @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam06)
+@PlayVideo[AV_Clips/cam/webcamshow08.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam07)
+#GeneralTime we will meet Kim again @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam07)
+@PlayVideo[AV_Clips/cam/webcamshow02.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam08)
+#GeneralTime you will meet Mila @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam08)
+@PlayVideo[AV_Clips/cam/webcamshow12.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam09)
+#GeneralTime we will meet Kate again @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam09)
+@PlayVideo[AV_Clips/cam/webcamshow14.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam10)
+#GeneralTime we will meet Emma again @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam10)
+@PlayVideo[AV_Clips/cam/webcamshow09.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam11)
+#GeneralTime we will meet Megan @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam11)
+@PlayVideo[AV_Clips/cam/webcamshow13.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam12)
+#GeneralTime we will have another session with Emma @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam12)
+@PlayVideo[AV_Clips/cam/webcamshow10.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam13)
+#GeneralTime It's a special day... @SetFlag(av_CamAlternate)
+But you need to wait here... @SetFlag(AV_Cam13)
+I will call you in a minute @Wait(20)
+@PlayVideo[AV_Clips/cam/webcamshow16.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam14)
+#GeneralTime we will meet Kim again @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam14)
+@PlayVideo[AV_Clips/cam/webcamshow03.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam15)
+#GeneralTime we will have another session with Emma @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam15)
+@PlayVideo[AV_Clips/cam/webcamshow11.mp4]
+#ThatsEnough @AFKOff
+@End
+(Cam16)
+#GeneralTime we will have another session with Kate @SetFlag(av_CamAlternate)
+Get ready @SetFlag(AV_Cam16)
+@PlayVideo[AV_Clips/cam/webcamshow15.mp4]
+#ThatsEnough @AFKOff
+@End
+(NoMoreCams)
+Too bad, no girls available right now... @AFKOff
+@End

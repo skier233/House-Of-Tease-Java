@@ -1,0 +1,156 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link6_NotFirstTime)
+@NullResponse @SetVar[AV_Link6]=[0] 
+@NullResponse @SetFlag(AV_Link6_NotFirstTime)
+(AV_Link6_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link6]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link6]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link6]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link6]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link6]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link6]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link6]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link6]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link6]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link6]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link6]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link6]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link6]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link6]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link6]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link6]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link6]=[AV_Link6]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link6]=[AV_Link6]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link6]=[AV_Link6]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link6]=[AV_Link6]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link6]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+@NullResponse @CheckFlag(av_submissive_position)
+#secondtime
+#StartStroking @StartStroking
+@End
+(av_submissive_position)
+You will now get into the Submissive Position @ShowImage[av_imagens\04.jpg] @LockImages
+and wait until you hear a stroking beat. 
+Stroke to the beat and return when it stops. @UnlockImages
+#StartStroking @StartStroking
+@End
+(Link2)
+I bet that #Cock is starting to really get it now
+It knows if I told you to ruin an orgasm right now
+It would ache so fucking much it'd drive you absolutely insane
+And if you're even half as smart as your #Cock, you'll know... 
+@Flag(AV_DommeMistress) Think about how agonizing it would be to touch yourself again 
+@Flag(AV_DommeMistress) knowing that I'm not going to give you the orgasm you desperately want... 
+@Flag(AV_DommeMistress) Think about that as you reach down and curl your fingers firmly around your cock
+Start stroking @StartStroking
+@End  
+(Link3)
+I bet you haven't stopped thinking about that #Aching for a second #Grin
+That's okay, I'll just give you something else to focus on for a minute @CheckFlag(AV_Know_26)
+Which do you think is more frustrating? @SetFlag(AV_Know_26)
+A- Teased and edged with no release.
+B- Teased, edged, and ruined by just letting go completely after the first spasm.
+C- Teased and ruined by closing off the ejaculation with thumb as it is left to spasm with no release.
+[A] #EmoteLaugh @SetFlag(AV_Persona26a)
+[B] #EmoteLaugh @SetFlag(AV_Persona26b)
+[C] #EmoteLaugh @SetFlag(AV_Persona26c)
+@DifferentAnswer A, B or C #PetName?
+#StartStroking @StartStroking
+@End
+(AV_Know_26)
+Like this picture for instance #Grin @ShowBlogImage @LockImages
+I know you used to stroke yourself to pictures like this all the time @Chance50(AVRND02)
+I mean, you still do it for me of course #Lol
+But looking at images like this was different by yourself
+It's not just about how sexy it is
+Or how much it turns you on, no
+(AVRND02)
+It's about how it sparks your imagination
+Gives that #Cock of yours a fleeting glimpse of what's sexually possible
+The pleasure that's out there for it to feel
+But sometimes, just like this picture @UnlockImages
+All that pleasure gets snatched away from you forever
+Just when it was starting to feel good #Grin 
+#StartStroking @StartStroking
+@End
+(Link4)
+You know #PetName...
+If I'm going to build up ache in those #Balls
+I mean, enough ache to make sure you <i>never</i> forget
+Then I'm #Gonna have to do more than just make you edge
+I'm #Gonna have to rough them up a little too #Grin
+Or more to the point
+<i>You're</i> #Gonna rough them up for me #Lol @CBTBalls
+Take a little breather #PetName, I'm sure you need it #Lol
+I'll even give you something to look at while you do @ShowBlogImage @LockImages
+After all
+I do want to give the pain a chance to subside
+But I don't want that ache to go <i>anywhere</i>
+Here's another one that's pretty sexy I think @ShowBlogImage
+But you're not #Gonna have time to enjoy this one @UnlockImages @CheckFlag(AV_Know_16)
+#TellMe
+How long do you think you could stand to submerge your #Cock and balls in ice water?  @InputVar[AV_Persona14]
+noted #EmoteLaugh  @SetFlag(AV_Know_16)
+#StartStroking @StartStroking
+@End
+(AV_Know_16)
+Because those #Balls are due for some more busting #Grin @CBTBalls
+All right you can take another little break @Chance60(AVRND20)
+And let me show you a few more pictures @ShowBlogImage
+But don't get too comfortable @ShowBlogImage
+These are just a little sexy diversion @ShowBlogImage
+Your #Balls still owe me another round of pounding @ShowBlogImage
+And it's time to collect #Grin @CBTBalls
+Poor #SubName
+(AVRND20)
+I bet those #Balls are feeling so sensitive right now
+Throbbing with ache
+Getting absolutely battered by all that cum crashing around inside them 
+#StartStroking @StartStroking
+@End

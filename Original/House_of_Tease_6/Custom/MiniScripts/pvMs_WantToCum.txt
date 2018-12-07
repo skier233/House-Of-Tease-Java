@@ -1,0 +1,44 @@
+Of course you want to cum, #Name @ChangeVar[pvBegToCum]=[pvBegToCum]+[1] @CheckFlag(pthevLongDenialActive)
+@OrgasmRestricted But it's not going to happen @Goto(not in the mood)
+@AllowsOrgasm(Never) But it's not going to happen @Goto(not in the mood)
+@AllowsOrgasm(Always) But you already know I'll let you, so why do you ask #EmoteFlustered @Goto(not in the mood)
+But I really just don't know yet whether I'll let you...
+@End
+(pthevLongDenialActive)
+@NullResponse @If[pvBegToCum]>[3]Then(passed if then check)
+But you know I'm not going to let you #Smile
+@End
+(passed if then check)
+@NullResponse @GotoDommeApathy
+(ApathyLevel1)
+I know I said you couldn't cum this week  @DeleteFlag(pthevLongDenialActive) @SetFlag(pthevLongDenialEnded) @RestrictOrgasm(1 second) @SetDate(pvRenewLDA,1 month)
+But since you're so eager to have an orgasm again...
+Consider the ban lifted #Smile
+Whether that means you actually get to cum #GeneralTime...
+You'll have to wait and see
+@End
+(ApathyLevel2)
+@BadMood But you're going to have to try a lot harder to please me @Goto(not in the mood)
+I understand that #Smile
+So I'm going to let you off the hook @DeleteFlag(pthevLongDenialActive) @SetFlag(pthevLongDenialEnded) @RestrictOrgasm(1 second) @SetDate(pvRenewLDA,1 month)
+I know I said you couldn't cum this week
+Consider the ban lifted #Smile
+Whether that means you actually get to cum #GeneralTime...
+You'll have to wait and see
+@End
+(ApathyLevel3)
+@BadMood But you're going to have to try a lot harder to please me @Goto(not in the mood)
+@NeutralMood @NullResponse @Chance50(ApathyLevel5)
+I'm not going to let you cum right now, of course
+But you can consider the ban lifted #Smile @DeleteFlag(pthevLongDenialActive) @SetFlag(pthevLongDenialEnded) @RestrictOrgasm(1 second) @SetDate(pvRenewLDA,1 month)
+Whether that means you actually get to cum #GeneralTime...
+You'll have to wait and see
+@End
+(ApathyLevel4)
+@GoodMood @NullResponse @Chance50(ApathyLevel1)
+(ApathyLevel5)
+It's just not going to happen #Smile
+@End
+(not in the mood)
+@NullResponse
+@End

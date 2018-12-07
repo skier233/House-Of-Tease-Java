@@ -1,0 +1,58 @@
+[You look stunning, You look gorgeous, You look amazing, you look great,you look awesome, you look sexy, you look pretty, you look beautiful, you look astonishing]
+[All]
+That's sweet of you, #Name #Smile
+Thank you, #SubName #Giggles
+I know, #Name #Smile
+Does the sight of my body turn you on, #PetName? @ResponseYes(YouTurnMeOn)
+Just looking at me makes you want to serve me, doesn't it? @ResponseYes(WantToServe)
+[All End]
+[Before Tease]
+#ThankYou 
+[Before Tease End]
+[First Round]
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #PetName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) Aww... #ThankYou @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@Flag(AV_Amazing) I know, you already said that
+[First Round End]
+[Stroking]
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #PetName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) Aww... #ThankYou @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #SubName @MoodUp @TempFlag(AV_Amazing)
+@Flag(AV_Amazing) I know, you already said that
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #PetName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) Aww... #ThankYou @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@Flag(AV_Amazing) I'm happy to motivate you, but you already said that
+[Stroking End]
+[Not Stroking]
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #PetName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) Aww... #ThankYou @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #SubName @MoodUp @TempFlag(AV_Amazing)
+@Flag(AV_Amazing) I know, you already said that
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #PetName @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) Aww... #ThankYou @TempFlag(AV_Amazing)
+@NotFlag(AV_Amazing) #ThankYou #SubName @TempFlag(AV_Amazing)
+@Flag(AV_Amazing) I'm happy to motivate you, but you already said that
+[Not Stroking End]
+[Edging]
+@NotFlag(AV_Amazing) #ThankYou #SubName Now give me that edge @TempFlag(AV_Amazing)
+@Flag(AV_Amazing) I know, you already said that. Now give me that edge
+[Edging End]
+[Holding The Edge]
+@NotFlag(AV_Amazing) #ThankYou #SubName Keep holding @TempFlag(AV_Amazing)
+@Flag(AV_Amazing) I know, you already said that. Now keep holding
+[Holding The Edge End]
+[CBT Cock]
+[CBT Cock End]
+[CBT Balls]
+[CBT Balls End]
+[Chastity]
+[Chastity End]
+[After Tease]
+[After Tease End]

@@ -1,0 +1,13 @@
+Does that gets your cock really hard and throbbing slaveboy? @Timeout(5, AV_Timeo15)
+[yes] Hmm... @Goto(opt)
+[no] Oh, OK
+@DifferentAnswer #YesorNo
+(AV_Timeo15)
+@End
+(opt)
+@NullResponse @Chance50(Control)
+@End
+(Control)
+@NullResponse @CallReturn(Custom\CallReturn\AV_TotalControl.txt)
+@NullResponse
+@End

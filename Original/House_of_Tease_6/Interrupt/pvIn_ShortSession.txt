@@ -1,0 +1,57 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@Flag(pthevLongDenialActive) @NullResponse @Goto(one,two,LDA1)
+@NullResponse @Goto(one,two)
+(one)
+I know I can be pretty demanding
+I know I push you to the brink sometimes, right up to your breaking point
+But I can be merciful #Smile
+So what if... #GeneralTime I don't make that poor #Cock suffer and ache...
+But instead I give you a little reminder of who owns you and send you on your way
+Is that what you want?
+[yes] Alright then, #Name
+[no] Then I guess I'm going to have to make you suffer and ache and leak after all #Grin @Goto(normal session)
+@DifferentAnswer #YesOrNo
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_Punishment.txt)
+That was just a little reminder of you belong to, #PetName @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(two)
+As much as I like watching your horny little mind break, I also want to take care of you
+After all, I want to keep you as my private toy for a very long time #Smile
+I could give you a little reminder of your submission to me
+And then let you go about your... whatever it is you do when you're not with me...
+Is that what you want?
+[yes] Alright then, #Name
+[no] Then I guess I'm going to have to make you suffer and ache and leak after all #Grin @Goto(normal session)
+@DifferentAnswer #YesOrNo
+Just one tiny edge then and you can go...
+#Edge @EdgeHold
+#LetTheEdgeFade
+Don't stay away too long, #PetName #Grin @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(LDA1)
+You're really having a hard time with this long term denial, aren't you? #Laugh @Timeout(6,I love knowing you are breaking)
+[yes] It's okay, #Name
+[no] Do what, you just don't have time or don't feel like #JerkingOff? - I find that hard to believe
+@DifferentAnswer #YesOrNo
+(I love knowing you are breaking)
+I love knowing that you're approaching your breaking point
+But whenever I get the sense that you do, it only makes me want to push you harder
+#Edge @Edge
+#LetTheEdgeFade @CheckFlag(pvBallsTied,already tied)
+@Flag(pthevShoelace) @NullResponse @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+(already tied)
+@NotFlag(pvKneeling) Get down on your knees, #Name @TempFlag(pvKneeling)
+@BallTorture If I get to play with those #Balls for only a short time I should make the most of it @CBTBalls
+Rub your aching #Balls
+Squeeze them a little bit, feel how full they are
+Keep doing that, keep squeezing and massaging your poor denied #Balls, #Name
+I'm going to be merciful and let you go do with whatever your have to do today
+Remember, no cumming!
+If you feel the uncontrollable urge to #JerkOff just come to me ask for permission @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(normal session)
+@RT(I suppose,In the end) that's @RT(the way,how) @RT(both of us,we both) @RT(like it best,prefer it)
+@End

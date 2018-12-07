@@ -1,0 +1,31 @@
+Stop stroking @StopStroking 
+#PetName  @Goto(part1,part2,part3)
+(part1)
+Nothing makes me hotter and hornier than making you scream
+like a sissy girl!
+What...
+Do I have to spell it out for you? 
+I own your cock and balls. 
+Things are gonna be different around here, now.
+#Edge @Edge
+@End
+(part2)
+#Edge @Edge
+@SystemMessage #DomName turned on the mic  @PlayAudio[tease\SeSp\rough01.mp3]
+ @Wait(13)
+ @Wait(13)
+ @Wait(10)
+ @Wait(10)
+@SystemMessage #DomName turned off the mic 
+#ThatsEnough
+@End
+(part3)
+If you're going to be my bitch @ApathyLevelUp
+#KneelForMe and tell me -I submit, mistress-
+[I submit, mistress, I submit mistress] Good #Slave
+@DifferentAnswer Say -I submit, mistress- #SubName
+*puts a leash on you* Good boy, now kiss my shoes. 
+Then say -Thank you-
+[thanks, thank you, thank you mistress, thanks mistress] Good #Slave
+@DifferentAnswer Say -thank you Mistress- #SubName
+@End

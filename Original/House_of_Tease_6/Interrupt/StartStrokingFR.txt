@@ -1,0 +1,18 @@
+@NullResponse @Goto(1, 2, 3)
+(1)
+#Shh
+I'm not going to let you stroke yet
+You're just going to have to #Ache for it until I say otherwise #Smile 
+@StartTaunts
+@End
+(2)
+#Name, you shouldn't have asked me that so soon #EmoteHappy
+You should know that I'm going to make you wait for it now 
+@StartTaunts
+@End
+(3)
+#SubName... #Shh
+I'll let you #Tease it when I'm ready
+You just be a good boy and #Surrender to me #Smile 
+@StartTaunts
+@End

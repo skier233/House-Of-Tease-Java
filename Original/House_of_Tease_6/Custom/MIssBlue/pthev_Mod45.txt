@@ -1,0 +1,138 @@
+#Edge @EdgeNoHold
+#LetTheEdgeFade @CheckFlag(pvMod45A)
+@NullResponse @CheckFlag(pvMod45B)
+I'm going to let you rest a few seconds now @SetFlag(pvMod45A)
+You're going to need each and every one of them #Grin
+You know why?
+Because we're going to play a little game
+Who doesn't like to play games, right? @ResponseYes(ILikeGames)
+I'm going to show you some pictures
+Nice ones #Smile
+And you're going to stroke for them
+10 for the first one, 20 for the second, 30 for the third... and so on
+But all pictures are up for the same amount of time, so you'll be stroking faster and faster
+The game ends when you get to the edge
+Then we'll see how many pictures you 'completed' @SetVar[pvMod16Punches]=[10]
+@BallTorture Now you might ask, "what am I playing <i>for</i>?" @Goto(play for balls)
+Try to get a good score, #PetName #Smile @Goto(play for score)
+(play for balls)
+Well, you play to avoid getting your #Balls busted, of course
+You will start with 10 punches to your #Balls
+And with every new picture you see, the number of punches is lowered by 1
+So the longer you can keep the edge at bay, the better for your #Balls #Smile
+(play for score)
+Okay, here we go @SetVar[pvMod16HMP]=[0] @LockImages @EdgeMode(Goto,how many pictures)
+10 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1] @RapidTextOn
+20 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+30 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+40 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+50 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+60 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+70 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+80 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+90 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+100 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+110 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+120 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+130 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+140 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1]
+150 strokes @ShowLocalImage @Wait(20) @ChangeVar[pvMod16HMP]=[pvMod16HMP]+[1] @RapidTextOff
+Yeah, now either you've left or you're just not playing along anymore @UnlockImages
+And I don't know which is worse @MoodWorst @EdgeMode(Normal)
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(how many pictures)
+Hands off! @ChangeVar[pvMod16Punches]=[pvMod16Punches]-[pvMod16HMP] @RapidTextOff @UnlockImages
+Let's see, you got to picture @ShowVar[pvMod16HMP]
+@NullResponse @If[pvMod16Punches]<[1]Then(all gone)
+@NullResponse @If[pvMod16Punches]=[1]Then(just one)
+@BallTorture Your #Balls are going to be sorry for your lack of self control #Grin @Goto(go ahead and smack)
+That's a bit disappointing, I guess you should practice #JerkingOff more #EmoteWink
+@End
+(go ahead and smack)
+Go ahead and smack your #Balls @ShowVar[pvMod16Punches] times, #PetName
+[done] Good boy #Smile
+@AcceptAnswer Good boy #Smile
+Just try a little harder next time
+And your #Balls might not feel so sore afterwards #EmoteWink
+@End
+(all gone)
+That's pretty impressive, #SubName
+@BallTorture No ball busting this time
+You're getting pretty good at staying away from the edge #Smile
+@End
+(just one)
+Not bad, #PetName
+@BallTorture Just the one good smack to your #Balls then @Goto(one good smack)
+You're getting pretty good at staying away from the edge #Smile
+@End
+(one good smack)
+Do it now, and make it hurt!
+[done] Good boy #Smile
+@AcceptAnswer Good boy #Smile
+When you do your best, you get rewarded, #Name
+Well, at least you don't get punished so much #Laugh
+@End
+(pvMod45A)
+Take a moment to recover from that last edge, #Name @DeleteFlag(pvMod45A)
+Breath in a deep breath... @SetFlag(pvMod45B)
+And breathe out slowly
+Admire my body
+Or admire <i>her</i> body @ShowTaggedImage @TagSoloF
+I don't mind if you look at other women, #Name
+In fact, I show you lots of pictures of other women myself, don't I?
+You'd do it anyway you pervert, so it's best if I choose the pictures #Smile
+I want you to take the palm of your hand, and use it to rub the head of your #Cock
+Don't stroke, #Name
+Your fingers should be spread out so you can't grab the shaft
+Twist your wrist to palm your #Cock in a circling motion
+You can rub your #Balls with your other hand if you want to @Wait(#Random(10,30))
+Now grab that #Cock and give me 10 full strokes, #Name @EdgeMode(Goto,palming edge)
+And then...
+Go back to palming slowly with your fingers spread out @Wait(#Random(10,30))
+Is this driving you crazy?
+I hope it is #Grin
+Grab that #Cock and give me 20 fast full strokes
+Come on, faster #Name
+And go back to palming again... fingers spread out... just touching the head @Wait(#Random(10,30))
+Give me some long, full strokes
+Grab the shaft tight and squeeze it as you stroke...
+Mmm it feels good to grab it and stroke after all that palming, right? #Smile
+#StrokeFaster
+Hands off! @EdgeMode(Normal)
+Oooh how frustrating #Laugh
+Were you hoping I'd let you build up to a nice long edge?
+[yes] Not this time, #PetName
+[no] I guess you were frustrated enough already #Laugh
+@DifferentAnswer #YesOrNo
+Although I could change my mind about that, of course... @Chance40(changed mind)
+Nope #Laugh
+@End
+(changed mind)
+Making you squirm is just so much fun...
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(palming edge)
+You were not supposed to edge from that, #PetName
+I guess you're pretty sensitive and achy right now #Giggles
+Well, let's use that against you #Grin
+#Edge @EdgeHold @MultipleEdges(3,6,50)
+#LetTheEdgeFade
+@End
+(pvMod45B)
+That thing between your legs gets so sensitive when you do that, doesn't it? @DeleteFlag(pvMod45B)
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Tease the tip of your #Cock
+Do it very gently, feel how sensitive it is
+How much it's aching for more
+It wants to be kept on the edge so fucking much, doesn't it?
+[yes] Yes it does #Grin
+[no] You know that's not true, #PetName
+@DifferentAnswer #YesOrNo
+You know that poor #Cock is practically begging for it
+Let's give it what it wants then, shall we?
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End

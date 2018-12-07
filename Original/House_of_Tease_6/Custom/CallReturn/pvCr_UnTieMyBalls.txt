@@ -1,0 +1,7 @@
+@Stroking #StopStroking @StopStroking
+@RT(You can,Go ahead and,You should,Why don't you) untie those #Balls now @DeleteFlag(pvBallsTied)
+@RT(Let me know,Tell me) when you're ready to continue
+[ready,done,finished,continue] Okay, #Name
+@DifferentAnswer Let me know when you're ready, I'll wait
+@RT(Better,Feels good,Good to be free), right? #Smile
+@End

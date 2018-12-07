@@ -1,0 +1,50 @@
+[whatever to please, whatever you ask, whatever you tell, whatever you say, ll do whatever, whatever pleases you, do whatever pleases]
+[Before Tease]
+I'm sure you will, #Name
+Don't make any promises you can't keep, #Name #Grin
+Let's see if you still say that later #GeneralTime
+Is that so... I'll keep that in mind
+[Before Tease End]
+[First Round]
+Let's take things one step at a time, just #JerkingOff is fine for now #Smile
+Really? Maybe I'll put that to the test #GeneralTime
+Easy now, #Name #Laugh
+@Flag(pthevCEI_No) Oh really... Would you eat your cum for me? @Wait(5) @ResponseYes(WantToEatMyCum)
+[First Round End]
+[Stroking]
+@NullResponse @CallReturn(Custom\Shorts\Short06.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short07.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short08.txt)
+@Flag(pthevCEI_No) Oh really... Would you eat your cum for me? @Wait(5) @ResponseYes(WantToEatMyCum)
+I love it when you're desperate like that
+[Stroking End]
+[Not Stroking]
+@NullResponse @CallReturn(Custom\Shorts\Short06.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short07.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short08.txt)
+@Flag(pthevCEI_No) Oh really... Would you eat your cum for me? @Wait(5) @ResponseYes(WantToEatMyCum) @ResponseNo(pvRs_AnythingNo)
+Careful what you promise, #Name... #Grin
+[Not Stroking End]
+[Edging]
+All I want from you right now is to get to the edge
+Just edging for me is quite enough for now, #Name
+Just edge for me now
+[Edging End]
+[Holding The Edge]
+You better stay on the edge a little longer then @AddEdgeHoldTime
+@Flag(pthevCEI_No) Would you eat your cum for me? @AddEdgeHoldTime @ResponseYes(WantToEatMyCum) @ResponseNo(pvRs_AnythingNo)
+[Holding The Edge End]
+[CBT Cock]
+Then hurt your #Cock for me, #Name
+[CBT Cock End]
+[CBT Balls]
+Then hurt your #Balls for me, #Name
+[CBT Balls End]
+[Chastity]
+@HasChastity Yes, that's what being in chastity will do to a guy #Laugh
+@DoesNotHaveChastity You just say that because you're desperate to start #JerkingOff again
+[Chastity End]
+[After Tease]
+We're done for now, #Name
+Maybe next time we'll find out what that means, exactly #Grin
+[After Tease End]

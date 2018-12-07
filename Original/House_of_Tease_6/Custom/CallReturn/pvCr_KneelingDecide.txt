@@ -1,0 +1,72 @@
+@NullResponse @AFKOn @RapidCodeOn
+@NullResponse @BadMood(bad mood)
+@NullResponse @GoodMood(good mood)
+@ApathyLevel(1) @NullResponse @Goto(70chance)
+@ApathyLevel(2) @NullResponse @Goto(60chance)
+@ApathyLevel(3) @NullResponse @Goto(50chance)
+@ApathyLevel(4) @NullResponse @Goto(40chance)
+@ApathyLevel(5) @NullResponse @Goto(30chance)
+@End
+(bad mood)
+@ApathyLevel(1) @NullResponse @Goto(40chance)
+@ApathyLevel(2) @NullResponse @Goto(30chance)
+@ApathyLevel(3) @NullResponse @Goto(20chance)
+@ApathyLevel(4) @NullResponse @Goto(10chance)
+@ApathyLevel(5) @NullResponse @Goto(01chance)
+@End
+(good mood)
+@ApathyLevel(1) @NullResponse @Goto(99chance)
+@ApathyLevel(2) @NullResponse @Goto(90chance)
+@ApathyLevel(3) @NullResponse @Goto(80chance)
+@ApathyLevel(4) @NullResponse @Goto(70chance)
+@ApathyLevel(5) @NullResponse @Goto(60chance)
+(01chance)
+@NullResponse @Chance01(yes)
+@NullResponse @Goto(no)
+@End
+(10chance)
+@NullResponse @Chance10(yes)
+@NullResponse @Goto(no)
+@End
+(20chance)
+@NullResponse @Chance20(yes)
+@NullResponse @Goto(no)
+@End
+(30chance)
+@NullResponse @Chance30(yes)
+@NullResponse @Goto(no)
+@End
+(40chance)
+@NullResponse @Chance40(yes)
+@NullResponse @Goto(no)
+@End
+(50chance)
+@NullResponse @Chance50(yes)
+@NullResponse @Goto(no)
+@End
+(60chance)
+@NullResponse @Chance60(yes)
+@NullResponse @Goto(no)
+@End
+(70chance)
+@NullResponse @Chance70(yes)
+@NullResponse @Goto(no)
+@End
+(80chance)
+@NullResponse @Chance80(yes)
+@NullResponse @Goto(no)
+@End
+(90chance)
+@NullResponse @Chance90(yes)
+@NullResponse @Goto(no)
+@End
+(99chance)
+@NullResponse @Chance99(yes)
+@NullResponse @Goto(no)
+@End
+(yes)
+@RT(Mmm yes,Yes,Yeah), @RT(you should kneel before me,kneel,get on your knees,down on your knees,on your knees) #Name @TempFlag(pvKneeling) @AFKOff
+@End
+(no)
+Not right now, #Name @AFKOff
+@End

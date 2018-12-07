@@ -1,0 +1,6 @@
+You can untie those #Balls now @DeleteFlag(pvBallsTied)
+Let me know when you're ready to continue
+[ready,done,finished,continue] Okay, #Name
+@DifferentAnswer Let me know when you're ready, I'll wait
+Feels good, right? #Smile
+@End

@@ -1,0 +1,44 @@
+[video on]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+@NullResponse @Call(Custom\AV_Scripts\AV_Videos.txt)
+[Before Tease]
+@NullResponse @Interrupt(video)
+[Before Tease End]
+[First Round]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+@NullResponse @Call(Custom\AV_Scripts\AV_Videos.txt)
+[First Round End]
+[Stroking]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+@NullResponse @Call(Custom\AV_Scripts\AV_Videos.txt)
+[Stroking End]
+[Not Stroking]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+@NullResponse @Call(Custom\AV_Scripts\AV_Videos.txt)
+[Not Stroking End]
+[Edging]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+[Edging End]
+[Holding The Edge]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+[Holding The Edge End]
+[CBT Cock]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+[CBT Cock End]
+[CBT Balls]
+@NullResponse @Interrupt(video)
+[CBT Balls End]
+[Chastity]
+@NullResponse @Interrupt(video)
+[Chastity End]
+[After Tease]
+@NullResponse @Interrupt(video)
+@NullResponse @Call(Custom\AV_Scripts\AV_Device_Videos.txt)
+[After Tease End]

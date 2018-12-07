@@ -1,0 +1,105 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(av_intera_017)
+@NullResponse @CheckFlag(av_intera_018)
+
+
+
+
+And I've decided to punish you for having that dirty crush for me 
+That's right, bitch. I'm in charge.
+You love being dominated, you little slut!  
+It's good to know that I turn you on
+Hit your balls #RandomRound10(10, 20) times with the spoon 
+And make each hit louder than the last.
+
+
+(av_intera_017)
+Too many edges #SubName?
+@Contact1 @RT(What is the problem, What is, What, Say, you can talk to me, yes, what happened) ?
+[cum, cumming] @Contact1 oh... @Goto(CheckCum1)
+[too much, intense, hard] @Contact1 @NullResponse @Goto(CheckMood1)
+[pause, break, rest] @Contact1 @NullResponse @Goto(CheckPause1)
+@DifferentAnswer @Contact1 what #SubName?
+(CheckCum1)
+@Contact1 Did you cum or you are about to cum? @RTOn
+@Contact1 To be clear, did you came? @RTOff
+[yes] @Contact1 Oh noo... @Interrupt(OpiateNPC)
+[no] @Contact1 #Good @Goto(CheckMood1)
+@DifferentAnswer @Contact1 #YesorNo
+(CheckMood1)
+@Contact1 @RT(Here's what I've decided, #SubName, I don't have a problem with your desires)
+@Contact1 After all here you are @RT(naked in front of me, totally at my mercy).
+@Contact1 @NullResponse @Chance50(CBT1)
+@Contact1  @RT(I'm really being #Mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #SubName, Does your whole body want to cum?), @RT(You, We) can stop ...for @RT(a while, now)
+@NullResponse @AddDomme
+@NullResponse @RemoveContact1
+@NullResponse @Interrupt(AV_Cancela)
+@End
+(CBT1)
+@Contact1 Maybe @RT(a few, some) pain will @RT(help you to take it, make it easy, help you to keep that cum inside)
+(LoopCBT1)
+@Flag(av_fetish_pain) @Contact1 @CBTBalls
+@Contact1 @CBTBalls
+@Contact1 Enough?
+[yes] @Contact1 #Okay
+[no] @Contact1 Another round then @Goto(LoopCBT1)
+@DifferentAnswer @Contact1 #YesorNo
+@Contact1 Let's continue
+@End
+(CheckPause1)
+@Contact1 @RT(I'll try to keep your limits in mind a little better, I think) I can let you rest for a while
+@Contact1 @NullResponse @Chance50(Position1)
+@Contact1 enjoy @Wait( #Random(100, 200))
+@Contact1 #ThatsEnough
+@End
+(Position1)
+@Contact1 But I want you to stay in this position @ShowImage[av_imagens\positions\all\*.jpg]  @LockImages
+@Contact1 enjoy @Wait( #Random(100, 200))
+@Contact1 #ThatsEnough @PlayAudio[tease\whip.mp3] @UnlockImages
+@Contact1 #SitDown
+@End
+(av_intera_018)
+Too many edges #SubName?
+@Contact2 @RT(What is the problem, What is, What, Say, you can talk to me, yes, what happened) ?
+[cum, cumming] @Contact2 oh... @Goto(CheckCum2)
+[too much, intense, hard] @Contact2 @NullResponse @Goto(CheckMood2)
+[pause, break, rest] @Contact2 @NullResponse @Goto(CheckPause2)
+@DifferentAnswer @Contact2 what #SubName?
+(CheckCum2)
+@Contact2 Did you cum or you are about to cum? @RTOn
+@Contact2 To be clear, did you came? @RTOff
+[yes] @Contact2 Oh noo... @Interrupt(OpiateNPC)
+[no] @Contact2 #Good @Goto(CheckMood2)
+@DifferentAnswer @Contact2 #YesorNo
+(CheckMood2)
+@Contact2 @RT(Here's what I've decided, #SubName, I don't have a problem with your desires)
+@Contact2 After all here you are @RT(naked in front of me, totally at my mercy).
+@Contact2 @NullResponse @Chance50(CBT2)
+@Contact2  @RT(I'm really being #Mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #SubName, Does your whole body want to cum?), @RT(You, We) can stop ...for @RT(a while, now)
+@NullResponse @AddDomme
+@NullResponse @RemoveContact2
+@NullResponse @Interrupt(AV_Cancela)
+@End
+(CBT2)
+@Contact2 Maybe @RT(a few, some) pain will @RT(help you to take it, make it easy, help you to keep that cum inside)
+(LoopCBT2)
+@Flag(av_fetish_pain) @Contact2 @CBTBalls
+@Contact2 @CBTBalls
+@Contact2 Enough?
+[yes] @Contact2 #Okay
+[no] @Contact2 Another round then @Goto(LoopCBT2)
+@DifferentAnswer @Contact2 #YesorNo
+@Contact2 Let's continue
+@End
+(CheckPause2)
+@Contact2 @RT(I'll try to keep your limits in mind a little better, I think) I can let you rest for a while
+@Contact2 @NullResponse @Chance50(Position2)
+@Contact2 enjoy @Wait( #Random(100, 200))
+@Contact2 #ThatsEnough
+@End
+(Position2)
+@Contact2 But I want you to stay in this position @ShowImage[av_imagens\positions\all\*.jpg]  @LockImages
+@Contact2 enjoy @Wait( #Random(100, 200))
+@Contact2 #ThatsEnough @PlayAudio[tease\whip.mp3] @UnlockImages
+@Contact2 #SitDown
+@End

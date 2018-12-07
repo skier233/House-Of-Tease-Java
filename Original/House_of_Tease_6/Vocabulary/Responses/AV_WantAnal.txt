@@ -1,0 +1,39 @@
+[Anal play, fuck me, fuck me in the ass, get my ass, my ass is yours]
+[Before Tease]
+@NullResponse @MiniScript(AV_AnalPlay) 
+[Before Tease End]
+[First Round]
+@NullResponse @MiniScript(AV_AnalPlay) 
+[First Round End]
+[Stroking]
+So, you want to get fucked in the ass? @CallReturn(Custom\AV_Scripts\AV_AnPlay.txt)
+So, you want to get fucked in the ass? @Call(Custom\CallReturn\AV_PunishRND.txt, Punish03)
+@NotFlag(AV_LikeAnal) @NullResponse @MiniScript(AV_AnalPlay) 
+[Stroking End]
+[Not Stroking]
+So, you want to get fucked in the ass? @CallReturn(Custom\AV_Scripts\AV_AnPlay.txt)
+So, you want to get fucked in the ass? @Call(Custom\CallReturn\AV_PunishRND.txt, Punish03)
+@NotFlag(AV_LikeAnal) @NullResponse @MiniScript(AV_AnalPlay) 
+[Not Stroking End]
+[Edging]
+So, you want to get fucked in the ass? @CallReturn(Custom\AV_Scripts\AV_AnPlay.txt)
+So, you want to get fucked in the ass? @Call(Custom\CallReturn\AV_PunishRND.txt, Punish03)
+@NotFlag(AV_LikeAnal) @NullResponse @MiniScript(AV_AnalPlay) 
+[Edging End]
+[Holding The Edge]
+@NullResponse @MiniScript(AV_AnalPlay) 
+[Holding The Edge End]
+[CBT Cock]
+Not now @RT(#PetName, #SubName).  
+[CBT Cock End]
+[CBT Balls]
+No, now is time for ball slap.
+[CBT Balls End]
+[Chastity]
+So, you want to get fucked in the ass? @CallReturn(Custom\AV_Scripts\AV_AnPlay.txt)
+So, you want to get fucked in the ass? @Call(Custom\CallReturn\AV_PunishRND.txt, Punish03)
+@NotFlag(AV_LikeAnal) @NullResponse @MiniScript(AV_AnalPlay) 
+[Chastity End]
+[After Tease]
+Maybe next time #SubName
+[After Tease End]

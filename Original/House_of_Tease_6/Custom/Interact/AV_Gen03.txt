@@ -1,0 +1,13 @@
+Oh @RT(#PetName, #SubName), are my friends too much for you?
+Or you just need a break?
+[too much, intense, hard] @NullResponse @Goto(Para)
+[pause, break, rest] @NullResponse @Goto(CheckPause)
+@DifferentAnswer what #SubName?
+(CheckPause)
+@RT(I'll try to keep your limits in mind a little better, I think) I can let you rest for a while
+enjoy @Wait( #Random(100, 120))
+#ThatsEnough
+@End
+(Para)
+#ThatsEnough @Interrupt(AV_Cancela)
+@End

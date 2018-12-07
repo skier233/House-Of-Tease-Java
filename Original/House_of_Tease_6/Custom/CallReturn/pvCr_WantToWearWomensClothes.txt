@@ -1,0 +1,21 @@
+@NullResponse @CheckFlag(pthevSissyYES,already knew that)
+@NullResponse @CheckFlag(pthevSissyNO,thought you did not)
+Oh really... so you like to dress up like a girl?
+[yes] We're <i>definitely</i> going to do that then #Laugh
+[no]  Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+You should have some lingerie and make up ready, #SubName @SetFlag(pthevSissyYES)
+@End
+(already knew that)
+Yes I know you do, #PetName
+@End
+(thought you did not)
+Oh really... so you like to dress up like a girl now?
+[yes] We're <i>definitely</i> going to do that someday then #Laugh
+[no]  Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+You should have some lingerie and make up ready, #SubName @DeleteFlag(pthevSissyNO) @SetFlag(pthevSissyYES)
+@End
+(mis understood)
+I must have misunderstood then
+@End

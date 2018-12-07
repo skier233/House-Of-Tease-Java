@@ -1,0 +1,48 @@
+@NullResponse @Goto(one,two,three,four,five,six)
+(one)
+#Edge @Edge @MultipleEdges(3,8,100)
+#LetTheEdgeFade
+That #Cock is @RT(throbbing,so sensitive,aching like crazy) @RT(for me,right now), isn't it?
+It @RT(ought to,should,is supposed to,is meant to) be, #Name #Grin
+#Edge @Edge @MultipleEdges(2,5,50)
+Hmmm that poor leaky thing #Giggles
+@End
+(two)
+#SubName... @Chance50(Stop Stroking)
+#Edge @Edge
+#LetTheEdgeFade @Goto(Module End)
+(Stop Stroking)
+Stop stroking @StopStroking
+(Module End)
+@NullResponse
+@End
+(three)
+#StopStroking @StopStroking
+On second thought
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(four)
+#Edge
+@RT(Actually,On second thought,I changed my mind)... stop stroking @StopStroking
+I don't want you to edge right now
+@End
+(five)
+#Edge
+@RT(Actually,On second thought,I changed my mind), stop stroking @StopStroking
+Instead of edging, I want you to give me @RT(20,25,30) really slow strokes
+About one stroke every three seconds, #PetName
+Go!
+Let me know when you're done
+[done] Good boy #Smile
+@DifferentAnswer Just tell me when you're done
+Sometimes slow aching strokes are the best way to worship me, #PetName
+@End
+(six)
+#StopStroking @StopStroking
+Just a short break...
+#StartStroking
+#StrokeSlowest
+#KeepStroking @Wait(#Random(10,20))
+#StopStroking
+@End

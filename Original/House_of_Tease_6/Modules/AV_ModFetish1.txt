@@ -1,0 +1,213 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModFetish1_NotFirstTime)
+@NullResponse @SetVar[AV_ModFetish1]=[0] 
+@NullResponse @SetFlag(AV_ModFetish1_NotFirstTime)
+(AV_ModFetish1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModFetish1]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModFetish1]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModFetish1]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModFetish1]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModFetish1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModFetish1]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModFetish1]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModFetish1]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModFetish1]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModFetish1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModFetish1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModFetish1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModFetish1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModFetish1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModFetish1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModFetish1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModFetish1]=[AV_ModFetish1]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModFetish1]=[AV_ModFetish1]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModFetish1]=[AV_ModFetish1]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModFetish1]=[AV_ModFetish1]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModFetish1]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+That #Cock is no longer yours, it's my property 
+and I'm the only one that decides when my property needs to be touched... 
+Look at you, you're stiffening up at my mere mention of it... 
+Cup those #Balls with your left hand... Are they full for Mistress?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Start playing with them, roll them in your palm. 
+@RandomText(How's my cock doing? Is it as hard as it gets?, How bad do you want to touch it right now?)
+Take your right hand and wrap it around the shaft, no jerking! 
+Just keep it still around that meat and keep playing with those balls. 
+You're really desperate to #Stroke it now, aren't you? 
+Alright, start moving that hand up and down... up and down... @PlayAudio[tease\b055.mp3]
+slowly... all the way to the tip... and down to the base. 
+That's it, keep it slow and frustrating,  @PlayAudio[tease\b075.mp3]
+you know how much I love to watch you squirm.
+Good boy, keep going like that and don't stop fondling the balls.
+#StopStroking
+Now stroke it fast! Up-down, up-down, up-down. @PlayAudio[tease\b180.mp3]
+Keep it up...
+#StopStroking
+You didn't think I'd let you cum that easy, did you? 
+Is it throbbing? It better be!... 
+Start stroking again, slowly, up... down... up... down @PlayAudio[tease\b075.mp3]
+Now go as fast as you can, work that cock for me! @PlayAudio[tease\b210.mp3]
+I'm going to count down from 10 and you better be right on the edge of cumming by the time I reach 1 
+10
+9 @RapidTextOn
+8
+7 @PlayAudio[tease\b210.mp3] @RapidTextOff
+6
+5 @RapidTextOn
+4
+3 @PlayAudio[tease\b210.mp3] @RapidTextOff
+2
+1
+Are you there slave? Are you on the brink? Hold it! 
+That's right, hold it for Mistress! 
+Almost there... 
+#StopStroking
+Aww, look at it bobbing up and down... 
+It really wanted to cum, didn't it?
+Well too bad, bad slaves don't get to cum, all they get is denial. 
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(av_fetish_hothax)
+@NullResponse @CheckFlag(AV_TaskON)
+#SubName... @Chance50(Module End)
+#Edge @Edge @ShowCaptionsImage
+#LetTheEdgeFade 
+(Module End)
+@NullResponse
+@End
+(AV_TaskON)
+@NullResponse @Interrupt(AV_Tasks)
+@End
+(av_fetish_hothax)
+Get a candle. I want your nipples and areola completely covered in wax
+you know, what to do.
+Let me know when you are done
+[ready, done] Good...
+@DifferentAnswer Ready?
+#StartStrokingNS to the beat #AudioStroke
+Now, bend over, spread your asscheeks, and let a few drops of wax torture your asshole.
+You may stop, when you fill the wax covered it good.
+Let me know when you are done
+[ready, done] Good...
+@DifferentAnswer Done?
+Well, I guess w will have to do something more!
+Get the candle and drip the wax all over your balls
+and don"t take it off until I say so!
+Let me know when you are done
+[ready, done] Good...
+@DifferentAnswer Done?
+#Edge @Edge
+#LetTheEdgeFade 
+Now, slap your balls hard, until every last bit of wax is removed!
+Look at those pretty bright red balls!
+#ThatsEnough #Slave
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+Look who is here @AddContact2
+@Contact2 I like ordering you to jerk that little hard cock.
+@Contact2 #StartStroking
+@Contact2 I want to show you a few Mistress friends of mine that are  really nice to their strokerboys.
+@Contact2 In the event that #DomName decides to sell you at auction just hope it is one of these.
+@Contact2 Now you will give me an #EdgeNoun @EdgeNoHold
+@NullResponse @CustomTask(AV_StrokeNumberGliter2)
+@Contact2 There is #_GlitterSpecial. Pray that you can ever be her little boytoy. 
+@Contact2 She actually likes to suck their little cocks off and let them cum inside her mouth. 
+@Contact2 She has a cum fixation, she just cannot swallow enough of it.
+@Contact2 #Edge @EdgeNoHold
+@Contact2 This one here is a real catch for a boytoy too. 
+@Contact2 She has scheduled ejaculation times once per week. 
+@Contact2 She fucks sucks and jerks her subs at random by rolling dice. Her name is #_GlitterSpecial
+@Contact2 #Edge @EdgeNoHold
+@Contact2 Now there are is Mistress #_GlitterSpecial. 
+@Contact2 She treats her subs almost like she is their girlfriend. 
+@Contact2 She gives a tit job once per week if a sub hasn't misbehaved
+@Contact2 #Edge @EdgeNoHold
+@NullResponse @RemoveContact2
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(av_fetish_rough)
+@NullResponse @CheckFlag(AV_TaskON)
+#SubName... @Chance50(Module End)
+#Edge @Edge @ShowCaptionsImage
+#LetTheEdgeFade
+(Module End)
+@NullResponse
+@End
+(AV_TaskON)
+@NullResponse @Interrupt(AV_Tasks)
+(av_fetish_rough)
+You want an attractive woman to watch you masturbate? 
+I was the one you were fantasizing about right? 
+[yes] Hmm @Goto(bom1)
+[no] No? This will change @Goto(mau1)
+@DifferentAnswer Yes or no #SubName?
+(bom1)
+@NullResponse @MoodUp
+@NullResponse @Goto(fim1)
+(mau1)
+@NullResponse @MoodDown
+(fim1)
+So, now you get to have the object of your fantasy right here
+watching your hand moving up and down your cock.
+Isn't that better than fantasizing? 
+Now do it! #StartStrokingNS to the beat #AudioStroke
+Are you still fantasizing about me? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Yeah? I guess you can imagine that it's my hand on your cock if you want. 
+I bet you'd like that wouldn't you? 
+#Edge @Edge
+#LetTheEdgeFade 
+Teasing the head of your shaft with my fingers
+staring into your eyes submissively?
+As if! 
+@End

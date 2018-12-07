@@ -1,0 +1,140 @@
+Hmm, you want to edge #Name? #Smile 
+[yes] #EmoteRandom @Chance20(Session)
+[no] #EmoteThought @Goto(Cancel)
+@DifferentAnswer
+I'll give you a choice then @GotoDommeLevel
+@DommeLevel1
+Mmm nevermind, no choices for you #Name
+#Edge @Edge
+#LetTheEdgeFade
+@End
+@DommeLevel2
+Mmm nevermind, no choices for you #Name
+#Edge @Edge
+#LetTheEdgeFade
+@End
+@DommeLevel3
+You can edge for me twice #Smile
+Or you can hold one for me #EmoteRandom
+What's it going to be #Name
+[twice, two, former, first] #Smile @Goto(EdgeA)
+[once, hold, latter, second] #Smile @Goto(HoldA)
+[you, choose, dont know, don't know, dont care, don't care, please, miss, mistress, princess]
+[yes] It wasn't a yes or no question
+[no] It wasn't a yes or no question
+@DifferentAnswer Well, would you rather edge <i>twice</i> or <i>hold</i> one for me?
+I can decide for you #Smile
+You might regret it though @Chance50(HoldA)
+(EdgeA)
+#Edge @Edge
+#LetTheEdgeFade
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(HoldA)
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+@DommeLevel4
+You can edge for me twice #Smile
+Or you can hold one for me #EmoteRandom
+What's it going to be #Name
+[twice, two, former, first] #Smile @Goto(EdgeB)
+[once, hold, latter, second] #Smile @Goto(HoldB)
+[you, choose, dont know, don't know, dont care, don't care, please, miss, mistress, princess]
+[yes] It wasn't a yes or no question
+[no] It wasn't a yes or no question
+@DifferentAnswer Well, would you rather edge <i>twice</i> or <i>hold</i> one for me?
+I can decide for you #Smile
+You might regret it though @Chance50(HoldB)
+(EdgeB)
+#Edge @Edge
+#LetTheEdgeFade
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(HoldB)
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+@DommeLevel5
+You can edge for me twice #Smile
+Or you can hold one for me #EmoteRandom
+What's it going to be #Name
+[twice, two, former, first] #Smile @Goto(EdgeC)
+[once, hold, latter, second] #Smile @Goto(HoldC)
+[you, choose, dont know, don't know, dont care, don't care, please, miss, mistress, princess]
+[yes] It wasn't a yes or no question
+[no] It wasn't a yes or no question
+@DifferentAnswer Well, would you rather edge <i>twice</i> or <i>hold</i> one for me?
+I can decide for you #Smile
+You might regret it though @Chance50(HoldC)
+(EdgeC)
+#Edge @Edge
+#LetTheEdgeFade
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(HoldC)
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(Cancel)
+#Smile @GotoDommeApathy
+@ApathyLevel1
+@NullResponse @Chance80(1)
+You've already put the idea in my head though
+I think I have to make you edge now #EmoteRandom
+Edge for me #Name @Edge
+#LetTheEdgeFade
+@End
+(1)
+I guess I will let you off the hook
+This time #EmoteRandom
+@End
+@ApathyLevel2
+@NullResponse @Chance60(2)
+You've already put the idea in my head though
+I think I have to make you edge now #EmoteRandom
+Edge for me #Name @Edge
+#LetTheEdgeFade
+@End
+(2)
+I guess I can let you off the hook
+This time #EmoteRandom
+@End
+@ApathyLevel3
+@NullResponse @Chance40(3)
+Now that you've put the idea in my head though
+I think I have to make you edge #EmoteRandom
+Edge for me #Name @Edge
+#LetTheEdgeFade
+@End
+(3)
+I guess I'll let you off the hook this time
+Be careful though
+I might not be so gracious next time #EmoteRandom
+@End
+@ApathyLevel4
+@NullResponse @Chance20(4)
+That' too bad #Name
+Now that you've mentioned edging
+I think I #Want for you to give me one #EmoteRandom
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(4)
+I guess I'll let you off the hook this time
+Be careful though
+I probably won't be so gracious next time #EmoteRandom
+@End
+@ApathyLevel5
+That's too bad
+Now that you've mentioned edging
+I don't think I'm going to give you a choice #EmoteRandom
+#Edge @Edge
+#LetTheEdgeFade
+@End 
+(Session)
+Mmm 
+@End 

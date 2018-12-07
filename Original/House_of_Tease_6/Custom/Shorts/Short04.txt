@@ -1,0 +1,42 @@
+@Stroking #StrokeSlower @StrokeSlower
+I bet you're sooooo frustrated and desperate. 
+Tell me how bad you want to cum. 
+Go on, beg for it. I want to hear you plead and beg for relief. @Timeout(7, AV_h5cf4w)
+[beg, please] #GoodBoy @Goto(ChTime)
+[mercy, cum, need, want] That's disappointing. You don't sound nearly desperate enough. 
+@AcceptAnswer That's too bad. Guess you'll just have to go without.
+(AV_h5cf4w)
+You're not quite frustrated enough are you? 
+Maybe I'll give you another opportunity to beg for it later
+Until then, you have my pleasure to attend to, don't you? 
+After all, what the fuck else do I keep you around for? 
+@End
+(ChTime)
+@NullResponse @RapidCodeOn
+@BadMood @NullResponse @Chance70(CBT)
+@GoodMood @NullResponse @Chance50(Time)
+@Flag(AV_DommeMistress) @Variable[#SessionCBTBalls]<[4] @NullResponse @Goto(CBT)
+@NotFlag(AV_DommeMistress) @Variable[#SessionCBTBalls]<[2] @NullResponse @Goto(CBT)
+@End
+(CBT)
+Maybe we didn't hurt your #Balls enough to cool you down...
+Let's fix that
+@Stroking #Stop @StopStroking
+@NullResponse @CBTBalls
+#ThatsEnough
+@End
+(Time)
+As much as I like watching your horny little mind break, I also want to take care of you
+After all, I want to keep you as my private toy for a very long time #Smile
+So, do you want a Short Session #GeneralTime?
+[yes] Alright then, #Name @RemoveTeaseTime(12 Minutes) @Goto(Fim)
+[no] Then I guess I'm going to have to make you suffer and ache and leak after all 
+@DifferentAnswer #YesOrNo
+But maybe you want ache for more time...
+It's that right, #PetName?
+[yes] Alright then, #Name @AddTeaseTime(12 Minutes)
+[no] Ok then
+@DifferentAnswer #YesOrNo
+(Fim)
+@NullResponse 
+@End

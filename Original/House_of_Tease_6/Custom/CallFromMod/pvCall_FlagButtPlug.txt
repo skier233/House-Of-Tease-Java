@@ -1,0 +1,136 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@NullResponse @CheckFlag(pthevPlugged,already plugged)
+@NullResponse @Goto(one,two,three,four)
+(one)
+Do you have your butt plug ready, #PetName?
+[yes] Good... @Goto(plug ready)
+[no] That's too bad...
+@DifferentAnswer #YesOrNo
+Because I kinda feel like that ass of your should be plugged
+Can you go get it for me?
+[yes] Awesome #EmoteHappy
+[no] @NullResponse @Goto(do not want plug)
+@DifferentAnswer #YesOrNo
+Let me know when you're ready to continue
+[ready,yes] Okay
+@DifferentAnswer Are you ready?
+@NullResponse @Goto(should be plugged)
+@End
+(plug ready)
+Because I kinda feel like that ass of yours should be plugged
+(should be plugged)
+@NullResponse @TempFlag(pvNotWantPlug)
+@RT(Lube it up as much as you need to,Make it nice and slippery,Lube up good if you need it,Use as much lube as you need)
+@RT(Put it in your ass,Shove that plug up your ass,Push that plug into your tight butt)
+@RT(Your ass belongs to me,I can use your ass however I want,Your ass is mine to use,I own your ass) #Grin
+Let me know when you're ready
+[done,did,ready,finished,it's in] @RT(Good,Alright,There you go,That's much better) #Smile @TempFlag(pthevPlugged)
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] What are you talking about @Goto(do not want plug)
+@DifferentAnswer Just say 'ready' when you are, #SubName #EmoteFlustered
+@RT(Hmmm yes that's much better,That plug fills you up nicely,I don't know why I don't do this more often,Plugged like a good slut) @DeleteFlag(pvNotWantPlug)
+@End
+(do not want plug)
+@NullResponse @DeleteFlag(pvNotWantPlug)
+I don't like it when you say 'no' to me, #Name @MoodDown
+Are you going to wear your plug for me, yes or no?
+[yes] Good @Goto(said yes)
+[no] If that's how it's going to be...
+@DifferentAnswer #YesOrNo
+Put away your butt plug @InterruptsOn
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(said yes)
+Then do as I say, #Name @Goto(should be plugged)
+@End
+(two)
+There's something I think you should do right now
+And it involves the following your ass, and...
+A butt plug #Grin @Goto(should be plugged)
+@End
+(three)
+@NullResponse @CheckFlag(pvKneeling,something missing)
+Are you @RT(comfortable,sitting comfortably), #Name?
+[yes] Well, we should something about that #Grin
+[no] Probably worried what I might do to you next #Grin
+@DifferentAnswer #YesOrNo
+Get on your knees @TempFlag(pvKneeling)
+Hands behind your back
+Head down
+Back straight
+That's much better
+Spread your legs a little further
+Good #PetName #Smile
+(something missing)
+I do like that you're kneeling for me, but...
+There's something missing in this picture, #PetName 
+What do you think?
+[no,nothing,fine,good,okay,perfect,don't know,not sure,unsure] I think I know what it is
+[ass,buttplug,plug,butt,anal] You might be onto something there...
+@AcceptAnswer No, that's not it
+Go get your butt plug, but stay on your knees while you do
+Hurry up, #PetName
+The quicker you are, the sooner we get to the good part... @Goto(should be plugged)
+@End
+(four)
+You know #PetName...
+Nothing says 'I love you #DomHonorific #DomName' more than wearing a butt plug #Laugh
+And I know that you do love me, so...
+Go get your butt plug! #Smile
+Can you feel it, #Name?
+That's your love for me getting stronger by the second
+Isn't it funny what a simple toy can do to you #Grin @Goto(should be plugged)
+@End
+(already plugged)
+@NullResponse @Goto(plug one,plug two,plug three,plug four)
+(plug one)
+Is that plug still feeling nice and tight?
+Tug on it a little
+Don't you love how that feels?
+Now pull it out, #Name @Wait(#Random(5,10))
+And put it back in...
+#EmoteMoan
+Do that again, pull it out... @Wait(#Random(6,12))
+And put it back in #Smile
+It's going to stay there a little longer, #Name
+@End
+(plug two)
+@RT(Go ahead take your butt plug out,Take that plug out of your ass,Take out your butt plug now)
+@RT(Your ass must be all stretched out,Give that stretched hole a rest,So your ass can finally relax a little)
+Are you ready?
+[yes,ready,done,did,finished] Good boy @DeleteFlag(pthevPlugged)
+[no] Let me know when you are... @LoopAnswer
+@DifferentAnswer #YesOrNo
+@RT(Let's continue then,Let's move on then,Now where were we)
+You probably feel a bit empty now #Giggles
+We'll just have to fill up that @RT(void,emptiness) with @RT(frustrationg,aching) now, won't we?
+@End
+(plug three)
+Are you ready to take that plug out of your ass?
+[yes] Aww poor #PetName, is it starting to feel a bit uncomfortable? #Giggles 
+[no] It feels so nice, right? #Smile
+@DifferentAnswer #YesOrNo
+I think it's about time you got it out
+It's not like it's the last time you'll ever wear it #EmoteWink
+@RT(Go ahead take your butt plug out,Take that plug out of your ass,Take out your plug now)
+@RT(Your ass must be all stretched out,Give that stretched hole a rest,So your ass can finally relax a little)
+Are you ready?
+[yes,ready,done,did,finished] Good boy @DeleteFlag(pthevPlugged)
+[no] Let me know when you are... @LoopAnswer
+@DifferentAnswer #YesOrNo
+Don't worry #Name
+I'm sure you'll be wearing that plug again sooner or later #Smile
+@End
+(plug four)
+When you have your butt plug in, does that make you ache even more?
+[yes] Good #EmoteHappy
+[no] That's too bad...
+@DifferentAnswer #YesOrNo
+I want you to ache and suffer as much as possible
+It turns me on so much to know you're plugged up, #Name
+It tells me I own you completely #Smile
+And I know you want to feel owned
+So that plug is going to stay in a while longer
+@End

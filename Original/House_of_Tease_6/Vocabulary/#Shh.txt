@@ -1,0 +1,11 @@
+quiet
+shh
+shhh
+shhhh
+shhhhh
+silence
+be silent
+be quiet
+quiet yourself
+#Name, #Shh
+#Shh #Name

@@ -1,0 +1,50 @@
+Before we start, we have some unfinished business, #Name
+We played Risky Pick last time
+And I happen to have written down the number of edges you owed me
+You owed me @ShowVar[RP_Edges] edges
+So look me in the eye #SubName, and tell me honestly
+Did you do <i>all</i> of them?
+[yes] You must be extra horny #GeneralTime then #Smile @Goto(did all of them)
+[no] I told you to do them before you came back to me #PetName
+[not all,some,few,almost,tried,most of] In other words: no, you didn't do all of them
+@DifferentAnswer #YesOrNo
+It pisses me off that you can't even follow a simple instruction like that @Timeout(9,follow a simple)
+[sorry,apologise,apoligize,forgive] That's not enough, #SubName
+@DifferentAnswer @NullResponse
+(follow a simple)
+And what's the point in playing a game if you're not following the rules, anyway?
+@NullResponse @CallReturn(Custom\CallReturn\pvCr_Punishment.txt)
+About those @ShowVar[RP_Edges] edges you owe me...
+You're going to do them right now, I don't care how long it takes
+And I don't care if you did some of them or none at all
+Let's get started #SubName @CustomMode(#pvNeedABreak,Goto,need break)
+(another edge)
+#Edge @EdgeNoHold @ChangeVar[RP_Edges]=[RP_Edges]-[1]
+@NullResponse @If[RP_Edges]<[2]Then(Edges Finished)
+#pthevRPEdges
+@NullResponse @Goto(another edge)
+(Edges Finished)
+Here comes the last one @CustomMode(#pvNeedABreak,Normal) @DeleteFlag(pthevRiskyPickOwesEdges)
+#Edge @Edge 
+#LetTheEdgeFade
+That's all of them #Smile
+Now that we've settled that score
+I can actually start teasing you #Lol
+@End
+(did all of them)
+@NullResponse  @DeleteFlag(pthevRiskyPickOwesEdges)
+@NullResponse @If[RP_Edges]<[20]Then(only a few)
+That means its even more fun for me to tease you 
+And every edge you do #GeneralTime will be even more agonizing for you #Grin
+That's exactly why we play a game like Risky Pick
+@End
+(only a few)
+You're lucky that you only had to do @ShowVar[RP_Edges] edges
+It could have been <i>much</i> worse, #PetName #Laugh 
+@End
+(need break)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_BreakEdging.txt)
+Now where were we... still @ShowVar[RP_Edges] to go, #Name
+@NullResponse @If[RP_Edges]<[2]Then(Edges Finished)
+@NullResponse @Goto(another edge)
+@End

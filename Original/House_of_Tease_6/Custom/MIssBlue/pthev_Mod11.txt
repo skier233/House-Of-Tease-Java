@@ -1,0 +1,274 @@
+@NullResponse @CheckFlag(pvMod11A)
+@NullResponse @TempFlag(pvMod11A) @CheckFlag(pvAlpha,alpha)
+@NullResponse @CheckFlag(pvBeta,beta)
+#StopStroking @StopStroking
+There's something I'd like to know about you...
+I love that you're doing all this for me
+The stroking, the edging, following commands...
+But as someone with a dominant personality it puzzles me
+Why do you do this...
+Now, the way I see it some people are Alphas and others betas
+Obviously, I'm an Alpha #Smile
+But just because you like being submissive doesn't necessarily mean you are a beta...
+You could be an Alpha who just needs a break from being in control now and then
+Although it would make more sense if you <i>were</i> a beta... 
+Whose only purpose in life is to serve as amusement for us Alphas #Smile
+So what do you think, are you an Alpha or a beta?
+[alpha] Oh really? @SetFlag(pvAlpha) @Goto(am an alpha)
+[beta] I thought so #Smile @SetFlag(pvBeta)
+@DifferentAnswer Are you an Alpha or a beta?
+At least it makes some things in life simple, right?
+I mean, you don't have to think about wether you could get a girl like me
+@Flag(pvHasPartner) Not as a knock on @Var[pthevNamePartner] of course, I'm sure she's lovely
+@Flag(pvHasPartner) You're lucky someone's interested in you at all...
+That doesn't mean you can't dream and drool over hot girls
+And just because you're not a <i>real</i> man doesn't mean you can't please a woman
+You just have to make a little bit more of an effort #Smile
+@End
+(am an alpha)
+Well, I'd be happy to bring you down a peg #Laugh
+Even if it's just for a few precious moments
+It can be good for Alpha males like yourself to know their place
+I mean, you're still a <i>guy</i>, which puts you below me by default #Smile
+@End
+(alpha)
+#Edge @Edge
+#LetTheEdgeFade @CheckFlag(pvMod11B)
+Look at how big those #Balls are getting @SetFlag(pvMod11B)
+Maybe I'm being to tough on you sometimes, #SubName
+You're not that unattractive, after all
+Maybe I could even be your girlfriend... not that I'm in love with you
+But I sometimes find myself fantasizing about being your girl instead of you being my boy
+I could even be your submissive, maybe...
+Would you like that?
+[yes] Fuck that's making me so wet right now... too bad it's not gonna happen #Smile
+[no] Maybe that's for the best #Smile 
+@DifferentAnswer #YesOrNo
+I bet the sex would be great...
+@Flag(pvHasPartner) It wouldn't be fair to @Var[pthevNamePartner] though
+@Flag(pvPMEyes) Too bad you wouldn't last too long @Goto(would not last)
+I bet you could plow me all night long
+@CockSmall It wouldn't even be a problem that you have a tiny #Cock
+@CockLarge Stretching me out with your amazing cock #EmoteMoan
+Mmm imagine laying on top of me, my legs wrapped around your waist
+Thrusting your hard cock deep inside my pussy
+My soft moans in your ear, getting louder with each thrust
+#EmoteMoan
+I want to see how long you can last, #SubName
+I want to see if you've got what it takes to bring me to orgasm
+Grab your #Cock @Goto(give me ten strokes)
+@End
+(would not last)
+Come to think of it, #Name
+Do you really think you can be an alpha male and a premature ejaculator at the same time?
+[yes] It's kind of a contradiction in terms, #SubName
+[no] I don't think so either
+@DifferentAnswer #YesOrNo
+Let's test how far you can get... @Goto(give me ten strokes)
+@End
+(beta)
+#Edge @Edge
+#LetTheEdgeFade @CheckFlag(pvMod11B)
+@NotFlag(pvKneeling,pvWillNotKneel) Get down on your knees, beta boy @TempFlag(pvKneeling)
+Time to put you in your place @SetFlag(pvMod11B)
+@CockTorture You don't deserve to feel pleasure @CBTCock
+Your place in the world is on your knees before a beautiful goddess
+Your place is on the floor, serving me
+I want to test your endurance now, #PetName
+Who knows, maybe we'll find that you're not the little beta male you seem to be
+Maybe you'll turn out to the an alpha stud... probably not though #Laugh
+(give me ten strokes)
+Give me 10 fast strokes @EdgeMode(Goto,how did you do)
+That's just a warmup, no problem right? #Smile
+15 more fast ones, make sure to make them full up and down strokes
+@Flag(pvAlpha) Like you're pushing deep into my pussy
+@Flag(pvBeta) Don't wimp out by doing short strokes you barely feel
+@Flag(pvPMEyes) You're probably already having trouble keeping up #Laugh
+Don't forget to tell me when you're about to cum, I don't want any accidents
+We'll soon know what you're made of, #Name
+Give me 20 long, slow strokes with a tight grip
+@Flag(pvAlpha) Imagine its the muscles of my wet pussy clenching your cock
+@Flag(pvBeta) Squeeze your cock because you wish you could fuck me
+@Flag(pvAlpha) Look into my eyes and you can see how hungry I am for more
+@Flag(pvBeta) Squeeze harder because you know I have no use for you and your pathetic #Cock
+After the last stroke, I want you to keep your fingers tight around the base
+Get ready to jerk it hard and fast
+@Flag(pvAlpha) You do want to make me scream out your name, don't you? #Smile
+@Flag(pvBeta) Use all that frustration from being so useless to women
+Give me 50 strokes, as fast as you can, no stopping!
+Should be at least 2 full strokes per second, #Name
+Don't lose count #Laugh
+@Flag(pvAlpha) Can you feel my fingernails digging into your back... #EmoteMoan
+@Flag(pvBeta) When you have sex you're probably counting too #EmoteFlustered
+@Flag(pvBeta,pthevVirgin) Oh wait, you're still a virgin... #Lol
+Just let go of your #Cock when you've done all 50
+@Flag(pvAlpha) When you're stroking so fast, I can almost feel you inside me
+@Flag(pvAlpha) I think I <i>want</i> you inside me right now, #SubName #EmoteMoan
+@Flag(pvBeta) It's a bit boring to wait while you finish a set of strokes
+@Flag(pvBeta) But then again, that's probably how most girls feel around you #Laugh
+Give me 15 long, slow strokes now
+@Flag(pvAlpha) I'm not surprised that you've lasted this long, #SubName
+@Flag(pvBeta) I'm surprised that you've lasted this long, #SubName
+@Flag(pvAlpha) But it's not early enough to say it's good enough
+@Flag(pvBeta) Maybe you'll turn out to be a decent lover after all #EmoteWink
+It's time to get to the finishing line now, #PetName
+@Flag(pvAlpha) I'm getting close to orgasm, but can you push me over the edge?
+@Flag(pvAlpha) You cock still inside me, I can feel it throbbing
+@Flag(pvBeta) Who knows, maybe I'll let you fuck me if you can make it to the end
+Start stroking, one stroke per second... @MoodUp
+@Flag(pvAlpha) #EmoteMoan push it deep inside me, #SubName
+@Flag(pvBeta) Show me that you're worth it, #PetName
+@Flag(pvBeta) Show me that you're more than just a pathetic beta boy
+@Flag(pvAlpha) Prove to me that you can please me
+Mmm... that's good, keep going...
+@Flag(pvAlpha) "I'm getting close", I whisper as I grab your ass with both hands
+@Flag(pvAlpha) "Mmm yes, deeper #SubName, fuck me harder"
+@Flag(pvBeta) Hold back the cum, your future may depend on it, #PetName
+@Flag(pvBeta) If you get make me happy right now, maybe there's hope for you yet
+Faster now, two strokes per second... @MoodUp
+Don't you fucking dare to slow down now 
+@Flag(pvAlpha) Fuckkk yesss I think I'm gonna cum...
+@Flag(pvBeta) Keep going, you're doing great, #PetName
+@NullResponse
+@NullResponse
+@Flag(pvAlpha) Mmm please make me cum now #SubName I want it sooo bad
+@Flag(pvBeta) You're such a good #PetName for me right now
+Faster, three strokes per second now!
+@Flag(pvAlpha) Fuck me harder, #SubName #EmoteMoan
+@Flag(pvBeta) I don't think you're going to last long now #Smile
+@Flag(pvAlpha) @NullResponse
+@Flag(pvBeta) You're probably 
+Even faster, four strokes per second!
+@Flag(pvAlpha) Oooooh yessss
+@Flag(pvBeta) Look at that hand, it's just a blur now #Lol
+@Flag(pvAlpha) I'm gonna cum I'm gonna cum gonna CUM!!!
+@Flag(pvBeta) I have to admit, if you were fucking my pussy like that instead of your hand...
+@Flag(pvBeta) I'd be cumming like crazy right about now #Laugh
+Faster, #SubName
+As hard and fast as you can, do NOT fucking slow down!
+@Flag(pvAlpha) ...Oh...
+@Flag(pvAlpha) ...My...
+@Flag(pvAlpha) ...Fucking...
+@Flag(pvAlpha) ...God...
+@Flag(pvBeta) #Laugh
+@Flag(pvBeta) If only girls would actually have sex with you, right? #EmoteWink
+@Flag(pvBeta) Keep going, almost there...
+@NullResponse @EdgeMode(Normal)
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+@Flag(pvAlpha) Well, I didn't actually cum just now, of course #EmoteWink @Goto(worthy member)
+That was impressive, #PetName
+Did you surprise yourself just now?
+[yes] Maybe you have too low an opinion of yourself
+[no] Oh, well it's good to be confident #Smile
+@DifferentAnswer #YesOrNo
+Do you still think you're more of a beta than an alpha?
+[yes] I guess even a beta male can have a good day #Laugh
+[no] I think you might be right about that #Smile @DeleteFlag(pvBeta) @SetFlag(pvAlpha)
+@DifferentAnswer #YesOrNo
+Who knows, maybe someday we can get together and you can prove yourself for real
+Although the odds are that would turn into a massive disappointment
+The truth of course is, we'll never know
+And that's probably for the best
+@Flag(pvKneeling) Get up, #Name @DeleteFlag(pvKneeling)
+@NullResponse
+@End
+(worthy member)
+But still... that was impressive, #SubName
+You've proven yourself a worthy member of the Alpha team #Smile
+Who knows, maybe someday we can get together and you can prove it to me in person
+Although something tells me that if you got close to my naked body for real...
+...you wouldn't be so in control
+@End
+(how did you do)
+Just as I suspected... @MoodDown @CheckFlag(pvBeta,expected as much)
+You don't have what it takes to please a girl like me @MoodDown
+So do you still think of yourself as more alpha than beta?
+[yes] Right... well, if you need that little delusion to stay sane... @Goto(that delusion)
+[no] I don't think so either, beta boy @DeleteFlag(pvAlpha) @SetFlag(pvBeta)
+@DifferentAnswer #YesOrNo
+It's probably a good thing to have a realistic self image #Smile
+@End
+(that delusion)
+A realistic self image is probably a good thing, though...
+I guess it shows that I know you better than you know yourself
+And I suppose that has always been true #Smile
+@End
+(expected as much)
+You just don't have what it takes @MoodDown
+But we knew that already, didn't we?
+@Flag(pvKneeling) Get up, #Name @DeleteFlag(pvKneeling)
+The bottom line is, you're better off #JerkingOff to pictures
+@Flag(pthevVirgin) It's not that I think you should stay a virgin forever, #SubName
+@Flag(pthevVirgin) But you're going to have to improve a lot to have any chance of satisfying a girl
+At least you still have me to control your #Cock #Smile
+@End
+(pvMod11A)
+#Edge @Edge
+#LetTheEdgeFade
+I think it's about time...
+That you accepted that you prefer edging to cumming, don't you think?
+[yes] It was only a matter of time, #PetName #Smile
+[no] Maybe you're not quite there yet, but you will be, #PetName #Grin
+@DifferentAnswer #YesOrNo
+Given time and the right woman in charge...
+Any man will come to that conclusion eventually
+@End
+(pvMod11B)
+Oh my... @DeleteFlag(pvMod11B)
+How sensitive that #Cock becomes when it's being edged and denied
+Look at it twitch and throb #Giggles
+I want you to rub that sensitive spot right underneath the tip
+You know the one, where your foreskin is attached to that big purple head
+Rub it, but only with one finger @EdgeMode(Goto,one finger edge)
+Does that make that #Cock jump up a little?
+Does it coax out drops of precum when you touch it like that?
+If I were there, I'd tie you up and tease you like this for hours #Grin @Wait(10)
+Keep rubbing, #Name
+Do you know what I would like to see?
+I would like pre-cum starting to ooze out
+Not one drop at a time, but a continuous steam of thick goo
+Flowing from that achy #Cock until its completely drained
+That's what I would do to you if I were there, #PetName
+Would you like that? @Timeout(7,imagine that) 
+[yes] I think you underestimate how much it would start to hurt after a while
+[no] I didn't think so... not that I'd care of course
+@AcceptAnswer I guess it would feel good at first...
+(imagine that)
+Imagine one very long drawn out ruined orgasm
+The dull ache radiating across your pelvic region
+@Flag(av_fetish_cei) My laugh as I scoop up the cum from your belly and feed it to you
+Imagine how you would feel as leave you alone and tied up 
+While you recover from your ordeal
+Only to return and start all over again... #Smile @Wait(15)
+Has the river of pre-cum begun flowing yet, #Name?
+[yes] Mmmm oh yeah #Laugh
+[no] Hmm... @Goto(no river)
+@DifferentAnswer #YesOrNo
+Keep doing that, #PetName @MoodUp
+Make that #Cock leak like a broken faucet...
+Let me help you along with some pictures @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+@NullResponse @ShowLocalImage @Wait(#Random(5,10))
+Now grab that #Cock tight and start stroking
+Mmm so slippery and sensitive now, right? #Laugh
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(no river)
+Too bad I'm not there to make it happen @MoodDown
+Because I would definitely make that happen #Grin
+Stop touching
+@End
+(one finger edge)
+Wow... you must be really horny to be able to edge like that #Laugh
+That's how I like my #PetName
+Always hard and ready to ache for me
+@End

@@ -1,0 +1,139 @@
+@NullResponse @Goto(one,two,three,four)
+(one)
+Look at those feet #Smile @ShowTaggedImage @TagBodyFeet @LockImages
+Wouldn't love to suck her toes?
+I wouldn't mind you sucking on <i>my</i> toes, I can tell you that
+What is it about feet that makes them so sexy... @ShowTaggedImage @TagBodyFeet
+Is it the curve of the sole?
+The shape of the ankle?
+The way it flows into the lower part of the leg? @ShowTaggedImage @TagBodyLegs 
+Or maybe it's the fact that they can trample and walk all over you @ShowTaggedImage @TagBodyFeet
+That you have to kneel down to worship and kiss them
+Your face so close to the floor, where it belongs
+#Edge @Edge
+Maybe it's that they can hurt you like nothing else can @ShowTaggedImage @TagBodyFeet
+By stepping on your #Balls @ShowTaggedImage @TagBodyFeet
+@BallTorture Crushing them... #Grin @CBTBalls
+It's a funny thing, to be so enthralled by feet... @UnlockImages
+@End
+(two)
+Do you want to worship my feet, #Name?
+[yes] #Smile @MoodUp
+[no] Oh, really...? @MoodDown @Goto(oh really no foot worship)
+@DifferentAnswer #YesOrNo
+If you were here with me now I would have you massage them
+I'd be reading a book, or checking my messages, or calling with a friend
+And you'd be on your knees under my table, or in front of my couch
+Your hands gently kneading and rubbing every inch of my delicate feet
+No tickling, #PetName
+I am very ticklish so you'd have to be careful
+Or I'd have to punish you...
+Keep stroking that #Cock
+Think about how you would serve me as my foot slave
+@Flag(pvKneeling) You're already kneeling, so you're in the right position #Smile
+Many times at the end of the day I've thought about it
+Especially after walking around on high heels all day
+What I wouldn't give to have a foot slave then
+I would have you clean my dirty sweaty feet with your tongue
+And then I'd stuff my smelly socks into your mouth
+And rest my tired feet on your back as I unwind from my day
+You'd want that too, wouldn't you?
+[yes] If only you were here... #Giggles
+[no] Oh, really...? @MoodDown @Goto(oh really no foot worship)
+@DifferentAnswer #YesOrNo
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(oh really no foot worship)
+I find that hard to believe
+Stop stroking @StopStroking
+Do you think feet are sexy, #SubName?
+[yes] So, what you're saying is...
+[no] Oh, I thought you did... @DeleteFlag(pvFootFetishYes) @SetFlag(pvFootFetishNo) @Goto(never mind those feet then)
+@DifferentAnswer #YesOrNo
+You like feet, but not <i>my</i> feet...
+That's just...
+Is that what you are saying, #PetName?
+[yes] Holy shit @MoodWorst
+[no] You know what, it doesn't matter. I'm pissed off now anyway @MoodWorst
+@DifferentAnswer #YesOrNo
+I don't think you quite understand the implications of what you just said, #PetName
+But you will learn @Interrupt(pvInt_Punishment)
+@End
+(never mind those feet then)
+Never mind then #EmoteRandom
+@End
+(three)
+Stop stroking @StopStroking
+Aw, poor #PetName
+Stop and go, stop and go, on and on #Giggles
+Would you like to keep going?
+[yes] Okay you can touch it again
+[no] Too bad, start stroking again right now
+@DifferentAnswer #YesOrNo
+But I want you to stroke <i>very</i> slowly
+As slow as possible, just enough to keep your cock hard
+Let's play a game #Smile
+I'm going to show you some pictures
+Some will show you a pair of perky #Boobs, some a nice round #Ass
+And then occasionally I will show sexy feet
+Now, when you see #Boobs, you will let go of your #Cock immediately
+When you see a sexy #Ass, you may stroke at a very slow pace
+But when you see feet...
+You will have to try to get to the edge as fast as you can!
+When you edge, you win
+But don't forget: #Boobs means stop, #Ass means slow
+I'll make sure you won't get to the edge too easily #Grin @EdgeMode(Goto,edge for feet)
+Let's begin with a nice #Ass @ShowButtImage @LockImages
+So you can keep stroking slowly @SetVar[pvCFFfeetcount]=[0]
+You're never going to get to the edge like this
+So...
+Try to edge as fast as you can! @ShowTaggedImage @TagBodyFeet
+Stop @ShowBoobsImage
+Mmm nice #Boobs
+Too bad you're not allowed to #JerkOff to them
+(edge for feet loop)
+@NullResponse @Goto(see boobs,see butt,see feet)
+(see boobs)
+@RT(Sorry,No dice,Hands off,No Stroking,No luck this time,Those are some seriously nice breasts,Mmm I like that picture,Great boobs,No toes on those) @ShowBoobsImage
+@RT(You must be aching for feet,You must be desperate for some feet,An ass next would be nice,Here comes another pic,Maybe the next one) @Goto(another round of feet)
+(see butt)
+@RT(Nice ass,That is one gorgeous butt,Stroke slowly for this ass,Just slow strokes now,Not so easy to edge now is it,Slow down now,You should stroke even slower than that) @ShowButtImage
+@RT(Enjoy your slow strokes while you can,You can always pray for feet,Next one will probably be boobs) @Goto(another round of feet)
+(see feet)
+@RT(Oh yeah,Try to edge,Edge for those feet,Try not to cum all over those feet,Nice feet,Mmm yes,You can try to edge now) @ShowTaggedImage @TagBodyFeet @ChangeVar[pvCFFfeetcount]=[pvCFFfeetcount]+[1]
+@NullResponse @If[pvCFFfeetcount]=[5]Then(break feet loop)
+@NullResponse @Goto(see boobs,see feet)
+(another round of feet)
+@NullResponse @Goto(see boobs,see butt,see feet)
+(edge for feet)
+You won! #EmoteRandom @EdgeMode(Normal)
+Well good thing we didn't play for stakes @UnlockImages
+I'd have to make it a lot more difficult before we do that #Laugh
+I guess you just <i>really</i> like feet...
+@End
+(break feet loop)
+Stop stroking! @EdgeMode(Normal)
+Sorry, #SubName, but you lose and I win #EmoteHappy @UnlockImages
+Maybe next time we should play for stakes
+Like, if you lose you can't cum for a week #Grin
+We'll see...
+@End
+(four)
+I know you like feet, #SubName
+So let me ask you, if I'd let you edge to only one type of picture #GeneralTime
+And you had to choose either faces... @ShowTaggedImage @TagBodyFace @TagSoloF
+Or feet... @ShowTaggedImage @TagBodyFeet
+Which would you choose?
+[face,faces] Really? I thought you'd say feet...
+[foot,feet] #Laugh You're such a foot pervert
+@DifferentAnswer Face or foot?
+But anyway, you don't have to choose
+I'm just going to make you edge to both #EmoteHappy
+Mmmm gorgeous @ShowTaggedImage @TagBodyFace @SoloF @LockImages
+#Edge @EdgeHold
+#LetTheEdgeFade
+And now for some feet... @ShowTaggedImage @TagBodyFeet
+#Edge @EdgeHold
+#LetTheEdgeFade @UnlockImages
+@End

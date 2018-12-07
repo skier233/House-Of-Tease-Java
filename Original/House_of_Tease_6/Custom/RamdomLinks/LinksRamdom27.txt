@@ -1,0 +1,135 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link27_NotFirstTime)
+@NullResponse @SetVar[AV_Link27]=[0] 
+@NullResponse @SetFlag(AV_Link27_NotFirstTime)
+(AV_Link27_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link27]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link27]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link27]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link27]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link27]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link27]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link27]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link27]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link27]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link27]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link27]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link27]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link27]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link27]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link27]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link27]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link27]=[AV_Link27]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link27]=[AV_Link27]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link27]=[AV_Link27]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link27]=[AV_Link27]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link27]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Grab your #Balls
+squeeze and keep holding them like that. @Wait(12)
+Do you remember who they belong to?  @Timeout(5, xxxcedw4)
+[yes] Hmm...so, who? @LoopAnswer
+[you, mistress, domme, yours] #GoodBoy @Goto(ke450m)
+[no] @NullResponse
+@DifferentAnswer #YesorNo
+(xxxcedw4)
+Let me help you this one time
+the answer I'm waiting for is
+'They belong to you Miss, for your pleasure not my own'.
+Write it now.
+[They, belong, Miss, pleasure] Correct
+@DifferentAnswer It's not correct, #SubName, try again
+(ke450m)
+Good, that's better, now... 
+Let's put my property to work.
+#StartStroking @StartStroking
+@End
+(Link2)
+Take one hand, slowly, oh so slowly, run the palm up your leg towards your balls @Wait(10)
+that's it, now, slowly run it over your balls
+Are they full and aching for me?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoNeutral)
+Squeeze them, slowly
+yes, like that.
+Run your hand over them
+feeling all of them
+your fingers caressing them
+feeling the shape of them
+squeezing them.
+Let it go...
+#StartStroking @StartStroking
+@End
+(Link3)
+You do not need to think, you are mine
+your cock and balls are mine
+all you need to do is listen and obey @Chance50(Opt2)
+do you think you can do that from now on? @ResponseYes(AV_YesNeutral) @ResponseNo(AV_NoNeutral)
+@NullResponse @Goto(Opt3)
+(Opt2)
+do you think you can do that from now on? 
+[yes] Excellent, a good obedient slave is always a delight.
+[no] Don't test my limits, #PetName @CBT @MoodDown
+@DifferentAnswer #YesorNo #SubName? 
+(Opt3)
+#StartStroking @StartStroking
+@End
+(Link4)
+#SubName, who owns you?
+[you] Yes, that's right, my property.
+@DifferentAnswer Let's try that again, who owns you? @MoodDown
+You are mine now
+and to be even more specific, your cock, your balls, they belong to ME now.
+@Flag(AV_TotalControl) Only I say when and how they are used
+I allow you to look after them for me, and that is all you are allowed to do.
+@Flag(AV_TotalControl) You do NOT... EVER... play with them on your own
+is that understood?
+[you, yes] #GoodBoy
+@DifferentAnswer Who owns your #Cock? @MoodDown
+You will do everything when and how I say so, no questions, delay or refusal.
+Is that clear? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad)
+#StartStroking @StartStroking
+@End

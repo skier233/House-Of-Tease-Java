@@ -1,0 +1,473 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGames5_NotFirstTime)
+@NullResponse @SetVar[AV_ModGames5]=[0] 
+@NullResponse @SetFlag(AV_ModGames5_NotFirstTime)
+(AV_ModGames5_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGames5]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGames5]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGames5]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGames5]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGames5]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGames5]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGames5]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGames5]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGames5]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGames5]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGames5]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGames5]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGames5]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGames5]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGames5]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGames5]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGames5]=[AV_ModGames5]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGames5]=[AV_ModGames5]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGames5]=[AV_ModGames5]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGames5]=[AV_ModGames5]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGames5]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+Now you will feel my full control 
+as I instruct you how to stroke, edging over and over 
+Feel yourself become putty in my hands the more you obey every command 
+Don't you dare touch your #Cock until I give your permission. 
+I want you to cup your balls and lightly massage them. 
+I need you filled with cum and ready to go at all times. 
+Don't you feel violated you filthy little prick? @Timeout(5, AV_Timeo402)
+[yes] I love violating you
+[no] We need to change that...
+@AcceptAnswer @NullResponse
+(AV_Timeo402)
+I'm in your thoughts, and I just proved I can make you do anything I want. 
+Doesn't this feel uneasy for you? 
+Are your balls swollen for me?  @ResponseYes(Blue Balls) @ResponseNo(AV_NoNeutral)
+All that cum ready to go? I need more. 
+You're going to edge for me. 
+Start jerking, not too fast but not too slowly either.  @PlayAudio[tease\cStroke.mp3] 
+Find a nice moderate speed. 
+I want you too look down at your filthy cock as you stroke it. 
+I don't want you to pretend it's a beautiful woman's hand, or her mouth, or her pussy. 
+It's your own hand, #PetName. 
+Speed up. 
+Pump faster and faster. 
+Feel your swollen balls fill even more.
+Jerk your cock. 
+Faster, faster faster.
+Stop. Drop it.  @PlayAudio[tease\cStop.mp3] 
+Look down at it throb on your stomach. 
+Your precum is leaking out the tip. 
+Play with your balls again. 
+Just ever so lightly let your fingers slide over your skin.
+Look at your aching cock. 
+It wants to cum so badly. 
+There's a little pool of precum on your stomach. 
+@Flag(av_fetish_cei) I want you to get as much on your fingers as you can. 
+@Flag(av_fetish_cei) Squeeze you dick a little if you have to.
+@Flag(av_fetish_cei) I want you to taste yourself. 
+@Flag(av_fetish_cei) Taste how slutty you are. 
+@Flag(av_fetish_rough) You're my dirty little fuck toy. 
+Time to edge again fuck toy.  @PlayAudio[tease\cStroke.mp3] 
+Jerk fast. 
+Get to that edge as fast as you can, relax for ten seconds, and then get right back up there. 
+Over and over again. 
+Picture my naked body kneeling and straddling you as you jerk. 
+Keep edging for me. 
+Keep repeating that cycle. 
+Watch me slide my hand down my tight stomach. 
+Each finger traces a line from my tits across my skin. 
+@RT(I trace a circle around my tight belly button, Your eyes dart south watching me run my hands over my hips and my upper thighs, Imagine me spreading the lips of my pussy for you to see inside, Imagine me lowering myself. Closer so your tip is grazing my warm soft vagina)
+@Flag(av_fetish_pain) Slap yourself while you jerk. 
+@Flag(av_fetish_pain) Fucking slap your face you nasty slut. 
+@Flag(av_fetish_pain) Tell me the pain feels good. 
+@Flag(av_fetish_pain) Once again, slap. 
+Now, I'm going to count down from 10 and then you can stop edging and relax again. 
+While I'm counting, I want your eyes to look all over my amazing body 
+and I want to hear you tell me how much you want to fuck me. 
+10
+9
+8
+7
+6
+now come on. I know you want me more than that. 
+@Flag(av_fetish_rough) I know you're a real nasty pervert. 
+Tell me what you would do to my naked body. 
+5
+4
+3
+2
+1
+Stop. @PlayAudio[tease\cStop.mp3] 
+Your balls must really fuck hurt right now. 
+Beg me to let you cum. 
+What if I said no? 
+Beg me again. 
+I want you to look like the pathetic little shit you are.
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+Oh boy do I have a great idea. 
+Yes, you have to follow my directions without hesitation. 
+I hope you're not expecting this to be easy for you'
+@Flag(av_fetish_rough) You are a special kind of pervert. 
+You like it when I talk directly to you. 
+You would give up your free will for some fleeting pleasure. 
+You are so vulnerable like this. 
+@Flag(av_fetish_rough) Pathetic. You are no man. 
+You are my toy.
+Before we go on, I need to be sure I have control. 
+Raise one hand and lightly pinch your nipple. 
+Twist. 
+That's not very hard #PetName. 
+Twist it until you feel some pain. 
+That's better, hold it. 
+How is your breathing? How is your heart beat? 
+Getting faster? 
+#StartStroking @PlayAudio[tease\cStroke.mp3] 
+Twist a little more and pinch a little harder, until you moan.  
+As your heart beats faster, think about all that blood rushing to your dick. 
+Fill it up for me. 
+I need a big, hard, throbbing toy to play with. 
+Let go of your nipple and do the same to the other. 
+Pinch hard and roll it between your fingers. 
+Thats right you #PetName. 
+You want your pleasure and pain mixed. 
+Stand up straight, work through he pain. 
+Think about how you humiliated you look right now. 
+You're naked, in your own room and pinching yourself 
+#StopStroking
+I want you to drop to your knees
+bend over and hold yourself up with one had while you keep twisting your nipple with the other. 
+Think about what you look like right now. 
+@Flag(av_fetish_rough) How pathetic. You are a fucking #Slave. 
+Relax. 
+Now that we both know how far you'll go for me, lets begin. 
+I want you up on your knees now. 
+Keep one hand at your side and pinch your nipple again with the other. 
+Harder than before. 
+So hard you can't keep your eyes open
+Do it you #PetName. Beg me to let you stop. 
+@Flag(av_fetish_rough) Louder you worthless shit or this goes on all night! 
+Good. 
+Now put your ass up and start #Stroking  @PlayAudio[tease\cStroke.mp3] 
+Faster 
+I want you back to the edge. 
+Once you get there slow down to keep yourself there. 
+I want you riding this edge until I tell you to stop. 
+You know I'm watching you in this pathetic position from the screen. 
+I make you anxious. 
+I make your jerk harder. 
+@Flag(av_fetish_pain) I want you to slap yourself with your other hand while your jerk now. 
+@Flag(av_fetish_pain) fucking slap your ass 
+@Flag(av_fetish_pain) That's it? 
+@Flag(av_fetish_pain) Again, much harder. 
+@Flag(av_fetish_pain) Wind up and do it again! 
+@Flag(av_fetish_pain) Harder you bitch! Good. 
+Hey, now don't forget about your edge, you're getting close
+and I can't have you cum when I'm only half done with you. 
+@Flag(av_fetish_pain) Switch hands and slap your other ass cheek. 
+@Flag(av_fetish_pain) Again. 
+@Flag(av_fetish_pain) Good. 
+@Flag(av_fetish_pain) One more time. 
+@Flag(av_fetish_pain) Switch back to your dominant hand on your dick.
+Are you at your edge again? 
+I don't care if the fastest you can stroke is once every 10 seconds to keep from cumming
+I want you on that edge
+and I want you to stay there without cumming. 
+Imagine me lying right behind you. 
+Jerk and moan for me. 
+@RT(You can feel my breath on you neck. You can feel me nibble your ear, You can feel me press my breasts against your back. My hard nipples are poking into your skin) 
+I'm moaning softly. My hips thrust against your tender ass and you feel my legs open up as I run my foot up and down your calf. 
+My firm tits feel so good pressed between us. 
+My wet clit is grinding against your ass. 
+Oops, is that not helping you? haha. 
+You're barely stroking anymore you're so close! 
+#StopStroking
+Relax
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+I've been thinking about some things lately #SubName
+a lot of things
+dirty things I'd like to do to you
+maybe you could carry out some of that stuff now on yourself
+Just to satisfy this urge of mine
+Gently slide your hands down your legs, and start rubbing your thighs... 
+Make your way up to your #Balls. 
+Look at me, as you cup your balls with your left hand for me, hold them tight
+Using your right hand, I want you to gently start teasing that cock for me. 
+Take your index finger, and place it gently on your peehole #EmoteFace 
+Move your finger in a circular flow it at the tip of your cock and run it up and down the length of your shaft... 
+Keep playing with your balls for me. squeeze them. 
+Pull them forward. Pull them backwards. 
+Start rubbing your cock with the palm of your hand. 
+Feel how soft it is. 
+How good it must be for me, to have that inside of me. 
+You're being a very obedient boy, I'm very proud of you. 
+I want you to wrap that handf yours around your cock, and start stroking it gently. @PlayAudio[tease\cStroke.mp3] 
+With your other hand, I want you to start rubbing your stomach gently
+and applying pressure on it
+Stroke your cock a bit faster for me now. 
+I'm gonna need to you edge for me. 
+I want to see that pre-cum build up... 
+go faster... 
+I'll be edging with you. 
+I want to see you stroke it faster for me. 
+Yes, just like that... 
+I can feel my nipples getting hard #EmoteMoan
+Now take your hands off of your cock, stop stroking... @PlayAudio[tease\cStop.mp3] 
+Oh wow... 
+I can see a bit of pre-cum on the tip, all the way from here. 
+That pre-cum of yours looks tasty 
+Have you... have you ever tried tasting your own pre-cum babe? @Timeout(5, AV_Timeo15)
+[yes] #Lol
+[no] Aww... @Goto(AV_Timeo15)
+@AcceptAnswer @NullResponse
+Do you want to eat your cum for me #SubName? @ResponseYes(WantToEatMyCum) @ResponseNo(AV_NoNeutral) 
+(AV_Timeo15)
+I don't think so
+@NotFlag(av_fetish_cei) @NullResponse @Goto(AV_NoCEI)
+Squeeze it out, squeeze it well, get it all out.... 
+Take your index finger, and wipe it all up. 
+Bring your finger up to your mouth, and suck on it... 
+Enjoy the taste baby, savor it... 
+how does it feel? 
+Squeeze out another drop, wipe it with your finger, and taste it again' 
+I knew you'd like it #Lol. 
+I really love how pre-cum tastes like, I'm glad you do too.
+(AV_NoCEI)
+Tonight you're going to do everything I tell you #SubName
+and you're going to be a good little boy for me. 
+It's time to change positions. 
+Get on your knees for me. 
+Start rubbing that cock, stroke it gently.  @PlayAudio[tease\cStroke.mp3] 
+I want you to take your left hand, and start caressing your left buttcheek. 
+Yes, rub it. Cup on it. Pull it. 
+@Flag(av_fetish_pain) Slap that butt for me #EmoteLaugh... 
+@Flag(av_fetish_pain) oh wow, do it once more, for me #PetName
+I love that, continue playing with your cock
+@Flag(av_fetish_pain) and spank that ass a third and final time... 
+@Flag(av_fetish_pain) no, no, not a girly slap
+@Flag(av_fetish_pain) I want that final one to really sting, slap it like a real man would...
+Oh god, this turns me on so much 
+Stay like this, now put your left hand back on your balls
+and play with them a bit... 
+you can almost predict what we will do next #EmoteLaugh
+yes
+Spread these legs good, let your big balls dangle for me. 
+Continue rubbing your cock. 
+With your left hand, I want you to... spank them.. 
+Do that with me #PetName
+1.. @PlayAudio[tease\whip.mp3] 
+2..  @PlayAudio[tease\whip.mp3] 
+oh yeah, do that once more for me  @PlayAudio[tease\whip.mp3] 
+oh yes baby, once more please, do it for me  @PlayAudio[tease\whip.mp3] 
+1.. @PlayAudio[tease\whip.mp3] 
+2..  @PlayAudio[tease\whip.mp3] 
+That felt so good... 
+@Flag(av_fetish_pain) Your ass and balls still feeling a bit sore? 
+I hope you liked it as much as I did
+Relax babe
+Spread your legs a bit
+and wrap your hand around that nice big cock of yours. 
+Slowly start to #Stroking up and down for me.  @PlayAudio[tease\cStroke.mp3]
+Fiddle with your balls using your other hand. 
+Tug on them. 
+No, don't go too fast, I don't want you to cum just yet. 
+I want you to edge a second time for me. 
+So stroke it faster
+Yes, go faster for me... 
+stroke it faster ... 
+get right on the edge @EdgeNoHold
+I love seeing you shaking like that, your cock twitching. 
+@NotFlag(av_fetish_cei) @NullResponse @Goto(AV_NoCEI2)
+Uhmmm
+I can see so much pre-cum. 
+Squeeze your cock baby, and wipe it all up with your finger. 
+Taste it, as I taste my pussy juice
+Squeeze it again, even harder, from the base up till the shaft, milk your pre-cum out... 
+Lick it all up again. 
+I told you it tastes good #Lol
+(AV_NoCEI2)
+Relax
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+#GeneralTime, you're mine #PetName. 
+I'm going to own you and your cock
+Rub that cock lightly for me...  @PlayAudio[tease\cStroke.mp3] 
+slowly... no, slower, lighter. 
+The fun is not over yet... 
+You're going to be my dirty little boy, #SubName.  
+Start rubbing those balls... 
+#GeneralTime you are doing everything I say, right? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+I want you to bring your knees up closer to you 
+so I can see your...
+your down side... 
+I love that view... 
+Move your left hand slightly downwards for me
+mmm yeah, rub that area just under your balls. 
+Put pressure onto it 
+Does it feel good? 
+Feeling your finger rubbing around so close to that...
+sensitive spot of yours. 
+Continue #Stroking that #Cock for me. 
+Slowly, gently...
+@Flag(AV_LikeAnal) @NullResponse @Goto(AV_SimAnal5)
+@NullResponse @Goto(AV_NoAnal5)
+(AV_SimAnal5)
+I've been fantasizing about this one thing for a while now  
+Your ass
+First, stop rubbing that cock.  @PlayAudio[tease\cStop.mp3] 
+And follow my steps. 
+Ok then, get some lube, and we'll take this slowly  
+Are you ready to start? 
+[yes, ready, done] Alright #Grin
+[no] Well you should be if you are back on your computer... 
+@AcceptAnswer Yes or no #SubName?
+don't touch your hole yet #PetName
+I just want you to do circles around it with your middle finger
+lightly, slowly, rub around it... 
+Yes, now start making your circles smaller... 
+and smaller...
+Yes #EmoteMoan, 
+lightly touch the outer edge of your asshole #PetName
+Continue doing circles  
+You can look at me if you want
+Start stroking your cock gently with your other hand.  @PlayAudio[tease\cStroke.mp3] 
+Continue massaging that asshole of yours #PetName. 
+It's sensitive isn't it. 
+Your cock is so hard, continue rubbing it gently. 
+Focus the sensations on that asshole of yours
+Mmm yeah, I love watching you being obedient to me. 
+Doing what I've always fantasized you'd do... 
+Stop rubbing your cock.  @PlayAudio[tease\cStop.mp3] 
+Keep that finger right where it is. 
+I want you to slowly apply pressure on your asshole with that finger. 
+Yes, now release the pressure. 
+Apply pressure once again... 
+now release. 
+Relax your muscles #SubName
+Take that finger, and I want you to very slowly feel your anus spreading open. 
+Let the tip enter a bit
+push your finger inside your asshole #EmoteMoan
+it feels so good. 
+Now stop, take it out... @Wait(10)
+Again, slowly start spreading your anal lips with that finger for me. 
+Relax  allow yourself to moan #PetName. 
+I want to hear your delicious sounds. 
+Now take it back out. 
+Relax, and moan for me... 
+Push it back in. 
+Don't take it out this time
+@RT(instead slowly force that finger deeper inside, Feeling good? Go deeper for me, yes)
+@RT(Feel the pleasure #PetName, focus on that asshole, I want you to feel everything inside #PetName)
+Take your finger all the way up in your tight little asshole. 
+All the way in #PetName, 
+yes, do it with me, do it for me. 
+yeah just like that
+@RT(Wiggle that finger inside... shake it... try to get as deep as you can, wiggle them around feels good to feel your asshole stretch around your fingers doesn't it?)
+I bet that feels good, doesn't it? 
+You're such a dirty little boy for me #lol  
+take your finger out, then force it back all the way in. 
+Do that again. 
+Take it out... and back in 
+Out and back in 
+Out and back in #EmoteMoan
+Grab your cock start stroking it again.  @PlayAudio[tease\cStroke.mp3] 
+Be careful, it's more sensitive now, I don't want you to burst just yet
+While you're stroking, let's take that finger out gently
+and slowly push it back in again. 
+Wiggle that finger inside of you for me #PetName
+just a little bit while its inside your hot little asshole. 
+That finger starting to feel good inside of you?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoNeutral) 
+I hope it is
+Let's make this more pleasurable... 
+Slowly take that finger out of your ass. 
+Keep rubbing your cock slowly for me. 
+Cover your finger in spit. 
+Get it nice and wet for me. 
+Now take it,  and start rubbing the outside of your asshole again. 
+Don't be afraid to go back for more of that natural lube.
+Get it all nice and wet for me #PetName
+and keep stroking your cock nice and slow. 
+Now gently take that finger back up inside you
+all the way up in your ass, nice and slow... 
+then out... 
+now back in... 
+Feels better babe? 
+You like using your spit for lube? 
+Good boy. 
+Now I want you to fuck your asshole for me... 
+You heard me. 
+Finger, and fuck your ass at the same time you stroking your cock. 
+@RT(Start sliding them in and out of your tight little asshole, Pull your finger all the way out and then slowly put it all the way back in)
+Out. 
+And In. 
+Out. 
+In and Out. 
+It's so hot to see you fingering your ass like this. 
+@RT(Mmm yeah #PetName you want this don't you?, You like fucking your own ass for me?)
+Fucking your ass while you rub your cock? 
+Such a dirty little boy, but you are being awfully good. 
+I'm impressed. It looks like you're enjoying this a lot, which makes me even more happy. 
+I want you to see you rub your cock faster for me #PetName. 
+Faster for me while you start fucking your asshole. 
+Yes there's a good, dirty little boy. 
+Fucking your ass for me while you rub yourself so hard. 
+Harder #PetName harder. 
+Keep fucking that little asshole for me
+Oh #PetName its so hot, I love it  
+No, don't cum yet, stop rubbing your cock. 
+Stop.  @PlayAudio[tease\cStop.mp3]
+Stop it. 
+@Flag(av_fetish_cei) Ok, squeeze out that pre-cum for it, and taste it again... 
+@Flag(av_fetish_cei) you're starting to really like it now, I know #Lol
+Take your fingers out of your ass #PetName, 
+Go clean yourself @Wait(20)
+(AV_NoAnal5)
+Relax
+@End

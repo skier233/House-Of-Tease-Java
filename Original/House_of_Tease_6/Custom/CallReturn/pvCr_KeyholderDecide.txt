@@ -1,0 +1,90 @@
+@InChastity @NullResponse @Goto(sub in chastity)
+@NullResponse @Goto(firstKHD,secondKHD,thirdKHD,fourthKHD,fifthKHD)
+(firstKHD)
+Now, #Name...
+@RT(There is something you need to do,I want you to do something) for me
+Go get your chastity cage
+And put it on #Smile
+@RT(You will wear it,It stays on) until I @RT(decide,say) otherwise, #PetName
+No more #JerkingOff for you
+You do that way too much anyway...
+Are you ready?
+[yes,ready,done,finished] Good
+[no] Let me know when you are ready, #PetName @LoopAnswer
+@DifferentAnswer #YesOrNo
+Don't you feel much better when you're caged? #Grin @ChastityOn
+@End
+(secondKHD)
+I'm so happy you made me your keyholder, #Name
+I just love saying what I'm about to say to you...
+Go put on your chastity belt #Smile
+@RT(You will wear it,It stays on) until I @RT(decide,say) @RT(it comes off,otherwise), #PetName
+You can take it off to clean your junk, obviously
+But you should put it back on immediately afterwards
+And no sneaky jerk off sessions in the shower! #Laugh
+I know you'll be a good #PetName for me #Smile
+Are you ready?
+[yes,ready,done,finished] Good
+[no] Let me know when you are ready, #PetName @LoopAnswer
+@DifferentAnswer #YesOrNo
+Don't you feel much better when you're caged? #Grin @ChastityOn
+Now I can be sure that you won't be #JerkingOff when I log off
+@End
+(thirdKHD)
+I don't think you'll need to put the chastity belt #GeneralTime
+Sometimes it's good to let those erections come and go #EmoteWink
+@End
+(fourthKHD)
+About that chastity device you have...
+Hmmm #Grin
+Nah, let's leave that #Cock unlocked now, #Name
+@End
+(fifthKHD)
+No need to put that #Cock in its cage now
+I think you'll be able to control yourself just fine without it
+@End
+(sub in chastity)
+@NullResponse @Goto(oneKHD,twoKHD,threeKHD,fourKHD,fiveKHD)
+(oneKHD)
+Since you're still in that chastity device
+We don't have to worry about whether or not you get to cum #GeneralTime
+You're just #Gonna have to keep that #Cock locked up for me
+And <i>hope</i> I let you out next time #Grin
+@End
+(twoKHD)
+That #Cock stays in its cage #GeneralTime
+@RT(You will wear it,It stays on,It stays that way,You will keep it there) until I @RT(decide,say) otherwise, #PetName
+@End
+(threeKHD)
+I want you to unlock your #Cock now, #Name
+Let me know when you're ready to continue
+[ready,done,finished] Good
+[yes,okay] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Let me know when you're ready
+You must be glad to be free again #Smile @ChastityOff
+It needs its freedom sometimes #Smile
+@End
+(fourKHD)
+Alright... 
+Let that #Cock out of its cage #PetName
+Tell me when you're ready
+[ready,done,finished] Good
+[yes,okay] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Let me know when you're ready
+You must be glad to be free again #Smile @ChastityOff
+What do you say, #PetName?
+[thank,thanks,merci,gracias,grateful,gratitude] You're welcome #Smile
+@AcceptAnswer Just "thank you" will do...
+You see, I can be nice when I want to be #Laugh
+@End
+(fiveKHD)
+About that #Cock in its @RT(little cage,chastity cage,chastity belt,cage,tiny enclosure)...
+Let me know when you're ready to continue
+[ready,done,finished] Hmmm
+[yes,okay] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Let me know when you're ready
+That's much better isn't it? #Smile @ChastityOff
+@End

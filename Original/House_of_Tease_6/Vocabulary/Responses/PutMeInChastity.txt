@@ -1,0 +1,42 @@
+[cage my, cage me, lock me, put me in chastity, lock up my]
+[Before Tease]
+Already asking to be put in chastity? Do you doubt your self control that much? #Lol @TempFlag(pvPutMeInChastity_1) @ResponseYes(pvRs_PMIC)
+[Before Tease End]
+[First Round]
+Already asking to be put in chastity? Do you doubt your self control that much? #Lol @TempFlag(pvPutMeInChastity_1) @ResponseYes(pvRs_PMIC)
+[First Round End]
+[Stroking]
+@NotFlag(pvPutMeInChastity_1) Aww the teasing is getting to you it seems #Grin @TempFlag(pvPutMeInChastity_1)
+@NotFlag(pvPutMeInChastity_1) Afraid you won't be able to hold back much longer? @TempFlag(pvPutMeInChastity_1)
+@Flag(pvPutMeInChastity_1) There's no  harm it that I suppose @Interrupt(pvIn_IntoChastity)
+@Flag(pvPutMeInChastity_1) If you insist... @Interrupt(pvIn_IntoChastity)
+[Stroking End]
+[Not Stroking]
+Not now #PetName
+[Not Stroking End]
+[Edging]
+That will not save you from this edge #PetName #Grin
+[Edging End]
+[Holding The Edge]
+Do you think that would make me stop? #Lol
+You know you're aching bad when you're asking for chastity #Laugh @ResponseYes(Im Aching)
+#OhNo I'm having way too much fun with this
+[Holding The Edge End]
+[CBT Cock]
+Oh, it hurts so much you'd rather have me lock you up... Good! #Grin
+#OhNo I'm having way too much fun #Laugh
+[CBT Cock End]
+[CBT Balls]
+Oh, it hurts so much you'd rather have me lock you up... Good! #Grin
+#OhNo I'm having way too much fun #Laugh
+[CBT Balls End]
+[After Tease]
+Not now #PetName
+[After Tease End]
+[Chastity]
+@HasChastity Aren't you already caged #PetName? You should be...
+@DoesNotHaveChastity If you get a device, I'll tell you to put it on
+[Chastity End]
+[After Tease]
+Maybe next time
+[After Tease End]

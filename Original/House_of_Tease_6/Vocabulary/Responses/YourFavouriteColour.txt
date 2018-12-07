@@ -1,0 +1,6 @@
+[your favorite color,your favourite colour]
+[All]
+@NotFlag(pvColourAsked) Blue, as in: your #Balls #Laugh @TempFlag(pvColourAsked)
+@NotFlag(pvColourAsked) I like blue balls, red welts and purple cocks @TempFlag(pvColourAsked)
+@Flag(pvColourAsked) Didn't you already ask me this?
+[All End]

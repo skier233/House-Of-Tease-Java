@@ -1,0 +1,26 @@
+@Stroking #StopStroking @StopStroking
+@NullResponse @MoodWorst
+@Contact1 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact1
+@Contact2 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact2
+@Contact3 Let me be very clear, #SubName
+@Contact3 I'm not as lenient as #DomName
+@Contact3 You don't get to choose what you do or not, what I say goes
+@Contact3 If you're not comfortable with that, then I have no use for you
+@Contact3 So, can you promise that you will do whatever I say from now on?
+[yes] @Contact3 Good, that's settled then
+[no] @Contact3 Oh... you should have said so earlier, to save us both the trouble @Goto(said no)
+@DifferentAnswer @Contact3 Yes or no?
+@Contact3 Make sure you're ready to do whatever I say next time
+@Contact3 He's all yours #ShortName, I don't feel like playing anymore right now
+Alright, #Contact3
+@Contact3 Please punish him for me though, okay?
+Will do #Grin @RemoveContact3
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(said no)
+@Contact3 I guess he's all yours then, #ShortName
+Alright, #Contact3 @DeleteFlag(pvContact3RoughYes)
+@Contact3 Please punish him for me though, okay?
+Will do #Grin @RemoveContact3
+@NullResponse @Interrupt(pvInt_Punishment)
+@End

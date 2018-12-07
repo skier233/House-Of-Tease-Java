@@ -1,0 +1,83 @@
+(Start)
+@Contact3 #Var[AV_Fapioh]
+Fapioh Game @SetVar[AV_Fapioh]=[0] 
+@Contact3 #Var[AV_Fapioh]
+@NullResponse @Chance50(GlitterImage)
+(FapiohImage)
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1] 
+@NullResponse @Goto(FapiohRamdom)
+(FapiohBack)
+@NullResponse @If[AV_Fapioh]>[10]Then(GameFinished)
+@NullResponse @Chance50(SpecialImage)
+@NullResponse @Goto(GlitterImage)
+(SpecialImage)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1]
+@NullResponse @Goto(SpecialRamdom)
+(SpecialBack)
+@NullResponse @If[AV_Fapioh]>[14]Then(GameFinished)
+@NullResponse @Chance30(Video)
+@NullResponse @Goto(FapiohImage)
+(GlitterImage)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1] 
+@NullResponse @Goto(GlitterRamdom)
+(GlitterBack)
+@NullResponse @If[AV_Fapioh]>[12]Then(GameFinished)
+@NullResponse @Chance50(SpecialImage)
+@NullResponse @Goto(Video)
+(Video)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1] 
+@NullResponse @Goto(VideoRamdom)
+(VideohBack)
+@NullResponse @If[AV_Fapioh]>[15]Then(GameFinished)
+@NullResponse @Chance50(FapiohImage)
+@NullResponse @Goto(GlitterImage)
+(GameFinished)
+You made it!
+Pretty interesting game, I think
+@End
+(FapiohRamdom)
+@NullResponse #AV_Fapioh @Wait(20)
+@NullResponse @Goto(FapiohBack)
+(SpecialRamdom)
+@NullResponse @Goto(S1, S2, S3)
+(S1)
+@Flag(AV_Know_00) #Stroke for #Var[AV_Persona01] @RapidTextOn
+@NullResponse #AV_CelebPics @Wait(15) #AV_AudioBeat @RapidTextOff
+@NullResponse @Goto(SpecialBack)
+(S2)
+@Flag(AV_Know_01) #Stroke for #Var[AV_Persona02] @RapidTextOn
+@NullResponse #AV_SingerPics @Wait(15) #AV_AudioBeat @RapidTextOff
+@NullResponse @Goto(SpecialBack)
+(S3)
+@Flag(AV_Know_12) #Stroke for #Var[AV_Persona13] @RapidTextOn
+@NullResponse #AV_CrushPics @Wait(15) #AV_AudioBeat @RapidTextOff
+@NullResponse @Goto(SpecialBack)
+(GlitterRamdom)
+@NullResponse @Goto(G1, G2, G3)
+(G1)
+@Contact1 #Stroke for me #AV_AudioBeat
+@NullResponse @Goto(GlitterBack)
+(G2)
+@Contact2 #Stroke for me #AV_AudioBeat
+@NullResponse @Goto(GlitterBack)
+(G3)
+@Contact3 #Stroke for me #AV_AudioBeat
+@NullResponse @Goto(GlitterBack)
+(VideoRamdom)
+#Stroke to the beat @PlayAvoidTheEdge
+#StopStroking @Goto(VideohBack)
+(AntiBUG)
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+----------------------------------------------------
+@End

@@ -1,0 +1,8 @@
+@NullResponse @CheckFlag(AV_SubKnees)
+You know what? I think I want my pet on his knees. 
+#KneelForMe #PetName @SetFlag(AV_SubKnees)
+Stay there till I say to sit
+@End
+(AV_SubKnees)
+Just stay on your knees #PetName
+@End

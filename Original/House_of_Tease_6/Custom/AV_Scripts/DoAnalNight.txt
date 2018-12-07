@@ -1,0 +1,52 @@
+@RT(Anal time!, fuck time...for me #Lol, time to fuck your ass, how about we put your ass to the test?, I think it's time to give your ass hole some attention)
+@RT(Make sure you get that dildo nice and lubed, Now get your asspussy wet, Lube up your dildo and your butt) @RT(because you know where it is going next, I want you to get that dildo in there, and prepare to be fucked). @Wait(30)
+@RT(Stand and bend over the desk, put your legs over the table...open it) @Wait(15)
+@Flag(AV_DommeMistress, av_fetish_rough) @NullResponse @FollowUp30(Oh, that's right you little bitch, prepare to take the whole thing up your ass)
+Good boy. @RT(Now find a way to get that lubed dildo into your ass, Place the tip against your butt...Now slide the dildo into your butt, Slide it into your once tight little ass hole). @Wait(20)
+@RT(Go on and force that diddo into your ass, Can you feel it filling your most private hole?, I wan't it to go all the way in, Now I want you to moan loudly while you insert more of it in, Keep on going until your dildo is all filled up) 
+Fuck your ass following the beat @PlayAudio[tease\beats\b055.mp3] 
+@RT(Nice and slow, Ugh. Does that feel good #Slave? I bet it does, mmmm, that's right,, take it all, Do you feel it stretching you?)
+@Flag(AV_DommeMistress, av_fetish_rough) @RT(That's a tiny little asshole you have,, let's make it bigger, You look so pathetic with a dildo up your ass, You're nothing more than my slave and I can do whatever I want to you). 
+Stop for now @PlayAudio[tease\cStop.mp3]
+@NullResponse @RapidCodeOn
+@NotFlag(av_fetish_pain) @NullResponse @Goto(SkipDor)
+@Flag(AV_DommeMistress) @NullResponse @Chance30(SkipDor)
+@NotFlag(AV_DommeMistress) @NullResponse @Chance50(SkipDor)
+I want you to put 2 clothespins on your nipples and #Random(3, 5) on your #Balls @Wait(30)
+(SkipDor)
+@NullResponse @Chance50(NoAudioFuck)
+@RT(Back to fucking, start fucking yourself again) 
+@SystemMessage #DomName turned on the mic @PlayAudio[tease\commands\Fuck*.mp3]
+@NullResponse @Goto(AudioGoHere)
+(NoAudioFuck)
+@RT(Back to fucking, start fucking yourself again) @PlayAudio[tease\beats\b055.mp3] 
+@RT(fuck yourself in a slow pace, yeah thats it, I wan't it to go all the way out and then all the way back in, exactly! like that)
+(AudioGoHere)
+Do you think you can @RT(go, fuck) faster?
+[yes] #Great @TempFlag(av_75) @Goto(075)  
+[no] It's #Okay #SubName @TempFlag(av_55) @Goto(055)
+@DifferentAnswer #YesorNo #SubName?
+(055)
+@NullResponse @PlayAudio[tease\beats\b055.mp3] 
+@NullResponse @Goto(Fase1)
+(075)
+@NullResponse @PlayAudio[tease\beats\b075.mp3] 
+(Fase1)
+@NullResponse @Chance30(NoStrokingYet)
+#StartStroking @TempFlag(av_Stroking)
+at the same speed.
+(NoStrokingYet)
+@RT(I wan't you to moan through every thrust, yeah,, keep going like that,, all the way out and ram it back in, relentlessly fucking your sorry ass, Imagine me with a strap on and im fucking you, I want you to moan while I fuck you). 
+@Flag(av_75) @NullResponse @PlayAudio[tease\beats\b075.mp3] 
+@Flag(av_55) @NullResponse @PlayAudio[tease\beats\b055.mp3] 
+@NotFlag(av_Stroking) #StartStroking 
+@RT(Good boy, Brutalize your little ass for me, Wow it feels so good doesn't it?)
+@Chance50(NoEdge)
+@EdgeNoHold #Edge
+@NullResponse @Goto(End)
+#StopStroking
+(End)
+@NullResponse @DeleteFlag(av_55, av_75, av_Stroking)
+@RT(You made me very happy, I'm proud of you, We're just getting into a groove here) #SubName #EmoteHappy
+You can remove everything, clean yourself and sit down....you have 1 minute to recover @Wait(60)
+@End

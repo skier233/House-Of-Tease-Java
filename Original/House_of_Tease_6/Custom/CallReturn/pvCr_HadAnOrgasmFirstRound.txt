@@ -1,0 +1,10 @@
+@Stroking #StopStroking @StopStroking @MoodWorst
+So, hold on... did you have an orgasm just now or earlier?
+[now] Oh wow... and we only just got started!! #Lol @Goto(just now)
+[earlier] Oh #Name...
+@DifferentAnswer Now or earlier?
+@NullResponse @Call(Custom/CallFromLink/pvHadOrgasmStart.txt)
+@End
+(just now)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_HadAnOrgasm.txt,first round)
+@End

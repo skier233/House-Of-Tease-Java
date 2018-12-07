@@ -1,0 +1,155 @@
+I know how bad you want to cum #SubName
+@AllowsOrgasm(Always) I think it's time we did something about that
+@AllowsOrgasm(Never) @Goto(Never Cums)
+@AllowsOrgasm(Always, Never, Not) Maybe you'll get lucky #GeneralTime
+@NullResponse @RapidCodeOn @DecideOrgasm
+(Orgasm Allow)
+@AllowsOrgasm(Always) Get that #Cock to the edge so I can make it cum for me #Grin @Edge
+@AllowsOrgasm(Always, Not) Get that #Cock to the edge and let's find out #Grin @Edge
+@NullResponse @YesMode(Goto, Allow Yes) @NoMode(Goto, Allow No) @CameMode(Goto, Allow Came) @RuinedMode(Goto, Allow Ruined) @Wait(15)
+(Allow Cum Loop)
+@RandomText(Cum for me, Hurry and cum for me, I want you to explode, Give me that cum, I want all that cum, Cum for me #SubName, Give me that cum #SubName, I want that cum #PetName, Make it feel so good for me) @Wait(20) @Goto(Allow Cum Loop)
+(Allow Yes)
+Good #PetName @Goto(Allow Cum Loop)
+(Allow No)
+<i>No?</i> @RapidTextOn
+Hands off right now @RapidTextOff
+Since you apparently don't <i>want</i> to cum @RapidTextOn
+You just lost your chance to #GeneralTime @RapidTextOff
+@AllowsOrgasm(Not, Rarely) In fact...
+@AllowsOrgasm(Not, Rarely) I think I'm going to be a little less generous with your orgasms from now on @DecreaseOrgasmChance
+You should always think twice before telling me no #SubName
+But <i>especially</i> when I just said you could cum #EmoteFlustered
+Now put your #Cock away, we're done for #GeneralTime
+Maybe next time I tell you to cum, things will go a little better for you
+@AllowsOrgasm(Not, Always) If there <i>is</i> a next time #Grin
+@NullResponse @Goto(Log Off)
+(Allow Came)
+@SystemMessage #DomName smiles
+Just relax and let all that pleasure wash over you
+@AllowsOrgasm(Always) I really do spoil you #Lol
+@AllowsOrgasm(Always) But I love knowing how much pleasure I can make you feel
+@AllowsOrgasm(Not, Always) I really do like building you up and denying you
+@AllowsOrgasm(Not, Always) But I love knowing how much pleasure I can make you feel too
+So just enjoy how good I am to you
+While you can, anyway...
+Next time I see you, I'm going to build you up even more
+Make the ache even more intense
+@AllowsOrgasm(Always) Let's just say you're gonna be <i>grateful</i> when I finally let you explode #Grin
+@AllowsOrgasm(Not, Always) And you just better pray I'm feeling as generous as I was #GeneralTime #Grin
+Something to think about until then #EmoteHappy @Goto(Log Off)
+(Allow Ruined)
+What the fuck, did you really just ruin it?
+[yes] Wow @Goto(Allowed but Ruined)
+[no] You're very confusing #SubName #EmoteFlustered
+@DifferentAnswer Yes or no #PetName?
+Well whatever happened...
+I hope you enjoyed it at least
+I had fun with you #GeneralTime
+Even if the ending was a little anticlimactic...
+It wasn't supposed to be! #Lol
+Maybe next time you cum for me things will go a little better
+Gotta run for now, I'll see you then #PetName @Goto(Log Off)
+(Allowed but Ruined)
+That's actually kind of funny
+@AllowsOrgasm(Rarely) I finally let you cum...
+@AllowsOrgasm(Not, Rarely) I let you cum...
+And you just ruin it #Lol
+Well, since you apparently don't like feeling pleasure as much as I thought you did
+@RuinsOrgasm(Rarely, Sometimes, Not) I won't feel bad about the orgasm you just gave up #Grin
+@RuinsOrgasm(Rarely, Sometimes) I'll just start ruining you more often #Grin @IncreaseRuinChance
+You're going to be a lot achier #GeneralTime than when we started
+At least it's not my fault this time #Lol
+But hey
+Next time you come online, I promise to do something about it
+I promise to make it worse #Grin @Goto(Log Off)
+(Orgasm Deny)
+Get that #Cock to the edge and let's find out #Grin @Edge
+@NullResponse @CameMode(Goto, Deny Came) @RuinedMode(Goto, Deny Ruined) @Wait(10)
+Poor #SubName
+I made you <i>so</i> desperate to cum #GeneralTime
+And you don't even get to
+I would feel sorry for you
+If it just didn't turn me on so much #Grin
+I'll be thinking about how much you're suffering for me
+And how much I can't wait to make you start suffering all over again next time I see you #Grin
+Bye for now #PetName @Goto(Log Off)
+(Deny Came)
+@EmoteMessage #DomName sighs
+I'm very disappointed that you didn't have better control #SubName
+But I guess I really should take it as a compliment
+I'm just so sexy it's impossible for you to hold back #Grin
+Just promise me you'll do better next time #PetName
+You're going to have to
+Because I have to be so much meaner next time to make up for your accident #Lol
+Something to think about until you see me again #SubName
+@EmoteMessage #DomName grins @Goto(Log Off)
+(Deny Ruined)
+Well damn, I didn't want you to cum at all #GeneralTime @RapidTextOn
+But...
+I am very pleased that you let go when you felt yourself going over @RapidTextOff
+I appreciate you showing that kind of control for me
+But not as much as appreciate how much worse your ache's gonna be now #Grin
+Oh well, that's your own fault #SubName
+But the ache you're going to feel the <i>next</i> time we meet...
+That will all be entirely on me #Grin @Goto(Log Off)
+(Orgasm Ruin)
+Get that #Cock to the edge and let's find out #Grin @Edge
+@NullResponse @YesMode(Goto, Ruin Yes) @NoMode(Goto, Ruin No) @CameMode(Goto, Ruin Came) @RuinedMode(Goto, Ruin Ruined) @Wait(15)
+(Ruin Loop)
+@RandomText(Ruin it for me, Hurry and ruin it for me, I want you fucking ruined, Ruin that orgasm for me, Ruin it for me #SubName, I don't want you to feel any pleasure, I want that #Cock ruined, Make it suffer for me) @Wait(20) @Goto(Ruin Loop)
+(Ruin Yes)
+Good #PetName, sacrifice this pleasure for me @Goto(Ruin Loop)
+(Ruin No)
+Don't fucking tell me no @RapidTextOn
+You ruin that fucking orgasm right now #PetName @RapidTextOff @Goto(Ruin Loop)
+(Ruin Came)
+@EmoteMessage #DomName sighs
+Your self control is pitiful #SubName
+I know I drive you so crazy you can't stand it
+I know that makes it hard for you to hold back
+But that's the whole point
+Holding back for me, suffering for me
+That's what brings me pleasure
+You do want to bring me pleasure right?
+[yes] Of course you do
+[no] Whatever #SubName #EmoteFlustered @Goto(Log Off)
+@DifferentAnswer Yes or no #SubName?
+So just try harder next time
+Because I am damn sure going to <i>make</i> it harder next time #Grin
+Something to think about until then #PetName @Goto(Log Off)
+(Ruin Ruined)
+I fucking love it
+Knowing how close you were to feeling <i>all</i> that pleasure
+Until it was snatched away from you at the last second
+And instead of that incredible explosion
+It just oozes out with little pathetic drips
+You're going to have to live with this ache #SubName
+At least until you see me again
+That's when I'll take all that ache away from you
+And replace it with something even worse #Grin
+Have fun until then #PetName @Goto(Log Off)
+(Never Cums)
+But you never actually get to, do you?
+[yes] You fucking wish #Lol
+[no] That's right
+@AcceptAnswer @EmoteMessage #DomName smirks
+@NullResponse @RapidCodeOn @Chance50(Never Cum - Put It Away)
+But I will let you give me one last edge before I go
+So wrap your hand around that #Cock for me one last time #GeneralTime
+And get to the edge @Edge
+(Never Cum - Put It Away)
+Now take that #Cock and put it away
+I'm done with it #GeneralTime
+Next time we play I'm sure the worlds will be different
+The pictures...
+The games...
+The stroking and the edging will all be unique experiences...
+But the one thing that will never change is your frustration
+At least not for the better #Grin
+Something to think about while you're aching for me #GeneralTime
+Bye for now #SubName #Grin
+(Log Off)
+@SystemMessage #DomName has logged off @EndTease
+@End
+@Info End script that shows off the Mode-related Commands. Written by 1885.

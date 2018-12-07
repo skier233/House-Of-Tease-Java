@@ -1,0 +1,18 @@
+#StopStroking @StopStroking
+Ohh, you #Want for me to deny you #Name?
+[yes] #Smile
+[no] #Smile @Goto(1No,2No)
+@DifferentAnswer #YesorNo
+Mmm, I like the sound of that #Smile @RestrictOrgasm
+Why don't you just keep those #Hands away from #That #Cock
+Let's let the #Ache build up a #Little more #Smile 
+@End 
+(1No)
+Mmm, you shouldn't have said anything then #Name
+Now I don't think I'm going to let you #Stroke #Yourself anymore #Smile
+Keep those #Hands off #Yourself #Smile 
+@End
+(2No)
+Mmm, you should be careful asking me things like that #Smile
+I might take them to heart #Smile
+@End 

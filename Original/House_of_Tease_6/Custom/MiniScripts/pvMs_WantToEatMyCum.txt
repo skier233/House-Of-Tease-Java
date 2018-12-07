@@ -1,0 +1,66 @@
+@NullResponse @ChangeVar[pthevBegForCEI]=[pthevBegForCEI]+[1]
+@NullResponse @CheckFlag(av_fetish_cei)
+@NullResponse @CheckFlag(pthevCEI_No)
+You want to eat your cum?
+[yes] So that's something you're into...
+[no] Then don't waste my time talking about it @Goto(waste my time)
+@NullResponse #YesOrNo
+I'll keep it in mind #Subname @SetFlag(av_fetish_cei) @Goto(maybe today)
+@End
+(av_fetish_cei)
+@NullResponse @If[pthevBegForCEI]=[1]Then(Yes First)
+@NullResponse @If[pthevBegForCEI]=[2]Then(Yes Second)
+@NullResponse @If[pthevBegForCEI]=[3]Then(Yes Third)
+@NullResponse @If[pthevBegForCEI]>[3]Then(Yes Fourth)
+(Yes First)
+I know #PetName
+You'll just have to wait and see #Smile
+@End
+(Yes Second)
+You already said so #SubName stop bothering me
+I'll decide when we get there
+It certainly doesn't improve your chances to nag about it
+@End
+(Yes Third)
+You think if you keep asking you'll get what you want?
+[yes] That's not how it works #Name
+[no] You're right about that #Laugh
+@DifferentAnswer #YesOrNo
+So you can just stop asking
+@End
+(Yes Fourth)
+Shut up #PetName @CBTBalls
+I told you to stop nagging about it
+@Flag(pthevGlitterIntroduced) @NullResponse @Glitter(pvGL_CEIMs01)
+@End
+(pthevCEI_No)
+I thought you didn't like that #SubName
+Did you change your mind?
+[yes] That's interesting, I'll keep it in mind @DeleteFlag(pthevCEI_No) @SetFlag(av_fetish_cei)
+[no] Then don't waste my time talking about it @Goto(waste my time)
+@DifferentAnswer Do you want to eat your own cum, yes or no?
+(maybe today)
+Maybe I'll let you lick it up #GeneralTime
+@NullResponse @GotoDommeOrgasm
+(Never Allows)
+Although that would mean you get to cum
+And we both know that's not going to happen
+@End
+(Rarely Allows)
+Although that would mean you get to cum, which is pretty unlikely
+But you never know, stranger things have happened #Smile
+@End
+(Sometimes Allows)
+You have to cum first of course
+And I haven't made my mind up about that yet, #PetName #Grin
+@End
+(Often Allows)
+That would at least solve the problem of cleaning up
+In case you get to cum today
+@End
+(Always Allows)
+That would at least solve the problem of cleaning up #Laugh
+@End
+(waste my time)
+Think before you type, #Name
+@End

@@ -1,0 +1,11 @@
+[All]
+#Odd
+#IKnow
+#Lovingly
+#EmoteSurprised
+#OfCourse 
+#IKnow
+#EmoteSmile
+#EmoteHappy
+uh-hu
+[All End]

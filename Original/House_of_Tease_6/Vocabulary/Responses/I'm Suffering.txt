@@ -1,0 +1,93 @@
+[I'm suffering so much, you're making me suffer, your making me suffer, suffer, suffers, suffered, suffering]
+[First Round]
+Just think how much more you'll be suffering when I'm done with you #GeneralTime #EmoteRandom
+And we've only just begun #EmoteRandom
+Suffering already? Oh this is going to be fun #EmoteRandom
+Already? This should be pretty fun then #EmoteRandom
+You just started! #EmoteRandom
+I'm only getting started making you suffer #EmoteRandom
+It only gets worse from here #PetName #EmoteRandom
+[First Round End]
+[Stroking]
+@NotFlag(AV_Short27) @NullResponse @CallReturn(Custom\Shorts\Short27.txt)
+@NotFlag(AV_Short28) @NullResponse @CallReturn(Custom\Shorts\Short28.txt)
+@NotFlag(AV_Short30) @NullResponse @CallReturn(Custom\Shorts\Short30.txt)
+You were <i>made</i> to suffer for me #PetName
+You haven't even begun to suffer yet #EmoteRandom
+Your suffering gives me so much pleasure
+That turns me on so much #EmoteRandom
+I <i>want</i> you to suffer #EmoteRandom
+You are shaking..what's the matter #PetName? @CallReturn(Custom\Shorts\Short19.txt)
+Good, keep suffering for me #PetName
+You're going to keep suffering for me #PetName #EmoteRandom
+That #Cock better get used to it #PetName #EmoteRandom
+@Crazy You think <i>this</i> is suffering? Don't make me laugh #EmoteRandom
+@Crazy Keep that up and I'll show that #Cock <i>real</i> suffering #EmoteRandom
+@Flag(AV_DommeMistress) You think <i>this</i> is suffering? Don't make me laugh #EmoteRandom
+@Flag(AV_DommeMistress) Keep that up and I'll show that #Cock <i>real</i> suffering #EmoteRandom
+@Flag(AV_DommeMistress) You think <i>this</i> is suffering? Don't make me laugh #EmoteRandom @CallReturn(Custom\AV_Scripts\Kneel.txt)
+@BadMood You think <i>this</i> is suffering? Don't make me laugh #EmoteRandom @CallReturn(Custom\AV_Scripts\Kneel.txt)
+[Stroking End]
+[Not Stroking]
+@Flag(av_intera_001) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_002) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_009) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_010) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_004) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_005) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_006) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_007) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_011) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_008) @NullResponse @CallReturn(Custom\Interact\AV_Gen03.txt)
+@Flag(av_intera_003) @NullResponse @CallReturn(Custom\Interact\AV_Gen04.txt)
+@Flag(av_intera_012) @NullResponse @CallReturn(Custom\Interact\AV_Gen04.txt)
+@Flag(av_intera_013) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_015) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_016) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_017) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_018) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_019) @NullResponse @CallReturn(Custom\Interact\AV_EdgeInter.txt)
+@NotFlag(av_intera_001, av_intera_002, av_intera_003, av_intera_004, av_intera_005, av_intera_006, av_intera_007, av_intera_008, av_intera_009, av_intera_010, av_intera_011, av_intera_012, av_intera_013, av_intera_014, av_intera_015, av_intera_016, av_intera_017, av_intera_018, av_intera_019) @NullResponse
+[Not Stroking End]
+[Edging]
+Get closer so you can suffer even more #EmoteRandom
+I like the thought of you suffering for me #PetName. Get closer #EmoteRandom
+Get closer and I'll show you want suffering's all about #EmoteRandom
+Get closer and I'll show you what <i>real</i> suffering is #EmoteRandom
+You'll be suffering even more when you hit that edge #EmoteRandom
+@Flag(AV_DommeMistress) You'll be suffering even more @CallReturn(Custom\AV_Scripts\Kneel.txt)
+@BadMood You'll be suffering even more @CallReturn(Custom\AV_Scripts\Kneel.txt)
+[Edging End]
+[Holding The Edge]
+Why do you think I"m making you hold it like this? #EmoteRandom
+Of course you're suffering, that's the whole point of holding the edge for me #EmoteRandom
+I would feel sorry for you, but I'm having so much fun making you hold it #EmoteRandom
+Good, stay right there and suffer even more for me #PetName #EmoteRandom
+[Holding The Edge End]
+[CBT Cock]
+@NotFlag(AV_Short27) @NullResponse @CallReturn(Custom\Shorts\Short27.txt)
+@NotFlag(AV_Short28) @NullResponse @CallReturn(Custom\Shorts\Short28.txt)
+@NotFlag(AV_Short30) @NullResponse @CallReturn(Custom\Shorts\Short30.txt)
+I want that #Cock to suffer a little for me
+You should have known what I was going to do to that #Cock when you put it in my hands #EmoteRandom
+Good #EmoteRandom
+Am I supposed to feel sorry for that #Cock? #EmoteRandom
+That #Cock was made to suffer for me #EmoteRandom
+I just want to #Hurt that #Cock a little bit, I promise #EmoteRandom
+I just want to #Hurt that #Cock a little bit #EmoteRandom
+[CBT Cock End]
+[CBT Balls]
+@NotFlag(AV_Short27) @NullResponse @CallReturn(Custom\Shorts\Short27.txt)
+@NotFlag(AV_Short30) @NullResponse @CallReturn(Custom\Shorts\Short30.txt)
+Those #Balls were made to suffer for me #EmoteRandom
+Good, let's make them suffer even more #EmoteRandom
+Your #Balls aren't suffering enough for me yet though #EmoteRandom
+Good #EmoteRandom
+Relax, I just want to #Hurt those #Balls a little bit #EmoteRandom
+Relax, I just want to #Hurt those #Balls a little bit, I promise #EmoteRandom
+[CBT Balls End]
+[After Tease]
+You'll be suffering even more the next time I get my hands on you #EmoteRandom
+That's exactly how I wanted you to feel when we were done #GeneralTime #EmoteRandom
+Good, keep that feeling safe in your #Cock and think of me while you're gone #EmoteRandom
+[After Tease End]

@@ -1,0 +1,25 @@
+[All]
+Yes?
+@Flag(AV_WantCumQuest, av_fetish_pain) Yes? @TempFlag(av_YesWasBad) @CallReturn(Custom\CallReturn\AV_PunishRND.txt)
+Yes? @MoodDown
+Yes?
+yes? @MoodDown
+Really?
+Really? @MoodDown
+Aww... @MoodDown
+Aww... 
+#IDisagree
+Aww...
+#IDisagree 
+#IDisagree @MoodDown
+Well, I dont care #Lol
+I dont care #Lol
+#OhNo
+Well, I dont care #Lol
+I dont care #Lol
+#OhNo
+Just #Surrender, #SubName
+Just #Surrender, #PetName
+Just #Surrender, #PetName  @MoodDown
+@Flag(AV_WantCumQuest, av_fetish_pain) Oh #PetName @TempFlag(av_YesWasBad) @CallReturn(Custom\CallReturn\AV_PunishRND.txt)
+[All End]

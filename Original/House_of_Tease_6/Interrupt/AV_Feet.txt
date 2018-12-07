@@ -1,0 +1,18 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+#PetName  @Chance50(part2)
+Better get your tongue to work and clean this mess off my shoes. @ShowTaggedImage @TagBodyFeet
+I expect them to be spotless. 
+@End
+(part2)
+#StartStroking
+** #DomName turned on the mic ** @PlayAudio[tease\SeSp\foot02.mp3]
+ @Wait(15)
+ @Wait(13)
+ @Wait(15)
+ @Wait(15)
+** #DomName turned off the mic **
+#StopStroking
+@End

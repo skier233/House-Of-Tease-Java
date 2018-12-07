@@ -1,0 +1,258 @@
+@NullResponse @CheckFlag(ERS)
+@NullResponse @CheckFlag(ERWon)
+@NullResponse @CheckFlag(ERWon2)
+Ohh no, #SubName... You came?
+[yes] @NullResponse @Goto(OpiateNPC-LOxClean)
+[no] Ohh, I'm relieved... I must have misunderstood you #Smile @Goto(Cancel)
+@DifferentAnswer #YesorNo
+(OpiateNPC-LOxClean)
+@NullResponse @DeleteFlag(OpiateLOC)
+@NullResponse @DeleteFlag(OpiateLOR)
+@NullResponse @DeleteFlag(OpiateLOD)
+#SubName, did you ruin it?
+[yes] Good. As you should have @Goto(OpiateSetNPR)
+[no] Ohh #SubName, that doesn't make me very happy
+@DifferentAnswer #YesorNo
+It makes me <i>so</i> mad when you don't #Surrender to me too
+I have to punish you now #NameBM
+I don't like to actually punish you #NameBM
+But if I disobeyed you, I would want you to punish me
+I would want to kneel in front of you and #Surrender
+But, I won't <i>make</i> you kneel #NameBM
+You have to <i>want</i> to kneel for me
+So, do you want to kneel for me? 
+[yes] #EmoteSmile @Goto(OpiateNPC-CBT)
+[no] #EmoteFaceTF @Goto(OpiateNPC-SetLSNK)
+@DifferentAnswer #YesorNo
+(OpiateSetNPR)
+That makes me feel a little bit better about it, #SubName @SetFlag(OpiateNPR)
+But you know, that if you ever want to ruin an orgasm
+#EmoteLaugh Just ask #Name
+I always thought that ruining an orgasm was even more frustrating than denying it
+But I can't look the other way #Name
+But since you ruined it, I'll try not to go too hard on you
+Will you kneel for me #Name?
+[yes] #EmoteSmile @Goto(OpiateNPC-CBT)
+[no] #EmoteFaceTF @Goto(OpiateNPC-SetLSNK)
+@DifferentAnswer #YesorNo
+@EndTease
+@End 
+(OpiateNPC-SetLSNK)
+Well #Name, If you won't kneel for me @DeleteFlag(OpiateLSNK)
+Then I believe I shall just have to wait until you are @SetFlag(OpiateLSNK)
+It's the only way that <b>I...</b>
+Am going to tell you that <b>I...</b>
+Want to play with you again...
+I'll be waiting...
+** #DomName has logged off **
+@EndTease
+@End
+(OpiateNPC-CBT)
+Then kneel for me #NameBM
+That you will kneel for me, in and of itself, shows me how dedicated you are to me #Name
+Spread your legs open wide, and kneel for me
+I want you to feel how exposed you are to me
+I want you to feel how exposed your cock and balls are
+I want you to realize just how easy they are to reach @CheckFlag(OpiateNPR)
+Because I'm not sure which I'm going to make hurt worse
+But you will #Surrender to my will
+And you will #Hurt them, until I think you've earned that orgasm that you took from me
+@NullResponse @CBT
+Now #Name... I want you to remember this @SetFlag(OpiateLSK)
+CBT is so much worse after you've came <i>without permission</i>
+And coming is <i>so much</i> more fulfilling
+When I'm <i>begging you to come for me</i>
+Instead of like this...
+Because now, the only thing left for me to do
+Is to leave you with this ache
+To let you think about what you've done
+And the consequences of doing it
+Next time <i>you need to come</i>, I hope you will remember this #Name
+I hope you will have more self control #Name
+Now, I want you to keep your hands off of #Yourself
+Until <i>I tell you to put them back</i> 
+Until then, #SubName, <i>be good</i> 
+** #DomName has logged off **
+@EndTease
+@End
+(OpiateNPR)
+And I want you to tell me babe
+Do you think you deserve to be punished?
+Because I don't think you do
+I think you ruined that orgasm because you really didn't want to have it
+But don't lie to me, #TellMe
+Should I punish you?
+[yes] #EmoteRandom @Goto(OpiateNPR-NSE)
+[no] *smiles at you*
+@DifferentAnswer #YesorNo
+Let me ask you another question then #Smile
+Are you done for right now?
+Or do you think you still have it in you to let me play with you?
+[yes] #EmoteRandom
+[no] #Smile @Goto(OpiateNPR-Done)
+[done] #Smile @Goto(OpiateNPR-Done)
+[play] #EmoteRandom
+@DifferentAnswer #YesorNo
+I'm so glad to hear that #Smile
+That makes me really #Happy #Name
+Let me see then, how can we get you worked back up #Smile @Interrupt(NPRContinue)
+@End
+(OpiateNPR-Done)
+I understand #Name
+I'll let you go then, you probably need to go clean yourself up #Smile
+I'll be waiting to hear from you again #Smile
+Hopefully you won't make me wait too long #Smile
+But, I'll be looking forward to #Teasing you again #Smile
+Bye bye #Name
+@EndTease
+@End
+(OpiateNPR-NSE)
+I appreciate your honesty #SubName
+And since you were honest with me
+I'm going to be lenient with you
+And since you ruined your orgasm, I know you're going to be #Aching for me
+So when you say hi to me next time, I #Want for you to get close to edging
+And if for any reason I am not available, you will just have to deny yourself
+But if I'm available, I'm going to make you hold that edge for me #Smile @SetFlag(OpiateNSE)
+And then I'll decide just how much I think you should #Ache for me before I let you come again #Smile
+I think that sounds fair, and #SubName
+You're not allowed to stroke yourself <i>at all</i> until tomorrow #Smile
+And you're not allowed to actually edge until <b>I</b> tell you to #Smile
+So, I'm going to let you go now, and I'll let you go get yourself cleaned up
+I'll be waiting to hear from you, and I hope it's a frustrating wait for you #Smile
+Bye bye #Name
+@EndTease
+@End
+(OpiateLSNK)
+#SubName
+Last time we played
+You came without my permission
+And then refused to kneel for me
+That really hurt me, #SubName
+Are you here to make that up to me
+Or are you hear to rub it in some more?
+[make, to make, to make it, to make it up]
+[kneel, to kneel, ill kneel, i'll kneel, to kneel for you, ill kneel for you, i'll kneel for you]
+[sorry, im sorry, i'm sorry]
+[no] #SubName... @Goto(OpiateLSNK-Fail)
+@DifferentAnswer Ohh, #Subname... I'm just not sure that's what I want to hear from you care to try again, #SubName, or?
+@AcceptAnswer #EmoteSmile @Goto(OpiateLSNK-Pass)
+(OpiateLSNK-Fail)
+** #DomName has disconnected **
+@EndTease
+@End
+(OpiateLSNK-Pass)
+That's a step in the right direction, #SubName
+But don't think for a moment I've forgotten about your insubordination @DommeLevelUp
+Because I haven't @DommeLevelUp
+Now <i>kneel</i>
+Kneel for me #NameBM
+Kneeling for me, in and of itself, brings you one step closer to being back in my graces #Name
+So spread your legs open wide, and kneel for me
+I want you to feel how exposed you are to me
+I want you to feel how exposed your cock and balls are
+I want you to realize just how easy they are to reach
+Because I'm not sure which I'm going to make hurt worse
+But you will #Surrender to my will
+And you will #Hurt them, until I think you've earned that orgasm that you took from me @CBT
+#EmoteThought
+If you had done this <i>when I had originally asked</i>
+Maybe I would be satisfied, but...
+You didn't 
+And I'm not satisfied @CBT
+Now #Name... I want you to remember this @DeleteFlag(OpiateLSNK)
+Next time <i>you need to come</i>, I hope you will remember this 
+And I hope you will have more self control #Name
+Because now, the only thing that I can responsibly do
+Is leave you with this ache,
+To let you think about what you've done
+While I try to forgive you for running away from me
+So, if I was to give you any advice #Name
+I would keep your hands off of #Yourself
+Until <i>I tell you to put them back</i>
+Until then, #SubName, <i>be good</i> 
+** #DomName has disconnected **
+@EndTease
+@End
+(ERS)
+#EmoteHer You're ruining it right?
+[yes] #EmoteSmile Good boy @Goto(ERLost)
+[no] ... @DeleteFlag(ERS)
+@DifferentAnswer #YesorNo
+@NullResponse @SetFlag(ERLost) @Interrupt(OpiateNPC)
+(ERLost)
+@NullResponse @DeleteFlag(ERS)
+@NullResponse @DeleteFlag(OpiateLOD)
+@NullResponse @DeleteFlag(OpiateLOR)
+@NullResponse @DeleteFlag(OpiateLOC)
+@NullResponse @SetFlag(ERLost) @Interrupt(ERLosses)
+@End
+(ERWon)
+come for me #NameGM @SetFlag(ERWon2) @DeleteFlag(ERWon)
+Beating me at Edge Roulette earned you this orgasm
+@NullResponse @DeleteFlag(OpiateLOD)
+@NullResponse @DeleteFlag(OpiateLOR)
+Let me know when your done #Smile
+[come, coming, came, come, coming, comeing, done, finished, thanks]
+@AcceptAnswer #EmoteHer
+I still wish you could have held out for me #Name
+But I'm not mad
+You earned that orgasm #Name
+But, #SubName, since you just came on me with no warning
+Will you do something for me
+Will you stay with me while I come too? #EmoteSmile
+[yes] #EmoteMoan @Goto(ERWonB)
+[no] Ohh, I'll remember this, #SubNamee
+@DifferentAnswer #YesorNo
+I don't even know what to say, #SubName @SetFlag(OpiateCSD)
+I'm going to go give the mirror a show #Name
+<b>Fuck Off</b>
+** #DomName has logged off **
+@EndTease @End
+(ERWonB)
+Since I'm not actually there with you
+I want you to load up a video of me
+One where I get to come in the end
+If you don't have a video of me, just...
+#EmoteMoan Find a video OF SOMEONE and get it started for me
+#EmoteSmile Watch me, or her, or whatever
+Watch me come #Name, I want you to watch me come @Wait(240)
+I'm done #Name... if you don't see this until after your video's finished
+Message me later, I still owe you another orgasm #Smile
+And of course we'll have <i>a lot</i> of fun giving it to you #Smile
+Thank you for a wonderful night! #Smile
+I need a shower now #EmoteLaugh
+Bye, bye #SubName
+@EndTease
+@End 
+(ERWon2)
+#Smile come #NameGM @DeleteFlag(ERWon2)
+Enjoy every second of it
+@NullResponse @DeleteFlag(OpiateLOD)
+@NullResponse @DeleteFlag(OpiateLOR)
+Let me know when your finished #NameGM
+[come, coming, came, come, coming, comeing, done, finished, thanks]
+@AcceptAnswer #EmoteHer
+I still wish you could have held out for me #Name
+But, you earned two orgasms when you beat me at Edge Roulette #Smile
+And that was your last one #Smile
+#EmoteRandom Now I can get back to denying you
+And next time, I can guarantee that's what I'm going to do @SetFlag(OpiateCSD)
+Hopefully knowing that will make you #Ache a #Little bit while your #Thinking about it #Smile
+#GeneralTime I think I am not going to come, I want you #Thinking about that too
+I want you #Thinking about #How I'm #Aching right now
+I want you #Thinking about all the ways I'm going to have you #Aching
+Because tomorrow, I'm going to bring you back into a world of #Ache
+And like I said, I'm going to leave you there for a little while #Smile
+#Smile I'll be looking forward to hearing from you #Name
+I hope #GeneralTime was fun for you #Name
+Go get yourself cleaned up #Smile
+I'm going to go take a cold shower and #Squirm for the rest of #GeneralTime #Smile
+Bye bye, <i>for now</i> #Name #Smile
+@EndTease
+@End 
+(Cancel)
+Well, I'll get back to what I was doing then #Smile
+But since you scared me like that, you're not allowed to #Touch #Yourself anymore 
+Keep your #Hands away from #That #Cock
+@End 

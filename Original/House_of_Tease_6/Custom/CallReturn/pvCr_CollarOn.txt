@@ -1,0 +1,10 @@
+@Stroking #StopStroking @StopStroking
+@RT(Go get,Take out,Go fetch) your collar @Wait(8)
+@RT(Put it on,Put it around your neck) like a good @RT(puppy,pet,little doggy,slave)
+@RT(I want you,You need) to feel @RT(properly owned,very submissive,completely under my control)
+Is it on?
+[yes,ready,done,did,finished] @RT(Good,Alright then,Good boy,Okay,Then we can continue,Lovely) #Smile @TempFlag(pvCollared)
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Just tell me when you're ready
+@NullResponse
+@End

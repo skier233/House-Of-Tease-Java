@@ -1,0 +1,801 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral23_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral23]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral23_NotFirstTime)
+(AV_ModGeneral23_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral23]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral23]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral23]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral23]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral23]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral23]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral23]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral23]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral23]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral23]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral23]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral23]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral23]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral23]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral23]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral23]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral23]=[AV_ModGeneral23]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral23]=[AV_ModGeneral23]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral23]=[AV_ModGeneral23]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral23]=[AV_ModGeneral23]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral23]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+That's how I like it.
+Admit, that you like to be told, what to do.
+There's no need to be shy. It's all natural
+@RT(You don't need to think about anything else anymore, Forget about the world around you).
+@RT(Just listen to me and do what I say, All what matters is here and now).
+Now...
+my slave...
+I am going to train you.
+And so I decided to train you being my edge-slave.
+Doesn't that sound great?
+You are going to get the privilege to be my little, mindless edge-slave.
+I know you like that.
+#StartStroking
+Come on, stroke that cock faster. I want you to edge soon.
+Are you already near?
+You should be. 
+Get to the edge for me! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Wasn't that nice?
+Calm down a bit. We have a lot more to do today.
+You know, I could let you cum right now.
+But I won't..
+You want to know why?
+Well, the most obvious reason why not is, that I don't want you to cum now.
+This alone should be reason enough.
+The only thing you want is to please your mistress.
+And when your mistress is happy, she'll make you happy.
+A man can edge the entire day long.
+But he can only cum once in a while..
+You see, why I don't want you to cum?
+Edge and think about it. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+I'm not a cruel mistress. I just want you to feel good.
+I want to give you what you desire...
+And you desire to edge!
+You know, I am right..
+And you can't negate it..
+Edge again! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+You need me.
+You need your mistress to let you edge.
+And your mistress is willing to let you edge over and over again.
+'Cause that's the only thing you want.
+I want you to get on all fours.
+This is going to be your new edging-position.
+Every time you edge for me in this trainning, I want you in exactly this position.
+Got that?
+You look so cute down there.
+Just like a little puppy, waiting for its mistress to command it.
+I just can't deny you any longer..
+Come on my little puppy, edge for your mistress. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Now listen carfully.
+I'll ask you something and I want you to answer honestly.
+But first give me another edge! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Do you want to cum or do you want to be a good boy and keep edging for your mistress?
+Why don't you edge, while you think about it? @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Now tell me, do you still want to cum?
+[no] That's how I like my slave. @MoodUp
+[yes] Too bad slave, will not happen @MoodDown
+@DifferentAnswer #YesorNo #SubName?
+And I will let you edge even more..
+Come on. Get to the edge. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+You see, I fulfill your desires.
+All you have to do is, to obey me
+Say, that @RT(you are all mine, your mistress is the only one who can give you what you need, you are my edge-slave).
+Shout it out!
+And now beg me, to let you edge.
+#GoodBoy
+I allow you.
+Edge again! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+That's enough for now my edge-slave.
+#SitDown
+Your training is not over yet. There's still a lot to.
+We will continue your training later.
+#Contact1 will take care of you till there @AddContact1
+You can masturbate for her, but you are not allowed to edge. @SetLink(AV_Glitter1EdgeTrain)
+Only I can give you permission to edge, got that? @RemoveDomme
+@NullResponse @BookmarkModule
+@End
+Go back to #DomName. She is waiting to fulfill your desires. @AddDomme
+@Contact1 See you next time. @RemoveContact1
+Hello back my slave.
+I hope you are well prepared now.
+I don't want you to jerk for me...
+No, you have jerked enough for today.
+I want you to edge.
+Of course you have to stroke your cock to get to the edge.
+I understand that.
+But from now on, every time you are here, you can only stroke to get to the edge for me.
+I don't want you to waste my time with useless stroking..
+Alright my little slave. Take out your cock.
+It must be waiting for these words so impatiently.
+You can't wait until I say the magic word, don't you?
+You want me to demand you to edge..
+Get on your edging position now! @Wait(10)
+Hm...
+You know, I'm not a cruel mistress..
+Go on. Edge for your mistress. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+That's what you like.
+And that's all you need.
+And I fulfill your desire.
+Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Poor little slave..
+You would edge all day and all night long for your mistress, if you could.
+But I can't take care of you all the time.
+I have to fulfill my needs, too, you know?
+Get to the edge, slave. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+@RT(You should feel blessed,, that I take at least some time for you, You should be grateful every single time I let you edge).
+Are you grateful?
+Tell me how grateful you are.
+That's how it has to be.
+So edge! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+That feels wonderful, no?!
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+Want some more?
+Oh, of course you want more.
+You are my little addicted edge-slave.
+Edge! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Say, @RT(you want to edge more for your mistress, that all you want is obeying your mistress).
+@RT(You don't want to cum, You don't want to orgasm)!
+All you want is edging.
+Do it! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+You don't feel the need to cum.
+Your mistress knows, what you need.
+Yes, and your mistress won't let you cum.
+No, she will let you edge..
+Over and over again.
+You want it!
+You need it!
+Edge, slave. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+I also know, that I have to let you cum sometimes.
+It's just natural that you orgasm every once in a while.
+I will let you cum.
+But not now.
+Give me another edge and think about how good it'll feel to cum for me. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Deep inside you know, that you'd rather keep edging for your mistress.
+You can keep edging for me.
+Just like you need to.
+Edge! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+We have to do much more today.
+Go on, edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+And again! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+That's what you like.
+Do it again, my edge-slave. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+That's all you need.
+Give your mistress another edge, before we continue. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+#GoodBoy
+Relax my slave.
+I wonder how many edges you can stand..
+I know.
+You can stand as much as I demand!
+You don't want to disappoint me.
+No, you're a good boy.
+And good boys do what they are told to do.
+Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+You want to be a good boy, don't you?
+And you want to edge.
+Do it! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Just like that.
+Again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+You can't get enough.
+Give me another edge. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Your cock will get used to that feeling.
+You will get used to that ache.
+That ache you desperately crave for.
+Edge my slave. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Mmmm, you love it.
+You love being denied.
+You love to edge all day long.
+Over and over again. 
+Give me that edge. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+No orgasm. @RTOn
+Just pure,
+intense
+Edging. Do it! @RTOff @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Don't let me wait..
+Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Do you have enough?
+Or do you want more? @Timeout(10, 5gre34es)
+[more] I can see in your eyes, that you need much more.
+[enough] Liar...I can see in your eyes, that you need much more. 
+@DifferentAnswer #YesorNo
+(5gre34es)
+Am I right?
+Oh, of course I am..
+Give me another edge my puppy. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Now let's see, how long you can last without edging..
+I could let you edge, but you have to ask for it..
+You can stand longer than I thought.
+Oh, my puppy wants to edge?
+How much do you want to edge for your mistress?
+Come on, beg me to let you edge.
+Show me, how desperate you are.
+So sweet..
+I allow you to edge. Do it. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+It's no shame to have the need to edge.
+That's why you are here.
+I want you to edge one last time for now.
+One last intense edge.. @EdgeMode(Goto, 34gerrez)
+Get on the edge and stay there. @PlayAudio[tease\cEdge.mp3]
+(Loop23)
+Come on... @Wait(10)
+Let me see that edge... @Goto(Loop23)
+(34gerrez)
+Oh yes. Stay right on the brink of the edge.
+Suffer for your mistress.
+Ache for your mistress.
+Don't stop my slave. @EdgeMode(Normal)
+Relish that feeling..
+Hands off.. @PlayAudio[tease\cStop.mp3]
+You did very well my slave.
+#SitDown
+#Contact2 will take care of you till there @AddContact2
+You can masturbate for her, but you are not allowed to edge. @SetLink(AV_Glitter2EdgeTrain)
+Only I can give you permission to edge, got that? @RemoveDomme
+@NullResponse @BookmarkModule
+@End
+Go back to #DomName. @AddDomme
+@Contact2 I think you are well prepared now. @RemoveContact2
+I'm sure you're already aching. 
+Wishfully waiting to finally edge for your mistress.
+I know you want to. You are my little puppy.
+And what does well-behaved little puppies do?
+I know you want to. You are my little puppy.
+And what does well-behaved little puppies do?
+Oh yes. They get on all fours. @wait(10)
+#GoodBoy
+Stroke your cock to the edge. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+I know, that the first edge may take some time. Enjoy it.
+The next edges won't take so long.
+Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Wanna do it right again?
+Do it my addicted little edge-slave. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Now I really want to prove your stamina.
+You're going to edge quite a lot and I will also let you hold it.
+But first we have to get this cock well prepared.
+Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+That's it.
+Another one. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+#GoodBoy. Relax a while.
+Relax and enjoy the moment.
+Are you ready to hold an edge?
+I think it's time.
+At first I want you to hold it for 10 seconds.
+So get on the edge. @EdgeHold(10) @PlayAudio[tease\cEdge.mp3]
+You're doing good.
+Next time it'll be 15 seconds.
+Get ready my edge-slave.
+Now get back on the edge. @EdgeHold(15) @PlayAudio[tease\cEdge.mp3]
+This feels great, doesn't it?
+We will proceed until we reach one full minute.
+Prepare to hold this one 30 seconds.
+Back on the edge. @EdgeHold(30) @PlayAudio[tease\cEdge.mp3]
+Very well, my slave. Take a long break this time.
+Just kidding.
+Give me an edge in your break! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Sorry, but sometimes I'm a bit mean" *giggle*
+Alright, back to our workout.
+Next edge will be 40 seconds.
+Get ready.
+On the edge! @EdgeHold(40) @PlayAudio[tease\cEdge.mp3]
+Good boy. We are almost at the finish line.
+Keep that effort.
+50 seconds now.
+Get on the edge! @EdgeHold(50) @PlayAudio[tease\cEdge.mp3]
+Relax
+One more time. And this time it'll be a full minute.
+Are you ready?
+Are you ready to make your mistress proud of you?
+Come on.
+Get on the edge. @EdgeHold(60) @PlayAudio[tease\cEdge.mp3]
+You made it to a full minute.
+I'm really proud of you.
+I bet, I can bring you to hold an edge up to an hour.
+But first you can take a short rest. @Wait(25)
+Now it's time to test your limits.
+You made a full minute, that's really impressive.
+But now you'll hold the edge up to 2 minutes.
+Don't worry, I wouldn't let you do it, when I didn't know you could.
+First I want some edges from you.
+Just to warm you up again.
+Do it. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+How do you feel, thinking about holding an edge 2 minutes long?
+Worried?
+Or can't you wait to do it for your mistress?
+Edge again for your mistress. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+#GoodBoy
+We where at one minute.
+So you're going to hold the next one 1 minute and 15 seconds..
+Get on the edge my puppy. @EdgeHold(75) @PlayAudio[tease\cEdge.mp3]
+Say that you love to suffer for your Mistress.
+Your mistress knows that.
+And your mistress lets you suffer.
+That was 1 minute and 15 seconds.
+Take a short breath.
+Next one will be one and a half minute.
+Alright
+Get on the edge slave. @EdgeHold(90) @PlayAudio[tease\cEdge.mp3]
+Very well.
+Take your time to rest, my puppy.
+You know, what's coming next?
+Oh yes. The next time you'll hold it two full minutes.
+You'd better be ready...
+Get on the edge one last time slave. @EdgeHold(2 Minutes) @PlayAudio[tease\cEdge.mp3]
+You have done two minutes!
+What a good boy you are.
+I appreciate that.
+I'm really proud of you.
+#SitDown
+#Contact3 will take care of you till there @AddContact3
+You can masturbate for her, but you are not allowed to edge. @SetLink(AV_Glitter3EdgeTrain)
+Only I can give you permission to edge, got that? @RemoveDomme
+@NullResponse @BookmarkModule
+@End
+Go back to #DomName. @AddDomme
+@Contact3 See you next time. @RemoveContact3
+It's not going to be easy now. @WorshipOff
+You will edge much more than you have before.
+You're looking forward?
+Are you glad, you can prove your behavior to your Mistress?
+Yes you are.
+Get down on all fours my puppy. @Wait(10)
+I will let you edge very frequently now.
+You'll only have quite a moment to relax between them.
+But don't worry. I will prepare you good enough until then.
+Stroke your cock now.
+Stroke it to the edge. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Relax my edge-slave.
+Think about how much you're going to edge for me later.
+It's going to be so frustrating.
+So intense..
+You will love it.
+Don't you think so, too?  
+Edge and think how many edges are following. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+10? 20?..
+Maybe 50?
+Maybe even more?
+Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+I'll give you a little pretaste.
+#Edge @EdgeNoHold @MultipleEdges(3, 8, 100)
+Don't overdo yet.
+Tell me, how desperate are you to edge for your mistress?
+What would you do to get back to that edge?
+That intense,@RTOn
+fulfilling
+edge.@RTOff
+You would do anything, don't you?
+Anything to please your mistress.
+Come on. Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Look, how trained you are already.
+You nearly edge as soon as I say so.
+You're such a good boy.
+It's time.
+Time to get serious.
+I want you to edge as fast as possible, when I say it.
+Get ready.
+#Edge @EdgeNoHold @MultipleEdges(3, 5, 100)
+You're doing good so far.
+Edge again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Such a good boy.
+Do it again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+One last time before a short break.
+Do it again. @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+How does my little edge-slave feel?
+Already exhausted?
+No, no. My puppy wants more.
+Beg me to let you edge again.
+That's how I like my puppy.
+Get ready for the next round.
+Now edge! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+You know the procedure.
+#Edge @EdgeNoHold @MultipleEdges(4, 5, 100)
+So many edges..
+Give me more!
+Edge! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+Three more times..
+#Edge @EdgeNoHold @MultipleEdges(3, 7, 100)
+So good. I like how you're doing.
+#SitDown
+Ok, end of our training.
+Phew..
+Relax my edge-slave.
+That was intense, wasn't it?
+I hope you liked your training today.
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+@RT(#PetName, #SubName) @CheckFlag(AV_MasuDone)
+I found that tease on Milovana other day...
+About Masu, where in medieval Japanese society women trained male slaves for extreme sexual endurance.
+Specifically the ability to perform extended, highly controlled masturbation sequences under the direct control of their owners. 
+The sequences had to be completed without an orgasm.
+The men were then used by their powerful women owners to take part in formal competitions known as "Masu! Masu!" 
+which means both 'to masturbate' and 'more! more!
+I loved, and thought we could use some things from this tease in our sessions.
+You will also learn to love your mastery of the forms.
+Because the forms show your devotion and submission to me.
+The first form you will learn is the simplest of all and is known as Dog.
+It simply requires 4 complete strokes at regular intervals with a strong emphasis on the first beat.
+The first beat helps you keep count and retain your bearings. 
+You should silently count 1, 2, 3, 4 to yourself until this becomes second nature.
+In Masu games the strokes are counted on wooden blocks and drums 
+It will be performed twice and for now you should just listen and count along without stroking
+ONE two three four, ONE two three four @PlayAudio[tease\Masu\dog.wav]
+Ah the magical sound of Dog.  The sound that tells me someone is honouring me. 
+Ok, now it's time for you to try.  
+The strokes should be strong and firm and cover the entire length of your penis.
+ONE two three four. STROKE stroke stroke stroke. @PlayAudio[tease\Masu\dog.wav]
+#GoodBoy
+The second form you will learn is called 'Cat'.
+Cat is Dog with an extra stroke between strokes 3 and 4 and I count it "one two three and four".  
+It is written as 123+4.
+I will demonstrate Cat, Don't stroke but say '1, 2, 3 and 4' out loud. 
+No stroking just count.
+ONE two three and four ONE two three and four @PlayAudio[tease\Masu\cat.wav]
+#GoodBoy
+And next we have Snake.
+Snake is written 1+23+4 and if you are paying attention you should be able to work out what that means.
+This time we count '1 and 2, 3 and 4' out loud. 
+The modern way is 123 123 but I prefer the old ways
+ONE and two, THREE and four. @PlayAudio[tease\Masu\snake.wav]
+Now Stroking
+ONE and two, THREE and four. @PlayAudio[tease\Masu\snake.wav]
+Well done, #PetName. You do have some natural talent it seems. 
+You have pleased mistress with your performance, so we are going to move onto our first combo form Dog & Cat
+Stroke @PlayAudio[tease\Masu\dogcat-80.mp3] @Wait(30)
+DOG & CAT. @PlayAudio[tease\Masu\dogcat-100.mp3] @Wait(30)
+DOUBLE DOG, FASTER. @PlayAudio[tease\Masu\dogdog-120.mp3] @Wait(20)
+DOG & CAT faster  @PlayAudio[tease\Masu\dogcat-switch140.mp3] @Wait(20)
+#GoodBoy
+There are variations, but we will try later... @SetFlag(AV_MasuDone)
+It will be a good diversification
+@End
+(AV_MasuDone)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#Stop #SubName @StopStroking
+(Sub Not Stroking)
+Time for a proper Masu training session. @SetVar[AV_MasuTrain]=[0] 
+Follow my instructions without @RT(hesitate, question) and make sure you have plenty of @RT(lubrication, auto-control). @SetVar[AV_MasuRounds]=[#Random(6, 10)] 
+(MasuLoop)
+@NullResponse @Goto(Mas1, Mas2, Mas3, Mas4, Mas5, Mas6, Mas7, Mas8, Mas9, Mas10, Mas11)
+(Mas1)
+@RT(ONE two three four,, ONE two three four, ONE two three four, Dog) @PlayAudio[tease\Masu\dogdog120.wav] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas2)
+@RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat100.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas3)
+@RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat120.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas4)
+@RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas5)
+DOG & CAT @PlayAudio[tease\Masu\dogcat80.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas6)
+DOG & CAT @PlayAudio[tease\Masu\dogcat100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas7)
+DOG & CAT faster @PlayAudio[tease\Masu\dogcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas8)
+DOG & CAT switch @PlayAudio[tease\Masu\dogcat-switch140.mp3] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas9)
+@RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas10)
+@RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake120.wav] @Wait(17)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas11)
+@RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(MasuBreak)
+@RT(Imagine if we played Masu for several hours at competition speed how much cum would have built up, Knowing all this,, knowing you will not be able to cum and dancing near the edge is the very essence of highlevel Masu play, If you do it right you will enter a blisfull trance like state, That's it. Keep your form. Work it hard, Stroke is To Obey)
+@NullResponse @If[AV_MasuTrain]>=[AV_MasuRounds]Then(MasuEnds)
+@NullResponse @Goto(MasuLoop)
+(MasuEnds)
+#ThatsEnough
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+@NullResponse @SetVar[AV_EdglCo]=[0]
+@RT(So I was talking to some friends yesterday, I had a discussion with some of my friends yesterday, I had an interesting conversation yesterday)
+@RT(I was explaining how I could make you edge with just a snap of my fingers, I told them I had complete control over your edges)
+@RT(But they claimed it wasn't that special, But they didn't seem impressed)
+@RT(Can you believe that, How dare they question my dominance over you)?
+@RT(So I invited them over for this session, So I told them they should come and take a look!)
+@NullResponse @AddContact1 @AddContact2 @AddContact3 
+@RT(Hi girls, Hello there unbelievers)
+@Contact3 Hello
+@Contact2 Howdy
+@Contact1 Hey!
+@RT(So,, about our conversation yesterday, So let's continue our discussion)
+@RT(Let me show you something, Allow me to demonstrate my power)!
+#SubName, Edge! @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@RT(See,, like it's nothing!, You see how he just edged at my whim?)
+Anyone think they can do this as well?
+@Contact2 @RT(When he looks at me,, he gets way hornier than any other woman!, Bah,, I'm sure he thinks of me when he edges, He would edge in half the time if he was with me!)
+@Contact3 @RT(He would edge way faster with me, I could do it in half the time, Took him long enough it seems...)
+@Contact3 @RT(He's so scared of me he would stroke his cock so fast it would go raw if I commanded him to edge, I would just threaten him with pain if he didn't edge fast enough,  His fear of me would make him edge in seconds!)
+@Contact1 @RT(Aww,, you do know guys get turned on from anything with breasts?, He would edge for any woman, cause he has a dick, Edging is pretty much default behaviour for men though,, not really your achievement...)
+@RT(Oh that's what you all think, You really think so)?!
+@RT(Well let's find out who is the true master of #SubName 's edges, Let's see who's right then!, Only one way to find out who is right)
+@RT(How about a race, We're having a race, This will be a fun competition)!
+@RT(Everyone gets 30 seconds to make his dick edge, How about you all get 30 seconds to make #SubName edge, I think 30 seconds should be enough to make him edge since you all claim to be so adept at this)
+@RT(If you fail,, he'll get 10 seconds to cool down, #SubName gets a 10 second pause between each attempt)
+@RT(So we don't just finish the other woman's job, To make sure he edges for whoever has her turn)
+@RT(Deal, Everyone on board, Agreed)? @YesMode(Goto, av_saidyes)
+@Contact1: Yep, sounds fun!
+@Contact3 I love a challenge!
+@Contact2 Easy win for me! @Goto(efw65ugnf)
+(av_saidyes)
+@RT(Oh be quiet,, your consent is not needed, Shut up,, who cares if you agree,, you're going to do as your told anyway) @YesMode(Normal)
+(efw65ugnf)
+@RT(I've got a timer ready, My stopwatch is ready, Here we go!)
+@RT(Let's start with, And the first to take her turn is) ...
+(C1Try)
+@Contact1 #StartStroking @CountVar[AV_EdglCo] @EdgeMode(Goto, G1Win)
+(LoopG1)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_EdglCo]>=[30]Then(G1Failed)
+@NullResponse @Goto(g101, g102, g103, g104, g105, g106, g107, g108, g109, g110)
+(g101)
+@Contact1 C'mon baby, jerk your cock for all the women you know @Goto(LoopG1)
+(g102)
+@Contact1 Just give it everything you've got right now! @Goto(LoopG1)
+(g103)
+@Contact1 You've jerked so many times for #Var[AV_Persona13], you know it feels great @ShowImage[av_imagens\01\*.jpg] @Goto(LoopG1)
+(g104)
+@Contact1 You are a man, so prove it to me! @Goto(LoopG1)
+(g105)
+@Contact1 Doesn't #Var[AV_Persona02] just want to make you squirt all over the place? @ShowImage[av_imagens\03\*.jpg] @Goto(LoopG1)
+(g106)
+@Contact1 You can go faster, I know you can! @Goto(LoopG1)
+(g107)
+@Contact1 #Var[AV_Persona01] is looking at you, you need to impress her with your fastest possible jerking! @ShowImage[av_imagens\02\*.jpg] @Goto(LoopG1)
+(g108)
+@Contact1 Fast, faster, fastest! If you aren't edging while looking at her, I'm not sure you are a man at all! @Goto(LoopG1)
+(g109)
+@Contact1 You know you need it! All day and every day! Edge! Edge! Edge! @Goto(LoopG1)
+(g110)
+@Contact1 Edging is what you were made for, just admit it and give me an edge! @Goto(LoopG1)
+(C2Try)
+@Contact2 #StartStroking @CountVar[AV_EdglCo] @EdgeMode(Goto, G2Win)
+(LoopG2)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_EdglCo]>=[30]Then(G2Failed)
+@NullResponse @Goto(g201, g202, g203, g204, g205, g206, g207, g208, g209, g210)
+(g201)
+@Contact2 Just admit I'm the one that turns you on the most! @Goto(LoopG2)
+(g202)
+@Contact2 Edge that dick for me, you know I deserve it! @Goto(LoopG2)
+(g203)
+@Contact2 You should feel honoured to jerk that pathetic penis for me! @Goto(LoopG2)
+(g204)
+@Contact2 Prove your devotion to me! @Goto(LoopG2)
+(g205)
+@Contact2 Edge for me, you know I'm the only one that can make you feel this good @Goto(LoopG2)
+(g206)
+@Contact2 Edge for me, like you've done so many times! @Goto(LoopG2)
+(g207)
+@Contact2 Worship my body! @Goto(LoopG2)
+(g208)
+@Contact2 Cry out my name, that will help you edge! @Goto(LoopG2)
+(g209)
+@Contact2 Imagine me touching you, that would make any man edge! @Goto(LoopG2)
+(g210)
+@Contact2 You can go faster for me, can't you? I'm not easy to impress so do your best @Goto(LoopG2)
+(C3Try)
+@Contact3 #StartStroking @CountVar[AV_EdglCo] @EdgeMode(Goto, G3Win)
+(LoopG3)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_EdglCo]>=[30]Then(G3Failed)
+@NullResponse @Goto(g301, g302, g303, g304, g305, g306, g307, g308, g309, g310)
+(g301)
+@Contact3 #Stroke that cock #Slave! @Goto(LoopG3)
+(g302)
+@Contact3 Faster! I want to see a blur! @Goto(LoopG3)
+(g303)
+@Contact3 You will be sorry if you are not edging RIGHT NOW! @Goto(LoopG3)
+(g304)
+@Flag(av_fetish_pain) @Contact3 Slap those balls while you jerk, a painslut like you will love that! @Goto(LoopG3)
+@NotFlag(av_fetish_pain) @Contact3 A painslut like you will love that! @Goto(LoopG3)
+(g305)
+@Contact3 Faster, I don't care if it hurts! In fact I love it when it hurts! @ShowFemdomImage @Goto(LoopG3)
+(g306)
+@Contact3 It's not because your cock is so pathetic you can't edge for me! @Goto(LoopG3)
+(g307)
+@Contact3 Feel the burn! @Goto(LoopG3)
+(g308)
+@Contact3 If you won't edge NOW you will be crying the next time I have you to myself @Goto(LoopG3)
+(g309)
+@Contact3 Do you think I'm kidding? This is not a joke to me! Edge or suffer! @ShowFemdomImage @Goto(LoopG3)
+(g310)
+@Contact3 If you won't edge that cock for me, I'll make sure it never edges again! @Goto(LoopG3)
+(DomTry)
+#StartStroking @CountVar[AV_EdglCo] @EdgeMode(Goto, DomWin)
+(LoopDom)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_EdglCo]>=[30]Then(DomFailed)
+@NullResponse @Goto(Dom101, Dom102, Dom103, Dom104, Dom105, Dom106, Dom107, Dom108, Dom109, Dom110)
+(Dom101)
+You belong to me, as do your edges! @Goto(LoopDom)
+(Dom102)
+Do not even think about dissapointing your Mistress! @Goto(LoopDom)
+(Dom103)
+I don't know what I'll do to you if you edge with anyone else, but I do know you won't like it a bit! @Goto(LoopDom)
+(Dom104)
+Edge for your Mistress! @Goto(LoopDom)
+(Dom105)
+Remember I own you, there is no excuse for failing me @Goto(LoopDom)
+(Dom106)
+Faster, or I'll lock it up for a month! @Goto(LoopDom)
+(Dom107)
+You need to prove you are worthy of being my slave! @Goto(LoopDom)
+(Dom108)
+You have given me countless edges dear slave, but your next one must be mine as well! @Goto(LoopDom)
+(Dom109)
+I know your dick, it wants to edge for me, it NEEDS to edge for me! @Goto(LoopDom)
+(Dom110)
+My slave, my dick, my edge. @Goto(LoopDom)
+(G1Failed)
+@RT(Your turn is over #Contact1,, stop jerking #SubName, Stop! You failed #Contact1!, Stop jerking,, time for someone else!, She failed,, stop masturbating!, Nope,, not this turn! Hands off!) @PlayAudio[tease\cStop.mp3] @EdgeMode(Normal)
+@NullResponse @CountVar[AV_EdglCo, stop]
+@RT(No edge this time,. relax a bit, I guess making him edge isn't that easy after all huh?, relax #SubName) @SetVar[AV_EdglCo]=[0]
+#RelaxAndBreathe @Wait( #Random(30, 35))
+@RT(#Contact2! Go!, Your turn #Contact2, Give it your best shot #Contact2, #Contact2 is up!, You're up #Contact2) @Goto(C2Try)
+(G2Failed)
+@RT(Your turn is over #Contact2,, stop jerking #SubName, Stop! You failed #Contact2!, Stop jerking,, time for someone else!, She failed,, stop masturbating!, Nope,, not this turn! Hands off!) @PlayAudio[tease\cStop.mp3] @EdgeMode(Normal)
+@NullResponse @CountVar[AV_EdglCo, stop]
+@RT(No edge this time,. relax a bit, I guess making him edge isn't that easy after all huh?, relax #SubName) @SetVar[AV_EdglCo]=[0]
+#RelaxAndBreathe @Wait( #Random(30, 35))
+@RT(#Contact3! Go!, Your turn #Contact3, Give it your best shot #Contact3, #Contact3 is up!, You're up #Contact3) @Goto(C3Try)
+(G3Failed)
+@RT(Your turn is over #Contact3,, stop jerking #SubName, Stop! You failed #Contact3!, Stop jerking,, time for someone else!, She failed,, stop masturbating!, Nope,, not this turn! Hands off!) @PlayAudio[tease\cStop.mp3] @EdgeMode(Normal)
+@NullResponse @CountVar[AV_EdglCo, stop]
+@RT(No edge this time,. relax a bit, I guess making him edge isn't that easy after all huh?, relax #SubName) @SetVar[AV_EdglCo]=[0]
+#RelaxAndBreathe @Wait( #Random(30, 35))
+@RT(I Go now!, My turn , I am up now) @Goto(DomTry)
+(DomFailed)
+@Contact3 @RT(Your turn is over #DomName,, stop jerking #SubName, Stop! You failed #DomName!, Stop jerking,, time for someone else!, She failed,, stop masturbating!, Nope,, not this turn! Hands off!) @PlayAudio[tease\cStop.mp3] @EdgeMode(Normal)
+@NullResponse @CountVar[AV_EdglCo, stop]
+@Contact1 @RT(No edge this time,. relax a bit, I guess making him edge isn't that easy after all huh?, relax #SubName) @SetVar[AV_EdglCo]=[0]
+@Contact2 #RelaxAndBreathe @Wait( #Random(30, 35))
+@RT(#Contact1! Go!, Your turn #Contact1, Give it your best shot #Contact1, #Contact1 is up!, You're up #Contact1) @Goto(C1Try)
+(G1Win)
+@Contact1 #HoldTheEdge
+@Contact1 @RT(Wow,, I did it, Yeah I won!, You see, he loves edging for me!)
+@RT(I guess I can't own every one of his edges, Well,, that was dissapointing..., Well I never! I'll remember this #SubName)
+@Contact1 #StopStroking 
+I guess you deserve my apologies #Contact1
+@Contact1 @RT(It's okay,, like I said,, men just get aroused for anyone, Sorry to burst your bubble #DomName,, but men are just that easy to turn on, Well,, anyone could have done this,, that was my point)
+@Contact1 @RT(And it's not just edging,, but for cumming as well, He'll get turned on by all women,, he'll edge for woman,, and he'll cum for them, If this had gone on longer,, he would have cum as well....) @Goto(FimDoJogo)
+(G2Win)
+@Contact2 #HoldTheEdge
+@Contact2 @RT(Wow,, I did it, Yeah I won!, You see, he loves edging for me!)
+@RT(I guess I can't own every one of his edges, Well,, that was dissapointing..., Well I never! I'll remember this #SubName)
+@Contact2 #StopStroking @Chance50(G2Session)
+I guess you deserve my apologies #Contact2
+@Contact2 I just wanted to prove once and for all how much he likes me @Goto(FimDoJogo)
+(G3Win)
+@Contact3 #HoldTheEdge
+@Contact3 @RT(Wow,, I did it, Yeah I won!, You see, he loves edging for me!)
+@RT(I guess I can't own every one of his edges, Well,, that was dissapointing..., Well I never! I'll remember this #SubName)
+@Contact3 #StopStroking @Chance50(G3Session)
+I guess you deserve my apologies #Contact3
+@Contact3 I just wanted to prove once and for all how much he likes me @Goto(FimDoJogo)
+(DomWin)
+#StopStroking
+@RT(Like I said,, I own his edges, So now we can stop this silly argument,, he is clearly my edge-whore, There we go,, another edge for me,, as usual!)
+(FimDoJogo)
+@RT(Now leave us,, I've got some plans for him now that don't include you!, Now you are dismissed,, I've still got some unfinished business with #SubName)
+@NullResponse @RemoveContact1 @RemoveContact2 @RemoveContact3
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+@RT(#PetName, #SubName)
+It's been a lot of hard work to get here. 
+@Flag(av_fetish_cfnm) Let me inspect you naked body...
+@SystemMessage #DomName turned on the mic @PlayAudio[tease\commands\Stand*.mp3]
+Turn slowly while I inspects your body with my eyes. 
+Stand at attention while I inspects your body... arms bent behind your back
+@NotFlag(av_fetish_pain) @NullResponse @Goto(f43gx9)
+Put your arms on the table and bend over at the waist. 
+I am going to spank each of your ass cheeks until they're nice and red. 
+ready?
+@NullResponse @PlayAudio[tease\spank\*.mp3] @Wait(15)
+Your other cheek now, #PetName
+ready?
+@NullResponse @PlayAudio[tease\spank\*.mp3] @Wait(15)
+(f43gx9)
+#KneelForMe
+Arms bent behind your back. 
+I am here to HELP you with your boner and your hurting cock. 
+I know it's throbbing already and it hurts
+I know you can't wait to stroke your cock but this is not the way this works. 
+I want you hold your load for me, so we both can enjoy a good session. 
+Do you like having me rubbing my clit? 
+What if I slide my finger inside my hole? It's wet already... 
+And once my finger got inside me you will be able to stroke your dick up and down... 
+Look... it's almost there... 
+Look my finger dissapearing into my pussy... hmmm feels so good, now baby, now you can stroke @PlayAudio[tease\cStroke.mp3]
+Did you think you would be the only one having fun here? 
+Oh no... I am going to play with you while you rub and stroke your hard dick for me
+because I can't help myself when I tell you to stroke your hard cock 
+So... let's see... can you imagine me just there in front of you? 
+#StopStroking
+All naked and standing for you, watching your hard throbbing cock as I wish to touch it... stroke it... and lick it up and down.
+I bet you want to stroke it already, don't you? 
+But you can't until I say. 
+Instead... you can rub it with your hand, rub your shaft up and down. You can rub your balls too. 
+That's it baby. Keep going as I watch you while I gently slid my hand down to caress my clit. 
+Watching you really gets me wet already.
+#StartStroking
+I can see in your face that you are so close. 
+You want to cum already, right? 
+But this is just the beginning baby, you can't cum yet.
+I just started. 
+Come on baby. I am going to get to the edge
+stroke ir faster now 
+squeeze your cock hard for me and stroke it faster 
+#Edge @Edge
+Just stop and wait, let your cock rest. 
+Your cum is safe in your balls, 
+You can still hold it.
+#SitDown
+@End

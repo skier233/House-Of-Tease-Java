@@ -1,0 +1,116 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link15_NotFirstTime)
+@NullResponse @SetVar[AV_Link15]=[0] 
+@NullResponse @SetFlag(AV_Link15_NotFirstTime)
+(AV_Link15_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link15]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link15]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link15]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link15]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link15]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link15]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link15]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link15]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link15]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link15]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link15]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link15]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link15]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link15]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link15]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link15]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link15]=[AV_Link15]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link15]=[AV_Link15]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link15]=[AV_Link15]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link15]=[AV_Link15]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link15]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+@Flag(av_fetish_rough) What do I do with hand humpers like you?
+@Flag(av_fetish_foot) It's obvious that you have a thing for my FEET. 
+@Flag(av_fetish_rough) I'm so much better then you and you're so pathetic. 
+@Flag(av_fetish_foot) I'm going to let you jerk off as you worship my perfect feet 
+@Flag(av_fetish_foot) but it's going to cost you. 
+Im making you do whatever I want from now on
+Im going to control you like no one has ever before. 
+@Flag(av_fetish_cei) I might even make you eat your own cum. 
+@Flag(av_fetish_foot) You're just a below the ankle foot slave
+@Flag(av_fetish_foot) in fact you can only kiss the bottom of my feet thats all you get because youre that much of a slave. 
+@Flag(av_fetish_cei) Have a shot glass ready because guys that fuck their hands have to eat their own cum when I say so.
+#StartStroking @StartStroking
+@End
+(Link2)
+You can tell me anything, you know that. 
+You've already confided in me so much. 
+I'm the one who knows your @RT(deepest desires, darkest fantasies) 
+It's like this is the place you feel most at home, most sated and entertained. 
+My control over you is so effortless. 
+I reel you back in without batting an eye, because I have you hook line and sinker forever. 
+My bait is so deeply rooted within you that I know you're never getting away. 
+And deep down you don't want to leave. 
+This is the best virtual sex of your life. 
+So edge for me, lose your mind for me, cum for me. 
+Every time you try to run away this is how you're left. 
+Defeated.
+#StartStroking @StartStroking
+@End
+(Link3)
+In the future, women will rule the world and all men will be slaves. 
+Males will only exist to be punished for the amusement of superior females. 
+There will even be parks and playgrounds with slaves tied to posts
+ready to be whipped and kicked in the balls. 
+#StartStroking @StartStroking
+@End
+(Link4)
+You should get collared. 
+What kind of collar would be right for you?
+dawg collar or a full metal slave collar, #Lol! 
+Maybe you should get a sharp spike collar 
+that tightens into your neck when I pull on it! 
+That might be my favorite one yet!
+#StartStroking @StartStroking
+@End

@@ -1,0 +1,9 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@Contact1 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact1
+@Contact2 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact2
+@Contact3 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact3
+@NullResponse
+@End

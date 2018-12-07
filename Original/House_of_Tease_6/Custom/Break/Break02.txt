@@ -1,0 +1,39 @@
+@NullResponse @CheckFlag(pvBreak02Drawings)
+@NullResponse @CheckFlag(pvBreak02Drawing)
+Here's what I want you to do, #Name
+(draw again)
+Go find a piece of paper and a pen or pencil or whatever
+You're going to make a drawing! #Smile
+I want you to draw yourself a you kneel at my feet
+It doesn't have to be a great work of art, stick figures are fine
+As long as you clearly draw both of us, me standing and you kneeling before me
+Now get started, just let me know when you're ready
+[ready,done,finished] Good #Smile
+@DifferentAnswer Just let me know when you're ready
+I want you to keep that drawing somewhere safe @SetFlag(pvBreak02Drawing)
+Or if you can, pin it to your wall so you can see it every day #Smile
+@End
+(pvBreak02Drawing)
+Do you still have that drawing you made of you kneeling before me?
+[yes] Good boy #Smile
+[no] Oh... @MoodDown @DeleteFlag(pvBreak02Drawing) @Goto(draw again)
+@DifferentAnswer Do you have it yes or no?
+I want you to make another drawing for me
+Like last time, you should draw both of us
+But this time I'll leave it up to you in what position or scenario
+I', sure you can think of something, #PetName
+Now get started, just let me know when you're ready
+[ready,done,finished] Good #Smile
+@DifferentAnswer Just let me know when you're ready
+Keep it with the other drawing @SetFlag(pvBreak02Drawings) @DeleteFlag(pvBreak02Drawing)
+It's staring to looke like a collection, #Name #EmoteHappy
+@End
+(pvBreak02Drawings)
+I want you to make another drawing for your collection
+It should picture me and you, in a scenario of your choosing
+It doesn't have to be a masterpiece, #PetName
+Now get started, just let me know when you're ready
+[ready,done,finished] Good boy
+@DifferentAnswer Just let me know when you're ready
+Just keep it with the other pictures #Smile
+@End

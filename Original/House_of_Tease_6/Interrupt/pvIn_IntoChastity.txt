@@ -1,0 +1,18 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@HasChastity @NullResponse @Goto(lock it up)
+@DoesNotHaveChastity @NullResponse @Goto(no more touching)
+...
+@End
+(no more touching)
+No more touching that #Cock #Smile @ChastityOn
+@End
+(lock it up)
+Put your #Cock in your chastity device
+Let me know when you're ready
+[ready,done,finished] Good
+@DifferentAnswer I'm waiting, #Name, tell me when you're ready
+That's much better #Smile @ChastityOn
+@End

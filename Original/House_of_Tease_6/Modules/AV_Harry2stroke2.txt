@@ -1,0 +1,96 @@
+@NullResponse @TempFlag(av_intera_019)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Harry2stroke2_NotFirstTime)
+@NullResponse @SetVar[AV_Harry2stroke2]=[0] 
+@NullResponse @SetFlag(AV_Harry2stroke2_NotFirstTime)
+(AV_Harry2stroke2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Harry2stroke2]=[0]Then(Part1_1)
+@NullResponse @If[AV_Harry2stroke2]=[1]Then(Part1_2)
+@NullResponse @If[AV_Harry2stroke2]=[10]Then(Part1_3)
+@NullResponse @If[AV_Harry2stroke2]=[100]Then(Part1_4)
+@NullResponse @If[AV_Harry2stroke2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Harry2stroke2]=[11]Then(Part1_6)
+@NullResponse @If[AV_Harry2stroke2]=[101]Then(Part1_7)
+@NullResponse @If[AV_Harry2stroke2]=[111]Then(Part1_8)
+@NullResponse @If[AV_Harry2stroke2]=[110]Then(Part1_9)
+@NullResponse @If[AV_Harry2stroke2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Harry2stroke2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Harry2stroke2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Harry2stroke2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Harry2stroke2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Harry2stroke2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Harry2stroke2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Harry2stroke2]=[AV_Harry2stroke2]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Harry2stroke2]=[AV_Harry2stroke2]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Harry2stroke2]=[AV_Harry2stroke2]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Harry2stroke2]=[AV_Harry2stroke2]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_Harry2stroke2]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@NullResponse @Call(Custom\h2sModules\H2Stroke5.txt)
+@NullResponse
+@End
+(Modulo2)
+@NullResponse @Call(Custom\h2sModules\H2Stroke6.txt)
+@NullResponse
+@End
+(Modulo3)
+@NullResponse @Call(Custom\h2sModules\H2Stroke7.txt)
+@NullResponse
+@End
+(Modulo4)
+@NullResponse @Call(Custom\h2sModules\H2Stroke8.txt)
+@NullResponse
+@End

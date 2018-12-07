@@ -1,0 +1,56 @@
+@Flag(av_intera_019) @RT(You were really gooning out #PetName, gooning got you?)
+@RT(What is the problem, What is, What, Say, you can talk to me, yes, what happened) #SubName?
+[cum, cumming] oh... @Goto(CheckCum)
+[too much, intense, hard, cant, can't] @NullResponse @Goto(CheckMood)
+[pause, break, rest, hurt] @NullResponse @Goto(CheckPause)
+@DifferentAnswer what #SubName?
+(CheckCum)
+Did you cum or you are about to cum? @RTOn
+To be clear, did you came? @RTOff
+[yes] Oh noo... @Interrupt(OpiateNPC)
+[no] #Good @Goto(CheckMood)
+@DifferentAnswer #YesorNo
+(CheckPause)
+@NeutralMood @Chance25(End2)
+@BadMood @RT(I don't give a fuck if you can #Take this or not, #Begging just makes me want to #Torture you even more, I dont care), you will @RT(#Take, continue) @Goto(End)
+@GoodMood #Okay
+@RT(I'll try to keep your limits in mind a little better, I think) I can let you rest for a while
+@Flag(AV_DommeMistress) @NullResponse @Chance60(Position)
+@NotFlag(AV_DommeMistress) @NullResponse @Chance40(Position)
+enjoy @Wait( #Random(100, 200))
+#ThatsEnough
+@End
+(CheckMood)
+@NeutralMood @NullResponse @Chance30(SomeCBT)
+@ApathyLevel1 @RT(I'm really being #Mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #PetName, Does your whole body want to cum?), @RT(You, We) can stop ...for @RT(a while, now) @TempFlag(StopAllowed) @Goto(End)
+@ApathyLevel2 @RT(I'm really being #Mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #PetName, Does your whole body want to cum?), @RT(You, We) can stop ...for @RT(a while, now) @TempFlag(StopAllowed) @Goto(End)
+@ApathyLevel3 @NullResponse @Chance40(SomeCBT)
+@ApathyLevel3 @RT(I'm really being #Mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #PetName, Does your whole body want to cum?), @RT(You, We) can stop ...for @RT(a while, now) @TempFlag(StopAllowed) @Goto(End)
+@ApathyLevel4 @RT(I don't give a fuck if you can #Take this or not, #Begging just makes me want to #Torture you even more) @Chance40(End)
+@ApathyLevel5 @RT(I don't give a fuck if you can #Take this or not, #Begging just makes me want to #Torture you even more) @Chance40(End)
+(SomeCBT)
+@RT(Maybe, Do you think) @RT(a few, some) pain will @RT(help you to take it, make it easy, help you to keep that cum inside)?
+[yes] #Good @Goto(CBTRND)
+[no] Hmm 
+@DifferentAnswer #YesorNo #SubName?
+@ApathyLevel5 In @RT(that,this) case, good luck #Lol @Goto(End)
+@RT(I'm really being #Mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #PetName), @RT(You, We) can stop ...for @RT(a while, now) @TempFlag(StopAllowed)
+@End
+(CBTRND)
+@CBTBalls
+@BadMood @CBT
+@Flag(AV_DommeMistress, av_fetish_pain) @CBTBalls
+@RT(#ThatsEnough, Now we can continue, we can continue)
+@End
+(End)
+@NullResponse 
+@End
+(End2)
+@RT(It wouldn't be a tease if you didn't suffer, stop complaining, I'm going to tease you to fucking tears) #SubName
+@End
+(Position)
+But I want you to stay in this position @ShowImage[av_imagens\positions\all\*.jpg]  @LockImages
+enjoy @Wait( #Random(100, 200))
+#ThatsEnough @PlayAudio[tease\whip.mp3] @UnlockImages
+#SitDown
+@End

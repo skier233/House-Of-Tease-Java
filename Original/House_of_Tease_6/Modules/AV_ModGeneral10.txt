@@ -1,0 +1,340 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral10_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral10]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral10_NotFirstTime)
+(AV_ModGeneral10_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral10]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral10]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral10]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral10]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral10]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral10]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral10]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral10]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral10]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral10]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral10]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral10]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral10]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral10]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral10]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral10]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral10]=[AV_ModGeneral10]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral10]=[AV_ModGeneral10]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral10]=[AV_ModGeneral10]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral10]=[AV_ModGeneral10]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral10]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+#PetName
+Let's try something new
+You know...tightening your PC muscle
+the one that stops urine from coming out
+makes your orgasm approach quicker. 
+However, you can control that muscle while you masturbate, and you can keep it relaxed. 
+#StartStroking
+If you concentrate on keeping it relaxed the whole time while you #Stroke
+you can go for a very long time without having that sensation of an impending orgasm. 
+But everything still builds up inside you 
+even if you can't feel it. 
+Masturbating for a long time this way can eventually lead to an explosive orgasm with a lot of semen.
+Keep relaxing that muscle. @EdgeMode(Goto, EdgePC)
+Try 20 light masturbation strokes, followed by 10 quick ones. 
+Keep alternating. 
+Most men can't stand more than 10 minutes if someone else is doing it. 
+This can be considered slow torture masturbation 
+you want to ejaculate, but you can't. 
+When you do, the orgasm is especially good.
+Let me see if you can keep up with more visual estimulations @Goto(pc01, pc02)
+(pc01)
+@NullResponse @PlayVideo[AV_Clips/webm/15/*.webm]
+@NullResponse @Goto(pcont)
+(pc02)
+@NullResponse @PlayVideo[AV_Clips/webm/10/*.webm]
+@NullResponse @Goto(pcont)
+(pcont)
+@NullResponse @PlayVideo[AV_Clips/webm/60/*.webm]
+wow...you did not edge all that time...
+Good work #SubName
+(EdgePC)
+#StopStroking @EdgeMode(Goto, EdgeForGoto2)
+That is so fucking  hot for me
+I guess I can be pretty merciless...  
+But I love your desperation... 
+it's hot actually, to let you *imagine* I *might* choose to take you over the edge and let you orgasm...  
+But probably I'll just tease you until I've had enough of your  precum... 
+@End
+(Modulo2)
+#KneelForMe
+I don't want you to think. 
+I don't want you to fucking talk. 
+All I want is your body doing exactly what I tell you to. 
+#StartStroking
+We both know the truth. 
+You can't cum unless @RT(I tell you to, you hear me say the fucking words, I give you permission). 
+It never feels the same without me, does it?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+You'll struggle and fight for as long as I want you to. 
+And when you're fucking done, I'll be here. 
+Waiting for you to say 'please'. 
+And I know you will. Because no one does it like me. 
+No one. 
+You'll beg for me to do it right. 
+But don't think you won't have to earn it.  @TempFlag(av_intera_007)
+#StopStroking
+@NotFlag(av_fetish_pain) @NullResponse @Goto(3345fy)
+Slap it. 
+Slap that #Cock. 
+Again. 
+Harder. 
+Do it again. 
+Do it like I'd fucking do it.
+Again. @PlayAudio[tease\spank\*.mp3] @Wait(15)
+Don't think I @RT(can't hear you, don't see your whole body tense and quiver)
+@RT(I'm right there, I'm standing over you, I'm watching your every move)
+@RT(And I want to watch you squirm, I want to hear you fucking moan and whimper)
+And that #Cock? I want it to hurt.  @DeleteFlag(av_intera_007)
+@RT(I want you to feel me, I want you to feel me between your legs, I want you to feel that ache)
+Because you know what that means. 
+(3345fy)
+Deep down, you know exactly what that means. 
+#StartStroking
+I own you. 
+You hate how much that turns you on, don't you? 
+I know you do. 
+But it's true. You're mine. 
+And I'm going to prove it. 
+You need this. You need this so fucking bad. 
+To be used. To be shown what you are. 
+You want me to tell you what to do. 
+That's the only way you really feel good, isn't it?  @Timeout(5, AV_Timeo05)
+[yes] #Good @MoodUp
+[no] No? @MoodDown
+@DifferentAnswer #YesorNo
+(AV_Timeo05)
+When I take you out and play with you like a pretty little toy. 
+#Stroke fast
+I want you on the edge. 
+#Edge @Edge
+Do you see how quickly it happens when I tell you? 
+Now. That's so frustrating, isn't it? @ResponseYes(Ark_Frustrated)
+You're going to hold it. 
+You're going to hold it for as long as I want you to. 
+#StartStroking
+I want you tense and frustrated. 
+Frustrated and desperate toys are the most obedient. 
+You don't get anything more until I allow it. 
+You've lost ownership of your own body. 
+It doesn't belong to you anymore. 
+It's mine. 
+And now you have to ask permission to use what belongs to me. 
+Are you ready to cum? I bet you are.
+I bet you're so close to the edge. 
+#StopStroking
+Get your  hand off my property. 
+You don't get anything unless I allow it. 
+All I want right now is to watch you whimper and cry and beg. 
+Mmmmmm. 
+That's right #PetName. 
+Show me how bad you want to cum for me. 
+#SitDown
+@End
+(Modulo3)
+I can tell by the look in your eyes that you're ready. 
+We need to get these legs of yours apart. 
+Good boy!
+Do you feel exposed? @Timeout(5, AV_Timeo06)
+[yes] Well don't be embarrassed. 
+[no] But there is so much more baby.
+@DifferentAnswer #YesorNo
+Oh my, look at how your legs are shaking. 
+you'll need to stand up, now... 
+I need your legs hanging off the edge.
+look how wet the tip of your cock is. 
+You're almost ready for me, but I need you to be dripping.
+@Flag(AV_LikeAnal) Go get some lube...fast @Wait(30)
+@NotFlag(AV_LikeAnal) @NullResponse @Goto(SkipAnal67)
+Lube one finger
+Now look into my eyes #PetName. 
+Don't take your eyes off of me. 
+I want you to quickly slide the tip in your ass... 
+shhhh, it's alright baby 
+press the plunger.  
+#PetName you did so well.  
+Now your tight little ass is so slick.
+Shhhh. Hush. No questions. 
+Just feel. 
+Just imagine it's my finger inside you
+I am inside you now baby
+Shhh #PetName. Just get used to me. 
+Feel me in you.
+Now I'm going to slide out. 
+Remove your finger
+Good boy.  
+Look into my eyes and breathe again. 
+Insert your finger again
+Oh, oh good boy.  
+Does that feel good?  @ResponseYes(AV_YesNeutral) @ResponseNo(AV_NoNeutral) 
+I know it's intense. 
+Oh look at your #Cock jump 
+#StartStroking 
+Oh my, look at you!  
+I'm going to make you feel even better 
+You're still so full. 
+I'm glad you're so wet for me.
+keep fucking your ass
+I'm all the way inside you now. 
+I know it is intense.  
+Feel me inside you.  
+You are so full of me.
+(SkipAnal67)
+@NotFlag(AV_LikeAnal) #StartStroking 
+I love your moans.
+Give yourself to me.  
+#Edge @Edge
+@Flag(AV_LikeAnal) You took me so well. 
+@Flag(AV_LikeAnal) Stop fucking your ass 
+@Flag(AV_LikeAnal) Oh sweet, don't be ashamed.
+@Flag(AV_LikeAnal) Go clean yourself....I will wait for you #EmoteWink @Wait(30)
+you can sit now
+@End
+(Modulo4)
+I want to try something @RT(#PetName, #SubName)
+#AV_Hypno
+I found some audios to help me @Goto(Actress, Singer, Know, PornStar)
+(Actress)
+You need to cool down a little for this @Wait(20)
+Stroke to the beats @PlayAudio[tease\loops\short.mp3] @Wait(01)
+Slow strokes @Wait(10)
+Keep going @Wait(10)
+#RelaxAndBreathe @Wait(09)
+Now fast...  @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+Will #Var[AV_Persona01] make you loose control? @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\02\*.jpg]  @Wait(02)
+Slow down @Wait(16)
+keep going @Wait(15)
+@RT(Fast, Quick) strokes for me @Slideshow(Softcore, fast) @Wait(13)
+Now for them, keep the rhythm @SlideshowOn @Wait(18)
+#StopStroking @SlideshowOff 
+#ThatsEnough @Wait(15)
+@End
+(Know)
+You need to cool down a little for this @Wait(20)
+Stroke to the beats @PlayAudio[tease\loops\short.mp3] @Wait(01)
+Slow strokes @Wait(10)
+Keep going @Wait(10)
+#RelaxAndBreathe @Wait(09)
+Now fast...  @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+Will #Var[AV_Persona13] make you loose control? @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\01\*.jpg]  @Wait(02)
+Slow down @Wait(16)
+keep going @Wait(15)
+@RT(Fast, Quick) strokes for me @Slideshow(Softcore, fast) @Wait(13)
+Now for them, keep the rhythm @SlideshowOn @Wait(18)
+#StopStroking @SlideshowOff 
+#ThatsEnough @Wait(15)
+@End
+(Singer)
+You need to cool down a little for this @Wait(20)
+Stroke to the beats @PlayAudio[tease\loops\short.mp3] @Wait(01)
+Slow strokes @Wait(10)
+Keep going @Wait(10)
+#RelaxAndBreathe @Wait(09)
+Now fast...  @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+Will #Var[AV_Persona02] make you loose control? @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\03\*.jpg]  @Wait(02)
+Slow down @Wait(16)
+keep going @Wait(15)
+@RT(Fast, Quick) strokes for me @Slideshow(Softcore, fast) @Wait(13)
+Now for them, keep the rhythm @SlideshowOn @Wait(18)
+#StopStroking @SlideshowOff 
+#ThatsEnough @Wait(15)
+@End
+(PornStar)
+You need to cool down a little for this @Wait(20)
+Stroke to the beats @PlayAudio[tease\loops\short.mp3] @Wait(01)
+Slow strokes @Wait(10)
+Keep going @Wait(10)
+#RelaxAndBreathe @Wait(09)
+Now fast...  @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+Will #Var[AV_Persona04] make you loose control? @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+@NullResponse  @ShowImage[av_imagens\04\*.jpg]  @Wait(02)
+Slow down @Wait(16)
+keep going @Wait(15)
+@RT(Fast, Quick) strokes for me @Slideshow(Softcore, fast) @Wait(13)
+Now for them, keep the rhythm @SlideshowOn @Wait(18)
+#StopStroking @SlideshowOff 
+#ThatsEnough @Wait(15)
+@End

@@ -1,0 +1,152 @@
+@NullResponse @CheckFlag(pvMod39A)
+#StopStroking @StopStroking @SetFlag(pvMod39A)
+Let's talk about edging for a moment
+Edging and submission
+See, #Contact1 and I have this theory
+That the more you edge, the more submissive you become
+#Edge @Edge
+Now, I'm not talking about edging because you want to...
+But edging because I tell you to do it
+#Edge @EdgeHold
+When you edge on command...
+When you let someone else control you and edge you into a frenzy...
+That's when true submission starts #Smile
+But that's not as easy as it sounds, #Name
+To reach that point
+I have to make you edge so many times that you'll beg me to stop
+But #PetName, your desire to obey...
+Will always be stronger than your self-preservation instinct
+Especially when you're edging your brains out #Grin
+#Edge @EdgeMode(Goto,no need to say)
+Arousal makes you more open to suggestion
+And what better way to create arousal than to edge...
+Come on, #PetName edge for me
+(edge loop)
+#Edge @EdgeMode(Goto,no need to say)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse @EdgeMode(Normal) @Goto(edge loop)
+(no need to say)
+For the next few edges, you don't have to tell me when you edge @EdgeMode(Normal)
+Just hold the edge until I let you stop stroking
+@NullResponse @CustomMode(#pvDontWantTo,Goto,do not want)
+@NullResponse @CustomMode(#pvNeedABreak,Goto,need break)
+@NullResponse @CustomMode(#pvCantTakeIt,Goto,do not want)
+#Edge @EdgeMode(Goto,told you not to)
+Arousal makes you obedient, #PetName
+It makes you more eager to serve me
+There are all kinds of commands I can give you
+All of which you will happily obey
+But none of them deepen your commitment to me
+The way the command to edge does
+#StopStroking
+That's because when you edge, you are in a kind of limbo
+You want to cum, but you don't want to stop either
+Shivers down your spine
+Your #Cock throbbing
+You want to keep feeling that glorious agony
+#Edge
+But of course, you don't get that feeling from one edge
+You have to do it over and over again
+And that feeling builds with every second you spend on the edge @Wait(10)
+#StopStroking
+Are you starting to feel it yet, #PetName?
+The edge will come faster and faster each time
+#Edge
+Edging feels good, doesn't it #PetName
+Edging feels better than cumming, even
+Because an orgasm is over in the blink of an eye
+But edging...?
+Edging can go on and on
+#StopStroking
+This will be a very short break #Grin
+#Edge
+Do you see how easy it's becoming to obey that command?
+Only a few strokes and you're right back at the edge
+#StopStroking
+Oh my poor helpless #PetName #Smile
+#Edge
+@NullResponse
+@NullResponse
+3... @ShowSoftcoreImage
+2... @ShowSoftcoreImage
+1... @ShowSoftcoreImage
+#StopStroking
+@CockTorture @NullResponse @CBTCock
+#Edge
+You should be edging almost instantly now, #Name
+And then...
+You will ride it...
+Until...
+I...
+Say... @Wait(5)
+#StopStroking @EdgeMode(Normal)
+#LetTheEdgeFade
+That's enough for now
+I think you're starting to learn the meaning of the word <i>submission</i> #Smile
+From now on you should tell me when you edge again,okay?
+@End
+(told you not to)
+I told you not to say it, #PetName @MoodDown
+But I guess even a simple command like that is too difficult for you...
+#Edge @Edge(LongHold,HoldTaunts)
+#LetTheEdgeFade
+Don't think I'm letting you off so easy @Interrupt(pvInt_Punishment)
+@End
+(do not want)
+Oh c'mon now, #PetName
+You need to try harder, because this really won't do @Interrupt(pvInt_Punishment)
+@End
+(need break)
+I guess you can take a break... @CallReturn(Custom/Break/*.txt)
+Time for some more edges! #Grin
+#Edge @EdgeHold
+Mmm yes, maybe that break was just what you needed
+But now what you need is to edge your fucking brains out...
+#Edge @EdgeHold @MultipleEdges(3,6,50)
+Do you feel that?
+That's your mind leaking out through your #Cock #Grin 
+#Edge @EdgeHold @MultipleEdges(5,8,100)
+#LetTheEdgeFade
+I'm gonna let you settle down for a second now
+I feel like I was about to break your poor #Cock there...
+@End
+(pvMod39A)
+#StopStroking @StopStroking @DeleteFlag(pvMod39A)
+I think now you should...
+Do some timed stroking, just try not to edge, #Name @CallReturn(Custom/CallReturn/pvCr_TimedStrokingRandom.txt)
+Did you finish the whole set?
+[yes] Good #Smile @Goto(next set)
+[no] Oh no no #EmoteSad
+@DifferentAnswer #YesOrNo
+I thought you'd do better, #Name @Goto(how many missed)
+(next set)
+@NullResponse @Chance20(last one)
+Let's do @RT(one more,another one,another set)... @CallReturn(Custom/CallReturn/pvCr_TimedStrokingRandom.txt)
+Did @RT(you manage to,you) @RT(complete,finish,do) @RT(the whole set,all your strokes,them all)?
+[yes] Alright, @RT(well done,good job) @Goto(next set)
+[no] Hmmm 
+@DifferentAnswer #YesOrNo
+(how many missed)
+How many strokes did you miss? @InputVar[pvHowManyMissed]
+@RT(Alright,Okay,Well,Oh)...
+@BallTorture Then you should slap your #Balls @ShowVar[pvHowManyMissed] times @Goto(when done)
+Then you should do @ShowVar[pvHowManyMissed] situps right now
+(when done)
+Let me know when you're done, #Name
+[done,did,finished,ready] Okay
+@DifferentAnswer Tell me when you're done...
+@NullResponse @Goto(next set)
+@End
+(last one)
+Let's do one more @CallReturn(Custom/CallReturn/pvCr_TimedStrokingRandom.txt)
+Did @RT(you manage to,you) @RT(complete,finish,do) @RT(the whole set,all your strokes,them all)?
+[yes] Alright, good job @Goto(end mod)
+[no] Oh c'mon, #PetName
+@DifferentAnswer #YesOrNo
+#Edge @EdgeHold
+#LetTheEdgeFade
+(end mod)
+Let's move on to something else now
+@End

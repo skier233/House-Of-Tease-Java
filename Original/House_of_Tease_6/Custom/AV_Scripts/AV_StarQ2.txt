@@ -1,0 +1,10 @@
+If I say: I have some fun things planned. You say?
+[Nothing] That's right. @Goto(StartQ02Right)
+@AcceptAnswer What I said was not a queue for you to reply
+@CBT
+@NullResponse @Goto(EndQuestionsAV)
+(StartQ02Right)
+#Stroke #RandomRound10(10, 50) times @Wait(20)
+(EndQuestionsAV)		
+This kind of verbal discipline turns me on so much.
+@End

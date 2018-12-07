@@ -1,0 +1,16 @@
+[can't help it,can't help myself,i'm helpless,i am helpless,not help it,not help myself]
+[All]
+You can't resist me, it's as simple as that
+That's because you are weak and easily controlled, #PetName
+You simply don't have a choice but to submit to me again and again
+It's okay, just give in to that feeling #SubName
+That's okay, it's just part of who and what you are #Smile
+That's what makes you so easy to control, #PetName
+Yes and the truth is, you wouldn't want it any other way #Smile
+Helpless, powerless, weak, horny, submissive... @RT(etcetera,all of the above) #Smile
+That's exactly right, #PetName
+At least you understand that much about yourself #Smile
+[All End]
+[Stroking]
+Hmmm... does that mean you'll do whatever I tell you to do? @ResponseYes(IWillDoWhatever)
+[Stroking End]

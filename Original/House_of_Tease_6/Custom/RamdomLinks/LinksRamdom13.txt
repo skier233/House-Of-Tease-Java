@@ -1,0 +1,123 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link13_NotFirstTime)
+@NullResponse @SetVar[AV_Link13]=[0] 
+@NullResponse @SetFlag(AV_Link13_NotFirstTime)
+(AV_Link13_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link13]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link13]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link13]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link13]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link13]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link13]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link13]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link13]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link13]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link13]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link13]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link13]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link13]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link13]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link13]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link13]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link13]=[AV_Link13]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link13]=[AV_Link13]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link13]=[AV_Link13]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link13]=[AV_Link13]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link13]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Oh, I bet you must be feeling even more frustrated... 
+Mmm... Are you finding it a little tough to bear?  @ResponseYes(Ark_Frustrated) @ResponseNo(AV_NoNeutral) 
+Or maybe your secretly loving this.
+This is what you want really, isn't it? @ResponseYes(ILoveTeaseAndDenial)
+You want me to tease you and tease you until you just cant take it any more, am I right? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+To feel that excitement build up inside you until you feel like your going to burst. Hmm?
+I know that's what you want.
+#StartStroking @StartStroking
+@End
+(Link2)
+So I just wanted to remind you
+that I know what you like
+And I CAN give you EXACTLY what you want
+But I can be mean too...
+and leave you here
+with a throbbing, rock-hard erection
+blue balls, buzzing and filled to the brim with sperm
+and NO ONE to help finish you off..
+Cause I can tease, too, dear. 
+Just wanted to make sure we were clear on that, #PetName
+#StartStroking @StartStroking
+@End
+(Link3)
+Well let me tell you a secret. 
+I love doing this. 
+I love the control that I can have over you. 
+And I love knowing that you'll get me back for it later. 
+And honestly? 
+I just really, really love the face you make when I've gotten you past the point of no return. 
+When you're trying so desperately to hang on, knowing how futile is. 
+Yeah, I love knowing you don't stand a chance against me. 
+I love how fucking hot you think I am. 
+And how amazing that makes me feel.
+#StartStroking @StartStroking
+@End
+(Link4)
+Now, hands behind your back. 
+Do not touch yourself, just let that throbbing cock of yours bob in the air.
+Uh, no I don't care how big and hard it is. 
+You are not allowed to touch it.
+you poor poooor thing.. 
+the only thing you're able to think of right now?  @ResponseYes(ICantHelpMyself) @ResponseNo(AV_NoNeutral) 
+Yeah it's got to be.. 
+well, how badly...how desperately you neeeed to #Stroke?
+you have all of this hot sperm boiling up..
+about to force itself out the tip of your #Cock
+and you need to let it out. 
+The pressure baby, it's just tooo much
+It's impossible to think of anything else...
+#StartStroking @StartStroking
+@End

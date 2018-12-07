@@ -1,0 +1,121 @@
+@NullResponse @Goto(one,two,three,four)
+(one)
+@Flag(pvMod19A) @NullResponse @DeleteFlag(pvMod19A) @Goto(two,three,four)
+#StopStroking @StopStroking
+Take a deep breath and relax @SetFlag(pvMod19A)
+Because...
+I'm about to mess you up bad, #Name #Grin
+#StartStroking
+@NullResponse
+#StrokeFaster
+That's good, #Name
+Keep going at that pace
+But don't edge, loosen your grip if you have to
+I'm going to make you edge in a bit, but not yet
+For now, I want you to keep #JerkingOff
+I want to build you up good
+I want you desperate to cum
+This next edge that's coming up...
+It's going to be a long one #Grin
+It's going to be mind-bending
+I think you know why I make you stuff like that, #Name
+The more I make you edge, the more desperate you become
+And the more desperate you become...
+The more willing to obey #Smile
+You must have some hard limits, #SubName
+Things you would never do, even for me
+Think of one as you continue to build up
+You know #SubName, the more aroused you get...
+The more those 'hard' limits start to soften
+They start to weaken
+Think of something you would never do
+Imagine doing it in front of me
+And get to the edge right now @Edge(ExtremeHold,HoldTaunts)
+#LetTheEdgeFade
+Whatever it was you thought about just now
+Could you see yourself doing it for me?
+[yes] That's the power of arousal, #SubName
+[no] Then you still weren't aroused enough #Laugh
+@DifferentAnswer #YesOrNo
+You know I'd never @RT(force you to,make you,pressure you to) do anything @RT(you don't want to do,against your will)
+But the more you ache for me
+The more you'll want to @RT(submit,yield) to @RT(me,my will)
+The more @RT(you are mine,I own you)
+And you do want that, don't you?
+[yes] Good #Smile
+[no] Someone needs a couple more extreme edges... #Grin
+@DifferentAnswer #YesOrNo
+@NullResponse
+@End
+(two)
+@Flag(pvMod19B) @NullResponse @DeleteFlag(pvMod19B) @Goto(one,three,four)
+#StopStroking @StopStroking
+I tell you what to do a lot, don't I #Smile @SetFlag(pvMod19B)
+How about I let you choose this time
+Do you want...
+To bust your balls or to edge and hold it for a long time?
+[bust,balls] Good choice #EmoteHappy @Goto(i choose balls)
+[edge,hold] I hope you're not going to regret your choice, #Name
+@DifferentAnswer Bust balls or hold edge, #Name?
+Because I might let you hold it a <i>very</i> long time #Grin
+#Edge @Edge(LongHold,HoldTaunts)
+#LetTheEdgeFade
+@End
+(i choose balls)
+I do always like busting your #Balls and I'm glad you agree @CBTBalls
+Those poor #Balls...
+Well, it was your choice so you must enjoy getting them beat up #Laugh
+@End
+(three)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(four)
+@Flag(pvMod19C) @NullResponse @DeleteFlag(pvMod19C) @Goto(one,two,three)
+#Edge @MultipleEdges(4,6) @EdgeHold
+#LetTheEdgeFade @SetFlag(pvMod19C)
+Does it hurt when I make you edge so much?
+[yes] Aww and I thought I was doing you a favour! #Lol
+[no] Good, because there are other things I can do to accomplish that #Grin
+@DifferentAnswer #YesOrNo
+Do you think I make you edge too much or too little?
+[much] #Grin @Goto(too much edging)
+[little] Oh... then we need to do more! @Goto(need to do more)
+[enough,just right,right amount,neither,perfect,good] Hm...
+@DifferentAnswer Too much or too little?
+That's good then, I suppose
+Except it isn't, #Name
+I don't want to edge you 'just enough'
+I want to edge you to your breaking point
+I want to edge you until you can't take it anymore
+I want to edge you <i>too much</i> #Grin
+#Edge @MultipleEdges(9,5) @EdgeHold
+#LetTheEdgeFade
+That's more like it #Laugh
+And if you're think I'm being cruel...
+You haven't seen the least of it #Grin
+@End
+(too much edging)
+Everyone has a limit, #Name
+@RT(My job is,I just need) to find yours...
+And then ignore it #Grin
+#Edge @Edge
+#LetTheEdgeFade
+It's not that I'm <i>trying</i> to be cruel
+You just make it so easy #Grin
+@End
+(need to do more)
+#Edge @MultipleEdges(3,5) @EdgeHold
+#LetTheEdgeFade
+Had enough?
+[yes] Everyone has a limit, #PetName
+[no] Okay #Laugh @Goto(need to do more)
+@DifferentAnswer #YesOrNo
+@RT(My job is,I just need) to find yours...
+And then ignore it #Grin
+#Edge @Edge
+#LetTheEdgeFade
+That's not me being cruel, #Name
+It's me giving you what you deserve
+It's me giving you what you @RT(want,crave,desire)
+@End

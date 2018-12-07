@@ -1,0 +1,13 @@
+@Contact3 @RT(You didn't think you were getting out of this easily,, did you?, I'm sorry that I needed to hurt you. Shhhh, it's okay). 
+@NullResponse @Chance20(Para)
+@Contact3 @RT(I need to teach you a lesson, though, Because this is just the start of your punishment)
+@Contact3 So, let's (continue, keep going)
+@End
+(CheckPause)
+@Contact3 @RT(I'll try to keep your limits in mind a little better, I think) I can let you rest for a while
+@Contact3 enjoy @Wait( #Random(100, 120))
+@Contact3 #ThatsEnough
+@End
+(Para)
+@Contact3 #ThatsEnough @Interrupt(AV_Cancela)
+@End

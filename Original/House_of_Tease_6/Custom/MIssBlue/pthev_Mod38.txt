@@ -1,0 +1,43 @@
+@NullResponse @Goto(one,two,three,four)
+(one)
+#StopStroking @StopStroking
+Hmm
+Does that seem right to you?
+[yes] Well I think you're not aching enough to stop stroking yet
+[no] No me neither, you're not aching enough to stop stroking yet
+[what,understand,you mean] Was it time to stop stroking already? @LoopAnswer
+@AcceptAnswer I think you're not aching enough to stop stroking yet
+So get to the edge, #PetName @EdgeHold @PlayAudio[tease\cEdge.mp3]
+#LetTheEdgeFade
+That's much better #Laugh
+@End
+(two)
+#StopStroking @StopStroking
+There are few thing that give me more pleasure than telling a boy what to do @CheckFlag(pvMod382A)
+If only I could make more use of that around the house @SetFlag(pvMod382A)
+I could definitely use someone to do my laundry and cleaning
+Who knows, maybe some day, hm? #Smile
+@End
+(pvMod382A)
+Maybe chocolate... and strawberries... #EmoteHappy @DeleteFlag(pvMod382A)
+@End
+(three)
+#Edge @Edge
+#LetTheEdgeFade @If[#SessionEdges]<[6]Then(not too many)
+And that was edge number #SessionEdges for today
+Give or take a few, it's hard to keep track isn't it #Laugh
+(not too many)
+That was only edge number #SessionEdges so far #GeneralTime
+There will be more coming I'm sure #Grin
+@End
+(four)
+#StopStroking @StopStroking @BadMood(in a bad mood)
+You're doing fine so far, #PetName
+I don't know if I tell you that often enough
+There's no reason to feel bad about yourself or to be ashamed to be here
+I'm having a great time and if you are too, then it's all good #Smile
+@End
+(in a bad mood)
+Fuck it, you need to get to the edge right now, #PetName @PlayAudio[tease\cEdge.mp3] @Edge @MultipleEdges(3,6,100)
+#LetTheEdgeFade
+@End

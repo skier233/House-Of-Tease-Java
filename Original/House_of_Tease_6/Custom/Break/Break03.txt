@@ -1,0 +1,21 @@
+You can do whatever you like for the next 3 minutes, #Name
+As long as you don't #JerkOff of course #Laugh
+See you in a bit, don't be late... @AFKOn @LockImages
+@NullResponse @ShowImage[MissBlue_Images/black.jpg] @Wait(180)
+@NullResponse @AFKOff @UnlockImages
+Are you there, #Name? @Timeout(15,not there)
+[yes] Good
+[no] Haha very funny *rolls eyes*
+@AcceptAnswer Alright
+Enough of this doing nothing already
+@End
+(not there)
+@NullResponse @MoodWorst
+Well... you're in trouble now, #PetName
+Let me now if you want to continue
+[yes] I'm not happy about this, #SubName
+@AcceptAnswer I'm not happy about this, #SubName
+When I tell you to be back in 3 minutes, I expect you not to be late
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_Punishment.txt)
+I hope this was the last time you were late, #PetName
+@End

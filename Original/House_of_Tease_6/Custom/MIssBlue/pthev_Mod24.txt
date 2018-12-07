@@ -1,0 +1,306 @@
+#StopStroking @StopStroking @CheckFlag(pvMod24Skip)
+Rub your #Balls for me @TempFlag(pvMod24Skip) @CheckFlag(pvBallsTied,are they still tied up)
+Massage them, gently squeeze them, give them some love #Smile
+@Flag(pvFootFetishYes) Do it like you're rubbing my feet @Chance50(rubbing my feet)
+I know I can be @RT(very,pretty) @RT(cruel,mean) to them @RT(sometimes,from time to time,at times)
+And they deserve everything that's coming to them
+But I want you to make your #Balls feel good now @Wait(12)
+That's enough, stop touching @Goto(end mod or not)
+@End
+(are they still tied up)
+@BallTorture @NullResponse @Goto(to cbt)
+When they are tied up I get the urge to smack then #Giggles
+But I won't, #Name
+I know you don't like that, although...
+I do think it's weird that you let me tie them up, but not smack them
+Oh well #Smile
+Do you want to untie your #Balls?
+[yes] Hmm...
+[no] Alright @Goto(end mod or not)
+@DifferentAnswer #YesOrNo
+I'll let you untie them if you agree to smack them first, deal?
+[yes] Good #Grin
+[no] Alright then, #PetName @Goto(end mod or not)
+@DifferentAnswer #YesOrNo
+I'm going to enjoy this very much, #PetName @CBTBalls
+Aww they are so sore and blue now #Laugh @CallReturn(Custom/CallReturn/pvCr_UnTieMyBalls.txt)
+@NullResponse @Goto(end mod or not)
+@End
+(to cbt)
+They get all hard and tight when they are tied up @CBTBalls
+Hurting your #Balls is so much more fun when they are tied up #Grin
+They are much more sensitive then, right? @CallReturn(Custom/CallReturn/pvCr_UnTieMyBalls.txt)
+I hope they are not too sore from being tied up
+@End
+(rubbing my feet)
+I'm sitting on a couch with my legs crossed
+You're on your knees in front of me
+My bare right foot is dangling in front of you
+Massage your #Balls like they are my toes
+My perfect little toes
+Now rub the shaft of your #Cock like it's the sole of my foot
+Don't stroke, just caress it gently
+From my toes to my heel and ankle
+Feel the soft curve of my sole
+I love it when you give me a foot massage #Smile @Wait(12)
+Now stop, #Name
+That's enough foot-rubbing for now
+@End
+(end mod or not)
+#StartStroking @CheckFlag(pvMod24A)
+#StrokeFaster @SetFlag(pvMod24A) @Glitter(pvGl_Mod24Anyone)
+@NullResponse  @Wait(10)
+@NotFlag(pthevShoelace) @NullResponse @Goto(no lace)
+#StopStroking @CheckFlag(pthevGlitterIntroduced)
+You really ought to meet a couple of my friends, #PetName
+They have some interesting ideas of their own about how to treat boys like you
+@End
+(no lace)
+#StopStroking
+@End
+(pthevGlitterIntroduced)
+@BallTorture @NullResponse @Goto(go for torture)
+#StopStroking
+@End
+(go for torture)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+@Flag(pthevPlugged) @NullResponse @CallReturn(Custom/CallReturn/pvCr_PlugOut.txt)
+@NullResponse @AddContact3
+So I tied up his #Balls for ya, #Contact3 #Smile
+@Contact3 Awesome, let's have some fun #Grin
+@Contact3 Start tapping your balls gently, #SubName @TempFlag(pvNotWantRoughContact3)
+Now that's a word you don't use too often, #Contact3 #EmoteWink
+@Contact3 What, tapping?
+No, <i>gently</i> #Lol
+@Contact3 Oh! Yeah... #Laugh
+@Contact3 That's only the start though
+@Contact3 When you start with HARD SMACKS there's nowhere to go after that
+@Contact3 I want you to tap a little bit harder how, #SubName
+@Contact3 But don't overdo it, because it a minute you'll have to increase the intensity once more
+Oh I get it now
+I probably don't always get the pacing right, but then again...
+I do like to keep things unpredictable
+@Contact3 There's definitely a trade off between pacing and predictability
+@Contact3 And there's a time and place for both
+@Contact3 Tap a bit harder again, #SubName
+@Contact3 This must be getting a bit uncomfortable now, but I want you to keep going
+@Contact3 I want those #Balls blue and sore
+#SubName is that #Cock still hard?
+[yes] Wow that's kind of amazing #EmoteHappy
+[no] We'll have to get it back up later on #Smile @TempFlag(pvMod24CH)
+@DifferentAnswer #YesOrNo
+@Contact3 Alright...
+@Contact3 #SubName...
+@Contact3 You can stop now, give those #Balls a rest
+That's probably not going to last too long #Grin
+@Contact3 Few things in life are certain, but that one's a pretty safe bet #Laugh @CheckFlag(pvWillNotKneel,few things)
+@Contact3 Get down on your fucking knees, worm
+@Flag(pvKneeling) He's already kneeling, or ought to be anyway
+@Contact3 Alright then...
+(few things)
+@NullResponse @CheckFlag(pvMod24CH)
+@Contact3 Make sure your #Cock is really hard, #SubName
+@Contact3 You can touch it @Goto(as a rock)
+(pvMod24CH) 
+@Contact3 Let's make sure that #Cock is hard as a rock again
+@Contact3 Stroke it, squeeze it, spit on it, I don't care what you do
+@Contact3 As long as your #Cock gets hard again ASAP, #SubName
+(as a rock)
+@Contact3 Make it big and hard, make it fucking leak for me
+@Contact3 You're going to need some clothespins, #SubName
+@Contact3 Can you go get like 10 of them right now?
+[yes] @Contact3 go ahead and crawl over to get them, we'll wait
+[no] @Contact3 What. The. Fuck. @Goto(the fuck)
+@DifferentAnswer @Contact3 Yes or no??
+That reminds me, I still have to fold my damn laundry
+@Contact3 One of those little chores... you should make #SubName do that for you 
+Oh I would in a second if I could...
+He could do all of our chores #Smile
+@Contact3 Scampering around naked with a only chastity device on, I can picture it already #Laugh
+@Contact3 Have you found those clothespins, boy?
+[yes] @Contact3 Good
+[no] @Contact3 What. The. Fuck. @Goto(the fuck)
+@DifferentAnswer @Contact3 Yes or no?
+@Contact3 Put a clothespin on each nipple @Wait(6)
+@Contact3 Start stroking @TempFlag(pvPinsOn)
+@Contact3 Don't worry, we'll get to the other clothespins
+@Contact3 But first I want you to get really hard and horny for me
+You can stroke a little faster than that, #PetName @Wait(12)
+@Contact3 Get to the edge! @Edge
+@Contact3 Good boy #Grin
+#LetTheEdgeFade
+@Contact3 There are 8 clothespins left...
+@Contact3 Put them all on your balls, #SubName @TempFlag(pvPinsOnBalls)
+@Contact3 4 on the left, 4 on the right
+@Contact3 You know, I was going to bust your balls some more wit a spoon or something
+@Contact3 But I've changed my mind
+@Contact3 There's something else I want you to do
+@Contact3 When you're done with the clothespins, pick an object from your room
+@Contact3 Or the adjacent room if you have to, but always stay on your knees
+@Contact3 And pick wisely, because that object, well...
+@Contact3 You going to insert it into your ass #Grin
+@Contact3 And it can't be a dildo or butt plug
+@Contact3 You can to that for me, right?
+[yes] @Contact3 Good
+[no] @Contact3 Oh. @Goto(the fuck)
+@DifferentAnswer @Contact3 Yes or no?
+This... I've got to see #Lol @Glitter(pvGl_Mod24CallThem)
+@Contact3 Let's give #SubName a moment to find the right object
+@Contact3 I mean, you can't just shove everything in there
+Definitely not! #Lol
+@Contact3 It's gotta be smooth and you have to be able to get it back out again...
+Good point! That's not something you want to visit the doctor for...
+"It was a million to one shot, doc" #Lol
+@Contact3 #Lol @AddContact2
+@Contact2 I'm a little bit afraid to ask, but what up?
+@Contact3 You'll see #EmoteWink @AddContact1
+@Contact1 See what?
+@Contact3 Are you ready, #SubName?
+[yes,ready] @Contact3 Here we go then...
+[no] Let us know when you're ready, #PetName @LoopAnswer
+[don't want,not going,will not,refuse] @Contact3 Oh. @Goto(the fuck)
+@DifferentAnswer @Contact3 Yes or no?
+@Contact3 What have you got there, #SubName? @InputVar[pvMod24Object]
+@Contact3 And where are you going to put that @ShowVar[pvMod24Object]?
+[ass,butt,rectum] @Contact3 That's right #Smile
+[don't want,not going,will not,refuse] @Contact3 Oh. @Goto(the fuck)
+@DifferentAnswer @Contact3 Where?
+@Contact2 Oh wow... that's...
+@Contact2 HILARIOUS #Lol
+@Contact1 C'mon then, do it #SubName #Laugh
+@Contact3 Did you put it in your ass, slave?
+[yes,ready] I wasn't sure you were actually going to do it, #PetName #Laugh
+[no] Let us know when you're ready, #PetName @LoopAnswer
+[don't want,not going,will not,refuse] @Contact3 Oh. @Goto(the fuck)
+@DifferentAnswer @Contact3 Yes or no?
+@Contact2 OMG wiggle your butt a little bit, #SubName #Lol
+@Contact1 I think it's safe to say that we can really make #SubName do <i>anything</i> at this point
+@Contact1 By the way, jerk your #Cock for us... I want to make sure it's still hard and leaky
+Good point, #Contact1
+Stroke that #Cock slowly, #PetName
+Make it nice and hard if it isn't already
+@Contact3 I wouldn't be surprised if shoving stuff up his ass is enough to achieve that
+@Contact3 Being humiliated turns you on, doesn't it #SubName?
+[yes] @Contact3 Yeah you're a fucking humiliation junkie #Laugh
+[no] @Contact2 Don't worry, we'll be nice #Smile
+@DifferentAnswer @Contact3 Yes or no?
+@Contact2 We always have your best interest close at heart, #SubName
+@Contact1 I don't know, it seems like we're way past that stage now, #Contact2 #Laugh
+Stroke faster, #PetName @EdgeMode(Goto,past that stage)
+@Contact3 I bet #SubName is enjoying this so much, he's going to edge for us pretty soon
+@Contact1 Mmmm yess it's hard to hold back the edge, isn't it #SubName
+Don't edge, I just want you to stroke right and get hard for me now, #PetName
+@Contact2 I don't think he's going to be able to hold it back #Giggles
+@Contact2 That edge is going to keep building and building... @RapidTextOn
+@Contact1 Edge for us now, #SubName
+No #SubName you're not going to edge, you're going to stroke and be a good obedient #PetName @RapidTextOff
+Don't listen to them #Smile
+@Contact3 It must be such a struggle going on inside that little mind...
+@Contact3 "I want to be obedient and do as #DomName says, but it's so hard to hold back..."
+@Contact2 C'mon... you know you want to cum so bad, #SubName
+@Contact1 And you know how good it feels to come so close... to bring yourself right up to the edge
+@Contact2 We're not going to let you cum of course, but we'll let you get close #Smile
+Don't do it, just keep stroking like that, #PetName
+Don't slow down and don't edge
+You should see this as a test of the strength of your obedience to me
+@Contact3 You know you don't have any strength, #SubName
+@Contact3 You're a weak little worm who wants nothing more than to edge right now
+@Contact2 Or maybe you'd like to edge to her... @ShowTaggedImage @TagSoloF 
+@Contact1 Or for these... @ShowBoobsImage
+@Contact2 This has to push you to the edge... #EmoteMoan @ShowLesbianImage
+You can't break his obedience to me, if I say no, it's NO
+@Contact2 Oooh, but you can't resist it, #SubName
+@Contact2 Be honest with yourself, you just want sooo badly to edge right now
+@Contact1 Even if you don't want to, that edge is coming in fast
+@Contact3 Just fucking edge for us already, worm! #Lol
+You're doing great, #PetName #Smile @MoodUp
+@NullResponse
+@NullResponse
+@NullResponse
+#StopStroking
+@NullResponse @EdgeMode(Normal)
+@Contact1 I have to say, I really didn't think he'd be able do it
+@Contact3 Pretty impressive, #ShortName #Smile
+@Contact2 I guess being humiliated doesn't make #SubName all that turned on after all
+@Contact3 I think the humilation is what keeps him in line, regardless of how aroused he gets...
+In any case, obedience is the key to everything #Smile @Goto(continue to ending)
+(past that stage)
+@Contact1 And there it is #Laugh
+@Contact2 #Lol
+I guess you girls were right, there's just no keeping him from edging #Lol @MoodDown
+@Contact3 It's the humiliation, #ShortName
+@Contact3 Guys like #SubName just get so horny from the abuse...
+@Contact2 I think it's just the presence of 3 hot goddesses like us that does it #Smile
+@Contact1 Don't over think it girls, like all guys he just want desperately to rub one out
+@Contact1 The trick is to make 'em stop at the right moment #EmoteWink
+Exactly, you want the desperation to stay and the orgasm delayed #Smile
+(continue to ending)
+By the way, pull that @ShowVar[pvMod24Object] out of your ass, #SubName @DeleteFlag(pvNotWantRoughContact3)
+@Contact3 And about those clothespins... go get a wooden spoon or ruler or something
+@Contact3 There's only one right way to get the pins off, and that's by smacking them off #Grin
+@Contact2 But he has some on his testicles too, right?
+@Contact2 Isn't that going to hurt??
+You're so sweet, #Contact2
+Off course it's going to hurt, that's the point... #Grin
+@Contact2 You girls are truly evil... I like it #Laugh
+@Contact1 You say evil, I say we're just giving #SubName what he deserves
+@Contact3 C'mon #SubName, smack all those clothespins off your nipples and balls
+@Contact3 If for whatever reason some fell off, put them back on and <i>then</i> smack them off
+@NullResponse @DeleteFlag(pvPinsOn) @DeleteFlag(pvPinsOnBalls) @Wait(10)
+@Flag(pvBallsTied) And when you're done with that... @CallReturn(Custom/CallReturn/pvCr_UnTieMyBalls.txt)
+@Contact2 This was pretty interesting, talk to you later guys #Smile @RemoveContact2
+@Contact1 Yeah, the best part is over now I suppose #EmoteWink @RemoveContact1
+@Flag(pvKneeling) You can get off your knees now, #SubName @DeleteFlag(pvKneeling)
+@Contact3 There's at least one object in your room right now that you should probably throw out, #SubName #Laugh
+@Contact3 Or maybe you can clean it and use it again next time...?
+I think it's safe to say there's bound to be a next time #EmoteHappy
+@Contact3 Definitely #Smile @RemoveContact3
+I love how #Contact3 can push you further and further, #PetName
+It's good to have a friend like that #Grin
+@End
+(the fuck)
+@NullResponse @RemoveContact2
+@NullResponse @RemoveContact1 @DeleteFlag(pvNotWantRoughContact3)
+@NullResponse @Interrupt(pvIn_NotWantRoughContact3)
+@End
+(pvMod24A)
+Do you even enjoy doing this anymore? @Timeout(7,do you even enjoy)
+[yes] You're just addicted , aren't you... #Grin
+[no] Yet you just can't stay away... #Grin
+@DifferentAnswer Just say yes or no if you're going to answer, #PetName
+(do you even enjoy)
+It's @RT(no longer,not even) about whether you @RT(get any pleasure out of,enjoy,love doing) it or not @DeleteFlag(pvMod24A)
+You're just here because it feels natural to be submissive
+It feels normal to be a helpless puppet for me to @RT(toy,play) with
+#StopStroking
+The craving has become routine
+And yet it never loses its edge like most routines
+Especially when I deny your orgasm
+The tension and arousal just seem to keep building and building
+But still you never seem to get anywhere
+#StartStroking
+Like running in an endless spiral, simultaneously up and down
+Arousal and frustration up...
+Strength and resistance to me down
+And on and on you go, my little puppet #Smile
+#StopStroking
+It was never about your pleasure in the first place, #PetName
+You just thought it was so I could lure you down the rabbit hole
+But now that you're down here, pleasure doesn't matter anymore
+It's all about giving me what I want
+And you'll keep giving until there's nothing left to give 
+@End
+(pvMod24Skip)
+Easy now, #PetName @Wait(8)
+Let's have a short break, you look like you could use it...
+Not too long of course, we wouldn't want you to get bored
+Or, god forbid, that cock soft...
+But it's probably not going to go limp that quickly
+Still, just to be sure...
+#StartStroking
+Mmmm it feels so good in your hand, doesn't it?
+#StrokeFaster
+Don't edge, you don't have permission
+#StrokeSlower
+#StopStroking
+@End

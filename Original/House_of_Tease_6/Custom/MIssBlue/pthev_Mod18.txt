@@ -1,0 +1,2484 @@
+@NullResponse @CheckFlag(pvMod18A)
+@NullResponse @CheckFlag(pvMod18joidone)
+#StopStroking @StopStroking
+That porn collection of yours, #Name... @SetFlag(pvMod18A)
+I don't know if I ever said thank you for giving me access to it
+But thank you #Smile
+I'm having a great time browsing those folders
+I have to say, you have some great porn generally
+Although, it's so obviously a guy thing #Laugh
+You know what I find odd?
+@NullResponse @CheckJOIVideo
+Those jerk off instruction videos @SetFlag(pvMod18joidone)
+I mean, why would you #JerkOff to some pre-recorded clip
+Where you probably already know in advance what will happen
+But anyhow...
+Since you <i>do</i> have them
+I might as well use them #Laugh
+So I'm going to show you one
+You'll have to do whatever the person in the clip tells you to do
+Except, of course, cumming or ruining an orgasm
+Deciding when you have an orgasm, that's <i>my</i> privilege #Smile
+If you are told to cum or ruin, I want you to edge and let go
+Have fun! @PlayJOIVideo
+Okay, time for me to take charge again, #Name
+@End
+(No JOI Found)
+That you don't have any of those jerk off instruction videos
+I figured that would be right up your alley
+You should get some of those
+It would give me a chance to take a break
+Without giving you one #EmoteWink
+@End
+(pvMod18joidone)
+@NullResponse @CheckFlag(pthevCompleteControlYES,no more joi)
+#Edge @MultipleEdges(3,6,50) @Edge
+#LetTheEdgeFade
+@End
+(no more joi)
+#StopStroking @StopStroking
+I know you like those JOI videos, #PetName
+But to be honest, I don't know if I like you #JerkingOff to another girl's instructions
+So I'm going to play you one of those videos
+But instead of following <i>her</i> instructions, you will follow mine
+@NotFlag(pvWillNotKneel) I want you to get down on your knees, right now @TempFlag(pvKneeling)
+Start stroking, slowly
+You're going to to the opposite of what the girl in the video tells you
+So when tells you to start stroking, you will stop
+And when she tells you to stop, you will start stroking again
+But only slow strokes, #Name
+And when she tells you to edge or cum... you will smack your #Balls
+You will ignore all other instructions she might give you
+Enjoy #Smile @PlayJOIVideo
+That was probably pretty frustrating...
+But doesn't it feel much better when you're following my instructions instead of hers?
+[yes] That's what I thought... #Smile @MoodUp
+[no] Well tough luck, #PetName @MoodDown
+@DifferentAnswer #YesOrNo
+@Flag(pvKneeling) Get up off your knees now, #PetName @DeleteFlag(pvKneeling)
+@NullResponse
+@End
+(pvMod18A)
+@NullResponse @DeleteFlag(pvMod18A)
+#StopStroking @StopStroking
+@NullResponse @If[pvMod18Record]>[19]Then(no more ladders)
+@RT(Do you know,Want to hear) what you're @RT(about to do for me,going to do next,doing next)? @Timeout(6,do ladder)
+[yes] Let me tell you what...
+[no] I'm going to tell you anyway...
+[edge] Yes!
+[cum,orgasm] #OhNo
+@AcceptAnswer Let me tell you what...
+(do ladder)
+You're going to do an edge ladder, #Name #Smile @CheckFlag(pvMod18LadderOne)
+(explain ladder)
+On the first rung, you'll hold the edge for 5 seconds
+On the second, 10 seconds
+Third rung, 15 seconds of holding the edge
+And so on, each rug adding 5 seconds of holding the edge until you give up
+Be a good boy and try go as high as you can, #PetName
+Let's begin! @CustomMode(#pvGiveUp,Goto,giving up)
+#Edge @EdgeMode(Goto,first edge)
+(first loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(first loop)
+(first edge)
+5 @RapidTextOn
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+Stop @RapidTextOff
+This is about to get a lot harder #Grin @SetVar[Mod18Rung]=[1]
+Five seconds is nothing, you can do that in your sleep
+Maybe you do edge in your sleep! #Lol
+Alright, here comes the second rung
+#Edge @EdgeMode(Goto,second edge)
+(second loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(second loop)
+(second edge)
+10 @RapidTextOn
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+Stop @RapidTextOff
+#LetTheEdgeFade @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+Try to regain your composure
+You've still got a ladder to climb #Smile
+The next one will be holding the edge for 15 seconds
+#Edge @EdgeMode(Goto,third edge)
+(third loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(third loop)
+(third edge)
+15 @RapidTextOn
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+#LetTheEdgeFade @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+So far so good
+I think we can do the next one right away, alright?
+#Edge @EdgeMode(Goto,fourth edge)
+(fourth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(fourth loop)
+(fourth edge)
+20 @RapidTextOn
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+The trick isn't that the edges get longer, of course @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+It's that all these edges add up #Grin
+You've already been edging for 50 seconds so far...
+#Edge @EdgeMode(Goto,fifth edge)
+(fifth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(fifth loop)
+(fifth edge)
+25 @RapidTextOn
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+@NullResponse @ChangeVar[Mod18Rung]=[Mod18Rung]+[1] @Wait(10)
+#Edge @EdgeMode(Goto,sixth edge)
+(sixth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(sixth loop)
+(sixth edge)
+30 @RapidTextOn
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+#LetTheEdgeFade @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+Maybe it gets easier as the edges get longer...
+But I doubt it
+My guess is you cherish these little break in between
+#Edge @EdgeMode(Goto,seventh edge)
+(seventh loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(seventh loop)
+(seventh edge)
+35 @RapidTextOn
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+You're doing great so far, #PetName @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+I hope you can at least last until the 1 minute mark
+#Edge @EdgeMode(Goto,eighth edge)
+(eighth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(eighth loop)
+(eighth edge)
+40 @RapidTextOn
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+Does it even matter if I tell you to stop in between? @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+I might as well just keep counting I guess #Laugh
+But that would ruin the ladder, so...
+#Edge @EdgeMode(Goto,ninth edge)
+(ninth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(ninth loop)
+(ninth edge)
+45 @RapidTextOn
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+Let the edge fade, if you still can @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+We're getting close to the 1 minute mark now #Smile
+#Edge @EdgeMode(Goto,tenth edge)
+(tenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(tenth loop)
+(tenth edge)
+50 @RapidTextOn
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+Mmm fuck I love doing this to you #Smile @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+How you're squirming and writhing and trembling and aching for me
+#Edge @EdgeMode(Goto,eleventh edge)
+(eleventh loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(eleventh loop)
+(eleventh edge)
+55 @RapidTextOn
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+So desperately hanging on to the edge now #Giggles @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+And even more desperately cherishing these short reprieves, I imagine
+But... they don't do much to alleviate your suffering now, do they? #Grin
+#Edge @EdgeMode(Goto,twelfth edge)
+(twelfth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(twelfth loop)
+(twelfth edge)
+60 @RapidTextOn
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+That was the 60 second rung! #EmoteHappy @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+Do you know what that means?
+It means you've been holding the edge for 6,5 minutes so far
+I'm proud of you, #SubName @MoodUp
+But why stop now, right?
+#Edge @EdgeMode(Goto,thirteenth edge)
+(thirteenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(thirteenth loop)
+(thirteenth edge)
+65 @RapidTextOn
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+From now on each rung adds more than a minute to your torment @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+I must say, I'm starting to wonder who will cave first #EmoteWink
+#Edge @EdgeMode(Goto,fourteenth edge)
+(fourteenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(fourteenth loop)
+(fourteenth edge)
+70 @RapidTextOn
+@NullResponse
+69
+@NullResponse
+68
+@NullResponse
+67
+@NullResponse
+66
+@NullResponse
+65
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+I don't know why I even bother doing this stop-and-start-routine anymore #Lol @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+#Edge @EdgeMode(Goto,fifteenth edge)
+(fifteenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(fifteenth loop)
+(fifteenth edge)
+75 @RapidTextOn
+@NullResponse
+74
+@NullResponse
+73
+@NullResponse
+72
+@NullResponse
+71
+@NullResponse
+70
+@NullResponse
+69
+@NullResponse
+68
+@NullResponse
+67
+@NullResponse
+66
+@NullResponse
+65
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+Let the edge fade for a moment, #Name @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+I say that as if it has any meaning for you anymore #Laugh
+#Edge @EdgeMode(Goto,sixteenth edge)
+(sixteenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(sixteenth loop)
+(sixteenth edge)
+80 @RapidTextOn
+@NullResponse
+79
+@NullResponse
+78
+@NullResponse
+77
+@NullResponse
+76
+@NullResponse
+75
+@NullResponse
+74
+@NullResponse
+73
+@NullResponse
+72
+@NullResponse
+71
+@NullResponse
+70
+@NullResponse
+69
+@NullResponse
+68
+@NullResponse
+67
+@NullResponse
+66
+@NullResponse
+65
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+Sweet rung sixteen, #Name @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+Or as I like to call it: Holy Fuck Are You Still Doing This!? #Lol
+#Edge @EdgeMode(Goto,seventeenth edge)
+(seventeenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(seventeenth loop)
+(seventeenth edge)
+85 @RapidTextOn
+@NullResponse
+84
+@NullResponse
+83
+@NullResponse
+82
+@NullResponse
+81
+@NullResponse
+80
+@NullResponse
+79
+@NullResponse
+78
+@NullResponse
+77
+@NullResponse
+76
+@NullResponse
+75
+@NullResponse
+74
+@NullResponse
+73
+@NullResponse
+72
+@NullResponse
+71
+@NullResponse
+70
+@NullResponse
+69
+@NullResponse
+68
+@NullResponse
+67
+@NullResponse
+66
+@NullResponse
+65
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+@NullResponse @ChangeVar[Mod18Rung]=[Mod18Rung]+[1] @Wait(8)
+#Edge @EdgeMode(Goto,eighteenth edge)
+(eighteenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(eighteenth loop)
+(eighteenth edge)
+90 @RapidTextOn
+@NullResponse
+89
+@NullResponse
+88
+@NullResponse
+87
+@NullResponse
+86
+@NullResponse
+85
+@NullResponse
+84
+@NullResponse
+83
+@NullResponse
+82
+@NullResponse
+81
+@NullResponse
+80
+@NullResponse
+79
+@NullResponse
+78
+@NullResponse
+77
+@NullResponse
+76
+@NullResponse
+75
+@NullResponse
+74
+@NullResponse
+73
+@NullResponse
+72
+@NullResponse
+71
+@NullResponse
+70
+@NullResponse
+69
+@NullResponse
+68
+@NullResponse
+67
+@NullResponse
+66
+@NullResponse
+65
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+@NullResponse @ChangeVar[Mod18Rung]=[Mod18Rung]+[1] @Wait(8)
+#Edge @EdgeMode(Goto,nineteenth edge)
+(nineteenth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(nineteenth loop)
+(nineteenth edge)
+95 @RapidTextOn
+@NullResponse
+94
+@NullResponse
+93
+@NullResponse
+92
+@NullResponse
+91
+@NullResponse
+90
+@NullResponse
+89
+@NullResponse
+88
+@NullResponse
+87
+@NullResponse
+86
+@NullResponse
+85
+@NullResponse
+84
+@NullResponse
+83
+@NullResponse
+82
+@NullResponse
+81
+@NullResponse
+80
+@NullResponse
+79
+@NullResponse
+78
+@NullResponse
+77
+@NullResponse
+76
+@NullResponse
+75
+@NullResponse
+74
+@NullResponse
+73
+@NullResponse
+72
+@NullResponse
+71
+@NullResponse
+70
+@NullResponse
+69
+@NullResponse
+68
+@NullResponse
+67
+@NullResponse
+66
+@NullResponse
+65
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+Alright, this has gone far enough... @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+Not that I don't enjoy keeping you on edge, but Im getting bored
+I'm doing one more rung, a 1 minute 40 seconds edge
+If you make it to the end you'll have won, I guess
+#Edge @EdgeMode(Goto,twentieth edge)
+(twentieth loop)
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@NullResponse
+@RT(Come on,Hurry up,Get to the edge,Edge for me,You should edge quickly,This is taking too long), #Name @Goto(twentieth loop)
+(twentieth edge)
+100 @RapidTextOn
+@NullResponse
+99
+@NullResponse
+98
+@NullResponse
+97
+@NullResponse
+96
+@NullResponse
+95
+@NullResponse
+94
+@NullResponse
+93
+@NullResponse
+92
+@NullResponse
+91
+@NullResponse
+90
+@NullResponse
+89
+@NullResponse
+88
+@NullResponse
+87
+@NullResponse
+86
+@NullResponse
+85
+@NullResponse
+84
+@NullResponse
+83
+@NullResponse
+82
+@NullResponse
+81
+@NullResponse
+80
+@NullResponse
+79
+@NullResponse
+78
+@NullResponse
+77
+@NullResponse
+76
+@NullResponse
+75
+@NullResponse
+74
+@NullResponse
+73
+@NullResponse
+72
+@NullResponse
+71
+@NullResponse
+70
+@NullResponse
+69
+@NullResponse
+68
+@NullResponse
+67
+@NullResponse
+66
+@NullResponse
+65
+@NullResponse
+64
+@NullResponse
+63
+@NullResponse
+62
+@NullResponse
+61
+@NullResponse
+60
+@NullResponse
+59
+@NullResponse
+58
+@NullResponse
+57
+@NullResponse
+56
+@NullResponse
+55
+@NullResponse
+54
+@NullResponse
+53
+@NullResponse
+52
+@NullResponse
+51
+@NullResponse
+50
+@NullResponse
+49
+@NullResponse
+48
+@NullResponse
+47
+@NullResponse
+46
+@NullResponse
+45
+@NullResponse
+44
+@NullResponse
+43
+@NullResponse
+42
+@NullResponse
+41
+@NullResponse
+40
+@NullResponse
+39
+@NullResponse
+38
+@NullResponse
+37
+@NullResponse
+36
+@NullResponse
+35
+@NullResponse
+34
+@NullResponse
+33
+@NullResponse
+32
+@NullResponse
+31
+@NullResponse
+30
+@NullResponse
+29
+@NullResponse
+28
+@NullResponse
+27
+@NullResponse
+26
+@NullResponse
+25
+@NullResponse
+24
+@NullResponse
+23
+@NullResponse
+22
+@NullResponse
+21
+@NullResponse
+20
+@NullResponse
+19
+@NullResponse
+18
+@NullResponse
+17
+@NullResponse
+16
+@NullResponse
+15
+@NullResponse
+14
+@NullResponse
+13
+@NullResponse
+12
+@NullResponse
+11
+@NullResponse
+10
+@NullResponse
+9
+@NullResponse
+8
+@NullResponse
+7
+@NullResponse
+6
+@NullResponse
+5
+@NullResponse
+4
+@NullResponse
+3
+@NullResponse
+2
+@NullResponse
+1
+@NullResponse
+#StopStroking @RapidTextOff
+Congratulations! @ChangeVar[Mod18Rung]=[Mod18Rung]+[1]
+@NullResponse @SetVar[pvMod18Record]=[Mod18Rung]
+Although actually... @CustomMode(#pvGiveUp, Normal)
+I think this means you just haven't been edging hard enough, #PetName @MoodDown
+Had you taken this seriously, you would never have reached rung 20
+Do you think you could have edged harder?
+[yes] I appreciate your honesty, #SubName
+[no] Hm... @Goto(she believes)
+@DifferentAnswer #YesOrNo
+But whenever you edge, I expect you to really push yourself @MoodDown
+Edging means getting to the very brink of orgasm, not lingering at safe distance
+It's not supposed to be a walk in the park, #PetName
+I'm going to have to punish you to make sure you remember this lesson @Interrupt(pvInt_Punishment)
+@End
+(she believes)
+Alright then #Smile
+@End
+(giving up)
+Hands off, #Name @EdgeMode(Normal) @RapidTextOff
+@NullResponse @If[Mod18Rung]>[pvMod18Record]Then(new record)
+You only got to rung @ShowVar[Mod18Rung] so unfortunately...
+That's not a new record, since your current record is @ShowVar[pvMod18Record]
+You'll get to try again some other time, but you know what happens now
+I get to punish you #Grin @Interrupt(pvInt_Punishment)
+@End
+(new record)
+@NullResponse @SetVar[pvMod18Record]=[Mod18Rung]
+@NullResponse @If[Mod18Rung]<[4]Then(miserable)
+@NullResponse @If[Mod18Rung]<[14]Then(pretty damn good)
+Rung @ShowVar[Mod18Rung] - not bad #Smile
+I do think you could do better though, if you really put your mind to it
+We're going to have to practice more, I suppose #EmoteWink @Goto(better yourself)
+(pretty damn good)
+That was pretty damn good! @MoodUp
+I didn't expect you to get past rung 10 or 12, to be honest
+There's still some room for improvement though... @Goto(better yourself)
+(miserable)
+That was pretty miserable... @MoodDown
+I thought you'd get to rung 5 or 6 at the very least
+(better yourself)
+I'll give you an opportunity to better yourself at some point @SetFlag(pvMod18LadderOne)
+But not now, I don't think you'd be able to handle it
+@End
+(pvMod18LadderOne)
+Now, we did this before...
+Your record currently stands at rung @ShowVar[pvMod18Record]
+And I expect you to improve your score, #PetName
+If you don't... I'll have to punish you so better give it your best shot
+Just to remind you of how this is going to work... @Goto(explain ladder)
+@End
+(no more ladders)
+#Edge @EdgeHold @MultipleEdges(5,8,100)
+#LetTheEdgeFade
+That was because you love holding the edge so much
+Or maybe just because I love make you do it #Grin
+@End

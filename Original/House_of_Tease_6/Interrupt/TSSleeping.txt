@@ -1,0 +1,34 @@
+@NullResponse @ChastityOn @Chance50(2)
+What are you doing messaging me at this hour #SubName 
+You should know better #EmoteHappy
+But since you woke me up @Chance50(3)
+I'll at least make sure you're thinking about me for the rest of the night #Smile
+Why don't you watch a couple sexy videos
+Ohh, but... no stroking, I just want you to #Ache for me until tomorrow 
+So, go watch some porn for me, but keep your hands off of #Yourself and let me get some sleep
+I had better not here from you for the rest of the night #Name
+Message me in the morning
+Bye, bye #Name @Name @Interrupt(TSDayReset) 
+@End
+(2)
+Do you know what time it is #SubName
+You should know better than to message me at this hour!
+I think you're #Balls owe me an apology #Name @CBTBalls
+Now, since you're #Aching so bad, I don't want you #Touching #Yourself at all
+You hear me #SubName?
+[yes] #Good
+[no] Well, I couldn't have made it any clearer for you
+@DifferentAnswer #YesorNo
+Just consider #Yourself in chastity until further notice
+If you can't sleep, find another way to #Ache for me
+But, don't wake me up in the middle of the night, it's quite rude @SetFlag(OpiateCSD)
+I'm going back to bed
+Goodnight #Name @Interrupt(TSDayReset)
+(End) 
+(3)
+#Name, you <i>should</i> have known
+That messaging me at this hour would get you in trouble
+No. You may not stroke yourself
+Let me sleep @SetFlag(OpiateCSD)
+Goodnight #Name @Interrupt(TSDayReset)
+@End 

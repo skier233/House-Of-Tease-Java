@@ -1,0 +1,42 @@
+@Stroking #StrokeSlower @StrokeSlower
+@NullResponse @RapidCodeOn
+@NullResponse @Goto(01, 02, 03)
+(01)
+You have one purpose in your life.
+Do you know what it is?
+It's simple, your purpose is to serve me. @Chance50(Part2)
+@End
+(02)
+You are a slave acting in my interest.
+Your free will is an illusion.
+Everything you do, you do @RT(it for me, it because I allow you to). Because it all fits into my plan. @Chance45(Part2)
+@End
+(03)
+You're such a good boy. 
+I do love it so much when I get to use you like this. @Chance55(Part2)
+@End
+(Part2)
+And you know what's happening next don't you? @Timeout(5, gfw4id)
+[yes] A perfect servant are you #EmoteRandom
+[no] Shhhhh. It's too late to back out now.
+@DifferentAnswer #YesorNo
+(gfw4id)
+#Edge @Edge
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Flag(av_fetish_pain) Put @RT(2, 4) clothespins in your #Balls @SetFlag(AV_Pins) @Wait(15)
+@Flag(av_fetish_pain) Keep there till I say so...
+And the best part is soon I know you're going to start begging me. 
+That is so fucking hot for me, when you beg me... 
+even though you *know* there's no way I'll let you cum.
+#Edge @Edge
+You do know that by now, I'm sure...
+I guess I can be pretty merciless...
+But I love your begging, your desperation... @Chance50(NoEdge)
+#Edge @Edge
+(NoEdge)
+it's hot actually, to let you *imagine* I *might* choose to take you over the edge and let you orgasm...  
+But probably I'll just tease you until I've had enough of your precum... 
+@Flag(av_fetish_cei) Lick all that precum #SubName @Wait(20)
+@Flag(av_fetish_cei) #GoodBoy
+@NullResponse @Wait(20)
+@End

@@ -1,0 +1,49 @@
+[I want to serve, I want to obey, let me serve, let me obey, want to be used, use me, I want to serve you, I want to obey you]
+[Before Tease]
+You're such a good obedient #PetName #Smile
+Excellent! #EmoteHappy
+That's all I need from you, #Name
+[Before Tease End]
+[First Round]
+You can do that by stroking that #Cock right now, #Name
+Would you do anything I want, #Name? @ResponseYes(I Will Do Anything) @ResponseNo(pvRs_WantToServeNo)
+[First Round End]
+[Stroking]
+@NullResponse @CallReturn(Custom\Shorts\Short06.txt)
+You can do that by stroking that #Cock right now, #Name
+Would you do anything I want, #Name? @ResponseYes(I Will Do Anything) @ResponseNo(pvRs_WantToServeNo)
+So, you wanted to be used, huh? Your words, not mine. It is your lucky day, then.
+[Stroking End]
+[Not Stroking]
+@NullResponse @CallReturn(Custom\Shorts\Short06.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short07.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short08.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short09.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short11.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short12.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short13.txt)
+So, you wanted to be used, huh? Your words, not mine. It is your lucky day, then.
+Good, because that's all I ask of you #Name @Followup50(Well, that and a few more things #Grin)
+Would you do anything I want, #Name? @ResponseYes(I Will Do Anything) @ResponseNo(pvRs_WantToServeNo)
+Good, because that's all I ask of you #Name @Followup50(Well, that and a few more things #Grin)
+Would you do anything I want, #Name? @ResponseYes(I Will Do Anything) @ResponseNo(pvRs_WantToServeNo)
+[Not Stroking End]
+[Edging]
+Good, then edge for me #Name
+[Edging End]
+[Holding The Edge]
+Good, then stay on the edge for me a little longer @AddEdgeHoldTime
+[Holding The Edge End]
+[CBT Cock]
+Good #Grin
+[CBT Cock End]
+[CBT Balls]
+So, you wanted to be used, huh? Your words, not mine. It is your lucky day, then.
+Good #Grin
+[CBT Balls End]
+[Chastity]
+That's all I ask of you, #Name #Smile
+[Chastity End]
+[After Tease]
+It makes me very happy to hear that #Smile
+[After Tease End]

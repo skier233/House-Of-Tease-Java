@@ -1,0 +1,29 @@
+[I am so submissive, I am so submissive today, I want to suffer, can I suffer more, I feel so submissive]
+[Before Tease]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Mistress.txt)
+[Before Tease End]
+[First Round]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Mistress.txt)
+[First Round End]
+[Stroking]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Mistress.txt)
+[Stroking End]
+[Not Stroking]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Mistress.txt)
+[Not Stroking End]
+[Edging]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Mistress.txt)
+[Edging End]
+[Holding The Edge]
+@NullResponse @Call(Custom\AV_Scripts\AV_Mistress.txt)
+[Holding The Edge End]
+[CBT Cock]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Mistress.txt)
+[CBT Cock End]
+[CBT Balls]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Mistress.txt)
+[CBT Balls End]
+[Chastity]
+[Chastity End]
+[After Tease]
+[After Tease End]

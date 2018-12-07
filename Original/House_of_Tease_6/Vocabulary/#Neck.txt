@@ -1,0 +1,6 @@
+neck
+nape
+throat
+collar
+collarbone
+shoulders

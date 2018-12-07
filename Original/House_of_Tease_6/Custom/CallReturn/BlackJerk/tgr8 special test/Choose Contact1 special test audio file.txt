@@ -1,0 +1,52 @@
+(start)
+@NullResponse @RTOn @CustomMode(stop, Goto, stop test) @CheckFlag(tgr8_c1t1) @CheckFlag(tgr8_c1t2) @CheckFlag(tgr8_c1t3) @CheckFlag(tgr8_c1t4) @CheckFlag(tgr8_c1t5)
+@NullResponse @Goto(tgr8_c1t1,tgr8_c1t2,tgr8_c1t3,tgr8_c1t4,tgr8_c1t5)
+
+(tgr8_c1t1)
+@NullResponse @TempFlag(tgr8_c1t1) @PlayAudio[tease\tgr8\Contact1 special test audio\tgr8_c1t1.mp3]
+@NullResponse @Wait( #Random(60, 70)) @Goto(End)
+
+(tgr8_c1t2)
+@NullResponse @TempFlag(tgr8_c1t2) @PlayAudio[tease\tgr8\Contact1 special test audio\tgr8_c1t2.mp3]
+@NullResponse @Wait( #Random(60, 70)) @Goto(End)
+
+(tgr8_c1t3)
+@NullResponse @TempFlag(tgr8_c1t3) @PlayAudio[tease\tgr8\Contact1 special test audio\tgr8_c1t3.mp3]
+@NullResponse @Wait( #Random(60, 70)) @Goto(End)
+
+(tgr8_c1t4)
+@NullResponse @TempFlag(tgr8_c1t4) @PlayAudio[tease\tgr8\Contact1 special test audio\tgr8_c1t4.mp3]
+@NullResponse @Wait( #Random(60, 70)) @Goto(End)
+
+(tgr8_c1t5)
+@NullResponse @TempFlag(tgr8_c1t5) @PlayAudio[tease\tgr8\Contact1 special test audio\tgr8_c1t5.mp3]
+@NullResponse @Wait( #Random(60, 70)) @Goto(End)
+
+(stop test)
+@NullResponse @RapidCodeOn
+@NullResponse @RTOff
+@NullResponse @ChangeVar[fail]=[fail]+[1]
+@NullResponse @PlayAudio[tease\cStop.mp3]
+@NullResponse @If[fail]=[3]Then(test failed)
+@NullResponse @RapidCodeOff
+@RT(Take a break #PetName, Let's take a break, Rest now #PetName, Rest a bit #PetName)
+When you're ready type <i>start</i>
+[start] #Good
+@DifferentAnswer Type <i>start</i> please...
+@NullResponse @Goto(start)
+
+(test failed)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[fail]
+@NullResponse @TempFlag(tgr8 special edge test failed)
+@NullResponse @SetVar[tgr8_Edge_for_us_edges_left]=[#Var[edges_owed]]
+@NullResponse @ChangeVar[tgr8_Edge_for_us_edges_left]=[tgr8_Edge_for_us_edges_left]-[edges_done]
+@NullResponse @Goto(End)
+@NullResponse @RapidCodeOff
+
+(End)
+@NullResponse @RapidCodeOn
+@NullResponse @RTOff
+@NullResponse @DeleteFlag(tgr8_c1t1,tgr8_c1t2,tgr8_c1t3,tgr8_c1t4,tgr8_c1t5)
+@NullResponse @RapidCodeOff
+@End

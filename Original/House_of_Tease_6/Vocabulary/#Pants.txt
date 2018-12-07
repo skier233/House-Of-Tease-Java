@@ -1,0 +1,4 @@
+pants
+jeans
+shorts
+slacks

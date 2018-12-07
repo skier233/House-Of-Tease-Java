@@ -1,0 +1,27 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+@NullResponse @Goto(one,two,three,four,five)
+(one)
+Let's @RT(pay some attention to,have some fun with,deal some pain to) those #Balls @CBTBalls
+Look at how blue they're getting... #Lol
+@End
+(two)
+Don't worry, I'll let you stroke again in a minute
+But I feel like busting your #Balls a little bit first #Grin @CBTBalls
+There's no better way to deepen the ache in your #Balls than that #EmoteHappy
+@End
+(three)
+You're enjoying those strokes a little bit too much, #Name
+But we can fix that... by busting your #Balls @CBTBalls
+Now you can go back to enjoying yourself again #Smile
+@End
+(four)
+Making you #JerkOff is a lot of fun...
+But so is busting your #Balls #Grin @CBTBalls
+Mmm pleasure and pain... the challenge is always getting the mix right
+@End
+(five)
+I guess there's no harm in interrupting those strokes for some ballbusting...
+Well, there is harm in in for you, obviously #Lol @CBTBalls
+@End 

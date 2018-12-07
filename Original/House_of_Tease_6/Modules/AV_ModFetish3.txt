@@ -1,0 +1,420 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModFetish3_NotFirstTime)
+@NullResponse @SetVar[AV_ModFetish3]=[0] 
+@NullResponse @SetFlag(AV_ModFetish3_NotFirstTime)
+(AV_ModFetish3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModFetish3]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModFetish3]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModFetish3]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModFetish3]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModFetish3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModFetish3]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModFetish3]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModFetish3]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModFetish3]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModFetish3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModFetish3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModFetish3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModFetish3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModFetish3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModFetish3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModFetish3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModFetish3]=[AV_ModFetish3]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModFetish3]=[AV_ModFetish3]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModFetish3]=[AV_ModFetish3]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModFetish3]=[AV_ModFetish3]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModFetish3]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+@NullResponse @Call(Custom\AV_Scripts\AV_Audio.txt)
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CheckFlag(av_fetish_bondage)
+#PetName
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some videos on your computer
+Stroke to the beat #Grin
+Have fun @PlayVideo 
+#CensorContinue
+@End
+(av_fetish_bondage)
+@NullResponse @Chance50(Bondage2) @RapidCodeOn
+@NullResponse @CheckFlag(AV_Pins) 
+@NullResponse @Goto(Iniciar13)
+(AV_Pins)
+You can remove all clothespins @DeleteFlag(AV_Pins)
+(Iniciar13)
+#PetName
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+Tie up those balls and put those clothespins on your nipples! @Wait(30)
+You will feel pain today #Slave
+@Flag(AV_DommeMistress) Keep like this until the end of our session @Goto(NoRemove)
+Now massage those balls, enjoy how nice it feels! @Wait(15)
+You can remove the clothespins, but keep your #Balls tied until the end of our session.
+@End
+(NoRemove)
+Now massage those balls, enjoy how nice it feels!
+@End
+(Bondage2)
+I think that cock could use a little bondage.
+Go get several pieces of shoe lace or rope (or whatever substitute you have).
+Let me know when you are ready
+[ready, done] Good...
+@DifferentAnswer Ready?
+Take the first piece and tie it firmly around your balls.
+Just so that your balls are now seperated from your little penis.
+There should be at least a small amount of excess rope.
+#StartStrokingNS to the beat #AudioStroke
+Take the second rope and tie your ankles together. 
+Tie them as tightly as possible.
+Just to clarify slave.
+(tied)
+Your balls are now tied. Your ankles are now tied?
+[yes] Mmm, good
+[no] #DoAsISay @Goto(tied)
+@DifferentAnswer yes or no?
+#Edge @Edge
+#LetTheEdgeFade 
+Take a 3rd piece of rope/shoelace and tie this to the excees rope around your balls
+and then tie the other end around the rope which is keeping your ankles together.
+This should be tight with little slack slave!
+You will keep there until the end of our session
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+I want to test your attention #SubName
+Keep track of the numbers you see in the screen...
+#StartStroking @SetVar[AV_AtentGame]=[0]
+@NullResponse @TnASlowSlides @Wait(15) 
+@NullResponse @StopTnA @RapidCodeOn
+@NullResponse @SetVar[AV_GameGo]=[0] 
+(round1a)
+@NullResponse @Goto(At01,At02,At03,At04,At05,At06,At07,At08,At09)
+(round1aVolta)
+@NullResponse @RapidCodeOff
+#Stroke for #Var[AV_Persona13] @ShowImage[av_imagens\01\*.jpg]
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1] @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished) @RapidCodeOff
+@NullResponse @Chance50(round1b)
+@NullResponse @Goto(round1c)
+(round1b)
+#KeepStroking @ShowGeneralImage
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1] @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished) @RapidCodeOff
+@NullResponse @Chance50(round1d)
+@NullResponse @Goto(round1a)
+(round1c)
+#KeepStroking @ShowSoftcoreImage 
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1] @RapidCodeOn 
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished) @RapidCodeOff
+@NullResponse @Chance50(round1b)
+@NullResponse @Goto(round1d)
+(round1d)
+@NullResponse @PlayVideo[AV_Clips/webm/*.webm]  
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]  @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished) @RapidCodeOff
+@NullResponse @Chance50(round1a)
+@NullResponse @Goto(round1c)
+(GameFinished)
+#StopStroking
+So, what is the sum of the numbers you saw? @InputVar[AV_AtentResp]
+@NullResponse @If[AV_AtentResp]=[AV_AtentGame]Then(right)
+Wrong #PetName, the correct its #Var[AV_AtentGame]
+@Flag(av_fetish_pain) Here your punishment @CBT
+@NotFlag(av_fetish_pain) #KneelForMe till we continue @Wait(20)
+@NullResponse @Goto(final1)
+(right)
+#HolyShit, good work #PetName
+Here your reward, #Edge @Edge
+@NullResponse @Goto(final1)
+(final1)
+#RelaxAndBreathe @Wait(10)
+#ICanKeepThisUp @Goto(Parte2) 
+(At01)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\1.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[1] 
+@NullResponse @Goto(round1aVolta) 
+(At02)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\2.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[2]  
+@NullResponse @Goto(round1aVolta) 
+(At03)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\3.jpg] @Wait(01)  @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[3]  
+@NullResponse @Goto(round1aVolta) 
+(At04)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\4.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[4]  
+@NullResponse @Goto(round1aVolta)
+(At05)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\5.jpg] @Wait(01)   @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[5]  
+@NullResponse @Goto(round1aVolta) 
+(At06)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\6.jpg] @Wait(01)  @RapidCodeOn 
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[6]  
+@NullResponse @Goto(round1aVolta)
+(At07)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\7.jpg] @Wait(01)  @RapidCodeOn  
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[7]  
+@NullResponse @Goto(round1aVolta)
+(At08)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\8.jpg] @Wait(01)  @RapidCodeOn  
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[8] 
+@NullResponse @Goto(round1aVolta) 
+(At09)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\9.jpg]  @Wait(01)  @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[9]  
+@NullResponse @Goto(round1aVolta) 
+(Parte2)
+#StartStrokingNS @PlayAudio[tease\b120.mp3] 
+@NullResponse @TnASlowSlides @Wait(15) @PlayAudio[tease\b110.mp3] 
+@NullResponse @StopTnA @RapidCodeOn
+@NullResponse @SetVar[AV_GameGo]=[0] 
+@NullResponse @SetVar[AV_AtentGame]=[0] 
+(round2a)
+@NullResponse @Goto(2At01,2At02,2At03,2At04,2At05,2At06,2At07,2At08,2At09)
+(round2aVolta)
+@NullResponse @RapidCodeOff @PlayAudio[tease\b110.mp3]
+@NullResponse @ShowLezdomImage  
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1] @PlayAudio[tease\b120.mp3] @RapidCodeOn 
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished2)  @RapidCodeOff
+@NullResponse @Chance50(round2b)
+@NullResponse @Goto(round2c) @PlayAudio[tease\b110.mp3] 
+(round2b)
+#KeepStroking @ShowBlowjobImage @PlayAudio[tease\b120.mp3]
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]   @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished2) @PlayAudio[tease\b120.mp3] @RapidCodeOff
+@NullResponse @Chance50(round2d)
+@NullResponse @Goto(round2a) @PlayAudio[tease\b120.mp3]
+(round2c)
+#Stroke for #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg] @PlayAudio[tease\b180.mp3]  
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]  @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished2) @PlayAudio[tease\b180.mp3]  @RapidCodeOff
+@NullResponse @Chance50(round2b)
+@NullResponse @Goto(round2d) @PlayAudio[tease\b180.mp3] 
+(round2d)
+#KeepStroking @ShowLikedImage @PlayAudio[tease\b120.mp3] 
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]   @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished2) @PlayAudio[tease\b120.mp3]  @RapidCodeOff
+@NullResponse @Chance50(round2a)
+@NullResponse @Goto(round2c) @PlayAudio[tease\b120.mp3] 
+(GameFinished2)
+#StopStroking
+So, what is the sum of the numbers you saw? @InputVar[AV_AtentResp2]
+@NullResponse @If[AV_AtentResp2]=[AV_AtentGame]Then(right2)
+Wrong #PetName, the correct its #Var[AV_AtentGame]
+Here your punishment @CustomTask(AV_TaskPins)
+@NullResponse @TempFlag(AV_Pins)  @RapidCodeOn
+@NullResponse @Goto(final2)
+(right2)
+#HolyShit, good work #PetName
+Here your reward, #Edge @Edge
+@NullResponse @Goto(final2)
+(final2)
+#RelaxAndBreathe @Wait(10)
+#ICanKeepThisUp @Goto(Parte3)
+(2At01)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\1.jpg]  @Wait(01)  @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[1] 
+@NullResponse @Goto(round2aVolta) 
+(2At02)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\2.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[2]  
+@NullResponse @Goto(round2aVolta) 
+(2At03)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\3.jpg] @Wait(01)  @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[3]  
+@NullResponse @Goto(round2aVolta) 
+(2At04)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\4.jpg]  @Wait(01)  @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[4]  
+@NullResponse @Goto(round2aVolta)
+(2At05)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\5.jpg]   @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[5]  
+@NullResponse @Goto(round2aVolta) 
+(2At06)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\6.jpg]  @Wait(01) @RapidCodeOn 
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[6]  
+@NullResponse @Goto(round2aVolta)
+(2At07)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\7.jpg]  @Wait(01) @RapidCodeOn  
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[7]  
+@NullResponse @Goto(round2aVolta)
+(2At08)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\8.jpg]  @Wait(01) @RapidCodeOn  
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[8] 
+@NullResponse @Goto(round2aVolta) 
+(2At09)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\9.jpg]  @Wait(01)  @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[9]  
+@NullResponse @Goto(round2aVolta) 
+(Parte3)
+#StartStroking
+@NullResponse @TnASlowSlides @Wait(15) 
+@NullResponse @StopTnA @RapidCodeOn
+@NullResponse @SetVar[AV_GameGo]=[0] 
+@NullResponse @SetVar[AV_AtentGame]=[0] 
+(round3a)
+@NullResponse @Goto(3At01,3At02,3At03,3At04,3At05,3At06,3At07,3At08,3At09)
+(round3aVolta)
+@NullResponse @RapidCodeOff 
+#Edge @EdgeNoHold
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]   @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished3) @RapidCodeOff
+@NullResponse @Chance50(round3b)
+@NullResponse @Goto(round3c)
+(round3b)
+#Edge @EdgeNoHold
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]  @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished3)  @RapidCodeOff
+@NullResponse @Chance50(round3d)
+@NullResponse @Goto(round3a)
+(round3c)
+#EdgeNoun for #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg] @EdgeNoHold
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]   @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished3)  @RapidCodeOff
+@NullResponse @Chance50(round3b)
+@NullResponse @Goto(round3d)
+(round3d)
+#EdgeNoun @ShowLikedImage @EdgeNoHold
+@NullResponse @ChangeVar[AV_GameGo]=[AV_GameGo]+[1]   @RapidCodeOn
+@NullResponse @If[AV_GameGo]>[5]Then(GameFinished3)  @RapidCodeOff
+@NullResponse @Chance50(round3a)
+@NullResponse @Goto(round3c)
+(GameFinished3)
+So, what is the sum of the numbers you saw? @InputVar[AV_AtentResp3]
+@NullResponse @If[AV_AtentResp3]=[AV_AtentGame]Then(right3)
+Wrong #PetName, the correct its #Var[AV_AtentGame]
+Here your punishment @CustomTask(AV_TaskPins)
+@NullResponse @Goto(final2)
+(right3)
+#HolyShit, good work #PetName
+@Flag(AV_Pins) You can remove all the clothepins @DeleteFlag(AV_Pins)
+@Flag(AV_SubKnees) Alright you can get back on your chair @DeleteFlag(AV_SubKnees)
+Here your reward #Lol, #Edge @EdgeNoHold
+@NullResponse @Goto(final3)
+(final2)
+#RelaxAndBreathe @Goto(Parte3)
+(3At01)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\1.jpg]  @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[1] 
+@NullResponse @Goto(round3aVolta) 
+(3At02)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\2.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[2]  
+@NullResponse @Goto(round3aVolta) 
+(3At03)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\3.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[3]  
+@NullResponse @Goto(round3aVolta) 
+(3At04)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\4.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[4]  
+@NullResponse @Goto(round3aVolta)
+(3At05)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\5.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[5]  
+@NullResponse @Goto(round3aVolta) 
+(3At06)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\6.jpg] @Wait(01) @RapidCodeOn 
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[6]  
+@NullResponse @Goto(round3aVolta)
+(3At07)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\7.jpg] @Wait(01) @RapidCodeOn  
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[7]  
+@NullResponse @Goto(round3aVolta)
+(3At08)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\8.jpg] @Wait(01) @RapidCodeOn  
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[8] 
+@NullResponse @Goto(round3aVolta) 
+(3At09)
+@NullResponse @ShowImage[av_imagens\Games\Numbers\9.jpg] @Wait(01) @RapidCodeOn
+@NullResponse @ShowGeneralImage @ChangeVar[AV_AtentGame]=[AV_AtentGame]+[9]  
+@NullResponse @Goto(round3aVolta) 
+(final3)
+#ThatsEnough @DeleteVar[AV_AtentGame]
+@NullResponse @DeleteVar[AV_AtentResp] @RapidCodeOn
+@NullResponse @DeleteVar[AV_AtentResp2]
+@NullResponse @DeleteVar[AV_AtentResp3]
+@NullResponse @DeleteVar[AV_GameGo] @RapidCodeOff
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CheckFlag(av_fetish_pain)
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some videos on your computer
+Stroke to the beat #Grin
+Have fun @PlayVideo 
+#CensorContinue
+@End
+(av_fetish_pain)
+#PetName,
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+tie your balls up nice and tight now! @Wait(30)
+Put a rubber band on your cock, loose.  @Wait(15)
+Stroke your cock 50 times fast! 
+Tell me when you are done
+[done, get, ready] Good...
+@DifferentAnswer Are you done #PetName?
+Pull the rubber band up to the sweet spot 
+and stretch it way out and let it go 
+and smack into the sweet spot 10 times! 
+[done, get, ready] Good...
+@DifferentAnswer Are you done #PetName?
+Slap your tied balls 25 times with the ruler
+I want a loud "SLAP" sound with each strike!
+[done, get, ready] Good...
+@DifferentAnswer Are you done #PetName?
+Take off the clothespins and untie your balls!
+Now massage those balls, enjoy how nice it feels!
+@End

@@ -1,0 +1,102 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link24_NotFirstTime)
+@NullResponse @SetVar[AV_Link24]=[0] 
+@NullResponse @SetFlag(AV_Link24_NotFirstTime)
+(AV_Link24_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link24]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link24]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link24]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link24]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link24]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link24]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link24]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link24]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link24]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link24]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link24]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link24]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link24]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link24]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link24]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link24]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link24]=[AV_Link24]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link24]=[AV_Link24]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link24]=[AV_Link24]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link24]=[AV_Link24]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link24]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+You think that you can resist me? 
+You mind might be fighting me but your #Cock knows exactly what it needs. 
+It's time to accept that fact that you're a submissive beta male.
+You need feminine discipline and control.
+You can struggle all you want but I've got control of that cock
+you'll going to learn your place
+#StartStroking @StartStroking
+@End
+(Link2)
+I am an expert at getting boys to do what I want them to.
+@Flag(av_fetish_rough) I know just how to get submissive little slugs like you wrapped around my finger, and willing to do absolutely anything for my attention.
+@NotFlag(av_fetish_rough) I know just how to get submissives like you wrapped around my finger, and willing to do absolutely anything for my attention.
+It's very simple, all I have to do is show you what you'll never have.
+Don't believe it's that easy?
+#StartStroking @StartStroking
+@End
+(Link3)
+By now you've probably realized that you are helplessly enslaved and totally under my control.
+The time has come for me to take your training to the next level
+you must understand what it is that I require of my slaves.
+I expect no less than complete and total obedience.
+As I tease you I will explain to you exactly what I expect of you.
+#StartStroking @StartStroking
+@End
+(Link4)
+Have you learned to cum on command for me yet?
+Each time you cum for me you become more enslaved, more submissive and so much easier to manipulate. 
+@Flag(av_fetish_cei) Be sure to catch it and swallow every drop for me like a good slave.
+#StartStroking @StartStroking
+@End

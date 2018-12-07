@@ -1,0 +1,19 @@
+I like watching you @RT(service me like the obedient toy you are. , do that). 
+@Stroking Don't you fucking stop for a second. 
+@FlagOr(av_fetish_rough, AV_Beta) Show me what a good bitch you are. 
+Show me exactly how desperately you want to cum 
+This power that I have over you.  
+The power to allow you.. to @RT(look at me, want me).  
+To even think of me..  
+Complete. Control.  
+This is @RT(what you want, all you want), right? @Timeout(6, v9465kswa)
+[yes] #GoodBoy @MoodUp @Chance45(TotalControl)
+[no] #IDisagree @MoodDown
+@DifferentAnswer #YesorNo
+(v9465kswa)
+@NullResponse
+@End
+(TotalControl)
+@NotFlag(AV_TotalControl) @NullResponse @CallReturn(Custom\CallReturn\AV_TotalControl.txt)
+@NullResponse
+@End

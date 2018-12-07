@@ -1,0 +1,41 @@
+[collar me,wear a collar,wear collar,collar on,be collared]
+[Before Tease]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) Maybe later
+[Before Tease End]
+[First Round]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) @NullResponse @CallReturn(Custom/CallReturn/pvCr_CollarDecide.txt)
+[First Round End]
+[Stroking]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) @NullResponse @CallReturn(Custom/CallReturn/pvCr_CollarDecide.txt)
+[Stroking End]
+[Not Stroking]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) Now now, #Name
+[Not Stroking End]
+[Edging]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) Just get to the edge for me now, #Name
+[Edging End]
+[Holding The Edge]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) Shut up and keep edging #EmoteRandom
+[Holding The Edge End]
+[CBT Cock]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) Don't change the subject, #Name
+[CBT Cock End]
+[CBT Balls]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) Don't change the subject, #Name
+[CBT Balls End]
+[Chastity]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) @NullResponse @CallReturn(Custom/CallReturn/pvCr_CollarDecide.txt)
+[Chastity End]
+[After Tease]
+@Flag(pvCollared) You should be collared already, #Name
+@NotFlag(pvCollared) Maybe next time I'll collar you, doggy #EmoteWink
+[After Tease End]

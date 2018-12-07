@@ -1,0 +1,86 @@
+Be happy that #Contact2 is already here. @AddContact2
+@NullResponse @CheckFlag(Contact2_unit)
+Hey #Contact2
+@Contact2 Hi #ShortName!
+@Contact2 Hi #SubName
+When i see right, he is also very happy to see you #Contact2
+@Contact2 how do you know that #ShortName ?
+Just look at the bulge in his pants #Grin
+@Contact2 #Grin
+@Contact2 In this case i think we will have loads of fun together #SubName #Grin
+I think you are right #Contact2
+@Contact2 Loads of cum maybe too #Grin
+#Lol
+@Contact2 Hope you dont mind #ShortName, if i dry him out a little bit #Grin
+Sure not, its up to you #Contact2, but i would prefer, if you make him edge many, many times without letting him cum #Grin
+@Contact2 Awww this is so cruel #ShortName, but it also makes me very horny just to imagine #Grin
+@Contact2 So what do you think #ShortName, can we start right away?
+@Contact2 Or should i give him a chance to warm up?
+Warm up is so important #Contact2, otherwise i guess he will spray all his cum immediately #Grin
+@Contact2 Hmm you are right #ShortName, lets warm #SubName up a bit.
+Hope you dont mind, when i stay here and watch for a second #Grin
+@Contact2 Sure not, you can stay as long as you like
+@Contact2 Ok then lets get things going @RemoveDomme
+@Contact2 By the way, are you naked?
+[yes] @Contact2 Great! @Goto(Sub_Stroking)
+[no] @Contact2 Then hurry up, what are you waiting for?
+@AcceptAnswer
+(Sub_undress)
+@Contact2 Get rid of this useless clothes.
+@Contact2 I want you bare naked and ready to serve.
+@Contact2 I hope, i dont need to tell you, that you just have 1 minute to be ready
+@Contact2 Time is running already!!! @Wait(55) @SetFlag(Contact2_unit)
+@NullResponse @Goto(Sub_Stroking)
+(Contact2_unit)
+@NullResponse @AddContact2
+@Contact2 Nice to see you again #SubName
+@Contact2 and of course thanks #ShortName that you invited me another time #Grin
+No problem #Contact2, #PetName was in great hands last time i heard #LOL
+@Contact2 I really hope so #Grin @RemoveDomme
+@Contact2 so what are we going to do today #SubName?
+@Contact2 I think today we will just let it flow ...
+@Contact2 I will make you edge many times i guess.
+@Contact2 You have 2 minutes from now to get naked and hard #PetName
+@Contact2 Today i am not gonna give you some options, so you just have to do what you are told to.
+@Contact2 Is that clear?
+[clear, yes] @Contact2 Ok then no more useless words @Goto(Sub_Stroking)
+[no] @Contact2 So in that case ..... @CBTBalls
+@DifferentAnswer @Contact2 ......try again
+(Sub_Stroking)
+@Contact2 Get in wanking position!
+@Contact2 We will get right into business.
+This is where you will stay on the edge and your brain starts to get out of control. @TempFlag(av_intera_018)
+#Edge @EdgeHold
+From now on you should be edging frequently.
+#Edge @EdgeHold
+This means you should be keeping your hand permanently on your #Cock.
+#Edge @EdgeHold
+Stroke at all times. Just vary the speed.
+#Edge @EdgeHold
+Stay on the brink #SubName
+#Edge @EdgeHold 
+Be strong and dont go over
+#Edge @EdgeHold
+WOW thats so damn hot @Wait( #Random(10, 20))
+#Edge @EdgeHold
+Look me in the eyes
+#Edge @EdgeHold 
+I am with you
+#Edge @EdgeHold
+This is where I am not going to speak much to you.
+#Edge @EdgeHold
+Just melt together with your #Cock.
+#Edge @EdgeHold
+#Edge @EdgeHold
+#Edge @EdgeHold
+Dont loose it @Wait( #Random(10, 20))
+#Edge @EdgeHold
+#CheerEdgeATon
+#Edge @EdgeHold
+@Contact2 This was pretty intense, wasnt it? @DeleteFlag(av_intera_018)
+@Contact2 To be honest, i dont think so.
+@Contact2 In my opinion i think you can do a lot more stroking than that. @AddDomme
+@Contact2 Therefor I think #DomName will push your limits a little bit further than that.
+Yes, for this purpose i have a special training for you called Living on the edge.
+But we will see this another time. @RemoveContact2
+@End

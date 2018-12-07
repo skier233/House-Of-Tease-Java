@@ -1,0 +1,9 @@
+Is that what you wanted?
+Me paying a lot attention to you? @Timeout(5, 3dfgdpo)
+[yes] Everything is going your way right?
+[no] Liar...
+@DifferentAnswer #YesorNo
+(3dfgdpo)
+I bet you are really happy right now..aren't you? @ResponseYes(Ark_Having Fun) @ResponseNo(RegretMeetingYou)
+@NullResponse
+@End

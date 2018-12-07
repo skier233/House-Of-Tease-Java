@@ -1,0 +1,48 @@
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_GlitterJoinOnce)
+@NullResponse @Goto(G1, G2, G3)
+(G1)
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_GlitterJoin1)
+@NullResponse @AddContact1
+@NullResponse @Goto(Greet)
+(G2)
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_GlitterJoin2)
+@NullResponse @AddContact2
+@NullResponse @Goto(Greet)
+(G3)
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_GlitterJoin3)
+@NullResponse @AddContact3
+@NullResponse @Goto(Greet)
+(Greet)
+@NullResponse @RapidCodeOn
+@NullResponse @Goto(01, 02)
+(01)
+@Group(D1) @Contact1 @RandomContact @RT(Hey,, what's going on, Hey you, Hey you guys and girls #Smile) #Smile
+@Group(D2) @Contact2 @RandomContact @RT(Hey,, what's going on, Hey you, Hey you guys and girls #Smile) #Smile
+@Group(D3) @Contact3 @RandomContact @RT(Hey,, what's going on, Hey you, Hey you guys and girls #Smile) #Smile
+@RT(What's up, #GlitterName?, Hey #GlitterName)
+@NullResponse @Goto(GlitterTalk)
+(02)
+@RT(Look who just logged on to say hi, Look who just came in #EmoteHappy)
+@Group(D1) @Contact1 @RT(Hi #ShortName and #SubName, Hi #Smile)
+@Group(D2) @Contact2 @RT(Hi #ShortName and #SubName, Hi #Smile)
+@Group(D3) @Contact3 @RT(Hi #ShortName and #SubName, Hi #Smile)
+@RT(Good to see you, #GlitterName, Hi #GlitterName,, what bring you to there parts?)
+@NullResponse @Goto(GlitterTalk)
+(GlitterTalk)
+@Group(D1) @Contact1 @RT(I'm not interrupting anything,, am I?, Always good to see #SubName suffer some well deserved abuse #Grin)
+@Group(D2) @Contact2 @RT(I'm not interrupting anything,, am I?, Always good to see #SubName suffer some well deserved abuse #Grin)
+@Group(D3) @Contact3 @RT(I'm not interrupting anything,, am I?, Always good to see #SubName suffer some well deserved abuse #Grin)
+@Group(D1) @Contact1 But I am @RT(a little bored, bored), can I @RT(join, lurk) here for a while?
+@Group(D2) @Contact2 But I am @RT(a little bored, bored), can I @RT(join, lurk) here for a while?
+@Group(D3) @Contact3 But I am @RT(a little bored, bored), can I @RT(join, lurk) here for a while?
+@RT(Sure, Of course)
+Feel free to @RT(take the lead, take actions, help me)
+@Group(D1) @Contact1 @RT(Cool, Thanks, Nice)
+@Group(D2) @Contact2 @RT(Cool, Thanks, Nice)
+@Group(D3) @Contact3 @RT(Cool, Thanks, Nice)
+@NullResponse @SetDate(AV_GlitterJoin,0 seconds)
+@End

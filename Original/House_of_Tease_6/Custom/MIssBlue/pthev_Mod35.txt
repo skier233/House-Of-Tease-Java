@@ -1,0 +1,90 @@
+#StopStroking @StopStroking @CheckFlag(pvMod35A)
+Look at yourself, #Name @SetFlag(pvMod35A)
+Sitting there, with that @RT(erect,hard) #Cock @RT(throbbing,twitching) in your lap
+Waiting for my @RT(command,word,instructions)
+Maybe even @RT(somewhat,a little bit,a tiny bit) @RT(scared,nervous,afraid,worried) about what @RT(will happen,I will do,might come) next... @CheckFlag(pvMod35B)
+#StartStroking
+#EmoteMoan
+Stop... @CheckFlag(pvPinsOn,stop pins already)
+@Flag(pthevClothespins) I want you to get 2 clothespins
+@Flag(pthevClothespins) And then I want you to put them on your nipples @TempFlag(pvPinsOn)
+(stop pins already)
+I love making you squirm in your chair...
+And I'm definitely going to make you squirm right now #Grin
+#StartStroking
+#StrokeFastest
+Don't edge, you should stroke as fast as you can <i>without edging</i>
+#StopStroking
+@Flag(pvPinsOn) Flick both clothespins three times
+It must be sooo frustrating to start and stop and start and stop all the time, right? @ResponseYes(Ark_Frustrated)
+Start stroking again, but very slowly this time... #Smile
+Speed up a little
+Even faster, #SubName
+#StrokeFastest
+Stop!
+@Flag(pvSpankingYes) Get down on your knees
+@Flag(pvSpankingYes) Give either ass cheek one hard smack and sit down again
+@RT(Would you like,Do you want) to give me a nice edge?
+[yes] Too bad, I don't want you to edge right now #Laugh
+[no] Aww is it getting so bad that you don't even want to edge anymore... #Lol
+@DifferentAnswer #YesOrNo
+Start stroking those long slow strokes again
+You should be #JerkingOff so slowly that it would take you hours to @RT(reach an orgasm,get to the edge)
+@RT(So slowly that,Maybe) you could stroke like this forever and never @RT(reach the edge,get there)
+@RT(Think about,Imagine) feeling this good <i>forever</i>
+You wouldn't even <i>want</i> to cum anymore...
+Because @RT(that,cumming,having an orgasm) would mean that this feeling goes away
+And you wouldn't want it to ever end
+Keep stroking and start rubbing your #Balls with your free hand
+Massage them, cup them, squeeze them
+If you feel like you need to speed up your strokes, slow them down
+Show me you can control yourself for me
+@BallTorture Give your #Balls a hard smack
+Slow down even more
+Make sure your strokes are long and firm, #Name
+I'm sure you are aching to speed up now #Grin
+You're probably desperate for me to tell you pump away until you edge
+Do you think I will let you?
+Mmm... #PetName I want you to... @Chance50(think I will let you)
+Stroke a little bit faster now
+Oh yeah, here we go... #EmoteMoan
+Get ready, #Name @Chance25(get ready for it)
+(think I will let you)
+Stop, hands off!
+Aww that's too bad #Lol
+Don't worry though, #SubName
+Sooner or later I'm going to let you #JerkOff really fast again
+@End
+(get ready for it)
+#StrokeFastest
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod35A)
+@NullResponse @DeleteFlag(pvMod35A)
+I don't know if you ever had a mind of your own, #Name @SetFlag(pvMod35B)
+But you certainly don't have one now
+It's all mine, together with that #Cock
+They're fused together, your mind and your #Cock and #Balls
+Synchronised to be completely controlled by me
+#StartStroking
+#StrokeSlowest
+You have no choice but to obey each and every command I give you
+Like a well oiled stroking machine
+#StrokeFaster
+A machine designed to serve and obey
+#StrokeFastest
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod35B)
+Maybe I will make you hurt those poor #Balls @DeleteFlag(pvMod35B)
+Maybe I will let one of my friends to take care of you...
+#Contact3 in particular has some wonderful ways of making you feel all sorts of agony #Grin
+Maybe I will just end the session and leave you denied
+Or maybe, just maybe...
+I'm about to let you have an amazing orgasm
+@Flag(pthevLongDenialActive) Maybe I've decided not to keep you denied after all and I will allow you to cum #GeneralTime
+Anything could happen #Smile
+Although of course, some things are very unlikely to happen #EmoteWink
+@End

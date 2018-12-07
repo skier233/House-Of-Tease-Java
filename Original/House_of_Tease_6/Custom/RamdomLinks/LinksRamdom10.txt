@@ -1,0 +1,107 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link10_NotFirstTime)
+@NullResponse @SetVar[AV_Link10]=[0] 
+@NullResponse @SetFlag(AV_Link10_NotFirstTime)
+(AV_Link10_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link10]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link10]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link10]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link10]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link10]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link10]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link10]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link10]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link10]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link10]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link10]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link10]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link10]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link10]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link10]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link10]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link10]=[AV_Link10]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link10]=[AV_Link10]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link10]=[AV_Link10]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link10]=[AV_Link10]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link10]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Well, it just occurred to me @TempFlag(AVp001)
+that you probably don't know how girls touch themselves. 
+Which is something you should definitely know.
+Because...that way when you're...with someone
+you'll have a better idea of what you're doing.
+Actually...the thing is, porn probably isn't a good way to learn. @DeleteFlag(AVp001)
+It's much better to do it in person.
+#StartStroking @StartStroking
+@End
+(Link2)
+Ooooooohh, you have a little precum dripping already. 
+@Flag(av_fetish_cei) How about a little lick?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad)
+I just started. You must be enjoying this then.
+Your #Balls are all nice and smooth. 
+I know it hurts a little bit but once you get used to it
+you'll learn to love it.
+You're ridiculously hard right now.
+#StartStroking @StartStroking
+@End
+(Link3)
+There we go, calmed yourself a bit?  @ResponseYes(AV_YesNeutral) @ResponseNo(AV_NoNeutral) 
+Because we're gonna do something real fun now
+Can you feel @RT(just how hot you make me?, the effect I have on you...?)
+This is what you do to me...
+#StartStroking @StartStroking
+@End
+(Link4)
+I know everything you like now.  
+Your kinks. Your desires.  
+Oh I can create such a pleasurable experience for you 
+and you will give off so much energy.  
+I knew you were the one.  
+I just...knew it.
+#StartStroking @StartStroking
+@End

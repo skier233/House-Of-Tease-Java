@@ -1,0 +1,7 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_PunishmentLight_Stroking.txt)
+@End
+(Sub Not Stroking)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_PunishmentLight_NotStroking.txt)
+@End

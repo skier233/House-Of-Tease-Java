@@ -1,0 +1,99 @@
+This is a tease containing instructions to stroke to music videos
+Chose one: 
+Demi Lovato, Kylie Minogue, Carly Rae Jepsen, Selena Gomez, Sofia Carson, Hailee Steinfeld, Chica Bomb, Tini, Rihanna or Dua Lipa
+[Kylie Minogue, Kylie] #Okay @Goto(Kylie)
+[Demi Lovato, Demi] #Okay @Goto(Demi)
+[Chica Bomb, Chica] #Okay @Goto(ChicaBomb)
+[Carly Rae Jepsen, Carly] #Okay @Goto(Carly)
+[Selena Gomez, Selena] #Okay @Goto(Selena)
+[Hailee Steinfeld, Hailee] #Okay @Goto(Hailee)
+[Sofia Carson, Sofia] #Okay @Goto(Sofia)
+[Tini] #Okay @Goto(Tini)
+[Dua Lipa, Dua] #Okay @Goto(Dua)
+[Rihanna, Rihana] #Okay @Goto(Rihanna)
+@DifferentAnswer Demi, Kylie, Carly, Sofia, Hailee or Chica ?
+(Tini)
+Let's try this
+stroking freestyle when you can see Tini
+If you edge, hold for 10 seconds then stop. Continue when ready
+@NullResponse @PlayVideo[music/TINI - Great Escape.mp4]
+#ThatsEnough
+@End
+(Dua)
+Let's try this
+stroking freestyle when you can see Dua
+If you edge, hold for 10 seconds then stop. Continue when ready
+@NullResponse @PlayVideo[music/Dua Lipa - Hotter Than Hell.mp4]
+#ThatsEnough
+@End
+(Sofia)
+Let's try this
+stroking freestyle when you can see Sofia
+If you edge, hold for 10 seconds then stop. Continue when ready
+@NullResponse @PlayVideo[music/Sofia Carson - Love Is the Name.mp4]
+#ThatsEnough
+@End
+(Hailee)
+Let's try this
+stroking freestyle when you can see Hailee
+If you edge, stop. Continue when ready
+@NullResponse @PlayVideo[music/Hailee Steinfeld - Love Myself.mp4]
+#ThatsEnough
+@End
+(Kylie)
+You will stroke following her words
+Fast - switch to stroking fast
+Beat - switch to stroking to the beat
+Dance - switch to stroking freestyle
+Wait - switch to stroking slowly
+Drive - switch to furiously fast overdrive stroking
+Remember, Fast-stroking fast, Beat-stroking to the beat, Dance-stroking freestyle, Wait-stroking slowly, Drive-furiously fast overdrive stroking
+@NullResponse @PlayVideo[music/Kylie Minogue _Timebomb.mp4]
+#ThatsEnough
+@End
+(Demi)
+@NullResponse @Chance70(Demi2)	
+Stroke to the music beat
+Stop when the beat stoped
+fast strokes in the chorus
+@NullResponse @PlayVideo[music/Demi Lovato - Cool For The Summer.mp4]
+#ThatsEnough
+@End
+(Demi2)
+Let's try this
+stroking freestyle when you can see Demi
+no stroking otherside
+@NullResponse @PlayVideo[music/Demi Lovato - Waitin for You.mp4]
+#ThatsEnough
+@End
+(ChicaBomb)
+That is easy
+Just follow the music beat
+@NullResponse @PlayVideo[music/Dan_Balan_-_Chica_Bomb.mp4]
+#ThatsEnough
+@End
+(Carly)
+Let's try something different
+stroking freestyle when you can see Carly's face
+no stroking otherside
+@NullResponse @PlayVideo[music/Carly Rae Jepsen - Run Away With Me.mp4]
+#ThatsEnough
+@End
+(Selena)
+Let's try this
+stroking freestyle when you can see Selena @Chance70(Selena2)	
+no stroking otherside
+@NullResponse @PlayVideo[music/Selena Gomez - Good For You.mp4]
+#ThatsEnough
+@End
+(Selena2)
+no stroking otherside
+@NullResponse @PlayVideo[music/Selena Gomez - Kill Em With Kindness.mp4]
+#ThatsEnough
+@End
+(Rihanna)
+stroking freestyle 
+If you edge, stop. Continue when ready
+@NullResponse @PlayVideo[music/Rihanna - Kiss It Better.mp4]
+#ThatsEnough
+@End

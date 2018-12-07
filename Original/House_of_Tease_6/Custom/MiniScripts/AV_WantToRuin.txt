@@ -1,0 +1,36 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+Since you are so horny... 
+I've been thinking about something #PetName  
+The thing is, it would really turn me on if
+You let me ruin your orgasm #Grin
+Will be easier for you to continue our session after that
+Will you let me do that to you?
+[yes] Oh thank you, you just made me so happy #EmoteHappy @Goto(Now I'm Gonna Make You Ache)
+[no] I see 
+[I don't know, dunno, maybe, scared] Just think about how happy you'll make me #EmoteHappy @LoopAnswer
+@DifferentAnswer C'mon #PetName, yes or no. Will you let me ruin your orgasm?
+Well, I do understand that it's beyond your limits
+So I don't mind giving you one of my usual tease sessions #EmoteHappy 
+Either way I know you're about to ache like crazy #Grin
+@End
+(Now I'm Gonna Make You Ache)
+And now I'm #Gonna make you <i>ache</i> #Grin @TempFlag(AV_RuinHorny)
+But before I can ruin you like I really want @SetVar[AV_RuinHorny]=[0] 
+I'm #Gonna have to build you up so bad that it will absolutely <i>kill</i> you to have to take your hand away
+Only when you're <i>that</i> desperate
+Will I let you ruin it all for me #Grin @RapidCodeOn
+@NullResponse @Goto(OpRu1, OpRu2, OpRu3)
+(OpRu1)
+@NullResponse @SetModule(AV_RuinHorny1)
+@NullResponse @Goto(DONE)
+(OpRu2)
+@NullResponse @SetModule(AV_RuinHorny2)
+@NullResponse @Goto(DONE)
+(OpRu3)
+@NullResponse @SetModule(AV_RuinHorny3)
+(DONE)
+@NullResponse
+@End

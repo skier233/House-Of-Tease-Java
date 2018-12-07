@@ -1,0 +1,20 @@
+[All]
+#Good
+#Good
+Good Boy
+Good Boy
+#GoodBoy
+@Flag(AV_Know_17) #Var[AV_Persona09]
+#ImPleased
+#IKnow
+#Lovingly
+#OfCourse
+#OfCourse 
+This is awesome!
+I love it! 
+#IKnow
+#EmoteSmile
+#EmoteHappy
+Yeah
+#Yes
+[All End]

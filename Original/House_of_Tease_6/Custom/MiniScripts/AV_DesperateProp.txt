@@ -1,0 +1,40 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+Sounds like you really can't take another stroke
+We need to fix that
+@Flag(AV_DommeMistress) @NullResponse @Goto(NoProposta)
+@BadMood @NullResponse @Goto(NoProposta) 
+Let me make a proposal to you
+Since you cant follow my orders right now, I need to punish you
+If you follow all the punishment like a good boy...
+I will increase your chances to cum today.
+If you dont agree, we are come back to our session...
+and you will take like a man.
+So, we have a deal?
+[yes] #Good
+[no] Well, let's go back... @Goto(NoDeal)
+@DifferentAnswer #YesorNo #SubName?
+Let me see what I want to do with you now... @MoodBest
+(NoProposta) 
+@NullResponse @Goto(Puni1, Puni2, Puni3, Puni4)
+(Puni1)
+@NullResponse @MiniScript(AV_Punish1)
+@NullResponse 
+@End
+(Puni2)
+@NullResponse @MiniScript(AV_Punish2)
+@NullResponse 
+@End
+(Puni3)
+@NullResponse @MiniScript(AV_Punish3)
+@NullResponse 
+@End
+(Puni4)
+@NullResponse @MiniScript(AV_PunishRND)
+@NullResponse 
+@End
+(NoDeal)
+@NullResponse
+@End

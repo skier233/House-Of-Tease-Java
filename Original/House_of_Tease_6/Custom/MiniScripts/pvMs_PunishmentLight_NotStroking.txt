@@ -1,0 +1,44 @@
+@NullResponse @Goto(1,2,3,4,5,6)
+(1)
+I want you to do 20 situps @Timeout(8,let me know)
+[okay,yes] Get to it #SubName
+[no] Just do it as best as you can #SubName
+[done,ready,finished] Now way you did 20 already, do it again #SubName
+@DifferentAnswer @NullResponse
+(let me know)
+Let me know when you're done
+[done,finished,ready] Good
+@DifferentAnswer Just say 'done' when you're done
+@End
+(2)
+I want you to do 20 pushups #PetName @Timeout(10,let me know 2)
+[okay,yes] Get to it #SubName
+[no] Just do it as best as you can #SubName
+[done,ready,finished] Now way you did 20 already, do it again #SubName
+@DifferentAnswer @NullResponse
+(let me know 2)
+Let me know when you're done
+[done,finished,ready] Good
+@DifferentAnswer Just say 'done' when you're done
+@End
+(3)
+On your knees #PetName
+I want you to smack each ass cheek 5 times
+Let me know when you've done it
+[done,finished,ready] Good
+@DifferentAnswer Just say 'done' when you're done
+You can get off your knees again
+@End
+(4)
+Slap yourself in the face @Wait(5)
+Harder, #PetName
+Now say: I'm sorry, #DomHonorific @Wait(5)
+@End
+(5)
+@NullResponse @CBTBalls
+That's not enough, #Name @CBTCock
+@End
+(6)
+@NullResponse @CBTCock
+As for those #Balls of yours... @CBTBalls
+@End

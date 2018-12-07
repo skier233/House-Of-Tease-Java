@@ -1,0 +1,151 @@
+@NullResponse @CheckFlag(pvMod43A)
+#StopStroking @SetFlag(pvMod43A)
+You know what? @CheckFlag(pvMod43B)
+Start stroking again #Smile
+I can change my mind any time I feel like it
+Stop
+#StartStroking
+And...
+Stop! #Laugh 
+Well now...
+#StartStroking
+I like fucking with your mind
+I will never fuck your <i>body</i>, that's for sure
+So I might as well fuck your mind #Lol
+#StopStroking @StopStroking
+@CockTorture Look at that #Cock sticking up it the air, so inviting... @CBTCock
+#StartStroking
+And, eh...
+#StopStroking
+Stop, stop, stop
+Let that poor #Cock rest a little while
+It has to work so hard, day in day out
+Just let it sit there now
+Maybe let it go soft
+Although that would probably take too long, right? @Timeout(10,why would we even)
+[yes] That's what I thought
+[no] Really? We can't have that, #Name
+@AcceptAnswer We shouldn't let it go soft
+(why would we even)
+Why would we even <i>want</i> it to go soft...
+Not yet, anyway #Smile
+@End
+(pvMod43A)
+#StopStroking @StopStroking
+Sometimes I think about counting your strokes... @DeleteFlag(pvMod43A) @SetFlag(pvMod43B)
+I'd love to know how many strokes you've done for me so far
+It's impossible of course... and kind of a weird fascination too #Laugh @If[#SessionEdges]>[3]Then(tab of edges)
+@NullResponse @Goto(no tab)
+(tab of edges)
+I do usually keep a tab of your edges 
+You've done #SessionEdges edges #GeneralTime so far
+(no tab)
+So let's count some strokes, shall we #Smile
+I want you to do exactly 100 full strokes right now, without edging
+I don't care how fast or slow, as long as it's 100 strokes and no edge...
+So get going...
+Let me know when you're done
+[done,did,finished] Good #EmoteHappy
+@DifferentAnswer Just let me know when you've done 100 strokes
+Do another 100 strokes #Grin
+Go!
+And again, just tell me when you're done
+[done,did,finished] Good, that's 200 #EmoteHappy
+@DifferentAnswer Just let me know when you've done 100 strokes
+I think we should go for 250, that's a nice round number
+So that means 50 more, get stroking, #Name
+[done,did,finished] So that's 250!
+@DifferentAnswer Just let me know when you've done 50 strokes
+That didn't even take you that long, imagine how many you get up to in an average stroke session 
+Must be, like, thousands, right...?
+Actually... 1000 sounds like a nice round number too
+You're on 250 now, do you think you could make it to 1000?
+[yes] What... really?? @Goto(to one thousand)
+[no] I guess that would be a bit extreme #Laugh
+@DifferentAnswer #YesOrNo
+Instead, give me an edge so I can add one to your grand total for today @Edge
+#LetTheEdgeFade
+I bet those 250 strokes made it just a bit easier to get to the edge there #Smile
+@End
+(to one thousand)
+You said it yourself, so I guess it's no big deal then, huh?
+Let's get to the 500 mark first, give me another 250 strokes...
+So #JerkOff for me and don't lose count
+You'll have to start over if you lose count, #Name #Grin
+Maybe I'll try to throw you off balance, make it hard to keep counting
+@NullResponse @ShowFemdomImage
+@NullResponse @ShowBlowjobImage
+Keep counting, #Name @PlayVideo(15) @JumpVideo
+I'll let you do your strokes in peace now #Smile
+Let me know when you're done
+[done,did,finished] Wow, 500... that's amazing
+@DifferentAnswer Just let me know when you've done another 250 strokes
+A bit tedious, but amazing nonetheless #EmoteHappy
+Are you sure you want to continue and complete the 1000 stroke challenge?
+[yes] I admire your tenacity, #SubName
+[no] Alright then, I understand #Smile @Goto(not complete)
+@DifferentAnswer #YesOrNo
+If you're not thinking there's some kind of special prize for completing this challenge...
+There isn't, just my eternal admiration for you capacity for suffering #Smile
+But let's get going, give me another 250 strokes
+Let me know when you're done
+[done,did,finished] That's 750 then... wow, and also: boring as hell #Lol
+@DifferentAnswer Just let me know when you've done another 250 strokes
+Last leg, just keep stroking and counting, only 250 left!
+Let me know when you're done
+[done,did,finished] One Thousand Strokes...  @MoodBest
+@DifferentAnswer Just let me know when you've done another 250 strokes
+Holy fucking hell, #PetName
+Like I said, there's so special award that I can give you
+But you said you'd do 1000 strokes, and you did it, and I respect that
+Alright, back to business
+#Edge @EdgeHold
+#LetTheEdgeFade
+You didn't think I'd go easy on you for doing a thousand strokes, did you? #Grin
+@End
+(not complete)
+But still, you said you would and now you're backing down
+So I'm going to have to punish you, #PetName @Interrupt(pvInt_Punishment)
+@End
+(pvMod43B)
+It doesn't always have to be about aching and suffering @DeleteFlag(pvMod43B)
+I'm so strict most of the time, aren't I?
+Well, right now you can do as you like
+You can touch yourself, you can #JerkOff if you want
+Or you can sit and enjoy staring at my glorious beauty #Smile
+But no edging or cumming, #PetName! @Wait(10)
+Do you want to look at some boobs?
+[yes] Staring at boobs never gets old, does it? #Laugh
+[no] Alright @Goto(no boobs)
+@DifferentAnswer #YesOrNo
+This is a nice pair @ShowBoobsImage @Wait(#Random(3,12))
+@NullResponse @ShowBoobsImage @Wait(#Random(3,12))
+@NullResponse @ShowBoobsImage @Wait(#Random(3,12))
+@NullResponse @ShowBoobsImage @Wait(#Random(3,12))
+@NullResponse @ShowBoobsImage @Wait(#Random(3,12))
+(no boobs)
+How about some butts, would you like to see some?
+[yes] I had a feeling you'd like that
+[no] Oh okay @Goto(no butts)
+@DifferentAnswer #YesOrNo
+How about this... @ShowBoobsImage
+Oops sorry, still boobs #Laugh
+@NullResponse @ShowButtImage @Wait(#Random(3,12))
+@NullResponse @ShowButtImage @Wait(#Random(3,12))
+@NullResponse @ShowButtImage @Wait(#Random(3,12))
+@NullResponse @ShowButtImage @Wait(#Random(3,12))
+@NullResponse @ShowButtImage @Wait(#Random(3,12))
+(no butts)
+I think that as far as porn goes, lesbian is my favourite
+Not that I'm not into guys, mind you
+But there's something about the way girls make love... @ShowLesbianImage
+@NullResponse @ShowLesbianImage @Wait(#Random(3,12))
+@NullResponse @ShowLesbianImage @Wait(#Random(3,12))
+No man can touch that... #EmoteMoan @ShowLesbianImage @Wait(#Random(3,12))
+@NullResponse @ShowLesbianImage @Wait(#Random(3,12))
+Are you #JerkingOff #SubName?
+[yes] Stop touching
+[no] I guess you really needed this break, huh?
+@DifferentAnswer #YesOrNo
+It's about time I got back to being a Strict Mistress again #EmoteWink
+@End

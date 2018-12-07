@@ -1,0 +1,15 @@
+#StopStroking @StopStroking 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+Stand up.  @TempFlag(AV_2RND02)
+I want you to spank yourself. 
+Go. Again, again, again, again. 
+Oh do it harder. 
+Your Mistress demands you do. 
+Harder, harder. 
+If your ass isn't bright red by now, then you'll have to start all over again. 
+Do it again, really fucking hard. 
+Again. 
+Ok sit down again. #Lol
+It hurts to sit doesn't it? 
+I think I've teased you long enough.
+@End

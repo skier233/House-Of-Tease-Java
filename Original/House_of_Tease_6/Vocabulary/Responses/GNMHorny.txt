@@ -1,0 +1,112 @@
+[i am horny, i'm horny, i'm turned on, i am turned on, i'm desperate, i am desperate, im horny, im so horny, im getting horny, getting so horny, making me horny, make me so horny, im turned on, im so turned on, im worked up, im so worked up, im all worked up, im aroused, im so aroused, i feel horny, i feel so horny, i feel so worked up, you make me horny, you make me so horny, groan, moan, mmm, oh god]
+[All]
+@Flag(pthevPlugged) Hehe... is it also a little embarrassing to have your ass plugged up? @ResponseYes(ItsEmbarrassing)
+@Flag(AV_SubKnees) I'm getting pretty turned on myself, knowing you're on your knees for me...
+@Flag(AV_Pins) I love how the pain from the clothespins makes doesn't make you less horny, but actually more #EmoteHappy
+@Flag(AV_BallTied) Good... I want those tied up balls to fill up like never before
+[All End]
+[First Round]
+You should be horny...
+Maybe this will make it worse #Grin @ShowLikedImage 
+#Good!
+I love it when you're horny, now lets see what we can do to make it worse!
+Pray i'm not turn you from horny to crying!
+Are you all #SubHorny <i>already</i>? Then this is going to be so, so good. For me #EmoteRandom
+We're only just getting started, it'll get so, so much worse #EmoteRandom
+I want to make you feel so frustrated #PetName #EmoteRandom
+Getting you all #SubHorny is going to bring me so much pleasure #EmoteHappy 
+If you're all wound up already, do you think I will help you with that? Maybe I just want to make it worse.... #EmoteRandom
+Are you all #SubHorny <i>already</i>? Then this is going to be so, so good. For me #EmoteRandom
+[First Round End]
+[Stroking]
+#Grin Are you aching for me, #Name? @ResponseYes(Im Aching)
+@NullResponse @CallReturn(Custom\Shorts\Short17.txt)
+You should be horny...
+You must be dripping with precum... @ResponseYes(Dripping)
+Thats why you're stroking silly, to make you horny!
+Give me more, #Name @AddStrokeTime
+#Good!
+@Flag(AV_DommeHornie1) Good, but its not enough!
+@Flag(AV_DommeMistress) Be glad i'm not whipping you right now!
+Who wouldn't be if they were in your shoes
+Maybe this will make it worse #Grin @ShowLikedImage 
+@Flag(AV_DommeHornie1) Your pleading makes me horny too #Laugh
+@Flag(AV_DommeMistress) Maybe.. but not enough..
+You seem a little #SubHorny, #PetName #Grin
+You seem a bit distracted #PetName, do you think more stroking will help? @ResponseYes(AV_FastStroke) 
+Is that stroking getting to you #PetName? Good #EmoteRandom @ResponseYes(AV_FastStroke) 
+Is that stroking getting to you #PetName? Good #EmoteRandom 
+I want you so #SubHorny that it feels unbearable #EmoteRandom @CallReturn(Custom\Shorts\Short03.txt)
+I want you so #SubHorny that it feels unbearable #EmoteRandom @CallReturn(Custom\Shorts\Short04.txt)
+Watching you stroke is making me so #DomHorny, #PetName. Mmmm...
+Do you like this stroking #PetName? I hope so #EmoteRandom
+I'm glad I'm having the right effect on you #PetName #Grin
+Try to think about something other than getting yourself off
+Does being so #SubHorny feel like suffering? 
+Does being so #SubHorny feel like suffering? @CallReturn(Custom\Shorts\Short01.txt)
+Does being so #SubHorny feel like suffering? @CallReturn(Custom\Shorts\Short02.txt)
+[Stroking End]
+[Not Stroking]
+You should be horny...
+Maybe this will make it worse #Grin @ShowLikedImage 
+#Good!
+@Flag(AV_DommeHornie1) I love it when you're horny, now lets see what we can do to make it worse!
+@Flag(AV_DommeMistress) Pray i'm not turn you from horny to crying!
+This is going to feel so much more unbearable when I make you stroke again #EmoteRandom
+I would enjoy resting that #Cock, I'll make it even worse for you soon #EmoteRandom
+Wait til you start stroking again #EmoteRandom
+I'm glad I'm having the right effect on you #PetName #Grin
+I love teasing you, making you all #SubHorny #EmoteRandom
+[Not Stroking End]
+[Edging]
+You should be horny...
+Maybe this will make it worse #Grin @ShowLikedImage 
+#Good!
+@Flag(AV_DommeHornie1) I love it when you're horny, now lets see what we can do to make it worse!
+@Flag(AV_DommeMistress) Pray i'm not turn you from horny to crying!
+Oh yes, edge for me, I'm so #DomHorny #PetName
+I think I could still get you more #SubHorny.... edge for me #EmoteRandom
+I like the effect this is having on you #PetName #EmoteRandom
+Do you like the way this makes you feel, or are you suffering? #EmoteRandom
+[Edging End]
+[Holding The Edge]
+You're edging, you should be!
+Maybe this will make it worse #Grin @ShowLikedImage 
+#Good!
+@Flag(AV_DommeHornie1) Maybe I should make you edge a thousand times!
+@Flag(AV_DommeMistress) Just be happy i'm not holding the cane right now!
+Holding that edge is intense, huh #PetName? #EmoteRandom
+Do you feel like you can't take any more #PetName? #EmoteRandom
+Staying rightttt on that edge should make you nice and #SubHorny #EmoteRandom
+Watching you ride that edge is making me #DomHorny #PetName. Mmmm...
+[Holding The Edge End]
+[CBT Cock]
+If you're horny, you're not hitting hard enough!
+You get turned on by pain, intresting..
+Horny? When you're punishing your #Cock?
+@NullResponse @CallReturn(Custom\Shorts\Short17.txt)
+@Flag(AV_DommeHornie1) You naugthy boy!
+@Flag(AV_DommeMistress) If this is turning you on, then something is very wrong! @CallReturn(CallReturn/pvCr_Punishment.txt)
+[CBT Cock End]
+[CBT Balls]
+If you're horny, you're not hitting hard enough!
+You get turned on by pain, intresting..
+Horny? When you're punishing your #Balls?
+@Flag(AV_DommeHornie1) You naugthy boy!
+@Flag(AV_DommeMistress) If this is turning you on, then something is very wrong! @CallReturn(CallReturn/pvCr_Punishment.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short17.txt)
+[CBT Balls End]
+[Chastity]
+Must suck to be horny and locked up!
+Maybe this will make it worse #Grin @ShowLikedImage 
+#Good!
+@Flag(AV_DommeHornie1) Locked and horny, a good combination
+@Flag(AV_DommeMistress) Pray i'm not locking you in that cage forever!
+I bet you'd like me to let your #Cock out of that cage huh #PetName? #Lol
+I love seeing you all #SubHorny and stuck in that tight, horrible little cage #EmoteRandom
+Is that cage getting a little... tight, #SubName? #EmoteRandom
+I wonder what it would feel like, if I were all #DomHorny and could't play with myself? I don't think I could bear it...
+I would so hate to be stuck in your position right now. Lucky I'm not and can play with myself as much as like, huh #PetName #EmoteHappy
+[Chastity End]
+[After Tease]
+[After Tease End]

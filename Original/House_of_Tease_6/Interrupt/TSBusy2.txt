@@ -1,0 +1,29 @@
+@NulLResponse @Chance50(2) @Chance50(3) 
+I'm sorry #Name, this is just bad luck
+I still can't play right now, #EmoteFrowny
+Soon, I promise #Name, I promise @Interrupt(TSDayReset) 
+@End 
+(2)
+I'm sorry, this is taking longer than I anticipated @ChastityOff
+I might not be able to play right now
+Maybe if I'm thinking about the edge I want you to ride for me though
+I'll change my mind and try to hurry up
+#Edge @EdgeHold
+#Smile
+I want you to put it back up for now
+Try me again in another 30 minutes
+Hopefully I'll be home then #Smile @Interrupt(TSDayReset)
+@End 
+(3)
+I'm sorry #Name, it turns out I'm just not going to be able to play #GeneralTime
+@NullResponse @Chance50(3Chaste)
+But there's no reason you can't #Ache for me until tomorrow @ChastityOff
+I #Want 2 edges before then #Smile
+You can spend as much time stroking for those edges as you like #Smile
+But after your second edge, you have to wait for me to give you permission to stroke again #Smile
+(3Chaste)
+Until I can play with you though
+I think I just want you to #Ache for me @ChastityOn
+No stroking until I give you the go ahead #Smile
+Talk to you soon #Smile @Interrupt(TSDayReset)
+@End 

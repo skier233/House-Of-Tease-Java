@@ -1,0 +1,14 @@
+@NullResponse @Goto(02, 03)
+(02)
+I think you know how I feel about edging without permission, #PetName
+Next time <i>ask</i> if you need to edge
+Although of course...
+There's no guarantee that I'll let you #Laugh
+At least when you edge without asking, I get to punish you @Interrupt(pvInt_Punishment)
+@End
+(03)
+Since you're not going to be good and stay away from the edge #GeneralTime...
+I might as well make you stay there a while
+#Edge @Edge(LongHold,HoldTaunts) @MultipleEdges(3,5)
+#LetTheEdgeFade
+@End

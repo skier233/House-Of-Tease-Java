@@ -1,0 +1,37 @@
+#StopStroking @StopStroking 
+You probably think that your #Balls are going to burst @ChangeVar[AV_GlitterControl]=[AV_GlitterControl]+[2]
+that they can't handle that much of cum, trying so desperately to get out. @SetLink(AV_SpecGlitterLinkEnd)
+Don't worry. I think they can handle much more. ;) 
+You're not here to spray your load all over the place.
+You're here to @RandomText(learn to control yourself, get lost in your own desire, feel nothing else than pure frustration)
+I don't think you even know what that means, just yet.
+#StartStroking
+Think about what you would do, just to keep me happy.
+And you really should want to keep me happy. 
+That's your only hope of ever getting to come.
+@RandomText(Would you degrade yourself, Would you be so desperate) and let me penetrate your ass, just for the hope of some relief?
+#Edge @Edge
+Now #Slave. You've been good so far. 
+Lets not ruin it for you. 
+Until I let you stop, you are going to edge for me. 
+Over and over, only short rest in between. 
+If you want to make me really happy, hold each edge for as long as you can!
+Start now... Edge @PlayAudio[tease\cEdge.mp3] 
+The next few minutes 
+I want to see as many Edges as you can do. 
+Over and over, baby.  @Wait(10)
+Let's make your cock cry tears of joy and frustration. 
+Edge over and over
+again and again,
+until I let you stop. @Wait(10)
+Hold each edge, if you dare!
+Keep Edging!  @Wait(10)
+Again and again, baby! 
+Feel the frustration.
+Keep going!  @Wait(10)
+No stopping this torture yet!
+I love watching you do this to yourself for my amusement! 
+Over and over, baby! @Wait(10)
+@RandomText(That's enough. You were such a good boy for me, Enough. Well done, baby, Stop. I've seen enough) @PlayAudio[tease\cStop.mp3] 
+Now, let's get on to something else..
+@End

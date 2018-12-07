@@ -1,0 +1,95 @@
+Ohh, you think I'm a #Naughty tease #Name? #Smile @Chance30(5)
+#Edge @Edge
+How about now, am I #DommeTease? @Goto(1, 2)
+(1)
+Mmmm
+#Edge @Edge
+I am a tease aren't I? #Smile
+#Start #Stroking again
+But don't edge now
+Avoid the edge #Name #Smile @StartStroking
+@End
+(2)
+How about this #Smile @Goto(3, 4)
+(3)
+#Edge @Edge
+I am a tease aren't I? #Smile
+#Start #Stroking again @Goto(4, 5, 6)
+(4)
+But don't edge now
+Avoid the edge #Name #Smile @StartStroking
+(5)
+No more #Touching for you
+I'll teach you to call me a tease #Smile
+It's #DomHonorific to you #Smile 
+@End
+(6)
+Maybe I should take you're #Cock away from you #Smile @Goto(7, 8, 9)
+(7)
+I don't think I'm feeling quite that #Mean though #Smile
+#StartStroking @StartStroking
+@End
+(8)
+I think that's exactly what I'm going to do too #Smile
+No more stroking for you #Smile
+I'm going to play the Queen of Denial
+And you can be the Ace of #Aches #EmoteRandom 
+@End
+(9)
+#Smile
+Since I'm such a tease and all #Smile
+How about you beg me to let you #Stroke #Yourself some more #Smile
+I'm listening #Name
+[yes] Begging is not a yes or no questions #PetName... @LoopAnswer
+[no] Begging is not a yes or no questions #PetName... @LoopAnswer
+[please, throb, throbbing, trembling, touch, stroke, need, want, anything, desperate, ache, aching, horny, hurts]
+@DifferentAnswer Mmm, keep #Begging #Name
+@AcceptAnswer #Smile
+Don't you dare #Touch #Yourself
+And keep #Begging #Smile
+[yes] Begging is not a yes or no questions #PetName... @LoopAnswer
+[no] Begging is not a yes or no questions #PetName... @LoopAnswer
+[please, throb, throbbing, trembling, touch, stroke, need, want, anything, desperate, ache, aching, horny, hurts]
+@DifferentAnswer #Beg #Name #EmoteRandom
+@AcceptAnswer #Smile @Goto(A, B, C, D, E)
+(A)
+Mmm, I think I've made up my mind #Name
+And the answer is NO! #Smile
+I don't #Want for you to be #Touching #Yourself right now
+I just #Want for you to #Ache for it #Smile 
+@End
+(B)
+Mmm, I think I've made up my mind #Name
+#StartStroking #Smile
+I'll have you #Begging for me to #LetYouStop again soon #Smile
+And you had better hope I'm feeling as merciful as I am now #Smile @StartStroking
+@End
+(C)
+Mmm, I think I've made up my mind #Name
+I #Want you to keep #Begging
+And no, you're still not allowed to #Stroke #Yourself #Smile 
+@End
+(D)
+Mmm, I think I've made up my mind #Name
+I #Want you to keep #Begging
+But, since I'm such a tease @Chance75(Nipples)
+You can #Start #Tickling #That #Cock
+But only with your fingertips #Name
+Just #Tickle it #Smile 
+@End
+(Nipples)
+So you can #Start #Tickling your nipples #Smile
+But you're not allowed to #Touch #That #Cock #Smile 
+@End
+(E)
+Mmm, I think I've made up my mind #Name
+I #Want you to keep #Begging
+And no, you're still not allowed to #Stroke #Yourself #Smile
+#BegMe #Smile
+Keep #Begging #Name and don't you dare #Touch #Yourself #Smile
+[yes] Begging is not a yes or no questions #PetName... @LoopAnswer
+[no] Begging is not a yes or no questions #PetName... @LoopAnswer
+[please, throb, throbbing, trembling, touch, stroke, need, want, anything, desperate, ache, aching, horny, hurts]
+@DifferentAnswer Mmm, this is much fun, Beg, beg, beg #Name #Smile
+@AcceptAnswer #Smile @Goto(A, B, C, D, E)
+@End 

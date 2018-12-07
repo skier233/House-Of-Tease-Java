@@ -1,0 +1,231 @@
+I'm not letting you off the hook @InterruptsOff
+But I'll give you a break
+Now, what should we do in the meantime...
+@Flag(pthevGlitterIntroduced) @NullResponse @Chance50(any ideas)
+I could tell you to bust your #Balls of course #Grin @Chance50(bust your balls)
+But I won't this time
+It's bad enough that you have to go back to edging in a moment @Chance50(break one)
+I guess we can just wait while you recover
+Anything you want to ask or tell me? @Wait(10)
+Anything <i>interesting</i>?
+Never mind #SubName, we should probably get back to those edges @InterruptsOn
+@End
+(bust your balls)
+They must be nice and big from all that edging 
+And blue... let's make them purple @CBTBalls
+I hope you didn't accidently force out all that cum #Grin
+Maybe next time you want to ask for a break you'll think of this and reconsider 
+You have such delicious choices to make
+"Will I keep edging until it becomes unbearable..."
+"Or ask for a break and risk a ball-busting"
+Don't worry #SubName, it won't always be like this #Laugh
+We should probably get back to those edges @InterruptsOn
+@End
+(any ideas)
+Maybe #Contact3 has any ideas, let's see if she can log on @Wait(8)
+@NullResponse @AddContact3 
+@Contact3 What's up?
+#SubName is on a short break from edging his brains out
+Any ideas on what he could do while 
+@Contact3 Why do you even grant him a break in the first place!?
+@Contact3 You could make him edge while waiting to resume edging
+#Lol
+@Contact3 But seriously, since you asked me...
+@Flag(pthevClothespins) @NullResponse @Chance30(clothepins)
+@Flag(av_fetish_cei) @NullResponse @Chance30(ruined CEI)
+@Flag(pthevCaneExplained) @NullResponse @Chance30(beat his ass)
+@Contact3 You should make sure his #Cock goes completely limp
+@Contact3 So he has to get it back up for the next edge
+He's all yours #Smile
+@Contact3 Oh, okay #Grin
+@Contact3 Well, for starters, #SubName @CBTCock
+@Contact3 Now get your ass off your chair and do 25 Pushups!
+@Contact3 Hurry up, I'm waiting...
+[done,ready,did,finished] @Contact3 Took you long enough #EmoteRandom
+@DifferentAnswer Let me know when you did 25 pushups...
+@Contact3 Now do 25 situps!
+@Contact3 If you can't do them all at once, that's okay
+[done,ready,did,finished] @Contact3 Now let's see
+@DifferentAnswer @Contact3 Let me know when you did 25 situps...
+@Contact3 Is your #Cock still erect?
+[yes] @Contact3  That's actually pretty impressive...
+[no] @Contact3 There you go #Smile @Goto(cock now soft)
+@DifferentAnswer @Contact3 Yes or no?
+We have to get back to those edges at some point #Contact3 #Laugh
+@Contact3 Right... @CBTCock
+And 25 situps again...
+[done,ready,did,finished] @Contact3 Okay then...
+@DifferentAnswer @Contact3 Let me know when you did 25 situps...
+@Contact3 Is your #Cock <i>still</i> hard?
+[yes] @Contact3  I give up #ShortName...  #EmoteFlustered
+[no] @Contact3 Finally...
+@DifferentAnswer @Contact3 Yes or no?
+(cock now soft)
+I think that break has been long enough anyway
+@Contact3 See you later!
+@NullResponse @RemoveContact3
+@NullResponse @InterruptsOn
+@End
+(beat his ass)
+@Contact3 I think you should beat his ass for even asking
+@Contact3 You do whip him sometimes, right?
+I usually use a cane
+@Contact3 Even better!
+#SubName, go get your cane @Wait(5)
+So #Contact3, how many lashes?
+@Contact3 15 seems about right
+Are you ready, #PetName? @Timeout(5,takes too long)
+[yes] Good
+[no] @Contact3 You should add another 10 for that, #ShortName @Goto(add another 10)
+@DifferentAnswer #YesOrNo
+Bend over, put your hands on a chair
+@Contact3 Don't hold back, #SubName
+Here we go... @Wait(8)
+@NullResponse @PlayAudio[PtheV\cane.mp3]
+@NullResponse @SetVar[PtheVCaneCount]=[1]
+@Contact3 You'll have to do it much harder than, #SubName
+@NullResponse
+(15 another one)
+@NullResponse @PlayAudio[PtheV\cane.mp3] 
+@NullResponse @ChangeVar[PtheVCaneCount]=[PtheVCaneCount]+[1]
+@NullResponse @If[PtheVCaneCount]=[25]Then(contact3 caning done)
+@NullResponse @Goto(15 another one)
+(takes too long)
+@Contact3 It's taking him way too long, #ShortName
+@Contact3 You should add another 10 for that
+(add another 10)
+That's 25 already, are you ready #SubName?
+[yes,ready] Finally...
+[no] Let me know when you are @LoopAnswer
+@DifferentAnswer #YesOrNo
+Bend over, put your hands on a chair
+@Contact3 Don't hold back, #SubName
+Here we go... @Wait(8)
+@NullResponse @PlayAudio[PtheV\cane.mp3]
+@NullResponse @SetVar[PtheVCaneCount]=[1]
+@Contact3 You'll have to do it much harder than, #SubName
+@NullResponse
+(another one)
+@NullResponse @PlayAudio[PtheV\cane.mp3] 
+@NullResponse @ChangeVar[PtheVCaneCount]=[PtheVCaneCount]+[1]
+@NullResponse @If[PtheVCaneCount]=[25]Then(contact3 caning done)
+@NullResponse @Goto(another one)
+(contact3 caning done)
+@Contact3 That's enough #ShortName
+@Contact3 I think #SubName can take a couple edges now
+It's not like he has much choice in the matter #Smile
+@Contact3 Right! #Laugh
+@Contact3 Well, enjoy you two, see you later
+@NullResponse @RemoveContact3
+That's what I call a productive break! @InterruptsOn
+@End
+(clothepins)
+@Contact3 #SubName...
+@Contact3 Go get 8 clothespins, hurry up!
+[ready] @Contact3 Good
+@AcceptAnswer Clothespins are important #SubName
+@Contact3 You should always have them ready
+@Contact3 Put one on each of your nipples...
+@Contact3 And three on each of your #Balls
+@Contact3 But leave your #Cock alone!
+@Contact3 That poor thing has to rest from all those edges #DomName made you do 
+What a lovely way to spend a break #Smile
+How long should they pins stay on, #Contact3?
+@Contact3 I was thinking, one edge now with the clothespins
+@Contact3 And then you can continue with your edges #Laugh
+#Lol
+Sounds like a good plan
+@Contact3 Alright #SubName, get to the edge for me @EdgeHold
+@Contact3 Take off those pins, #SubName
+Thanks for the help #Contact3 #Smile
+@Contact3 Always a pleasure #ShortName
+@Contact3 See you later, #SubName #Grin
+@NullResponse @RemoveContact3
+Such a nice girl,isn't she? @Timeout(3,nice girl)
+[yes] #Contact3 in three words: Cruel, but Fair #Laugh
+[no] Maybe not to you #Laugh
+[very,I like,great,awesome,I love] That's good, although it doesn't seem to be mutual...
+[cruel] Oh yes, cruel too #Laugh
+[tough] She can be pretty tough, that's true
+[bitch] Really, never noticed that #EmoteWink
+@AcceptAnswer #Contact3 in three words: Cruel, but Fair #Laugh
+(nice girl)
+@NullResponse @InterruptsOn
+@End
+(ruined CEI)
+@Contact3 I'd like to make him ruin an orgasm and eat it right now
+@Contact3 Then after that you can go back to edging him #Smile
+Wow... that's pretty harsh, #Contact3...
+I like it! #Lol
+He was edging already, so ruining it should be easy
+@Contact3 #SubName, get to the edge now @EdgeHold
+@Contact3 Now just gently stroke yourself to the edge again @RapidTextOn
+@Contact3 And ruin that orgasm into your hand... 
+@Contact3 Did you do it? @RapidCodeOff
+[yes] @Contact3 Good boy #Laugh
+[no] @Contact3 Then do it now! @LoopAnswer
+[done,ruin,did] @Contact3 Good boy #Laugh 
+[can't,won't,don't,please] Hand off your #Cock #PetName @Goto(not do it)
+@DifferentAnswer Do as #Contact3 said, #PetName!
+@Contact3 Now lick up that splatter of cum on your hand
+@Contact3 Lick it up like a good cumslut
+I still think it's disgusting, #Contact3
+But I do now understand the appeal of making a #PetName eat his cum
+@Contact3 Well, the fact that it's disgusting has something to do with it #Laugh
+@Contact3 I hope #SubName can still do those edges he owes you
+We'll know soon enough!
+Anyways, thanks for the help #Contact3 #Smile
+@Contact3 Always a pleasure #ShortName
+@Contact3 See you later, #SubName #Grin
+@NullResponse @RemoveContact3
+You <i>do</i> still owe me some edges, #PetName @InterruptsOn
+@End
+(not do it)
+@Contact3 #SubName has a lot to learn, #ShortName
+Yes he does... @CBTBalls
+@Contact3 I'd love to try this again sometime and see if he's learned anything
+#SubName is always happy to learn new things, aren't you, #PetName?
+[yes] Good #Smile
+[no] What was that, #PetName? @LoopAnswer
+@DifferentAnswer #YesOrNo
+Anyways, thanks for the help #Contact3 #Smile
+@Contact3 Always a pleasure #ShortName
+@Contact3 See you later, #SubName #Grin
+@NullResponse @RemoveContact3
+She'll enjoy teaching you some new tricks when she gets the chance #Grin @InterruptsOn
+@End
+(break one)
+@NullResponse @CheckFlag(pthevCEITraining)
+@NullResponse @CheckFlag(pthevLink2PicSaved)
+Ready to continue?
+[yes] Good
+[no] Well, I'm ready so...
+@DifferentAnswer #YesOrNo
+We should probably get back to it
+@End
+(pthevCEITraining)
+You know what, #SubName
+I'm glad #Contact2 and #Contact3 convinced me to train you to eat your cum
+I don't know why that just occurred to me
+Probably because all that edging is making your #Balls nice and full
+Imagine having to swallow all that #Grin
+Imagine cumming on a plate
+And then slowly licking up every sticky last drop
+Until the plate is clean
+And that warm goo has disappeared down your throat
+It's going to taste gooooood #Smile
+Let's make some more cum for you to swallow, #Name @InterruptsOn
+@End
+(pthevLink2PicSaved)
+Look what I found...
+Remember that, #Name? @ShowImage[My Sissy Pics\Sissy01.jpg] @LockImages
+That was fun wasn't it?
+My little girl...
+We should make more pictures of you, #SubName @UnlockImages
+#Contact1 and I talked about making a web page with all your humiliating pictures
+Would you like that?
+[yes] Oh, then it's no fun for us #Laugh
+[no] I'm not too sure about it myself, so don't worry #Smile
+@DifferentAnswer #YesOrNo
+Anyway... @InterruptsOn
+@End

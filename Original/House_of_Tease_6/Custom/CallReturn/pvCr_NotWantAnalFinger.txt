@@ -1,0 +1,10 @@
+So my #PetName is suddenly getting squeamish about anal play...
+Are you sure you don't want to do this?
+[yes] Alright then *sigh* @Goto(alright then)
+[no] Good boy
+@DifferentAnswer #YesOrNo
+You know you always feel better when you @RT(do as I say,obey my commands,follow my instructions) #Smile
+@End
+(alright then)
+I guess you just don't want to get your hands dirty #EmoteWink @Interrupt(pvIn_General)
+@End

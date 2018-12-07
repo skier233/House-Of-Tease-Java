@@ -1,0 +1,38 @@
+So, you've been #JerkingOff without my permission?
+[yes] @RT(Hmm,Tsk tsk,Ooohh,Well,My my)
+[no] Oh, I... must have misunderstood then @Goto(must have misunderstood)
+@DifferentAnswer #YesOrNo
+You're a very bad #PetName @CheckFlag(pthevCompleteControlYES)
+At least came out and told me
+That shows me that you understand you've made a mistake
+And I must say, that makes me very happy #Smile @MoodUp
+It shows me that you are willing to be a better sub for me
+So #SubName...
+What if from now on, you give me control over all your masturbation habits
+Not just when you come to me for a session
+I want to know that you #JerkOff <i>only</i> when I say you can
+Are you willing to do that?
+[yes] Hmm... that's a good #PetName @DeleteFlag(pthevCompleteControlNO) @SetFlag(pthevCompleteControlYES)
+[no] Okay... but then there's also no point in telling me you've been #JerkingOff #SubName @Goto(must have misunderstood)
+@DifferentAnswer #YesOrNo
+That's how deep you've falling into my control already #Smile
+From now on, your #Cock fully and truly belongs to me
+You are not allowed to touch it unless you have my permission
+It may be difficult sometimes, but #SubName...
+It's worth it #Smile
+Because you are more and more becoming what you truly are
+A submissive who will do anything that I ask
+(must have misunderstood)
+#StartStroking @StartStroking
+@End
+(pthevCompleteControlYES)
+You know you are not allowed to #JerkOff without permission
+Did you cum?
+[yes] #EmoteSad @Goto(did cum)
+[no] That's something I guess...
+@DifferentAnswer
+But I'm still going to punish you for it @Interrupt(pvInt_Punishment)
+@End
+(did cum)
+@NullResponse @Call(Custom\CallFromLink\pvHadOrgasmStart.txt,had an orgasm)
+@End

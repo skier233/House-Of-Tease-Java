@@ -1,0 +1,346 @@
+@NullResponse @CheckFlag(pvMod10A)
+@Flag(pthevGlitterIntroduced) @NullResponse @Chance40(glitter)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#KeepStroking
+(but i want you)
+But I want you to use only 2 fingers now @SetFlag(pvMod10A) @Chance35(index and middle finger)
+Just your thumb and index finger @Chance50(just your thumb)
+It's going to be hard to cum like this isn't it?
+Just use your index finger now @Wait(12)
+That's frustrating isn't it? @Timeout(8,two fingers)
+[yes] At least I'm letting you touch it, I could put you in chastity #Smile
+[no] Oh good
+@AcceptAnswer @NullResponse
+(two fingers)
+Back to stroking with 2 fingers now @Wait(16)
+Now 3 fingers... @Wait(19)
+#StopStroking @StopStroking
+Sorry, #Name #Grin @Chance50(know how frustrating)
+@End
+(Sub Not Stroking)
+Hm... your #Cock really doesn't like not being touched, does it... #EmoteWink
+It's just sort of... bouncing around aimlessly in the air...
+Start stroking again, #Name @Goto(but i want you)
+@End
+(just your thumb)
+Put some lube on that #Cock
+Make it very slippery, but use only two fingers
+Think about how good it would feel to wrap your hand around it again
+Now take away your index finger
+I want you to stroke with your thumb and only your thumb
+#StopStroking @StopStroking
+It's good to have some restraint sometimes #Smile
+@End
+(index and middle finger)
+Just your index finger and your middle finger #Smile @Wait(8)
+Now rub only the tip of your #Cock with those two fingers
+Imagine it's my clit you're rubbing, #SubName
+I'm sure you've given a girl an orgasm like this, right? @ResponseYes(pvRsMod10A) @ResponseNo(pvRsMod10B)
+Keep going, I'm just going to slide my hand into my panties... #Smile 
+@NullResponse @ShowTaggedImage @TagSoloF @TagMasturbation @LockImages @Wait(15)
+#EmoteMoan @Wait(10)
+Stop touching yourself, #Name @StopStroking @UnlockImages
+If only you were here with me
+So many juices for you to lap up #Grin
+I think I need a little break 
+So I'm going to leave you with one of your videos
+But keep your hands off, #Name
+I'll be right back #Smile @AFKOn @PlayVideo
+@NullResponse @Wait(13) 
+I'm back #Smile @AFKOff
+@End
+(know how frustrating)
+I can only imagine how frustrating it must be when you want so badly to #JerkOff
+And then you can't because you don't have permission
+I'm glad I'm never going to have to deal with that #Smile
+You on the other hand...
+I love teasing and denying you #Grin @Chance50(watch a slideshow)
+@End
+(watch a slideshow)
+How about I set you up a slideshow #Smile 
+I'll make it one with assignments, too
+It's going to be a mix of different kinds of pictures...
+When you see a lesbian picture, you will do 5 strokes
+If it's a hardcore with vaginal penetration, squeeze you #Balls until the image changes
+If it's hardcore with <i>anal</i> penetration, squeeze your <i>cock</i> until the image changes
+@CockTorture For a blowjob image, give the head of your #Cock one hard slap @Goto(one hard slap)
+For a blowjob image, you will do 10 lightning fast strokes
+(one hard slap)
+And finally if it's anything else, you will put your hands behind your back #Smile
+Can you remember all that?
+[yes] Good, you're a real smart boy #EmoteWink @Goto(remember all)
+[no] Alright, one more time...
+@DifferentAnswer #YesOrNo
+Lesbian - 5 strokes
+Hardcore vaginal penetration - squeeze balls
+Anal penetration - squeeze cock
+@CockTorture Blowjob - one hard cock slap @Goto(cock slap again)
+Blowjob - 10 fast strokes
+(cock slap again)
+And anything else - hand behind your back
+(remember all)
+Here we go, #PetName @Slideshow(Hardcore,Softcore,Lesbian,Blowjob,Femdom,Lezdom,General,Boobs,Butts,Slow)
+@NullResponse @AFKOn @SlideshowOn
+@NullResponse @Wait(#Random(60,150))
+@NullResponse @AFKOff @SlideshowOff
+So, did you like this little game?
+[yes] #EmoteHappy @Goto(liked the little game)
+[no] Aww that's just too bad, #PetName
+@DifferentAnswer #YesOrNo
+I know just the thing to cheer you up #Smile
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(liked the little game)
+I hope you didn't have to sit with your hands behind you back and do nothing too much
+@End
+(pvMod10A)
+#StopStroking @StopStroking @DeleteFlag(pvMod10A)
+@NullResponse @BadMood(no rest)
+You should rest a little bit, #PetName
+I know that @RT(all you want is,you love nothing more than) to @RT(ache,suffer) for me
+But @RT(every now and then,on occasion,sometimes,every once in a while) it's good to @RT(breathe easy,step back) and @RT(relax,slow down)
+I'm going to count from three down to zero
+And when I get to zero I want you to close your eyes, take a deep breath...
+Then breathe out very slowly and open your eyes again
+3
+2
+1
+Zero, close your eyes... @Wait(15)
+Breathe easy now
+Let's do that one more time
+3
+2
+1
+Zero, eyes closed... @Wait(15)
+Good boy #Smile
+@End
+(no rest)
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(glitter)
+#StopStroking @StopStroking
+@Flag(pvKneeling) You can stop kneeling now
+@Flag(pvBallsTied) @NullResponse @CallReturn(Custom/CallReturn/pvCr_UnTieMyBalls.txt)
+I'm going to take a short break, #SubName
+So I've asked #Contact2 to fill in while I'm gone
+We can't leave that #Cock unsupervised, after all @AddContact2
+@Contact2 Hi there, #SubName #Smile
+@Contact2 I'll take good care of your little subbie, #ShortName
+I'm sure you will, see you in a bit #Smile @RemoveDomme
+I guess it's just us now, #SubName
+Has #DomName been tough on you so far today? 
+[yes] Aww poor boy... she can be pretty cruel, right?
+[no] I'm glad to hear that, I know she can be pretty cruel sometimes...
+@DifferentAnswer Just say yes or no, #SubName
+@Flag(pvMod10C3TheoryYes) @NullResponse @Goto(theory correct)
+@Flag(pvMod10C3TheoryNo) @NullResponse @Goto(theory incorrect)
+Do you want to start stroking again?
+[yes] I thought as much, start stroking slowly then
+[no] That's okay, you don't have to if you don't want to @TempFlag(pvMod10NotStroking)
+@DifferentAnswer Do you want to #JerkOff yes or no?
+I don't want to wear you out, just to make you feel good #Smile @EdgeMode(Goto,make you feel good)
+You see, as much as I like the idea that #DomName controls you like a puppet...
+I just prefer to give you pleasure, not pain or frustration or any of that
+I can see that making you smack your #Balls or edge until you cry can be fun
+#DomName and the others certainly seem to have a good time with it
+But it's just not really my cup of tea, I guess
+They seem to believe that it's the humiliation that turns you on
+Especially #Contact3 - as you've probably figured out by now #Smile
+But I have a somewhat different theory about you, #SubName
+@Flag(pvMod10NotStroking) You can stroke if you want to by the way, it's up to you
+Do you want to know what I think is going on in that little mind of yours?
+[yes] I don't think it's really about humiliation or that you 'deserve' a cruel treatment
+[no] Oh okay, forget I mentioned it then... @Goto(forget it then)
+@DifferentAnswer Yes or no?
+I think it's simply that you crave the attention we give you
+Maybe you're a little bit insecure and don't talk to a lot of girls
+@Flag(pthevVirgin) You're still a virgin after all, that doesn't just happen for no reason
+@Flag(pthevPartner) Although you did get together with @Var[pthevNamePartner] somehow...
+In any case, here's this gorgeous girl who happens to have a couple of hot friends
+And they pay attention to you!
+What more does a guy want... #Smile
+Sure, they're kind of bitchy and make you do humiliating things for fun
+And they tease you like crazy and then leave you with blue balls...
+But still... how else was this ever going to happen
+How else were you going to get this much attention from girls like us
+So, you swallow your pride and accept the bad that comes with the good
+It's only a small price to pay for getting to masturbate while staring at us
+But in your heart of hearts you'd probably prefer to get our attention without the cruel stuff
+Anyway, that's my theory... so tell me, is it correct?
+[yes] Yeah, I usually have a pretty good read on people #Smile @SetFlag(pvMod10C3TheoryYes)
+[no] No? So you really are every bit the pervert #Contact3 thinks you are... @SetFlag(pvMod10C3TheoryNo)
+@DifferentAnswer Yes or no?
+Stroke your cock for me, #SubName @Goto(you like to stare)
+@End
+(forget it then)
+@Flag(pvMod10NotStroking) But I do think you should start stroking then
+@Flag(pvMod10NotStroking) What else are you going to do if you don't feel like talking, right? #Smile @DeleteFlag(pvMod10NotStroking)
+Simply stroke your cock for me then, #SubName
+(you like to stare)
+I know you like to stare at me and jerk it #Giggles
+I'm pretty sure that, like, 80% of all straight guys I meet want that so badly
+The other 20% think they can actually get into my pants... #Laugh
+Girls too, by the way... I don't care if they're gay or straight @EdgeMode(Normal)
+Most girls are basically bi anyway #Smile @AddDomme
+@Contact2 Speaking of girls who know how to properly eat out a girl...
+It's always easier to become good at something you love doing #Smile
+Did I miss anything good?
+@Contact2 Just the usual, #SubName jerking his penis as always
+You probably let him do whatever he wants...
+Stop stroking now, #PetName
+@Contact2 He did actually manage to keep himself from edging, so that's something
+@Contact2 It's not always like that... @Goto(not always like that)
+(make you feel good)
+I said I wanted to make you feel good, but I didn't expect you to feel <i>that</i> good #Giggles @AddDomme
+Hey I'm back, did I miss anything?
+@Contact2 Just #SubName being totally unable to not edge for a few seconds #Lol
+(not always like that)
+Yeah, that can be a real problem sometimes *rolls eyes*
+@Flag(pvPMEyes) He has a bit of a... premature ejaculation problem, I'm afraid
+@Contact2 Good thing that we're here to make sure he doesn't jizz all over himself
+That's the main challenge I have to deal with, most of the time #Smile
+@Contact2 I'll leave you to it then, bye #Smile
+Talk to you later, #Contact2 @RemoveContact2
+@NullResponse
+@End
+(theory incorrect)
+But I suppose her being cruel is what draws you in and turns you on 
+@Flag(pvContact3RoughYes) @NullResponse @Chance50(so I invited her)
+Still it's good to have a break from that sometimes, right? @Goto(tell you what)
+@End
+(so I invited her)
+@Contact2 So I invited #Contact3 to join us #Grin @AddContact3
+@Contact3 Hello, worm #Grin @CustomMode(#pvDontWantTo,Goto,do not want it)
+@Contact3 Get down on your filthy fucking knees,right now @TempFlag(pvKneeling)
+@Contact2 Stroke your cock for us, #SubName @EdgeMode(Goto,not supposed to edge)
+@Contact2 That's how it always starts, simply jerking your cock
+@Contact2 But before you know it, you're stuck in this swamp of aching humiliation again
+@Contact3 It's like quicksand, the more he moves...
+@Contact2 ...the more he gets sucked down and the harder it is to get out
+@Contact3 Exactly #Grin
+@Contact3 Stroke faster, worm
+@Contact2 Yeah, jerk that worm faster, worm #Laugh
+@Contact2 Why do you call him a worm, anyway?
+@Contact3 Just seems appropriate
+@Contact3 If it's crawling on the floor like a worm, must be a worm
+@Contact3 And that thing he's jerking looks like a worm
+@Contact3 And apparently that's the part that most determines who he is, so...
+@Contact2 Right, I get it now #Smile @EdgeMode(Normal)
+(do it some more)
+@Contact3 Get to the edge, worm @Edge
+@Contact2 Hands off and back away from the edge @AddDomme
+Hey there, looks like a party going on here #EmoteHappy
+@Contact2 #SubName doesn't look like he's having fun though... #Giggles
+@Contact3 What are you talking about, he's the one having the <i>most</i> fun
+@Contact3 His balls on the other hand... @CBTBalls
+His #Balls do look a little bruised and like they're not having all that much fun
+@Contact3 #Subname, spit in your right hand
+@Contact3 A nice big gulp of saliva, right there in the palm of your hand...
+@Contact3 Raise up that hand, so it's next to your cheek
+@NullResponse
+@Contact3 Now smack yourself in the face!
+@NullResponse
+@Contact2 C'mon #Contact3 that was just nasty...
+@Contact3 You thought that was nasty??
+@Contact3 #SubName are you leaking any precum?
+[yes] @Contact2 O-Oh #Laugh
+[no] @Contact3 Let's make some then... @Goto(let us make some)
+@DifferentAnswer @Contact3 Yes or no??
+(scoop up any)
+@Contact3 Scoop up that precum and spread it across the palm of your right hand
+@Contact2 This is going to be messy...
+@Contact3 Bring your hand up to your cheek, #SubName
+@Contact3 The next one should be harder than the last one, get ready...
+@NullResponse
+@Contact3 SMACK. NOW!
+@NullResponse
+@Contact2 #SubName has a hand-shaped cum stain on his face #Lol
+Looks good on him too! #Laugh @CustomMode(#pvDontWantTo,Normal)
+@Contact3 I think my work is done here for the moment #Grin @RemoveContact3
+@Contact2 See, this is the kind of thing I could never bring myself to do to #SubName
+#Contact3 always takes it that extra step into total depravity
+@Contact2 Are you okay, #SubName?
+[yes] @Contact2 Okay then
+[no] @Contact2 You should say so if you don't want to do something, #SubName
+@DifferentAnswer #YesOrNo
+@Flag(pvKneeling) @Contact2 You can get off you knees now @DeleteFlag(pvKneeling)
+@Contact2 In any case, it's been... interesting, as always #Smile @RemoveContact2
+Remember #SubName, you can always tell me if something goes too far
+Just say so if that's the case, okay?
+[yes,okay,I will] Good #Smile
+[no,will not,won't] Oh... alright then... 
+@AcceptAnswer I'll take that as a yes *rolls eyes*
+Let's move on, #PetName
+@End
+(let us make some)
+#Edge @EdgeHold
+#LetTheEdgeFade
+@Contact3 Are you leaking precum now?
+[yes] @Contact2 O-Oh #Laugh @Goto(scoop up any)
+[no] @Contact3 @RT(Oh,Hm,Damn,Well,Now then,Ah,So)... @Goto(let us make some)
+@DifferentAnswer @Contact3 Yes or no??
+@Contact3 Let's @RT(give it another go,try that again,try harder,try to make some), #ShortName @Goto(let us make some)
+@End
+(not supposed to edge) 
+@Contact3 You were not supposed to edge, #SubName
+@Contact2 If you want to edge so badly, maybe you should do it some more... @Goto(do it some more)
+@End
+(theory correct)
+I do feel sorry for you sometimes, #SubName
+You suffer so much just to get a little bit of attention from us
+(tell you what)
+I'll tell you what we'll do... I want you to start stroking for me @EdgeMode(Goto,whichever way you like)
+But you can stroke whichever way you like
+Fast or slow, full long strokes or just gently fondling your cock
+It's completely up to you, you don't even have to edge
+And I'll show you some porn in the meantime... 
+There's lots of it on your computer #Smile @ShowLocalImage
+@NullResponse @ShowLocalImage
+@NullResponse @ShowLesbianImage @LockImages
+This is so hot... fuckkk...
+I can totally understand that I can become overwhelming... 
+When #DomName makes you edge to this over and over again and then leaves you with blue balls @UnlockImages
+I think I would go totally insane... 
+@NullResponse @ShowLocalImage
+Touch yourself any way you like, #SubName @ShowLocalImage
+Just enjoy the show #Smile @ShowLocalImage
+@NullResponse @ShowLocalImage
+I can throw some video in too... @PlayVideo(#Random(10,20)) @JumpVideo
+(another one)
+@NullResponse @ShowLocalImage
+@NullResponse @ShowLocalImage
+@NullResponse @ShowLocalImage @Chance80(another one)
+@NullResponse @ShowLocalImage @EdgeMode(Normal) @AddDomme
+I'm back!
+@Contact2 I guess playtime is over, #SubName #Smile
+I guess you didn't put the screws on him too much? #EmoteWink
+@Contact2 You know me, I'm just a kind hearted person... 
+@Contact2 I gladly leave it up to you to make him squeal like a little piggy #EmoteWink
+Oh I will #Grin
+@Contact2 Have fun, #SubName *kiss* @RemoveContact2
+@NullResponse
+@End
+(whichever way you like)
+Wow... even when you don't have to edge, you can't resist it! #Laugh @AddDomme
+I'm back!
+@Contact2 I guess playtime is over, #SubName #Smile
+I guess you didn't put the screws on him too much? #EmoteWink
+@Contact2 You know me, I'm just a kind hearted person... 
+@Contact2 It's too easy to get #SubName all worked up, #ShortName
+@Contact2 I didn't even tell him to edge and he did so anyway!
+Well, well...
+I guess someone needs to be punished, then
+@Contact2 But I didn't do it on purpose, #ShortName *blushes*
+I was talking about #Subname #Laugh
+@Contact2 Oh...
+But I guess I can make time for you later on too #EmoteWink
+@Contact2 Yes please!!
+@Contact2 You first, #SubName *kiss* @RemoveContact2
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(do not want it)
+@NullResponse @Interrupt(pvIn_NotWantRoughContact3)
+@End

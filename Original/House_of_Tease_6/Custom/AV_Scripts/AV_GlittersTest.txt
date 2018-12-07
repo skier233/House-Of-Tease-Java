@@ -1,0 +1,127 @@
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@RT(#PetName, #SubName, Now), we have reached one @RT(important, crucial) part of your @RT(lesson, training). @SetVar[AV_GlitterTestRounds]=[1] 
+@RT(I, We) @RT(need, will) @RT(know, test) @RT(how's your behavior, If you are fit) to serve a @RT(Domme, Mistress) @RT(completely, entirely)
+So, @RT(a friend of mine, my friend) will @RT(use, test) you for a @RT(while, few minutes), without my @RT(interference, supervision)
+After that, she will @RT(say, tell) me if you @RT(it's approved, has passed)
+@RT(The male's commitment to this part of the training is very important, It is to your great benefit, If you do not comply with this,, you will not derive the benefits I have promised, If you do follow through with this,, you will win my great confidence).
+So no matter how @RT(hard, difficult) you think it might be, I @RT(require, demand) you to follow her instructions.
+@RT(Get ready, Let's choose someone, let's pick a friend, Who will be the lucky girl?) @Goto(Glit01, Glit02, Glit03)
+(Glit01)
+@NullResponse @AddContact1
+@RT(Hello, Hey, Hi) #Contact1, @RT(You know what to do, Do as we talked, He is all yours) #EmoteHappy
+@Contact1 @RT(Hello, Hey, Hi) #DomName, #ThankYou @RT(for your proposition, my dear). I am so @RT(excited, ready) for @RT(this, that)... @RemoveDomme 
+@NullResponse @Goto(Intro)
+(Glit02)
+@NullResponse @AddContact2
+@RT(Hello, Hey, Hi) #Contact2, @RT(You know what to do, Do as we talked, He is all yours) #EmoteHappy
+@Contact2 @RT(Hello, Hey, Hi) #DomName, #ThankYou @RT(for your proposition, my dear). I am so @RT(excited, ready) for @RT(this, that)... @RemoveDomme 
+@NullResponse @Goto(Intro)
+(Glit03)
+@NullResponse @AddContact3
+@RT(Hello, Hey, Hi) #Contact2, @RT(You know what to do, Do as we talked, He is all yours) #EmoteHappy
+@Contact3 @RT(Hello, Hey, Hi) #DomName, #ThankYou @RT(for your proposition, my dear). I am so @RT(excited, ready) for @RT(this, that)... @RemoveDomme 
+@NullResponse @Goto(Intro)
+(Intro)
+@RT(Well well... #Grin, I hope you remember me, so...) #SubName
+This is a lesson about @RT(submission, obedience)
+I am going to help you, but you have to do everything I tell you do exactly. OK?
+#DomName @RT(Give me all the tools, told me all about you), so get ready to @RT(suffer, sweat, test your limits, test your obedience, test your submission).
+(Start)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_GlitterTestRounds]=[1]Then(Round 1)
+@NullResponse @If[AV_GlitterTestRounds]=[2]Then(Round 2)
+@NullResponse @If[AV_GlitterTestRounds]=[3]Then(Round 3)
+@NullResponse @If[AV_GlitterTestRounds]=[4]Then(Round 4)
+@NullResponse @If[AV_GlitterTestRounds]=[5]Then(Round 5)
+@NullResponse @If[AV_GlitterTestRounds]=[6]Then(Round 6)
+@NullResponse @If[AV_GlitterTestRounds]=[7]Then(Round 7)
+@NullResponse @If[AV_GlitterTestRounds]=[8]Then(Final)
+(Round 1)
+@NullResponse @Goto(Edge, EdgeHold, EdgeRND, Overdrive, BiteMe)
+(Round 2)
+@NullResponse @Goto(SpankAss, Positions, CBT, Pins)
+(Round 3)
+@NullResponse @Goto(Edge, EdgeHold, EdgeRND, Overdrive, BiteMe)
+(Round 4)
+@NotFlag(av_GlitterPin) @NullResponse @Goto(SpankAss, Positions, CBT, Pins)
+@Flag(av_GlitterPin) @NullResponse @Goto(SpankAss, Positions, CBT)
+(Round 5)
+@NullResponse @Goto(Edge, EdgeHold, EdgeRND, Overdrive, BiteMe)
+(Round 6)
+@NotFlag(av_GlitterPin) @NullResponse @Goto(SpankAss, Positions, CBT, Pins)
+@Flag(av_GlitterPin) @NullResponse @Goto(SpankAss, Positions, CBT)
+(Round 7)
+@NullResponse @Goto(Edge, EdgeHold, EdgeRND, Overdrive, BiteMe)
+(Edge)
+Let's @RT(see, test, watch) how you can @RT(take, handle, endure, bear) @RT(a few, some) edges.
+#Edge @EdgeNoHold @MultipleEdges( #Random(4, 7), 12, 100)
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(EdgeHold)
+Let's @RT(see, test, watch) how you can @RT(take, handle, endure, bear, hold) @RT(a few, some) edges.
+#Edge @EdgeHold @MultipleEdges( #Random(3, 5), 12, 100)
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(EdgeRND)
+Let's @RT(see, test, watch) how you can @RT(take, handle, endure, bear) @RT(a few, some) edges.
+#Edge @Edge @MultipleEdges( #Random(4, 6), 12, 100)
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(Overdrive)
+@RT(You gonna do a couple of overdrives. Don't miss a beat, An overdrive will push you right on your place, This overdrive should get you right back into action, Show me how you can #Take an overdrive). @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 30))
+#StopStroking @Wait( #Random(20, 25))
+@RT(can you #Take, Maybe, How about) @RT(One more, another one)? @Chance50(Just1OD)
+@RT(You gonna do a couple of overdrives. Don't miss a beat, An overdrive will push you right on your place, This overdrive should get you right back into action, Show me how you can #Take an overdrive). @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 30))
+#Stop @Wait( #Random(20, 25))
+(Just1OD)
+@RT(I don't think you can #Take another, I think you would blow with another one, I think you need to calm down)
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(BiteMe)
+@NullResponse @CallReturn(Custom\AV_Scripts\BiteMe.txt)
+@NullResponse 
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(SpankAss)
+@Flag(av_GlitterPin) You can remove all clothespins  @DeleteFlag(av_GlitterPin) @Wait(15)
+Stand up @Wait(10)
+Bend over, @RT(let us see, time to spank) this #Ass of yours
+Get ready with the spoon or ruler @Wait(10)
+@RT(Hit, spank) your @RT(ass cheek, ass, right cheek, left cheek) @PlayAudio[tease\spank\*.mp3]  @Wait(13)
+@Flag(av_fetish_pain) @RT(Hit, spank) your @RT(ass cheek, ass, right cheek, left cheek) @PlayAudio[tease\spank\*.mp3]  @Wait(13)
+@RT(Hit, spank) your @RT(ass cheek, ass, right cheek, left cheek) @PlayAudio[tease\spank\*.mp3]  @Wait(13)
+@Flag(av_fetish_pain) @RT(Hit, spank) your @RT(ass cheek, ass, right cheek, left cheek) @PlayAudio[tease\spank\*.mp3]  @Wait(13)
+#SitDown
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(CBT)
+@Flag(av_GlitterPin) You can remove all clothespins  @DeleteFlag(av_GlitterPin) @Wait(15)
+Time for @RT(a litthe of,some) @RT(pain, ballbusting, CBT)
+@NullResponse @CBT
+@Flag(av_fetish_pain) @CBTBalls
+@Flag(av_fetish_pain) @CBT
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(Positions)
+@Flag(av_GlitterPin) You can remove all clothespins  @DeleteFlag(av_GlitterPin) @Wait(15)
+@RT(Rest, Break) time...
+But wait in this position @ShowImage[av_imagens\positions\all\*.jpg] @Wait(10)
+Stay @RT(like that, there) untill @RT(I play, you hear) a bell...
+@Wait( #Random(25, 35))
+#SitDown @PlayAudio[tease\GNMSounds\Bell.mp3] 
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(Pins)
+@RT(Rest, Break) time...
+But I want you to put #Random(2, 5) clothespins on your #Balls @RT(and 2 on your nipples, #EmoteLaugh)
+I @RT(hope, think) it's @RT(hurting, bitting you, very uncomfortable) @TempFlag(av_GlitterPin) @Wait( #Random(25, 35))
+@NullResponse @ChangeVar[AV_GlitterTestRounds]=[AV_GlitterTestRounds]+[1]
+@NullResponse @Goto(Start)
+(Final)
+#ThatsEnough
+@RT(I will give you back to your #Owner, I will call #DomName back, I am done with you....for now) @AddDomme
+@NullResponse @RemoveContact1
+@NullResponse @RemoveContact2 
+@NullResponse @RemoveContact3 
+@RT(I am proud of you, I appreciate your willingness to accept my guidance and strength, It gives me great happiness knowing that you did that)
+@End 

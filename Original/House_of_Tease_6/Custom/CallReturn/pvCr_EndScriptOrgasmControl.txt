@@ -1,0 +1,329 @@
+@NullResponse @CheckFlag(pvOCGame)
+@NullResponse @CheckFlag(pvOCRollDice)
+@SystemMessage *ERROR* denial script is being reset, please wait...
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_LDundo.txt)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_OrgasmControlReset.txt) 
+@End
+---------------------------
+--- ORGASM CONTROL GAME ---
+---------------------------
+(pvOCGame)
+@NullResponse @CheckFlag(pvOCGameActive,OCG currently active)
+So, time to decide for how long you'll stay denied, #PetName #Grin @SetFlag(pvOCGameActive)
+I'm going to pick a random number between 3 and 15...
+And you're going to guess what it is
+If you guess the right number or higher, than that's the number of days you get
+If you guess too low, I add 1 too the original number and you get to guess again tomorrow
+Oh right, I forgot to mention last time: you have to guess every day
+If you skip day, I'll just add 1 to the total again #Smile
+Okay here we go, let me pick a number...
+@NullResponse @SetVar[pvOCGnumber]=[#Random(3,15)]
+Your turn... choose wisely, #PetName
+(try again)
+Give me a number between 3 and 15... @InputVar[pvOCGguess]
+[3] Alright then... @Goto(number)
+[4] Alright then... @Goto(number)
+[5] Alright then... @Goto(number)
+[6] Alright then... @Goto(number)
+[7] Alright then... @Goto(number)
+[8] Alright then... @Goto(number)
+[9] Alright then... @Goto(number)
+[10] Alright then... @Goto(number)
+[11] Alright then... @Goto(number)
+[12] Alright then... @Goto(number)
+[13] Alright then... @Goto(number)
+[14] Alright then... @Goto(number)
+[15] Alright then... @Goto(number)
+@AcceptAnswer Seriously, #PetName
+Let me ask you again *rolls eyes* @Goto(try again)
+(number)
+@NullResponse @ChangeVar[pvOCGresult]=[pvOCGnumber]-[pvOCGguess]
+@NullResponse @If[pvOCGresult]<=[0]Then(denial result)
+@NullResponse @If[pvOCGresult]>[0]Then(no result)
+Something went wrong, let's try again...
+But make sure to only type a number, #SubName @Goto(try again)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(no result)
+Sorry, you're going to have to try again tomorrow #Smile @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(OCG currently active)
+@NullResponse @CheckFlag(pvOCGdecided)
+We still don't know how long you'll be denied for, so... @CheckFlag(pvOCGsecondguess)
+@NullResponse @CheckFlag(pvOCGthirdguess)
+@NullResponse @CheckFlag(pvOCGfourthguess)
+@NullResponse @CheckFlag(pvOCGfifthguess)
+Time for you to take another guess... 
+@NullResponse @SetVar[pvDateDiffOCG]=[#DateDifference(pvLastSession,hours)]
+@NullResponse @If[pvDateDiffOCG]>[36]Then(Skipped a day)
+@NullResponse @Goto(try again2)
+(Skipped a day)
+But you were supposed to take a guess every day, #Name @If[pvDateDiffOCG]>[48]Then(Skipped more than a day)
+So for skipping one, I'm going add one to the total @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+I think you know what that means, #PetName @Goto(try again3)
+(try again2)
+Give me a number between 4 and 16... @InputVar[pvOCGguess]
+[4] Alright then... @Goto(number2)
+[5] Alright then... @Goto(number2)
+[6] Alright then... @Goto(number2)
+[7] Alright then... @Goto(number2)
+[8] Alright then... @Goto(number2)
+[9] Alright then... @Goto(number2)
+[10] Alright then... @Goto(number2)
+[11] Alright then... @Goto(number2)
+[12] Alright then... @Goto(number2)
+[13] Alright then... @Goto(number2)
+[14] Alright then... @Goto(number2)
+[15] Alright then... @Goto(number2)
+[16] Alright then... @Goto(number2)
+@AcceptAnswer Seriously, #PetName
+Let me ask you again *rolls eyes* @Goto(try again2)
+(number2)
+@NullResponse @ChangeVar[pvOCGresult]=[pvOCGnumber]-[pvOCGguess]
+@NullResponse @If[pvOCGresult]<=[0]Then(denial result)
+@NullResponse @If[pvOCGresult]>[0]Then(no result2)
+Something went wrong, let's try again...
+But make sure to only type a number, #SubName @Goto(try again2)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(no result2)
+But that does mean you'll have to try again tomorrow @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+@NullResponse @SetFlag(pvOCGsecondguess)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(pvOCGsecondguess)
+Time for you to take another guess...
+@NullResponse @SetVar[pvDateDiffOCG]=[#DateDifference(pvLastSession,hours)]
+@NullResponse @If[pvDateDiffOCG]>[36]Then(Skipped a day3)
+@NullResponse @Goto(try again3)
+(Skipped a day3)
+But you were supposed to take a guess every day, #Name @If[pvDateDiffOCG]>[48]Then(Skipped more than a day)
+So for skipping one, I'm going add one to the total @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+I think you know what that means, #PetName @Goto(try again4)
+(try again3)
+Give me a number between 5 and 17... @InputVar[pvOCGguess]
+[5] Alright then... @Goto(number3)
+[6] Alright then... @Goto(number3)
+[7] Alright then... @Goto(number3)
+[8] Alright then... @Goto(number3)
+[9] Alright then... @Goto(number3)
+[10] Alright then... @Goto(number3)
+[11] Alright then... @Goto(number3)
+[12] Alright then... @Goto(number3)
+[13] Alright then... @Goto(number3)
+[14] Alright then... @Goto(number3)
+[15] Alright then... @Goto(number3)
+[16] Alright then... @Goto(number3)
+[17] Alright then... @Goto(number3)
+@AcceptAnswer Seriously, #PetName
+Let me ask you again *rolls eyes* @Goto(try again3)
+(number3)
+@NullResponse @ChangeVar[pvOCGresult]=[pvOCGnumber]-[pvOCGguess]
+@NullResponse @If[pvOCGresult]<=[0]Then(denial result)
+@NullResponse @If[pvOCGresult]>[0]Then(no result3)
+Something went wrong, let's try again...
+But make sure to only type a number, #SubName @Goto(try again3)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(no result3)
+I guess you're keeping us both in suspense a little longer @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+@NullResponse @DeleteFlag(pvOCGsecondguess) @SetFlag(pvOCGthirdguess)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(pvOCGthirdguess)
+Time for you to take another guess...
+@NullResponse @SetVar[pvDateDiffOCG]=[#DateDifference(pvLastSession,hours)]
+@NullResponse @If[pvDateDiffOCG]>[36]Then(Skipped a day4)
+@NullResponse @Goto(try again4)
+(Skipped a day4)
+But you were supposed to take a guess every day, #Name @If[pvDateDiffOCG]>[48]Then(Skipped more than a day)
+So for skipping one, I'm going add one to the total @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+I think you know what that means, #PetName @Goto(try again5)
+(try again4)
+Give me a number between 6 and 18... @InputVar[pvOCGguess]
+[6] Alright then... @Goto(number4)
+[7] Alright then... @Goto(number4)
+[8] Alright then... @Goto(number4)
+[9] Alright then... @Goto(number4)
+[10] Alright then... @Goto(number4)
+[11] Alright then... @Goto(number4)
+[12] Alright then... @Goto(number4)
+[13] Alright then... @Goto(number4)
+[14] Alright then... @Goto(number4)
+[15] Alright then... @Goto(number4)
+[16] Alright then... @Goto(number4)
+[17] Alright then... @Goto(number4)
+[18] Alright then... @Goto(number4)
+@AcceptAnswer Seriously, #PetName
+Let me ask you again *rolls eyes* @Goto(try again4)
+(number4)
+@NullResponse @ChangeVar[pvOCGresult]=[pvOCGnumber]-[pvOCGguess]
+@NullResponse @If[pvOCGresult]<=[0]Then(denial result)
+@NullResponse @If[pvOCGresult]>[0]Then(no result4)
+Something went wrong, let's try again...
+But make sure to only type a number, #SubName @Goto(try again4)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(no result4)
+No luck again... this is starting to add up, #PetName @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+@NullResponse @DeleteFlag(pvOCGthirdguess) @SetFlag(pvOCGfourthguess)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(pvOCGfourthguess)
+Time for you to take another guess...
+@NullResponse @SetVar[pvDateDiffOCG]=[#DateDifference(pvLastSession,hours)]
+@NullResponse @If[pvDateDiffOCG]>[36]Then(Skipped a day5)
+@NullResponse @Goto(try again5)
+(Skipped a day5)
+But you were supposed to take a guess every day, #Name @If[pvDateDiffOCG]>[48]Then(Skipped more than a day)
+So for skipping one, I'm going add one to the total @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+I think you know what that means, #PetName @Goto(pvOCGfifthguess)
+(try again5)
+Give me a number between 7 and 19... @InputVar[pvOCGguess]
+[7] Alright then... @Goto(number5)
+[8] Alright then... @Goto(number5)
+[9] Alright then... @Goto(number5)
+[10] Alright then... @Goto(number5)
+[11] Alright then... @Goto(number5)
+[12] Alright then... @Goto(number5)
+[13] Alright then... @Goto(number5)
+[14] Alright then... @Goto(number5)
+[15] Alright then... @Goto(number5)
+[16] Alright then... @Goto(number5)
+[17] Alright then... @Goto(number5)
+[18] Alright then... @Goto(number5)
+[19] Alright then... @Goto(number5)
+@AcceptAnswer Seriously, #PetName
+Let me ask you again *rolls eyes* @Goto(try again5)
+(number5)
+@NullResponse @ChangeVar[pvOCGresult]=[pvOCGnumber]-[pvOCGguess]
+@NullResponse @If[pvOCGresult]<=[0]Then(denial result)
+@NullResponse @If[pvOCGresult]>[0]Then(no result5)
+Something went wrong, let's try again...
+But make sure to only type a number, #SubName @Goto(try again5)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(no result5)
+Sorry, you're going to have to try again tomorrow #Smile @ChangeVar[pvOCGnumber]=[pvOCGnumber]+[1]
+@NullResponse @DeleteFlag(pvOCGfourthguess) @SetFlag(pvOCGfifthguess)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(pvOCGfifthguess)
+Actually, #SubName...
+I thought we would have settled on a number by now...
+So, I'm going to go ahead and make a decision here
+(decide after skipped)
+Right now the number is @ShowVar[pvOCGnumber]
+So... that's the number of days you'll be denied, starting today @CallReturn(Custom/CallReturn/pvCr_OCGsetdenial.txt)
+I'm sure you'll do fine, #SubName
+After all, I'll be here to guide you through it
+And all the while make your #Cock ache and leak, of course #Grin
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(denial result)
+Okay then @ShowVar[pvOCGguess] days of denial it is! @CallReturn(Custom/CallReturn/pvCr_OCGsetdenial.txt)
+I'm sure you'll do fine, #SubName
+After all, I'll be here to guide you through it
+And all the while make your #Cock ache and leak, of course #Grin
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(Skipped more than a day)
+In fact, you skipped more than a day... #EmoteSad @MoodWorst
+In other words, you fucking ruined my game, #PetName @CallReturn(Custom/CallReturn/pvCr_Punishment.txt)
+There's no point in continuing the game anymore @Goto(decide after skipped)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(pvOCGdecided)
+@NullResponse @SetVar[pvDateDiffOCG]=[#DateDifference(pvOCGstartdenial,hours)]
+@NullResponse @If[pvDateDiffOCG]>[pvOCGhoursdenial]Then(end this game)
+@NullResponse
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(end this game)
+@NullResponse @CheckFlag(pvOCGending)
+@NullResponse @SetFlag(pvOCGending)
+Your self-imposed sentence is almost over, #PetName
+Tomorrow you'll get to cum #EmoteHappy
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(pvOCGending)
+This is not only the end of the session, #PetName
+It's also the end of your orgasm drought of @ShowVar[pvOCGnumber] days
+You must be so thrilled to finally get to spurt that hot load
+I know I've been teasing you pretty bad in the past few days #Grin
+It's also a little bit sad, don't you think?
+Anyway, let's get to it...
+#Edge @Edge(Hold,Orgasm)
+[came] Mmm good boy
+@AcceptAnswer Mmm good boy
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_OrgasmControlReset.txt) 
+@NullResponse @SetVar[pthevOrgasmLast]=[1]
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED,tease end)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+---------------------------
+--- ORGASM CONTROL DICE ---
+---------------------------
+(pvOCRollDice)
+@NullResponse @CheckDate(pvOCDiceMin,enough time elapsed)
+@NullResponse
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(enough time elapsed)
+@NullResponse @CheckDate(pvOCDiceMax,too much time elapsed)
+Like I promised, you get a chance to cum today @DecideOrgasm
+(Orgasm Deny)
+But as you know, a chance is not a guarantee, #Name
+So what will it be...
+#Edge @Edge
+#LetTheEdgeFade
+I don't feel like letting you cum today @Goto(throw dice)
+(Orgasm Allow)
+But as you know, a chance is not a guarantee, #Name
+So what will it be...
+#Edge @Edge
+[came,cum,orgasm] #Smile
+[thank you,thanks] You're welcome #Name #Smile
+@AcceptAnswer #Smile
+Alright settle down now, #SubName
+@Variable[OCDiceThrows]>[3] @NullResponse @Chance50(end dice game)
+@NullResponse @Goto(throw dice)
+(Orgasm Ruin)
+But as you know, a chance is not a guarantee, #Name
+So what will it be...
+#Edge @Edge
+[ruined,done,did] Good #PetName
+@AcceptAnswer Never gets easy now, does it... #Grin
+Alright settle down now, #SubName @Goto(throw dice)
+(too much time elapsed)
+#SubName, you missed your chance to cum...
+Not that I mind, that's your problem #Laugh
+You know what happens next, I throw the dice again
+(throw dice)
+@NullResponse @ChangeVar[OCDiceThrows]=[OCDiceThrows]+[1]
+So let's see how long you'll have to wait for a chance to cum this time... @Goto(one,two,three,four,five,six)
+(one)
+It's 1...
+Okay, so I guess you'll get another chance tomorrow #Smile
+@NullResponse @SetVar[pvOCDice]=[1] @SetDate(pvOCDiceMin,12 hours) @SetDate(pvOCDiceMax,36 hours)
+@NullResponse @Goto(to ending)
+(two)
+It's a 2
+That means the day after tomorrow is the next chance you get
+@NullResponse @SetVar[pvOCDice]=[2] @SetDate(pvOCDiceMin,36 hours) @SetDate(pvOCDiceMax,60 hours)
+@NullResponse @Goto(to ending)
+(three)
+It's 3
+Two days of denial before you get a chance to cum again
+@NullResponse @SetVar[pvOCDice]=[3] @SetDate(pvOCDiceMin,60 hours) @SetDate(pvOCDiceMax,84 hours)
+@NullResponse @Goto(to ending)
+(four)
+It's 4
+That's not so bad, only 3 days to get through
+@NullResponse @SetVar[pvOCDice]=[4] @SetDate(pvOCDiceMin,84 hours) @SetDate(pvOCDiceMax,108 hours)
+@NullResponse @Goto(to ending)
+(five)
+It's 5! #Smile
+That's a minimum 4-day drought, #Name
+@NullResponse @SetVar[pvOCDice]=[5] @SetDate(pvOCDiceMin,108 hours) @SetDate(pvOCDiceMax,132 hours)
+@NullResponse @Goto(to ending)
+(six)
+It's a... 6 #EmoteHappy
+So the next 5 days I won't have to worry about making the big decision
+@NullResponse @SetVar[pvOCDice]=[2] @SetDate(pvOCDiceMin,132 hours) @SetDate(pvOCDiceMax,156 hours)
+@NullResponse @Goto(to ending)
+(to ending)
+#ThatsAllForToday @RestrictOrgasm(4 weeks)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED,tease end)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)
+(end dice game)
+I've had enough of this game, #Name @CallReturn(Custom/CallReturn/pvCr_OrgasmControlReset.txt)
+So from now on it back to normal, no more dice
+I want to get back to deciding your orgasm myself each time
+#ThatsAllForToday
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED,tease end)
+@NullResponse @Call(Stroke/End/pthev_Endscript_RESTRICTED.txt,not enough begging)

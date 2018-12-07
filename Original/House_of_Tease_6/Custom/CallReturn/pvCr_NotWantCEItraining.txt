@@ -1,0 +1,27 @@
+I want you to learn to like eating cum, #Name @ChangeVar[pvCEItraining]=[pvCEItraining]+[1]
+@NullResponse @If[pvCEItraining]=[2]Then(she wants it)
+@NullResponse @If[pvCEItraining]>[2]Then(abort training)
+But I guess you're not ready for it #EmoteSad @Goto(continue)
+(she wants it)
+You've resisted it so far and that's fine
+But I think you're not being completely honest about it
+I think you secretly fantasize about it even though you think it's gross
+What's more, I think you secretly crave the humiliation of being forced to do it
+Picture yourself on your knees before me, dribbling a load of cum on a plate
+Then licking the plate clean on my command
+You want it, don't you?
+[yes] Yeah, that's what I though #Grin
+[no] Well I must say, I'm a little bit disappointed @Goto(abort training)
+@DifferentAnswer #YesOrNo
+In time you'll learn to love it, #SubName @DeleteFlag(pthevCEI_No) @SetFlag(av_fetish_cei) @DeleteFlag(pthevCEITraining)
+And even if you won't
+Remember that you do it to make me happy #Smile
+@End
+(abort training)
+But it seems it can't convince you #EmoteSad @DeleteFlag(pthevCEITraining) @SetFlag(pthevCEI_No) @DeleteFlag(av_fetish_cei)
+So I won't bother you with it again @SetFlag(pvCEITrainingFailed)
+Although who knows, maybe you'll change your mind...
+@NullResponse @Glitter(pvCEItrainingSaidNo)
+(continue)
+@NullResponse @Interrupt(pvIn_General)
+@End

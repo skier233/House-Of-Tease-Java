@@ -1,0 +1,10 @@
+@HasChastity @NullResponse @Goto(has chastity)
+x
+x
+x
+@End
+(has chastity)
+x
+x
+x
+@End

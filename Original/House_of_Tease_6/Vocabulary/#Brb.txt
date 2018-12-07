@@ -1,0 +1,13 @@
+brb
+Don't move
+I will be right back
+I will be back soon
+Just a second
+I'll be right back
+I'll be back soon
+Don't move, @RT(#PetName, #SubName)
+I will be right back, @RT(#PetName, #SubName)
+I will be back soon, @RT(#PetName, #SubName)
+Just a second, @RT(#PetName, #SubName)
+I'll be right back, @RT(#PetName, #SubName)
+I'll be back soon, @RT(#PetName, #SubName)

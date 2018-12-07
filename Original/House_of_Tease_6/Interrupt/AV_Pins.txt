@@ -1,0 +1,37 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+@Flag(AV_DommeMistress) @NullResponse @Chance30(Repeat)
+@NullResponse @CheckFlag(AV_Pins)
+Now I want to play with your niples a bit while looking at those #Sexy #Boobs @ShowBoobsImage
+So #Sexy @ShowBoobsImage 
+Now that they are hard and ready...  
+Put the clamps on them #PetName ! #Grin  
+I hope they don't hurt that much... @RapidCodeOn
+@BadMood(hurts)
+@NullResponse @Goto(skip1)
+(hurts)
+Oh who am I kidding...
+I hope they hurt like HELL!!! #lol
+(skip1)
+@NullResponse @CheckFlag(AV_TaskON)
+@NullResponse @Goto(Modulo2)
+(AV_TaskON)
+@NullResponse @CallReturn(Interrupt\AV_Tasks.txt)
+(Modulo2)
+Put 1 clothespin on your balls just for fun  
+@NullResponse @Wait(10) 
+I hope you are feeling very uncomfortable #Slave
+Put 1 clothes pins on your #Balls  @TempFlag(AV_Pins)
+Keep there, till I say to remove
+@End
+(AV_Pins)
+Why do you have so much of those on your body #SubName #Lol
+You can remove all clothespins @DeleteFlag(AV_Pins)
+@End
+(Repeat)
+@NullResponse @CustomTask(AV_TaskPins)
+@NullResponse @TempFlag(AV_Pins)
+@End

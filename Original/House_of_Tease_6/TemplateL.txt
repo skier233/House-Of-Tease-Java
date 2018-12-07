@@ -1,0 +1,86 @@
+#AV_ChangeClothes
+@NullResponse @RapidCodeOn
+@NullResponse @NewDommeSlideshow
+@NullResponse @ChangeVar[AV_QteModulos]=[AV_QteModulos]+[1]
+@NullResponse @CheckFlag(AV_LinkNAME_NotFirstTime)
+@NullResponse @SetVar[AV_LinkNAME]=[0] 
+@NullResponse @SetFlag(AV_LinkNAME_NotFirstTime)
+(AV_LinkNAME_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_LinkNAME]=[0]Then(Part1_1)
+@NullResponse @If[AV_LinkNAME]=[1]Then(Part1_2)
+@NullResponse @If[AV_LinkNAME]=[10]Then(Part1_3)
+@NullResponse @If[AV_LinkNAME]=[100]Then(Part1_4)
+@NullResponse @If[AV_LinkNAME]=[1000]Then(Part1_5)
+@NullResponse @If[AV_LinkNAME]=[11]Then(Part1_6)
+@NullResponse @If[AV_LinkNAME]=[101]Then(Part1_7)
+@NullResponse @If[AV_LinkNAME]=[111]Then(Part1_8)
+@NullResponse @If[AV_LinkNAME]=[110]Then(Part1_9)
+@NullResponse @If[AV_LinkNAME]=[1001]Then(Part1_10)
+@NullResponse @If[AV_LinkNAME]=[1011]Then(Part1_11)
+@NullResponse @If[AV_LinkNAME]=[1111]Then(Part1_12)
+@NullResponse @If[AV_LinkNAME]=[1010]Then(Part1_13)
+@NullResponse @If[AV_LinkNAME]=[1110]Then(Part1_14)
+@NullResponse @If[AV_LinkNAME]=[1100]Then(Part1_15)
+@NullResponse @If[AV_LinkNAME]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_LinkNAME]=[AV_LinkNAME]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_LinkNAME]=[AV_LinkNAME]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_LinkNAME]=[AV_LinkNAME]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_LinkNAME]=[AV_LinkNAME]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_LinkNAME]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+#StartStroking @StartStroking
+@End
+(Link2)
+#StartStroking @StartStroking
+@End
+(Link3)
+#StartStroking @StartStroking
+@End
+(Link4)
+#StartStroking @StartStroking
+@End

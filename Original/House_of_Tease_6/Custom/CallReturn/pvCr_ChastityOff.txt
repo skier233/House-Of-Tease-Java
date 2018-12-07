@@ -1,0 +1,8 @@
+@RT(Take off the cage,Take your chastity device off,Remove the chastity cage), #Name @ChastityOff
+Let me know when you're ready to continue
+[ready,done,finished] Good
+[yes,okay] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Let me know when you're ready
+You @RT(are probably,must be) @RT(very happy,glad,relieved) to @RT(be free,have that thing out,be unrestricted) @RT(once more,again) #Smile
+@End

@@ -1,0 +1,67 @@
+What!?
+Just now or earlier?
+[now] Dammit, #Name
+[earlier,before,between,yesterday] I'm disappointed in you, #Name @Goto(orgasm earlier)
+@DifferentAnswer Just now or before our session, #Name?
+Did you at least ruin it?
+[yes] That's something I guess @UpdateRuined @Goto(ruined it)
+[no] You should <i>always</i> ruin it when you cum without permission @UpdateOrgasm
+@DifferentAnswer #YesOrNo
+Since you didn't, I really don't see the point in continuing this session
+Maybe next time you'll have more self control
+I hope you at least enjoyed your orgasm
+Bye
+@EndTease
+@End
+(ruined it)
+@Flag(av_fetish_cei) Lick it up, #Name
+@Flag(av_fetish_cei) Swallow every drop of your ruined orgasm @Wait(10)
+Do you want to continue?
+[yes] Alright @Goto(ruined continue)
+[no] Alright then
+@DifferentAnswer #YesOrNo
+Maybe next time you'll have more self control
+Bye, #PetName
+@EndTease
+@End
+(ruined continue)
+@NullResponse @InterruptsOn
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+---
+(orgasm earlier)
+@NullResponse @CheckFlag(pthevCompleteControlYES,control yes)
+@NullResponse @CheckFlag(pthevCompleteControlNO,control no)
+But I'm glad you told me
+It shows that you know you made a mistake
+Unfortunately, I can't watch you every minute of the day
+So this kind of thing is bound to happen
+Given the kind of chronic masturbator that you are
+Unless...
+You promise me it won't happen again
+In which case I'll hold you to it, #SubName
+So, will you give me control over when you masturbate?
+[yes] Good! @SetFlag(pthevCompleteControlYES)
+[no] #EmoteSad @SetFlag(pthevCompleteControlNO) @Goto(moving on no control)
+@DifferentAnswer #YesOrNo
+Let's move on now, #Name
+But remember, next time you cum without permission...
+I won't be so forgiving
+@End
+(moving on no control)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+You better still be stroking, #PetName
+@End
+(Sub Not Stroking)
+Okay, #Name
+@End
+(control yes)
+You promised not to touch yourself without my permission @MoodDown
+And you broke that promise @MoodDown @InterruptsOn
+@NullResponse @TempFlag(pvPunishmentEndTease) @Interrupt(pvInt_Punishment)
+@NullResponse
+(control no)
+But since I can't watch you every minute of the day
+I guess this was bound to happen #EmoteSad
+@End

@@ -1,0 +1,101 @@
+@NullResponse @CheckFlag(pvMod42A)
+Ultimately, all that #JerkingOff can only lead to one thing... @SetFlag(pvMod42A) @Chance50(lead to stopping)
+#Edge @Edge
+#LetTheEdgeFade
+I do hope you didn't think that one thing was an orgasm #EmoteWink
+Although that <i>is</i> where all this is leading eventually
+As much power as I have over you...
+Denying you for all eternity is probably too much to ask #Lol
+I could tell you "you will never cum again"
+@HasChastity Lock up that #Cock and throw away the key
+But we both know that somehow, somewhere
+You will find a way to #JerkOff and cum
+You'll probably just crawl away into a corner of the room
+And start #JerkingOff like there's no tomorrow
+@HasChastity Eventually you'll just break the lock to get to your precious dick
+There's just no stopping you and we both know it
+But I can delay
+I can procrastinate
+I can take you to your breaking point
+Right to the point where you can't take it anymore
+When all you are is a horny, frustrated mess
+And then I will watch you fall apart #Grin
+@End
+(lead to stopping)
+#StopStroking @StopStroking
+Be realistic, #Name
+Whenever you're #JerkingOff
+At some point you're going to have to stop again
+That's just the way of the world
+The world must be a pretty frustrating place 
+For a masturbation @RT(fiend,junkie,addict) like you #Lol
+@End
+(pvMod42A)
+#StopStroking @StopStroking
+Stand up, #Name @DeleteFlag(pvMod42A)
+Don't @RT(think,hesitate), just stand up straight #Smile @DeleteFlag(pvKneeling)
+@RT(Usually,Most of the time) I have you sitting down or kneeling while you #JerkOff
+But @RT(for some reason,somehow) I @RT(feel like,imagine) standing might be the most @RT(uncomfortable,awkward) position
+#StartStroking @EdgeMode(Goto,edge standing)
+It's such an unnatural position to be doing this, isn't it?
+I think it's the most humiliating position, too
+So exposed, with your arm at such a weird angle...
+It would be so much easier to be sitting or lying down
+Even kneeling would be preferable
+#StrokeFaster @CheckFlag(pvMod42B)
+Personally, I tend to masturbate while lying comfortably in bed or on the couch #Smile
+I don't think I ever let you lie down to #JerkOff do I...? 
+Tell me, do you ever #JerkOff lying down?
+[yes] You shouldn't, so let's make it a rule
+[no] Good, let's make it a rule then
+@DifferentAnswer #YesOrNo
+From now on, you are not allowed to ever lie down while #JerkingOff @SetFlag(pvMod42B)
+Unless, of course, I give you clear permission to do so
+Stroke as fast as you can, but no edging
+Imagine having to do this in from of a group of hot girls...
+Laughing and giggling and pointing as your face turns red #Grin
+I bet you look pretty ridiculous right now, #PetName
+#StopStroking
+You can sit down again @EdgeMode(Normal)
+@End
+(edge standing)
+#LetTheEdgeFade
+So even standing up you can edge without permission #Laugh
+Or maybe the position somehow makes it harder to stay away from the edge?
+[yes] Really? I wouldn't have thought...
+[no] You're just a quivering mess pretty much all the time, aren't you? #Laugh
+@DifferentAnswer Does it, yes or no?
+You can sit down now, #Name
+@End
+(pvMod42B)
+Stop, hands off @EdgeMode(Normal)
+@CockTorture Slap you #Cock for me, #Name
+@NullResponse
+Stroke... #Smile @Wait(#Random(10,20))
+#StrokeFaster @Wait(#Random(10,20))
+#Edge @Edge
+#LetTheEdgeFade
+Maybe I'll just let you stand like this for a while...
+Put your hands behind your back @Wait(#Random(5,15))
+@Flag(pvWillNotKneel) Sit down @Goto(up again)
+Get down on your knees, #Name
+(up again)
+@NullResponse @Wait(#Random(10,20))
+Now stand up again...
+Oh this is fun #Laugh
+#StartStroking
+#StrokeSlowest
+You should be stroking so slow that you won't edge in a thousand years
+Stroking for a thousand years without edging or cumming...
+That sounds like a special torment in hell for a special kind of pervert
+If I believed in that stuff I'd say you were that kind of pervert, #SubName
+@Flag(pvWillNotKneel) Sit down @Goto(and up again)
+Get down on your knees again, but keep stroking #Smile @TempFlag(pvKneeling)
+(and up again)
+This is almost like exercise at the gym... keeping you in shape
+Of course, you already knew masturbation is good for you, right? #Giggles 
+#StrokeFaster @Wait(#Random(10,20))
+#StrokeFastest
+@Flag(pvKneeling) You can sit down again now, #Name @DeleteFlag(pvKneeling)
+#StopStroking
+@End

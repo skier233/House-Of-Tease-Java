@@ -1,0 +1,24 @@
+@Stroking Stop stroking, #Name @StopStroking
+Just so we're clear on this, do you want to talk about your relationship status?
+[yes] Okay @Goto(talk about it)
+[no] Oh, I guess I misunderstood then, sorry #Smile
+@DifferentAnswer #YesOrNo
+If you ever want to talk about your relationship status, just say so
+@End
+(talk about it)
+@NullResponse @AFKOn @RapidCodeOn
+@NullResponse @DeleteFlag(pthevModRelaDone)
+@NullResponse @DeleteFlag(pthevModRelaSingleDone)
+@NullResponse @DeleteFlag(pthevMarried)
+@NullResponse @DeleteFlag(pthevGirlfriend)
+@NullResponse @DeleteFlag(pvHasPartner)
+@NullResponse @DeleteFlag(pthevPartnerCanJoin)
+@NullResponse @DeleteFlag(pthevSingle)
+@NullResponse @DeleteFlag(pthevSubInLove)
+@NullResponse @DeleteFlag(pthevExGF)
+@NullResponse @DeleteFlag(pthevVirgin)
+@NullResponse @DeleteFlag(pthevVirginEmbarrassed)
+@NullResponse @DeleteVar[pthevNamePartner]
+@NullResponse @AFKOff @RapidCodeOff
+Let's talk about this for a second, #SubName @Call(Custom/MIssBlue/pthev_Mod16RelaStat.txt,status reset)
+@End

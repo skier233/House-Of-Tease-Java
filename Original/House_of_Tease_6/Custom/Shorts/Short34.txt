@@ -1,0 +1,3 @@
+Maybe it's best you don't @TempFlag(AV_Short34)
+after all, a slave could drive himself insane thinking about things like that, couldn't he? @ResponseYes(AV_desperate)
+@End

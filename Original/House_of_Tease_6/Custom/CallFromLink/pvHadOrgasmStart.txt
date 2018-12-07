@@ -1,0 +1,56 @@
+So... you had an orgasm without my permission?
+[yes]  @RT(Hmm,Tsk tsk,Ooohh,Well,My my)
+[no] Oh, I... must have misunderstood then @Goto(must have misunderstood)
+@DifferentAnswer #YesOrNo
+(had an orgasm)
+@Flag(pvOrgasmControl) @NullResponse @CallReturn(Custom/CallReturn/pvCr_OrgasmControlReset.txt)
+I don't like it when you cum without my permission, #SubName @CheckFlag(pthevCompleteControlYES)
+At least decided to do the right thing and told me
+So obviously you understand you've made a mistake
+And I must say, that makes me very happy #Smile @MoodUp
+It shows me that you are willing to be a better sub for me
+So #SubName...
+What if from now on, you give me control over all your masturbation habits
+Not just when you come to me for a session
+I want to know that you #JerkOff <i>only</i> when I say you can
+Are you willing to do that?
+[yes] Hmm... that's a good #PetName @DeleteFlag(pthevCompleteControlNO) @SetFlag(pthevCompleteControlYES)
+[no] Okay... but then there's also no point in telling me you've been #JerkingOff #SubName @Goto(must have misunderstood)
+@DifferentAnswer #YesOrNo
+That's how deep you've fallen into my control #Smile
+From now on, your #Cock fully and truly belongs to me
+You are not allowed to touch it unless you have my permission
+It may be difficult sometimes, but #SubName...
+It's worth it #Smile
+Because more and more you are becoming what you truly are
+A submissive who will do anything that I ask
+(must have misunderstood)
+#StartStroking @StartStroking
+@End
+(pthevCompleteControlYES)
+@NullResponse @CheckFlag(pthevLongDenialActive)
+You're a bad #PetName
+And you know what happens when you are bad, don't you?
+You get punished... @Interrupt(pvInt_Punishment)
+@End
+(pthevLongDenialActive)
+@NullResponse @DeleteFlag(pthevLongDenialActive) @SetFlag(pthevLongDenialEnded) @RestrictOrgasm(1 second) @SetDate(pvRenewLDA,1 month)
+@NullResponse @CheckFlag(pvLDASecondWeek)
+Especially since you were not supposed to cum at all this week
+Apparently you were not ready for it
+I should have known... #EmoteSad
+Maybe we should try that again some other day
+When you've learned what it means to <i>truly</i> submit
+For now, a punishment will have to do @Interrupt(pvInt_Punishment)
+@End
+(pvLDASecondWeek)
+I guess two weeks of denial was just too much to ask
+I should have known, really
+So some the blame is on me, I guess
+<i>I</i> am the one who owns <i>you</i> after all
+And you can't deny a masturbation junkie the one thing he loves
+I should have known that
+So I'm not mad, #SubName
+Disappointed, yes, but not angry
+I'm not even going to punish you @Interrupt(pvIn_General)
+@End

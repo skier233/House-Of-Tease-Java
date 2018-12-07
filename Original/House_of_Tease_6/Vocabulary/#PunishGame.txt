@@ -1,0 +1,6 @@
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\spank\*.mp3] @Wait(15)
+@RT(Spank, Hit) your #Cock @PlayAudio[tease\spank\*.mp3] @Wait(15)
+@RT(Put, Place) a clothespin on your #Balls @Wait(15)
+@CBTBalls
+@CBTCock
+@RT(Put, Place) a clothespin on your nipple @Wait(15)

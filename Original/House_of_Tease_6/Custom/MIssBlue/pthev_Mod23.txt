@@ -1,0 +1,89 @@
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pvMod23A)
+@NullResponse @CheckFlag(pvMod23B)
+@NullResponse @CheckFlag(pvMod23C)
+@RT(I want to try to,I love trying to,I will keep trying) get you to @RT(a place,the point) where you @RT(will hate yourself for wanting,don't even want) to #JerkOff
+That's what I'm aiming for, anyway @SetFlag(pvMod23A)
+@RT(Even if,I know) I'm not going to @RT(succeed,get there,be successful) @RT(all the,every single) time
+Stroke for me, #Name
+I know you love #JerkingOff #Name
+And it's @RT(pretty difficult,not easy,quite hard) to give @RT(a person,someone) too much of @RT(a thing,something) they @RT(crave,love,want so badly)
+Though @RT(obviously you can have,you can definitely have,there is of course such a thing as) too much of a good thing
+@RT(Good thing then that,Luckily) there's @RT(this thing,something) I can do that's @RT(nearly,almost) as @RT(enjoyable,much fun)
+And that's to take the thing you love so much away from you 
+I always do that eventually...
+You know I'm going to make you stop at some point
+So better enjoy those strokes now, #PetName
+Because that moment...
+Is... @Chance50(soon but not yet)
+Now. Stop stroking #Smile
+Don´t worry, you know these @RT(breaks,intermissions) never last that long
+@HasChastity Unless I let you take out that chastity device, of course...
+@DoesNotHaveChastity Until they do, of course...
+It's too much fun to have you #JerkOff though
+I imagine you sitting there, going at it like a madman #Lol
+Come to think of it, I don't know if that's something I want to see #EmoteRandom
+@End
+(soon but not yet)
+@RT(Soon,Any second now,Just around the corner,Coming closer now)
+But not yet...
+#StrokeFaster
+#EmoteMoan
+#StrokeFastest @Chance50(to the edge)
+#StopStroking @StopStroking
+...And there is that dreaded moment #Smile
+Just let that #Cock sit idly in your lap
+@End
+(to the edge)
+#Edge @EdgeHold
+...And there is that dreaded moment #Smile
+Would you have liked to continue stroking?
+[yes] Well...
+[no] I thought so #Laugh @Goto(that was quite enough)
+@DifferentAnswer #YesOrNo 
+That can be arranged of course
+Get to the edge again, #Name @EdgeHold
+#LetTheEdgeFade
+(that was quite enough)
+That's enough for now, #Name
+@End
+(pvMod23A)
+You're so lucky to have even found me, #Name @DeleteFlag(pvMod23A)
+Think about it, without me you'd probably still be #JerkingOff to boring old regular porn @SetFlag(pvMod23B)
+But since you've got me to tell you what to do...
+#JerkingOff has just become so much more interesting and rewarding, hasn't it?
+Now that you have me to worship with your strokes and edges
+@BallTorture Now that you have me to bust your #Balls
+Masturbation has a purpose now
+It's not just randomly cumming to internet porn
+You're whole life now revolves around worshipping me
+Sometimes I think you could be a little more grateful, #PetName
+It's nice to hear a "thank you #DomHonorific" now and again
+@End
+(pvMod23B)
+It's easy, isn't it? @DeleteFlag(pvMod23B)
+It's easy to follow my instructions because you're addicted  @SetFlag(pvMod23C)
+I know you want more, #PetName
+You hate it when I tell you to stop stroking, you want to keep going
+Except maybe when the ache gets too much and your #Balls get too blue
+Maybe then you want me to say stop...
+But most of the time you want to keep going and push right on to that next orgasm
+That's why I need to control you, #PetName
+Boys like you aren't supposed to cum whenever they want, only when they're allow to
+Good thing then that it's so easy for you to follow instructions #Smile
+@End
+(pvMod23C)
+You must be so happy that you get to #JerkOff so much... @DeleteFlag(pvMod23C)
+Of course, actually having sex would be even better
+But then what good would that be to me... I'm certainly not going to fuck you #Laugh
+And let's be honest... it's probably not going to happen anytime soon anyway
+@CockSmall Not with that tiny little thing between your legs #Giggles
+@Flag(pthevVirgin) If you could get laid, it probably would have happened already, right? 
+You're just going to sit there are #JerkOff for me
+I love doing this, #PetName
+I <i>love</i> turning you into a sexually frustrated mess #Grin
+@NullResponse @CustomTask(Strokes)
+Keep your greedy hands away from that #Cock now
+I wonder how many strokes it would take to actually drive you insane
+Maybe we're there already! #Lol
+@End

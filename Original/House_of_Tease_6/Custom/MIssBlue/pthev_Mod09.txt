@@ -1,0 +1,134 @@
+@NullResponse @CheckFlag(pvMpd09A)
+#StopStroking @StopStroking @TempFlag(pvMpd09A)
+@Flag(pthevAnal) @NullResponse @Chance50(call custom)
+@NullResponse @CheckFlag(pthevMod09NoInstructions)
+Let's do a little training exercise #PetName
+(explain again)
+This exercise is not about how fast you can go
+But how <i>slow</i>
+In a moment you're going to hear a bell
+This bell @PlayAudio[PtheV\bell.mp3]
+When you do, I want you to start stroking at a very slow pace
+1 full stroke up and down every 5 seconds
+You will count your strokes: up and down counts as one stroke
+I will keep time, and at the end we'll see how well you've kept pace #Smile @SetFlag(pthevMod09NoInstructions)
+You have to stop stroking when you hear the bell, clear?
+[yes] Good @Goto(and no cheating)
+[no] It's not that hard #PetName
+[how long,how much time] You'll know when the bell rings again #Smile @Goto(and no cheating)
+@DifferentAnswer #YesOrNo
+When you hear the bell, start stroking at 1 stroke per 5 seconds
+Count your strokes
+When you hear the bell again, stop stroking
+Then I will ask you how many strokes you did
+(and no cheating)
+And no cheating by looking at the clock #SubName! @Goto(eighty,ninety,hundred)
+(pthevMod09NoInstructions)
+Let's do another slow-stroking exercise
+You remember the rules, right?
+[yes] Alright, then let's play #Smile
+[no] Then let me explain, again... *sigh* @Goto(explain again)
+@DifferentAnswer #YesOrNo
+@NullResponse @Goto(eighty,ninety,hundred)
+(ninety)
+Get ready...
+@NullResponse @RapidTextOn @AFKOn
+Go! @PlayAudio[PtheV\bell.mp3] @Wait(90)
+@NullResponse @PlayAudio[PtheV\bell.mp3]
+@NullResponse @RapidTextOff @AFKOff
+That was the bell, you better stop stroking #PetName @CheckFlag(pvMod09ninetydone)
+How many strokes did you do? @TempFlag(pvMod09ninetydone)
+[lost count, don't know] Better start over then, #PetName @Goto(ninety)
+[18,eighteen] That's exactly the right amount! @Goto(ninety right)
+[16,sixteen] You're a little bit off target, #SubName @Goto(ninety almost right)
+[17,seventeen] Oooh so close...! @Goto(ninety almost right)
+[19,nineteen] Close, but no @Goto(ninety almost right)
+[20,twenty] A few too many, you got greedy #SubName @Goto(ninety almost right)
+@AcceptAnswer @RT(Oh no,Nope,Oh dear), that's @RT(not even close,way off the mark) #Laugh
+I guess we'll have to start over, #Name @Goto(ninety)
+(ninety right)
+As a reward you can edge for me now #Smile @Edge
+#LetTheEdgeFade
+@End
+(ninety almost right)
+But because you were close, I won't let you start over
+@BallTorture You're going to have to endure some pain though #Grin @CBTBalls
+Maybe next time you'll do better #Smile
+@End
+(pvMod09ninetydone)
+This is boring, let's do something else @DeleteFlag(pvMod09ninetydone)
+I'm sure you got your strokes right this time #Laugh
+@End
+(hundred)
+Get ready...
+@NullResponse @RapidTextOn @AFKOn
+Go! @PlayAudio[PtheV\bell.mp3] @Wait(100)
+@NullResponse @PlayAudio[PtheV\bell.mp3]
+@NullResponse @RapidTextOff @AFKOff
+That was the bell, you better stop stroking #PetName @CheckFlag(pvMod09hundreddone)
+How many strokes did you do? @TempFlag(pvMod09hundreddone)
+[lost count, don't know] Better start over then, #PetName @Goto(hundred)
+[20,twenty] That's exactly the right amount! @Goto(hundred right)
+[18,eighteen] You'll a little off target there #SubName @Goto(hundred almost right)
+[19,nineteen] Oooh so close...! @Goto(hundred almost right)
+[21,twenty-one,twentyone] Close, but no @Goto(hundred almost right)
+[22,twenty-two,twentytwo] A few too many, you got greedy #SubName @Goto(hundred almost right)
+@AcceptAnswer @RT(Oh no,Nope,Oh dear), that's @RT(not even close,way off the mark) #Laugh
+I guess we'll have to start over, #Name @Goto(hundred)
+(hundred right)
+As a reward you can edge for me now #Smile @Edge
+#LetTheEdgeFade
+@End
+(hundred almost right)
+But because you were close, I won't let you start over
+@CockTorture You're going to have to endure some pain though #Grin @CBTCock
+Maybe next time you'll do better #Smile
+@End
+(pvMod09hundreddone)
+That took a long time... #EmoteRandom @DeleteFlag(pvMod09hundreddone)
+Do you think you got it right this time?
+[yes] Oh good #Smile
+[no] Then you're in luck
+@DifferentAnswer #YesOrNo
+Because I've had about enough of this game
+It's as boring for me as it is frustrating for you #Lol
+@End
+(eighty)
+Get ready...
+@NullResponse @RapidTextOn @AFKOn
+Go! @PlayAudio[PtheV\bell.mp3] @Wait(80)
+@NullResponse @PlayAudio[PtheV\bell.mp3]
+@NullResponse @RapidTextOff @AFKOff
+That was the bell, you better stop stroking #PetName @CheckFlag(pvMod09eightydone)
+How many strokes did you do? @SetFlag(pvMod09eightydone)
+[lost count, don't know] Better start over then, #PetName @Goto(eighty)
+[16,sixteen] That's exactly the right amount! @Goto(eighty right)
+[14,fourteen] You'll a little off target there #SubName @Goto(eighty almost right)
+[15,fifteen] Oooh so close...! @Goto(eighty almost right)
+[17,seventeen] Close, but no @Goto(eighty almost right)
+[18,eighteen]  A few too many, you got greedy #SubName @Goto(eighty almost right)
+@AcceptAnswer @RT(Oh no,Nope,Oh dear), that's @RT(not even close,way off the mark) #Laugh
+I guess we'll have to start over, #Name @Goto(eighty)
+(eighty right)
+As a reward you can edge for me now #Smile @Edge
+#LetTheEdgeFade
+@End
+(eighty almost right)
+But because you were close, I won't let you start over
+@BallTorture You're going to have to endure some pain though #Grin @CBTBalls
+Maybe next time you'll do better #Smile
+@End
+(pvMod09eightydone)
+Hold on a second, I gotta take a call... @DeleteFlag(pvMod09eightydone) @AFKOn @Wait(45)
+Sorry about that #Smile @AFKOff 
+Now where were we... the slow strokes, right?
+Yeah, that's kind of boring isn't it #Laugh
+Let's move on, #Name
+@End
+(pvMpd09A)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(call custom)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagAnal.txt)
+@End

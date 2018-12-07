@@ -1,0 +1,327 @@
+#StopStroking @StopStroking @DeleteFlag(pvMod31Kn)
+@Flag(pvKneeling) You can get off your knees @DeleteFlag(pvKneeling) @TempFlag(pvMod31Kn)
+Always a bit unsatisfying to @RT(simply,just) stop, isn't it?
+[yes] Yeah...
+[no] Maybe @RT(you're just glad,for you it's a relief) not to have to edge again... #Laugh
+[why,how,do you mean,explain,t understand] Well, it's just... stopping... that's all
+@DifferentAnswer #YesOrNo 
+So, @RT(what next,now what,what to do), hmm? @Chance50(oh I know)
+I'm sure <i>she</i> would know what to do #Lol @ShowFemdomImage @CheckFlag(pthevGlitterIntroduced,she would know)
+@End
+(oh I know)
+@RT(Your know what,Oh I know,I wanna say)... 
+#Edge @EdgeHold
+#LetTheEdgeFade @Chance50(face or body)
+That was a lot more satisfying, right?
+[yes] Not the answer I was expecting #Laugh
+[no] It was for me #Grin
+@DifferentAnswer #YesOrNo
+If at least one of us leaves satisfied #GeneralTime than this has been worthwhile @CheckFlag(pthevButtPlug,call custom plug)
+@End
+(face or body)
+While you collect your wits after yet another excruciating edge... @CheckFlag(pvMod31Face)
+@NullResponse @CheckFlag(pvMod31Body)
+Check out this pair @ShowBoobsImage @LockImages
+#EmoteMoan
+Actually, I wanted to ask you something @UnlockImages
+What is more important to you, a great body or a pretty face?
+[face] Oh okay...
+[body] Now why doesn't that surprise me #Laugh @Goto(chose body)
+[don't care,doesn't matter,character,personality,don't,not sure,can't,not choose,either,both] C'mon, you have to make a choice, #Name @LoopAnswer
+@DifferentAnswer Face or body, #Name?
+I guess I didn't expect that answer #Laugh @SetFlag(pvMod31Face)
+But it's a good answer, I think... a face tells you so much more about a person 
+More that #Boobs anyway @ShowBoobsImage
+And certainly more that a butt... #Laugh @ShowButtImage
+@ImageTag(TagBodyFace,TagSoloF) So you'd rather #JerkOff to this, huh? @LockImages
+#StartStroking @EdgeMode(Goto,edge to face)
+You're probably imagining her looking at you as you #JerkOff
+Maybe you think about shooting your cum all over her face
+I hope that's not the reason you said you prefer a pretty face, #PetName
+#StrokeFaster
+I prefer to believe it's out of respect for the girl
+You know, that she's more to you than just a piece of meat
+Of course, to me <i>you</i> are barely more than a piece of meat #Laugh @UnlockImages
+#StopStroking @EdgeMode(Normal)
+Well...
+As long as you respect women more than they respect you, we're cool #Grin
+@End
+(edge to face)
+@NullResponse @DecideEdge
+#LetTheEdgeFade @UnlockImages
+I guess you <i>really</i> like looking at pretty girls' faces #Lol
+@End
+(chose body)
+But to be honest, I would have preferred if you said face, #PetName @SetFlag(pvMod31Body)
+Oh I know... it's our lady parts that make you ache the most #Giggles @ShowBoobsImage
+That make you leak and throb @ShowButtImage
+@ImageTag(TagBodyPussy) That make your mind go blank
+Maybe that's for the best, #PetName @UnlockImages
+But I wouldn't like it if women are just a piece of meat to you
+Is that all we are to you?
+[yes] Oh. @Goto(of meat)
+[no] I'm glad to hear that #Smile
+@DifferentAnswer #YesOrNo
+Of course, I didn't expect anything less of you
+Although, to me <i>you</i> are barely more than a piece of meat #Laugh
+@End
+(of meat)
+@NullResponse @MoodWorst
+You really need you learn to respect women, #PetName
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(pvMod31Face)
+@ImageTag(TagBodyFace,TagSoloF) Take a look at this pretty little face @LockImages
+She is stunning, isn't she? #Smile
+A girl like that could destroy you, #Name
+She'd crush you #Balls and rip out your heart
+You'd be helpless, like you are to my control @UnlockImages
+I don't envy you, #SubName
+You have so little control over your own thoughts and actions
+All because of that leaky #Cock and those aching #Balls
+@End
+(pvMod31Body)
+@ImageTag(TagBodyFace,TagSoloF) Take a look at this pretty little face @LockImages
+She's a person, not just a hot body for you to drool over
+I just wanted to remind you of that, #Name
+@CockTorture And let me remind your #Cock of it too @CBTCock
+Anyways... I'm still going to tease you with pictures of boobs and butts
+@NullResponse @ShowBoobsImage
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+@NullResponse @ShowButtImage
+#Edge @EdgeNoHold
+#LetTheEdgeFade @UnlockImages
+@End
+(call custom plug)
+@NullResponse @Chance50(do that one more time)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagButtPlug.txt)
+@End
+(do that one more time)
+In fact, I'd say the more edges you do, the more satisfying it becomes...
+So let's do that again, shall we? #Smile
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+@End
+(she would know)
+Let's bring in an expert...
+@NullResponse @AddContact3
+@Contact3 Well hi there, #SubName #Grin
+So #Contact3 I just told #SubName to stop #JerkingOff but it felt a bit unsatisfying
+Any ideas?
+@Contact3 Always!
+@Flag(pvContact3RoughYes) @NullResponse @Chance50(no dissenting voice)
+@NullResponse @AddContact2
+@Contact2 C'mon you guys, be nice to the poor guy for once, okay? #Smile
+@Contact2 After all, the most satisfying thing is not to make him stop at all
+@Contact2 But to let him #JerkOff to a lovely and satisfying orgasm
+@Contact3 But then it's game over, #Contact2
+@Contact2 Yeah, but you can start again tomorrow, right?
+That's true #Laugh
+@Flag(pvMod31PoD) @Contact2 You don't always have to go full Princess of Darkness on the poor guy, #Contact3
+@Flag(pvMod31PoD) @Contact3 I knew I hadn't heard the last of that...
+@Flag(pvMod31PoD) @Contact2 It's a great nickname! #EmoteLaugh
+@Contact2 You can stroke, #SubName
+@Contact2 Stroke at any speed you like, fast or slow @EdgeMode(Goto,edge any way you like)
+@Contact2 You can speed up or slow down, touch just the tip of long full strokes
+@Contact2 The most important thing is that you feel good #Smile
+@Contact2 You've got three hot women here, so why shouldn't you feel good, right?
+@Contact3 I can think of a few reasons...
+@Contact2 You'll get your chance some other time, #Contact3 #Laugh
+@Contact2 Maybe someday we'll have a big orgy, all of us together
+@Contact2 Can you imagine that, #SubName - you, me, #Contact1 and #DomName
+@Contact2 Even #Contact3 would be there, you can count on that #Smile
+Oh, I'm sure #SubName can imagine that... and has imagined it many times #Laugh
+@Contact3 I'm not sure I need #SubName there... but it sounds hot...
+We could tie him up and force him to watch!
+@Contact3 Now we're getting somewhere #Grin
+@Contact2 You guys #Lol
+@Contact2 Don't worry, I'll protect you from these horrible people, #SubName
+I'm not sure he wants to be protected, #Contact2 
+@Contact2 Not all the time, but an occasional moment of respite...
+@Contact3 I'll be biding my time, then... *evil grin* @RemoveContact3
+@Contact2 Keep stroking however you like, #SubName
+@Contact2 I'll even show you some hot pictures @ShowLesbianImage
+@Contact2 @NullResponse @ShowLesbianImage
+@Contact2 @NullResponse @ShowLesbianImage
+@Contact2 @NullResponse @ShowLesbianImage
+@Contact2 @NullResponse @ShowLesbianImage
+@Contact2 This is sooo hot #EmoteMoan @PlayVideo(30) @JumpVideo
+@Contact2 Isn't it nice to just stroke without worrying about having to edge...
+@Contact2 Without the fear of punishment if you're not up to the challenge? @Timeout(8,without the fear)
+[yes] @Contact2 I just want you to feel good right now, #SubName
+[no] @Contact2 Maybe #Contact3 was right after all... 
+@DifferentAnswer @Contact2 Yes or no?
+(without the fear)
+@Contact2 As far as I'm concerned, masturbation should be a wholesome, relaxing experience
+@Contact2 A moment to forget all the stress of daily life
+@Contact2 To feel in tune with your body and realise how much pleasure it can give you
+@Contact2 And how much pleasure you can give to your body
+@Contact2 When that feedback loop of pleasure creating more pleasure kicks in... #EmoteMoan @Wait(15)
+I think #Contact2 might have just got lost in her feedback loop #Laugh
+@Contact2 Sorry... *blush*
+You better take care of your loop now, #Contact2 #EmoteWink @EdgeMode(Normal)
+@Contact2 I think I will... #Smile @RemoveContact2
+Stop stroking, #PetName
+@End
+(edge any way you like)
+@Contact2 Take a step back from the edge and relax #SubName
+@Contact3 I've seen enough, see you later #Smile @RemoveContact3
+#Contact3 can't handle it #Lol
+@Contact2 You girls are always pressuring #SubName to edge
+@Contact2 I prefer to let it come naturally
+At least you didn't let him cum
+@Contact2 Nah, you're right about that, it's much more fun to keep #SubName leaking and unfulfilled
+I think you're starting to sound a bit like #Contact1 #EmoteWink
+@Contact2 I'm slowly turning into a whip wielding dominatrix!
+*Gasp* #Lol
+@Contact2 I'll leave it that to you and #Contact3 #Laugh
+@Contact2 Bye,bye, #SubName *kiss* @RemoveContact2
+At least one of still has your best interest at heart, #PetName
+@End
+(no dissenting voice)
+@Contact3 You better have some clothespins and a wooden spoon ready, #SubName @CustomMode(#pvDontWantTo,Goto,do not want)
+@Contact3 Because I'm in a mood to dish out some major agony
+You do know how to lighten the mood, #Contact3 #Laugh
+You're like the Princess of Darkness, here to spread death and destruction among the common folk
+@Contact3 Mmm I like that #Smile
+@Contact3 Although, I'm not really that dark... am I?
+Nah, of course not
+Just, when it comes to teasing sub boys, that side of you shines through
+It's a sight to behold though, so please never change, #Contact3 #Smile *kiss*
+@Contact3 That's so sweet, #ShortName *blushes*
+@Contact3 Enough of that, break out the clothespins, #SubName
+@Contact3 Also, get the fuck down on your knees @TempFlag(pvKneeling)
+@Flag(pvMod31Kn) I just told him to stop kneeling, #Contact3 #Lol
+@Flag(pvMod31Kn) @Contact3 Could have spared him the trouble of getting up...
+@Contact3 I don't understand why you don't make him kneel <i>all</i> the time, #ShortName
+@Contact3 It's the proper position for a worm like #SubName
+@Contact3 By the way worm, put a clothespin on each of your nipples @TempFlag(pvPinsOn)
+@Contact3 I hope you're not still searching for them, you should hurry the fuck up if you are
+@NotFlag(pvCollared) @Contact3 I also need you to wear a collar, so go get one and put it on @TempFlag(pvCollared)
+Just to remind you, #Name 
+If any of this is going too far, just say you don't want to do it
+@Contact3 You make it way too easy to back out of stuff, #DomName
+@Contact3 You should demand these things, he's here to please <i>you</i>, you know
+Yeah that's true... still, everyone has a limit, #Contact3
+@Contact3 I know, I know...
+@Contact3 But I'm sure #SubName isn't aware of his limits yet #Grin
+@Contact3 #SubName, you should be on your knees, nipples clamped, collared and spoon between you teeth
+@Contact3 And you will give me 50 full strokes, go! @EdgeMode(Goto,no permission)
+@Contact3 And hurry up a bit, we don't have all day
+@Contact3 #ShortName how long does it usually take him to do 50?
+I don't know, depends on, like, how horny and frustrated he is #Smile
+@Contact3 Should be about done by now, right?
+Probably, yeah
+@Contact3 Alright then, #SubName... 3,2,1...
+@Contact3 Hands off! All 50 done? @EdgeMode(Normal)
+[yes] @Contact3 Good boy! @Goto(missed none)
+[no] @Contact3 Oh...
+@DifferentAnswer @Contact3 Yes or no??
+@Contact3 Then go get a shoelace right now, loser
+@Contact3 And do it crawling, you're not allowed to get up
+@Contact3 Go get a fucking shoelace and tie up your fucking balls, #SubName
+@Contact3 Don't make me wait...
+@Contact3 Are you done?
+[yes,done,ready,finished,did] @Contact3 Take that wooden spoon out of your mouth... @TempFlag(pvBallsTied)
+@DifferentAnswer @Contact3 Hurry the fuck up, worm!
+O-Oh... this is going to hurt... #Grin
+@Contact3 Now complete your set of 50 with ball smacks instead of strokes
+[done] Maybe next time you'll try a little harder to complete your strokes, #PetName #Smile
+[don't want,do not want,will not,won't,not going,not gonna] @Contact3 It's not up for debate, you will do as your told @LoopAnswer
+@AcceptAnswer Maybe next time you'll try a little harder to complete your strokes, #PetName #Smile
+@Contact3 Spoon between you teeth again...
+(missed none)
+@Contact3 Get to the edge for us, #SubName @EdgeHold
+#LetTheEdgeFade
+@Contact3 <i>Now</i> let's see how you'll do with 50 strokes
+@Contact3 Give us 50 again, but no edging! @EdgeMode(Goto,no permission)
+So how much time are you going to give him this time?
+On the heels of holding an edge it's always a little more tricky...
+@Contact3 You say when, #DomName #Smile
+Okay... 
+STOP! Hands off, #SubName #Smile @EdgeMode(Normal)
+Did you finish the whole set of 50?
+[yes] Awesome #EmoteHappy @Goto(missed none again)
+[no] @Contact3 I think you know what that means, #SubName
+@DifferentAnswer #YesOrNo
+@Contact3 Start smacking those poor #Balls to get up to 50!
+[done] Ouch... #Grin
+[don't want,do not want,will not,won't,not going,not gonna] @Contact3 It's not up for debate, you will do as your told @LoopAnswer
+@AcceptAnswer Ouch... #Grin
+@Contact3 I think you know where you put the spoon, my little pain slut
+With that out of the way, let's do another set of 50?
+@Contact3 First we should build up a little 'resistance', no?
+(missed none again)
+That means it's about time for another edge...
+#Edge @EdgeHold @MultipleEdges(3,7,100)
+#LetTheEdgeFade
+@Contact3 The next set is going to be 100 strokes, #SubName
+Oooh that means potentially a lot of ball smacks if you don't make it #EmoteHappy
+Try to get ready as best you can, #PetName
+The fate of your #Balls depends on your performance
+@Contact3 I guess it depends on our grasp of time as well #EmoteWink
+@Contact3 Alright here we go, 100 strokes... 3,2,1... @EdgeMode(Goto,no permission)
+@Contact3 Start stroking, #SubName!
+You tell him when to stop, #Contact3 @Wait(#Random(20,40))
+@Contact3 STOP. STROKING. NOW! @EdgeMode(Normal)
+Did you make it too 100??
+[yes] Wow #EmoteHappy @Goto(missed none once again)
+[no] @Contact3 Mmmm ball smacking time #EmoteHappy
+@DifferentAnswer #YesOrNo
+@Contact3 So, smack your #Balls hard until you get to 100 smacks, #SubName
+[done] Those poor sore #Balls
+[don't want,do not want,will not,won't,not going,not gonna] @Contact3 It's not up for debate, you will do as your told @LoopAnswer
+@AcceptAnswer Those poor sore #Balls
+@Contact3 I guess his urge to cum is still stronger than the instinct to avoid pain @Goto(imposing presence)
+(missed none once again)
+@Contact3 Pretty impressive, I must admit
+@Contact3 I guess his instinct to avoid pain is still stronger than the urge to cum
+(imposing presence)
+Your imposing presence might have something to do with that #Laugh
+@Contact3 Damn, that Princess of Darkness thing is really going to stick, isn't it? @SetFlag(pvMod31PoD)
+It might #Smile
+@Contact3 I can live with that... but I don't want to overdo it, so talk to you later, #ShortName
+Yes, my Princess... #EmoteWink
+@Contact3 #Lol @RemoveContact3
+@NullResponse @DeleteFlag(pvNotWantRoughContact3)
+@End
+(no permission)
+You didn't have permission to edge, #PetName @MoodDown
+@Contact3 That's going to cost you some ball smacks... take that spoon out of your mouth
+@Contact3 Each smack should really sting and not just be a little tap, #SubName
+@Contact3 Let's start with 25 smacks, one smack per second... @Wait(5) @RapidTextOn
+@Contact3 20 @Wait(10)
+@Contact3 10 @Wait(5)
+@Contact3 And the last couple of smacks... @RapidTextOff
+For balance, do 25 strokes too, #PetName
+And hurry up, you should do those a lot faster than one per second 
+@Contact3 Get ready to spank your ass with the spoon, #SubName
+@Contact3 I want you to finish those strokes and spank your ass 50 times right now
+@Contact3 I know #DomName doesn't always punish you for edging without permission, but I'm not that lenient
+I must admit that this is pretty fun #EmoteHappy
+@Contact3 You might have to reconsider your punishment policy, #DomName
+I'll think I'll just call you in whenever #SubName needs a more severe treatment #EmoteWink
+@Contact3 Oooh yes please... #EmoteHappy
+Hurry up and finish your spanking, #PetName
+@Contact3 Yeah, because your #Balls require some more attention from the spoon... #Grin
+@Contact3 Another 25 smack, to be exact... 1 per second starting right now! @Wait(5) @RapidTextOn
+@Contact3 20 @Wait(10)
+@Contact3 10 @Wait(5)
+@Contact3 You should be just about done now... @RapidTextOff
+@Contact3 You know what, I almost forgot about the clothespins... pull them off quickly, #SubName
+@NullResponse @DeleteFlag(pvPinsOn)
+@Contact3 I think we've punished your #PetName enough for now, #DomName @CustomMode(#pvDontWantTo,Normal)
+I think so too...
+Untie your balls, #SubName @DeleteFlag(pvBallsTied)
+You can get off your knees, the collar stays on for now @DeleteFlag(pvKneeling)
+@Contact3 This has been fun, #ShortName
+@Contact3 Let me know when #SubName is behaving badly again #Smile
+Will do!
+Then again, maybe next time I'll do some punishing myself #Laugh
+@Contact3 #Laugh @RemoveContact3
+@NullResponse
+@End
+(do not want)
+@NullResponse @Interrupt(pvIn_NotWantRoughContact3)
+@End

@@ -1,0 +1,9 @@
+@Stroking #StopStroking @StopStroking
+@RT(Go ahead take your buttplug out,Take that plug out of your ass,Take out your buttplug now)
+@RT(Your ass must be all stretched out,Give that stretched hole a rest,So your ass can finally relax a little)
+Are you ready?
+[yes,ready,done,did,finished] Good boy @DeleteFlag(pthevPlugged)
+[no] Let me know when you are... @LoopAnswer
+@DifferentAnswer #YesOrNo
+@NullResponse
+@End

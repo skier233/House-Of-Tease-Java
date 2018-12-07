@@ -1,0 +1,133 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@NullResponse @CheckFlag(AV_PinDone)
+I want you to fetch some nipple clamps or clotheslines  @TempFlag(AV_PinDone)
+@NullResponse @SetVar[AV_PinNumber]=[0]
+Are you ready to start? 
+[yes, ready, done] Alright #Grin
+[no] Well you should be if you are back on your computer... Slap your cock 5 times and then hurry up
+@DifferentAnswer I don't care about your vague answers! Slap your cock 2 times!
+(AV_PinDone) 
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_PinNumber]=[4]Then(Full)
+@NullResponse @If[AV_Pins]=[0]Then(Part1_1)
+@NullResponse @If[AV_Pins]=[1]Then(Part1_2)
+@NullResponse @If[AV_Pins]=[10]Then(Part1_3)
+@NullResponse @If[AV_Pins]=[100]Then(Part1_4)
+@NullResponse @If[AV_Pins]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Pins]=[11]Then(Part1_6)
+@NullResponse @If[AV_Pins]=[101]Then(Part1_7)
+@NullResponse @If[AV_Pins]=[111]Then(Part1_8)
+@NullResponse @If[AV_Pins]=[110]Then(Part1_9)
+@NullResponse @If[AV_Pins]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Pins]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Pins]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Pins]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Pins]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Pins]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Pins]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Pins]=[AV_Pins]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Pins]=[AV_Pins]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Pins]=[AV_Pins]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Pins]=[AV_Pins]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Pins]=[0]
+#1_ST_Tease
+@End
+(Modulo1)
+Now I want to play with your niples a bit while looking at those #Sexy #Boobs @ShowBoobsImage
+So #Sexy @ShowBoobsImage 
+Now that they are hard and ready...  @TempFlag(AV_Pin1e2)
+Put the clamps on them #PetName ! #Grin  @ChangeVar[AV_PinNumber]=[AV_PinNumber]+[2]
+I hope they don't hurt that much... @RapidCodeOn
+@NullResponse @If[AV_DommeRuim]>=[5]Then(hurts)
+@NullResponse @Goto(skip1)
+(hurts)
+Oh who am I kidding...
+I hope they hurt like HELL!!! #lol
+(skip1)
+@NullResponse @Goto(continue5)
+(continue5)
+@NullResponse @CheckFlag(AV_TaskON)
+@End
+(AV_TaskON)
+@NullResponse @Interrupt(AV_Tasks)
+@End
+(Modulo2)
+Put 1 clothespin on your balls just for fun  @ChangeVar[AV_PinNumber]=[AV_PinNumber]+[1]
+@NullResponse @Wait(15) @TempFlag(AV_Pin3)
+@NullResponse @Goto(continue5)
+(continue5)
+@NullResponse @CheckFlag(AV_TaskON)
+@End
+(AV_TaskON)
+@NullResponse @Interrupt(AV_Tasks)
+@End
+(Modulo3)
+I hope you are feeling very uncomfortable #Slave @TempFlag(AV_Pin4)
+Put 1 clothes pins on your #Balls  @ChangeVar[AV_PinNumber]=[AV_PinNumber]+[1]
+@NullResponse @Goto(continue5)
+(continue5)
+@NullResponse @CheckFlag(AV_TaskON)
+@End
+(AV_TaskON)
+@NullResponse @Interrupt(AV_Tasks)
+@End
+(Modulo4)
+@NullResponse @Goto(continue5)
+(continue5)
+@NullResponse @CheckFlag(AV_TaskON)
+@End
+(AV_TaskON)
+@NullResponse @Interrupt(AV_Tasks)
+@End
+(Full)
+Why do you have so much of those on your body #SubName #Lol
+You can remove all clothespins @SetVar[AV_PinNumber]=[0] 
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(AV_Pin4)
+@NullResponse @DeleteFlag(AV_Pin3)
+@NullResponse @DeleteFlag(AV_Pin1e2)
+@End

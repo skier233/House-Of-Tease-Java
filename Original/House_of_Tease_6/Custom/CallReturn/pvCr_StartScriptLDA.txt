@@ -1,0 +1,168 @@
+@NullResponse @CheckFlag(pvLDASecondWeek)
+@NullResponse @CheckDate(pvLDAday6,day six)
+@NullResponse @CheckDate(pvLDAday5,day five)
+@NullResponse @CheckDate(pvLDAday4,day four)
+@NullResponse @CheckDate(pvLDAday3,day three)
+@NullResponse @CheckDate(pvLDAday2,day two)
+@NullResponse @Goto(day one)
+(day six)
+@NullResponse @CheckFlag(pvLDC6,no lines)
+So... @SetFlag(pvLDC6)
+This week without orgasms...
+You <i>have</i> still been able to keep yourself from cumming, right?
+[yes] Good
+[no] @NullResponse @Goto(LDA had an orgasm)
+@DifferentAnswer #YesOrNo
+I was wondering
+Has it been getting easier or more harder?
+[easier] I thought so #Laugh
+[harder] Really? I'm surprised...
+@DifferentAnswer Easier of harder, #Name?
+Anyway, it's not long now...
+You must be anxious to get to the end
+Almost there, #PetName #Smile
+@End
+(day five)
+@NullResponse @CheckFlag(pvLDC5,no lines)
+It is now what, day 5 of this 'week of denial'? @SetFlag(pvLDC5)
+You're doing great, #Name #EmoteHappy
+@End
+(day four)
+@NullResponse
+@End
+(day three)
+@NullResponse @CheckFlag(pvLDC3,no lines)
+You might be wondering if this week of tease and denial @SetFlag(pvLDC3)
+Is going to get any easier as it progresses...
+I honestly don't know, #PetName
+I can't imagine going without orgasms for a week #Laugh
+But you're going to do it for me
+And at the end, you can tell me #Smile
+@End
+(day two)
+@NullResponse @CheckFlag(pvLDC2,no lines)
+So tell me, #Name... @SetFlag(pvLDC2)
+Have you been a good #PetName since last time?
+[yes] I knew you wouldn't let me down #Smile
+[no] Oh... @Goto(LDA had an orgasm)
+@DifferentAnswer #YesOrNo
+I'm sure you'll make it all the way to the end of the week
+@End
+(day one)
+@NullResponse @CheckFlag(pvLDC1,no lines)
+We've only just started your orgasm-less week @SetFlag(pvLDC1)
+So I'm going to assume I don't have to ask you if you've been good #Smile
+@End
+(no lines)
+@NullResponse
+@End
+(pvLDASecondWeek)
+@NullResponse @Goto(SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9)
+(SW1)
+I can't even begin to imagine how horny you must be now
+More than a week without orgasm...
+Sounds like an eternity to me
+@End
+(SW2)
+It's been over a week since you came, #Name
+I hope you're not secretly #JerkingOff and not telling me...
+You would tell me if you had an orgasm, right?
+[yes,sure,of course,always] Stupid question, I know...
+[no] Oh... well if it makes you happy to lie to me @MoodWorst
+@DifferentAnswer #YesOrNo
+It's a lot more fun if you're being honest with me
+@End
+(SW3)
+Another day without orgasm has passed...
+You must be feeling pretty desperate by now #Grin 
+@End
+(SW4)
+@NullResponse
+@End
+(SW5)
+@NullResponse
+@End
+(SW6)
+@RT(I would expect,It would seem to me), #Name...
+That after being @RT(not allowed to cum,denied) for @RT(sometime,a while), at some point
+You would be tempted to take that #Cock in your hand
+And @RT(stroke,jerk) yourself to orgasm
+Have you felt that temptation in the past week?
+[yes] It must be @RT(tough,hard,difficult), #SubName
+[no] Wow, that's @RT(incredible,amazing,great) @Goto(it is that easy)
+@DifferentAnswer #YesOrNo
+But so far you've managed to control yourself, right?
+[yes] Good #PetName
+[no] Oh... @Goto(LDA had an orgasm)
+@DifferentAnswer #YesOrNo
+It's worth the wait, I promise #Smile
+@End
+(it is that easy)
+I guess we could easily add a couple more weeks then #EmoteWink
+@End
+(SW7)
+I've kept you denied for so long now
+Precum must be leaking from that #Cock all day and all night #Giggles
+You <i>have</i> been able to control yourself since last time, right?
+[yes] Good
+[no] Oh... @Goto(LDA had an orgasm)
+@DifferentAnswer #YesOrNo
+#GeneralTime I'm going to see if I can trip you up #Grin
+@End
+(SW8)
+The longer you are denied, the easier it gets, right #PetName?
+[yes] That's what I thought and I'm glad you agree, 'cause...
+[no] That's too bad, because I like this arrangement a lot
+@AcceptAnswer It <i>should</i> get easier
+I'm thinking of making it a <i>month</i> of denial #Grin
+And we could go even longer than that, who knows!
+@End
+(SW9)
+You know that old saying about the journey and the destination?
+In this case, your 2 weeks of being denied...
+You might think it <i>is</i> about the destination
+That mind-blowing orgasm at the end
+But it isn't, #SubName
+Not really
+You might find that, at the end of this journey
+You will want to keep going
+Because the truth is...
+That erotic buzz you constantly feel when you're being teased and denied
+It feels <i>good</i> #Grin
+@End
+-------------------------------
+----- LDA HAD AN ORGASM -----------
+-------------------------------
+(LDA had an orgasm)
+Let's be clear about this, #SubName
+Are you telling me that you had an orgasm without my permission?
+[yes] @RT(Dammit,Fuck), #PetName @DeleteFlag(pvHAA) @Goto(LDA made a mistake)
+[no] I must have misunderstood then...
+@DifferentAnswer #YesOrNo
+Okay, let's just move on...
+@End
+(LDA made a mistake)
+That's really disappointing @AFKOn @RapidCodeOn
+@NullResponse @DeleteFlag(pthevLongDenialActive) @DeleteFlag(pvOrgasmControl)
+@NullResponse @SetFlag(pthevLongDenialEnded)
+@NullResponse @RestrictOrgasm(1 second)
+@NullResponse @SetDate(pvRenewLDA,1 month)
+@NullResponse @AFKOff @RapidCodeOff
+@NullResponse @CheckFlag(pvLDASecondWeek)
+I gave you an instruction and you failed miserably @MoodWorst
+If you can't take it, then so be it
+But I'm still going to punish you for it
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_Punishment.txt)
+@NullResponse
+@End
+(pvLDASecondWeek)
+But I guess two weeks of denial was just too much to ask @MoodDown
+I should have known, really
+So some of the blame is on me, I guess
+<i>I</i> am the one who owns <i>you</i> after all
+And you can't deny a masturbation junkie the one thing he loves
+I should have known that
+So I'm not mad, #SubName
+Disappointed, yes, but not angry
+I'm not even going to punish you
+@End

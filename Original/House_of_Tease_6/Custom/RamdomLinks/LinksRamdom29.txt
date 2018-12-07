@@ -1,0 +1,121 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link29_NotFirstTime)
+@NullResponse @SetVar[AV_Link29]=[0] 
+@NullResponse @SetFlag(AV_Link29_NotFirstTime)
+(AV_Link29_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link29]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link29]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link29]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link29]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link29]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link29]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link29]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link29]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link29]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link29]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link29]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link29]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link29]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link29]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link29]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link29]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link29]=[AV_Link29]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link29]=[AV_Link29]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link29]=[AV_Link29]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link29]=[AV_Link29]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link29]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+I think is that you should kneel down and adore me, just like always. 
+Little teased cocks don't get to cum for me. 
+They just get to watch and worship. 
+I love to be worshiped.
+I'm making your balls fill up...you'll feel it soon enough. 
+#StartStroking @StartStroking
+@End
+(Link2)
+Remember that everything you do brings me so much pleasure... @TempFlag(AVp006)
+that denying you makes me so very, very happy... 
+you give so much pleasure but you hardly have any of your own.
+That's not your purpose. @ResponseYes(ThisIsMyPurposeInLife) @ResponseNo(RegretMeetingYou)
+just like my little purple dildo, you're hard, 
+ready
+wanting @DeleteFlag(AVp006)
+#StartStroking @StartStroking
+@End
+(Link3)
+Now there's something for you to consider for a moment, #PetName.
+What if your mistress got all cold and cruel? 
+What if I decided you were nothing more than a toy
+to be put on a shelf and only used when I felt like it? 
+Would you like it?
+[yes] Oh, really?
+[no] No problem, #SubName @Goto(f37d9)
+@DifferentAnswer #YesorNo #SubName?
+My toys don't get to have own will, you know. @ApathyLevelUp
+Of course, when I wanted to see you suffer @TempFlag(AVp005)
+I'd find a way.
+And you'd want to suffer for me. @ResponseYes(I Can Take More) @ResponseNo(DontHurtMe)
+You will suffer for me not only out of desire but of necessity. @DeleteFlag(AVp005)
+Oh yes, I can be a cruel mistress, you know. 
+The question is, do you want me to be?
+[yes] I'll put that to the test @SetFlag(AV_DommeMistress) 
+[no] No problem, #SubName @Goto(f37d9)
+@DifferentAnswer #YesorNo #SubName?
+And more importantly, do I care what you want?
+(f37d9)
+#StartStroking @StartStroking
+@End
+(Link4)
+So, you're still with me, are you?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoNeutral)
+I think by the end of this session, you'll be begging me to ruin your orgasm. @ResponseYes(ILikeRuiningMyOrgasm)
+To deny you even more. @TempFlag(AVp004)
+Because you're starting to understand how much more pleasurable it is for you to want than to have.
+You're starting to understand how this relationship works. 
+@NullResponse @DeleteFlag(AVp004)
+#StartStroking @StartStroking
+@End

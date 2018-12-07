@@ -1,0 +1,374 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModAud3_NotFirstTime)
+@NullResponse @SetVar[AV_ModAud3]=[0] 
+@NullResponse @SetFlag(AV_ModAud3_NotFirstTime)
+(AV_ModAud3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModAud3]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModAud3]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModAud3]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModAud3]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModAud3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModAud3]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModAud3]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModAud3]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModAud3]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModAud3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModAud3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModAud3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModAud3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModAud3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModAud3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModAud3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModAud3]=[AV_ModAud3]+[1]
+@NullResponse @Goto(Module1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModAud3]=[AV_ModAud3]+[10]
+@NullResponse @Goto(Module2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModAud3]=[AV_ModAud3]+[100]
+@NullResponse @Goto(Module3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModAud3]=[AV_ModAud3]+[1000]
+@NullResponse @Goto(Module4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModAud3]=[0]
+@NullResponse @RandomModule
+@End
+(Module1)
+@Stroking #Stop @StopStroking
+I can be a little kinky you know, and we may end up in a threesome at some point.
+So, I want you to meet some candidates.
+But don't you dare cum on them or you will lose and never get your hands on me.
+The first person I want you to meet is #Contact3 @AddContact3
+@Contact3 Hi
+She may look nice, but believe me, she can be cruel.
+#Contact3 really knows how to work me.
+She works me so hard I beg her for mercy. 
+And you will too.
+Give #Contact3 100 strokes before you continue. 
+Stop as often as you need to, but do NOT edge.
+@Contact3 Just take your time and do all 100. 
+@Contact3 Tell me when you are done
+@Contact3 Go ahead #SubName, #Stroke for me
+[done, yes, ready, Done, Ready, Yes Mistress, Yes] @Contact3 Frustrating, isn't it?
+@DifferentAnswer @Contact3 Are you done #SubName?
+To show you how much pain #Contact3 causes me
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+@Flag(av_fetish_pain) I want you to put 2 clothespins on your #Balls. @Wait(15)
+Make those ball ache!
+Now you are going to beg #Contact3 for mercy, just like I do.
+@Contact3 #KneelForMe
+@Contact3 #HowAreYourBallsFeeling
+@Contact3 Why don't you massage them a little while you give me 25 strokes.
+@Contact3 When you're done, let go of your cock 
+@Contact3 Remember, no cumming. @Wait(15)
+@NullResponse @RemoveContact3
+You can sit now #PetName
+Say hello to #Contact2.
+@NullResponse @AddContact2
+#Contact3 trains her too and there is not an ounce of fat on her.
+Imagine cumming all over her stomach!
+#Contact2 has one of the tightest pussies around but she likes to be fucked slow and deep.
+If you think you can handle her...
+@Contact2 #Stroke your #Cock #RandomRound10(50, 70) times and imagine sliding your cock betwen those sweaty cheeks. 
+@Contact2 If you feel like you won't make it
+@Contact2 release your cock, rest 10-15 seconds, and resume.
+@Contact2 When you finish, take a few deep breaths, and calm down a bit.
+#Contact2 loves to be fucked doggy style, slowly and deeply.
+@Contact2 Imagine you are kneeling behind me, with the head of your cock against my tight, wet pussy.
+@Contact2 Now, give me 25 excruciatingly slow strokes, 
+@Contact2 from the root all the way up and over the head of your throbbing cock, then back down again 
+@Contact2 Each stroke should take at least 5 seconds. 
+@Contact2 If you lose control, stop, and smack your balls hard 10 times as punishment.
+@Contact2 Then continue until you do all 25. 
+This is a real test of your control.
+#Contact3 makes #Contact2 run intervals every day until she is ready to collapse.
+Now you are going to do some intervals for #Contact2.
+You will pump your cock 40 times as fast as you can.
+Then rest for a count of 5. @TempFlag(av_intera_008)
+@Contact2 Ready?
+@Contact2 Go @PlayAudio[tease\bite.mp3] 
+@Contact2 #StopStroking
+@Contact2 Again. @PlayAudio[tease\bite.mp3] 
+@Contact2 #StopStroking
+@Contact2 Again. @PlayAudio[tease\bite.mp3] 
+@Contact2 #StopStroking
+@Contact2 More. @PlayAudio[tease\bite.mp3] 
+@Contact2 #StopStroking
+@Contact2 More. @PlayAudio[tease\bite.mp3] 
+@Contact2 #StopStroking
+Are you still hanging in there? @DeleteFlag(av_intera_008)
+I told you this would be #Difficult. @RemoveContact2
+@Flag(AV_Know_12) @NullResponse @Goto(AYME_Crush)
+@NullResponse @Goto(AYME_Crush_Skip)
+(AYME_Crush)
+Give #Var[AV_Persona13] 100 strokes  @ShowImage[av_imagens\01\*.jpg]  @PlayAudio[tease\cStroke.mp3] 
+She has one of the nicest bodies I have ever seen. @ShowImage[av_imagens\01\*.jpg] 
+If you feel like you are going to cum, I want you to stop stroking @ShowImage[av_imagens\01\*.jpg] 
+but hold the edge. @ShowImage[av_imagens\01\*.jpg] 
+Don't cum, just hold the edge until time is up. @ShowImage[av_imagens\01\*.jpg] 
+#StopStroking
+God I am getting hot. 
+I love seeing you squirm in agony.
+I started playing with my tits while you were jerking off for #Var[AV_Persona13].
+Now give me 20 fast strokes @Wait(10)
+(AYME_Crush_Skip)
+@Flag(AV_Know_00) @NullResponse @Goto(AYME_Actress)
+@NullResponse @Goto(AYME_Actress_Skip)
+(AYME_Actress)
+Give #Var[AV_Persona01] long, slow strokes until I say to stop. @ShowImage[av_imagens\02\*.jpg] @PlayAudio[tease\cStroke.mp3] 
+Like the ones you did for #Contact2. @ShowImage[av_imagens\02\*.jpg]
+Stay in control. @ShowImage[av_imagens\02\*.jpg]
+I know you want to speed up, but don't. @ShowImage[av_imagens\02\*.jpg]
+If you feel like you are going to cum, slow down even more, but don't stop. @ShowImage[av_imagens\02\*.jpg]
+And don't cum. @ShowImage[av_imagens\02\*.jpg]
+#Var[AV_Persona01] looks good, but I look better right? @ShowImage[av_imagens\02\*.jpg]
+Are you sweating from the effort?  @ShowImage[av_imagens\02\*.jpg]
+Is you #Cock throbbing? @ShowImage[av_imagens\02\*.jpg]
+I told you this would be tough @ShowImage[av_imagens\02\*.jpg]
+#StopStroking
+(AYME_Actress_Skip)
+#Contact1
+Remember those intervals you did for #Contact2?
+Now I want some.
+If you have to stop, squeeze your balls as hard as you can until you can continue. @TempFlag(av_intera_009)
+Ready?
+Go @PlayAudio[tease\bite.mp3] 
+#StopStroking
+@PlayAudio[tease\bite.mp3] 
+#StopStroking
+@PlayAudio[tease\bite.mp3] 
+#StopStroking
+@PlayAudio[tease\bite.mp3] 
+#StopStroking
+@PlayAudio[tease\bite.mp3] 
+#StopStroking	
+And Finished! @DeleteFlag(av_intera_009)
+How tough was that?
+Feel free to cool off a bit.
+You will need all your endurance and control.
+@End
+(Module2)
+@Stroking #Stop @StopStroking
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Don't worry.  I won't hurt you.  
+Not too much, anyway
+Why don't you start stroking for me?  @PlayAudio[tease\cStroke.mp3] 
+@NotFlag(av_fetish_pain) @NullResponse @Goto(Skip1789)
+I think it's time for a little pain @Wait(10)
+Put a clothespin on each nipple. @Wait(20)
+Don't stop the #Stroking @TempFlag(av_intera_010)
+Now, put 2 clothespins on your #Balls. @Wait(20)
+#KeepStroking
+Put another clothespin on your #Balls. @Wait(20)
+You are not alowed to edge yet
+Put another clothespin on your #Balls. @Wait(20)
+(Skip1789)
+#KneelForMe @Wait(10)
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+@Flag(av_fetish_pain) You can sit and remove the clothespins
+@NotFlag(av_fetish_pain) You can sit now
+Go ahead and rub your balls a little while I tell you about the next test.
+You're going to do a 5 rung edge ladder, with nutcrackers.
+The way it works is, for each rung of the ladder, you do an edge
+and an inverse number of ball strikes. 
+So, on the first rung, you do one edge, and smash your balls 5 times.  
+The second rung is 2 edges, then 4 ball smashes.  
+Then 3 and 3.  All the way to 5
+It may not sound hard, but believe me, this will have you begging for #Mercy.
+#StartStroking 
+Rung 1 is coming up.
+#Edge @EdgeNoHold
+Hit your #Balls with the spoon, 5 times.
+HARD @Wait(10)
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+smash your #Balls 4 times
+See the way this works. @Wait(10)
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+Now thump your balls 3 times with the spoon.
+@RandomText(Each rung will make your frustration more potent, This is what you wanted, so take it!)
+@Flag(AV_DommeMistress) If you are not groaning in pain, you are not hitting hard enough
+#Edge @EdgeNoHold @MultipleEdges(4, 10, 100)
+And smash your #Balls 2 times. @Wait(10)
+@RandomText(You know you love the feeling so accept it, Each rung - more Edges)
+#Edge @EdgeNoHold @MultipleEdges(5, 10, 100)
+Now smash your balls as hard as you can 
+Just once. But make it count.
+Are you ok?  
+@NotFlag(av_fetish_pain) @NullResponse @Goto(Skip6238)
+Ready to head back down the ladder?
+Ooh.  You didn't know you had to go down the ladder too?
+You didn't think I was going to leave you up there, did you? @Wait(10)
+#Edge @EdgeNoHold @MultipleEdges(5, 10, 100)
+punch your #Balls. @Wait(10)
+#Edge @EdgeNoHold @MultipleEdges(4, 10, 100)
+and smash your balls twice @Wait(10)
+@RandomText(We both know, deep down you love this game, Imagine my knee driving into them)
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+Now thump your balls 3 times with the spoon. 
+You're almost done
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+and whack your nuts 4 times
+HARD.
+#Edge @EdgeNoHold
+smash your balls 5 times to complete the ladder. @Wait(10)
+(Skip6238)
+I'm really proud of you.  @DeleteFlag(av_intera_010)
+@RandomText(Not many men make it through that edge ladder, Take a deep breath your climbing is over)
+I think you deserve a little rest.  @Wait(20)
+@End
+(Module3)
+@Stroking #Stop @StopStroking
+Having total control over a man 
+makes my nipples tingle and my #Pussy drip
+And the best way to #Control a man 
+is by controlling his cock and his balls
+@NotFlag(av_fetish_pain) @NullResponse @Goto(52ge4)
+@NotFlag(AV_DommeMistress) Before we begin, you need a few things:
+@NotFlag(AV_DommeMistress) A heavy spoon, at least a big tablespoon, and preferably something even heavier
+@NotFlag(AV_DommeMistress) Clothespins @SetFlag(AV_PinDone)
+@NotFlag(AV_DommeMistress) and complete obedience
+@NotFlag(AV_DommeMistress) Go get it @Wait(20)	
+(52ge4)
+I want to see what kind of endurance you have
+#StartStroking
+Let's try some beats @PlayAudio[tease\b120.mp3] 
+fast  @PlayAudio[tease\b180.mp3] @Wait(08)
+And slow @PlayAudio[tease\b075.mp3] 
+@NotFlag(av_fetish_pain) @NullResponse  @Goto(NoMoreNuts)
+Get your spoon out. @TempFlag(av_intera_011)
+Now place your tied up balls in the palm of your non-dominant hand.
+I'll bet you know what's coming next.
+You are going to learn to fear that spoon!
+Now smack those nuts to the beat! @PlayAudio[tease\b055.mp3] 
+Show me how tough you are.
+Remember, the harder you hit them, the wetter I get
+You're getting me so fucking horny!
+You are going to have to do some edges for me.
+You'll also work those balls over a little.
+#Edge @EdgeNoHold
+@CBTBalls
+#Edge @EdgeNoHold
+@CBTBalls
+#Edge @EdgeNoHold
+@CBTBalls
+@NullResponse @Chance50(Nuts2)
+Grab your nuts in one hand,.
+While you stroke, you will squeeze and release your balls repeatedly.
+Hard squeeze, then release, hard squeeze, then release.
+#StartStroking @Wait(10)
+Like a heartbeat. @Wait(10)
+#KeepStroking @Wait(10)
+#StopStroking @Goto(NoMoreNuts)
+(Nuts2)		
+you will stroke to the beat.
+But on every 4th Stroke, you must smack your balls with the spoon.
+#StartStrokingNS @PlayAudio[tease\b120.mp3] 
+fast  @PlayAudio[tease\b180.mp3] @Wait(08)
+And slow @PlayAudio[tease\b075.mp3] 
+Make them ache for me. @DeleteFlag(av_intera_011)
+(NoMoreNuts)	
+#StopStroking 		
+If you think it's been tough so far, you are in for a surprise
+So I need to make sure you are man enough for me.  
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+@CustomTask(AV_TaskPins)
+I almost feel sorry for you
+@CustomTask(AV_TaskPins)
+How are you feeling #PetName?
+#ThatsEnough
+You can remove the clothespins now
+@End
+(Module4)
+@Stroking #Stop @StopStroking
+We both know you love being controlled by me...
+and your #Balls are #Aching too, aren't they. 
+Well I can't leave them out can I?
+#StartStroking
+Mmmmmm.....thats it. Keep #Stroking that #Cock for me.
+I want you to get that dick @RandomText(nice and erect for me, as hard as you can get it)
+@Flag(av_fetish_cei) while you think about ALL the times and ALL the different ways you've gobbled up your own boysauce.
+@Flag(av_fetish_cei) And that doesn't even count all the times you chickened out 
+@Flag(av_fetish_cei) like a pussy after you came and couldnt follow through, right? 		
+Spread those knees while you #Stroke that #Cock for your #Owner.
+Not bad, #PetName. 
+#StopStroking 
+I knew because you were here
+@CockSmall that you weren't gonna be exactly packing huge meat, so 
+I was prepared to be unimpressed.
+But thats not bad. 
+#StartStroking
+Don't stop #Stroking.
+Don't slow down.
+Don't EDGE.
+Don't CUM.
+Are you stroking? I hope you are. 
+It would be shame to see me and not be allowed to #Stroke.
+Worship your #Owner.
+Are you getting there?
+Either way, its time to spank those balls and...
+#StopStroking 
+@CBTBalls
+How are those #Balls feeling?
+I haven't been too rough on them have they? 
+@RandomText(I dont want to hurt you, Those balls of yours are precious to you and to ME) 
+Without them who would I have to #Stroke
+@Flag(av_fetish_cei) and SWALLOW for me.
+I do hope you were able to #Stroke through that. #Lol
+Go ahead and massage those wounded nuts while you stroke yourself hard. @PlayAudio[tease\cStroke.mp3] 
+Make sure that #Cock is nice and #Wet just how i like it.
+Time for another EDGE, #PetName. @EdgeNoHold
+Take a break ... @FollowUp50(but I want that dick just about ready to POP before you)
+How are those #Balls? @FollowUp50(Feeling full yet?)
+Do you think you've got a big enough load in those #Balls?
+I think you need to give me an edge for me. Do it NOW.  @EdgeNoHold
+Careful there, baby.
+All that CUM is for your #Owner, remember? 
+@Flag(av_fetish_cei) And your mouth of course.
+#Edge  @EdgeNoHold
+How is all that #CumNoun? 
+@Flag(av_fetish_cei) Salty? Bitter? Creamy? Thick? Lick your lips while waiting that edge fade away. 
+@Flag(av_fetish_cei) Get those last remnants like the naughty cum slut you are.
+Can you take a last round? @FollowUp(I dont care) 
+Go ahead and #Stroke that #Cock hard and fast for me right now.  @PlayAudio[tease\cStroke.mp3] 
+Stare at my beautiful eyes, my lips...
+Go ahead.....get to the edge one last time and... @EdgeNoHold
+I am so wet and worked up just thinking about this 
+I am going to get my vibrator and have some "me" time soon. 
+@End

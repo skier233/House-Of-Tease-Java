@@ -1,0 +1,382 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral7_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral7]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral7_NotFirstTime)
+(AV_ModGeneral7_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral7]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral7]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral7]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral7]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral7]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral7]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral7]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral7]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral7]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral7]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral7]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral7]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral7]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral7]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral7]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral7]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral7]=[AV_ModGeneral7]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral7]=[AV_ModGeneral7]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral7]=[AV_ModGeneral7]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral7]=[AV_ModGeneral7]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral7]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+God damn it...
+you're still hard, shouldn't you go soft from being exposed like this? 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+@Flag(av_fetish_rough) PERVERT...you're still fucking hard. 
+No, no no...don't move, let me...let me do this.
+Have you gotten past the point where your balls tingle all time?
+@RT(Where you can't sleep at night because you can't take your mind off the sensations coursing through your cock and your balls, Where you have to squeeze your legs together in an attempt to find some relief)?
+Or, do they still beg to be emptied? 
+@RT(Do you long to spend some time where your cock and balls are not the center of your life, Would you like to go back to a time where you didn't have to touch it all the time)?
+If told to submit to a chastity tube, would it be a relief?
+But, you can't learn discipline in a chastity device.
+You can't learn @RT(to control yourself if you don't touch yourself, what frustration means if you're not masturbating)
+Can you, #PetName? 
+#StartStroking
+You're only allowed to cum WHEN I SAY SO
+this is just like me jacking you off...
+just...HARDER...squeezing harder, and harder...oh this hurts doesn't it? 
+Having your cock squeezed this hard, your balls in my fist. 
+Do you want me to rip them off? 
+No?
+#StopStroking
+@Flag(av_fetish_pain) Put 2 clothespins on your nipples @Wait(20)
+@Flag(av_fetish_pain) And 4 on your balls @Wait(20)
+show me that horny cock of yours. 
+mmmm....why don't you pose for me a little? 
+@Flag(av_fetish_rough) I know you're a pervert. Pretend youre a nasty porn stud...
+Stand up
+yesss...good boy...
+@Flag(AV_LikeAnal) turn around...yesss @Goto(gofour)
+turn around...yesss @Goto(NOgofour)
+(gofour)
+Go get some lube #SubName @Wait(25)
+Mmmm...why don't you get on all fours for me...
+yess....mmm...good boy...
+shhh...don't turn around.
+Lube your middle finger @Wait(20)
+rub yourself sensually
+Get your entire ass lubed, and rub it firmly. 
+Start to rub in between your cheeks, too. 
+Does it feel good when your fingers run over your asshole? @Wait(20)
+Ohhhh yesss, push it in! 
+yess get it in...get it in...
+stuff it all the way in his ass...
+mmmmmmmm....
+Nice and slow, be gentle with it...mmm...
+@Flag(av_fetish_rough) just take it like a faggot, pretend its a real cock up your ass....
+good boy....that's it, get assfucked for me. 
+Take it up that tight little boy ass.
+Mmmmm...yess...HARDER...do it harder! 
+I know you like it. 
+Don't pretend you don't...
+God... your cock looks so delicious bouncing around as you take in your ass. 
+@Flag(av_fetish_rough) Such a sexy faggot cock bouncing as you get assfucked 
+moan for me...yess...
+deeper, deeper strokes
+get in that ass DEEP! 
+take it...
+good boy
+You can stop now
+go clean yourself @Wait(25)
+(NOgofour)
+#KneelForMe
+you're afraid of cumming, though, aren't you, #PetName?
+#StartStroking
+you already feel yourself approaching the danger zone, don't you?
+I can hear it in the moans that are escaping from your throat.
+I know you're struggling.
+But, struggling makes you stronger.
+Doesn't it? 
+I have to warn you, #PetName.
+We're about to take a very intense run at it.
+This time it's going to be really tough. 
+Hey, what's that glistening on the end of your spew stick?
+Is it...could it be...Yes! It's precum.
+#StopStroking
+@Flag(av_fetish_cei) Wipe it all up and eat it like a good little #PetName. 
+@Flag(av_fetish_cei) Was it yummy? I hope so. 
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+you see, We must bring Our lesson to a proper close.
+So far, you have learned a great deal about @RT(control, discipline)
+So far, you have learned a great deal about frustration.
+But, there is one last lesson that you need to learn, #PetName.
+Stroke as slowly as you can until I say to stop. @PlayAudio[tease\cStroke.mp3] 
+Do not approach the edge. @Wait(20)
+Now stop stroking. @PlayAudio[tease\cStop.mp3] 
+But, keep your fingers and hand wrapped around your #Cock.
+What do you notice?
+The heat.
+What else?
+you want to stroke it again, don't you?
+OK, go ahead and stroke it slowly until I say to stop. @PlayAudio[tease\cStroke.mp3] 
+Keep stroking.
+What do you notice?
+you want to stroke faster?
+OK, go ahead and stroke it faster. 
+Now what do you notice?
+The edge.
+Oh, even after all the edging you've done, you want to edge again?
+OK, go ahead and edge again. @Edge
+Mmmm...that edge is sweet, isn't it, #PetName.
+What do you want, now?
+I knew the answer.
+you want to cum.
+No.
+Take your hands off and put them on your head. 
+Notice anything in common there?
+It was always about what YOU wanted, wasn't it?
+you wanted to stroke it. you wanted to stroke it faster. you wanted to edge it.
+you NEVER said ANYTHING about what I want.
+But, Who gave you the permission to do those things?
+Very good. I did.
+I am the Mistress, #PetName. 
+And, in the end, you wanted to cum.
+But, did you get to cum?
+No.
+Why?
+Because I said, No.
+Tell Me Who really matters, #PetName. 
+@Flag(av_fetish_pain) You can remove all clothespins
+#SitDown
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+You've been such a good obedient boy. 
+I think you deserve a little treat. @ShowImage[av_imagens\01\*.jpg] 
+#StartStroking @ShowImage[av_imagens\01\*.jpg] 
+I know you perv on her  @ShowImage[av_imagens\01\*.jpg] 
+I know you're a dirty pervert.  @ShowImage[av_imagens\01\*.jpg] 
+I know you #Stroke to her. @ShowImage[av_imagens\01\*.jpg]  
+I know you use her as porn.  @ShowImage[av_imagens\01\*.jpg] 
+And you don't even have any porn of her, do you?  @ShowImage[av_imagens\01\*.jpg] 
+But you want some. I know.  @ShowImage[av_imagens\01\*.jpg] 
+You cover your cock with slippery lube @ShowImage[av_imagens\01\*.jpg] 
+@RT(and wrap your fist tight around it, and pump nice and strong)  @ShowImage[av_imagens\01\*.jpg] 
+And you look at pictures of her, don't you?  @ShowImage[av_imagens\01\*.jpg] 
+I know you do. Pictures of her in cute little dresses   @ShowImage[av_imagens\01\*.jpg] 
+and you stroke really hard, looking at how tight they fit her   @ShowImage[av_imagens\01\*.jpg] 
+how snug they squeeze her tits  @ShowImage[av_imagens\01\*.jpg] 
+and her @RT(hips, butt)  @ShowImage[av_imagens\01\*.jpg] 
+You like to look at her cute bubble butt, huh?  @ShowImage[av_imagens\01\*.jpg] 
+It's OK  @ShowImage[av_imagens\01\*.jpg]  
+And I love knowing that you use her as porn.  @ShowImage[av_imagens\01\*.jpg] 
+She is @RT(not a porn star, just a normal girl) @ShowImage[av_imagens\01\*.jpg] 
+She is not even naked ... and you #Stroke to her.  @ShowImage[av_imagens\01\*.jpg] 
+Well ... I guess she is almost naked.  @ShowImage[av_imagens\01\*.jpg] 
+You found bikini pics of her too, didn't you? @ShowImage[av_imagens\01\*.jpg] 
+Does it make you stroke extra hard when you see so much of her body exposed?  @ShowImage[av_imagens\01\*.jpg] 
+Just a few inches of silky fabric covering her skin.  @ShowImage[av_imagens\01\*.jpg] 
+#StopStroking 
+Can you believe she go out in public like that in skimpy bikinis? 
+And pose for pictures that you can #Stroke to? 
+I wanna know exactly how you @RT(pump, jack) it
+and exactly how you squeeze it and rub it with your thumb. 
+#StartStroking @ShowImage[av_imagens\01\*.jpg] 
+I wanna be able make it so perfect that if you close your eyes, you can't tell if it's your hand or her. @ShowImage[av_imagens\01\*.jpg] 
+Show me @RT(what you do when you look at her in her bikini, your #Cock, how thick and strong you can make it, how pretty your cock can get when it's all slippery and shiny with lube) @ShowImage[av_imagens\01\*.jpg] 
+Grip it nice and tight so you can show me your precum. @ShowImage[av_imagens\01\*.jpg] 
+Tighter ... make it tighter, baby. @ShowImage[av_imagens\01\*.jpg] 
+Is that what you do? @ShowImage[av_imagens\01\*.jpg] 
+Squeeze as tight as you can with your fist and let your fingers bump up against the base of your cock-head? @ShowImage[av_imagens\01\*.jpg] 
+I love how shiny and purple the head of your cock gets when you squeeze it. @ShowImage[av_imagens\01\*.jpg] 
+Tighten your grip ... tighten your grip and give me your precum. @ShowImage[av_imagens\01\*.jpg] 
+Look at @RT(her, pictures of her almost-naked body) and #Stroke to her @ShowImage[av_imagens\01\*.jpg] 
+and make yourself feel good. @ShowImage[av_imagens\01\*.jpg] 
+#Edge @Edge @ShowImage[av_imagens\01\*.jpg] 
+I wanna tease the cum outta your #Cock. 
+I know that's what you want. 
+And I know how you want me to do it. 
+It's OK, baby  
+perv on her. @ShowImage[av_imagens\01\*.jpg] 
+your balls are so tight with your hot sticky cum
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+Oh, you're getting goosebumps, standing there all naked like that... 
+Showing off your body while I'm just sitting here, enjoying the view
+I almost feel bad for you.
+Almost.
+#KneelForMe
+That feels more natural, doesn't it? 
+On your knees on the hard wooden floor, ass on ankles, looking up at me with your hands behind your back. 
+And  you're getting so hard just waiting for another command. 
+Begging with your eyes.
+You're lucky I'm a merciful goddess. 
+You don't just have to sit there and watch 
+but it needs more desperation.
+#StartStroking
+Such a good boy, so obedient... you get a reward.
+I love looking down at you like this... so desperate 
+I'm going to give it to you a reward
+#Edge @Edge 
+you're not actually in control here. Are you?
+Who wants to be a good boy now? #Lol
+Oh, you do? I hope so, because I'm going to pull harder. 
+If you serve your goddess well, maybe I'll let you edge again soon.
+#StartStroking
+Do you want me to play with this #Cock, pressing into my ass?
+Would you like it if I squeezed those big, heavy balls of yours?
+What if I dig my fingernails into your balls, just lightly?
+damn, they sure do make your cock seem huge don't they? 
+Is that what you're thinking about? 
+You do seem to be enjoying it this way though, sweetie...  
+though you are shaking a bit.. your eyes seem.. hmmm.. strained 
+#Edge @Edge 
+@NotFlag(av_fetish_pain) @NullResponse @Goto(skippain451)
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+It's time for some clothespin art!
+take two of the clothespins and place one on each of your nipples for me. @Wait(15)
+Let the clothespin bite into you. 
+Mmmmm....yesssss. 
+Poor, poor baby. Why do you let me hurt you so?
+Place your hands to the clothespins and twist each around clockwise.  @Wait(15)
+Oooooooh.....fuck, that hurts doesn't it?!!
+Such a compliant one, you are! 
+I'm so proud of you...
+That's enough.
+I want you to take four and attach them to your balls. 
+Decorate however you wish, so long as all four are somewhere on your swollen, full, tight testicles.
+Get on your knees and look up at me, darling boy. @Wait(15)
+#StartStroking
+A boy on his knees is a gorgeous thing to witness.
+A boy objectified and used for my amusement is even more splendid. @Wait(15)
+#StopStroking
+Take the spoon  @TempFlag(av_intera_004)
+Now strike the spoon against your balls. Make sure you tap it over the clothespins. 
+Hit each clothespin 5 times. @PlayAudio[tease\Spank5.mp3]  @Wait(12)
+Harder. @PlayAudio[tease\Spank5.mp3]  @Wait(12)
+Harder still. @PlayAudio[tease\Spank5.mp3]  @Wait(12) 
+Hit the clothespins. 1-2-3-4-5.  @PlayAudio[tease\Spank5.mp3]  @Wait(12)
+Mmmmmmmmmm......
+Such beautiful music you make! 
+I've got to admit...hurting you, hitting you...all of this truly excites me. 
+My sweet #PetName is so slick right now. 
+#Edge @Edge 
+Close your eyes, slut! @DeleteFlag(av_intera_004)
+Keeping your eyes closed, remove each of the clothespins from your balls and your nipples. @Wait(15)
+Run your forefinger and middle finger up and down the shaft...sooth that ache, baby.
+Caress your balls too...they've suffered quite a bit today. @Wait(15)
+(skippain451)
+#SitDown
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+Now.. you'll do exactly as I tell you to
+@Flag(av_fetish_cei) and if you're a good slut, I might just let you swallow your load right away instead of playing with it first.. #Lol
+First.. I wanna se that cock of yours
+#KneelForMe with your legs apart.
+why are you so hard #PetName? 
+do you like this?
+lift your cock and show me your balls
+mm... looks really full of cum 
+@Flag(av_fetish_cei) I hope you're hungry #EmoteLaugh
+Pull back your foreskin to show me the tip of your cock, and then let it go.
+it will take a while until you get to touch it again
+@Flag(AV_LikeAnal) When you are fucking your ass, you get to play with it again 
+I need to ask you something. 
+It's really important for what I have in mind.
+and please answer honestly.
+@NotFlag(AV_LikeAnal) Just this once,
+So how about it, will you take it up the ass for me?
+[yes] Great. Cause we will start with that pretty soon.
+[no] No? That is really too bad. @MoodDown @Goto(skipAnal34)
+@DifferentAnswer #YesorNo #SubName?
+Go get some lube... @Wait(20)
+I hope you're up for a challenge..  
+well.. actually you have no choice... hehe
+It's time to get down to business..  
+turn around and stand on all fours, with your legs wide apart.
+I want the tip of your cock to brush against the sheets.. teasing it.
+Now show me your asshole.. 
+spread your cheeks with your hands and let me se it..
+make yourself comfortable, you'll be there for a while. hehe
+lube up your middle finger.... 
+and reach around your back and slowly massage your asshole for me.
+make it really wet and ready.
+Now.. slide that finger in all the way to the knuckle and let it be inside you for a while. 
+Look at me
+do you feel like a slut now?
+Put a little bit of pressure on it @Wait(10)
+do you feel good my slut? 
+#SubName...
+Push it inside, but no more than 1 inch
+Hold it there #SubName, think about me and my strapon 
+Take it out again
+And push it back in, deeper than before
+#EmoteMoan just feel that cock inside of your ass
+Pull it out... @Wait(8)
+And slide it in again
+Deeper #SubName @Wait(5)
+Even deeper, as deep as you can now
+God that's hot 
+Do you like having your ass fucked?
+I can se some precum glistening on the tip of your cock
+@Flag(av_fetish_cei) use your finger to scoop it up and taste it.
+@Flag(av_fetish_cei) I hope you enjoyed the taste, cuz you'll get a lot more in a while. 
+Now slut... 
+#KneelForMe
+I want you to start massaging the tip of your cock with some lube.
+stroke it the same pace you fucking your ass. @PlayAudio[tease\b075.mp3] @Goto(Logica)
+(skipAnal34)
+I want you to start massaging the tip of your cock with some lube.
+#StartStroking 
+(Logica)
+Good boy...
+you are right! 
+Ass shows are the best!
+#StopStroking
+#SitDown and clean yourself up @Wait(20)
+@End

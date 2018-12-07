@@ -1,0 +1,126 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link4_NotFirstTime)
+@NullResponse @SetVar[AV_Link4]=[0] 
+@NullResponse @SetFlag(AV_Link4_NotFirstTime)
+(AV_Link4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link4]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link4]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link4]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link4]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link4]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link4]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link4]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link4]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link4]=[AV_Link4]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link4]=[AV_Link4]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link4]=[AV_Link4]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link4]=[AV_Link4]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link4]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+@NullResponse @CheckFlag(AV_Know_03_NOTREADY)
+@NullResponse @CheckFlag(AV_Know_03)
+#TellMe
+Who is your favourite Pornstar? @InputVar[AV_Persona04]
+I'll make sure to use that against you later #EmoteSquirm @SetFlag(AV_Know_03)
+@SystemMessage Get 1 #Var[AV_Persona04] video and 10 pictures and put in the folder TeaseAI\Images\av_imagens\04\ @SetFlag(AV_Know_03_NOTREADY)
+#StartStroking @StartStroking
+@End
+(AV_Know_03_NOTREADY)
+(AV_Know_03)
+@NullResponse @CheckFlag(av_basic_position)
+#secondtime
+#StartStroking @StartStroking
+@End
+(av_basic_position)
+You will now get into the Basic Position  @ShowImage[av_imagens\02.jpg] @LockImages
+and wait until you hear a stroking beat. 
+Stroke to the beat and return when it stops. @UnlockImages
+#StartStroking @StartStroking
+@End
+(Link2)
+@NullResponse @CheckFlag(av_quest_done)
+#secondtime
+#StartStroking @StartStroking
+@End
+(av_quest_done)
+I'm about to make you start stroking again
+Right now #Lol @StartStroking
+@End
+(Link3)
+Today maybe I will teach you how to release all that saved-up cum from your #Balls properly
+We will learn the Ruined Orgasm correctly.
+I will tease my toy into a state where the cum simply spills over and flows out smoothly.
+You will completely relax and let go completely. @CheckFlag(AV_Know_22)
+Would you prefer to be milked or let your balls get blued? @SetFlag(AV_Know_22)
+[milked, milk] #EmoteLaugh @SetFlag(AV_Persona32a)
+[blue balls, blued, denied] #EmoteLaugh @SetFlag(AV_Persona32b)
+@DifferentAnswer milked or blued #PetName?
+#StartStroking @StartStroking
+@End
+(AV_Know_22)
+I know, the "Ruined Release" is not easy 
+so don't be disappointed if you can't achieve it today. 
+We will keep practising. 
+#StartStroking @StartStroking
+@End
+(Link4)
+In just a matter of days you will be in a state of near constant arousal.
+The sexual tension will be so thick that you will do anything to please me.  @CustomTask(AV_StrokeNumber)
+Every night I will make you lick me to orgasm after orgasm as your cock strains against its bondage
+and for the time being you will relish my position of authority over you 
+and the excitement you feel from being so turned on but not allowed to climax. 
+#StartStroking @StartStroking
+@End

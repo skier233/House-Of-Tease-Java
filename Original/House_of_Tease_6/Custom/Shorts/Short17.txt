@@ -1,0 +1,28 @@
+So tell me #PetName... What do you want more right now?
+Make your cock happy and have a big satisfying orgasm..
+Or make me happy and obey my every wish?
+[cum, orgasm] Oh....so sad... @MoodDown
+[obey, you, wish] Wise choice #PetName.. @MoodUp
+@DifferentAnswer Do you want to cum or make me happy #SubName?
+You are my property! don't you dare to ever forget that!
+@NotFlag(AV_TotalControl) @NullResponse @Goto(Quest1)
+@Flag(AV_TotalControl) @NullResponse @Goto(Quest2)
+(Quest1)
+You will never ever orgasm without my allowance ever again..slave?
+[yes] Really? @CallReturn(Custom\CallReturn\AV_TotalControl.txt)
+[no] Are you afraid of me or something? #Lol
+@DifferentAnswer #YesorNo #SubName?
+@NullResponse @Goto(QuestEnd)
+(Quest2)
+You will never ever orgasm without my allowance ever again..right slave?
+[yes] #GoodBoy @Goto(QuestEnd)
+[no] #OhNo
+@DifferentAnswer #YesorNo #SubName?
+You have to learn that your orgasms are not yours, #PetName
+I own your orgasm, and I decide when you get to cum, do you understand that?
+[yes] Good
+[no] Well you better fucking get it between your ears, because that's the way it is
+@DifferentAnswer #YesOrNo
+(QuestEnd)
+@NullResponse
+@End

@@ -1,0 +1,42 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+<i>Any</i>thing? Hmmm...
+Let me test that. @Goto(HoldEdge, kneel, Basic, Stand, MuEdge, slave)
+(MuEdge)
+You will edge you over and over again continuously, without any breaks.
+#Edge @Edge
+#LetTheEdgeFade
+Let's see if I can reach that point #Grin @GotoDommeApathy
+(ApathyLevel5)
+#Edge @Edge
+And another one right away @Edge
+(ApathyLevel4)
+#Edge @Edge
+(ApathyLevel3)
+#Edge @Edge
+(ApathyLevel2)
+#Edge @Edge
+(ApathyLevel1)
+#Edge @Edge
+Enough #Slave
+@End
+(HoldEdge)
+I will keep you #Writhing #NearTheEdge continuously, without any breaks, for a while #Grin
+#Edge @EdgeHold wait(60)
+@End
+(kneel)
+You know what I find #Hot?
+Seeing you kneeling for me! #Grin
+So get on your knees until I tell you to stop @TempFlag(AV_SubKnees)
+@End
+(Basic)
+You will now get into the Basic Position for 5 minutes (check the clock) @ShowImage[av_imagens\02.jpg]  @UnlockImages
+@End
+(Stand)
+You will now get into the Stand Position for 5 minutes (check the clock) @ShowImage[av_imagens\01.jpg]  @UnlockImages
+@End
+(slave)
+@NullResponse @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+@End

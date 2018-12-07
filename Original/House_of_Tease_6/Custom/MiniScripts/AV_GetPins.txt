@@ -1,0 +1,9 @@
+I @RT(want, need) you to @RT(get, fetch) some nipple clamps or clothespins @TempFlag(AV_PinDone)
+a shoelace or similar
+And a spoon or ruler @Wait(15)
+Are you ready to start? 
+[yes, ready, done] Alright #Grin
+[no] Well you should be if you are back on your computer... Slap your cock 5 times and then hurry up
+@AcceptAnswer Yes or no #SubName?
+good
+@End

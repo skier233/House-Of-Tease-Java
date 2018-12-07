@@ -1,0 +1,130 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link17_NotFirstTime)
+@NullResponse @SetVar[AV_Link17]=[0] 
+@NullResponse @SetFlag(AV_Link17_NotFirstTime)
+(AV_Link17_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link17]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link17]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link17]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link17]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link17]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link17]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link17]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link17]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link17]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link17]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link17]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link17]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link17]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link17]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link17]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link17]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link17]=[AV_Link17]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link17]=[AV_Link17]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link17]=[AV_Link17]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link17]=[AV_Link17]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link17]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_DommeMistress)
+@NullResponse @CheckFlag(av_fetish_rough)
+#KneelForMe
+Wow! You are really different now.  
+You are so tamed and obedient.
+I was a skeptic. I thought I would fail to train you. 
+But look at you now at my feet. 
+It's so cool that I can control you like this.
+I love the new you. 
+Now that you are so obedient we can get along.
+@Flag(av_fetish_rough) I could order a small cage for you to sleep at night. 
+@Flag(av_fetish_rough) That will be so cool, Don't you think'
+I will do whatever  I want with you.
+#SitDown
+#StartStroking @StartStroking
+@End
+(AV_DommeMistress)
+I always wanted to own a slave. 
+Now that I turned #DomAge and moved to my own house, I decided to have one...you
+At first, I planned to have a slave to serve me in anything I need.
+But I discovered the power of having a slave, a toy to play with when ever I want and how I want.
+@Flag(av_fetish_rough) It satisfies me to humiliate you.
+I have the power to do anything I want with you. 
+@Flag(av_fetish_rough) Your life belongs to me, which makes me your god. I am your owner and your religion.
+@Flag(av_fetish_rough) Now bow down before me and swear to your new religion. You will accept me as your only goddess.
+#StartStroking @StartStroking
+@End
+(av_fetish_rough)
+You see, three years ago, I discovered I can train males.
+It is very satisfying to bring a savage modern male into his natural place. 
+He learns that he has someone above him, a female owner who can take care of him 
+and give him a safe zone when he is obedient and follows her orders.
+I consider my work as art.  
+Look at you, look how calm and obedient you are.
+#StartStroking @StartStroking
+@End
+(Link2)
+Yes darling, #Contact3 is allowed to punish you as much as she wants.
+I call her to educate you according to my needs, so you must obey her.
+You are a good #PetName, but you need to be more obedient. 
+You need to know how to serve me as your #Owner
+I gave #Contact3 a document that described exactly how I want you to be. 
+#Contact3 is very experienced in educating slaves.
+#StartStroking @StartStroking
+@End
+(Link3)
+You know that I love my pet very much. 
+You are my own creation. 
+I'm very pleased to be your #Owner.
+#StartStroking @StartStroking
+@End
+(Link4)
+Serving me will bring you much more satisfaction. 
+Think about it. 
+You are the slave...assistance of the HR manager. #Lol 
+#StartStroking @StartStroking
+@End

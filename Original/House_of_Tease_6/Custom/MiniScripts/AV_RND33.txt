@@ -1,0 +1,21 @@
+@NullResponse @TempFlag(AV_0RND33)
+@NullResponse @AddContact3
+@FlagOr(av_fetish_rough, av_fetish_humiliating) @NullResponse @Goto(AV_Rough)
+@Contact3 Hey #DomName, just wanted to check how is #SubName ache...
+#Lol
+@Contact3 Keep jerking your cock til you cant take it anymore #SubName. 
+@Contact3 Keep watching and stroking again and again...
+@Contact3 til your dick is sore from being jerked again and again.
+@NullResponse @RemoveContact3
+@End
+(AV_Rough)
+@Contact3 Hey #DomName, just wanted to check how is #SubName ache...
+#Lol
+@Contact3 You just love touching yourself. 
+@Contact3 You love playing with that pathetic cock of yours.
+@Contact3 It's the only thing that truly brings you pleasure.
+@Contact3 You can't stop, you can't stop pumping yourself while being degraded by hot girls.
+@Contact3 It's an endless cycle. 
+@Contact3 And this is it for you. 
+@NullResponse @RemoveContact3
+@End

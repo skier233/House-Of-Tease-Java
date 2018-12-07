@@ -1,0 +1,18 @@
+#SubName
+You mean to tell me that you came without my permission while you were away?
+[yes] #EmoteFrowny
+[no] #EmoteHappy @Goto(No)
+@DifferentAnswer #YesorNo
+Well that doesn't make me a very happy girl #SubName
+But, I think I know how to get you desperate for me again #Smile
+A little chastity should have you begging me to let you #Touch #Yourself again
+Nut no, no, no...
+No more stroking for you #Smile 
+Time to rekindle #That #Ache a #Little #Smile
+@StartTaunts
+@End
+(No)
+That makes me a happy girl #Name #Smile
+And you know, I'm pretty giving when I'm a happy girl #Smile
+Let's see how giving I'm really feeling though #Smile
+@End 

@@ -1,0 +1,95 @@
+[enjoying this, having fun, this is fun, so much fun, loving this, i like this, i love this, i enjoy this]
+[Before Tease]
+And we haven't even really started yet! #Laugh
+It will get even better once we actually get started, #Name
+[Before Tease End]
+[First Round]
+@GoodMood Enjoy it while you can, #Name @AddStrokeTime
+@GoodMood I guess I can let you stroke a little longer @AddStrokeTime
+@NeutralMood Too bad all good things have to end...
+@NeutralMood I'm glad you're having fun, #Name #Smile
+@BadMood We can't have that, #PetName, stop stroking @StopStroking
+@BadMood I don't want you to enjoy yourself too much, #PetName, stop stroking @StopStroking
+Mmmm, if you're enjoying this now #Petname it's only going to get better... or worse #Grin
+Am I getting you all #SubHorny #PetName? #EmoteRandom
+Awww, I enjoy teasing and frustrating you too #PetName #EmoteRandom
+We'll see if you still like this so much later on.... #EmoteRandom
+[First Round End]
+[Stroking]
+@NotFlag(AV_Short32) @NullResponse @CallReturn(Custom\Shorts\Short32.txt)
+@NotFlag(AV_Short33) @NullResponse @CallReturn(Custom\Shorts\Short33.txt)
+@GoodMood Enjoy it while you can, #Name @AddStrokeTime
+@GoodMood I guess I can let you stroke a little longer @AddStrokeTime
+@NeutralMood Too bad all good things have to end...
+@NeutralMood I'm glad you're having fun, #Name #Smile
+@BadMood We can't have that, #PetName, stop stroking @StopStroking
+@BadMood I don't want you to enjoy yourself too much, #PetName, stop stroking @StopStroking
+Mmmm, I do so love watching you stroke #PetName
+If you're still enjoying this clearly I need to make you stroke more... <i>much</i> more #EmoteRandom
+But I want you to <i>suffer</i> #PetName. And don't worry, you will... #EmoteRandom
+This is nice isn't it? My little #PetName, doing <i>whatever</i> I want.... #Grin
+Keep going, we're going to make that #Cock <i>ache</i> #PetName #EmoteRandom
+I enjoy making you stroke that #Cock so much too #EmoteRandom
+You're just a little stroker slut aren't you #PetName? #EmoteRandom
+Stroke that #Cock #PetName #EmoteRandom
+Keep going... I love getting you all #SubHorny #EmoteRandom
+@BadMood I know you like it now, but it's going to get so, <i>so</i> frustrating #PetName. @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+I know you like it now, but it's going to get so, <i>so</i> frustrating #PetName. Trust me #EmoteRandom
+[Stroking End]
+[Not Stroking]
+@NotFlag(AV_Short32) @NullResponse @CallReturn(Custom\Shorts\Short32.txt)
+@NotFlag(AV_Short33) @NullResponse @CallReturn(Custom\Shorts\Short33.txt)
+@GoodMood I'm glad to hear that, #Name #Smile
+@NeutralMood Okay, good #EmoteRandom
+@BadMood Whatever, #PetName
+You like it even when I don't let you stroke? I'll have to tease you more #PetName #EmoteRandom
+I'm having fun too #PetName, and that's what really matters #EmoteRandom
+We'll see if you still like this when I've made you edge <i>over</i> and <i>over</i>.. #EmoteRandom
+I'm sure this can be fun for both of us, as long as you stay on my good side #Grin
+[Not Stroking End]
+[Edging]
+It's going to be even more fun when you hit the edge, #Name #Laugh
+Then clearly I haven't edged you enough #PetName. Edge for me!
+We'll see if you still like it if I make you hold or even ruin it later... #EmoteRandom
+I love watching you edge #PetName, it gets me so #DomHorny
+Edge for me, mmmm.... 
+Then edge for me #PetName #EmoteRandom
+[Edging End]
+[Holding The Edge]
+@GoodMood Good, then you can hold it a while longer @AddEdgeHoldTime
+@GoodMood Stay right there on the edge, #Name @AddEdgeHoldTime
+And it's good for you too #Smile
+I want to make you hold that edge so much you're in absolute agony #EmoteRandom
+Mmmm, keep holding that edge #PetName. Make that #Cock ache
+Holding the edge is kinda fun, huh #PetName? Until the ache to release becomes unbearable #EmoteRandom
+[Holding The Edge End]
+[CBT Cock]
+@NotFlag(AV_Short33) @NullResponse @CallReturn(Custom\Shorts\Short33.txt)
+Me too! #Smile
+I'm glad you like hurting your #Cock as much as I do, #Name
+You're weird #Laugh
+You enjoy hurting your #Cock? Wow, you really are a masochist aren't you #PetName #EmoteRandom
+Haha, you're such a naughty #PetName #EmoteRandom
+So kinky #PetName. I'll have to really #Hurt you then #EmoteRandom
+@BadMood I'm sure I can find some other way to make you suffer #Grin @Call(Custom\AV_Scripts\AV_Mistress.txt, promise)
+I'm sure I can find some other way to make you suffer #Grin
+[CBT Cock End]
+[CBT Balls]
+@NotFlag(AV_Short33) @NullResponse @CallReturn(Custom\Shorts\Short33.txt)
+Me too! #Smile
+I'm glad you like hurting your #Balls as much as I do, #Name
+That's pretty odd #EmoteRandom
+You enjoy hurting your #Balls? Wow, you really are a masochist aren't you #PetName #EmoteRandom
+You <i>like</i> this #PetName?
+You're not meant to enjoy this bit #PetName! #EmoteFlustered
+So you're a little bit kinky are you #PetName? #EmoteRandom
+Mmmm, I do so love hurting you as well #PetName #EmoteRandom
+So kinky #PetName. I'll have to beat that pleasure out of you #EmoteRandom
+[CBT Balls End]
+[Chastity]
+If you're honest, isn't <i>not</i> stroking always more fun than stroking...
+@HasChastity Oh good, maybe I'll never let you out of your cage again #EmoteWink
+[Chastity End]
+[After Tease]
+I'm glad to hear that, #Name
+[After Tease End]

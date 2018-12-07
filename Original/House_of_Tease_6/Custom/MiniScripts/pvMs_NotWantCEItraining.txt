@@ -1,0 +1,11 @@
+I want you to learn to like eating cum @SetFlag(pvNotWantNormal) @DeleteFlag(pvNotWantCEItraining) @ChangeVar[pvCEItraining]=[pvCEItraining]=[1]
+@NullResponse @If[pvCEItraining]>[2]Then(abort training)
+But I guess you're not ready for it #EmoteSad @InterruptsOn @Goto(continue)
+(abort training)
+But it seems it can't convince you #EmoteSad @DeleteFlag(pthevCEITraining) @SetFlag(pthevCEI_No) @DeleteFlag(av_fetish_cei)
+So I won't bother you with it again
+Although who knows, maybe you'll change your mind...
+@NullResponse @InterruptsOn @Glitter(pvCEItrainingSaidNo)
+(continue)
+@NullResponse @Interrupt(pvIn_General)
+@End

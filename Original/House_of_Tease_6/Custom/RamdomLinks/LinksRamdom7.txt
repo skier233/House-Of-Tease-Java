@@ -1,0 +1,121 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link7_NotFirstTime)
+@NullResponse @SetVar[AV_Link7]=[0] 
+@NullResponse @SetFlag(AV_Link7_NotFirstTime)
+(AV_Link7_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link7]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link7]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link7]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link7]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link7]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link7]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link7]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link7]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link7]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link7]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link7]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link7]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link7]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link7]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link7]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link7]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link7]=[AV_Link7]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link7]=[AV_Link7]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link7]=[AV_Link7]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link7]=[AV_Link7]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link7]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+I'm the kind of woman the likes to be in charge @TempFlag(AVp002)
+and from my understanding, you're the kind of man that likes to be told what to do.
+Basically, I want you to agree to let me own your #Cock. 
+You do with it only what I tell you to, when I tell you to. @DeleteFlag(AVp002)
+What you get out of this is just that... you get to completely give up control.
+It just ensures that, in fact, I do own your cock...
+it just happens to be attached to your body, but it will be my property.
+#StartStroking @StartStroking
+@End
+(Link2)
+So I gotta tell you
+I've been getting really into this arrangement we have here
+and I decided to do a little research on male chastity. @FollowUp50(Really interesting stuff!) 
+I mean, all I really knew is that it's fun to make guys want to cum, 
+and the longer it's been since they came, the more they want it... 
+but there's SO much more to it than that!
+I had NO IDEA how long some of these guys go without cumming!
+I mean, we're talking months!  
+I thought maybe a week or 2 was a lot.  
+And not only that, most of these guys spend whole weeks in their chastity cages without getting out for any reason at all... 
+complete 24/7 lockdown.  
+So needless to say, all this got me thinking about our little arrangement.
+I mean, let's be honest.  
+I have complete control over your #Cock
+and I love to tease it as much as you probably, 
+but the truth is, your level of aching is nowhere near some of these other guys, @FollowUp50(and that kinda upsets me. I'm not mad at you of course... you're just doing what I say)
+It's just, I don't know..
+#StartStroking @StartStroking
+@End
+(Link3)
+You know...
+a true Goddess should also be revengeful sometimes
+Otherwise her flock will go astray... #Grin
+So I guess It's time to punish you for your own good! @CBT
+I hope you learned your lesson
+But I suspect you to enjoy those punishments a little too much #Emote
+#StartStroking @StartStroking
+@End
+(Link4)
+Having you worship my feet all the time would be quite nice @FollowUp(Kissing them...)
+@RandomText(Rubbing them, Licking them)
+Sucking my toes...
+All while I deny you any #Pleasure! #lol
+Not that you would need any other #Pleasure than my perfect feet #Emote
+I would work extra hard at the gym knowing I have my #PetName waiting for me at home
+Your tongue out and ready for my feet the second I open the door! #Grin @FollowUp50(I bet that makes you super horny!!! #lol)
+Keep thinking about it and let's see if I can make you even more obedient
+#StartStroking @StartStroking
+@End

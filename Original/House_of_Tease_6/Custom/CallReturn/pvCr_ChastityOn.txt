@@ -1,0 +1,14 @@
+@RT(Put on your chastity device,Put that cock in its cage), #Name @CustomMode(#pvDontWantTo,Goto,not want)
+@RT(I want it locked away,I don't want you to play with it anymore)
+@NullResponse
+Let me know when you're ready to continue
+[ready,done,finished] @RT(Good,Alright,Okay)
+[yes] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] @NullResponse @Goto(not want)
+@DifferentAnswer Let me know when you're ready
+#pvMuchBetterInChastity @ChastityOn @CustomMode(#pvDontWantTo,Normal)
+@End
+(not want)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_NotWantChastityOn.txt)
+@End

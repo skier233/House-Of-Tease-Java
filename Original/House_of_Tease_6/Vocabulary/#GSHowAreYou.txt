@@ -1,0 +1,95 @@
+How are you?
+How are you doing?
+How are you #GeneralTime?
+How are you doing #GeneralTime?
+Doing alright?
+Doing alright #GeneralTime?
+Are you doing alright?
+Are you doing alright #GeneralTime?
+Having fun?
+Having fun #GeneralTime?
+Are you having fun?
+Are you having fun #GeneralTime?
+Want to have some fun?
+Want to have some fun #GeneralTime?
+Want to have some fun with me?
+Want to have some fun with me #GeneralTime?
+#EmoteFace How are you?
+#EmoteFace How are you doing?
+#EmoteFace How are you #GeneralTime?
+#EmoteFace How are you doing #GeneralTime?
+#EmoteFace Doing alright?
+#EmoteFace Doing alright #GeneralTime?
+#EmoteFace Are you doing alright?
+#EmoteFace Are you doing alright #GeneralTime?
+#EmoteFace Having fun?
+#EmoteFace Having fun #GeneralTime?
+#EmoteFace Are you having fun?
+#EmoteFace Are you having fun #GeneralTime?
+#EmoteFace Want to have some fun?
+#EmoteFace Want to have some fun #GeneralTime?
+#EmoteFace Want to have some fun with me?
+#EmoteFace Want to have some fun with me #GeneralTime?
+#EmoteFace How are you #PetName?
+#EmoteFace How are you doing #PetName?
+#EmoteFace How are you #GeneralTime #PetName?
+#EmoteFace How are you doing #GeneralTime #PetName?
+#EmoteFace Doing alright #PetName?
+#EmoteFace Doing alright #GeneralTime #PetName?
+#EmoteFace Are you doing alright #PetName?
+#EmoteFace Are you doing alright #GeneralTime #PetName?
+#EmoteFace Having fun #PetName?
+#EmoteFace Having fun #GeneralTime #PetName?
+#EmoteFace Are you having fun #PetName?
+#EmoteFace Are you having fun #GeneralTime #PetName?
+#EmoteFace Want to have some fun #PetName?
+#EmoteFace Want to have some fun #GeneralTime #PetName?
+#EmoteFace Want to have some fun with me #PetName?
+#EmoteFace Want to have some fun with me #GeneralTime #PetName?
+#EmoteFace How are you #SubName?
+#EmoteFace How are you doing #SubName?
+#EmoteFace How are you #GeneralTime #SubName?
+#EmoteFace How are you doing #GeneralTime #SubName?
+#EmoteFace Doing alright #SubName?
+#EmoteFace Doing alright #GeneralTime #SubName?
+#EmoteFace Are you doing alright #SubName?
+#EmoteFace Are you doing alright #GeneralTime #SubName?
+#EmoteFace Having fun #SubName?
+#EmoteFace Having fun #GeneralTime #SubName?
+#EmoteFace Are you having fun #SubName?
+#EmoteFace Are you having fun #GeneralTime #SubName?
+#EmoteFace Want to have some fun #SubName?
+#EmoteFace Want to have some fun #GeneralTime #SubName?
+#EmoteFace Want to have some fun with me #SubName?
+#EmoteFace Want to have some fun with me #GeneralTime #SubName?
+How are you doing #PetName?
+How are you #GeneralTime #PetName?
+How are you doing #GeneralTime #PetName?
+Doing alright #PetName?
+Doing alright #GeneralTime #PetName?
+Are you doing alright #PetName?
+Are you doing alright #GeneralTime #PetName?
+Having fun #PetName?
+Having fun #GeneralTime #PetName?
+Are you having fun #PetName?
+Are you having fun #GeneralTime #PetName?
+Want to have some fun #PetName?
+Want to have some fun #GeneralTime #PetName?
+Want to have some fun with me #PetName?
+Want to have some fun with me #GeneralTime #PetName?
+How are you #SubName?
+How are you doing #SubName?
+How are you #GeneralTime #SubName?
+How are you doing #GeneralTime #SubName?
+Doing alright #SubName?
+Doing alright #GeneralTime #SubName?
+Are you doing alright #SubName?
+Are you doing alright #GeneralTime #SubName?
+Having fun #SubName?
+Having fun #GeneralTime #SubName?
+Are you having fun #SubName?
+Are you having fun #GeneralTime #SubName?
+Want to have some fun #SubName?
+Want to have some fun #GeneralTime #SubName?
+Want to have some fun with me #SubName?
+Want to have some fun with me #GeneralTime #SubName?

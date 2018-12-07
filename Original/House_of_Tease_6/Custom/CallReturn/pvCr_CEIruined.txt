@@ -1,0 +1,17 @@
+#pthevNowEatYourCum @CustomMode(#pvDontWantTo,Goto,do not want)
+@RT(Lick it all up,Lick it up like a good boy,Be a good boy and lick it up that ruined orgasm,Swallow every last drop of your ruined orgasm,Savour that sticky goo,Swallow it like a good pet) @Wait(10)
+@RT(You know you like it,that is pretty disgusting,That is so nasty,You are so gross,Better you than me) #EmoteHappy
+@NullResponse @CustomMode(#pvDontWantTo,Normal)
+@End
+(do not want)
+You told me you'd do it
+Are you saying you are breaking that promise?
+[yes] Fine. @DeleteFlag(av_fetish_cei) @SetFlag(pthevCEI_No)
+[no] Good, then lick it up and swallow it, #Name @Goto(lick it up)
+@DifferentAnswer #YesOrNo
+But you'll understand that I'm going to have to punish you now
+@NullResponse @TempFlag(pvPunishmentRefusedCEI) @Interrupt(pvInt_Punishment)
+@End
+(lick it up)
+And be @RT(happy,glad) I'm not going to @RT(punish you,beat your ass) for hesitating
+@End

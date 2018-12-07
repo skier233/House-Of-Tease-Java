@@ -1,0 +1,284 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral14_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral14]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral14_NotFirstTime)
+(AV_ModGeneral14_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral14]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral14]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral14]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral14]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral14]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral14]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral14]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral14]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral14]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral14]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral14]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral14]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral14]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral14]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral14]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral14]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral14]=[AV_ModGeneral14]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral14]=[AV_ModGeneral14]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral14]=[AV_ModGeneral14]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral14]=[AV_ModGeneral14]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral14]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+Oh my good boy.  
+I know how much you want to give yourself to me totally.  
+And that makes me so happy.  
+#StartStroking 
+Now, since you are so obedient, you are going to edge for me
+and hold it on edge for as long as I want to keep you there.  
+@RT(You will beg, You will suffer). 
+@RT(You are mine, You pledged yourself to me, Being my good boy is a privilege).
+You want to please me, don't you?  
+I love to hear you beg and beg to cum, and to hear you suffer.  
+And then to moan as you stroke. 
+Then when your arousal is so intense, 
+and I have been satisfied listening to you beg, 
+you will let go of your cock.  
+At that last moment, right as @RT(your cock starts to twitch and spasm, the point you want to cum so so so much)
+we will take away all contact with your #Cock
+and we will watch you dribble.
+#Edge @EdgeHold  
+Let me look at it... @RT(Hard, Straining).  
+Tense your muscles to make it harder.
+Begging to be touched isn't it?  
+Now, good boy, take your cock in your hand. 
+Grip it.  
+That's my hand @RT(on your cock, holding your cock and owning it).  
+I rub my naked breasts on your back, and reach around to grasp your cock.  
+As I whisper to you, lick your earlobe, and tell you to
+Fuck...my...hand. @PlayAudio[tease\cStroke.mp3]   
+@RT(Rock your hips, Fuck your hand with your cock).  
+Oh that's starting to feel good, isn't it.
+Now hands off. @PlayAudio[tease\cStop.mp3]  
+You can't resist, you want to touch me, you want to touch your cock, don't you?  
+Beg.  
+Beg me to let you touch your cock.
+Wrap your fingers around it. 
+@RT(Lightly, Barely touching it). 
+Stroke it.  @PlayAudio[tease\cStroke.mp3]  
+Lightly.  
+Oh so gently.
+Beg me. Beg me to let you stroke your cock harder. Faster.
+No. Take your hand off of my cock.  @PlayAudio[tease\cStop.mp3]  
+We're going to edge your cock. 
+And I am going to pleasure myself.  
+If I cum, that's for me, not for you.  
+I get to cum. You don't. 
+You get to edge.  
+I enjoy your suffering for me.  
+Such a good boy.
+#StartStroking
+#GoodBoy 
+Now I'm going to take advantage of watching you.  
+You are so delicious, so obedient.  
+I'm going to touch my nipples.  
+Imagine you get to lick them. 
+And now my fingers wander to my clit.  
+You will keep stroking, while I watch you.  
+Let yourself into my pleasure.  
+Feel my orgasm with me.  
+Because it's the only one you'll get.
+@RT(Tell me how much you love ruining your orgasm - it makes me so hot, Beg me to let you stroke faster...I love hearing you plead).
+I know @RT(It's so frustrating, you want to orgasm).  
+But you want to please me more than you want an orgasm, right?
+@RT(Beg me to let you ruin your orgasm. Yes I know. But not yet, Oh I'm so close. Only Mistress cums. Not you. You get the pleasure of pleasing me).
+@RT(Oh god yes. Feel it... Feel your cock throbbing, Think about shooting that cum, Think about what you're giving up for me)
+Oh I'm getting so so so close.  
+#Edge @EdgeHold  
+You've been such a good boy, wouldn't it be a good reward to let you cum?
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+Now, stand up for me.
+We will be doing something different.
+When I said you need to follow instructions, this is what I meant.
+Now, I want you to hold this position until I say otherwise. @ShowImage[av_imagens\positions\stand\*.jpg] @Wait(15)
+Do not move.
+Does it make you uncomfortable, standing naked?  @ResponseYes(AV_YesBad) @ResponseNo(AV_NoGood) 
+I know it excites you. 
+I know I said not to move a muscle, but... you can move your dominant hand and...
+#StartStroking
+Ahh, you're letting your posture slip a bit. 
+Come now, your dick can stand at attention just fine, why not the rest of you?
+Hmm. You've done quite well for me today. 
+Stroke it for me.
+@RT(Run your hand up and down the length of it, Feel your dick pulsing and throbbing, Slowly stroke it from the tip on down to the base.)
+There's something so thrilling about watching you like this. 
+Keep stroking. You can go a bit faster now.
+Does that feel good? Doesn't it feel incredible to pleasure yourself?  
+Does it turn you on to know that I enjoy watching you, just like you're looking at me? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Oh, I'm so close already. Are you close? 
+#Edge @Edge
+Now that's what I like to see.
+I Just want you to sit back and relax a moment as I explain our next exercise. 
+We are going to be focusing on bringing your cock to being totaly sensitive. 
+For now I want you to only touch the very tip with a single finger. 
+Just keep touching the tip a little longer.
+What I want you to do now is turn your hand the other way around and grip the back side of your cock. 
+Only I do not want your finger to wrap around the sensitive underside. 
+Just grab along the spine of your cock and stroke slowly. @PlayAudio[tease\cStroke.mp3] 
+Thats it! Not to fast, not too slow, just keep stroking the spine of your cock.
+I do not want your finger to wrap around the sensitive underside. 
+Just grab along the spine of your cock and stroke slowly.
+And no cheeting now! Just the spine of your cock and not the underside. 
+Stroke it nice and firmly up and down.
+Go as fast or as slow as it feels best but keep a good hard firm grip as you stroke.
+Oh I know you want your fingers wrapped all the way around your cock to stroke every inch of it. 
+That is the whole point of this exercise.
+In fact I bet this is working better than you expected it to! 
+That sweet spot that you are not touching now, is it getting more and more needy? 
+I know it is!
+You just keep stroking the back side and no touching that sweet underside.
+Is your cock twitching and wishing you would just wrap your fingers around the underside? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Keep going, and no cheeting!
+Now stroke all the way down, stretch the skin of your cock as far as it will go and hold it there.
+Again, just stroke your cock all the way up and down the back side with a good firm hard grip.
+I bet this feels better than you thought it would. 
+Yes your cock wants more now doesnt it?
+I know your cock is begging for that sweet spot to be petted and stroked but you just keep stroking the spine.
+Now wrap your hand all the way around your cock and stroke it one time all the way to the top and back down as slowly as you can
+then let go and stop. @PlayAudio[tease\cStop.mp3] 
+I think your cock is ready to move on now.
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+@RT(#PetName, #SubName)
+show me that cock of yours! 
+Start stroking it! @PlayAudio[tease\cStroke.mp3] 
+Only thing you have to do is stroke that cock
+As you can see we are all alone and no one will bother us. 
+Just you and me and making your cock feel wonderful!
+I need to make your cock as hard as possible!
+So good so far, you just keep stroking that cock then. 
+Just try not to get too excited!
+Oh! And I get to play too! You just stroke your cock and I get to play with my clit!
+So how is your cock holding up over there? 
+You are not edging yet are you? @ResponseYes(AV_YesBad) @ResponseNo(AV_NoGood) 
+You might want to slow down more. 
+I have lots of time yet to tease you and you are going to be here with me for a while.
+Slower! 
+You do not want to be throbbing yet! 
+I am going to make your cock so fucking hard you will not know what to do!
+I know you want to stroke your cock faster and faster! 
+Do not do it! Nice and slow so you can keep going!
+Oh I know how badly you want to do more but for now just stroke that cock!
+We are going to have so much fun as you stroke your cock!
+Oh we have not even begun to have fun yet! 
+You just stroke that cock nice and slow!
+Oh yes I can see how much your cock is enjoying you stroking it for me! 
+It is quite obvious!
+Slower now! Nice and slow on that cock! 
+You do not want to start throbbing now!
+@RT(Can you resist not stroking that cock hard and fast, Can you resist trying to find the edge of orgasm)?
+So far so good! Are you enjoying this as much as I am enjoying teasing your cock?
+Oh yes that makes my clit tingle! Just keep going nice and slow!
+I told you we were both going to have fun stroking! 
+You stroking your cock, me stroking my clit!
+Oh I do hope you are not going too fast now! Is your cock enjoying this?
+You are doing pretty good so far. Just remember to go nice and slow and do not rush!
+You do know this is just going to get more and more difficult.
+I mean you just keep stroking your cock slower and slower trying not to edge.
+#StopStroking
+I want you to just relax, spread your legs over the table
+And touch your nipples for me
+Yeah, keep your dick nice and hard as you touch your nipples
+Just taking our time as we go, no rushing, just enjoy this.
+I know I like it when my nipples are hard! 
+Makes me really hot!
+Stop
+#StartStroking
+Now I get to see how long you can go on stroking that cock before you have to give up and rest again!
+Oh yes just stroke that cock good now for me!
+Yes just aim that nice thick cock right here as you stroke it for me!
+@RT(Can you hold back from the edge, Can you resist the need to stroke faster)?
+Oh yes! Watching your cock makes my pussy so needy too!
+Oh baby! Can you keep stroking without hitting the edge?
+@RT(Just keep stroking that hard fucking cock for me, Stroke that cock good, Make it throb for me)!
+@RT(Remember to go slowly now! I just want you cock to be nice and hard, Yes stroke that cock and keep it nice and hard for me)!
+Dosnt that feel so good! Just stroking your cock as long as you can stand it!
+And stroke some more for me now! Make it feel so wonderful!
+Is you cock good and hard now after all this? 
+I hope so! Yes keep stroking!
+almost done! Think you can hang in there a little longer? 
+Yes just keep stroking it slower and slower!
+How fast can you stroke without edging? 
+Come on we are almost done! Faster now!
+Oh fuck yes! Just a little longer!
+#StopStroking
+Your cock is good and hard so I am done for now!
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+RT(#PetName, #SubName)
+Let your fingers drift down and cup over your cock. 
+Keep it nice and warm 
+And with your other hand cup your balls. 
+Breath all the way in and out nice and slow.
+Take your time, just relax and breath as you touch yourself
+#Okay, stop touching
+@RT(So what I want you to do is stroke your cock just how you like it and follow my instructions, All I want right now is for you to stroke your dick nice and smoothly) @PlayAudio[tease\cStroke.mp3] 
+While you can stroke your cock however you like, I want you to go @RT(Not to fast now, just nice and slow, slow enough not to bring yourself to the edge)
+If you do get to the edge then you let me know.
+We have such a long, long ways to go before we are done with your dick today.
+And trust me, we will be taking very good care of your dick today!
+So lets not rush through this, @RT(just nice and easy, Just nice and smooth up and down your cock), enjoy this with me.
+@RT(No rushing, just slowly enjoying the soft pleasures, You just got to go slow for now and try not to come to the edge)
+@RT(Thats it! Just like that! Nice and easy, Does that feel oh so good? Just go fast enough to make it feel wonderful)
+@RT(No need to rush anything just nice and slow, All the way up to the tip and nice and smooth back down again)
+@RT(See how happy this makes your cock feel? I know it feels really good, I want your dick to feel so good just enjoying all this attention I am giving it)
+@RT(Your cock is going to feel better and better, That looks so good starting to make me want more too)
+@RT(I can see just how good this feels to your cock, I dont want you getting too worked up)
+And you can stop. @PlayAudio[tease\cStop.mp3] 
+That should do well for now.
+@End

@@ -1,0 +1,310 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral21_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral21]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral21_NotFirstTime)
+(AV_ModGeneral21_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral21]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral21]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral21]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral21]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral21]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral21]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral21]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral21]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral21]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral21]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral21]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral21]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral21]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral21]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral21]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral21]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral21]=[AV_ModGeneral21]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral21]=[AV_ModGeneral21]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral21]=[AV_ModGeneral21]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral21]=[AV_ModGeneral21]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral21]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Wow, these #Balls look amazing. 
+I think we could get them more blue, what do you think? 
+@Flag(av_fetish_pain) Get ready to give them a few hard smacks 
+@Flag(av_fetish_pain) and I want you to hit them how hard I would be hitting them if I was there. 
+@Flag(av_fetish_pain) Go @PlayAudio[tease\spank\*.mp3] @Wait(15)
+@Flag(av_fetish_rough, av_fetish_pain) Don't you go being a little pussy now, I said REALLY fucking hit them you filthy little whore!
+Your balls were full and aching?!?  
+@Flag(av_fetish_pain) Go @PlayAudio[tease\spank\*.mp3] @Wait(15)
+How do your balls feel *now,* huh? 
+Aw, they hurt?  That's so sad for you
+Mmmm, your cock is literally throbbing, and your balls feel really full. 
+Is that what all my teasing did to you? 
+#StartStroking
+@Flag(av_fetish_rough) you really are a filthy slut. I love it.
+Keep on wanking while giving your balls a good massage...
+@NotFlag(av_fetish_pain) @NullResponse @Goto(r237bg)
+#StopStroking
+Get two clothespins and put them on your nipples.
+And #Random(3, 5) in your #Balls @Wait(20)
+#StartStroking
+(r237bg)
+I don't want you cumming just yet..
+Don't you realize that your training would be seriously compromised if you had an 'accident'?
+Today I am in teasing mood 
+and you know that the tease comes with the denial most of the times 
+#StopStroking
+but this time is even more special because @Goto(GLR01, GLR02, GLR03)
+(GLR01)
+#Contact1 wanna come here just to give you a few commands @AddContact1
+@Contact1 It's so easy to tease you.
+@Contact1 So take your cock and lead yourself into the hands of seduction. @PlayAudio[tease\StrokePattern\overdrive*.mp3] 
+@Contact1 Forget whatever was in your mind
+@Contact1 All I want to do is play with your cock and your mind. 
+@Contact1 #StopStroking @Wait(10)
+@Contact1 You are nothing but a mere mortal before your Goddess.
+@Contact1 Just move your hand on your cock for me. @PlayAudio[tease\StrokePattern\overdrive*.mp3] 
+@Contact1 I am your Masturbatrix who allows you to lose yourself for me.
+@Contact1 Your brain is lost.
+@Contact1 And you are left in a state that will make you more and more addicted to the desire to cum.
+@Contact1 More and more addicted to my words and the playful games that I am going to play with you. 
+@Contact1 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@Contact1 I'm satisfied .... for now
+@Contact1 He's all yours #DomName
+#EmoteSmile @RemoveContact1
+@NullResponse @Goto(GlitterGoes)
+(GLR02)
+#Contact2 wanna come here just to give you a few commands @AddContact2
+@Contact2 One day you won't be able to live without being under control
+@Contact2 #KneelForMe
+@Contact2 You can no longer enjoy a normal relationship.
+@Contact2 You need your orders, you need your seduction.
+@Contact2 Poor #PetName, you desire more of teasing, more of torture.
+@Flag(av_fetish_pain) @Contact2 @RT(Spank, Hit) your balls @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+@Contact2 Move your hand for me, release all your energy, make your desires come true. @PlayAudio[tease\cStroke.mp3] 
+@Contact2 I am here for you. You need guidance, you need approval.
+@Contact2 I'm going to keep you on the edge
+@Contact2 until I give the order, until my lips pronounce the words
+@Contact2 You are so filled with anticipation
+@Contact2  Feeling it so strongly now as you play with your cock while I play with your mind
+@Contact2 Wait for my words...
+@Contact2 #Edge @EdgeHold
+@Contact2 I'm satisfied .... for now
+@Contact2 #SitDown
+@Contact2 He's all yours #DomName
+#EmoteSmile @RemoveContact2
+@NullResponse @Goto(GlitterGoes)
+(GLR03)
+#Contact3 wanna come here just to give you a few commands @AddContact3
+@Contact3 After several Tease & Denial sessions
+@Contact3 you're slowly getting the point of all this
+@Contact3 You are a slave.
+@Contact3 #KneelForMe
+@Contact3 You don't get to say "No". 
+@Flag(av_fetish_pain) @Contact3 @RT(Spank, Hit) your balls @PlayAudio[tease\G3Spank\*.mp3] @Wait(21)
+@Contact3 The Girls are in charge. 
+@Contact3 Everything we do is for our pleasure, not yours.
+@Contact3 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@Contact3 You are a tool for us to use as we see fit.
+@Contact3 You can get as frustrated as you want, but I'll only punish you further.
+@Flag(av_fetish_pain) @Contact3 @RT(Spank, Hit) your balls @PlayAudio[tease\G3Spank\*.mp3] @Wait(21)
+@Contact3 I am an evil, cruel, slightly psychotic, cock teasing SADIST, and you belong to me now!
+@Contact3 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@Contact3 I'm satisfied .... for now
+@Contact3 #SitDown
+@Contact3 He's all yours #DomName
+#EmoteSmile @RemoveContact3
+@NullResponse @Goto(GlitterGoes)
+(GlitterGoes)
+Oh, don't forget who's in control here. 
+I dominate YOU. 
+You love to be ordered around by me. 
+You love me to tell you exactly what I want you to do. 
+You're practically drooling at the sight of me. 
+#StartStroking
+You want me SOOOO badly. 
+You want my pussy, my delicious ass, my breasts. 
+You want to taste them all. 
+You want my panties especially, don't you! 
+My smitten jerk boy just can't get enough. 
+If you're a good jerk boy, I may let you sniff my panties someday. 
+#StopStroking
+@End
+(Modulo2)
+I thought now we should do one of my most favorite things! 
+@NotFlag(av_fetish_pain) @NullResponse @Goto(AV_DontPain32)
+Well, CBT, of course! 
+And since I can't be right there doing it for you, I am going to instruct you on just how I like it done. 
+Doesn't this sound like fun? 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Your cock and balls are my new toy
+#KneelForMe @wait(10)
+Get the spoon and be ready to @RT(spank, hit) your #Balls... @wait(10)
+@PlayAudio[tease\spank\*.mp3]  @Wait(15)
+Time to put that #Balls to good use.
+@PlayAudio[tease\spank\*.mp3]  @Wait(15)
+Now put 2 clothespins on your niples and #Random(3, 6) on your balls @Wait(20)
+You know how much I love knowing that you're suffering right? 
+(AV_DontPain32)
+I know how bad you want to stroke it right now, there is just nothing else in your little mind. 
+Well go ahead, I give you permission. @PlayAudio[tease\cStroke.mp3] 
+I want you to stroke while I tease you 
+but I don't want you to cum until I tell you so. 
+I just want to @RT(tease you, build up that orgasm). 
+@RT(Because I know the more you stroke,, the more addicted you become to me, Sometimes I need to tease and deny you as a means of control).
+@Flag(av_fetish_rough) You're not worthy of cumming all the time. 
+I control @RT(your #Cock, your orgasms). 
+And you will take me teasing and denying you as much as I want, won't you #PetName?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+@Flag(av_fetish_rough) You need this abuse, you crave it. 
+It's torture, but you'll endure it for your Goddess.
+@Flag(av_fetish_rough) It's the price you must pay for the privilege of being allowed to stroke before your Goddess.
+#Edge @Edge
+@RT(It doesn't even matter,, you know what's up now, Whatever,, I know what I can make you do now)
+I am in charge and decide when and how often you can touch it
+I am the boss and @RT(I am in control, have the power)
+@NotFlag(AV_DommeMistress) #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@Flag(AV_DommeMistress) #Edge @EdgeNoHold @MultipleEdges( #Random(3, 4), 10, 100)
+Teasing your #Cock, and giving it my own pleasure is one of my favorite ways to pass the time. 
+I enjoy making you hard
+and I know you crave me playing with it. 
+@RT(So are you going to give it to me,, and experience my pleasure, Are you brave enough to offer your cock up to me)?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+There are so many ways that I enjoy tormenting cock
+and I plan on having you experience each one since your cock now belongs to me. 
+#Edge @Edge
+I want to see just how many implements it takes to break you...
+@Flag(av_fetish_pain) to challenge your pain tolerance. 
+Perhaps you should think more with your brain before handing yourself over to sadistic women
+@NotFlag(av_fetish_pain) @NullResponse @Goto(AV_DontPain34)
+Remove all the clothespins @Wait(20)
+Get ready with the spoon again...
+@RT(spank, hit) your #Balls @PlayAudio[tease\spank\*.mp3]  @Wait(15)
+#Edge @Edge
+@RT(spank, hit) your #Balls @PlayAudio[tease\spank\*.mp3]  @Wait(15)
+@NotFlag(AV_DommeMistress) #Edge @Edge
+@Flag(AV_DommeMistress) #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@RT(spank, hit) your #Balls @PlayAudio[tease\spank\*.mp3]  @Wait(15)
+#SitDown
+(AV_DontPain34)
+The only thing that matters is My amusement
+@End
+(Modulo3)
+You know, I really do want to hear you moan though... can't a #Owner want that?
+#StartStroking
+I want to listen to you drowning in pleasure because of me.
+Yes baby, I hear it... it's sounds so... thick. 
+Keep stroking and imagine its my hand on your cock #PetName.
+I love hearing you stroke that cock while we talk.
+It's so stiff and sticky, and I know it's my fault.
+That cock is just for me, right #SubName?
+I can have that cock whenever I want?
+...however I want?  @Timeout(5, AV_Timeo61)
+[yes] Really? @MoodUp
+[no] You don't? @MoodDown
+@DifferentAnswer #YesorNo
+(AV_Timeo61)
+Yes baby, I am your #Owner after all.
+Give in #PetName, give into the pleasure... into the lust. I want you to lust for me.
+I want you to want me the way I want you.
+Want me. Need me. You are...all...mine.
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+#LetTheEdgeFade
+You need to know how to control your #Cock
+So that means that you must control yourself and not just jerk as fast as you can, ok?
+#StartStroking
+Slow...at that pace @PlayAudio[tease\b055.mp3] 
+#DontStop @Wait(20)
+Now lets see if you can control your lust @PlayAudio[tease\b055.mp3] 
+@NotFlag(av_fetish_cei) Looks like you are dripping with pre-cum.
+@Flag(av_fetish_cei) Looks like you are dripping with pre-cum why don't you lick it up?
+#StopStroking
+@End
+(Modulo4)
+@RT(#PetName, #SubName)
+We're going to play Red Light Green Light! @SetVar[AV_RGBRounds]=[0]
+@NotFlag(AV_DommeMistress) #Stroke as fast as you physically can when I say green! @SetVar[AV_RGB]=[#Random(10, 15)]
+@Flag(AV_DommeMistress) #Stroke as fast as you physically can when I say green! @SetVar[AV_RGB]=[#Random(8, 10)]
+HANDS OFF, when I say red
+This time, your goal IS TO EDGE during these intense but short sequences! @EdgeMode(Goto, AV_FimRGB)
+Ready?
+(AV_RGBLoop)
+#AV_GreenLight @PlayAudio[tease\bite.mp3] @Wait( #Random(5, 8))
+<Font color="red">RED LIGHT</Font> @PlayAudio[tease\cStop.mp3] @Wait( #Random(15, 20))
+@NullResponse @ChangeVar[AV_RGBRounds]=[AV_RGBRounds]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_RGB]=[AV_RGBRounds]Then(YouFaill)
+@NullResponse @Goto(AV_RGBLoop)
+(AV_FimRGB)
+Good job #SubName @EdgeMode(Normal)
+@End
+(YouFaill)
+#StopStroking @EdgeMode(Normal)
+You dont edge in time #SubName
+I think you need to be punished @Goto(PuMS01, PuMS02, PuMS03, PuMS04)
+(PuMS01)
+@NullResponse @MiniScript(AV_Punish1)
+@NullResponse 
+@End
+(PuMS02)
+@NullResponse @MiniScript(AV_Punish2)
+@NullResponse 
+@End
+(PuMS03)
+@NullResponse @MiniScript(AV_Punish3)
+@NullResponse 
+@End
+(PuMS04)
+@NullResponse @MiniScript(AV_PunishRND)
+@NullResponse 
+@End

@@ -1,0 +1,6 @@
+Fixing script @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+Trying to return @UnlockImages
+@End

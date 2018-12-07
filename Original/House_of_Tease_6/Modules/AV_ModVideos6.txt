@@ -1,0 +1,456 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModVideos6_NotFirstTime)
+@NullResponse @SetVar[AV_ModVideos6]=[0] 
+@NullResponse @SetFlag(AV_ModVideos6_NotFirstTime)
+(AV_ModVideos6_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModVideos6]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModVideos6]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModVideos6]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModVideos6]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModVideos6]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModVideos6]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModVideos6]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModVideos6]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModVideos6]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModVideos6]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModVideos6]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModVideos6]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModVideos6]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModVideos6]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModVideos6]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModVideos6]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModVideos6]=[AV_ModVideos6]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModVideos6]=[AV_ModVideos6]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModVideos6]=[AV_ModVideos6]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModVideos6]=[AV_ModVideos6]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModVideos6]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact2
+Hey #Contact2 
+@Contact2 Hi #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@NullResponse @RemoveDomme
+I'll tell you what. 
+I'm gonna let you stroke. 
+Glad you're happy. 
+Alright, get yourself hard.
+I'm gonna count down from 10 and I want you to stroke your shaft however you want. 
+Do not touch the head until I give you permission. 
+You can slow all the way down to the point where you're barely moving your hand
+but at no point are you allowed to stop stroking. 
+So my advice is to go nice and slow. Enjoy it. 
+And try not to edge. 
+Ready?
+10 @PlayAudio[tease\cStroke.mp3] 
+Get ready
+9
+That's right.. @Wait(15)
+8 @Wait(15)
+Stroke faster
+7
+Get closer @Wait(15)
+6
+This is it.. @Wait(15)
+5
+Almost there @Wait(15)
+4
+Closer to the edge
+3
+Get ready to edge
+2 @PlayAudio[tease\cEdge.mp3] 
+Hold that edge
+3
+Keep riding that edge
+4
+That's right, we're going back up
+5
+Stay on the edge
+6
+Stroke however you want
+7
+But don't cum
+8
+Stay close to that edge
+9
+To the point where you're about to burst
+10
+And that cock keeps twitching
+Don't blow
+Stop stroking @PlayAudio[tease\cStop.mp3] 
+Take one finger and press it against the underside of your cock. 
+That sensitive spot.
+Rub it slowly. 
+Stay on the edge. 
+But don't cum. And don't take your finger off.
+Hands off.
+Pinch the tip of your cock with your fingers. 
+Pinch it hard. 
+Back off that edge. Keep pinching. 
+Intense isn't it? 
+It's a mean but effective way to back off an edge.
+Stop pinching. Hands off. 
+That was nice, wasn't it? @Timeout(5, AV_14f4hf)
+[yes] #Good 
+[no] Aww, was that too much? 
+@AcceptAnswer Aww, was that too much? 
+(AV_14f4hf)
+Do you want a break? 
+Suck it up. We're not done. 
+#KneelForMe @Wait(10)
+Get your hand back on that dick. 
+I'm gonna give you 1 minute
+and I want you to edge as many times as you can. 
+So, stroke as hard and as fast as you can to get close. 
+And the second you do, take your hand off and back off that edge as quickly as you can.
+And then do it again. And again. And again. 
+Do as many edges as you can before the countdown is over. 
+And keep a count of the number of edges you manage to do. 
+Got it? Good.
+Ready? 
+Go! @PlayAudio[tease\cEdge.mp3] 
+@Wait(20)
+@Wait(20)
+@Wait(20)
+Hands off.  @PlayAudio[tease\cStop.mp3] 
+Aww, are your balls about to burst?  @ResponseYes(Blue Balls)
+Do you just wanna cum? 
+Hmm? Is that all you want to do?
+#SitDown
+And that's about it. 
+I hope your dick is erect. 
+Because if you don't have an erection now, then you're pretty much fucked. 
+@Contact2 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact2
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact1
+Hey #Contact1 
+@Contact1 Hi #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@NullResponse @RemoveDomme
+Alright, I'm gonna let you edge. 
+Hand on your cock. 
+And make sure you can access your balls as well.
+#Stroke. @PlayAudio[tease\cStroke.mp3] 
+As hard and as fast as you can. 
+You have five seconds to get to an edge. 
+5 @Wait(03)
+4 @Wait(03)
+3 @Wait(03)
+2 @Wait(03)
+1 @Wait(03)
+Edge  @PlayAudio[tease\cEdge.mp3] 
+Hold it.
+Ride the edge as I count down.
+10
+Stay as close as you can
+9
+I fucking mean it
+8
+Get closer
+7
+6
+Are you ready?
+5
+I'm not fucking around
+4
+As close as you fucking can
+3
+This is it..
+2
+Hands off your cock @PlayAudio[tease\cStop.mp3]
+That's right. Hands off your cock.
+Now squeeze your balls
+Keep squeezing until I say to stop
+Without any pleasure. 
+Keep squeezing
+Almost out of time
+Hands off.
+Do you want an orgasm? 
+Is that what you really want? 
+Be careful what you wish for..
+Take that precum and rub it all over the head of your cock. 
+I don't care if it's sensitive.
+Now keep palming the head using only your precum as lube. 
+I'm gonna count down and when I get to 1
+I want you to make yourself edge. 
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Edge!! Keep palming the head! @PlayAudio[tease\cEdge.mp3] 
+That's right! I know it hurts. 
+DON'T YOU FUCKING STOP!
+That's right, bitch, you better fucking take it.
+Keep palming.
+Your body is convulsing and you just can't take it anymore.
+But I don't fucking care. Rub harder.
+1
+2
+3
+4
+Keep rubbing
+5
+The most sensitive spots.
+6
+7
+8
+Are you ashamed at what a fucking pervert you are?
+9
+Listening to someone telling you how to hurt yourself.
+10
+But this is what you wanted
+11
+So don't you fucking stop
+12
+Until I am done.
+13
+Do you wanna stop rubbing?
+14
+Too sensitive now?
+15
+Alright, stop rubbing. 
+@Contact1 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact1
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+@Flag(AV_NoAnalForMe) @NullResponse @Goto(Pulanal)
+@Flag(AV_LikeAnal) @NullResponse @Goto(PulaPerg)
+What if I told you that my favorite thing in the whole world to do is 
+to fuck slave boys with my strapon dildo? 
+Does that turn you on?
+[yes] #Yay @SetFlag(AV_LikeAnal)
+[no] Well... @Goto(Pulanal)
+@DifferentAnswer #YesorNo #SubName?
+(PulaPerg)
+#PetName
+There are other... parts of your body to explore
+@Flag(AV_DoneAnal) @NullResponse @Goto(AVMoreAnal)
+Since you got turn on when I said
+that my favorite thing in the whole world to do is 
+to fuck slave boys with my strapon dildo 
+How about
+A new part of your training. Anal domination. 
+My favorite. #Grin
+Would you like that?
+[yes,i guess] Glad you agree #Smile @Goto(startanaltrain)
+[no,don't want,please don't] Okay, don't worry #SubName 
+[if you want,if that's what you want] That <i>is</i> what I want #Smile @Goto(startanaltrain)
+[if you say so] I say so #Smile @Goto(startanaltrain)
+@DifferentAnswer Is anal play something you'd like to try?
+Maybe some other time... 
+I do hope you'll reconsider #Smile
+@End
+(startanaltrain)
+I will teach you to associate your pleasure with my big, wet dildo. 
+I will fuck you with it until you cum in your cage before our time together ends. 
+You'll forget what it even means to cum without having your slave ass stuffed!
+I will be using it to control you
+Now...
+Put a towel on the ground and crouch down on it.
+Get some lube and...
+#KneelForMe @Wait(30)
+Squeeze some lube onto the pointer and middle fingers of your dominant hand 
+and reach down past your cock and balls. 
+Slather it onto your asshole. @Wait(10)
+add more lube to fingers and then slowly push your pointer finger in. 
+When you cant push it deeper, remove it slowly and replace it with your middle finger.  @Wait(10)
+The middle finger is longer and will penetrate deeper. @Wait(15)
+When it is fully inserted, just leave it there.  @Wait(30)
+Get used to the feeling of fingers in your ass.  
+When you're satisfied, remove the finger and re-lube again. @Timeout(40, analtrain2)
+[satisfied, done, ready, finished] #Okay
+[no] You don't? 
+@AcceptAnswer satisfied or no #SubName?
+(analtrain2)
+Now you're going to experience what it will feel like when I prepare your ass for my use. 
+You may not like it at first
+but I will condition you to become aroused during this procedure.
+First insert your lubed pointer finger slowly. 
+Give it a long stroke all the way in and out.  @Wait(30)
+Then replace it with your middle finger. 
+All the way in, all the way out. 
+I call this my "1-2" technique. 
+Keep rotating back and forth for 24 repetitions @Wait(30)
+slowly increasing your speed as your asshole loosens up. @Wait(30)
+After 24 repetitions, insert the middle finger and leave it in. 
+Push forward, towards your balls and try to feel around for your prostate. 
+If you don't find it, that's fine. 
+We have plenty of time to work on that. 
+I'll just increase the length of your milking sessions. @Wait(30)
+Now, go back to the "1-2" technique 
+and repeat until your ass relaxes enough to stay open even when there's no finger inside.  @Wait(30)
+This is what I will be doing to you before your milking sessions. 
+By the time you're done
+your asshole should have so much lube inside it that the shower couldn't possibly wash it away. @SetFlag(AV_DoneAnal)
+Are you satisfied, or want more ass fuck? @Timeout(40, analtrain3)
+[yes, satisfied, done, finished] #Okay @Goto(EndAnal)
+[no] You don't? 
+@AcceptAnswer satisfied or no #SubName?
+(analtrain3)
+Let's continue then
+We are going try to fit 2 fingers up your ass. 
+And its going to be particularly hard 
+because even though your ass may still be thoroughly lubed, your fingers won't be. 
+The extra friction will really make you feel your ass stretch. 
+That's exactly what i want. 
+This ass is mine, and I want it to be opened.
+I know its tight, but its in your best interest to try your hardest. 
+Only obedient slaves should expect pleasure. 
+And I'm telling you that I want 2 fingers buried in your ass all the way to the knuckle. 
+Now, fuck your ass with 2 fingers  @Wait(30)
+When you are thoroughly stuffed with two fingers
+you will feel your other fingers pressed up against your asscheeks. 
+That's how you can know you succeed. 
+If your ass is too tight, you can give up. 
+Move your fingers in and out, fucking your ass 20 times.  @Wait(30)
+Then remove them completely before pushing them all the way back in, at least 3 times. @Wait(30)
+When you feel you've been thoroughly violated and stretched, stop.
+(EndAnal)
+You can sit and clean yourself @Wait(30)
+Perhaps we should have a gangbang party! 
+I'll invite a couple of my girlfriends over 
+and we'll take turns tag-teaming your ass with the entire collection.  @Wait(10)
+That would be fun, right slave?
+@End
+(AVMoreAnal)
+@NullResponse @Call(Custom\AV_Scripts\AV_AnPlay.txt)
+@End
+(Pulanal)
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause) @SetFlag(AV_NoAnalForMe)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some videos on your computer
+Stroke to the beat #Grin
+Have fun @PlayVideo 
+#CensorContinue
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+#KneelForMe
+@Flag(av_fetish_rough) You will degrade yourself and suffer for my pleasure
+Now take your #Cock in hand and get it hard for me. 
+Rub it slowly, from base to tip until you are fully erect. @PlayAudio[tease\cStroke.mp3] 
+You look so submissive kneeling beneath me!
+It's quite erotic...and I have to say, its a turn on for me.
+Are you feeling turned on? @ResponseYes(GNMHorny)
+How hard is your cock right now?
+Keep stroking it for me. That is fantastic!
+Jerk yourself off until you reach the edge... @EdgeNoHold
+It really is fucking delicious...the way you let me use your flesh.
+And now you're going to let me use your cock and balls some more. 
+But, don't get too excited, my #Slave
+@NotFlag(AV_PinDone) Go fetch me some clothespins. At least 10 of them. @Wait(20)
+@Flag(av_fetish_pain) Oh, we can't neglect your balls! @TempFlag(AV_PinDone)
+@Flag(av_fetish_pain) Take 4 clothespins and place them on your balls for me. @Wait(20)
+@Flag(av_fetish_pain) And 2 on your nipples  @Wait(20)
+Now we are really ready to have some fun!! @Wait(20)
+I'm so glad we are getting the chance to play with each other today! 
+Get your wooden spoon out for me, #Slave. 
+Stand up. Bend over. @Wait(20)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(zeroedge)
+With the spoon in your hand, spank each of your ass cheeks 10 times for me.  @Wait(20)
+Make pretty red marks on your flesh as a way to show your devotion to me. @Wait(20)
+Now...this next part of the challenge is super important. 
+Are you ready? 
+With the spoon, I want you to smack the clothespins attached to your nipples and balls.
+That's right. 
+You're going to whip yourself into a frenzy for me, darling.
+Here's the caveat: for every clothespin that falls off, that will give you one edge.
+If I were you, I'd get to slapping. 
+Do you need a little more motivation? @Wait(20)
+It feels so hot to rub my hands over my body and feel my wet cunt while you hurt yourself for me.
+Mmmm...I love making myself feel fucking awesome in front of you...you poor, neglected bitch!
+Stop #PetName
+#KneelForMe
+So, how many clothespins fell?
+[0, zero] I don't think you tried hard enough @Goto(zeroedge)
+[1, one] just 1? @Goto(umedge)
+[2, two] just 2? @Goto(doisedge)
+[3, three] it's OK @Goto(tresedge)
+[4, four] good work @Goto(quatroedge)
+[5, five] Nice work @Goto(cincoedge)
+[6, six] Great @Goto(seisedge)
+@DifferentAnswer Tell me the number #SubName
+(umedge)
+#Edge @EdgeNoHold
+@NullResponse @Goto(zeroedge)
+(doisedge)
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+@NullResponse @Goto(zeroedge)
+(tresedge)
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@NullResponse @Goto(zeroedge)
+(quatroedge)
+#Edge @EdgeNoHold @MultipleEdges(4, 10, 100)
+@NullResponse @Goto(zeroedge)
+(cincoedge)
+#Edge @EdgeNoHold @MultipleEdges(5, 10, 100)
+@NullResponse @Goto(zeroedge)
+(seisedge)
+#Edge @EdgeNoHold @MultipleEdges(6, 10, 100)
+@NullResponse @Goto(zeroedge)
+(zeroedge)
+#SitDown
+And remove all the clothespins
+That is enough
+@End

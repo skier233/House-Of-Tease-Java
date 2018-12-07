@@ -1,0 +1,91 @@
+@Flag(pvFootFetishYes) @NullResponse @Chance50(call custom)
+#StopStroking @StopStroking @CheckFlag(pvMod28A)
+Do you ever travel by train, #PetName?
+[yes,all the time,often,always] Me too, I love travelling by train #Smile @TempFlag(pvMod07TrainYes)
+[no,never,rarely,barely,not much,not too much,not so much] I do, I love travelling by train
+@DifferentAnswer #YesOrNo
+Do you know when I do almost every time I get on a train alone?
+I look for a guy sitting by himself, a submissive type like you
+I have a talent for spotting that personality trait #EmoteWink
+I sit down right across from him, flashing a passing smile
+It's so easy to get a boy's attention, #Name
+I pretend to be completely focussed on my phone, so he feels like it safe to stare
+@Flag(pvMod07TrainYes) You probably stare at pretty girls on the train all the time #Smile
+Girls usually know when horny boys stare at them even when they pretend they don't, #PetName
+Just to make sure I have his attention, I giggle quietly as if I just read something funny
+With my eyes on my phone, I purse my lips and lick them
+I cross my legs and make sure to let my skirt crawl up my thighs
+By now I know my victim can't take his eyes off me
+His #Cock growing harder and harder in his pants, he tries to cover it up by rearranging his jacket
+Occasionally I look up to meet his eyes, most of the time they are transfixed on my smooth legs
+So I keep staring until he looks up, and then with a smile I quickly turn to my phone
+The rest of the day, that boy will be thinking about me
+And when he's in his bed at night, he will masturbate furiously thinking of my smile
+Maybe he will go home to his girlfriend and have sex with her, thinking of me
+But he <i>will</i> think of me, that I can be sure of
+I know what makes your kind tick, #PetName
+And there are many girls like me out there
+@Flag(pvMod07TrainYes) Think about that next time you're on a train, and a pretty girl is sitting across from you
+We love having this control over you #Grin @SetFlag(pvMod28A)
+@End
+(pvMod28A)
+@NullResponse @CheckFlag(pvMod28B)
+How's your #Cock doing right now, hm? @SetFlag(pvMod28B)
+Maybe you should check in on it down there for a moment
+Look at it
+Look how hard and desperate it is
+Just waiting for those strokes to come in hard and fast again
+Crying drops of precum because it has to wait for my command
+Wiggle it for me
+Shake your hips so it swings side to side #Giggles
+@CockSmall Although I guess that tiny thing doesn't swing much #Lol
+@CockTorture I want to hurt it a little bit @CBTCock
+I own that #Cock and don't you ever forget it, #PetName
+It just happens to be attached to your body, but its mine
+You get to carry it around, but it belongs to me
+Whenever you get it out to pee or, god forbid, masturbate, you should think about that
+Every time you touch it, remind yourself that it's my property
+And you just get you keep it safe for me
+So that when I want to play with it, you can present it to me
+Better keep it in mint condition, #PetName #EmoteHappy
+@End
+(pvMod28B)
+I want to make you ache for me, #PetName @CheckFlag(pvMod28C)
+I want to tease you over and over until your #Cock is twitching and leaking for me @SetFlag(pvMod28C) @DeleteFlag(pvMod28B)
+You're going to be so desperate that you'll do anything for me
+And you won't even know if you're doing it to make me stop or to do more
+That's how confused your little mind is going to be by the time I'm done with you
+#Edge @Edge
+#LetTheEdgeFade
+Sometimes your brain will say stop, but your cock will beg for more
+And other times it's your #Cock that won't be able to take it anymore...
+But then your mind will be screaming for more
+But don't worry, #PetName
+Each time that happens, I'll be right here to make the decision for you #Smile
+@End
+(pvMod28C)
+And I always get what I want #Smile @DeleteFlag(pvMod28C)
+What I want right now is for you to give me 25 very slow worship strokes
+Very slow, full up and down strokes, #PetName
+Look at my body while you stroke
+You're lucky I let you worship my body, not many people get to see so much of it @Wait(5)
+@NullResponse @CheckFlag(pvWillNotKneel,already down)
+@NullResponse @CheckFlag(pvKneeling,already down)
+When you're done with those strokes, I want you to kneel down
+No need to hurry if you haven't finished the 25 strokes yet #Smile @TempFlag(pvKneeling)
+Just complete the set of 25 and then drop down to your knees 
+(already down)
+When I make you do slow strokes, I want you to think of ways to worship me
+How you would kneel down and take off my shoes at the end of the day
+Kiss and massage my sore feet
+How you would present your #Balls for me so I could vent frustration if I had a bad day
+How you'd cook dinner for me and wait obediently to finish it
+How you would use your tongue to bring me to orgasm after orgasm
+And you would expect nothing in return 
+Give me 25 more worship strokes, #PetName @Wait(20)
+@Flag(pvKneeling) Finish your strokes and get up off your knees @DeleteFlag(pvKneeling)
+Every stroke is in my service, remember that
+@End
+(call custom)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagFootFetish.txt)
+@End

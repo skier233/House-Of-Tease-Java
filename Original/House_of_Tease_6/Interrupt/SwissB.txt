@@ -1,0 +1,103 @@
+'m still #Touching myself name #Name
+And I'm not going to stop until you let me
+#EmoteMoan @ShowTaggedImage @TagSoloF
+So you can #Imagine where my hands are
+While I moan in agony and pleasure
+I'm touching <i>myself</i> now @AFKOn
+#EmoteMoan @ShowTaggedImage @TagSoloF
+My #Pussy
+#Imagine how wet it is
+#EmoteMoan @ShowTaggedImage @TagSoloF
+#Imagine me
+Feels <i>so</i> good
+#EmoteWhimper @ShowTaggedImage @TagSoloF
+Touching my #Pussy #Name
+#Imagine how good it would feel to be inside me
+#Imagine how good I feel right now
+I #Love doing this for you 
+#EmoteMoan  
+I #Love letting you #Tease me like this  
+I #Love how good this feels 
+#EmoteMoan @ShowTaggedImage @TagSoloF 
+Oh my God #Name 
+It feels so good 
+I could #TeaseDom myself like this for <i>hours</i>
+#EmoteMoan @ShowTaggedImage @TagSoloF 
+I'm #Aching so bad for you right now
+#EmoteFace @ShowTaggedImage @TagSoloF @LockImages 
+#EmoteWhimper @UnlockImages 
+I'm getting close #Name 
+#Exclaim 
+My throbbing #Pussy 
+#Exclaim @ShowTaggedImage @TagSoloF 
+I'm slowing down 
+Almost on the cusp 
+#Teasing myself 
+#Exclaim 
+Slowly circling 
+So close to the edge 
+Savouring it 
+#Exclaim @ShowTaggedImage @TagSoloF 
+This is my favourite part #Name 
+The part where I edge for you 
+I'm <i>right</i> there 
+I'm so close 
+#Exclaim @ShowTaggedImage @TagSoloF @LockImages 
+#Exclaim 
+#Exclaim 
+I'm <i>sooooo</i> close 
+#EmoteMoan @ShowTaggedImage @TagSoloF 
+I'm #Aching for you 
+It's so wet 
+#Exclaim 
+It's so hard 
+To <i>not</i> go over the edge 
+Because I can't take it any more @AFKOff
+#Exclaim
+Can I stop #Name, please can I stop?
+[yes] #Exclaim @Goto(Stop1)
+[no] #Exclaim
+[stop] #Exclaim @Goto(Stop1)
+@DifferentAnswer #BeggingDom @Goto(L0)
+(L0) 
+#BeggingDom
+[yes] #Exclaim @Goto(Stop2)
+[no] #Exclaim
+[stop] #Exclaim @Goto(Stop2)
+@DifferentAnswer #BeggingDom @Goto(L1)
+(L1)
+#BeggingDom
+[yes] #Exclaim @Goto(Stop2)
+[no] #Exclaim
+[stop] #Exclaim @Goto(Stop2)
+@DifferentAnswer #BeggingDom @Goto(L0)
+(Stop1)
+#Exclaim
+#EmoteMoan #Exclaim
+It's so hard to let it go
+#Exlaim
+<i>Being told to stop</i>
+Just... #Exclaim
+I'm a mess now #Name @Goto(End)
+(Stop2)
+#Exclaim
+#EmoteMoan #Exclaim
+ #Name, that was torture
+<i>I love being tortured</i>
+It's so hard to hold it back
+#Exclaim
+It's so hard to to let it go
+#Exclaim
+<i>Being told to stop</i>
+Just... #Exclaim
+<i>I'm a mess</i>
+<i>I'm so wet</i>
+ #Name
+(End)
+I need a shower so bad
+I hope you had fun tonight #Name
+I sure did
+Message me soon, #SubName @DeleteFlag(ERWon)
+I'm going to need the orgasm that I give you tomorrow
+@End 
+@Info ~Opiate.

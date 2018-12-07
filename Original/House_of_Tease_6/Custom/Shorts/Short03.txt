@@ -1,0 +1,12 @@
+@NullResponse @RapidCodeOn
+@NullResponse @Goto(01, 02)
+(01)
+Now, your body and all of your instincts are probably screaming at you just to cum. 
+It'd be a feat of discipline... 
+@FlagOr(av_fetish_rough, AV_Beta) if it weren't so pathetic. 
+@End
+(02)
+You're rock hard from this, aren't you? @ResponseYes(GNMHorny)
+@FlagOr(av_fetish_rough, AV_Beta) Well consider where a real man would cum. Willing mouths, faces, pussies.
+@FlagOr(av_fetish_rough, AV_Beta) You, however, won't get to do that.
+@End

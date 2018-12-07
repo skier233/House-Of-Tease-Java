@@ -1,0 +1,111 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link14_NotFirstTime)
+@NullResponse @SetVar[AV_Link14]=[0] 
+@NullResponse @SetFlag(AV_Link14_NotFirstTime)
+(AV_Link14_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link14]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link14]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link14]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link14]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link14]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link14]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link14]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link14]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link14]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link14]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link14]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link14]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link14]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link14]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link14]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link14]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link14]=[AV_Link14]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link14]=[AV_Link14]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link14]=[AV_Link14]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link14]=[AV_Link14]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link14]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Cumming is followed by misery, a sense of loss, regret. 
+I want you to stroke, but not cum. 
+I want you to edge hard, but not release. 
+I want you to be terrified of orgasming
+in case that next edge is never quite as good as it could have been if you just left yourself...
+blue balled, teased and denied. 
+#StartStroking @StartStroking
+@End
+(Link2)
+You're starting to realize that there truly is no release for you.
+Not physically, and not mentally. 
+You're trapped in this cycle, and how do I keep you here? 
+By controlling your orgasms, of course. 
+You're so enamored and captivated by me because every time you pump that cock for me 
+you flood your system with endorphins, dopamine, happy hormones. 
+It's not cumming that you enjoy 
+it's that blissful edge right before you do. 
+It's that cresting that you lust after. 
+#StartStroking @StartStroking
+@End
+(Link3)
+You love stroking "my" cock, don't you?
+You love ME, don't you?  @ResponseYes(I'm in Love with You) 
+Mmmhmm, give in to how good losing all of your power feels. 
+There is liberty in letting go. 
+Give yourself to me.
+#StartStroking @StartStroking
+@End
+(Link4)
+You're so used to stroking for me, but I want you to take it to the next level.
+I want ownership, and you crave my control. 
+So how about we pretend, just for today, that that meat between your legs, is MINE. MY cock. 
+It doesn't belong to you. 
+You don't control it. 
+It's just a joystick, attached to your weak, vulnerable body 
+which becomes more and more submissive for me with every pump of MY dick. 
+feel my cock throb, feel my balls ache. 
+#StartStroking @StartStroking
+@End

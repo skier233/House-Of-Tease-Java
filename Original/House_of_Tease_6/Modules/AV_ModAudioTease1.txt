@@ -1,0 +1,580 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModAud1_NotFirstTime)
+@NullResponse @SetVar[AV_ModAud1]=[0] 
+@NullResponse @SetFlag(AV_ModAud1_NotFirstTime)
+(AV_ModAud1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModAud1]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModAud1]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModAud1]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModAud1]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModAud1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModAud1]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModAud1]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModAud1]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModAud1]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModAud1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModAud1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModAud1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModAud1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModAud1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModAud1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModAud1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModAud1]=[AV_ModAud1]+[1]
+@NullResponse @Goto(Module1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModAud1]=[AV_ModAud1]+[10]
+@NullResponse @Goto(Module2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModAud1]=[AV_ModAud1]+[100]
+@NullResponse @Goto(Module3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModAud1]=[AV_ModAud1]+[1000]
+@NullResponse @Goto(Module4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModAud1]=[0]
+@NullResponse @RandomModule
+@End
+(Module1)
+@Stroking #Stop @StopStroking
+@NullResponse @CheckFlag(av_fetish_pegging)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(AV_SexImg)
+@BadMood @NullResponse @Interrupt(AV_Pins)
+@Flag(AV_DommeMistress) @NullResponse @Interrupt(AV_Pins)
+(AV_SexImg)
+Do you think this is #Sexy ? @ShowBlogImage @LockImages
+[yes] I'm glad to hear you think so
+[no] That's too bad
+@DifferentAnswer Yes or no #PetName?
+Cause you're #Gonna edge to that right now #Grin @Edge
+#LetTheEdgeFade @UnlockImages
+@End
+(av_fetish_pegging)
+@NullResponse @Chance50(Peg2)
+Oh my... you have a tight little asshole, don't you? @Timeout(10, AV_Jump01)
+[yes] #Smile @MoodUp
+[no] That's fine... I'll break you in in no time.
+@AcceptAnswer I am talking about your asshole #SubName
+(AV_Jump01)
+I'll train you to serve me well. 
+Mmmmm... I love this feeling... grinding my pussy against the other end of this... @ShowTaggedImage @TagStrapon @Wait(10)
+I'm getting so #Wet. Watching you struggle gets me off. 
+@RT(Oh no please don't fuck me any more mistress, Have mercy on me! Please don't fuck my ass so hard!) #LOL. @ShowTaggedImage @TagStrapon @Wait(10)
+#Edge @Edge
+#LetTheEdgeFade 
+@Flag(AV_DommeMistress) You're lucky I'm not one of those sick bitches that likes watching her slave get pimped out, 
+@Flag(AV_DommeMistress) because I could make some money off you, couldn't I? 
+You're lucky I have no interest in sharing my toy... 
+I'm so good to you, aren't I? @Chance50(AVRND10)
+Now... THANK YOUR MISTRESS... 
+[thank you, thanks, thanking you, thankful for, thx, grateful for, thanks mistress] That's right, bitch. You like this don't you? 
+@DifferentAnswer I said THANK YOUR MISTRESS
+TELL YOUR MISTRESS THAT YOU LIKE IT! 
+[I like, liked, like] I KNOW YOU LIKE IT. You know how I know? 
+@DifferentAnswer I said TELL YOUR MISTRESS THAT YOU LIKE IT! 
+(AVRND10)
+@Flag(AV_DommeMistress) Because your #Cock is rock hard. You really are a submissive bitch, aren't you? 
+@Flag(AV_DommeMistress) My dirty little masochist loves this, doesn't he? 
+@NotFlag(AV_DommeMistress) Because your #Cock is rock hard.
+#Edge @Edge
+#LetTheEdgeFade 
+You loves it when your #Owner violates you. 
+@Flag(AV_DommeMistress) I'm gonna train you to be a good anal whore. 
+@Flag(AV_DommeMistress) I knew right away who I was dealing with when I met you. 
+You love all of this. From now on, you're my #Slave. 
+Whenever I want you. If I want you to worship my boots or #Ass... eat my #Pussy... 
+if I want to fuck your tight little ass... @ShowTaggedImage @TagStrapon @Wait(10)
+If I want to make use of this hard slave-cock
+#Edge @Edge
+#LetTheEdgeFade 
+You belong to me, understand? 
+[yes] Good boy   @Goto(bom1)
+[no] You don't?   @Goto(mau1)
+@DifferentAnswer Yes or no #SubName?
+(bom1)
+@NullResponse @MoodUp
+@NullResponse @Goto(fim1)
+(mau1)
+@NullResponse @MoodDown
+(fim1)
+Mmmm... I can tell you like that. 
+You like being my slut. My SLAAAAVE. 
+Mmm... You like that word too, don't you?  @Timeout(05, AV_Jump02)
+[yes] It turns you on to think of yourself as a SLAVE, doesn't it? 
+[no] No? 
+@AcceptAnswer #SubName?
+(AV_Jump02)
+#Edge @Edge
+#LetTheEdgeFade 
+To have a mistress who owns you and dominates you sexually. 
+Admit it...
+[yes] Good... I'm happy to hear that. 
+[no] Do not lie #PetName 
+@DifferentAnswer Yes or no #PetName?
+You focus on being the best slave you can be and I promise you, I'll make you happy...  
+@RandomText(I'll satisfy you better than you've ever been satisfied, You LOVE your mistress don't you, Tell your mistress you love and adore her)
+Now, are you ready to be satisfied too?
+#Edge @Edge
+#LetTheEdgeFade 
+@End
+(Peg2)
+@RT(Now then let's see you get up on all fours, Get that pretty little ass of yours up in the air)
+See what I have in my bag here? About the same size as yours, isn't it? #Grin @ShowTaggedImage @TagStrapon 
+Looks like you're kind of eager as I pull it up my legs. 
+You like the look of that? 
+[yes] Hmm @MoodUp
+[no] You don't? 
+@DifferentAnswer Yes or no #SubName?
+I know I'm going to like it, it rubs me just in the right places when I fuck you. 
+#StartStrokingNS to the beat #AudioStrokeNW
+Want to feel my finger on your asshole? @Timeout(10, AV_Jump03)
+[yes] Hmm @MoodUp
+[no] That's too bad @MoodDown
+@AcceptAnswer #Lol
+(AV_Jump03)
+I'm going to loosen you up. 
+After I get it in, I'll let you rub yourself. 
+I want you to @RandomText(have your first orgasm with me while I have my #Big black cock inside you, get #Stiff and start drooling when you see it) @ShowTaggedImage @TagStrapon @Wait(10)
+Bet you're glad I'm using lube. @FollowUp50(You must be a virgin, I can barely fit two fingers up there. )
+Well, just relax. 
+@Flag(av_fetish_rough) #Lol well, if you want. Maybe you want it to hurt. 
+Oh fuck, this is so #Sexy. 
+Can you feel the head of my cock back there?  @ShowTaggedImage @TagStrapon @Wait(10)
+Just rubbing? All it takes is a little pressure and....Pop! @FollowUp(In it goes)
+@Flag(AV_DommeHornie1) Fuck, this makes me so #Wet. 
+#StartStrokingNS to the beat #AudioStrokeNW @Wait(10)
+I've been dreaming of this moment for months, my little #Slave . 
+Take it *MOAN*. You have no idea how good this feels. @ShowTaggedImage @TagStrapon @Wait(10)
+@Flag(AV_DommeMistress) How much I like being in charge of you. 
+Hearing you whimper is sending litlte electrical charges down my pussy. @FollowUp50(Do it more) 
+@CBT
+@Flag(AV_DommeMistress) I said do it more! 
+@Flag(AV_DommeMistress) @CBT
+Oh, that's good. That's a good rhythym. @ShowTaggedImage @TagStrapon @Wait(10)
+Okay, okay, let's do this right. Grab your #Cock, pussy. 
+Grab it, #Slave. I want to see you stroke while I fuck you.
+Time your stroking to my hips pumping into you. @ShowTaggedImage @TagStrapon @Wait(10)
+#Edge @Edge
+#LetTheEdgeFade 
+#ThatsEnough #Slave
+@End
+(Module2)
+@Stroking #Stop @StopStroking
+#PetName 
+#Contact3 wants to do something to you
+She says it will makes your stroking more pleasureable?
+So #OfCourse I said sure #Grin @AddContact3
+Hi #Contact3
+@Contact3 Hi #ShortName and #SubName
+@Contact3 I'm not gonna waste too much of your time #ShortName #Grin
+@Contact3 This is how it starts. You expose yourself to me, make yourself as vulnerable
+@Contact3 I'm going to destroy you as a man
+@Contact3 #StartStroking 
+@Contact3 No, not quite like you did for #DomName
+@Contact3 What she did was just a scratch
+@Contact3 compared to the wound that I'm going to inflict
+@Contact3 As I'm sure #DomName explained to you
+@Contact3 you're going to be doing a lot more jerking off over me
+@Contact3 but from now on you're gonna do it how I want you to
+@Contact3 and what *I* want
+@Contact3 is for that fucking #Cock to never feel good again
+@Contact3 #StopStroking
+@Contact3 I have no problem exposing myself to you
+@Contact3 as long as I know that seeing my body is making you suffer
+@Contact3 But I will NEVER let the sight of my body make you feel good
+@Contact3 Go ahead. Stare at me all you want, that's what you wanted, isn't it? 
+@Contact3 Time for you to actually earn this view #Edge @EdgeNoHold
+@Contact3 You feel that ache that wraps around your dick when you pull back from the edge like that? 
+@Contact3 You're going to add so much more ache for me. 
+@Flag(AV_DommeMistress) @Contact3 I want your fucking dick to exist in a state of living hell
+@Contact3 #Edge @EdgeNoHold
+@Contact3 I want your #Cock to be more desperate to cum than you are to get a girl to be nice to you. 
+@Contact3 #Edge @EdgeNoHold
+@Contact3 I trust #DomName clearly spelled out that part of our plan for you. 
+@Contact3 That's why you're going to make yourself so desperate for me right now.
+@Contact3 #Edge @EdgeNoHold
+@Contact3 Your dick is nothing more than my toy now
+@Contact3 and I'm going to play with it a lot
+@Contact3 That's how you should ALWAYS feel. 
+@Contact3 Desperate and aching
+@Contact3 Does it hurt real bad, making that #Cock hold all that cum on its own? 
+@Contact3 I hope so, I'm going to make you do it again. @FollowUp50(And again) 
+@Contact3 Over and over until it fucking breaks
+@Contact3 Get back on the edge and stay there @EdgeHold
+@Contact3 Riding one edge isn't going to cut it. 
+@Contact3 I want to make you edge over and over again. 
+@Contact3 I want to fill your #Cock with so much ache 
+@Contact3 that the weight of it literally drags you to the ground.
+@Contact3 So what are you waiting for? #Edge @EdgeNoHold
+@Contact3 When your dick can finally take no more, when it literally breaks from the strain #Edge @EdgeNoHold
+@Contact3 You know why it's necessary to make you edge so much, right? 
+@Contact3 It's to make it so much worse on you when #DomName make you #Stroke it again
+@Contact3 #Edge @EdgeNoHold
+@Contact3 at the rate you're going, you might not even last through the rest of the night with your dick intact.
+@NullResponse @RemoveContact3
+@End
+(Module3)
+@Stroking #Stop @StopStroking
+Hey #PetName. I had an idea for a game we could play together.
+You know those girls you've always fancied?
+The ones you're almost obsessed over.
+I want you to look and rate them with me.
+Depending on the score, I'll decide what you should do
+You need to give 1 -not attractive for you- to 5 - #Very hot-
+Let's start with that one. @ShowTaggedImage @TagArtwork @LockImages
+[1] So, you #Hate that one, huh? @DislikeBlogImage @Goto(Pic1_1)
+[2] Not to #Love, but could be worse. @DislikeBlogImage @Goto(Pic1_2)
+[3] Not #Great, but not bad. @Goto(Pic1_3)
+[4] She gets you #SubHorny, huh? @LikeBlogImage @Goto(Pic1_4)
+[5] She is #Hot, right? @LikeBlogImage @Goto(Pic1_5)
+@DifferentAnswer Just type the rate between 1 and 5
+(Pic1_1)
+Since you did not liked this girl @Chance40(Pic1_1_Stroke)
+Keep smacking you #Cock until I change the #Picture
+@Goto(Pic1Tease)
+(Pic1_1_Stroke)
+#Stroke slow until I change the #Picture @Goto(Pic1Tease)
+(Pic1_2)
+Since you did not liked this girl @Chance60(Pic1_2_Stroke)
+Keep smacking you #Cock until I change the #Picture @Goto(Pic1Tease)
+(Pic1_2_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic1Tease)
+(Pic1_3)
+Since you can not decide if you like this girl or not @Chance50(Pic1_3_Stroke)
+#Stroke slow until I change the #Picture @Goto(Pic1Tease)
+(Pic1_3_Stroke)
+#Stroke at medium pace until I change the #Picture
+@Goto(Pic1Tease)
+(Pic1_4)
+Since you like this girl @Chance50(Pic1_4_Stroke)
+#Stroke fast until I change the #Picture @Goto(Pic1Tease)
+(Pic1_4_Stroke)
+#Stroke fast and slow down if you are close to avoid the edge, until I change the #Picture
+@Goto(Pic1Tease)
+(Pic1_5)
+#OMod1 @Chance50(Pic1_5_Stroke)
+#Stroke fast to the edge and hold until I change the #Picture @Goto(Pic1Tease)
+(Pic1_5_Stroke)
+#Stroke fast to the edge and stop. Repeat until I change the #Picture
+@Goto(Pic1Tease)
+(Pic1Tease)
+Now tell her how hot you think she is.
+Go on, she can't hear you. 
+Tell her what you'd like to do to her.
+Let her know your biggest fantasy.
+I'm #Loving this
+Well, we both know that will never happen.
+That's why you're here, looking at her pictures instead. @UnlockImages
+#Stop
+Let's try this one now. @ShowTaggedImage @TagArtwork @LockImages
+Isn't she hot?
+[1] So, you #Hate that one, huh? @DislikeBlogImage @Goto(Pic2_1)
+[2] Not to #Love, but could be worse. @DislikeBlogImage @Goto(Pic2_2)
+[3] Not #Great, but not bad. @Goto(Pic2_3)
+[4] She gets you #SubHorny, huh? @LikeBlogImage @Goto(Pic2_4)
+[5] She is #Hot, right? @LikeBlogImage @Goto(Pic2_5)
+@DifferentAnswer Just type the rate between 1 and 5
+(Pic2_1)
+Since you did not liked this girl @Chance40(Pic2_1_Stroke)
+Keep smacking you #Cock until I change the #Picture @Goto(Pic2Tease)
+(Pic2_1_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic2Tease)
+(Pic2_2)
+Since you did not liked this girl @Chance60(Pic2_2_Stroke)
+Keep smacking you #Cock until I change the #Picture @Goto(Pic2Tease)
+(Pic2_2_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic2Tease)
+(Pic2_3)
+Since you can not decide if you like this girl or not @Chance50(Pic2_3_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic2Tease)
+(Pic2_3_Stroke)
+#Stroke at medium pace until I change the #Picture @Goto(Pic2Tease)
+(Pic2_4)
+Since you like this girl @Chance50(Pic2_4_Stroke)
+#Stroke fast until I change the #Picture
+@Goto(Pic2Tease)
+(Pic2_4_Stroke)
+#Stroke fast and slow down if you are close to avoid the edge, until I change the #Picture @Goto(Pic2Tease)
+(Pic2_5)
+Since you #Love this girl @Chance50(Pic2_5_Stroke)
+#Stroke fast to the edge and hold until I change the #Picture
+@Goto(Pic2Tease)
+(Pic2_5_Stroke)
+#Stroke fast to the edge and stop. Repeat until I change the #Picture
+@Goto(Pic2Tease)
+(Pic2Tease)
+Are you looking at her beautiful face?
+Or maybe you prefer her #Boobs?
+You're not looking at her #Ass are you? @UnlockImages
+You can stop now.
+#Stop
+Let's try this one now. @ShowTaggedImage @TagArtwork @LockImages
+Isn't she hot?
+[1] So, you #Hate that one, huh? @DislikeBlogImage @Goto(Pic3_1)
+[2] Not to #Love, but could be worse. @DislikeBlogImage @Goto(Pic3_2)
+[3] Not #Great, but not bad. @Goto(Pic3_3)
+[4] She gets you #SubHorny, huh? @LikeBlogImage @Goto(Pic3_4)
+[5] She is #Hot, right? @LikeBlogImage @Goto(Pic3_5)
+@DifferentAnswer Just type the rate between 1 and 5
+(Pic3_1)
+Since you did not liked this girl @Chance40(Pic3_1_Stroke)
+Keep smacking you #Cock until I change the #Picture
+@Goto(Pic3Tease)
+(Pic3_1_Stroke)
+#Stroke slow until I change the #Picture @Goto(Pic3Tease)
+(Pic3_2)
+Since you did not liked this girl @Chance70(Pic3_2_Stroke)
+Keep smacking you #Cock until I change the #Picture
+@Goto(Pic3Tease)
+(Pic3_2_Stroke)
+#Stroke slow until I change the #Picture @Goto(Pic3Tease)
+(Pic3_3)
+Since you can not decide if you like this girl or not @Chance50(Pic3_3_Stroke)
+#Stroke slow until I change the #Picture @Goto(Pic3Tease)
+(Pic3_3_Stroke)
+#Stroke at medium pace until I change the #Picture @Goto(Pic3Tease)
+(Pic3_4)
+#OMod1 @Chance50(Pic3_4_Stroke)
+#Stroke fast until I change the #Picture
+@Goto(Pic3Tease)
+(Pic3_4_Stroke)
+#Stroke fast and slow down if you are close to avoid the edge, until I change the #Picture
+@Goto(Pic3Tease)
+(Pic3_5)
+Since you #Love this girl @Chance50(Pic3_5_Stroke)
+#Stroke fast to the edge and hold until I change the #Picture @Goto(Pic3Tease)
+(Pic3_5_Stroke)
+#Stroke fast to the edge and stop. Repeat until I change the #Picture
+@Goto(Pic3Tease)
+(Pic3Tease)
+Squeeze it a little harder.
+Pretend it's her hand doing the work.
+How would she jerk/smack you off?
+#Loving this @UnlockImages
+#Stop
+Another one. @ShowTaggedImage @TagArtwork @LockImages
+Give your rate now:
+[1] So, you #Hate that one, huh? @DislikeBlogImage @Goto(Pic4_1)
+[2] Not to #Love, but could be worse. @DislikeBlogImage @Goto(Pic4_2)
+[3] Not #Great, but not bad. @Goto(Pic4_3)
+[4] She gets you #SubHorny, huh? @LikeBlogImage @Goto(Pic4_4)
+[5] She is #Hot, right? @LikeBlogImage @Goto(Pic4_5)
+@DifferentAnswer Just type the rate between 1 and 5
+(Pic4_1)
+Since you did not liked this girl @Chance40(Pic4_1_Stroke)
+Keep smacking you #Cock until I change the #Picture @Goto(Pic4Tease)
+(Pic4_1_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic4Tease)
+(Pic4_2)
+Since you did not liked this girl @Chance70(Pic4_2_Stroke)
+Keep smacking you #Cock until I change the #Picture @Goto(Pic4Tease)
+(Pic4_2_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic4Tease)
+(Pic4_3)
+Since you can not decide if you like this girl or not @Chance50(Pic4_3_Stroke)
+#Stroke slow until I change the #Picture @Goto(Pic4Tease)
+(Pic4_3_Stroke)
+#Stroke at medium pace until I change the #Picture
+@Goto(Pic4Tease)
+(Pic4_4)
+#OMod1 @Chance50(Pic4_4_Stroke)
+#Stroke fast until I change the #Picture @Goto(Pic4Tease)
+(Pic4_4_Stroke)
+#Stroke fast and slow down if you are close to avoid the edge, until I change the #Picture
+@Goto(Pic4Tease)
+(Pic4_5)
+#OMod1 @Chance50(Pic4_5_Stroke)
+#Stroke fast to the edge and hold until I change the #Picture @Goto(Pic4Tease)
+(Pic4_5_Stroke)
+#Stroke fast to the edge and stop. Repeat until I change the #Picture
+@Goto(Pic4Tease)
+(Pic4Tease)
+What if she found out you're #Stroking to her pictures?
+Does the idea excite you? Do you secretly want her to know what a perv you are?
+What would you do if she told you that she knew what you're doing? @UnlockImages
+#Stop
+Another one. @ShowTaggedImage @TagArtwork @LockImages
+Give your rate now:
+[1] So, you #Hate that one, huh? @DislikeBlogImage @Goto(Pic5_1)
+[2] Not to #Love, but could be worse. @DislikeBlogImage @Goto(Pic5_2)
+[3] Not #Great, but not bad. @Goto(Pic5_3)
+[4] She gets you #SubHorny, huh? @LikeBlogImage @Goto(Pic5_4)
+[5] She is #Hot, right? @LikeBlogImage @Goto(Pic5_5)
+@DifferentAnswer Just type the rate between 1 and 5
+(Pic5_1)
+Since you did not liked this girl @Chance40(Pic5_1_Stroke)
+Keep smacking you #Cock until I change the #Picture @Goto(Pic5Tease)
+(Pic5_1_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic5Tease)
+(Pic5_2)
+Since you did not liked this girl @Chance70(Pic5_2_Stroke)
+Keep smacking you #Cock until I change the #Picture @Goto(Pic5Tease)
+(Pic5_2_Stroke)
+#Stroke slow until I change the #Picture
+@Goto(Pic5Tease)
+(Pic5_3)
+Since you can not decide if you like this girl or not @Chance50(Pic5_3_Stroke)
+#Stroke slow until I change the #Picture @Goto(Pic5Tease)
+(Pic5_3_Stroke)
+#Stroke at medium pace until I change the #Picture
+@Goto(Pic5Tease)
+(Pic5_4)
+Since you like this girl @Chance50(Pic5_4_Stroke)
+#Stroke fast until I change the #Picture @Goto(Pic5Tease)
+(Pic5_4_Stroke)
+#Stroke fast and slow down if you are close to avoid the edge, until I change the #Picture
+@Goto(Pic5Tease)
+(Pic5_5)
+Since you #Love this girl @Chance50(Pic5_5_Stroke)
+#Stroke fast to the edge and hold until I change the #Picture @Goto(Pic5Tease)
+(Pic5_5_Stroke)
+#Stroke fast to the edge and stop. Repeat until I change the #Picture
+@Goto(Pic5Tease)
+(Pic5Tease)
+Imagine #Stroking to her in real life.
+Can you see it in front of you?
+She's standing there before you, while you #Stroke your #Cock.
+Do you think she would be impressed?
+Probably not. @UnlockImages
+You can stop now.
+That was pretty good, wasn't it?
+@End
+(Module4)
+@Stroking #Stop @StopStroking
+Game time!
+My tasks are going to be fun! 
+You can choose not to do some tasks in exchange for an alternate task.
+When there isn't an alternate available you must do the selected task.
+Lets see how lucky you are boy, pick a number! 1, 2 or 3
+[1] @NullResponse @Goto(aTaskg1)
+[2] @NullResponse @Goto(aTaskg2)
+[3] @NullResponse @Goto(aTaskg3)
+@DifferentAnswer 1, 2 or 3 #SubName?
+(aTaskg1)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(aTaskg2, aTaskg3)
+Put a clothes pin on each of your nipples! 
+Spank your ass 50 times on each cheek with ruler, belt, or your hand. 
+I want it to be on fire boy! 
+Just like the girls ass is here!
+Tell me when you are done
+[done, yes] @NullResponse @Goto(SegundaTarefa)
+@DifferentAnswer Are you done #SubName?
+(aTaskg2)
+Edge in 125 Strokes or less! 
+If you fail, you need to stop, rest 1 full minute, and then try again over and over till you do it.
+Tell me when you are done
+[done, yes] @NullResponse @Goto(SegundaTarefa)
+@DifferentAnswer Are you done #SubName?
+(aTaskg3)
+5 Edges on your marks! 
+Your marks are 50, 100, 150, 200 and 250!
+Do 1 edge on each of your marks followed by 5 immediate PC muscle squeezes
+then rest 10 seconds and start stroking again. 
+If you edge before your marks you may ride it till you hit your mark.
+If you can't ride it till your mark or you lose count of your strokes 
+you must stop and restart that level.
+I will give something to help you 
+Tell me when you are done @Slideshow(boobs) @SlideshowOn 
+[done, yes] @NullResponse @SlideshowOff  @Goto(SegundaTarefa)
+@DifferentAnswer Are you done #SubName? 
+(SegundaTarefa) 
+I hope you get lucky again! Pick another number 1, 2 or 3?
+[1]  @NullResponse @Goto(bTaskg1)
+[2]  @NullResponse @Goto(bTaskg2)
+[3]  @NullResponse @Goto(bTaskg3)
+@DifferentAnswer 1, 2 or 3 #SubName?
+(bTaskg1)
+Get an ice cube and melt it by rubbing it all over your cock and balls. 
+All over means the head too. Melt it all the way to nothing
+Tell me when you are done
+[done, yes] @NullResponse @Goto(TerceiraTarefa)
+@DifferentAnswer Are you done #SubName?
+(bTaskg2)
+Take 1 ice cube and pop it up your tight ass! 
+Stroke/rub and keep adding cubes after they melt until you edge 3 times. 
+This time, you have a chance to choose a alternative task.
+Did you want?
+[yes] OK @Goto(AlternativeTask1)
+[no] OK
+@DifferentAnswer Yes or no #SubName?
+Tell me when you are done
+[done, yes] @NullResponse @Goto(TerceiraTarefa)
+@DifferentAnswer Are you done #SubName?
+(AlternativeTask1)
+#Edge @EdgeNoHold
+#Edge @EdgeNoHold
+#Edge @EdgeNoHold
+@NullResponse @Goto(TerceiraTarefa)
+(bTaskg3)
+Roll two dice. 
+Now flip a coin! 
+Heads, you have to edge the same number of times as the number you rolled. 
+Tails, you have to double any numbers on your next task that are number related. 
+Tell me when you are done
+[done, yes] @NullResponse @Goto(TerceiraTarefa)
+@DifferentAnswer Are you done #SubName?
+(TerceiraTarefa)
+Pick a number boytoy! 1, 2 or 3?
+[1] @NullResponse @Goto(cTaskg1)
+[2] @NullResponse @Goto(cTaskg2)
+[3] @NullResponse @Goto(cTaskg3)
+@DifferentAnswer 1, 2 or 3 #SubName?
+(cTaskg1)
+Stroke 1000 times or edge 4 times 
+I sure hope you don't have to double these numbers.
+Tell me when you are done
+[done, yes] @NullResponse @Goto(FimTarefa)
+@DifferentAnswer Are you done #SubName?
+(cTaskg2)
+Stroke to the beat. @PlayAudio[tease\b075.mp3] 
+and tense up your PC muscle between every stroke! 
+Don't you dare cum! 
+@NullResponse @Goto(FimTarefa)
+(cTaskg3)
+#Edge @EdgeNoHold
+#Edge @EdgeNoHold
+#Edge @EdgeNoHold
+(FimTarefa)
+#ThatsEnough
+@End

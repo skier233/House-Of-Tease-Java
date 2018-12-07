@@ -1,0 +1,5 @@
+But that's okay. I'm doing all this for you #PetName. 
+I know what's best for you. Isn't that so?  @ResponseYes(ILoveBeingControlled)
+@Flag(AV_Beta) betas should leave the thinking to their superiors. 
+@NotFlag(AV_Beta) submissives should leave the thinking to their superiors.
+@End

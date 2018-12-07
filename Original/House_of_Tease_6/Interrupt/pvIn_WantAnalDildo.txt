@@ -1,0 +1,261 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@RT(Alright,Alright then,Okay), @RT(you can go,go,you should,you may) @RT(fetch,get,get out) your dildo @Goto(one,two,three,four)
+@NullResponse
+(one)
+Don't lube it up yet...
+I want you to worship that cock first
+Start stroking that dildo, #SubName
+Stroke it the way you stroke that #Cock attached to your body, the one that belongs to me
+And the dildo is mine too, #PetName
+Just pretend like I'm standing in front of you with that dildo strapped to my pelvis
+I want you to kneel before me @TempFlag(pvKneeling)
+Kneel and worship my strapon, #PetName
+Stroke it like a good, obedient servant
+Now lick it from the base all the way up to the tip @CustomMode(#pvDontWantTo,Goto,do not want)
+Give the head a little kiss #Smile
+I think you probably know what's going to happen now...
+(slide it in)
+Open your mouth
+Stick out your tongue... #Grin
+Now take that dildo and slide it into your mouth
+Take it as deep as you can and then take it out again
+Very good #Smile
+Do that again, #Name 
+Wrap you lips around the shaft of that cock and shove it down your throat
+Don't stop this time, keep sucking it
+Keep sliding it in and out of your mouth
+Mmm that's a good little cocksucker #Laugh
+Fondle your #Balls while you suck that dick @CustomMode(#pvDontWantTo,Normal)
+I think you're about ready to take it in your ass, #Name
+So lube it up now, if it isn't slippery enough from all that sucking #Laugh
+You're going to want to make it <i>very</i> slippery...
+Go ahead and stick it in your ass, #Name
+Mmm that's so hot #EmoteMoan
+Fuck yourself with that dildo @Wait(9)
+Go a little bit faster now @Wait(8)
+@Flag(pvSpankingYes) I want you to spank your ass while you fuck yourself @CustomTask(Spanking)
+How does it feel to be my bitch, hm?
+I bet it feels good, like you are exactly where you belong
+@BallTorture Look at your #Balls swinging as you pound away #Laugh @CBTBalls
+Slow down, #SubName
+I want you to do slow and deep thrusts now
+Imagine me taking you from behind
+Pulling your hair, smacking your ass
+With every thrust of my hips I drive my strapon deeper into your asshole
+Pull the dildo out of your ass
+You're going to do 10 more thrusts, I'm going to count them for you
+And I want you to push the dildo inside as deep as you can
+Try to push it a little deeper each time
+Get ready...
+1... @Wait(#Random(3,9))
+2... @Wait(#Random(3,9))
+3... @Wait(#Random(3,9))
+4... @Wait(#Random(3,9))
+5... @Wait(#Random(3,9))
+6... @Wait(#Random(3,9))
+7... @Wait(#Random(3,9))
+8... @Wait(#Random(3,9))
+9... @Wait(#Random(3,9))
+And one more...
+10!
+Well done, pull that dildo out of your asshole again #Smile 
+@Flag(pvKneeling) Get up, #Name @DeleteFlag(pvKneeling)
+That's enough anal action for now, don't you think?
+[yes] It was fun...
+[no,want more] Aww #Laugh 
+@DifferentAnswer That was enough don't you think?
+But there are so many other thing I can do to you #Grin
+@End 
+(do not want)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_NotWantSuckDildo.txt)
+@NullResponse @Goto(slide it in)
+@End
+(two)
+Lube it up if you have to, #Name @Glitter(pvGL_WA2)
+It's probably best if you do, considering where it's going #Lol
+Here's what I want you to do...
+Stick the dildo on the floor so that it's standing straight up
+If it has one of those suction cups on the bottom, that should be easy
+If not... you're just going to have to hold it down with your hand
+Now squat over the dildo so that the tip touches your asshole
+Tease that hole with the head of that dick but don't stick it in yet, #Name
+Just rub it against your ass...
+Mmm you want so badly to penetrate yourself, don't you? @Timeout(6,look at yourself)
+[yes] Yes... #EmoteMoan
+[no] And yet look at yourself right now... #Laugh
+@DifferentAnswer #YesOrNo
+(look at yourself)
+Just the tip now, let it slide in #SubName
+Don't take it too deep yet, we'll get to that...
+Right now I want you to fuck the head of that cock
+Play with your #Balls while you do that @Wait(10)
+I think your ass is getting ready for more #Grin @AddContact1
+@Contact1 Anal action still going on?
+You're just in time for things to get real, #Contact1
+@Contact1 Awesome #EmoteHappy
+Here we go, #SubName
+Sit down on top of that dildo until it's all the way in your ass
+Push it until you can't go any further and then stop, don't pull it back out
+@Contact1 Ouch, looks like its going pretty deep! #Lol
+Feel how hat dildo fills up your ass, #Name
+Get on your knees @TempFlag(pvKneeling)
+@Flag(pvHasCollar) Go get your collar for us, crawl if you have to
+@Flag(pvHasCollar) Hurry up, #Name
+@Flag(pvHasCollar) Put that collar around your neck @TempFlag(pvCollared)
+@Contact1 Like a good little doggie #Lol @Wait(12)
+@Contact1 I want you to pull the dildo out now, #SubName
+@Contact1 Get it all the way out...
+@Contact1 Look at that that nice big cock that was just in your ass... @Wait(8)
+@Contact1 And now ram it back in #Laugh
+Also... start stroking #Smile  @Wait(5)
+It's about time you edged with that dildo in your ass
+@Contact1 But wait for it, you can only edge when we say so
+@Contact1 Just stroke for us now you cock slut #Laugh @Wait(8)
+@Contact1 #ShortName should he get to the edge now?
+You're so impatient #Lol
+@Contact1 Yeah, well... get to the edge right now #SubName #Laugh @EdgeNoHold
+#LetTheEdgeFade
+Take that dildo out again
+@Contact1 That was pretty great #EmoteHappy
+@Contact1 Do you make him lick the dildo clean?
+Eww no! That's nasty...
+@Contact1 Well yeah sure it's nasty... that's the point #Lol
+@Contact1 Will you suck on that dirty dildo for me, #SubName?
+[yes] OMG #Lol
+[no] Don't worry #SubName you don't have to #Smile @Goto(not have to ATM)
+@DifferentAnswer @Contact1 Yes or no?
+@Contact1 Do it, clean your ass juices off that dildo!
+That's so gross! #Laugh
+@Contact1 Take that dildo all the way in your mouth
+@Contact1 Deepthroat it like the filthy slut that you are
+@Contact1 That tastes so good, doesn't it...
+That's enough, #SubName
+@Contact1 It's a good thing I'm around to make sure things get done
+@Contact1 Otherwise that dildo would just get placed in its drawer dirty #EmoteWink
+That's true I guess #Lol @RemoveContact1
+What you just did is pretty disgusting, #Name
+And it's unhygienic for sure... @Goto(after ATM)
+(not have to ATM)
+@Contact1 That's just ridiculous...
+@Contact1 Someday when #DomName isn't around, we'll see what happens then...
+I won't always be able to protect you, #SubName #EmoteWink @RemoveContact1
+(after ATM)
+@Flag(pvKneeling) You can get off your knees now @DeleteFlag(pvKneeling)
+@Flag(pvCollared) The collar stays on, #PetName
+Do you need a moment or are you ready to continue?
+[ready,continue] Good
+@DifferentAnswer Let me know when you're ready...
+I think that ass of yours has seen enough action for now
+@End
+(three)
+You should probably lube it up too #Smile @Wait(12)
+Before you start pounding that ass...
+Lube up your index finger and middle finger of your dominant hand
+Lie back with your legs in the air @Wait(9)
+You look like you're ready to get fucked #Grin
+I want you to start massaging your asshole with your lubed up fingers
+Do it slowly, drawing circles around your hole
+Let me get you in the mood with some pictures in the meantime @ShowTaggedImage @TagAnalSex
+@NullResponse @ShowTaggedImage @TagAnalSex
+That feels good, doesn't it... @ShowTaggedImage @TagAnalSex
+Now push your index finger inside @ShowTaggedImage @TagAnalSex
+Push it a little deeper...  @ShowTaggedImage @TagAnalSex
+Now add your middle finger, #Name
+You should have no trouble getting two fingers in there you slut #Laugh
+Move those fingers in and out of your asshole @Wait(8)
+We have to make sure it's ready for that dildo... @Wait(10)
+I want you to take the dildo now and push it in there @Wait(6)
+Oh yeah #Grin
+Fuck yourself with the dildo, get into a nice rhythm
+A little faster, #Name
+Keep going just like that... #Smile @AFKOn @Wait(#Random(40,90))
+I took a short break to make a phone call @AFKOff
+Since you were doing so well without me there #EmoteWink
+But you can stop now, take that cock out of your ass my little slut
+Do you need a moment or are you ready to continue with something else?
+[ready,continue] Good
+[more,anal] That was enough for now #Laugh @LoopAnswer
+@DifferentAnswer Let me know when you're ready...
+Let's move on then #Smile
+@End
+(four)
+And while you get ready and lube up that toy...
+Let me tell you about this fantasy I have, it's only fair that I tell you...
+You are in it after all #Smile
+It's actually something I hadn't fantasized about before I started teasing you
+Let me tell you what your role in this fantasy is
+You are collared and chained to my bedroom wall, naked
+@Flag(pvCollared) Much like you are now, except the chained to my wall part #Laugh @Goto(you are collared)
+@Flag(pvHasCollar) Why don't you put on your collar right now @TempFlag(pvCollared)
+@Flag(pvHasCollar) That way the fantasy will be just that much more real #Smile @Wait(10)
+(you are collared)
+Now, in this fantasy, I don't pay much attention to you
+But I know you are there, with your hard #Cock aching for me
+@Flag(pvKneeling) Get off your knees @DeleteFlag(pvKneeling)
+Put your legs up and expose your asshole to me, #PetName
+Hold the tip of the dildo against it, but don't penetrate yet
+Just tease your ass a little bit...
+We're not alone, #Name
+I'm about to have sex with a well hung stud and all you can do is watch
+You watch as he tears off my clothes and pulls me close with his arms around my waist
+His hands move over my ass and up my back
+He kisses my neck and grabs my breasts
+Then he turns me around and bends me over across the bed... 
+I want you to push the dildo all the way in now in one movement, #SubName
+Just like my stud thrusts his big cock inside me #EmoteMoan
+Fuck your asshole with the dildo the way he fucks me, #PetName
+And as he is fucking me hard and deep, I know your are watching us
+You hear my moans of pleasure and his soft grunts
+You hear his thighs slapping against my ass
+#EmoteMoan
+I want you to stroke to the edge now as you keep fucking ourself @EdgeNoHold
+#LetTheEdgeFade
+Move the dildo in and out slowly now
+Mmm I get so turned on when I think how helpless you are, chained to the wall
+Seeing and hearing the kind of hot steamy pleasure that you'll never get
+You know, I never fantasized about being watched during sex before I started teasing you...
+#Edge @EdgeNoHold
+Don't stop fucking your ass, #Name
+Does it turn you on to think of me being fucked by another man?
+[yes] Yeah I figured you were a little cuckold #Giggles
+[no] Well... it's not as if <i>you</i> are ever going to get to fuck me #Laugh
+@DifferentAnswer #YesOrNo
+What if, after exhausting me with orgasm after orgasm...
+My stud is still not satisfied and sees you chained to my wall...
+Would you let my stud fuck you? 
+[yes] Wow... that would be <i>so</i> hot #EmoteHappy @Goto(would let him)
+[no] That would be a bridge too far I guess #Laugh
+@DifferentAnswer #YesOrNo
+That's okay #SubName it's just my fantasy
+But as long as you are chained to my bedroom wall...
+Once my stud has left and I have recovered, I could still take out my strapon
+And fuck you like you've never been fucked before...
+That's a fantasy of mine too #Laugh
+Take the dildo out of your ass now, #Name
+That's enough for now
+Do you need a moment or are you ready to continue with something else?
+[ready,continue] Good
+[more,anal] Only if you'll let my stud do it #Laugh @LoopAnswer
+@DifferentAnswer Let me know when you're ready...
+Let's move on then #Smile
+@End
+(would let him)
+Would you swallow his spunk, too?
+[yes] Oh wow #Lol
+[no] That would be a bridge too far I guess #Laugh
+@DifferentAnswer #YesOrNo
+It's too bad some fantasies will have to remain fantasies...
+But who knows...
+Maybe some day you'll find yourself chained to my bedroom wall #Grin
+Take the dildo out of your ass now, #Name
+That's enough for now
+Do you need a moment or are you ready to continue with something else?
+[ready,continue] Good
+[more,anal] I'd better call my stud then #Laugh @LoopAnswer
+@DifferentAnswer Let me know when you're ready...
+Let's move on then #Smile
+@End
+@Info From taunt cycle via MsWantAnal, when asking for anal

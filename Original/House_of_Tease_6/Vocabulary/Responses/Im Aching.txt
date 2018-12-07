@@ -1,0 +1,83 @@
+[I'm aching, I am aching, ache, aches, aching, achingly, achy, achey]
+[Before Tease]
+But we haven't even started yet #EmoteLaugh
+[Before Tease End]
+[First Round]
+If you're aching already, I'm about to have some <i>real</i> fun #EmoteLaugh
+Not as bad as you're about to be #EmoteLaugh
+[First Round End]
+[Stroking]
+@NotFlag(AV_Short27) @NullResponse @CallReturn(Custom\Shorts\Short27.txt)
+@NotFlag(AV_Short28) @NullResponse @CallReturn(Custom\Shorts\Short28.txt)
+@NotFlag(AV_Short30) @NullResponse @CallReturn(Custom\Shorts\Short30.txt)
+Mmmm @AddStrokeTime(60) 
+Good, I want you to ache #PetName
+Mmmm keep stroking and ache even more @AddStrokeTime(60) 
+You can handle it #PetName, keep stroking
+I want you aching <i>worse</i> @AddStrokeTime(60) 
+That ache is going to stay with you until I let it leave that #Cock #EmoteLaugh
+Yeah? I bet I can make that #Cock ache even worse #EmoteLaugh @AddStrokeTime(60) 
+I <i>want</i> you to ache for me #EmoteLaugh
+Mmmm I love knowing how much agony that #Cock is in
+I want you to ache so much more #EmoteLaugh @AddStrokeTime(60) 
+That's what I'm here for #PetName #EmoteLaugh
+You can never ache too much for me #PetName #EmoteLaugh
+I love knowing how much ache you're suffering for me #EmoteLaugh
+That #Cock was made to ache for me
+I'm going to fill every last inch of that #Cock with ache #EmoteLaugh @AddStrokeTime(60) 
+That ache... is just going to get worse and worse #EmoteLaugh @AddStrokeTime(60) 
+That just makes me want to tease you even more #EmoteLaugh @AddStrokeTime(60)
+You can never ache too much for me #PetName #EmoteLaugh @CallReturn(Custom\Shorts\Short01.txt)
+That ache... is just going to get worse and worse #EmoteLaugh @CallReturn(Custom\Shorts\Short01.txt)
+That's what I'm here for #PetName #EmoteLaugh @CallReturn(Custom\Shorts\Short01.txt)
+I want you aching <i>worse</i> @CallReturn(Custom\Shorts\Short01.txt)
+That ache... is just going to get worse and worse #EmoteLaugh @CallReturn(Custom\Shorts\Short02.txt)
+That's what I'm here for #PetName #EmoteLaugh @CallReturn(Custom\Shorts\Short02.txt)
+I want you aching <i>worse</i> @CallReturn(Custom\Shorts\Short02.txt)
+You can never ache too much for me #PetName #EmoteLaugh @CallReturn(Custom\Shorts\Short03.txt)
+That ache... is just going to get worse and worse #EmoteLaugh @CallReturn(Custom\Shorts\Short03.txt)
+That's what I'm here for #PetName #EmoteLaugh @CallReturn(Custom\Shorts\Short03.txt)
+That #Cock was made to ache for me @CallReturn(Custom\Shorts\Short04.txt)
+I want you aching <i>worse</i> @CallReturn(Custom\Shorts\Short04.txt)
+That ache... is just going to get worse and worse #EmoteLaugh @CallReturn(Custom\Shorts\Short04.txt)
+That's what I'm here for #PetName #EmoteLaugh @CallReturn(Custom\Shorts\Short05.txt)
+You can handle it #PetName @CallReturn(Custom\Shorts\Short05.txt)
+[Stroking End]
+[Not Stroking]
+@NotFlag(AV_Short27) @NullResponse @CallReturn(Custom\Shorts\Short27.txt)
+@NotFlag(AV_Short28) @NullResponse @CallReturn(Custom\Shorts\Short28.txt)
+@NotFlag(AV_Short30) @NullResponse @CallReturn(Custom\Shorts\Short30.txt)
+Just think how much worse it will be when I make you start stroking again #EmoteLaugh
+Good, just sit there and let the ache wrap around that #Cock
+Good, just sit there and let the ache wrap around that #Cock @CallReturn(Custom\Shorts\Short01.txt)
+And you're going to ache even more when I make you start stroking again #EmoteLaugh
+[Not Stroking End]
+[Edging]
+Good, keep getting closer so you can ache some more #EmoteLaugh
+Awww I thought your #Cock would feel better if I let it get close
+Not aching enough, get closer
+Good, I hope every single edge makes the ache even worse #EmoteLaugh
+Get closer and I'll show you what ache <i>really</i> is #EmoteLaugh
+Just think how much worse it will be when you get close for me #EmoteLaugh
+[Edging End]
+[Holding The Edge]
+Mmmmm keep holding it and make it ache even more @AddEdgeHoldTime
+Good stay right there and let the ache drive you crazy @AddEdgeHoldTime
+Why do you think I'm keeping you on the edge #EmoteLaugh @AddEdgeHoldTime
+[Holding The Edge End]
+[CBT Cock]
+@NotFlag(AV_Short30) @NullResponse @CallReturn(Custom\Shorts\Short30.txt)
+Good, I want that #Cock to ache #EmoteLaugh
+Even if I let you stop smacking it around, you think that ache's going to get any better? #EmoteLaugh
+Even if I let you stop smacking it around, you think that ache's going to get any better? #EmoteLaugh @ResponseYes(AV_001)
+[CBT Cock End]
+[CBT Balls]
+@NotFlag(AV_Short27) @NullResponse @CallReturn(Custom\Shorts\Short27.txt)
+@NotFlag(AV_Short28) @NullResponse @CallReturn(Custom\Shorts\Short28.txt)
+Good, I want those balls to ache
+Even if you go back to stroking, one way or another those balls are going to ache #EmoteLaugh
+Even if I let you stop smacking it around, you think that ache's going to get any better? #EmoteLaugh @ResponseYes(AV_001)
+[CBT Balls End]
+[After Tease]
+Sounds like we had a productive session then #EmoteLaugh
+[After Tease End]

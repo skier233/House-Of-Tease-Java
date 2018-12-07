@@ -1,0 +1,57 @@
+@NullResponse @DeleteFlag(pvHGD)
+@NullResponse @CheckFlag(pthevDildo)
+@NullResponse @CheckFlag(pthevAnalOther)
+So, #SubName... you have a dildo now, right?
+[yes] That's great #EmoteHappy @SetFlag(pthevDildo)
+[no] Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+We can have so much fun with that #Grin
+@NullResponse @CheckFlag(pthevNoAnal)
+Make sure you keep it close @SetFlag(pthevAnal)
+#StartStroking @StartStroking
+@End
+(pthevDildo)
+Now, about that dildo... I already knew you had one
+No need to remind me #Smile
+Are you so desperate to fill up that ass of yours?
+[yes] #Laugh maybe later #SubName
+[no] Hmmm... @Goto(not telling me)
+@DifferentAnswer #YesOrNo
+#StartStroking @StartStroking
+@End
+(not telling me)
+You're not trying to tell me you want to stop using that dildo, are you?
+[yes] Aw that's too bad #EmoteSad @Goto(too bad) 
+[no] Good #Smile
+@DifferentAnswer #YesOrNo
+#StartStroking @StartStroking
+@End
+(too bad)
+But if that's want you want, it's okay... @DeleteFlag(pthevDildo)
+Maybe you'll change your mind if I make you ache bad enough #Grin
+#StartStroking @StartStroking
+@End
+(pthevAnalOther)
+So, #SubName... you have a dildo now, right?
+[yes] That's great #EmoteHappy @DeleteFlag(pthevAnalOther) @SetFlag(pthevDildo)
+[no] Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+We can have so much fun with that #Grin
+@NullResponse @CheckFlag(pthevNoAnal)
+Make sure you keep it close @SetFlag(pthevAnal)
+#StartStroking @StartStroking
+@End
+(pthevNoAnal)
+But... I thought you weren't into anal
+Are you saying that you <i>are</i> into anal play now?
+[yes] Good #Smile @DeleteFlag(pthevNoAnal) @SetFlag(pthevAnal)
+[no] Okay, but in that case you don't really need a dildo @Goto(misunderstood)
+@DifferentAnswer #YesOrNo
+Make sure to keep that toy close, #Name
+You're going to need it sooner or later...
+#StartStroking @StartStroking
+@End
+(mis understood)
+I must have misunderstood then
+#StartStroking @StartStroking
+@End

@@ -1,0 +1,216 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@Contact1 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact1
+@Contact2 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact2
+@Contact3 I @RT(should,better,should probably) @RT(leave you to it,go now,be going now), @RT(see ya,bye,later) #ShortName #Smile @RemoveContact3
+@NullResponse @MoodDown @AFKOn @RapidCodeOn
+@NullResponse @BadMood(bad mood)
+@NullResponse @GoodMood(good mood)
+@ApathyLevel(1) @NullResponse @Goto(70chance)
+@ApathyLevel(2) @NullResponse @Goto(60chance)
+@ApathyLevel(3) @NullResponse @Goto(50chance)
+@ApathyLevel(4) @NullResponse @Goto(40chance)
+@ApathyLevel(5) @NullResponse @Goto(30chance)
+@End
+(bad mood)
+@ApathyLevel(1) @NullResponse @Goto(40chance)
+@ApathyLevel(2) @NullResponse @Goto(30chance)
+@ApathyLevel(3) @NullResponse @Goto(20chance)
+@ApathyLevel(4) @NullResponse @Goto(10chance)
+@ApathyLevel(5) @NullResponse @Goto(01chance)
+@End
+(good mood)
+@ApathyLevel(1) @NullResponse @Goto(99chance)
+@ApathyLevel(2) @NullResponse @Goto(90chance)
+@ApathyLevel(3) @NullResponse @Goto(80chance)
+@ApathyLevel(4) @NullResponse @Goto(70chance)
+@ApathyLevel(5) @NullResponse @Goto(60chance)
+(01chance)
+@NullResponse @Chance01(yes)
+@NullResponse @Goto(no)
+@End
+(10chance)
+@NullResponse @Chance10(yes)
+@NullResponse @Goto(no)
+@End
+(20chance)
+@NullResponse @Chance20(yes)
+@NullResponse @Goto(no)
+@End
+(30chance)
+@NullResponse @Chance30(yes)
+@NullResponse @Goto(no)
+@End
+(40chance)
+@NullResponse @Chance40(yes)
+@NullResponse @Goto(no)
+@End
+(50chance)
+@NullResponse @Chance50(yes)
+@NullResponse @Goto(no)
+@End
+(60chance)
+@NullResponse @Chance60(yes)
+@NullResponse @Goto(no)
+@End
+(70chance)
+@NullResponse @Chance70(yes)
+@NullResponse @Goto(no)
+@End
+(80chance)
+@NullResponse @Chance80(yes)
+@NullResponse @Goto(no)
+@End
+(90chance)
+@NullResponse @Chance90(yes)
+@NullResponse @Goto(no)
+@End
+(99chance)
+@NullResponse @Chance99(yes)
+@NullResponse @Goto(no)
+@End
+(yes)
+@NullResponse @AFKOff
+@NullResponse @RapidCodeOff @Goto(first,second,third,fourth,fifth)
+(first)
+I must say, I'm a little disappointed that you can't handle it
+What would it take to make you last longer...
+Maybe you're thinking "having more orgasms"  - I don't think that's it, #Name
+It could be that I should be more strict, more <i>cruel</i> to that #Cock
+Maybe less pleasure and more pain would cure its lack of stamina
+@CockTorture Let's try out that theory, shall we @CBTCock
+Mmm... then again, isn't the issue more with your #Balls instead...
+Do they get so full that the pressure inside them becomes unbearable?
+And yes, of course letting you cum cures that particular problem #Giggles
+But I want you to stay needy and frustrated
+@BallTorture Let's see if we can solve the problem of your aching #Balls another way #Grin @CBTBalls
+@BallTorture I bet that just made it worse #Lol
+At the very least, this little break from stroking and edging will have allowed you to recuperate
+A little bit anyway...
+So I can go ahead and try to push you to your breaking point again #Grin
+@End
+(second)
+Sometimes it just becomes too much, doesn't it?
+I bet you're hoping for some mercy right about now #Smile
+I'll be straightforward with you: you're not getting any
+#Edge @EdgeHold
+#LetTheEdgeFade
+Do you think I care when you say you can't handle it?
+Well alright, sometimes I do #Laugh
+I do feel sorry for you sometimes, seeing you struggle and sweat
+But on the other hand, it's just so damn fascinating to watch
+#Edge @EdgeHold
+#LetTheEdgeFade
+It's like pulling apart a live bug - though I would never do that, I love animals
+Yes, even bugs... they're disgusting but I love them all the same #Laugh
+In a way you're my little guinea pig or lab rat
+I push your buttons to see what happens, to see how far I can push you
+#Edge @EdgeHold
+Alright, my little guinea pig
+Let my #Cock rest a little while
+It's had to endure so much pleasure
+Maybe pleasure isn't the right word for what it's been through #Laugh
+And it's going to get so much worse, #Name @AddTeaseTime(10 minutes,20 minutes)
+@End
+(third)
+I'm not making it easy on you, do I... 
+Teasing you with my hot body all the time
+Or with images of other sexy girls @ShowTaggedImage @TagSoloF 
+Or this... @ShowFemdomImage
+When you see all this hotness @ShowLocalImage
+It's just so hard to keep going @ShowLesbianImage
+But you have to try, #PetName @ShowBlowjobImage
+You have to try to be a good #PetName for me
+You have to try to push yourself further than you think is possible
+I think you might surprise yourself #Smile
+And if the pressure in those aching #Balls becomes to much to bear...
+You can always ask me for an edge, and if I say no...
+You're just going to have to try and exercise some self control #EmoteHappy
+@End
+(fourth)
+I'll be merciful this time #Smile
+Put your hands behind your back, #Name
+No need to #JerkOff now, just relax and breathe easy
+I'll play you one of your videos, but no touching!
+Have fun... @PlayVideo
+That was a pretty hot video #EmoteMoan
+I hope that didn't just increase the ache in your #Balls #EmoteWink
+@End
+(fifth)
+I'll give you a moment to recover
+@NotFlag(pvKneeling) But you're going to have to kneel down before me right now @TempFlag(pvKneeling)
+You should put your hands behind your head, #Name
+And move your knees wider apart
+Your heels should touch each other
+And your butt should rest on your heels
+Lower your chin, it should almost touch your chest
+Arch your back
+This is such a lovely position #Smile
+Now put your hands behind your back
+Good, now stay just like that, I'll be back in a minute #Smile @AFKOn @Wait(#Random(45,120))
+I'm back! @AFKOff
+Did you hold your kneeling position like I told you?
+[yes] Good, then you can get up and sit down again #Smile @DeleteFlag(pvKneeling)
+[no] What the fuck!? @MoodWorst @Goto(did not hold position)
+@DifferentAnswer #YesOrNo
+I hope you knees didn't get too sore... #Smile
+@End
+(did not hold position)
+It was a simple instruction, #PetName @Interrupt(pvInt_Punishment)
+@End
+(no)
+@NullResponse @AFKOff
+@NullResponse @RapidCodeOff @Goto(one,two,three,four,five)
+(one)
+It seems you have trouble keeping up #GeneralTime
+Luckily, that's something we can remedy #Grin
+Because, #PetName...
+Just because I want to tease you, doesn't necessarily mean you get to #JerkOff
+@HasChastity And you don't have that chastity device for nothing @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity Just keep you hands away from my #Cock @ChastityOn 
+We can have fun, even when you're not touching #Smile
+@End
+(two)
+I should probably stop letting you #JerkOff so much...
+Because I don't want to break my toy
+But on the other hand, I want to make you so horny your brain starts to melt
+And that means making you stroke and edge and stroke and edge #Grin
+Hmmm... such a delicious dilemma...
+Alright, I've made my mind up
+@HasChastity @NullResponse @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity @NullResponse @ChastityOn
+You don't get to stroke for now #Smile
+@End
+(three)
+I'm going to be merciful and let you calm down now
+But not before you do another edge, of course #Grin
+#Edge @EdgeHold
+#LetTheEdgeFade
+@HasChastity Now you're going to somehow make my #Cock go soft and limp
+@HasChastity I don't care how you do it @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity I'm not going to let you #JerkOff for a while now @ChastityOn
+It's about time your #Cock got some rest
+But I bet you'll be begging me to let you #JerkOff again before long #Laugh
+@End
+(four)
+It's about time you stop #JerkingOff because you're obviously not up to it
+@HasChastity So you better find some way to get that erection down
+@HasChastity That's right, it's time to get that chastity device out again
+That #Cock needs some time off
+@HasChastity @NullResponse @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity So I'm just not going to let you #JerkOff anymore @ChastityOn
+Your hands are probably starting to itch already #Laugh
+@End
+(five)
+I think it's best if you don't #JerkOff anymore for now
+You could probably use some rest too, right?
+Or... not... I don't care #Laugh
+@HasChastity Better get some ice, or do some summersaults
+@HasChastity Or whatever you need to do to get that erection down #Lol
+@HasChastity Because you probably know what's coming next... @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity @NullResponse @ChastityOn
+Let's see how you like it when you don't get to #JerkOff
+Maybe next time you won't be so quick admit when it's getting too much #Laugh
+@End

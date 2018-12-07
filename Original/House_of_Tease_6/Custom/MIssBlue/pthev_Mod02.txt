@@ -1,0 +1,275 @@
+@NullResponse @CheckFlag(pthevMod2X)
+#Edge @Edge
+#LetTheEdgeFade @CheckFlag(pthevMod2A)
+I'll give you a moment to recover
+You'll need it #Grin @CheckFlag(pthevMod2B)
+In the mean time I'll give you something to look at @ShowHardcoreImage
+Wouldn't you love to slide your #Cock between those lips @ShowTaggedImage @TagLesbian @TagKissing
+That's not so nice of me is it... @ShowBlowjobImage
+I give you a moment to recover, then show you all these hot images #Laugh
+Recovering is overrated anyway, #Name @CheckFlag(pthevMod2C)
+#Edge @EdgeHold
+#LetTheEdgeFade
+I wonder how many times you can do that
+Before you go completely insane @Chance50(edgeagain)
+I mean, at some point you'll probably just edge your brain away
+Do you want to find out? #Grin
+#Edge @EdgeHold
+Let that #Cock rest a little bit now
+Rub your #Balls 
+Feel how full and swollen they are
+So full of cum they could just burst
+Does if feel good to rub them?
+[yes] Good, keep rubbing them for me @Goto(edgeagain)
+[no] Maybe you'd rather stroke your #Cock again
+[hurt,hurts,hurting,painful,pain,aching,ache,sore] Aw poor you #Smile
+@DifferentAnswer #YesOrNo
+Squeeze your #Balls #PetName
+Harder! #Grin
+(edgeagain)
+#Edge @EdgeNoHold
+#LetTheEdgeFade @SetFlag(pthevMod2X)
+@End 
+(pthevMod2X)
+#Edge @Edge
+#LetTheEdgeFade
+I think you should do a couple more edges #Name
+A throw of the dice will determine how many
+Hold on a second @AFKOn @Wait(14)
+Alright found the dice #Smile @DeleteFlag(pthevMod2X) @SetFlag(pthevMod2A) @AFKOff
+Here we go... @Goto(1,2,3,4,5,6)
+(1)
+I threw a one #EmoteSad
+Well let's get it over with then, edge for me #Name @EdgeHold
+#LetTheEdgeFade
+At least I made the most out of that one edge #Grin
+@End
+(2)
+It's a two... #EmoteSad
+#Edge @EdgeHold
+#LetTheEdgeFade
+Don't get too comfortable #SubName, one more to go 
+#Edge @EdgeHold
+#LetTheEdgeFade
+Two edges can still be pretty intense
+@End
+(3)
+It's a three #SubName
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Two more to go...
+Edge again! @EdgeNoHold
+Relax #PetName only one more
+#Edge @EdgeHold
+#LetTheEdgeFade
+I bet you #Cock is aching pretty good right now #Smile
+@End
+(4)
+A four! That shouldn't be too much of a problem for a pro like you
+Lets get started #SubName, edge for me @EdgeNoHold
+Almost halfway #Laugh
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Don't get too comfortable now...
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+And the last one... edge #PetName @EdgeHold
+#LetTheEdgeFade
+Breath easy now, let your body relax
+Are you okay #SubName?
+[yes] Good #Smile
+[no] That was pretty intense wasn't it
+[intense,amazing,great] #Grin
+[mean,cruel,bitch] I know #PetName I know #Grin
+[aching,ache,hurts,hurting] You're doing great #PetName #Smile
+@AcceptAnswer You're doing great #PetName
+Maybe next time I'll "help" the dice a little 
+Too make it even harder for you #Grin
+@End
+(5)
+Oooh a five... make me proud #PetName #Smile
+Give me my first edge! @EdgeNoHold
+#LetTheEdgeFade
+If we do these quickly it'll just be like one very long edge
+#Edge @EdgeNoHold
+Relax and get ready #PetName @Wait(5)
+Edge for me again @EdgeNoHold
+That's three, only two more to go!
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+You're doing great, get ready for the last one
+#Edge @EdgeHold
+#LetTheEdgeFade
+Are you okay #SubName?
+[yes] Good #Smile
+[no] That was pretty intense wasn't it
+[intense,amazing,great] #Grin
+[mean,cruel,bitch] I know #PetName I know #Grin
+[aching,ache,hurts,hurting] You're doing great #PetName #Smile
+@AcceptAnswer You're doing great #PetName
+May next time I'll use two dice #Grin
+@End
+(6)
+Well, guess what #SubName
+I threw a six and I didn't even cheat!
+So let's begin, edge for me #Name @EdgeNoHold
+#LetTheEdgeFade
+You'll be aching so much at the end of this #Grin
+#Edge @EdgeNoHold
+#LetTheEdgeFade @Wait(10)
+#Edge @EdgeNoHold
+This is fun, maybe I should use more dice though...
+A maximum of six edges seems a bit easy
+#Edge @EdgeNoHold
+On the other hand, I don't want to completely ruin my toy
+Not in such a short time anyway #Grin
+Speaking of ruining things...
+I'm seriously considering making you ruining an orgasm after edge number 6
+Damn, was that last one number 4 or 5?
+[4,four,fourth] I think so too
+[5,five,fifth] Mmm I don't think so #Name
+@AcceptAnswer I think it was 4, that means 2 more to go
+#Edge @EdgeHold
+#LetTheEdgeFade
+Okay get ready for the last one
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+So I decided not to make you ruin it after all @Timeout(8,edgesenough)
+[thank you,thanks] You're welcome #Smile
+[too bad] #Laugh it could still happen of course...
+[please ruin,make me ruin,ruin it,love ruined,like ruined] #Laugh maybe later...
+@AcceptAnswer I was thinking more of a "thank you", but okay...
+(edgesenough)
+After all those edges I thought ruining it would have a bit much
+Like I said, I don't want to completely ruin my toy... yet #Grin
+@End
+(pthevMod2A)
+Time to do some edges #Name
+I've used dice before, but only one
+This time I want you to throw the dice yourself
+And I want you to use 2
+So go get a pair of dice tell me when you're ready
+[ready] Good. Now, you could cheat of course... @Goto(i trust you)
+[no,don't have, haven't got] Hmm, there are other ways to do this
+@DifferentAnswer Let me know when you're ready
+You can go to random.org/dice
+Or google "dice", I'm sure you can find something @Wait(10)
+Ready?
+[yes,ready] Good. Now, you could cheat of course... @Goto(i trust you)
+[no] God... just make sure you have a pair of dice next time, #PetName
+@DifferentAnswer #YesOrNo
+We'll just have to move on to something else I guess
+@End
+(i trust you)
+But I trust you to do exactly as instructed #Smile
+Okay #Name, throw the dice!
+What number did you get?
+[1,one] Very funny, what number did you really get? @LoopAnswer
+[2,two] Damn, lucky you... @SetVar[pthevMod2Aedges]=[2]
+[3,three] Only 3... it'll have to do @SetVar[pthevMod2Aedges]=[3]
+[4,four] Could be higher @SetVar[pthevMod2Aedges]=[4]
+[5,five] Okay then @SetVar[pthevMod2Aedges]=[5]
+[6,six] I'd be happier had it been one die  @SetVar[pthevMod2Aedges]=[6]
+[7,seven] Could be worse  @SetVar[pthevMod2Aedges]=[7]
+[8,eight] Not bad  @SetVar[pthevMod2Aedges]=[8]
+[9,nine] That's not bad  @SetVar[pthevMod2Aedges]=[9]
+[10,ten] Alright, double digits!  @SetVar[pthevMod2Aedges]=[10]
+[11,eleven] Alright, double digits!  @SetVar[pthevMod2Aedges]=[11]
+[12,twelve] That's what I like to see!  @SetVar[pthevMod2Aedges]=[12]
+@DifferentAnswer Seriously #SubName, what number?
+Let's get it over with #Smile @CustomMode(#pvNeedABreak,Goto,two need break)
+(back to the top)
+#Edge @Edge
+#LetTheEdgeFade @ChangeVar[pthevMod2Aedges]=[pthevMod2Aedges]-[1]
+@NullResponse @If[pthevMod2Aedges]=[0]Then(all edges done)
+#pthevMod02EdgesLeft
+@NullResponse @Goto(back to the top)
+(all edges done)
+That's all for now #Name @CustomMode(#pvNeedABreak,Normal)
+Although to be honest, that was probably not your last edge #GeneralTime @DeleteFlag(pthevMod2A) @SetFlag(pthevMod2B)
+@End
+(two need break)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_BreakEdging.txt)
+Let's continue where we left off... @Goto(back to the top)
+(pthevMod2B)
+Do you know what time it is?
+Time to bring out the dice and do some edges #Smile
+I think last time you used 2 dice, right? @Timeout(8,positive it was)
+[yes] I think you can probably guess what I'm going to say next @Goto(positive it was)
+[no] I'm pretty sure we used 2 dice last time, #PetName
+@DifferentAnswer #YesOrNo
+And since the time before that we used 1...
+(positive it was)
+This time we'll use 3 #Grin @DeleteFlag(pthevMod2B) @SetFlag(pthevMod2C)
+Are you up for it?
+[yes] I expected nothing else from you, #SubName #Smile
+[no] That was a rhetorical question, it's not up for debate
+@DifferentAnswer #YesOrNo
+So go get 3 dice, or go to random.org/dice or some other website
+And let's see how many edges you get 
+Ready?
+[yes,ready] #Grin @Goto(throw three dice)
+[no] Let me know when you are, I'll wait @LoopAnswer
+[don't,won't,can't,please,will not,not possible,impossible,not going] So, this is going to be a problem...
+@DifferentAnswer Are you ready?
+Are you going to get the dice, yes or no?
+[yes] Okay, good #Smile @Goto(throw three dice)
+[no] I'm disappointed #SubName
+@DifferentAnswer #YesOrNo
+And I'm going to take it out on your #Balls @CBTBalls
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_PunishmentLight_NotStroking.txt)
+Make sure next time you have 3 dice @MoodDown
+@End
+(throw three dice)
+Throw the dice!
+What number did you get?
+[1,one] Very funny, what number did you really get? @LoopAnswer
+[2,two] Right, with 3 dice... so what number did you really get? @LoopAnswer
+[3,three] What are the odds... #EmoteSad @SetVar[pthevMod2Aedges]=[3]
+[4,four] Meh... @SetVar[pthevMod2Aedges]=[4]
+[5,five] Meh... @SetVar[pthevMod2Aedges]=[5]
+[6,six] Six it is @SetVar[pthevMod2Aedges]=[6]
+[7,seven] Lucky seven! Lucky for you, that is... @SetVar[pthevMod2Aedges]=[7]
+[8,eight] Only 8... lucky you @SetVar[pthevMod2Aedges]=[8]
+[9,nine] That's not bad @SetVar[pthevMod2Aedges]=[9]
+[10,ten] 10 is a nice round number, a bit low though @SetVar[pthevMod2Aedges]=[10]
+[11,eleven] I'm slightly disappointed #EmoteWink @SetVar[pthevMod2Aedges]=[11]
+[12,twelve] That'll do #PetName, that'll do #Smile @SetVar[pthevMod2Aedges]=[12]
+[13,thirteen] Lucky 13 #Smile @SetVar[pthevMod2Aedges]=[13]
+[14,fourteen] That's not too bad @SetVar[pthevMod2Aedges]=[14]
+[15,fifteen] That's not bad, I'm happy #Smile @SetVar[pthevMod2Aedges]=[15]
+[16,sixteen] Sweet sixteen #Smile @SetVar[pthevMod2Aedges]=[16]
+[17,seventeen] Oh yeah #Laugh @SetVar[pthevMod2Aedges]=[17]
+[18,eighteen] This is going to take a while #Laugh @SetVar[pthevMod2Aedges]=[18]
+@DifferentAnswer Seriously #SubName, what number?
+Let's @RT(do this,get started,get to it,begin,have it then) #Smile @CustomMode(#pvNeedABreak,Goto,need break)
+(three back to top)
+#Edge @Edge
+#LetTheEdgeFade @ChangeVar[pthevMod2Aedges]=[pthevMod2Aedges]-[1]
+@NullResponse @If[pthevMod2Aedges]<[1]Then(three edges done)
+#pthevMod02EdgesLeft
+@NullResponse @Goto(three back to top)
+(three edges done)
+That's all of them #Smile @CustomMode(#pvNeedABreak,Normal)
+That poor #Cock of yours must be throbbing now #Grin
+@End
+(need break)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_BreakEdging.txt)
+Let's continue where we left off... @Goto(three back to top)
+(pthevMod2C)
+Let's do some more edging
+Do you have 3 dice ready?
+[yes] Let's see how lucky you are today... @Goto(throw three dice)
+[no] @NullResponse
+@DifferentAnswer #YesOrNo
+Oh...
+But you're going to get them for me right away, right?
+[ready] Let's see how lucky you are today... @Goto(throw three dice)
+[yes,of course,certainly,as you wish] Good, let me know when you're ready @LoopAnswer
+[no] What, you don't like edging anymore all of a sudden? @DommeLevelUp @MoodDown
+@DifferentAnswer #YesOrNo
+Maybe you'd prefer hurting yourself... @CBT
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_PunishmentLight_NotStroking.txt)
+Make sure you have 3 dice next time 
+Remember, you can also use websites like random.org/dice
+@End

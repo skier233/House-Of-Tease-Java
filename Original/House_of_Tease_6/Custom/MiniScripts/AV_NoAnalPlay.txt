@@ -1,0 +1,4 @@
+But it's good to know you have a plug @SetFlag(AV_StartAnal)
+I'm sure I'll find a way to put it to use #Grin @SetFlag(AV_NoAnalForMe)
+But not now
+@End

@@ -1,0 +1,18 @@
+Hey #Name @Chance50(StillSleeping2)
+I'm sleeping in a little this morning
+Message me at a more reasonable hour #EmoteHappy
+I'll be daydreaming about you until then #Name
+Talk to you later @Name @Interrupt(TSDayReset) 
+@End
+(StillSleeping2)
+@NullResponse
+Hey
+Its early #Name, I'm not even out of bed yet,
+I don't think I'm quite ready to play with you yet #EmoteFaceTFFrowny
+But I hope you've been enjoying your time #Surrendering for me #EmoteHappy
+I want you to think about me #GeneralTime
+I want you to think about me laying here
+But I want you to wait for me before you start #Teasing #Yourself today #Name
+Just #Ache for me right now, and I should be up soon @ChastityOn
+I'll be waiting to hear from you #Name @Interrupt(TSDayReset) 
+@End

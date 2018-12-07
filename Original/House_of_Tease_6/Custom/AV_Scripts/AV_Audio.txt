@@ -1,0 +1,108 @@
+@NullResponse @Goto(positions, audios, cont1, cont2, cont3)
+(audios)
+Its time to use some of those sound files
+Not just beats now... #EmoteSmile @Goto(Audio01, Audio02, Audio03, Audio04, Audio05, Audio06, Audio07, Audio08, Audio09, Audio10)
+(Audio01)
+@NullResponse @PlayAudio[tease\erotic\01.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/01.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio02)
+@NullResponse @PlayAudio[tease\erotic\02.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/02.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio03)
+@NullResponse @PlayAudio[tease\erotic\03.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/03.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio04)
+@NullResponse @PlayAudio[tease\erotic\04.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/04.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio05)
+@NullResponse @PlayAudio[tease\erotic\05.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/05.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio06)
+@NullResponse @PlayAudio[tease\erotic\06.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/06.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio07)
+@NullResponse @PlayAudio[tease\erotic\07.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/07.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio08)
+@NullResponse @PlayAudio[tease\erotic\08.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/08.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio09)
+@NullResponse @PlayAudio[tease\erotic\09.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/09.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(30)
+@End
+(Audio10)
+@NullResponse @PlayAudio[tease\erotic\10.mp3] @Wait(35)
+#AV_ShowHer @ShowImage[av_imagens/gifs/10.gif]
+Keep Stroking
+ @Wait(30)
+ @Wait(20)
+@End
+(positions)
+@NullResponse @CustomTask(AV_StrokePositions)
+@End
+(cont1)
+@RandomText(I hope you enjoyed playing with #Contact1, #Contact1 would love to #Play with your #Cock)
+@NullResponse @AddContact1
+@NullResponse @Goto(cont1a, cont1b)
+(cont1a)
+@NullResponse @CustomTask(AV_CBT_Gliter1)
+(cont1b)
+@NullResponse @CustomTask(AV_StrokeNumberGliter1)
+@RemoveContact1
+@End
+(cont2) 
+@RandomText(I hope you enjoyed playing with #Contact2, #Contact2 would love to #Play with your #Cock)
+@NullResponse @AddContact2
+@NullResponse @Goto(cont2a, cont2b)
+(cont2a)
+@NullResponse @CustomTask(AV_CBT_Gliter2)
+(cont2b)
+@NullResponse @CustomTask(AV_StrokeNumberGliter2)
+@RemoveContact2
+@End
+(cont3)
+@RandomText(I hope you enjoyed playing with #Contact3, #Contact3 would love to #Play with your #Cock)
+@NullResponse @AddContact3
+@NullResponse @Goto(cont3a, cont3b)
+(cont3a)
+@NullResponse @CustomTask(AV_CBT_Gliter3)
+(cont3b)
+@NullResponse @CustomTask(AV_StrokeNumberGliter3)
+@RemoveContact3
+@End
+@Info Audio files by tnifty from Milovana

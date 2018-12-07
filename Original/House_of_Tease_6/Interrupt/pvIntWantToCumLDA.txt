@@ -1,0 +1,106 @@
+@NullResponse @CheckFlag(pvWantToCumDidRuin)
+@NullResponse @CheckFlag(pvWantToCumDidOrgasm)
+@RT(Hmm,Aww,Hehe,My) @RT(silly,poor,desperate) @RT(helpless,little,needy,frustrated,denied) #PetName #Laugh
+You've @RT(begged me to let you cum,been begging to cum,begged me for an orgasm) @RT(a lot,so much) #GeneralTime
+Is it really that hard to go without orgasms?
+Are your #Balls so blue and achy that you just <i>have</i> to empty them?
+I get it #Name... I really do
+But I'd be very disappointed if we had to give up on this little denial experiment
+All that effort gone to waste...
+It would make me very unhappy
+And you do want to make me happy, right?
+[yes] Right, so...
+[no] Oh... @Goto(do not want to make you happy)
+@DifferentAnswer #YesOrNo
+Do you still want to cum right now?
+[yes] Hmm
+[no] That's a good #PetName #Laugh @Goto(if you do not want it)
+@DifferentAnswer #YesOrNo
+You do sound pretty desperate... @GotoDommeApathy
+(ApathyLevel1)
+@NullResponse @Chance50(orgasm)
+@RuinsOrgasm(Not,Never) @NullResponse @Chance30(ruin)
+@NullResponse @Goto(punishment)
+@End
+(ApathyLevel2)
+@NullResponse @Chance30(orgasm)
+@RuinsOrgasm(Not,Never) @NullResponse @Chance30(ruin)
+@NullResponse @Goto(punishment)
+@End
+(ApathyLevel3)
+@NullResponse @Chance15(orgasm)
+@RuinsOrgasm(Not,Never) @NullResponse @Chance30(ruin)
+@NullResponse @Goto(punishment)
+@End
+(ApathyLevel4)
+@NullResponse @Chance05(orgasm)
+@RuinsOrgasm(Not,Never) @NullResponse @Chance30(ruin)
+@NullResponse @Goto(punishment)
+(ApathyLevel5)
+@NullResponse @Chance01(orgasm)
+@RuinsOrgasm(Not,Never) @NullResponse @Chance30(ruin)
+@NullResponse @Goto(punishment)
+@End
+(orgasm)
+@NullResponse @DeleteFlag(pthevLongDenialActive) @DeleteFlag(pvOrgasmControl) @SetFlag(pthevLongDenialEnded) @RestrictOrgasm(1 second) @SetDate(pvRenewLDA,1 month)
+#StartStroking @TempFlag(pvWantToCumDidOrgasm) @DeleteFlag(pvLDAWholeMonth) @DeleteFlag(pvLDASecondWeek)
+#StrokeFaster
+#Edge @Edge(Orgasm,Hold)
+Hmmm @NullResponse @SetVar[pthevOrgasmLast]=[1]
+Well #PetName I hope that was worth it
+I guess we'll have to try long term denial again some other time
+Maybe you're just not ready for it yet #EmoteSad
+I hope you don't regret that orgasm now...
+You're so much more fun to play with when you're horny and desperate #Laugh
+Maybe we should start building up that ache in your #Balls right away
+Do you want continue?
+[yes] Good #PetName #Smile @Goto(yes want more)
+[no] Aww too bad
+@DifferentAnswer #YesOrNo
+Don't stay away too long #PetName #EmoteWink @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(ruin)
+@NullResponse @DeleteFlag(pthevLongDenialActive) @DeleteFlag(pvOrgasmControl) @SetFlag(pthevLongDenialEnded) @RestrictOrgasm(1 second) @SetDate(pvRenewLDA,1 month)
+#StartStroking @TempFlag(pvWantToCumDidRuin) @DeleteFlag(pvLDAWholeMonth) @DeleteFlag(pvLDASecondWeek)
+#StrokeFaster
+#Edge @Edge(Ruin,Hold)
+Fuck that looks frustrating...
+A ruined orgasm is an orgasm too, #Name #Grin @SetVar[pthevOrgasmLast]=[3]
+You probably regret asking for an orgasm now #Lol
+I just realized, this is worst outcome for both of us
+I'm disappointed that you gave up, and you that you didn't get a proper orgasm
+Well, never mind #EmoteWink
+We should probably start building up that ache in your #Balls right away
+Do you want continue?
+[yes] Good #PetName #Smile @Goto(yes want more)
+[no] Aww too bad
+@DifferentAnswer #YesOrNo
+Don't stay away too long #PetName #EmoteWink @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(yes want more)
+Don't get your hopes up though, you're not getting to cum anymore #GeneralTime @RestrictOrgasm @AddTeaseTime(10 minutes,30 minutes)
+@End
+(punishment)
+I'll keep that in mind, but no promises 
+Right now I'm going to punish you for asking to cum
+...and because punishing you is fun #Grin @Interrupt(pvInt_Punishment)
+@End
+-
+(if you do not want it)
+I knew you'd change your mind, #SubName
+You know you're meant to be desperate, throbbing and denied #Grin
+@End
+(do not want to make you happy)
+Well fuck #PetName why didn't you say so right away @MoodWorst @TempFlag(pvPunishmentEndTease) @Interrupt(pvInt_Punishment)
+@End
+-
+(pvWantToCumDidRuin)
+You can stop begging for an orgasm now, #Name
+I already <i>gave</i> you one, remember?
+Sure, it was a <i>ruined</i> orgasm, but still... #Grin
+And orgasm is an orgasm, #Name
+@End
+(pvWantToCumDidOrgasm)
+You can stop begging for an orgasm now, #Name
+I already <i>gave</i> you one, remember?
+@End

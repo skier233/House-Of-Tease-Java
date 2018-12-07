@@ -1,0 +1,23 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+Let me test that. 
+@SystemMessage #DomName turned on the mic  @PlayAudio[tease\SeSp\titjob01.mp3]
+#StartStrokingNS @Wait(15)
+ @Wait(15)
+ @Wait(15)
+ @Wait(10)
+ @Wait(15)
+ @Wait(15)
+ @Wait(15)
+ @Wait(10)
+ @Wait(15)
+ @Wait(15)
+ @Wait(15)
+ @Wait(10)
+ @Wait(15)
+#StopStroking
+@SystemMessage #DomName turned off the mic   @Wait(10)
+#ThatsEnough
+@End

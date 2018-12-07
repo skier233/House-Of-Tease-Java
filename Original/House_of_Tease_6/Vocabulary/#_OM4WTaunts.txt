@@ -1,0 +1,11 @@
+#1_ST_Ache
+#1_ST_Beg
+#1_ST_Squirm
+#1_ST_Sub
+#1_ST_Top
+#StrokeSlowest
+#StrokeSlower
+#EmoteRandom
+#EmoteRandom
+#EmoteRandom
+#EmoteRandom

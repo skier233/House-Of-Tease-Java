@@ -1,0 +1,194 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@RT(#PetName, #SubName)
+@NotFlag(AV_PositionSecDone) @NullResponse @Goto(AV_Kneel)
+(sorteio)
+@NullResponse @Chance50(AV_Kneel)
+(AV_Stand)
+Go to your stand slave position @PlayAudio[tease\Bell.mp3] @ChangeVar[AV_PosStandNumber]=[AV_PosStandNumber]+[1] @Wait(10)
+@NullResponse @If[AVRamdomStand]=[1]Then(AVRamdStanding1)
+@NullResponse @If[AVRamdomStand]=[2]Then(AVRamdStanding2)
+@NullResponse @If[AVRamdomStand]=[3]Then(AVRamdStanding3)
+@NullResponse @If[AVRamdomStand]=[4]Then(AVRamdStanding4)
+@NullResponse @If[AVRamdomStand]=[5]Then(AVRamdStanding5)
+@NullResponse @If[AVRamdomStand]=[6]Then(AVRamdStanding6)
+@NullResponse @If[AVRamdomStand]=[7]Then(AVRamdStanding7)
+(AVRamdStanding1)
+Are you in this position? @ShowImage[av_imagens\positions\stand\01.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardS)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdStanding2)
+Are you in this position? @ShowImage[av_imagens\positions\stand\02.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardS)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdStanding3)
+Are you in this position? @ShowImage[av_imagens\positions\stand\03.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardS)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdStanding4)
+Are you in this position? @ShowImage[av_imagens\positions\stand\04.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardS)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdStanding5)
+Are you in this position? @ShowImage[av_imagens\positions\stand\05.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardS)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdStanding6)
+Are you in this position? @ShowImage[av_imagens\positions\stand\06.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardS)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdStanding7)
+Are you in this position? @ShowImage[av_imagens\positions\stand\07.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardS)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AV_Kneel)
+Go to your kneel slave position @PlayAudio[tease\Bell2.mp3] @ChangeVar[AV_PosKneelNumber]=[AV_PosKneelNumber]+[1] @Wait(10)
+@NullResponse @If[AVRamdomKneel]=[1]Then(AVRamdKneeling1)
+@NullResponse @If[AVRamdomKneel]=[2]Then(AVRamdKneeling2)
+@NullResponse @If[AVRamdomKneel]=[3]Then(AVRamdKneeling3)
+@NullResponse @If[AVRamdomKneel]=[4]Then(AVRamdKneeling4)
+@NullResponse @If[AVRamdomKneel]=[5]Then(AVRamdKneeling5)
+@NullResponse @If[AVRamdomKneel]=[6]Then(AVRamdKneeling6)
+@NullResponse @If[AVRamdomKneel]=[7]Then(AVRamdKneeling7)
+(AVRamdKneeling1)
+Are you in this position? @ShowImage[av_imagens\positions\kneel\01.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardK)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdKneeling2)
+Are you in this position? @ShowImage[av_imagens\positions\kneel\02.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardK)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdKneeling3)
+Are you in this position? @ShowImage[av_imagens\positions\kneel\03.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardK)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdKneeling4)
+Are you in this position? @ShowImage[av_imagens\positions\kneel\04.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardK)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdKneeling5)
+Are you in this position? @ShowImage[av_imagens\positions\kneel\05.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardK)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdKneeling6)
+Are you in this position? @ShowImage[av_imagens\positions\kneel\06.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardK)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AVRamdKneeling7)
+Are you in this position? @ShowImage[av_imagens\positions\kneel\07.jpg] 
+[yes] @RT(Good boy, Good #PetName, Good slave, Good) @Goto(AV_RewardK)
+[no] @RT(Oh no, Bad boy, Bad #PetName, Bad slave, Oh no #SubName) @Goto(AV_Punish)
+@DifferentAnswer #YesorNo #SubName?
+(AV_RewardS)
+You earned one point  @ChangeVar[AV_PosPoints]=[AV_PosPoints]+[1] 
+@NullResponse @If[AV_PosStandNumber]>[3]Then(ResetStand)
+@End
+(AV_RewardK)
+You earned one point  @ChangeVar[AV_PosPoints]=[AV_PosPoints]+[1] 
+@NullResponse @If[AV_PosKneelNumber]>[3]Then(ResetKnee)
+@End
+(AV_Punish)
+You lost one point  @ChangeVar[AV_PosPoints]=[AV_PosPoints]-[1] 
+And I need to punish you... @Goto(PuMS01, PuMS02, PuMS03)
+(PuMS01)
+@NullResponse @MiniScript(AV_Punish1)
+@NullResponse 
+@End
+(PuMS02)
+@NullResponse @MiniScript(AV_Punish2)
+@NullResponse 
+@End
+(PuMS03)
+@NullResponse @MiniScript(AV_Punish3)
+@NullResponse 
+@End
+(CheckNumber)
+@NullResponse
+@End
+(ResetKnee)
+I think you #Know this position too @RT(much, well) @SetVar[AV_PosKneelNumber]=[0] 
+Let's change that: @SetVar[AVRamdomKneel]=[#Random(1, 7)]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AVRamdomKneel]=[1]Then(AVRamdKneeling1a)
+@NullResponse @If[AVRamdomKneel]=[2]Then(AVRamdKneeling2a)
+@NullResponse @If[AVRamdomKneel]=[3]Then(AVRamdKneeling3a)
+@NullResponse @If[AVRamdomKneel]=[4]Then(AVRamdKneeling4a)
+@NullResponse @If[AVRamdomKneel]=[5]Then(AVRamdKneeling5a)
+@NullResponse @If[AVRamdomKneel]=[6]Then(AVRamdKneeling6a)
+@NullResponse @If[AVRamdomKneel]=[7]Then(AVRamdKneeling7a)
+(AVRamdKneeling1a)
+Go down in this position @ShowImage[av_imagens\positions\kneel\01.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling2a)
+Go down in this position @ShowImage[av_imagens\positions\kneel\02.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling3a)
+Go down in this position @ShowImage[av_imagens\positions\kneel\03.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling4a)
+Go down in this position @ShowImage[av_imagens\positions\kneel\04.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling5a)
+Go down in this position @ShowImage[av_imagens\positions\kneel\05.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling6a)
+Go down in this position @ShowImage[av_imagens\positions\kneel\06.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling7a)
+Go down in this position @ShowImage[av_imagens\positions\kneel\07.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(FimKneel)
+This is your new Kneel slave position #PetName
+and the sound @PlayAudio[tease\Bell2.mp3] 
+@End
+(ResetStand)
+I think you know this position too @RT(much, well) @SetVar[AV_PosStandNumber]=[0] 
+Let's change that:  @SetVar[AVRamdomStand]=[#Random(1, 7)]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AVRamdomStand]=[1]Then(AVRamdStanding1a)
+@NullResponse @If[AVRamdomStand]=[2]Then(AVRamdStanding2a)
+@NullResponse @If[AVRamdomStand]=[3]Then(AVRamdStanding3a)
+@NullResponse @If[AVRamdomStand]=[4]Then(AVRamdStanding4a)
+@NullResponse @If[AVRamdomStand]=[5]Then(AVRamdStanding5a)
+@NullResponse @If[AVRamdomStand]=[6]Then(AVRamdStanding6a)
+@NullResponse @If[AVRamdomStand]=[7]Then(AVRamdStanding7a)
+(AVRamdStanding1a)
+Stand up in this position @ShowImage[av_imagens\positions\stand\01.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding2a)
+Stand up in this position @ShowImage[av_imagens\positions\stand\02.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding3a)
+Stand up in this position @ShowImage[av_imagens\positions\stand\03.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding4a)
+Stand up in this position @ShowImage[av_imagens\positions\stand\04.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding5a)
+Stand up in this position @ShowImage[av_imagens\positions\stand\05.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding6a)
+Stand up in this position @ShowImage[av_imagens\positions\stand\06.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding7a)
+Stand up in this position @ShowImage[av_imagens\positions\stand\07.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(FimStand)
+This is your new Stand lave position #SubName
+and the sound @PlayAudio[tease\Bell.mp3] 
+@End

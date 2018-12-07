@@ -1,0 +1,138 @@
+@NullResponse @CheckFlag(pvMod47B)
+@NullResponse @CheckFlag(pvMod47A)
+#StopStroking @StopStroking @SetFlag(pvMod47A)
+You know, #Name
+I can toy with you
+Play games
+Make you jump through hoops
+But it can be really simple to tease a #PetName like you
+All I need is some porn @ShowLocalImage
+And you have lots of it #Smile @ShowLocalImage
+I can show you things you can't have @ShowBlowjobImage
+Fantasies that will remain fantasies @ShowLesbianImage
+I can go online and find new images to tease you with @ShowBlogImage
+And every single image @ShowBlogImage
+Will make you more aroused @ShowBlogImage
+And more submissive @ShowFemdomImage
+You don't even have to #JerkOff @ShowLocalImage
+You don't have to edge @ShowLocalImage
+Or bust your #Balls for me @ShowLocalImage
+Just a stack of porn @PlayVideo(#Random(10,20)) @JumpVideo
+It's easy to make you desperate to start stroking again @PlayVideo(#Random(5,10)) @JumpVideo
+But don't stroke yet, #Name
+You have to wait for it
+Don't worry, I'll let you stroke sooner or later #EmoteWink
+@End
+(pvMod47A)
+#StopStroking @StopStroking @DeleteFlag(pvMod47A) @SetFlag(pvMod47B) @CheckFlag(pvMirrorYes,has mirror)
+@NullResponse @CheckFlag(pvMirrorNo,no mirror)
+#SubName, do you have a tall mirror in the room you're in now?
+[yes] Oooh, I was hoping you'd say yes #Smile @SetFlag(pvMirrorYes)
+[no] Too bad #EmoteSad @SetFlag(pvMirrorNo)
+@DifferentAnswer #YesOrNo
+Because sometimes I'm thinking you should see yourself doing the things you do for me
+As a kind of... reinforcement of your helplessness @CheckFlag(pvMirrorYes,reinforce)
+But there plenty of other ways to do that #Smile
+@End
+(reinforce)
+So I want you to go to your mirror in a moment...
+@NotFlag(pvWillNotkneel) And then I want you to kneel in front of it 
+And stroke my #Cock 50 times, without edging
+While you do this you will keep looking yourself in the eyes
+And you will count each stroke out loud
+Go now, let me know when you're done
+[done,ready,finished,did] Good #PetName
+@DifferentAnswer Just let me know when you're done
+This is a good way of reinforcing your submission to me I think #Smile
+When you actually see yourself following my instructions, it becomes more real
+Maybe it's a little embarrassing, but #SubName...
+That person in the mirror is the real you, the person you should strive to be
+@End
+(has mirror)
+@NotFlag(pvWillNotkneel) I want you to go kneel in front of the mirror... 
+@Flag(pvWillNotkneel) I want you to go stand in front of the mirror...
+And look at yourself as you edge three times
+After each edge, I want you to say out loud: Thank you #DomHonorific #DomName
+Go, #PetName
+Let me know when you are done
+[done,did,finished] Good #Smile
+@DifferentAnswer Just say so when you've done three edges
+I wish I could have seen you just now...
+@End
+(no mirror)
+Never forget #PetName - your #Cock belongs to me
+I will do to it whatever I want
+@CockTorture I will hurt it whenever I want to @CBTCock
+#StartStroking
+#StrokeSlower
+#StrokeSlowest
+Keep going, #Name
+#StrokeFaster
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod47B)
+#StopStroking @StopStroking @DeleteFlag(pvMod47B)
+I love to keep you guessing at what you're going to get next...
+Is it going to be pleasure...
+Or pain?
+Am I going to be naughty or nice?
+Merciful or cruel? @Chance40(cruel edge)
+@BallTorture @NullResponse @Chance40(cruel)
+I think I'm going to be merciful right now #Smile
+I want you to start teasing the head of my #Cock with one finger
+Tease it gently, feel how sensitive it is
+I could make you smack your #Balls right now...
+Or make you edge over and over until you're begging for mercy...
+But instead I'm going to be kind and just tease you a little bit #Smile
+You can use as many fingers as you like now...
+But only use the tips of those fingers, and only on the head
+I bet you want so badly to grab that #Cock and stroke it right now
+But I want you to resist that urge, #PetName
+Keep teasing just like that @Wait(9)
+@NullResponse @ShowBlowjobImage @LockImages
+Imagine her lips gently teasing that #Cock...
+Her tongue flicking against the sensitive head
+Never giving you enough stimulation to cum or even edge
+But always enough to drive you insane...
+I guess I'm still being kind of cruel now, aren't I? #Smile @ShowBlowjobImage
+Showing hot pictures, but only letting you tease and not stroke
+Maybe you enjoy not having to stroke and edge for once @ShowBlowjobImage
+Are you enjoying this? @UnlockImages
+[yes] Good, I want you to #Smile
+[no] Oh... well that sucks then, huh? #Grin
+@DifferentAnswer #YesOrNo
+@NullResponse @Wait(#Random(12,25))
+Keep teasing the head of that #Cock with your fingertips, #Name
+@NullResponse @PlayVideo(15) @JumpVideo
+I hope I didn't just cut it off at the best part #EmoteWink
+@NullResponse @ShowBlogImage
+Just going through some pictures, keep up the teasing #Name @ShowBlogImage
+@NullResponse @ShowBlogImage
+@NullResponse @ShowBlogImage
+Alright, stop touching... enough pleasure for now 
+@End
+(cruel edge)
+If I made you edge and hold it right now...
+Would that make me cruel or merciful? @Timeout(6,one or the other)
+[cruel] Somehow I just always end up being cruel to you, don't I? #Laugh
+[merciful] Then I will have mercy on you, #PetName #Smile
+@AcceptAnswer @NullResponse
+(one or the other)
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(cruel)
+Right now I feel like being cruel #Grin @CBTBalls
+@NotFlag(pvBallsTied) I didn't even make you tie up your #Balls first... @CheckFlag(pthevShoelace,do it again)
+@NullResponse @Goto(after busting)
+@End
+(do it again)
+That's a mistake on my part, #Name @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+@Flag(pvSpoon) Also, get the wooden spoon, you're going to use it instead of your hand
+Now, let's do that again... @CBTBalls
+That was much better, #PetName #Grin
+(after busting)
+I could say I hope you enjoyed that as much as I did...
+But the truth is, I dont care and you probably didn't #Laugh
+@End

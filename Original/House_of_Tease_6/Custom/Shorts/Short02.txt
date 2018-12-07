@@ -1,0 +1,36 @@
+@Stroking #StrokeSlower @StrokeSlower
+Feel that sexual @RT(frustration, tension) building, feel how good it is on your cock. 
+@Stroking That repeated #Stroking, sliding up and down the underside of your dick. 
+You don't even need a girl, you could cum right now. @Chance50(ChTime)
+Maybe this is one you should be ashamed of.
+@End
+(ChTime)
+@NullResponse @RapidCodeOn
+@BadMood @NullResponse @Chance70(CBT)
+@GoodMood @NullResponse @Chance50(Time)
+@Flag(AV_DommeMistress) @Variable[#SessionCBTBalls]<[4] @NullResponse @Goto(CBT)
+@NotFlag(AV_DommeMistress) @Variable[#SessionCBTBalls]<[2] @NullResponse @Goto(CBT)
+Maybe this is one you should be ashamed of.
+@End
+(CBT)
+Maybe we didn't hurt your #Balls enough to cool you down...
+Let's fix that
+@Stroking #Stop @StopStroking
+@NullResponse @CBTBalls
+#ThatsEnough
+@End
+(Time)
+As much as I like watching your horny little mind break, I also want to take care of you
+After all, I want to keep you as my private toy for a very long time #Smile
+So, do you want a Short Session #GeneralTime?
+[yes] Alright then, #Name @RemoveTeaseTime(12 Minutes) @Goto(Fim)
+[no] Then I guess I'm going to have to make you suffer and ache and leak after all 
+@DifferentAnswer #YesOrNo
+But maybe you want suffer for more time...
+It's that right, #PetName?
+[yes] Alright then, #Name @AddTeaseTime(12 Minutes)
+[no] Ok then
+@DifferentAnswer #YesOrNo
+(Fim)
+@NullResponse 
+@End

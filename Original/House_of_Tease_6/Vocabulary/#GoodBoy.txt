@@ -1,0 +1,10 @@
+Good boy
+@Group(D) @SystemMessage #DomName turned on the mic @PlayAudio[tease\commands\GoodBoy*.mp3]
+@Group(D) @SystemMessage #DomName turned on the mic @PlayAudio[tease\commands\GoodBoy*.mp3]
+Good pet
+Good boy
+Good boy
+Good #PetName
+Good boy
+Good boy
+Good boy

@@ -1,0 +1,4 @@
+That sounds serious, #Name
+What have you done that's so bad? @Wait(15)
+Hmm, let me know when you've got something interesting to tell me, #PetName
+@End

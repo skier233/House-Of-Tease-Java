@@ -1,0 +1,9 @@
+** Please do not exit TeaseAI yet ** @DeleteFlag(SundaySet)
+** Running a cleaning process ** @DeleteFlag(MondaySet)
+@NullResponse @DeleteFlag(TuesdaySet)
+@NullResponse @DeleteFlag(WednesdaySet)
+@NullResponse @DeleteFlag(ThursdaySet)
+@NullResponse @DeleteFlag(FridaySet)
+@NullResponse @DeleteFlag(SaturdaySet)
+** You can now close this window ** @EndTease
+@End

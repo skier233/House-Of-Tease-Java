@@ -1,0 +1,207 @@
+@NullResponse @CheckFlag(pvMod20A)
+@NullResponse @CheckFlag(pvMod20B)
+#StopStroking @StopStroking
+@Flag(pvKneeling) Get up off your knees @DeleteFlag(pvKneeling)
+You're going to @RT(thank me for,be grateful for,be happy you had) this @RT(little break,break from stroking,moment of rest) soon, #Name
+Because the thing I'm going to do to you next... @SetFlag(pvMod20A)
+It's going to @RT(destroy you,wreck you,mess you up,fuck you up,turn you into a quivering mess) #Grin
+I'm going to count from 1 to 10
+And with each number, you have to give that many strokes
+So 1 means 1 stoke, 2 means 2 strokes, 3 means 3, and so on
+But I'm going to count at a steady pace...
+So you'll have to stroke faster and faster to keep up
+Make sure you do all your strokes, #PetName
+If you hit the edge, just tell me
+You'll work yourself into a frenzy before you know what hit you #Smile
+Wrap you hand around that #Cock @SetVar[pvMod20EdgeCount]=[0]
+Get ready, #Name @EdgeMode(Goto,got to the edge)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 @Wait(5)
+Hands off
+Better make the most of this break
+Because we're going to do that again #Smile
+Here we go...
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 @Wait(5)
+No more touching, #Name
+Let's reverse it this time
+I'm going to count down, so you'll start with 10 strokes
+And then you'll slow down gradually...
+Here it comes...
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1 stroke...
+Hands off @EdgeMode(Normal)
+That last one wasn't so bad, I guess
+Though it was probably pretty frustrating to slow down, right?
+Well, we're not done yet, #Name
+(do another round)
+Let's @RT(do that again,do another round,do it again) @EdgeMode(Goto,got to the edge)
+@RT(Get ready,Here we go) #Name
+1
+2 @RapidTextOn
+3
+4
+5
+6
+7
+8
+9
+10 @RapidTextOff
+#StopStroking
+#EmoteMoan @EdgeMode(Normal) @Goto(do another round)
+(got to the edge)
+#StopStroking @RapidTextOff @ChangeVar[pvMod20EdgeCount]=[pvMod20EdgeCount]+[1]
+@NullResponse @If[pvMod20EdgeCount]=[2]Then(second time frenzy)
+@NullResponse @If[pvMod20EdgeCount]=[3]Then(third time frenzy)
+That got pretty intense, huh? @Goto(do another round)
+@End
+(second time frenzy)
+Fuck, that was hot... #Smile
+It gets harder to keep up each time, doesn't it?
+[yes] It's such a great way to make you very, <i>very</i> horny #Grin
+[no] Maybe we should do this more often then
+@AcceptAnswer It's such a great way to make you very, <i>very</i> horny #Grin
+I can keep doing this all day, #Name @Goto(do another round)
+@End
+(third time frenzy)
+#LetTheEdgeFade
+You're doing great #Smile
+And you know that the more aroused you get...
+The more you make me happy
+That's all that should matter to you in the end
+You do want to make me happy,don't you?
+[yes] Good boy #Smile
+[no] Yet somehow you can't help it
+@DifferentAnswer #YesOrNo
+You are helpless in my hands, #Name
+I fucking <i>own</i> you
+And even if you feel doubt itching in the back of your mind sometimes
+In your heart of hearts you know
+That you wouldn't have it any other way
+@End
+(pvMod20A)
+#StopStroking @StopStroking
+Tease that #Cock a little bit, #Name @DeleteFlag(pvMod20A)
+Fondle it, run your fingers up and down @SetFlag(pvMod20B)
+Don't stroke
+Just play with it #Smile
+It's so hard isn't it?
+You can play with your #Balls too
+Cup them, roll them between your fingers
+#Name...
+Would you like to edge for me again?
+[yes] Not until I allow it, #PetName
+[no] Aww #Laugh @Goto(do not want to edge)
+@DifferentAnswer #YesOrNo
+I might make you edge a <i>long</i> time
+Are you sure you want that?
+[yes] It might be one really long edge
+[no] Did I scare you off? #Laugh @Goto(do not want to edge)
+@DifferentAnswer #YesOrNo
+Or it might be a long series of short edges
+I might take you all the way to your breaking point
+Do you still want it?
+[yes] Okay, #PetName #Smile
+[no] Coward... #EmoteWink @Goto(do not want to edge)
+@DifferentAnswer
+Here we go... @Chance33(series of short edges)
+#Edge @Edge(ExtremeHold,HoldTaunts)
+#LetTheEdgeFade @Goto(continue after edging)
+(series of short edges)
+#Edge @MultipleEdges(10,6) @EdgeHold
+#LetTheEdgeFade
+(continue after edging)
+Oh that blissful agony... @Chance50(say thank you)
+That point where you want it to go on forever 
+And yet you almost can't bear it
+That's exactly where I want you, #Name
+I get the feeling it's where you want to be too
+You seem to spend a lot of time there #Laugh
+@End
+(do not want to edge)
+Maybe you've already done enough edging #GeneralTime
+@End
+(say thank you)
+You love it so fucking much, don't you #PetName
+And I know you love me for giving you so much of it
+So the next time you get to the edge
+You're going to hold it, and while holding it...
+I want you to say "thank you for making me edge #DomHonorific #DomName" out loud
+And I mean <i>loud</i>, #PetName
+Get to the edge @EdgeHold
+Now, there's no way I could have heard you say it
+So I need you to be honest, #PetName
+Did you say it out loud?
+[yes] Good #EmoteHappy @MoodUp @Goto(try again)
+[no] Tsk tsk, bad #PetName @MoodDown
+@DifferentAnswer #YesOrNo
+You should always do as I say
+@BallTorture @NullResponse @CBTBalls
+Now let's try again
+(try again)
+I'm going to let you hold another edge
+And this time you will say "I will do whatever you want, #DomHonorific #DomName"
+Out <i>loud</i>, #Name
+#Edge @EdgeHold
+Did you do it?
+[yes] #Smile @MoodUp @Goto(try it one more time)
+[no] You do know how to make me unhappy, #Name @MoodDown
+@DifferentAnswer #YesOrNo
+Now #PetName
+@BallTorture You do realise I tend to take that out on your #Balls, don't you? @CBTBalls
+@BallTorture You know what I think?
+@BallTorture I think you like the pain just a little too much... #Laugh
+(try it one more time)
+Let's try it one more time
+It's a good way of reinforcing that submissive state of mind
+That brings you back to me whether you want to or not #Smile
+This time when you reach the edge
+I want you to say "you own me, #DomHonorific #DomName"
+I want you to say it over and over again
+Until I tell you to stop holding the edge
+#Edge @Edge(LongHold)
+#LetTheEdgeFade
+I'm not going to ask you if you did what I said this time
+I think you did it
+And if not, you will feel guilty about it
+No need for me to tell you you did good or bad
+You know it
+And you know you want to be good for me
+Because it will make you feel good too #Smile
+@End
+(pvMod20B)
+#StopStroking @StopStroking
+Good boy #Smile @DeleteFlag(pvMod20B)
+Can you take more for me?
+[yes] Yes, you should always be ready and willing to take more for me @MoodUp
+[no] Oh that's too bad... too bad for <i>you</i> @MoodDown
+@DifferentAnswer #YesOrNo
+Because I'm only asking to see if you'd give the right answer
+I don't really care whether you can take more, you're going to do as I say anyway @CustomTask(Strokes)
+#Edge @EdgeHold @MultipleEdges(2,8,50)
+#LetTheEdgeFade
+@End

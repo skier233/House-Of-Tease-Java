@@ -1,0 +1,355 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral25_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral25]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral25_NotFirstTime)
+(AV_ModGeneral25_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral25]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral25]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral25]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral25]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral25]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral25]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral25]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral25]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral25]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral25]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral25]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral25]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral25]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral25]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral25]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral25]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral25]=[AV_ModGeneral25]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral25]=[AV_ModGeneral25]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral25]=[AV_ModGeneral25]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral25]=[AV_ModGeneral25]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral25]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #Stop @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact2
+Hey #Contact2 
+@Contact2 Hi #EmoteLaugh 
+I need to take care of something here, but I will keep a eye in the chat
+@Contact2 #AV_Break4
+@NullResponse @RemoveDomme
+Now, get up. 
+Shut the fuck up. I don't want to hear a word out of your mouth unless I ask. 
+Now. You clearly need a reminder of who is in charge here. 
+Look at you, finally listening.
+Later, when I'm tired of abusing you, you'll leave here sore and frustrated and desperate.
+Ready to begin? 
+I'm going to get you hard first. 
+#StartStroking
+You're already there, aren't you? 
+Pathetic. Look at it, twitching and throbbing already. 
+I bet if you went a little faster, you'd cum all over yourself. 
+So I'll just stop.
+#StopStroking
+What's that? Shut your mouth, when I want you to beg, I'll tell you to beg. 
+You want your hand back on this dick, don't you? 
+Well, how about instead you slap it?
+Or better yet, you slap those balls of yours? 
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+Oh, that hurts, doesn't it? 
+A few more, I think. 
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+What's that? Is your little cock soft already?
+You're my bitch now.
+#Edge @Edge
+Don't you like having your cock owned? @ResponseYes(ILoveBeingControlled) @ResponseNo(AV_NoNeutral) 
+I think you should tell me how much you love me controlling your cock. 
+No? Well, that's too bad.
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+That's what bad pets get, they get punished. 
+Now, you don't want to be punished, do you?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+I bet you wish I was in control of you everyday!
+Telling you what to do at my mercy, having you beg me for release.
+Craving to my every need.
+#KneelForMe
+#StartStroking
+I bet you want to edge so bad but can't
+Stroke your hard cock some more
+Mmmmm so fucking hot seeing you stroking that hard cock for me. 
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@Flag(av_fetish_rough) Wow...You do obey like a good little slut...
+Bend over for me and give each ass cheek 25 spankings... @PlayAudio[tease\whip.mp3] @Wait(20)
+@Flag(av_fetish_pegging, AV_LikeAnal) Mmmf...Wish I was there to grab that tight ass of yours and pull it tight against my big strap on....Maybe another day, hehe.
+Get on all fours again for me...
+#Edge @Edge
+Get on your knees and lean way back...
+Take your dominate hand and get ready to smack your balls for me!
+@RT(Spank, Hit) your #Balls @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+I didn't say this was going to be about all pleasure!
+Very good pet!
+Awww did that hurt? 
+#SitDown
+@Contact1 He's all yours #DomName @AddDomme
+#EmoteSmile @RemoveContact2
+@End
+(Modulo2)
+@Stroking #Stop @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact3
+Hey #Contact3 
+@Contact3 Hi #EmoteLaugh 
+I need to take care of something here, but I will keep a eye in the chat
+@Contact3 #AV_Break4
+@NullResponse @RemoveDomme
+Such a horny little boy you are today.
+Now we are going to see just how submissive you want to become. 
+Hmmm...You know, I think you should go grab some toothpaste...
+Seeing you all frustrated gave me an idea! @Wait(15)
+Did you grab it?
+[yes] #Good
+[no] So go get it @LoopAnswer 
+@DifferentAnswer #YesorNo #SubName?
+Now take some and rub it on your nipples for me, hopefully it gives you a little tingly sensation. @Wait(20)
+Very good! 
+@NotoFlag(AV_LikeAnal) @NullResponse @Goto(rev98hd)
+Now take a little and rub around your ass hole for me, #Lol! @Wait(20)
+Now I want you to get on all fours but with your face on the ground. 
+Keep your ass pushed high in the air!
+Ohhhhh I bet that felt good having the cool air hit your nice tight hole! @Wait(15)
+You have made Goddess very very horny...
+(rev98hd)
+How many days do you feel you could go without cumming for #DomName??? @Timeout(5, AV_jy5s5)
+[1, one] You may be in complete torment!
+[2, two] Too bad you aren't the one in control of those orgasms! 
+[3] Too bad you aren't the one in control of those orgasms! 
+[4, four, 5, five] Awww really? You could go almost a week? Hmmm....
+[6 , 7, week, weeks, months] Awww really? You could go that many time? Hmmm....
+@AcceptAnswer You may be in complete torment!
+(AV_jy5s5)
+Kneel again for me boy... @Wait(10)
+#StartStroking
+Stroke it at a good pace until you get close to an edge...
+Beg me to allow you to edge in front of me...
+I SAID BEG BOY!
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 3), 10, 100)
+#GoodBoy
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Grab the spoon and get on all fours! 
+@RT(Spank, Hit) your right ass @PlayAudio[tease\G3Spank\*.mp3] @Wait(20)
+Aww did that hurt? 
+Too bad slut don't complain to Goddess.  
+@RT(Spank, Hit) your left ass @PlayAudio[tease\G3Spank\*.mp3] @Wait(20)
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+Grab your clothes pins, I hope you have at least 10.
+Put 2 on each breast for me! Mmmmmmmm. @Wait(20)
+Now two on each side of your #Balls.... @Wait(20)
+Mmmmmmmm. You are making Goddess horny!
+Beg me to let you stroke your cock some more...Beg boy!
+Beg more, you need to crave serving me...
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+Make that cock leak pre-cum.
+#KneelForMe
+Do you want to remove the clothes pins now boy? @Timeout(5, AV_4grag6jf)
+[yes] Hehe, well I want you too...
+@AcceptAnswer Hehe, well I want you too...
+(AV_4grag6jf)
+You will..
+One by one but not so fast...
+Grab the wooden spoon ...
+I want 10 smacks hard right above your cock...Make it sting. 
+Go @PlayAudio[tease\G3Spank\*.mp3] @Wait(20)
+Now we will remove the clothspins
+You will give me an edge between each one until you are finished removing all of them.
+#Edge @EdgeNoHold @MultipleEdges(8, 10, 100)
+All done slut?
+Mmmm look at those pinch marks, makes Goddess very happy.
+#SitDown
+@Contact1 He's all yours #DomName @AddDomme
+#EmoteSmile @RemoveContact3
+@End
+(Modulo3)
+@Stroking #Stop @StopStroking
+I literally have broken you down so much I have you wrapped around my little finger.
+I love playing games with you, fucking with your head.
+It really does bring me so much joy.
+Teasing and denying and draining in every way possible.
+Now we will be playing a rather cruel game I devised. 
+Can you resist the game? Probably NOT.
+#StartStroking
+I tease you into a horny oblivion your #Cock thinks he are in heaven. 
+Well you are whenever I am on your PC screen.
+Play my game because you should, because I deserve it. 
+Nothing more or nothing less. 
+I will drain you dry. 
+I love to tease and play games with you.
+#Edge @Edge
+The toss of a coin will decide your fate, will you get to enjoy the pleasure of stroking your cock? 
+Or will you have to torture your most vulnerable and sensitive male parts for me? 
+We will be doing a series of coin flips so the most likely outcome is that you will be alternating between sessions of pain and pleasure. 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Will you get lucky and get to stroke or will you have to suffer for me and endure the cruel punishments I have devised for your cock and balls?
+If the coin comes up heads and you get to stroke, you must edge for me
+Tail will be punishment time.
+Let's begin... @Chance50(xpain1)
+Head!!
+#Edge @Edge
+#LetTheEdgeFade @Goto(xround2)
+(xpain1)
+Tail!!
+#PunishGame
+(xround2)
+Round 2... @Chance50(xpain2)
+Head!!
+#Edge @Edge
+#LetTheEdgeFade @Goto(xround3)
+(xpain2)
+Tail!!
+#PunishGame
+(xround3)
+By now you are probably desperate for release
+hoping that I allow you to climax soon
+but don't think that I'm going to let you have it that easy.
+As you already know you are my toy, my plaything
+Round 3... @Chance50(xpain3)
+Head!!
+#Edge @Edge
+#LetTheEdgeFade @Goto(xround4)
+(xpain3)
+Tail!!
+#PunishGame
+(xround4)
+It is a mystery, the coin decides. 
+This is a fun game of suspense as you never know what each round will have in store for you.
+Round 4... @Chance50(xpain4)
+Head!!
+#Edge @Edge
+#LetTheEdgeFade @Goto(xround5)
+(xpain4)
+Tail!!
+#PunishGame
+(xround5)
+Round 5... @Chance50(xpain5)
+Head!!
+#Edge @Edge
+#LetTheEdgeFade @Goto(xround6)
+(xpain5)
+Tail!!
+#PunishGame
+(xround6)
+I like to lead you and your feelings.
+I'm your Domina. I have the power.
+You only can obey, submit.
+Surrender to my strength and my dominance.
+You can remove everything from your body...
+@End
+(Modulo4)
+#KeepStroking
+@NullResponse @AddContact2
+@Contact2 Hi
+Hi #Contact2
+@Contact2 You know #SubName you were lucky to meet a goddess like #DomName, she is both good and cruel! 
+@Contact2 Like me
+@Contact2 #Edge @Edge
+@NotFlag(av_fetish_pain) @NullResponse @Goto(p098g6)
+@Contact2 Your cock is very hard, we should to fix this
+@Contact2 @NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Contact2 now take the clothespins and stick...
+@Contact2 2 on your nipples @Wait(15)
+@Contact2 1 on the nose
+@Contact2 2 on the tongue
+@Contact2 And 5 on the balls
+@Contact2 I like to hurt slaves like you
+(p098g6)
+@NotFlag(AV_MasuDone) @NullResponse @Goto(end3430)
+@Contact2 Hey #DomName, can I try that Masu thing you talked about?
+Sure, you already know the beats...
+@Contact2 Great, let's try #SubName @SetVar[AV_MasuRounds]=[#Random(6, 9)] 
+(MasuLoop)
+@NullResponse @Goto(Mas1, Mas2, Mas3, Mas4, Mas5, Mas6, Mas7, Mas8, Mas9, Mas10, Mas11)
+(Mas1)
+@Contact2 @RT(ONE two three four,, ONE two three four, ONE two three four, Dog) @PlayAudio[tease\Masu\dogdog120.wav] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas2)
+@Contact2 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat100.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas3)
+@Contact2 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat120.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas4)
+@Contact2 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas5)
+@Contact2 DOG & CAT @PlayAudio[tease\Masu\dogcat80.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas6)
+@Contact2 DOG & CAT @PlayAudio[tease\Masu\dogcat100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas7)
+@Contact2 DOG & CAT faster @PlayAudio[tease\Masu\dogcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas8)
+@Contact2 DOG & CAT switch @PlayAudio[tease\Masu\dogcat-switch140.mp3] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas9)
+@Contact2 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas10)
+@Contact2 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake120.wav] @Wait(17)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas11)
+@Contact2 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(MasuBreak)
+@Contact2 @RT(Imagine if we played Masu for several hours at competition speed how much cum would have built up, Knowing all this,, knowing you will not be able to cum and dancing near the edge is the very essence of highlevel Masu play, If you do it right you will enter a blisfull trance like state, That's it. Keep your form. Work it hard, Stroke is To Obey)
+@NullResponse @If[AV_MasuTrain]>=[AV_MasuRounds]Then(MasuEnds)
+@NullResponse @Goto(MasuLoop)
+(MasuEnds)
+@Contact2 #ThatsEnough
+(end3430)
+@Contact2  See you later, thanks for let me use #SubName
+Bye #Contact2
+@NullResponse @RemoveContact2
+@Flag(av_fetish_pain) You can remove the clothespins #PetName
+@End

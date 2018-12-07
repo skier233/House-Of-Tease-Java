@@ -1,0 +1,275 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral19_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral19]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral19_NotFirstTime)
+(AV_ModGeneral19_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral19]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral19]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral19]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral19]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral19]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral19]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral19]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral19]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral19]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral19]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral19]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral19]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral19]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral19]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral19]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral19]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral19]=[AV_ModGeneral19]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral19]=[AV_ModGeneral19]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral19]=[AV_ModGeneral19]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral19]=[AV_ModGeneral19]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral19]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+I want to have a little talk about a subject which is very dear to me, and I know it's dear to you. 
+This subject is: jerking off. 
+I know you like it because you do it all the time for me. 
+And that's fine. I encourage it. 
+But did you know it has some side effects?
+First off, there's the object of your desire. 
+Every time you jerk it for me, you are giving me a little power over you. 
+Like, I said, I encourage it. 
+So...
+#StartStroking
+The second thing is that it's addictive. 
+Yeah, I know, people say that all the time, porn addiction and whatever. 
+But a woman with mastery over this addiction can do a lot with it. 
+Like me for instance. 
+I get you to jerk off to me. I encourage it. 
+I get you to do it, and enjoy it. 
+By going out of my way to get you to do it, I get that little bit of power each time.
+But here's the thing. I'm here talking about the power exchange. 
+Cementing that in your mind. 
+Go ahead, keep stroking. I'm talking about the power I'm taking right now. 
+I cement that in your mind. The pleasure you're feeling has your mind wide open to whatever I say. 
+You listen. You obey. And you get addicted.
+Not just to the jerking off. 
+You were already addicted to that. 
+But to the loss of power. But I'm the only one talking about that part. 
+Scratching that itch. So you get addicted to losing power to me.
+#Edge @Edge
+@Flag(av_fetish_foot) Oh, silly me, I'm getting ahead of myself. 
+@Flag(av_fetish_foot) Keep staring at my feet, boy. 
+Mmm, I can tell by the way you're twitching and the way you tried to hold in a moan there that you're enjoying this. 
+We have not even gone very far and I can tell you are already being pushed to you limits. 
+@Flag(av_fetish_pain) Why don't you take your other and slap my balls for me?
+@Flag(av_fetish_pain) Come on, you call that a slap? 
+@Flag(av_fetish_pain) Do it harder. HARDER. 
+@Flag(av_fetish_pain) I want to see you in actual pain, you whore. 
+Put your hands behind your back. 
+My God, you just leaked precum, didn't you? 
+@Flag(av_fetish_pain) Did hitting the balls really turn you on that much? 
+You really are beyond help at this point
+@Flag(av_fetish_cei) Go on, lick it up. We can't have you making a mess everywhere. 
+@Flag(av_fetish_cei) Lick it up like the good cumslut you are 
+@Flag(av_fetish_cei) I bet you enjoyed how that tasted, didn't you? 
+@Flag(av_fetish_cei) Of course you did. 
+Aw, you look so sad and helpless right now.
+You think some edges could help you?
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 4), 10, 100)
+That's better @Wait(20)
+@End
+(Modulo2)
+@RT(#SubName, #PetName)
+@Flag(AV_LikeAnal) You will need to have some more lube handy.
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(30) @SetFlag(AV_PinDone)	
+You've been such a good boy
+@Flag(av_fetish_pain) but I do like watching you hurt yourself... 
+I want you to slowly play with your balls first 
+and suck on your index and middle finger like a good boy 
+because you'll do anything I say no matter how humiliating it is wouldn't you? #Lol
+@Flag(av_fetish_pain) Now slap those balls with the hand you just rubbed them with
+and make those fingers wet!
+@NotFlag(av_fetish_pain) @NullResponse @Goto(JumpPain7)
+Now grab your spoon and spank your ass for me. 
+You can get on your hands and knees and hit that naughty ass of yours. @Wait(20)
+Harder.. harder! 
+Give me 30 nice hard swats on your ass.. @Wait(30)
+hmm, maybe your balls too.. you want to spank your balls for me?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Slap them a few times, HARD. @PlayAudio[tease\spank\*.mp3]  @Wait(12)
+3 more ball slaps... go for it, and make sure they're nice and hard
+(JumpPain7)
+Stroke your cock for me... @PlayAudio[tease\cStroke.mp3] 
+think about all the naughty things I've made you do #GeneralTime
+and how full and sore your balls are.. 
+keep stroking, faster and faster, 
+@NotFlag(av_fetish_pain) picturing me bending you over my lap and spanking your ass HARD 20, 50, 100 times... 
+@NotFlag(av_fetish_pain) pausing to spread your legs and slapping them too 
+@NotFlag(av_fetish_pain) finally letting you up and sucking your dickuntil you almost cant stand it... 
+almost Cumming.... and then stop.  @PlayAudio[tease\cStop.mp3] 
+Stop everything	
+@Flag(AV_LikeAnal) If you have lube you should actually lube those fingers up right now 
+@Flag(AV_LikeAnal) because I got some plans for you, because you are my little toy and you will do anything I say.
+Now I want you to play with your nipples with the hand you massaged your balls with, come one!.
+@Flag(av_fetish_rough) you know how pathetic you look right now?
+@Flag(av_fetish_rough) but it's okay because it's for me and I'm all you need right now ain't I? 
+@NotFlag(av_fetish_rough) I'm all you need right now ain't I? 
+so you better do what I say babe...
+@Flag(AV_LikeAnal) while we are at it why don't you slowly insert one of those fingers in your tight little hole.
+@Flag(AV_LikeAnal) Hmm such a good boy just because I told you to do it! 
+And you are all mine!
+Now start jerking that hot cock of with your other hand @PlayAudio[tease\cStroke.mp3] 
+@Flag(AV_LikeAnal) and work that ass for me baby #EmoteMoan
+@Flag(AV_LikeAnal) curl your finger up in your ass try to touch that prostate for me while you 
+start jerking it faster baby 
+come one baby do it but don't cum until I tell you to cum! 
+hmm such a good boy.
+Come on jerk it faster for, dont you want to show your goddess what a good little boy you are?
+@Flag(AV_LikeAnal) and start working that ass better you little slut!
+Jerk it as fast as you can and just imagine it's my hand 
+@Flag(AV_LikeAnal) while my other other hand is pleasing your ass, 
+#StopStroking
+you thought this was bad? 
+@Flag(AV_LikeAnal) Go clean yourself @Wait(35)
+@End
+(Modulo3)
+So, do you want to play a game? 
+I know a fun little game we can play. 
+It's all about following directions, and having my sexuality completely control you. 
+I just love to be in control. 
+Lucky for me you're love to follow those commands. 
+Why don't we play a little game of red light, green light? 
+You know how the game goes, right? 
+When I say "green light," you can go and When I say "red light" you've gotta stop! 
+Of course, you're going to be doing this while jerking off.  
+Go on let's start. 
+Green light!  @PlayAudio[tease\cStroke.mp3] 
+Let's see you start jerking off that cock.  
+Looking at my sexy body makes it hard for you to control yourself, doesn't it? 
+Red Light! @PlayAudio[tease\cStop.mp3] 
+Stop Is it hard for you to stand there with an erection just bobbing in the air
+seeing my sexiness but not being able to touch yourself? 
+Green Light! Go! @PlayAudio[tease\cStroke.mp3] 
+Mmmmm, look at me 
+I can control anything, including your dick. 
+Red Light! #EmoteSquirm @PlayAudio[tease\cStop.mp3] 
+You almost didn't make it on time. 
+You would have lost. 
+I'm kinda surprised that you're not losing this game. 
+Thought you already would've weakened, Green Light Go. @PlayAudio[tease\cStroke.mp3] 
+Since you're doing so good, maybe I should just let you finish yourself off
+Red Light!  @PlayAudio[tease\cStop.mp3] 
+Because I don't know how you could contain yourself. 
+But you can't. You have to stand there with that useless tool dangling in the air. 
+Green Light! Go. @PlayAudio[tease\cStroke.mp3] 
+I'm very shocked that you haven't lost. 
+I guess you really can control yourself. 
+Red Light! @PlayAudio[tease\cStop.mp3]  
+Those balls look so swollen and ready to burst. 
+@End
+(Modulo4)
+You are here to amuse me today. 
+You are to do what I tell you when I tell you... got it? 
+You better not pussy out on me... 
+@NotFlag(AV_LikeAnal) @NullResponse @Goto(SkipLube)
+You will need to have some more lube handy. Let me know when you are ready to begin.
+[yes, ready, done] #Good
+@DifferentAnswer Are you ready #SubName?
+(SkipLube)
+This is going to be fun for me, not you. 
+you have to put on a show for me
+#StartStroking
+That's right. That's what I want to see.
+You do that for me, and maybe I'll do something for you
+You're gonna be a dirty little masturbator for me. * #Laugh * 
+You're going to be a good boy. 
+Stroke it up and down, nice and slow. 
+I don't want you to come yet. 
+@Flag(AV_LikeAnal) You know what else I want you to do? 
+@Flag(AV_LikeAnal) I want you to play with your dirty little girly hole. 
+@Flag(AV_LikeAnal) Put some lube on @Wait(20)
+@Flag(AV_LikeAnal) Now put your legs on the desk....open it!!! @Wait(20)
+@Flag(AV_LikeAnal) I want you to take a finger and work it into that pretty little ass hole of yours. 
+@Flag(AV_LikeAnal) Just like that. 
+@Flag(AV_LikeAnal) Start  stroking the outside of your ass 
+@Flag(AV_LikeAnal) and then slide a finger in
+@Flag(AV_LikeAnal) just keep sliding that finger in and out of your little girly ass hole. 
+Keep stroking your cock! 
+Did I tell you to stop?
+I didn't. 
+Stroke that cock of yours. 
+@Flag(AV_LikeAnal) And keep working that finger. 
+Does that feel good? 
+@Flag(AV_LikeAnal) Grab that little button. 
+@Flag(AV_LikeAnal) Identify that little button in your sissy whole and press it. 
+And you better jerk your cock a little faster now. 
+@Flag(AV_LikeAnal) Little faster with a finger up your ass now! 
+Does that feel good? 
+Isn't that exactly what you wanted? 
+Keep stroking your cock! 
+@Flag(AV_LikeAnal) You think you can get two fingers and your ass? 
+@Flag(AV_LikeAnal) I know your dirty little slut hole is all loosened up with the one. 
+@Flag(AV_LikeAnal) I want you to take two and slide them in. 
+@Flag(AV_LikeAnal) Awww, you're a pretty little girl with a pretty little sissy hole that's all loosened up for me now. 
+@Flag(AV_LikeAnal) Go ahead, get those two fingers in there. 
+@Flag(AV_LikeAnal) I wanna watch you fuck yourself while jerking your cock! * #Laugh * 
+Now, are you ready? 
+Are you almost ready to come? 
+Is that cock nice and hard? 
+Are you just about ready to squirt? 
+Go ahead! Keep jerking! 
+Are you ready? 
+Jerk that cock! 
+@Flag(AV_LikeAnal) there is a nice sissy! 
+#Edge @Edge
+Good boy
+@Flag(AV_LikeAnal) Go clean yourself @Wait(35)
+@End

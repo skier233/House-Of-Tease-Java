@@ -1,0 +1,148 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_LinkMissBlue3_NotFirstTime)
+@NullResponse @SetVar[AV_LinkMissBlue3]=[0] 
+@NullResponse @SetFlag(AV_LinkMissBlue3_NotFirstTime)
+(AV_LinkMissBlue3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_LinkMissBlue3]=[0]Then(Part1_1)
+@NullResponse @If[AV_LinkMissBlue3]=[1]Then(Part1_2)
+@NullResponse @If[AV_LinkMissBlue3]=[10]Then(Part1_3)
+@NullResponse @If[AV_LinkMissBlue3]=[100]Then(Part1_4)
+@NullResponse @If[AV_LinkMissBlue3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_LinkMissBlue3]=[11]Then(Part1_6)
+@NullResponse @If[AV_LinkMissBlue3]=[101]Then(Part1_7)
+@NullResponse @If[AV_LinkMissBlue3]=[111]Then(Part1_8)
+@NullResponse @If[AV_LinkMissBlue3]=[110]Then(Part1_9)
+@NullResponse @If[AV_LinkMissBlue3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_LinkMissBlue3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_LinkMissBlue3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_LinkMissBlue3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_LinkMissBlue3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_LinkMissBlue3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_LinkMissBlue3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_LinkMissBlue3]=[AV_LinkMissBlue3]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_LinkMissBlue3]=[AV_LinkMissBlue3]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_LinkMissBlue3]=[AV_LinkMissBlue3]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_LinkMissBlue3]=[AV_LinkMissBlue3]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_LinkMissBlue3]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+At least all this stroking and edging is good for your sexual endurance
+I'd hope so anyway #Smile
+So the next time you actually have sex 
+Whenever that might be #EmoteWink
+You have the stamina to please your partner
+Just remember that you have me to thank for that, in part at least
+You're welcome, #PetName
+#StartStroking @StartStroking
+@End
+(Link2)
+I wonder what goes on in your mind sometimes, #SubName
+I know some of it
+I know the pure arousal that percolates up from your #Balls
+Creeping upward through your veins and infiltrating your brain
+I know the feelings of obedience that drive you to obey my commands
+But I wonder how far you're really willing to go...
+What dark corners of that mind of yours we haven't explored yet
+The corners that you barely want to admit to yourself exist
+Maybe we'll explore them someday
+But for now...
+#StartStroking @StartStroking
+@End
+(Link3)
+Hey #PetName...
+Imagine if I could actually take you in as a servant
+You'd live with me, nobody else would need to see you
+I could use you as I saw fit...
+You'd have to do chores, obviously
+I'd make you mop the floor naked
+I could whip you as often as I wanted
+And if I needed an orgasm...
+Well that's what servants mouths are for, aren't they #Laugh
+It would be like in the ancient world, when they actually had slavery
+Those were truly the days, #SubName #Laugh
+Unfortunately, we live in the modern era #EmoteSad
+Which has it's own advantages of course
+Such as having a #PetName glued to a screen, obeying every command #EmoteHappy
+For example...
+#StartStroking @StartStroking
+@End
+(Link4)
+@NullResponse @CheckFlag(pthevLink11B)
+Hey, #SubName
+I heard this story the other day about a friend of a friend
+She found out her husband had been cheating on her @CheckFlag(pthevLink11A)
+There was a big scene and he left her for his girlfriend
+(but apparently)
+But apparently he'd forgotten that <i>she</i> had made <i>him</i> sign a pre-nup
+Turns out she gets pretty much everything and he gets nothing
+And then the guy's girlfriend leaves him because she thought he was rich #Laugh
+Now all he has is a low paying job and a small apartment
+And she's still living in her big-ass house, very much enjoying her new-found freedom
+Good story, right?
+[yes] Any story where the women gets out on top is a good story #Laugh
+[no] Sorry #SubName, I just think that's a great story #Laugh
+@DifferentAnswer #YesOrNo
+Anyhow... @SetFlag(pthevLink11A)
+#StartStroking @StartStroking
+@End
+(pthevLink11A)
+Wait, haven't I already told you this story before?
+[yes] Sorry #SubName #Laugh
+[no] Oh, okay, so there was this big scene and he left her for his girlfriend @Goto(but apparently)
+@DifferentAnswer #YesOrNo
+There's a twist to the story though
+She's now dating her husband's ex-girlfriend!
+Oh, the irony #Laugh @SetFlag(pthevLink11B)
+@Flag(pthevMarried) What if @ShowVar[pthevNamePartner] and I got together #Grin
+@Flag(pthevGirlfriend) What if @ShowVar[pthevNamePartner] and I got together #Grin
+@Flag(pthevExGF) What if @ShowVar[pthevNamePartner] and I got together #Grin
+@Flag(pthevVirgin) No chance of something like that happening to you I suppose...
+#StartStroking @StartStroking
+@End
+(pthevLink11B)
+#StartStroking @StartStroking
+@End

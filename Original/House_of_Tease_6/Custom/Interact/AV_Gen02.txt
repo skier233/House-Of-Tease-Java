@@ -1,0 +1,31 @@
+@RT(Oh, now you want to hesitate?, I want to hear you beg.) @Chance50(Alternative)
+You've lost ownership of your own @RT(body, cock, balls). 
+It doesn't belong to you anymore. It’s mine. @Goto(Retorna)
+(Alternative)
+Look at all this sweat...
+the way you @RT(shudder, growl, struggle).
+(Retorna)
+@GoodMood @RT(I won't go too hard on you, I'll go easy on you) @RT(#PetName, #SubName) @Goto(Para)
+@ApathyLevel1 @RT(I won't go too hard on you, I'll go easy on you) @RT(#PetName, #SubName) @Goto(Para)
+@ApathyLevel2 @RT(I won't go too hard on you, I'll go easy on you) @RT(#PetName, #SubName) @Goto(Para)
+@ApathyLevel3 @NullResponse @Chance75(Mercy)
+@ApathyLevel3 @RT(Oh, I love the way you moan so much, Obedience and Mistress pleasure is so much more satisfying than your needs,, isn't it?)
+@ApathyLevel4 @RT(Oh, I love the way you moan so much, Obedience and Mistress pleasure is so much more satisfying than your needs,, isn't it?)
+@ApathyLevel5 @RT(Oh, I love the way you moan so much, Obedience and Mistress pleasure is so much more satisfying than your needs,, isn't it?)
+@NullResponse @Chance50(Break)
+Oh no, #PetName, you won't stop. Not yet. 
+Because this is just the start of your punishment. 
+@End
+(Break)
+But @RT(I'll try to keep your limits in mind a little better, I think) I can let you rest for a while
+enjoy @Wait( #Random(100, 120))
+#ThatsEnough
+@End
+(Mercy)
+@RT(I won't go too hard on you, I'll go easy on you) @RT(#PetName, #SubName) @Goto(Para)
+(Para)
+@NullResponse @Interrupt(AV_Cancela)
+@End
+(End)
+@RT(You get nothing but frustration, You haven't done anything to earn it,, have you?)
+@End

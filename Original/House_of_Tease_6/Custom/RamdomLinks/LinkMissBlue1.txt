@@ -1,0 +1,162 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_LinkMissBlue1_NotFirstTime)
+@NullResponse @SetVar[AV_LinkMissBlue1]=[0] 
+@NullResponse @SetFlag(AV_LinkMissBlue1_NotFirstTime)
+(AV_LinkMissBlue1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_LinkMissBlue1]=[0]Then(Part1_1)
+@NullResponse @If[AV_LinkMissBlue1]=[1]Then(Part1_2)
+@NullResponse @If[AV_LinkMissBlue1]=[10]Then(Part1_3)
+@NullResponse @If[AV_LinkMissBlue1]=[100]Then(Part1_4)
+@NullResponse @If[AV_LinkMissBlue1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_LinkMissBlue1]=[11]Then(Part1_6)
+@NullResponse @If[AV_LinkMissBlue1]=[101]Then(Part1_7)
+@NullResponse @If[AV_LinkMissBlue1]=[111]Then(Part1_8)
+@NullResponse @If[AV_LinkMissBlue1]=[110]Then(Part1_9)
+@NullResponse @If[AV_LinkMissBlue1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_LinkMissBlue1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_LinkMissBlue1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_LinkMissBlue1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_LinkMissBlue1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_LinkMissBlue1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_LinkMissBlue1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_LinkMissBlue1]=[AV_LinkMissBlue1]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_LinkMissBlue1]=[AV_LinkMissBlue1]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_LinkMissBlue1]=[AV_LinkMissBlue1]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_LinkMissBlue1]=[AV_LinkMissBlue1]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_LinkMissBlue1]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+So what next, hmm?
+You probably want to #JerkOff again
+Not yet #Name @CBTCock 
+I love how I can just randomly decide to hurt you #Grin
+You'll take the pain as eagerly as the pleasure
+You don't even have to be bad
+I can make you suffer simply because I want to
+Look at that #Cock...
+The poor thing #Grin @CBTCock
+#StartStroking @StartStroking
+@End
+(Link2)
+#SubName, who owns you?
+[you] That's right
+@DifferentAnswer Let's try that again, who owns you? @MoodDown
+And who owns your #Cock?
+[you] Exactly
+@DifferentAnswer Who owns your #Cock? @MoodDown
+And who owns your orgasms?
+[you] Correct
+@DifferentAnswer Who owns your orgasms, #Name? @MoodDown
+I just wanted to remind you #Smile
+#StartStroking @StartStroking
+@End
+(Link3)
+I'm sure you're aching to start stroking again
+Teasing you is so easy #PetName #Grin
+#StartStroking
+#StopStroking
+Keep your hands way from your #Cock #Name
+Frustrating isn't it #Laugh
+Starting and then stopping over and over
+I love to keep you guessing what will come next #Smile
+Maybe I'll let you stroke your #Cock
+Maybe I'm going to tell you put your pants back on and enjoy your blue balls
+You never know #Grin 
+But for now...
+#StartStroking @StartStroking
+@End
+(Link4)
+@NullResponse @CheckFlag(pthevPlugged)
+@NullResponse @CheckFlag(pvBallsTied)
+Think about cumming for a moment
+It's an amazing feeling, sure
+I have amazing orgasms all the time, so believe me, I know #Smile
+But you know that after that short moment of bliss...
+You feel empty
+And you might find that it's not just the arousal you miss
+Because when that arousal is gone
+Much of your obedience to me is gone as well
+That's what you really miss
+Come to think of it...
+Maybe you should never ever have an orgasm again
+That way you'll always feel blissfully aroused
+And deeply obedient to me #Smile
+Think about that #SubName
+In your heart you know what it is you <i>really</i> want...
+#StartStroking @StartStroking
+@End
+(pthevPlugged)
+How's that plug feeling in your ass? @Chance30(start stroking)
+I want you to take it out now, #Name
+Tell me when you're ready
+[ready,done,finished,its out,it out] I hope it wasn't too hard to get out #EmoteRandom
+@DifferentAnswer Let me know when you're ready
+Have you ever tasted your ass-juices?
+[yes] That's #Disgusting, #Name #Laugh
+[no] Oh good, because that would be #Disgusting #Laugh
+@DifferentAnswer #YesOrNo
+I don't want want that plug to even go near your pretty mouth
+Just put it away
+#StartStroking @StartStroking
+@End
+(start stroking)
+It should probably stay where it is for now
+#StartStroking @StartStroking
+@End
+(pvBallsTied)
+Those #Balls look like we should probably untie them, right? @Timeout(untie them)
+[yes] I thought so #Laugh
+[no] Aww my little pain slut wants to stay tied up #Grin
+@DifferentAnswer #YesOrNo
+(untie them)
+Go ahead and untie them now
+Give them some room to move around
+How else are they going to fill up with all that cum we're making
+We should probably loosen them up a little, too @CBTBalls
+That should do it #Smile
+#StartStroking @StartStroking
+@End

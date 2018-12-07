@@ -1,0 +1,170 @@
+@Flag(pvFootFetishYes) @NullResponse @Chance50(call custom)
+@NullResponse @CheckFlag(pvMod26A)
+@NullResponse @TempFlag(pvMod26A) @Chance50(lesson in frustration)
+#Edge @Edge
+#LetTheEdgeFade
+Making you @RT(squirm,edge,ache,suffer) like this is @RT(a lot of fun,such a blast,what I live for)
+Although... I'd much @RT(rather,prefer) to @RT(edge you with my own hands,edge you myself), #Name @CheckFlag(pvMod26B)
+I'd tie you down first, of course #Grin @SetFlag(pvMod26B)
+Spread-eagle on the bed, hands and feet tied to the bedposts
+A blindfold covering your eyes
+Starting slowly, teasing your #Cock with a feather
+Then rubbing it lightly, building up to that first edge...
+#Edge @EdgeHold
+And it wouldn't end there #Smile
+I would edge you for hours
+Sometimes taking off for a break, but always leaving you tied up and waiting
+Then returning to edge you again... 
+And again... 
+And again...
+Until you couldn't tell the difference
+Between wishing it was over and aching for more
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(lesson in frustration)
+#StopStroking @StopStroking
+I think you need to be taught a lesson, #Name
+What kind of lesson, you may well ask #Smile
+Well #Name, let's call it a lesson in frustration
+Let's begin... grab your #Cock
+Go ahead and give me 20 very slow strokes, #Name
+Up and down counts as one stroke and slow means about one every 2 or 3 seconds
+You can slow down if you want to, but you can't speed up
+Make sure to count them, don't lose track
+Now, when you're done with your 20 slow strokes...
+I want you to do 10 fast ones, as fast as you can
+After the last one, let go of your #Cock @Wait(20)
+Here's what we're going to do, #PetName
+When I say go, you're going to start stroking in this pattern
+So 20 slow, followed by 10 fast, over and over again
+You're going to do this until you edge
+Don't forget to tell me when you get to the edge, #SubName #Smile
+Alright, get ready...
+...and...
+Go! @EdgeMode(Goto,got to the edge)
+@NullResponse @Wait(12)
+This might take a while... or maybe not...
+Depends on how horny you were already, I guess #Smile
+@NullResponse @Wait(10)
+I could show you some pictures in the meantime, of course @ShowBlogImage
+@NullResponse @ShowBlowjobImage
+@NullResponse @ShowGeneralImage
+(loop images)
+@NullResponse @ShowBlogImage
+@NullResponse @ShowLesbianImage
+@NullResponse @ShowHardcoreImage
+@NullResponse @ShowBlogImage
+@NullResponse @ShowBlowjobImage
+@NullResponse @ShowGeneralImage
+@NullResponse @ShowBlogImage
+@NullResponse @ShowLesbianImage
+@NullResponse @ShowHardcoreImage
+@NullResponse @ShowBlogImage @Goto(loop images)
+(got to the edge)
+Hand off...
+#LetTheEdgeFade @CheckFlag(pvWillNotKneel,hands behind)
+@NotFlag(pvKneeling) #KneelForMe @TempFlag(pvKneeling)
+(hands behind)
+Hands behind your back...
+Now we're going to wait until your #Cock is completely soft 
+I told you it was a lesson in frustration... #Grin
+It probably doesn't help when I show you pictures like this one @ShowButtImage
+@Flag(pvLikeButts) I know how much you like asses...
+Or this one... @ShowBoobsImage
+@Flag(pvLikeBoobs) I know you can't help getting hard for boobs...
+So maybe I shouldn't
+It's fun to tease you though... #Grin @ShowLesbianImage
+But seriously, we're not going to continue unless your #Cock is soft
+And I don't mean half mast, I mean completely limp
+@NullResponse @Wait(15)
+So, is it soft yet?
+[yes] Really? That's a surprise... @Goto(got soft)
+[no] That's what I thought, just gonna have to wait some more then
+@DifferentAnswer #YesOrNo
+I can be patient #Smile @Wait(15)
+Would it help to smack it around a bit?
+[yes] Then smack it around a bit #Smile
+[no] No need for any of that then
+@DifferentAnswer #YesOrNo
+Just tell me when it's gone completely soft again, #Name
+[soft,limp] Finally... #EmoteFlustered
+@DifferentAnswer Tell me when your #Cock has gone limp and we can continue
+(got soft)
+Alright, now get it hard again, but you can only touch the head...
+Let me know when it's hard
+[hard,ready] Good boy #Smile
+@DifferentAnswer Let me know when you're ready
+Can you guess what happens now?
+You're going to do the same thing all over again #EmoteHappy
+That means 20 slow strokes followed by 10 fast ones, until you edge
+Get stroking, #PetName! @EdgeMode(Goto,got to the edge again)
+@NullResponse @Wait(10)
+I suppose we can go back to watching some porn again... #Laugh @ShowBlogImage
+(loop images again)
+@NullResponse @ShowBlogImage
+@NullResponse @ShowLesbianImage
+@NullResponse @ShowHardcoreImage
+@NullResponse @ShowBlogImage
+@NullResponse @ShowBlowjobImage
+@NullResponse @ShowGeneralImage
+@NullResponse @ShowBlogImage
+@NullResponse @ShowLesbianImage
+@NullResponse @ShowHardcoreImage
+@NullResponse @ShowBlogImage @Goto(loop images again)
+(got to the edge again)
+Hands off!
+@CockTorture That poor #Cock is getting so frustrated now #Grin @CBTCock
+Once again, let your cock get soft, #Name
+Oh excuse me, <i>my</i> cock
+Let's not forget who owns that toy between your legs
+It's okay if you have to think about other things in order to let it go soft
+I know it's difficult, given that you have so little control over that thing
+In truth, it's the other way around
+It controls you, with me pulling its strings #Smile
+@NullResponse @Wait(10)
+Let me know when my toy is soft again...
+[soft,limp] It's about time... #Smile
+@DifferentAnswer Tell me when your #Cock has gone limp and we can continue
+Make it hard as a rock again, I'll give you a hand...
+@NullResponse @PlayVideo(25) @JumpVideo
+I want you to stroke very slowly now, #Name
+No edging, if you think you're getting close then slow down
+But don't stop stroking!
+Getting frustrated yet? #Grin @Wait(#Random(10,20))
+I want you to slowly start working up to another edge
+Take your time, no need to hurry @Wait(#Random(10,20))
+Speed up a little bit, #Name @Wait(#Random(10,20))
+#Edge @EdgeHold @MultipleEdges(3,5,100)
+#LetTheEdgeFade
+Just let that frustrated #Cock bounce around in your lap now
+@End
+(pvMod26A)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod26B)
+I bet I could make you even more desperate in person @DeleteFlag(pvMod26B)
+If I could see the fear and frustration in your eyes...
+It would be complete torture for you just to be so close to the thing you can't have
+So close to my hot body, being able to smell it
+And feel the heat from my skin as I tease your #Cock
+I don't think I would ever let you cum, #PetName
+I would just tease and deny and tease and deny you over and over
+Imagine being so close to me that you could touch me
+So close my ass would bump into your #Cock by accident and make it twitch
+Is that what you want?
+Or would that so be too much?
+Would the pressure in your #Balls just become unbearable if bend over you
+And my nipples would ever so lightly rub against your chest...
+Would it drive you crazy if I licked you earlobe 
+And tickled your belly with my fingernails?
+If I masturbated right in front of you while you're tight up?
+What if I blindfolded you but you could still hear the sounds of me masturbating
+And smell the scent of my pussy as I made myself so fucking wet
+Would it drive you crazy to hear me cum while I keep you denied?
+I bet it would #Grin
+@End
+(call custom)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagFootFetish.txt)
+@End

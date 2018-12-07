@@ -1,0 +1,12 @@
+@NullResponse @CheckFlag(Working)
+Hey #Name 
+Sorry, but I'm getting ready for work @SetFlag(Working)
+I won't be able to talk until later on tonight
+Be good for me and keep your hands off of #Yourself until then, okay? #EmoteHappy 
+I'll talk to you later #Name @Interrupt(TSDayReset) 
+@End 
+(Working)
+I told you I was working #Name
+Try me again later 
+<i>No touching</i> #Name @Interrupt(TSDayReset) 
+@End 

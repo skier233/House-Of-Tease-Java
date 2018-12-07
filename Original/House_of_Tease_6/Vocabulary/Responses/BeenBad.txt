@@ -1,0 +1,36 @@
+[ve been bad, ve been a bad,ve been disobedient,ve disobeyed, i'm a bad, i am a bad]
+[Before Tease]
+@NotFlag(pvHBB) You can tell me when I'm done talking, #PetName @TempFlag(pvHBB)
+@NotFlag(pvHBB) I want to hear all about that in a minute, #PetName @TempFlag(pvHBB)
+@Flag(pvHBB) We'll get to that in a minute
+[Before Tease End]
+[First Round]
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_HaveBeenBad.txt)
+[First Round End]
+[Stroking]
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_HaveBeenBad.txt)
+[Stroking End]
+[Not Stroking]
+I don't want to hear about it right now, #Name
+[Not Stroking End]
+[Edging]
+Just fucking get to the edge
+You need to edge for me now, #Name
+[Edging End]
+[Holding The Edge]
+Hold that edge you bad #PetName
+Then maybe you should keep on the edge a little longer @AddEdgeHoldTime
+[Holding The Edge End]
+[CBT Cock]
+That's right #PetName and that #Cock is going to pay for it @CBTCock
+[CBT Cock End]
+[CBT Balls]
+And when you're bad you end up with sore #Balls #PetName @CBTBalls
+[CBT Balls End]
+[Chastity]
+@HasChastity Maybe if you're good I'll let you out of that cage
+@DoesNotHaveChastity Maybe if you're good I'll let you #JerkOff again
+[Chastity End]
+[After Tease]
+Be a good #PetName for me until we meet again #SubName
+[After Tease End]

@@ -1,0 +1,131 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link5_NotFirstTime)
+@NullResponse @SetVar[AV_Link5]=[0] 
+@NullResponse @SetFlag(AV_Link5_NotFirstTime)
+(AV_Link5_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link5]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link5]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link5]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link5]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link5]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link5]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link5]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link5]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link5]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link5]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link5]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link5]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link5]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link5]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link5]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link5]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link5]=[AV_Link5]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link5]=[AV_Link5]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link5]=[AV_Link5]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link5]=[AV_Link5]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+#1_ST_Tease @RapidCodeOn
+@NullResponse @SetVar[AV_Link5]=[0]
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Audio.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+#TimeToFindIfYouGetToCum @TempFlag(AV_Dri01)
+Bring yourself to the edge one more time @Edge
+I was just messing with you #lol
+We are not done yet #PetName #Grin @DeleteFlag(AV_Dri01)
+Ooooh Don't look at me like that #EmoteHappy
+If you want to, we can stay with <i>this</i> ending
+I find it quite good #Grin
+At least now you've got another chance later @RapidCodeOn
+@NullResponse @Chance30(ExtTime)
+@BadMood @NullResponse @Chance70(ExtTime)
+@Flag(AV_DommeMistress) @NullResponse  @Chance60(ExtTime)
+For now start #Stroking #PetName @StartStroking
+@End
+(ExtTime)
+In fact, I will add some time to our session today
+@Flag(AV_DommeMistress) @NullResponse @AddTeaseTime(15 Minutes, 20 Minutes) 
+@NotFlag(AV_DommeMistress) @NullResponse @AddTeaseTime(10 Minutes, 15 Minutes) 
+#StartStroking @StartStroking
+@End
+(Link2)
+I don't want to be your girlfriend. I want to be your owner.
+I want you to do things for me that you would never otherwise do.
+@RandomText(Kinky, perverted, humiliating) things. 
+I want to strip you of your @RandomText(pride, ego, masculinity)
+And transform you into my sexy, slutty, obedient boytoy 
+#StartStroking @StartStroking
+@End
+(Link3)
+You probably think I'm here for your enjoyment. 
+I'm not. It's not that I mind if you enjoy yourself
+I just don't want you to enjoy yourself too much. 
+You see, when you receive pleasure in smaller increments
+instead of the giant orgasm blasts you're used to
+it will feel better and better the longer you go
+and I'll be more and more in control of you. 
+#StartStroking @StartStroking
+@End
+(Link4)
+@NullResponse @Chance60(NoPeg)
+@NullResponse @CheckFlag(av_fetish_pegging)
+(NoPeg)
+More time will pass and your desperation will grow. 
+By now I will have tied you to the bed a time or two. 
+I would have even taken those opportunities to bring you to the edge of orgasm a few times...
+@RandomText(You will be so desperate that you will finally ask me when, You will want to know so badly when)
+When will I permit you the orgasm you crave so deeply? 
+@AllowsOrgasm(Never) Well, we know this will never happens #EmoteLaugh
+#StartStroking @StartStroking
+@End
+(av_fetish_pegging)
+At some point I'll add pegging to my routine. 
+It is important that you understand that as my slave you must submit COMPLETELY to me. 
+On some nights that may mean simply kissing and sucking my strap-on. 
+And, of course, some nights I'm going to want to bend you over and fuck that beautiful ass of yours. 
+Over time I will add thicker and longer strap-ons to the mix. 
+You will become more and more nervous with every session, but more and more aroused as well. 
+#StartStroking @StartStroking
+@End

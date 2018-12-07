@@ -1,0 +1,264 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral6_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral6]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral6_NotFirstTime)
+(AV_ModGeneral6_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral6]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral6]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral6]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral6]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral6]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral6]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral6]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral6]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral6]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral6]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral6]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral6]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral6]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral6]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral6]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral6]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral6]=[AV_ModGeneral6]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral6]=[AV_ModGeneral6]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral6]=[AV_ModGeneral6]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral6]=[AV_ModGeneral6]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral6]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+#SubName
+Now you will stroke, but are not allowed to edge
+#StartStroking
+Follow the beat @PlayAudio[tease\b075.mp3] 
+of course no edging for you!
+and massage your balls with your other hand.
+Really rub them and have a tight grip on your head.
+Hands off your cock. Swat your balls instead! @PlayAudio[tease\cStop.mp3] 
+Let your dick ache and swat away *grins*
+Feel the pain, #PetName!!
+Start stroking again. @PlayAudio[tease\cStroke.mp3] 
+Don't edge yet, honey.
+Hold it in your little balls.
+Can you hold out any longer?
+[yes] Someone believes in himself @Goto(Sim)
+[no] To bad, dear @Goto(Nao)
+@DifferentAnswer #YesorNo #SubName?
+(Sim)
+Let's put that to the test. @PlayAudio[tease\b120.mp3] 
+Prove it!
+Can you keep up? #AudioStroke
+Or is the edge coming uncontrollaby?
+Last time stroking! #AudioStroke
+Oh, sorry... one more time #Lol #AudioStroke @Goto(Chega)
+(Nao)
+Then this will be your last stroking time. #AV_AudioBeat
+Hold out! 
+(Chega)
+Calm down, get rested. @PlayAudio[tease\cStop.mp3] 
+Can you imagine doing this for half an hour?
+maybe even longer?
+I give you a fair warning. 
+You would not have any choice.
+#StartStroking
+Does it make it harder to stay away from the edge, if I talk about an Edge? @Timeout(7, AV_Jump53)
+[yes] #Good 
+[no] Oh doesn't it bother you at all
+@AcceptAnswer Yes or no #SubName?
+(AV_Jump53)
+when you could edge anytime soon
+and I do not allow it, but naming it all the time?
+The edge...
+How does it feel by the way? 
+Good, bad?
+Does an edge make you suffer and realize
+that you're currently living in denial?
+Tormented by me, who has you completely controlled.
+You can stop now. @PlayAudio[tease\cStop.mp3] 
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact1  @AddContact1
+@Contact1 HI #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@NullResponse @RemoveDomme
+It's all you do, in fact it is all you know. 
+To stroke your #Cock
+So, start #Stroking @PlayAudio[tease\cStroke.mp3] 
+You stroke to anything now
+it has overtaken every single part of your life 
+and has become a huge obsession and dirty habit you have. 
+With each and every stroke you know you are weakening yourself over and over. 
+You can't help yourself but lose deep within submission.
+#Edge @Edge
+It's so easy to toy with you
+I can make you do whatever I want. 
+Totally emotionally unstable when it comes to me
+you are nothing but a pawn to a Girl like me. 
+@Flag(av_fetish_rough) You were born a slave, and that is the only thing you will excel at in life.
+My happiness is your happiness and you will go to any length to ensure that my wants are met each and every day. 
+@Flag(av_fetish_rough) I am your Alpha and you are extremely lucky to have the chance to serve me. 
+#StartStroking
+I enjoy seeing just how desperate I make you
+I love seeing you melt 
+and I will continue to tease you into a horny oblivion to get exactly what I want 
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+You are horny all the time. 
+You are dying to empty your balls. 
+But before you touch your dick, you have to get on your knees and beg me. 
+From now on every time you want to wank 
+you have to think about me, kneel down and beg for my permission to stroke. 
+Lets try it now....
+#KneelForMe
+@Flag(av_fetish_rough) spread your legs apart like a good bitch and beg me. 
+@NotFlag(AV_DommeMistress, av_fetish_rough) spread your legs apart and beg me. 
+Shout my name! 
+@Flag(av_fetish_rough) I want to hear you, loser! Hahaha....
+its like a music to my ears. 
+No, you can't #Stroke.
+#SitDown
+@Contact1 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact1
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact2  @AddContact2
+@Contact2 HI #EmoteLaugh 
+#AV_Break3
+@Contact2 #AV_Break4
+@NullResponse @RemoveDomme
+I like to keep my slaves in chastity long term
+I find it keeps them more focused and productive.
+But you have been so obedient to Mistress #DomName, I feel that you deserve a little treat. 
+@Flag(AV_LikeAnal) Go get some lube @Wait(20)
+I want you to start out slow stroking your cock @PlayAudio[tease\cStroke.mp3] 
+all the way up and down the shaft as you stimulate your balls. 
+I hope you realized how lucky you are that I am allowing you to touch your cock
+you certainly aren't going to be getting any other rewards from me. 
+@Flag(AV_LikeAnal) Now as you stroke your cock with one hand take your other hand and start stimulating your prostrate by fingering your ass. 
+@Flag(AV_LikeAnal) Oh don't be shy about it, you know it will make your orgasm much better. 
+But don't get too excited just yet
+You don't want to be one of those pathetic guys who cums instantly. 
+I want you to stroke faster and get close to orgasm but don't cum 
+I am going to keep you on the edge then make you stop touching yourself. 
+I know you want to do what I say so you will play my little game... 
+#Edge @Edge
+@Flag(AV_LikeAnal) You can stop fucking you ass
+@Flag(AV_LikeAnal) I am going to train you so well that you will beg to suck dick every night. 
+@Flag(AV_LikeAnal) I can't wait to see the look on your face while we train with a big strapon.
+Drop down to your knees 
+@Flag(AV_LikeAnal) and open that pathetic mouth of yours! 
+@Flag(AV_LikeAnal) Let me stick it in as far as I can while you gag. 
+#Lol you don't like that do you? 
+I'll be standing right over you laughing! 
+Do you know why you are kneeling on the floor beneath me? 
+@Flag(av_fetish_rough) Because you are a worthless slave. 
+@Flag(av_fetish_rough) You are not my equal. 
+You should always be below me. 
+At my boot heels. Like a lap dog. 
+#StartStroking
+Eager for any spec of attention I allow you. 
+Hungry for any scraps I throw to the floor.
+This is your life from now on. 
+@Flag(av_fetish_rough) It is your destiny to be enslaved to a beautiful, powerful Goddess, such as myself. 
+Know your place. Accept it. 
+Relish it. Love it. 
+#Edge @Edge
+Thank me
+@Contact2 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact2
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact3  @AddContact3
+@Contact3 HI #EmoteLaugh 
+#AV_Break3
+@Contact3 #AV_Break4
+@NullResponse @RemoveDomme
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+Men always say they'll do anything, but I don't think most of them know the definition of the word "anything". 
+This isn't some play time session where you get to ask for what you want. 
+You're going to have to take what I give you. 
+I only like slaves who can take a lot of pain. 
+@RT(If you can't then you're worthless to me, I'm not into people wasting my time). 
+So are you really serious about this?   @Timeout(5, AV_Timeo400)
+[yes] #Good 
+[no] You don't? @Goto(skipe3456)
+@AcceptAnswer #YesorNo
+(AV_Timeo400)
+Then  kneel on the floor and spread your legs a little. @Wait(15)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(skipe3456)
+I am going to see how you take being kicked in the balls.
+I choose when I am done with you. 
+Now this is going to hurt 
+Get the spoon ready...
+@RT(Hit, Spank) your #Balls @PlayAudio[tease\G3Spank\*.mp3] @Wait(22)
+@RT(Hit, Spank) your #Balls @PlayAudio[tease\G3Spank\*.mp3] @Wait(22)
+(skipe3456)
+#Edge @EdgeNoHold
+You have to prove you have what it takes to be a slave. 
+If you want to prove yourself to me you have to give up all control 
+and let me use your body how I see fit. 
+@Flag(av_fetish_pain) @RT(Hit, Spank) your #Balls @PlayAudio[tease\G3Spank\*.mp3] @Wait(22)
+@RT(Hit, Spank) your #Balls @PlayAudio[tease\G3Spank\*.mp3] @Wait(22)
+#Edge @EdgeNoHold
+This isn't something you should take lightly. 
+I'm going to use, abuse and exploit you. 
+I don't play with men, I destroy men. 
+@Contact3 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact3
+@End

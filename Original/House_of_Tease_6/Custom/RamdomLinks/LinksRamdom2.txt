@@ -1,0 +1,204 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link2_NotFirstTime)
+@NullResponse @SetVar[AV_Link2]=[0] 
+@NullResponse @SetFlag(AV_Link2_NotFirstTime)
+(AV_Link2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link2]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link2]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link2]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link2]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link2]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link2]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link2]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link2]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link2]=[AV_Link2]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link2]=[AV_Link2]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link2]=[AV_Link2]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link2]=[AV_Link2]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link2]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Can you feel that unbearable pressure starting to consume your balls yet?  @ResponseYes(AV_YesNeutral) @ResponseNo(AV_NoNeutral) 
+I know you can feel it trying to strangle your #Cock.
+It's a natural response, your body just wants some relief.
+Of course, I don't believe in giving relief when training a #Slave like you, 
+@Flag(AV_DommeMistress) and I don't just mean the relief of orgasm. @CBT
+@NotFlag(AV_DommeMistress) and I don't just mean the relief of orgasm. 
+I mean the absence of torture. 
+If I give your cock any kind of break at all, 
+it will be very short-lived 
+and only because I want the delay to cause your next strokes to be even more excruciating.
+Are you recovered yet?
+[no] You don't? 
+[yes] #Good 
+@DifferentAnswer Yes or no #SubName?
+#StartStroking @StartStroking
+@End
+(Link2)
+@NullResponse @CheckFlag(AV_NewCrushDONE)
+You know #SubName...
+with all that tease and denial
+I bet you have really horny days
+every hot woman you see, give you a erection
+So, I decided use this against you too #Smile
+So, what we will do is
+When you find a girl who make you horny
+I want you to take at least 10 pictures of her
+And put is a specific folder
+Then, I can use her too make you even more horny #Smile
+I will create 10 folders now. @RapidTextOn
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\10\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\11\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\12\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\13\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\14\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\15\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\16\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\17\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\18\  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage New folder found: TeaseAI\Images\av_imagens\19\  @ShowImage[av_imagens\System.jpg] 
+Done @RapidTextOff
+Now, when you find a new crush, just let me know
+And I take care of the rest. @SetFlag(AV_NewCrushDONE)
+Just remember to use the folders in the numerical order.
+#StartStroking @StartStroking
+@End
+(AV_NewCrushDONE)
+You're boring me.
+I think I know what the problem is. 
+You're not really *suffering* yet. 
+That's what we need, right? @CheckFlag(AV_Know_19)
+Like... which is the worst "Ruined Orgasm?" @SetFlag(AV_Know_19)
+A- Letting go right as you cum, causing a dribble 
+B- Positioning yourself upside down so that you give yourself a facial
+C- Holding a thumb over the hole as you cum, causing a painful pipe backup
+[A] #EmoteLaugh @SetFlag(AV_Persona18a)
+[B] #EmoteLaugh @SetFlag(AV_Persona18b)
+[C] #EmoteLaugh @SetFlag(AV_Persona18c)
+@DifferentAnswer A, B or C #PetName?
+#StartStroking @StartStroking
+@End
+(AV_Know_19)
+Making you suffer?
+Then I say let's make you suffer. 
+@Flag(AV_DommeMistress) @CBT
+#Edge @Edge
+#LetTheEdgeFade
+I actually see why this is the perfect punishment for a guy like you.
+You deceive women just so you can cum, then you forget all about them.
+Well I'm going to be the one to punish your cock by making *it* forget all about cumming
+So I think the best thing for us to do is make sure it really, *really* wants to. 
+#StartStroking @StartStroking
+@End
+(Link3)
+#SubName
+I wonder how many edges you've done for me since I started teasing you 
+I don't suppose you've been keeping track? #EmoteRandom
+I did, #SessionEdges Edges
+I bet your #Cock still remembers each and every one of them at least! 
+I keep trying to imagine how frustrating that's got to be @FollowUp50(edging over and over)
+stopping right on the brink of an amazing orgasm that would take all that painful ache away form you. @CheckFlag(AV_Know_13)
+The thing is, when edging during tease and denial  @SetFlag(AV_Know_13)
+what is the best way to edge? Full strokes, Soft strokes, tight grip, etc. @InputVar[AV_Persona12]
+so, #Edge with #Var[AV_Persona12] @Edge
+#LetTheEdgeFade
+aaannd no rest for you
+#StartStroking @StartStroking
+@End
+(AV_Know_13)
+The thing is, the more I think about that...the more I start to wonder 
+what would make you suffer more? 
+1 - Having to stop stroking when you hit the edge
+2- having to KEEP stroking when you're not allowed to hit the edge at all?
+[1] hmm @Goto(bad)
+[2] hmm...
+@DifferentAnswer 1 for edging or 2 for stroking #SubName?
+#StartStroking @StartStroking
+@End
+(bad)
+#Edge @Edge
+#LetTheEdgeFade
+#StartStroking @StartStroking
+@End
+(Link4)
+You're so #Submissive. 
+Doing everything I tell you to when I tell you. 
+@RandomText(That's good, You enjoy it)
+Enjoy knowing how good your #Obedience makes me feel.
+I tell you to stop and you stop. 
+#Edge @Edge
+#LetTheEdgeFade
+You want to keep going I know, but you want to please me more.
+To please me you need to do exactly what I say.
+Whatever you do, don't CUM. 
+You'll get your chance later. @Goto(01,02)
+(01)
+#Edge @Edge
+#LetTheEdgeFade @Goto(Cont)
+(02)
+@CustomTask(AV_StrokeNumber)
+(Cont)
+Keep that CUM inside your #Balls for now. @CheckFlag(AV_Know_17)
+Tell me, What words of praise do you most enjoy hearing?  @InputVar[AV_Persona09]
+#EmoteLaugh @SetFlag(AV_Know_17)
+#StartStroking @StartStroking
+@End
+(AV_Know_17)
+You don't want to dissapoint me do you?  @ResponseYes(AV_YesBad) @ResponseNo(AV_NoGood) 
+Be a #Var[AV_Persona09] . Keep the CUM inside.
+You don't need to CUM anyways. 
+@RandomText(This is better than cumming, This is way more fun for both of us)
+#StartStroking @StartStroking
+@End

@@ -1,0 +1,21 @@
+#1_ST_TagState @TempFlag(AV_taskOP1)
+@NullResponse @GotoDommeLevel 
+(DommeLevel1)
+For your task, I want you to stroke yourself 50 times and then edge as quickly as you can.  @TempFlag(AV_task1_50)
+Simple enough, right? @Goto(TaskReady)
+(DommeLevel2)
+For your task, I want you to stroke yourself 80 times and then edge as quickly as you can.  @TempFlag(AV_task1_80)
+Simple enough, right? @Goto(TaskReady)
+(DommeLevel3)
+For your task, I want you to stroke yourself 100 times and then edge as quickly as you can.  @TempFlag(AV_task1_100)
+Simple enough, right? @Goto(TaskReady)
+(DommeLevel4)
+For your task, I want you to stroke yourself 200 times and then edge as quickly as you can.  @TempFlag(AV_task1_200)
+Simple enough, right? @Goto(TaskReady)
+(DommeLevel5)
+For your task, I want you to stroke yourself 300 times and then edge as quickly as you can.  @TempFlag(AV_task1_300)
+Simple enough, right? @Goto(TaskReady)
+(TaskReady)
+Now take that #Cock out of your pants
+And #StartStroking for me @StartStroking
+@End

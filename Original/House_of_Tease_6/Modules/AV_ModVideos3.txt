@@ -1,0 +1,143 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+I've got some more useful things to do now than taking care of you. @SetVar[AV_GlitterControl]=[0] 
+Meanwhile, I'll make sure you don't fall into lust without supervision. @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModVideos3_NotFirstTime)
+@NullResponse @SetVar[AV_ModVideos3]=[0] 
+@NullResponse @SetFlag(AV_ModVideos3_NotFirstTime)
+(AV_ModVideos3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModVideos3]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModVideos3]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModVideos3]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModVideos3]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModVideos3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModVideos3]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModVideos3]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModVideos3]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModVideos3]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModVideos3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModVideos3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModVideos3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModVideos3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModVideos3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModVideos3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModVideos3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModVideos3]=[AV_ModVideos3]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModVideos3]=[AV_ModVideos3]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModVideos3]=[AV_ModVideos3]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModVideos3]=[AV_ModVideos3]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModVideos3]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@RandomText(#Contact1 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact1
+@NullResponse @AddTeaseTime(20 Minutes)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact1 @RandomText(Sure, No problem, my pleasure)
+@NullResponse @RemoveDomme 
+@NullResponse @SetLink(AV_SpecGlitter1Link1)
+@Contact1 So #SubName, just us now
+@End
+(Modulo2)
+@RandomText(#Contact2 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact2
+@NullResponse @AddTeaseTime(20 Minutes)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact2 @RandomText(Sure, No problem, my pleasure)
+@NullResponse @RemoveDomme 
+@NullResponse @SetLink(AV_SpecGlitter2Link1)
+@Contact2 So #SubName, just us now
+@End
+(Modulo3)
+@RandomText(#Contact3 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact3
+@NullResponse @AddTeaseTime(20 Minutes)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact3 @RandomText(Sure, No problem, my pleasure)
+@NullResponse @RemoveDomme 
+@NullResponse @SetLink(AV_SpecGlitter3Link1)
+@Contact3 So #SubName, just us now
+@End
+(Modulo4)
+@NullResponse @RapidCodeOn
+@NullResponse @AddTeaseTime(20 Minutes)
+@NullResponse @Goto(GL01, GL02, GL03)
+(GL01)
+@RandomText(#Contact1 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact1
+@NullResponse @Wait(05)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact1 @RandomText(Sure, No problem, my pleasure)
+@NullResponse @RemoveDomme 
+@NullResponse @SetLink(AV_SpecGlitterLinkSimple)
+@Contact1 So #SubName, just us now @ChangeVar[AV_GlitterControl]=[AV_GlitterControl]+[1]
+@End
+(GL02)
+@RandomText(#Contact2 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact2
+@NullResponse @Wait(05)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact2 @RandomText(Sure, No problem, my pleasure)
+@NullResponse @RemoveDomme 
+@NullResponse @SetLink(AV_SpecGlitterLinkSimple)
+@Contact2 So #SubName, just us now @ChangeVar[AV_GlitterControl]=[AV_GlitterControl]+[2]
+@End
+(GL03)
+@RandomText(#Contact3 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact3
+@NullResponse @Wait(05)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact3 @RandomText(Sure, No problem, my pleasure)
+@NullResponse @RemoveDomme 
+@NullResponse @SetLink(AV_SpecGlitterLinkSimple)
+@Contact3 So #SubName, just us now @ChangeVar[AV_GlitterControl]=[AV_GlitterControl]+[3]
+@End

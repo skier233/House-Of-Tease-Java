@@ -1,0 +1,13 @@
+[will you hurt me,will it hurt,will this hurt,is it going to hurt,is this going to hurt,is it gonna hurt, is this gonna hurt,are you going to hurt me]
+[All]
+Well, #PetName - but we both know you <i>what</i> it to hurt, so...
+No pain no gain, isn't that what they say? #Grin
+I would never hurt you, #SubName @FollowUp(I don't need to since I can just tell you to hurt yourself)
+I'm sure whatever I make you do will hurt me more than it will hurt you... @FollowUp(Nah it will always hurt you more)
+My goal is <i>always</i> to tease you until it hurts #Grin
+[All End]
+[Stroking]
+@BallTorture Of course I will, and now that we're on subject... @CallReturn(Custom/CallReturn/pvCr_CBTBallsStroking.txt)
+Yes... I'm going to make you #JerkOff until it hurts
+Do you <i>want</i> me to hurt you? @ResponseYes(WantYouToHurtMe) @ResponseNo(DontHurtMe)
+[Stroking End]

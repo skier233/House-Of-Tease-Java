@@ -1,0 +1,153 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@NullResponse @Goto(Posit01, Posit02, Posit03)
+(Posit01)
+#KneelForMe
+@NullResponse @Goto(Posit03)
+(Posit02)
+@RT(Stand, Get) up
+@NullResponse @Goto(Posit03)
+(Posit03)
+@NullResponse @Goto(Punish01, Punish02, Punish03, Punish04)
+(Punish01)
+@NotFlag(AV_DommeMistress) Now smack yourself on the cock. @PlayAudio[tease\spank\*.mp3] @Wait(12)
+@Flag(AV_DommeMistress) Now smack yourself on the cock. @PlayAudio[tease\spank\Spank15.mp3] @Wait(12)
+Harder!  @PlayAudio[tease\spank\*.mp3] @Wait(10)
+And think about the #Slave you are and what you'll do for me. 
+Do it again @PlayAudio[tease\spank\*.mp3] @Wait(10)
+@NotFlag(AV_DommeMistress) and again @PlayAudio[tease\spank\*.mp3] @Wait(12)
+@Flag(AV_DommeMistress) and again @PlayAudio[tease\spank\Spank15.mp3] @Wait(12)
+because you deserve it and you know it. 
+Next I want you to stand in the corner and squeeze your balls. @Wait(10)
+Now make your balls hurt! 
+@Flag(AV_DommeMistress) You deserve punishment for being such a loser.
+@NotFlag(AV_DommeMistress) You deserve punishment for faill.
+@NotFlag(AV_DommeMistress) Now I'm going to have you spank your ass
+@Flag(AV_DommeMistress) Now I'm going to have you spank your ass until it's red. 
+Get your spoon and bend over in your chair @Wait(10)
+Follow the sound
+@NotFlag(AV_DommeMistress) Now smack yourself on the ass. @PlayAudio[tease\spank\*.mp3] @Wait(12)
+@Flag(AV_DommeMistress) Now smack yourself on the ass. @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+@Flag(AV_DommeMistress) Again. @PlayAudio[tease\spank\Spank15.mp3] @Wait(12)
+Punishing you over and over again. 
+I despise you. 
+I am going to destroy your manhood physically and verbally! 
+You can sit now
+@End
+(Punish02)
+#Contact3 will take care of your punishment @AddContact3
+@Contact3 It is time to do as you are told !
+@Contact3 I will make use of any part of you I please 
+@Contact3 I will show you Who is in control. 
+@Contact3 The only thing your balls are good for, is disciplining you
+@Contact3 Spank your #Balls at the same rhythm of the sound
+@Contact3 NOW!! @PlayAudio[tease\spank\*.mp3] @Wait(12)
+@Contact3 Again  @PlayAudio[tease\spank\*.mp3] @Wait(12)
+@Contact3 the only thing that worthless cock is good for is owning and controlling you....
+@Contact3 and I will ....own and control you. 
+@Contact3 Spank your cock @PlayAudio[tease\spank\*.mp3] @Wait(12)
+@Contact3 Start putting that clothespins on your balls  @Wait(10)
+@Contact3 Keep going @Wait(10)
+@Contact3 Just stop when you dont have more space @Wait(10)
+@Contact3 put your hands behind your @RT(back, head)
+@Contact3 I will let #DomName decide when you can stop
+@NullResponse @RemoveContact3
+You now #SubName...
+The only reason I will allow you any pleasure at all 
+is to force your weak will deeper and deeper into submission. 
+Maybe I'll let you cum... 
+Maybe I won't. 
+I make the rules here. @Wait(10)
+You can remove the clothespins now...  @Wait(10)
+@End
+(Punish03)
+@NotFlag(AV_LikeAnal) I plan on putting that cock and balls through quite a work out. 
+@Flag(AV_LikeAnal) I plan on putting that cock and ass through quite a work out. 
+I can do that. After all, it is my plaything
+@NotFlag(AV_LikeAnal) @NullResponse @Goto(NoAnal5)
+Got get a lotion @Wait(20)
+it's time to change positions. 
+Get on your knees, doggy style. 
+Yes, just like that.. 
+Just in the center, spread your legs wide apart so I can see that asshole of mine well. 
+Reach between your legs, and touch that asshole  rub it gently for me. 
+Take your finger in slowly, keep them inside you
+Stretch that asshole for me. 
+You're my good little slut. 
+Slowly at first, yes, slowly. 
+Continue fingering yourself for me  
+There are some stuff that you may not know about that position yet #PetName
+but you'll find that your muscles are much less tense. 
+Put your face on the chair, and use it to hold the position
+while you rub your cock with your other hand. @PlayAudio[tease\cStroke.mp3] 
+Relax #PetName, relax... 
+I want to hear you moan. 
+Moans are always welcomed.
+Yes... Yes... 
+Stop touching your cock. @PlayAudio[tease\cStop.mp3] 
+@NotFlag(AV_DommeMistress) @NullResponse @Goto(EnoughAnal)
+Oh god that felt so good. your legs are weak
+I can see you shaking
+Just relax... Relax for me  
+hands off  relax... 
+That doggy style was a bit brutal wasn't it? #Lol
+Rub that asshole gently for me #PetName
+No  don't touch your cock  
+You're gonna have to be my dirty little slut. #Lol
+Continue, don't stop playing with that hole for me #PetName... 
+I mean - slut #EmoteMoan. 
+keep rubbing that asshole. 
+I love to see you like that #EmoteMoan.
+Yes.. Insert that finger back in babe. 
+You know what... 
+#Stop
+(EnoughAnal)
+Go clean yourself @Wait(30)
+You can sit now
+@End
+(NoAnal5)
+Now I want you to put two pegs on each nipple
+Place the last 6 on your balls..
+#Ready
+[yes] #Good
+@DifferentAnswer A simple yes is all I need...
+Now I want you to rip them off one by one #Lol @Wait(25)
+Done?
+[yes]#Good
+@AcceptAnswer #Good
+@NotFlag(AV_DommeMistress) @NullResponse @Goto(NoMore7)
+Now place them back on
+2 on each nipple, 6 on the balls @Wait(25)
+#Ready
+[yes]#Good
+@DifferentAnswer A simple yes is all I need...
+Now I want you to rip them off one by one #Lol @Wait(25)
+Done?
+[yes]#Good
+@DifferentAnswer A simple yes is all I need...
+(NoMore7)
+That should teach you! #EmoteHappy
+@End
+(Punish04)
+I want #Random(2, 4) clothespins on yor balls
+And 2 on your nipples @Wait(20)
+put your hands behind your @RT(back, head)
+@Flag(av_fetish_rough) and watch me tease and humiliation you 
+@NotFlag(av_fetish_rough) and watch me tease you 
+Just to make your predicament worse, 
+I will have all the pleasure I like. 
+My orgasms are more important than yours. 
+You'll go without nothing while I enjoy my vibrator. 
+I know your cock will be aching 
+as you witness the throes of my geniune and beautiful orgasm.
+True tease and denial. 
+I get it all while you get nothing
+Are you still hard?
+[yes] #Good
+[no] In that case, start slaping your flacid cock @PlayAudio[tease\spank\Spank15.mp3] @Wait(12)
+@DifferentAnswer #YesorNo #SubName?
+You can sit and remove the clothespins now...  @Wait(10)
+@End

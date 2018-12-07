@@ -1,0 +1,13 @@
+#Clothing_Fabric pants
+#Clothing_Fabric #Clothing_BottomStyle #Clothing_BottomFabric skirt
+#Clothing_Fabric #Clothing_BottomStyle miniskirt
+#Clothing_Fabric skirt
+#Clothing_Fabric miniskirt
+#Clothing_BottomStyle skirt
+#Clothing_BottomStyle miniskirt
+skirt
+miniskirt
+shorts
+booty shorts
+leggings
+yoga pants

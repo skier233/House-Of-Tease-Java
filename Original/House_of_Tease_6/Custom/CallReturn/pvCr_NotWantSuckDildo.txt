@@ -1,0 +1,12 @@
+If you want it in your ass, you have to take it in your mouth first @MoodDown
+Are you going to to as I say?
+[yes] Good #Smile
+[no] Hm... @Goto(not going to)
+@DifferentAnswer #YesOrNo
+Then stop whining and follow instructions
+@End
+(not going to)
+That's very disappointing #EmoteSad @MoodWorst
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+@Info from resp NotWantSuckDildo

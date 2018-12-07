@@ -1,0 +1,102 @@
+@NullResponse @CheckFlag(pvLegManYes)
+@NullResponse @CheckFlag(pvLegManNo)
+#StopStroking @StopStroking
+Hey, #Name
+Are you a leg man?
+[yes] Yeah I thought so #Laugh @SetFlag(pvLegManYes) @Goto(thought so)
+[no,not] Oh come on, really? Legs are so so sexy #Laugh @SetFlag(pvLegManNo)
+[don't understand,do you mean,not understand,explain,what's that,what is] Do you think legs are sexy? @LoopAnswer
+@DifferentAnswer #YesOrNo
+I love smooth long legs #Smile @ShowTaggedImage @TagBodyLegs
+And I would have thought that you would too
+I mean, you're submissive
+So your rightful place is at a woman's feet @CheckFlag(pvFootFetishYes)
+Worshipping her legs would seem to be the natural thing for you @CheckFlag(pvFootFetishNo)
+Do you at least have a foot fetish?
+[yes] Oh, now I get it @SetFlag(pvFootFetishYes)
+[no] Well, that makes sense then... @SetFlag(pvFootFetishNo) @Goto(this is a dead end)
+@DifferentAnswer Do you think feet are sexy, yes or no?
+You are <i>so</i> submissive...
+You want to worship as closely to the floor as possible
+Your place is not so much <i>at</i> her feet @ShowTaggedImage @TagBodyFeet @LockImages
+As <i>under</i> them
+#Edge @EdgeHold
+#LetTheEdgeFade @UnlockImages
+@End
+(this is a dead end)
+This is a bit of a dead end then, isn't it #Laugh
+@End
+(pvFootFetishYes)
+Come to think of it...
+I think it's weird that you're into feet, but not legs
+But then again, who isn't a little weird #Smile
+@End
+(pvFootFetishNo)
+Then again, you don't think feet are sexy either, so...
+It's no surprise, really #Smile
+@End
+(thought so)
+But then again, what part of a woman isn't sexy, right?
+I have to agree about legs though
+I love smooth long legs #Smile @ShowTaggedImage @TagBodyLegs
+#EmoteMoan @ShowTaggedImage @TagBodyLegs
+Imagine worshipping those legs @ShowTaggedImage @TagBodyLegs @LockImages
+All the way from her ankles up to her thighs
+#StopStroking @StopStroking
+Just admire those legs for a minute @Wait(15)
+It's good to know you like legs as much as I do #Smile @UnlockImages
+@End
+(pvLegManYes)
+#StopStroking @StopStroking @CheckFlag(pvMod25B)
+Worship my legs, #PetName @DommeTag(Legs) @LockImages
+If you were here, I'd have you on your knees @SetFlag(pvMod25B)
+Kissing my ankles and my calves
+My legs have such power over you, don't they?
+Your hands caressing my thighs
+My knee smashing into you #Balls #Grin
+My legs control you
+#Edge @Edge
+#LetTheEdgeFade @UnlockImages
+@End
+(pvMod25B)
+@Flag(pvFootFetishYes) @NullResponse @Chance50(call custom)
+Look at those legs... #EmoteMoan @ShowTaggedImage @TagLegs @DeleteFlag(pvMod25B)
+Legs are so sexy... @ShowTaggedImage @TagLegs
+@NotFlag(pvKneeling,pvWillNotKneel) #KneelForMe @TempFlag(pvKneeling)
+Down on your knees is the right position to look at legs @ShowTaggedImage @TagLegs 
+#StartStroking @ShowTaggedImage @TagLegs
+@NullResponse @ShowTaggedImage @TagLegs
+@NullResponse @ShowTaggedImage @TagLegs 
+#StrokeFaster @ShowTaggedImage @TagLegs 
+@NullResponse @ShowTaggedImage @TagLegs 
+@NullResponse @ShowTaggedImage @TagLegs 
+#StrokeFastest @ShowTaggedImage @TagLegs 
+#Edge @Edge @ShowTaggedImage @TagLegs @LockImages
+#LetTheEdgeFade @UnlockImages
+@End
+(pvLegManNo)
+#Edge @EdgeHold
+#LetTheEdgeFade @CheckFlag(pvMod25A)
+Do you think there's a limit to what you'll endure for me? @SetFlag(pvMod25A)
+[yes] I'm sure we'll find out what that limit is at some point
+[no] Good, neither do I @Goto(neither do i)
+@DifferentAnswer #YesOrNo
+And then cross it #Grin
+@End
+(neither do i)
+I'm glad I don't have to worry about crossing your limits #Smile
+@End
+(pvMod25A)
+@Flag(pvFootFetishYes) @NullResponse @Chance50(call custom)
+To please any woman you need to be able to last a long time, #PetName @DeleteFlag(pvMod25A)
+And I'm not even talking about sex
+Because you and I are never going to have Sexy
+And I still need you to last a long time for me
+I need you to be able to stroke without edging
+Unless I say so, of course #Smile
+@BallTorture And I need you you hurt your #Balls as much as I want
+You should always try to be the best you can, #PetName
+@End
+(call custom)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagFootFetish.txt)
+@End

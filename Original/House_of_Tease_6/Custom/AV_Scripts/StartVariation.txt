@@ -1,0 +1,93 @@
+#AV_StartStrokes40 @Goto(01, 02, 05, 06)
+#AV_StartStrokes60 @Goto(03, 04, 07) 
+(01)
+I hope you're really horny
+Well I hope for your own sake that you are
+Because I'm going to drive you crazy #GeneralTime #Grin
+I'm going to tease you so bad today, #PetName
+It's going to feel amazing and yet...
+Somehow it's inevitably going to hurt too #Grin
+That's just the way I like it, #Name 
+#Stop @Goto(End)
+(02)
+You just can't help yourself, can you? @Timeout(7,help it)
+[yes,can] Haha, that's very funny, #Name
+@AcceptAnswer #Grin
+(help it)
+You just <i>have</i> to come back to me @Chance50(just have to come back)
+To #JerkOff
+Because that's all you're good for, right? #Smile
+#Stop @Goto(End)
+(just have to come back)
+I can probably make you do anything I want, right?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+You're that addicted to me
+You don't even have any control over it
+That's how bad you want me to tell you to #JerkOff
+#Stop @Goto(End)
+(03)
+You know...
+I sometimes wonder if you ever think about this arrangement of ours
+I'm sure it must be clear to you by now
+That I <i>own</i> you
+And not just your #Cock, #Name
+I own your orgasms
+Your arousal
+I own your mind
+I control you like a puppet on a string #Grin
+It's amazing how easy that is, #Name
+I snap my fingers
+And your #Cock is hard and erect
+#Stop @Goto(End)
+(04)
+You're becoming a bit of an addict, aren't you?
+There's no denying it
+In fact, you've always been this way, even if you didn't always know it
+You need this feeling of helplessness
+And I'll tell you why, #SubName
+Your purpose is to serve a dominant woman
+So when you come crawling back to me like a horny addict...
+That's when you fulfil your true purpose in life
+It's when you reach your full potential #Smile
+#Stop @Goto(End)
+(05)
+I think I know what you really want, #PetName
+You want to give up control
+You want me to take you by the hand
+No, by the <i>balls</i>
+And lead you wherever I want to lead you
+Do with you whatever pleases me
+Oh, I know exactly what you need, #SubName #Grin
+#Stop @Goto(End)
+(06)
+You know that's probably not a good thing for you, right? #Grin
+It means I've been thinking about making you suffer for me
+I know you like that though, that you want to suffer
+But there's always a chance that I'll find your limit
+Maybe today's the day I finally truly break you
+Let's find out, #PetName
+#Stop @Goto(End)
+(07)
+I don't know if you realize just how much I love doing this
+Controlling you, making you squirm
+Knowing that you're walking around all day thinking about me
+Feeling the dull ache your #Balls as you go about your daily life
+That dull ache that constantly reminds you how much I own you
+You have know idea how much that turns me on, #PetName
+I'm getting wet just thinking about it right now #Giggles
+@OrgasmRestricted @NullResponse @Goto(already restricted)
+@OrgasmAllowed(Never) @NullResponse @Goto(already restricted)
+I especially love to keep you denied and frustrated 
+So maybe I won't let you cum #GeneralTime #Grin
+You'll just have to wait and see
+#Stop @Goto(End)
+(already restricted)
+Especially knowing that you don't get to cum for me #GeneralTime
+@OrgasmAllowed(Never) Just like every day
+So that tomorrow you'll be walking around with blue balls all day
+@OrgasmAllowed(Never) Just like every tomorrow #Smile
+#EmoteMoan
+Nothing turns me on more than that
+#Stop @Goto(End)
+(End)
+@NullResponse
+@End

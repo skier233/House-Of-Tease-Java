@@ -1,0 +1,835 @@
+@Stroking #StopStroking @StopStroking
+@RT(Let me explain you what's #Gonna happen, That's what you're #Gonna do, Here's what you're #Gonna do, Let #Me explain what I planned for you #GeneralTime, Here's what you're #Gonna do for #Me, Let #Me tell you what I have in mind for you, Let #Me tell you what I have in mind for you #GeneralTime) @RT(#PetName,#SubName)
+#GeneralTime you're #Gonna @RT(repay #Me, pay #Me back, pay #Me, pay #Me off) with:
+edges, a lot of edges... @RT(#Grin,#GrinEvil)
+(Settings Edge for us)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[edges_owed]=[#Random(20, 40)]
+@NullResponse @RapidCodeOff
+@RT(That's what we're #Gonna do #GeneralTime, Here's what we're #Gonna do #Now, That's what I planned for you for #GeneralTime)
+@RT(I invited my friends #Contact1,, #Contact2 and #Contact3 to help me #GeneralTime, I asked #Contact1,, #Contact2 and #Contact3 to help #Me with you punishment #GeneralTime, I asked my best friends to help me out with your punishment)
+They all gladly accepted... #GrinEvil
+They should join us any moment...
+@RT(Now,, let me explain what you're #Gonna do for us #GeneralTime, I'll explain you what you're #Gonna do for us while we wait for #Contact1,, #Contact2 and #Contact3, That's what you're #Gonna do for us #GeneralTime) @RT(#SubName, #PetName)
+@RT(You will edge for us, We will make you edge, You will #Stroke to the #EdgeNoun for everyone of us, You will #Stroke for us until you reach the #EdgeNoun)
+@RT(Every 5 edges you will face a special test, Once you reach the fifth,, tenth,, fifteenth... #EdgeNoun you will face a special test, You have to complete a special test every 5 edges)
+@RT(You need to pass these tests to be able to continue with your punishment, You must pass all these tests to be able to continue, If you fail to pass one of these tests you won't be able to continue repay your debt)
+@RT(And if you fail to pass these tests 3 times... well let's just don't talk about it now, And if you fail to pass these tests 3 times you will face the consequences..., Be advised: if you fail to pass these tests 3 times,, well,, let's just say you will regret the time we met...)
+@RT(In order to pass the test you must #Stroke without #Edging, #Stroke without #Edging: that's what you need to do to pass those tests, If you #Stroke without #Edging for the entire test,, then you can continue repaying your debt,, otherwise you need to start over)
+@NullResponse @RapidCodeOn
+@NullResponse @AddContact1
+@NullResponse @AddContact2
+@NullResponse @AddContact3
+@NullResponse @RapidCodeOff
+@RT(Here're they are!, Hi sweeties!, Hi!, Hi girls!)
+@Contact1 @RT(Hi #DomName!, Hello #ShortName!, Hi! How are you #DomName?)
+@Contact2 @RT(Hi #DomName!, Hello #ShortName!, Hi! How are you #DomName?)
+@Contact3 @RT(Hi #DomName!, Hello #ShortName!, Hi! How are you #DomName?)
+@Contact2 @RT(Hi #SubName! How are you?, Nice to see you #SubName!, Hello #SubName!)
+@Contact3 @RT(Please #Contact2,, we're here to use this #PetName like the toyboy he is,, not to make conversation with him, #Contact2,, please,, we're not here to have tea and biscuits with this #PetName here,, we're here to use his #Cock like the <i>toy</i> it is..., #Contact2 we have a job to do and this job is to collect the edges #PetName owes to #ShortName,, understand?)
+@Contact2(Ok,, ok..., Yes #Contact3, Ok #Contact3,, I just don't understand why you have to be so rude with #SubName)
+@Contact3 @RT(How is it going #PetName?, Are you ready for #Me,, worthless toy?, Are you ready for #Me,, worthless #PetName?, I will tease and edge the hell out of you #PetName!)
+@Contact1 @RT(Hi, Hello) @RT(#SubName, #PetName)!
+@RT(#SubName knows everything he needs to know, I already explained him all he needs to know, I already prepared #SubName for what he is about to face)
+@RT(The only thing he doesn't know yet is how many edges he owe us, The only thing left to tell him is the number of times he has to go to the #Edgenoun, Last thing he needs to know is how many #EdgeNoun he owe us)
+@Contact1 @RT(We should keep this number secret, Shouldn't we keep this number... <i>inter nos</i>?, Maybe we should keep this number between ourself...)
+@Contact1 @RT(Could be very funny!, Think how funny would be!, Don't you think it would be funny #ShortName?)
+@Contact2 @RT(I like #Edging #SubName,, but we shouldn't be so #Mean with him, I like #SubName but I think we shouldn't #Torture him this way)
+@Contact3 @RT(This is how he should be treated #Contact2, This is how things are supposed to be #Contact2,, he's a #PetName and a #PetName does not deserve to be treated any better than this, #Strokers like #SubName don't deserve better treatment)
+@Contact3 What do say about it @RT(#DomName, #ShortName)? @Chance50(I decide) 
+@NullResponse @Goto(Mistress decides)
+(I decide)
+@Contact3 @RT(Let's make it more interesting! #SubName,, you will be #Edging a lot #GeneralTime but we won't tell you how much. How does it sounds to you?, Get ready to edge a lot for us #PetName!, Could be #Random(20,30),, #Random(45,55) a hundred maybe. No matter how many edges it could be,, you will #Stroke and reach the #EdgeNoun until we tell you to stop. Just because we can... #GrinEvil)
+@Contact1 It's #Gonna be very funny #EmoteHappy @Goto(Continue Edge for us)
+(Mistress decides)
+Let me think a minute girls... @Wait(5)
+Ok, I decided @Goto(tell, don't tell)
+(tell)
+@RT(I'm sorry #Contact3,, but I think #SubName will be more desperate knowing how many times he will have to get to the #EdgeNoun, #Contact3... I think he'll cry knowing how many edges he owe us, #Contact3,, don't you think it's better,, <i>for us</i> I mean,, to see the desperation in his eyes while he tries to maintain control over his #Cock?)
+@RT(One point for you #DomName, Ok,, your plan is better than mine, Ok #ShortName)
+@RT(#GeneralTime you're #Gonna to #ReachTheEdge for #Var[edges_owed] times, <i>We</i> want you to edge for us #Var[edges_owed] times, You will #ReachTheEdge for #Var[edges_owed] times, #Var[edges_owed] edges: this is how many times you will #ReachTheEdge for <i><b>our</b> pleasure</i>) @Goto(Continue Edge for us)
+(don't tell)
+@RT(Actually,, you're right #Contact3. #SubName... I won't tell you how many times you will have to #ReachTheEdge for us, Ok,, your plan is better than mine #Contact3, Ok #Contact3) @Goto(Continue Edge for us)
+(Continue Edge for us)
+Get ready @RT(#PetName, #SubName)!
+Your long journey is about to begin! @SetVar[special_test_edge]=[5]
+(Command center)
+@NullResponse @RapidCodeOn
+@NullResponse @RTOff
+@NullResponse @CheckFlag(tgr8 special edge test failed)
+@NullResponse @CheckFlag(tgr8 special test)
+@NullResponse @DeleteFlag(tgr8 Edged by Domme, tgr8 Edged by Contact1, tgr8 Edged by Contact2, tgr8 Edged by Contact3)
+@NullResponse @If[edges_done]=[edges_owed]Then(End Edge for us)
+@NullResponse @ChangeVar[edges_done]=[edges_done]+[1]
+@NullResponse @If[edges_done]=[special_test_edge]Then(Special test)
+@NullResponse @Goto(Edged by Domme, Edged by Contact1, Edged by Contact2, Edged by Contact3)
+@NullResponse @RapidCodeOff
+(Special test)
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(tgr8 special test)
+@NullResponse @ChangeVar[special_test_edge]=[special_test_edge]+[5]
+@NullResponse @Goto(Edged by Domme, Edged by Contact1, Edged by Contact2, Edged by Contact3)
+@NullResponse @RapidCodeOff
+(Edged by Domme)
+@RT(It's my turn now!,It's my turn to edge #SubName now!,My turn!,Get ready to edge for #Me!,Get ready to edge for #Me,, #SubName!,Get ready to reach the #EdgeNoun for #Me,, #SubName!)
+@NullResponse @TempFlag(tgr8 Edged by Domme)
+#Edge @Edge(NoHold) @Goto(BnB Slideshow, Boob Cooldown, Butt Cooldown, Could Let You Rest, Even When These Edges Are Done, I Could Let You Rest, I Love Playing Games, It's Kinda Funny, Know What'd Be Funny, Pause For Edge Count, Probably In A Hurry, Stare At This Picture, Wait For It, Wait For It JK, Who Has A Nicer Ass, Who owns that cock)
+(Edged by Contact1)
+@Contact1 @RT(It's my turn now!,It's my turn to edge #SubName now!,My turn!,Get ready to edge for #Me!,Get ready to edge for #Me,, #SubName!,Get ready to reach the #EdgeNoun for #Me,, #SubName!)
+@NullResponse @TempFlag(tgr8 Edged by Contact1)
+@Contact1 #Edge @Edge(NoHold) @Goto(BnB Slideshow, Boob Cooldown, Butt Cooldown, Could Let You Rest, Even When These Edges Are Done, I Could Let You Rest, I Love Playing Games, It's Kinda Funny, Know What'd Be Funny, Pause For Edge Count, Probably In A Hurry, Stare At This Picture, Wait For It, Wait For It JK, Who Has A Nicer Ass)
+(Edged by Contact2)
+@Contact2 @RT(It's my turn now!,It's my turn to edge #SubName now!,My turn!,Get ready to edge for #Me!,Get ready to edge for #Me,, #SubName!,Get ready to reach the #EdgeNoun for #Me,, #SubName!)
+@NullResponse @TempFlag(tgr8 Edged by Contact2)
+@Contact2 #Edge @Edge(NoHold) @Goto(BnB Slideshow, Boob Cooldown, Butt Cooldown, Could Let You Rest, Even When These Edges Are Done, I Could Let You Rest, I Love Playing Games, It's Kinda Funny, Know What'd Be Funny, Pause For Edge Count, Probably In A Hurry, Stare At This Picture, Wait For It, Wait For It JK, Who Has A Nicer Ass)
+(Edged by Contact3)
+@Contact3 @RT(It's my turn now!,It's my turn to edge #SubName now!,My turn!,Get ready to edge for #Me!,Get ready to edge for #Me,, #SubName!,Get ready to reach the #EdgeNoun for #Me,, #SubName!)
+@NullResponse @TempFlag(tgr8 Edged by Contact3)
+@Contact3 #Edge @Edge(NoHold) @Goto(BnB Slideshow, Boob Cooldown, Butt Cooldown, Could Let You Rest, Even When These Edges Are Done, I Could Let You Rest, I Love Playing Games, It's Kinda Funny, Know What'd Be Funny, Pause For Edge Count, Probably In A Hurry, Stare At This Picture, Wait For It, Wait For It JK, Who Has A Nicer Ass)
+(BnB Slideshow)
+@Flag(tgr8 Edged by Domme) #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact1) @Contact1 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact2) @Contact2 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact3) @Contact3 #LetTheEdgeFade
+@Flag(tgr8 Edged by Domme) As long as you're cooling down
+@Flag(tgr8 Edged by Contact1) @Contact1 As long as you're cooling down
+@Flag(tgr8 Edged by Contact2) @Contact2 As long as you're cooling down
+@Flag(tgr8 Edged by Contact3) @Contact3 As long as you're cooling down
+@Flag(tgr8 Edged by Domme) I've got a slideshow to keep you occupied... @Chance50(Boob Show)
+@Flag(tgr8 Edged by Contact1) @Contact1 I've got a slideshow to keep you occupied... @Chance50(Boob Show)
+@Flag(tgr8 Edged by Contact2) @Contact2 I've got a slideshow to keep you occupied... @Chance50(Boob Show)
+@Flag(tgr8 Edged by Contact3) @Contatc3 I've got a slideshow to keep you occupied... @Chance50(Boob Show)
+@Flag(tgr8 Edged by Domme) The sexiest asses I found online @RT(today, #GeneralTime) #Grin @Slideshow(butt) @SlideshowOn @Goto(Slides Loaded)
+@Flag(tgr8 Edged by Contact1) @Contact1 The sexiest asses I found online @RT(today, #GeneralTime) #Grin @Slideshow(butt) @SlideshowOn @Goto(Slides Loaded)
+@Flag(tgr8 Edged by Contact2) @Contact2 The sexiest asses I found online @RT(today, #GeneralTime) #Grin @Slideshow(butt) @SlideshowOn @Goto(Slides Loaded)
+@Flag(tgr8 Edged by Contact3) @Contact3 The sexiest asses I found online @RT(today, #GeneralTime) #Grin @Slideshow(butt) @SlideshowOn @Goto(Slides Loaded)
+(Boob Show)
+@Flag(tgr8 Edged by Domme) The best breasts on the internet #Lol @Slideshow(boob) @SlideshowOn
+@Flag(tgr8 Edged by Contact1) @Contact1 The best breasts on the internet #Lol @Slideshow(boob) @SlideshowOn
+@Flag(tgr8 Edged by Contact2) @Contact2 The best breasts on the internet #Lol @Slideshow(boob) @SlideshowOn
+@Flag(tgr8 Edged by Contact3) @Contact3 The best breasts on the internet #Lol @Slideshow(boob) @SlideshowOn
+(Slides Loaded)
+@Flag(tgr8 Edged by Domme) Go ahead and stare while you cool down
+@Flag(tgr8 Edged by Contact1) @Contact1 Go ahead and stare while you cool down
+@Flag(tgr8 Edged by Contact2) @Contact2 Go ahead and stare while you cool down
+@Flag(tgr8 Edged by Contact3) @Contact3 Go ahead and stare while you cool down
+@Flag(tgr8 Edged by Domme) It's okay if gets a little uncomfortable
+@Flag(tgr8 Edged by Contact1) @Contact1 It's okay if gets a little uncomfortable
+@Flag(tgr8 Edged by Contact2) @Contact2 It's okay if gets a little uncomfortable
+@Flag(tgr8 Edged by Contact3) @Contact3 It's okay if gets a little uncomfortable
+@Flag(tgr8 Edged by Domme) And you start to squirm
+@Flag(tgr8 Edged by Contact1) @Contact1 And you start to squirm
+@Flag(tgr8 Edged by Contact2) @Contact2 And you start to squirm
+@Flag(tgr8 Edged by Contact3) @Contact3 And you start to squirm
+@Flag(tgr8 Edged by Domme) After all
+@Flag(tgr8 Edged by Contact1) @Contact1 After all
+@Flag(tgr8 Edged by Contact2) @Contact2 After all
+@Flag(tgr8 Edged by Contact3) @Contact3 After all
+@Flag(tgr8 Edged by Domme) This is to keep you from getting bored
+@Flag(tgr8 Edged by Contact1) @Contact1 This is to keep you from getting bored
+@Flag(tgr8 Edged by Contact2) @Contact2 This is to keep you from getting bored
+@Flag(tgr8 Edged by Contact3) @Contact3 This is to keep you from getting bored
+@Flag(tgr8 Edged by Domme) Not keep you from #Aching #Grin
+@Flag(tgr8 Edged by Contact1) @Contact1 Not keep you from #Aching #Grin
+@Flag(tgr8 Edged by Contact2) @Contact2 Not keep you from #Aching #Grin
+@Flag(tgr8 Edged by Contact3) @Contact3 Not keep you from #Aching #Grin
+@Flag(tgr8 Edged by Domme) In fact
+@Flag(tgr8 Edged by Contact1) @Contact1 In fact
+@Flag(tgr8 Edged by Contact2) @Contact2 In fact
+@Flag(tgr8 Edged by Contact3) @Contact3 In fact
+@Flag(tgr8 Edged by Domme) You should enjoy it while it lasts
+@Flag(tgr8 Edged by Contact1) @Contact1 You should enjoy it while it lasts
+@Flag(tgr8 Edged by Contact2) @Contact2 You should enjoy it while it lasts
+@Flag(tgr8 Edged by Contact3) @Contact3 You should enjoy it while it lasts
+@Flag(tgr8 Edged by Domme) Because once it's over
+@Flag(tgr8 Edged by Contact1) @Contact1 Because once it's over
+@Flag(tgr8 Edged by Contact2) @Contact2 Because once it's over
+@Flag(tgr8 Edged by Contact3) @Contact3 Because once it's over
+@Flag(tgr8 Edged by Domme) You're going right back to the #EdgeNoun #EmoteHappy @Wait( #Random(10,30))
+@Flag(tgr8 Edged by Contact1) @Contact1 You're going right back to the #EdgeNoun #EmoteHappy @Wait( #Random(10,30))
+@Flag(tgr8 Edged by Contact2) @Contact2 You're going right back to the #EdgeNoun #EmoteHappy @Wait( #Random(10,30))
+@Flag(tgr8 Edged by Contact3) @Contact3 You're going right back to the #EdgeNoun #EmoteHappy @Wait( #Random(10,30))
+@Flag(tgr8 Edged by Domme) Okay, that's enough @SlideshowOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Okay, that's enough @SlideshowOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Okay, that's enough @SlideshowOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Okay, that's enough @SlideshowOff @Goto(Command center)
+(Boob Cooldown)
+@Flag(tgr8 Edged by Domme) #LetTheEdgeFade @CheckFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Contact1) @Contact1 #LetTheEdgeFade @CheckFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Contact2) @Contact2 #LetTheEdgeFade @CheckFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Contact3) @Contact3 #LetTheEdgeFade @CheckFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Domme) I think you could use some recovery time @Chance50(RP Boob 2) @TempFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Contact1) @Contact1 I think you could use some recovery time @Chance50(RP Boob 2) @TempFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Contact2) @Contact2 I think you could use some recovery time @Chance50(RP Boob 2) @TempFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Contact3) @Contact3 I think you could use some recovery time @Chance50(RP Boob 2) @TempFlag(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Domme) But I wouldn't want you to get bored, so...
+@Flag(tgr8 Edged by Contact1) @Contact1 But I wouldn't want you to get bored, so...
+@Flag(tgr8 Edged by Contact2) @Contact2 But I wouldn't want you to get bored, so...
+@Flag(tgr8 Edged by Contact3) @Contact3 But I wouldn't want you to get bored, so...
+@Flag(tgr8 Edged by Domme) Here's some #Boobs for you to look at while you wait #Grin @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Contact1) @Contact1 Here's some #Boobs for you to look at while you wait #Grin @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Contact2) @Contact2 Here's some #Boobs for you to look at while you wait #Grin @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Contact3) @Contact3 Here's some #Boobs for you to look at while you wait #Grin @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Domme) I know guys like a nice, full pair of #Boobs
+@Flag(tgr8 Edged by Contact1) @Contact1 I know guys like a nice, full pair of #Boobs
+@Flag(tgr8 Edged by Contact2) @Contact2 I know guys like a nice, full pair of #Boobs
+@Flag(tgr8 Edged by Contact3) @Contact3 I know guys like a nice, full pair of #Boobs
+@Flag(tgr8 Edged by Domme) Just like I like a nice, full pair of #Balls #Lol
+@Flag(tgr8 Edged by Contact1) @Contact1 Just like I like a nice, full pair of #Balls #Lol
+@Flag(tgr8 Edged by Contact2) @Contact2 Just like I like a nice, full pair of #Balls #Lol
+@Flag(tgr8 Edged by Contact3) @Contact3 Just like I like a nice, full pair of #Balls #Lol
+@Flag(tgr8 Edged by Domme) And yours aren't #Gonna get any fuller staring at that #Picture, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 And yours aren't #Gonna get any fuller staring at that #Picture, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 And yours aren't #Gonna get any fuller staring at that #Picture, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 And yours aren't #Gonna get any fuller staring at that #Picture, so... @UnlockImages @Goto(Command center)
+(RP Boob 2)
+@Flag(tgr8 Edged by Domme) But I don't want you to get <i>too</i> comfortable, so here's some #Boobs #Lol @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Contact1) @Contact1 But I don't want you to get <i>too</i> comfortable, so here's some #Boobs #Lol @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Contact2) @Contact2 But I don't want you to get <i>too</i> comfortable, so here's some #Boobs #Lol @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Contact3) @Contact3 But I don't want you to get <i>too</i> comfortable, so here's some #Boobs #Lol @ShowBoobsImage @LockImages
+@Flag(tgr8 Edged by Domme) Yeah, making #Boobs appear is kinda like my super power
+@Flag(tgr8 Edged by Contact1) @Contact1 Yeah, making #Boobs appear is kinda like my super power
+@Flag(tgr8 Edged by Contact2) @Contact2 Yeah, making #Boobs appear is kinda like my super power
+@Flag(tgr8 Edged by Contact3) @Contact3 Yeah, making #Boobs appear is kinda like my super power
+@Flag(tgr8 Edged by Domme) Just like it's <i>your</i> kryptonite #Grin
+@Flag(tgr8 Edged by Contact1) @Contact1 Just like it's <i>your</i> kryptonite #Grin
+@Flag(tgr8 Edged by Contact2) @Contact2 Just like it's <i>your</i> kryptonite #Grin
+@Flag(tgr8 Edged by Contact3) @Contact3 Just like it's <i>your</i> kryptonite #Grin
+@Flag(tgr8 Edged by Domme) Making you suffer and writhe
+@Flag(tgr8 Edged by Contact1) @Contact1 Making you suffer and writhe
+@Flag(tgr8 Edged by Contact2) @Contact2 Making you suffer and writhe
+@Flag(tgr8 Edged by Contact3) @Contact3 Making you suffer and writhe
+@Flag(tgr8 Edged by Domme) Making you weaker for #Me
+@Flag(tgr8 Edged by Contact1) @Contact1 Making you weaker for #Me
+@Flag(tgr8 Edged by Contact2) @Contact2 Making you weaker for #Me
+@Flag(tgr8 Edged by Contact3) @Contact3 Making you weaker for #Me
+@Flag(tgr8 Edged by Domme) And making it all the more vicious
+@Flag(tgr8 Edged by Contact1) @Contact1 And making it all the more vicious
+@Flag(tgr8 Edged by Contact2) @Contact2 And making it all the more vicious
+@Flag(tgr8 Edged by Contact3) @Contact3 And making it all the more vicious
+@Flag(tgr8 Edged by Domme) When I tell you to edge again @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 When I tell you to edge again @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 When I tell you to edge again @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 When I tell you to edge again @UnlockImages @Goto(Command center)
+(Butt Cooldown)
+@Flag(tgr8 Edged by Domme) #LetTheEdgeFade @CheckFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Contact1) @Contact1 #LetTheEdgeFade @CheckFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Contact2) @Contact2 #LetTheEdgeFade @CheckFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Contact3) @Contact3 #LetTheEdgeFade @CheckFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Domme) I think I'll let you relax for a minute @Chance50(RP Butt 2) @TempFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Contact1) @Contact1 I think I'll let you relax for a minute @Chance50(RP Butt 2) @TempFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Contact2) @Contact2 I think I'll let you relax for a minute @Chance50(RP Butt 2) @TempFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Contact3) @Contact3 I think I'll let you relax for a minute @Chance50(RP Butt 2) @TempFlag(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Domme) While you stare at this sexy #Ass and try not to squirm #Grin @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Contact1) @Contact1 While you stare at this sexy #Ass and try not to squirm #Grin @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Contact2) @Contact2 While you stare at this sexy #Ass and try not to squirm #Grin @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Contact3) @Contact3 While you stare at this sexy #Ass and try not to squirm #Grin @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Domme) I bet you're looking at it and thinking:
+@Flag(tgr8 Edged by Contact1) @Contact1 I bet you're looking at it and thinking:
+@Flag(tgr8 Edged by Contact2) @Contact2 I bet you're looking at it and thinking:
+@Flag(tgr8 Edged by Contact3) @Contact3 I bet you're looking at it and thinking:
+@Flag(tgr8 Edged by Domme) "Fuck, do I or don't I want to #Stroke to that?"
+@Flag(tgr8 Edged by Contact1) @Contact1 "Fuck, do I or don't I want to #Stroke to that?"
+@Flag(tgr8 Edged by Contact2) @Contact2 "Fuck, do I or don't I want to #Stroke to that?"
+@Flag(tgr8 Edged by Contact3) @Contact3 "Fuck, do I or don't I want to #Stroke to that?"
+@Flag(tgr8 Edged by Domme) Don't worry #PetName
+@Flag(tgr8 Edged by Contact1) @Contact1 Don't worry #PetName
+@Flag(tgr8 Edged by Contact2) @Contact2 Don't worry #PetName
+@Flag(tgr8 Edged by Contact3) @Contact3 Don't worry #PetName
+@Flag(tgr8 Edged by Domme) You won't have to debate that for very much longer #Lol @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 You won't have to debate that for very much longer #Lol @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 You won't have to debate that for very much longer #Lol @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 You won't have to debate that for very much longer #Lol @UnlockImages @Goto(Command center)
+(RP Butt 2)
+@Flag(tgr8 Edged by Domme) Assuming you even <i>can</i> relax while staring at an #Ass this #Hot #Lol @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Contact1) @Contact1 Assuming you even <i>can</i> relax while staring at an #Ass this #Hot #Lol @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Contact2) @Contact2 Assuming you even <i>can</i> relax while staring at an #Ass this #Hot #Lol @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Contact3) @Contact3 Assuming you even <i>can</i> relax while staring at an #Ass this #Hot #Lol @ShowButtImage @LockImages
+@Flag(tgr8 Edged by Domme) Try not to squirm too much though
+@Flag(tgr8 Edged by Contact1) @Contact1 Try not to squirm too much though
+@Flag(tgr8 Edged by Contact2) @Contact2 Try not to squirm too much though
+@Flag(tgr8 Edged by Contact3) @Contact3 Try not to squirm too much though
+@Flag(tgr8 Edged by Domme) You don't have much of a break until the next #EdgeNoun
+@Flag(tgr8 Edged by Contact1) @Contact1 You don't have much of a break until the next #EdgeNoun
+@Flag(tgr8 Edged by Contact2) @Contact2 You don't have much of a break until the next #EdgeNoun
+@Flag(tgr8 Edged by Contact3) @Contact3 You don't have much of a break until the next #EdgeNoun
+@Flag(tgr8 Edged by Domme) And that #Cock needs to recover if it's #Gonna to finish the remaining edges #Grin
+@Flag(tgr8 Edged by Contact1) @Contact1 And that #Cock needs to recover if it's #Gonna to finish the remaining edges #Grin
+@Flag(tgr8 Edged by Contact2) @Contact2 And that #Cock needs to recover if it's #Gonna to finish the remaining edges #Grin
+@Flag(tgr8 Edged by Contact3) @Contact3 And that #Cock needs to recover if it's #Gonna to finish the remaining edges #Grin
+@Flag(tgr8 Edged by Domme) Then again
+@Flag(tgr8 Edged by Contact1) @Contact1 Then again
+@Flag(tgr8 Edged by Contact2) @Contact2 Then again
+@Flag(tgr8 Edged by Contact3) @Contact3 Then again
+@Flag(tgr8 Edged by Domme) Maybe I don't <i>want</i> you to recover
+@Flag(tgr8 Edged by Contact1) @Contact1 Maybe I don't <i>want</i> you to recover
+@Flag(tgr8 Edged by Contact2) @Contact2 Maybe I don't <i>want</i> you to recover
+@Flag(tgr8 Edged by Contact3) @Contact3 Maybe I don't <i>want</i> you to recover
+@Flag(tgr8 Edged by Domme) Maybe I just want you to suffer, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Maybe I just want you to suffer, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Maybe I just want you to suffer, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Maybe I just want you to suffer, so... @UnlockImages @Goto(Command center)
+(Could Let You Rest)
+@Flag(tgr8 Edged by Domme) I could let you rest for a minute @Chance50(You Could Probably Use It)
+@Flag(tgr8 Edged by Contact1) @Contact1 I could let you rest for a minute @Chance50(You Could Probably Use It)
+@Flag(tgr8 Edged by Contact2) @Contact2 I could let you rest for a minute @Chance50(You Could Probably Use It)
+@Flag(tgr8 Edged by Contact3) @Contact3 I could let you rest for a minute @Chance50(You Could Probably Use It)
+@Flag(tgr8 Edged by Domme) But I won't #Grin @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 But I won't #Grin @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 But I won't #Grin @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 But I won't #Grin @RapidTextOn @Goto(Command center)
+(You Could Probably Use It)
+@Flag(tgr8 Edged by Domme) You could probably use it
+@Flag(tgr8 Edged by Contact1) @Contact1 You could probably use it
+@Flag(tgr8 Edged by Contact2) @Contact2 You could probably use it
+@Flag(tgr8 Edged by Contact3) @Contact3 You could probably use it
+@Flag(tgr8 Edged by Domme) But the more you rest, the more that desperation's #Gonna fade, so... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 But the more you rest, the more that desperation's #Gonna fade, so... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 But the more you rest, the more that desperation's #Gonna fade, so... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 But the more you rest, the more that desperation's #Gonna fade, so... @RapidTextOn @Goto(Command center)
+(Even When These Edges Are Done)
+@Flag(tgr8 Edged by Domme) #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact1) @Contact1 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact2) @Contact2 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact3) @Contact3 #LetTheEdgeFade
+@Flag(tgr8 Edged by Domme) Even when these edges are done
+@Flag(tgr8 Edged by Contact1) @Contact1 Even when these edges are done
+@Flag(tgr8 Edged by Contact2) @Contact2 Even when these edges are done
+@Flag(tgr8 Edged by Contact3) @Contact3 Even when these edges are done
+@Flag(tgr8 Edged by Domme) Your #Cock still won't be free of #Me @Chance50(Stay In Debt)
+@Flag(tgr8 Edged by Contact1) @Contact1 Your #Cock still won't be free of #Me @Chance50(Stay In Debt)
+@Flag(tgr8 Edged by Contact2) @Contact2 Your #Cock still won't be free of #Me @Chance50(Stay In Debt)
+@Flag(tgr8 Edged by Contact3) @Contact3 Your #Cock still won't be free of #Me @Chance50(Stay In Debt)
+@Flag(tgr8 Edged by Domme) I might let you have a little break
+@Flag(tgr8 Edged by Contact1) @Contact1 I might let you have a little break
+@Flag(tgr8 Edged by Contact2) @Contact2 I might let you have a little break
+@Flag(tgr8 Edged by Contact3) @Contact3 I might let you have a little break
+@Flag(tgr8 Edged by Domme) Or I might just make you keep on #Edging for #Me @RapidTextOn
+@Flag(tgr8 Edged by Contact1) @Contact1 Or I might just make you keep on #Edging for #Me @RapidTextOn
+@Flag(tgr8 Edged by Contact2) @Contact2 Or I might just make you keep on #Edging for #Me @RapidTextOn
+@Flag(tgr8 Edged by Contact3) @Contact3 Or I might just make you keep on #Edging for #Me @RapidTextOn
+@Flag(tgr8 Edged by Domme) Just because I can #Grin @RapidTextOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Just because I can #Grin @RapidTextOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Just because I can #Grin @RapidTextOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Just because I can #Grin @RapidTextOff @Goto(Command center)
+(Stay In Debt)
+@Flag(tgr8 Edged by Domme) You can pay off all the edges you want
+@Flag(tgr8 Edged by Contact1) @Contact1 You can pay off all the edges you want
+@Flag(tgr8 Edged by Contact2) @Contact2 You can pay off all the edges you want
+@Flag(tgr8 Edged by Contact3) @Contact3 You can pay off all the edges you want
+@Flag(tgr8 Edged by Domme) But at the end of the day when the #Stroking is done
+@Flag(tgr8 Edged by Contact1) @Contact1 But at the end of the day when the #Stroking is done
+@Flag(tgr8 Edged by Contact2) @Contact2 But at the end of the day when the #Stroking is done
+@Flag(tgr8 Edged by Contact3) @Contact3 But at the end of the day when the #Stroking is done
+@Flag(tgr8 Edged by Domme) And you're throbbing, #Aching with desperation
+@Flag(tgr8 Edged by Contact1) @Contact1 And you're throbbing, #Aching with desperation
+@Flag(tgr8 Edged by Contact2) @Contact2 And you're throbbing, #Aching with desperation
+@Flag(tgr8 Edged by Contact3) @Contact3 And you're throbbing, #Aching with desperation
+@Flag(tgr8 Edged by Domme) That #Cock still belongs to #Me #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 That #Cock still belongs to #Me #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 That #Cock still belongs to #Me #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 That #Cock still belongs to #Me #Grin @Goto(Command center)
+(I Could Let You Rest)
+@Flag(tgr8 Edged by Domme) I could let you rest for a bit @Chance50(You Gotta Be Aching)
+@Flag(tgr8 Edged by Contact1) @Contact1 I could let you rest for a bit @Chance50(You Gotta Be Aching)
+@Flag(tgr8 Edged by Contact2) @Contact2 I could let you rest for a bit @Chance50(You Gotta Be Aching)
+@Flag(tgr8 Edged by Contact3) @Contact3 I could let you rest for a bit @Chance50(You Gotta Be Aching)
+@Flag(tgr8 Edged by Domme) But I just don't fucking want to #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 But I just don't fucking want to #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 But I just don't fucking want to #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 But I just don't fucking want to #Grin @Goto(Command center)
+(You Gotta Be Aching)
+@Flag(tgr8 Edged by Domme) I mean, you <i>gotta</i> be #Aching #Now
+@Flag(tgr8 Edged by Contact1) @Contact1 I mean, you <i>gotta</i> be #Aching #Now
+@Flag(tgr8 Edged by Contact2) @Contact2 I mean, you <i>gotta</i> be #Aching #Now
+@Flag(tgr8 Edged by Contact3) @Contact3 I mean, you <i>gotta</i> be #Aching #Now
+@Flag(tgr8 Edged by Domme) But, oh, yeah @RTOn
+@Flag(tgr8 Edged by Contact1) @Contact1 But, oh, yeah @RTOn
+@Flag(tgr8 Edged by Contact2) @Contact2 But, oh, yeah @RTOn
+@Flag(tgr8 Edged by Contact3) @Contact3 But, oh, yeah @RTOn
+@Flag(tgr8 Edged by Domme) That's @RT(kinda, kind) the point #Lol @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 That's @RT(kinda, kind) the point #Lol @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 That's @RT(kinda, kind) the point #Lol @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 That's @RT(kinda, kind) the point #Lol @Goto(Command center)
+(I Love Playing Games)
+@Flag(tgr8 Edged by Domme) #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact1) @Contact1 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact2) @Contact2 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact3) @Contact3 #LetTheEdgeFade
+@Flag(tgr8 Edged by Domme) I love playing games like this @Chance50(Board Game Talk)
+@Flag(tgr8 Edged by Contact1) @Contact1 I love playing games like this @Chance50(Board Game Talk)
+@Flag(tgr8 Edged by Contact2) @Contact2 I love playing games like this @Chance50(Board Game Talk)
+@Flag(tgr8 Edged by Contact3) @Contact3 I love playing games like this @Chance50(Board Game Talk)
+@Flag(tgr8 Edged by Domme) The choices...
+@Flag(tgr8 Edged by Contact1) @Contact1 The choices...
+@Flag(tgr8 Edged by Contact2) @Contact2 The choices...
+@Flag(tgr8 Edged by Contact3) @Contact3 The choices...
+@Flag(tgr8 Edged by Domme) The consequences
+@Flag(tgr8 Edged by Contact1) @Contact1 The consequences
+@Flag(tgr8 Edged by Contact2) @Contact2 The consequences
+@Flag(tgr8 Edged by Contact3) @Contact3 The consequences
+@Flag(tgr8 Edged by Domme) It's nothing I can't make you do already
+@Flag(tgr8 Edged by Contact1) @Contact1 It's nothing I can't make you do already
+@Flag(tgr8 Edged by Contact2) @Contact2 It's nothing I can't make you do already
+@Flag(tgr8 Edged by Contact3) @Contact3 It's nothing I can't make you do already
+@Flag(tgr8 Edged by Domme) But I love knowing each of these edges, well
+@Flag(tgr8 Edged by Contact1) @Contact1 But I love knowing each of these edges, well
+@Flag(tgr8 Edged by Contact2) @Contact2 But I love knowing each of these edges, well
+@Flag(tgr8 Edged by Contact3) @Contact3 But I love knowing each of these edges, well
+@Flag(tgr8 Edged by Domme) You brought them on yourself #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 You brought them on yourself #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 You brought them on yourself #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 You brought them on yourself #Grin @Goto(Command center)
+(Board Game Talk)
+@Flag(tgr8 Edged by Domme) If we ever played board games together
+@Flag(tgr8 Edged by Contact1) @Contact1 If we ever played board games together
+@Flag(tgr8 Edged by Contact2) @Contact2 If we ever played board games together
+@Flag(tgr8 Edged by Contact3) @Contact3 If we ever played board games together
+@Flag(tgr8 Edged by Domme) I'd make sure very game would have some element of risk to it
+@Flag(tgr8 Edged by Contact1) @Contact1 I'd make sure very game would have some element of risk to it
+@Flag(tgr8 Edged by Contact2) @Contact2 I'd make sure very game would have some element of risk to it
+@Flag(tgr8 Edged by Contact3) @Contact3 I'd make sure very game would have some element of risk to it
+@Flag(tgr8 Edged by Domme) A certain amount of denial if you loose
+@Flag(tgr8 Edged by Contact1) @Contact1 A certain amount of denial if you loose
+@Flag(tgr8 Edged by Contact2) @Contact2 A certain amount of denial if you loose
+@Flag(tgr8 Edged by Contact3) @Contact3 A certain amount of denial if you loose
+@Flag(tgr8 Edged by Domme) #Edging every time I rolled a six
+@Flag(tgr8 Edged by Contact1) @Contact1 #Edging every time I rolled a six
+@Flag(tgr8 Edged by Contact2) @Contact2 #Edging every time I rolled a six
+@Flag(tgr8 Edged by Contact3) @Contact3 #Edging every time I rolled a six
+@Flag(tgr8 Edged by Domme) You don't even wanna know what I would do to you for rolling doubles #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 You don't even wanna know what I would do to you for rolling doubles #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 You don't even wanna know what I would do to you for rolling doubles #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 You don't even wanna know what I would do to you for rolling doubles #Grin @Goto(Command center)
+(It's Kinda Funny)
+@Flag(tgr8 Edged by Domme) It's kinda funny @Chance50(Thought of Debt)
+@Flag(tgr8 Edged by Contact1) @Contact1 It's kinda funny @Chance50(Thought of Debt)
+@Flag(tgr8 Edged by Contact2) @Contact2 It's kinda funny @Chance50(Thought of Debt)
+@Flag(tgr8 Edged by Contact3) @Contact3 It's kinda funny @Chance50(Thought of Debt)
+@Flag(tgr8 Edged by Domme) I don't need games like this to make you #ReachTheEdge
+@Flag(tgr8 Edged by Contact1) @Contact1 I don't need games like this to make you #ReachTheEdge
+@Flag(tgr8 Edged by Contact2) @Contact2 I don't need games like this to make you #ReachTheEdge
+@Flag(tgr8 Edged by Contact3) @Contact3 I don't need games like this to make you #ReachTheEdge
+@Flag(tgr8 Edged by Domme) But it's just so much fun playing games when there's something at stake #EmoteHappy @Chance50(Denial On The Line) @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 But it's just so much fun playing games when there's something at stake #EmoteHappy @Chance50(Denial On The Line) @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 But it's just so much fun playing games when there's something at stake #EmoteHappy @Chance50(Denial On The Line) @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 But it's just so much fun playing games when there's something at stake #EmoteHappy @Chance50(Denial On The Line) @Goto(Command center)
+(Thought of Debt)
+@Flag(tgr8 Edged by Domme) The thought of you being in debt
+@Flag(tgr8 Edged by Contact1) @Contact1 The thought of you being in debt
+@Flag(tgr8 Edged by Contact2) @Contact2 The thought of you being in debt
+@Flag(tgr8 Edged by Contact3) @Contact3 The thought of you being in debt
+@Flag(tgr8 Edged by Domme) And the only way you can pay it off is to #ReachTheEdge
+@Flag(tgr8 Edged by Contact1) @Contact1 And the only way you can pay it off is to #ReachTheEdge
+@Flag(tgr8 Edged by Contact2) @Contact2 And the only way you can pay it off is to #ReachTheEdge
+@Flag(tgr8 Edged by Contact3) @Contact3 And the only way you can pay it off is to #ReachTheEdge
+@Flag(tgr8 Edged by Domme) I think I would be a pretty good edge collector
+@Flag(tgr8 Edged by Contact1) @Contact1 I think I would be a pretty good edge collector
+@Flag(tgr8 Edged by Contact2) @Contact2 I think I would be a pretty good edge collector
+@Flag(tgr8 Edged by Contact3) @Contact3 I think I would be a pretty good edge collector
+@Flag(tgr8 Edged by Domme) Practice makes perfect after all #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Practice makes perfect after all #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Practice makes perfect after all #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Practice makes perfect after all #Grin @Goto(Command center)
+(Denial On The Line)
+@Flag(tgr8 Edged by Domme) Maybe next time we'll play for even higher stakes
+@Flag(tgr8 Edged by Contact1) @Contact1 Maybe next time we'll play for even higher stakes
+@Flag(tgr8 Edged by Contact2) @Contact2 Maybe next time we'll play for even higher stakes
+@Flag(tgr8 Edged by Contact3) @Contact3 Maybe next time we'll play for even higher stakes
+@Flag(tgr8 Edged by Domme) Like when... @RTOn
+@Flag(tgr8 Edged by Contact1) @Contact1 Like when... @RTOn
+@Flag(tgr8 Edged by Contact2) @Contact2 Like when... @RTOn
+@Flag(tgr8 Edged by Contact3) @Contact3 Like when... @RTOn
+@Flag(tgr8 Edged by Domme) Or if...
+@Flag(tgr8 Edged by Contact1) @Contact1 Or if...
+@Flag(tgr8 Edged by Contact2) @Contact2 Or if...
+@Flag(tgr8 Edged by Contact3) @Contact3 Or if...
+@Flag(tgr8 Edged by Domme) You get to #Cum again #Grin @RTOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 You get to #Cum again #Grin @RTOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 You get to #Cum again #Grin @RTOff @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 You get to #Cum again #Grin @RTOff @Goto(Command center)
+(Know What'd Be Funny)
+@Flag(tgr8 Edged by Domme) #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact1) @Contact1 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact2) @Contact2 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact3) @Contact3 #LetTheEdgeFade
+@Flag(tgr8 Edged by Domme) You know what would be funny? @Chance50(This Would Be Funny)
+@Flag(tgr8 Edged by Contact1) @Contact1 You know what would be funny? @Chance50(This Would Be Funny)
+@Flag(tgr8 Edged by Contact2) @Contact2 You know what would be funny? @Chance50(This Would Be Funny)
+@Flag(tgr8 Edged by Contact3) @Contact3 You know what would be funny? @Chance50(This Would Be Funny)
+@Flag(tgr8 Edged by Domme) If after you were done giving #Me these edges
+@Flag(tgr8 Edged by Contact1) @Contact1 If after you were done giving #Me these edges
+@Flag(tgr8 Edged by Contact2) @Contact2 If after you were done giving #Me these edges
+@Flag(tgr8 Edged by Contact3) @Contact3 If after you were done giving #Me these edges
+@Flag(tgr8 Edged by Domme) I made you #ReachTheEdge some more for #Me @RapidTextOn
+@Flag(tgr8 Edged by Contact1) @Contact1 I made you #ReachTheEdge some more for #Me @RapidTextOn
+@Flag(tgr8 Edged by Contact2) @Contact2 I made you #ReachTheEdge some more for #Me @RapidTextOn
+@Flag(tgr8 Edged by Contact3) @Contact3 I made you #ReachTheEdge some more for #Me @RapidTextOn
+@Flag(tgr8 Edged by Domme) Just because I can #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Just because I can #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Just because I can #Grin @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Just because I can #Grin @Goto(Command center)
+(This Would Be Funny)
+@Flag(tgr8 Edged by Domme) This... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 This... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 This... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 This... @RapidTextOn @Goto(Command center)
+(Pause For Edge Count)
+@Flag(tgr8 Edged by Domme) #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact1) @Contact1 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact2) @Contact2 #LetTheEdgeFade
+@Flag(tgr8 Edged by Contact3) @Contact3 #LetTheEdgeFade
+@Flag(tgr8 Edged by Domme) This is how many edges you have left...
+@Flag(tgr8 Edged by Contact1) @Contact1 This is how many edges you have left...
+@Flag(tgr8 Edged by Contact2) @Contact2 This is how many edges you have left...
+@Flag(tgr8 Edged by Contact3) @Contact3 This is how many edges you have left...
+@Flag(tgr8 Edged by Domme) a <i>LOT!</i> #Grin @Goto(This is Ass, This is Boobs, This is Random Pic)
+@Flag(tgr8 Edged by Contact1) @Contact1 a <i>LOT!</i> #Grin @Goto(This is Ass, This is Boobs, This is Random Pic)
+@Flag(tgr8 Edged by Contact2) @Contact2 a <i>LOT!</i> #Grin @Goto(This is Ass, This is Boobs, This is Random Pic)
+@Flag(tgr8 Edged by Contact3) @Contact3 a <i>LOT!</i> #Grin @Goto(This is Ass, This is Boobs, This is Random Pic)
+(This is Ass)
+@Flag(tgr8 Edged by Domme) This is a sexy #Ass @ShowButtImage @Goto(This Is Me Telling You To Edge)
+@Flag(tgr8 Edged by Contact1) @Contact1 This is a sexy #Ass @ShowButtImage @Goto(This Is Me Telling You To Edge)
+@Flag(tgr8 Edged by Contact2) @Contact2 This is a sexy #Ass @ShowButtImage @Goto(This Is Me Telling You To Edge)
+@Flag(tgr8 Edged by Contact3) @Contact3 This is a sexy #Ass @ShowButtImage @Goto(This Is Me Telling You To Edge)
+(This is Boobs)
+@Flag(tgr8 Edged by Domme) This is a pair of #Boobs @ShowBoobsImage @Goto(This Is Me Telling You To Edge)
+@Flag(tgr8 Edged by Contact1) @Contact1 This is a pair of #Boobs @ShowBoobsImage @Goto(This Is Me Telling You To Edge)
+@Flag(tgr8 Edged by Contact2) @Contact2 This is a pair of #Boobs @ShowBoobsImage @Goto(This Is Me Telling You To Edge)
+@Flag(tgr8 Edged by Contact3) @Contact3 This is a pair of #Boobs @ShowBoobsImage @Goto(This Is Me Telling You To Edge)
+(This is Random Pic)
+@Flag(tgr8 Edged by Domme) This is a hot fucking #Picture I just found @ShowBlogImage
+@Flag(tgr8 Edged by Contact1) @Contact1 This is a hot fucking #Picture I just found @ShowBlogImage
+@Flag(tgr8 Edged by Contact2) @Contact2 This is a hot fucking #Picture I just found @ShowBlogImage
+@Flag(tgr8 Edged by Contact3) @Contact3 This is a hot fucking #Picture I just found @ShowBlogImage
+(This Is Me Telling You To Edge)
+@Flag(tgr8 Edged by Domme) And <i>this</i> is #Me telling you to #ReachTheEdge again @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 And <i>this</i> is #Me telling you to #ReachTheEdge again @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 And <i>this</i> is #Me telling you to #ReachTheEdge again @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 And <i>this</i> is #Me telling you to #ReachTheEdge again @RapidTextOn @Goto(Command center)
+(Probably In A Hurry)
+@Flag(tgr8 Edged by Domme) You're probably in a hurry to finish these edges, so... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 You're probably in a hurry to finish these edges, so... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 You're probably in a hurry to finish these edges, so... @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 You're probably in a hurry to finish these edges, so... @RapidTextOn @Goto(Command center)
+(Stare At This Picture)
+@Flag(tgr8 Edged by Domme) Now just stare at this #Picture until I tell you to #ReachTheEdge again @ShowBlogImage @Wait( #Random(15,60)) @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Now just stare at this #Picture until I tell you to #ReachTheEdge again @ShowBlogImage @Wait( #Random(15,60)) @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Now just stare at this #Picture until I tell you to #ReachTheEdge again @ShowBlogImage @Wait( #Random(15,60)) @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Now just stare at this #Picture until I tell you to #ReachTheEdge again @ShowBlogImage @Wait( #Random(15,60)) @Goto(Command center)
+(Wait For It)
+@Flag(tgr8 Edged by Domme) Wait for it... @Wait( #Random(5,20)) @Chance20(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Wait for it... @Wait( #Random(5,20)) @Chance20(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Wait for it... @Wait( #Random(5,20)) @Chance20(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Wait for it... @Wait( #Random(5,20)) @Chance20(Command center)
+@Flag(tgr8 Edged by Domme) <i>Wait</i> for it... @Wait( #Random(5,20)) @Chance40(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 <i>Wait</i> for it... @Wait( #Random(5,20)) @Chance40(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 <i>Wait</i> for it... @Wait( #Random(5,20)) @Chance40(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 <i>Wait</i> for it... @Wait( #Random(5,20)) @Chance40(Command center)
+@Flag(tgr8 Edged by Domme) Keep waiting for it... @Wait( #Random(5,20)) @Chance60(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Keep waiting for it... @Wait( #Random(5,20)) @Chance60(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Keep waiting for it... @Wait( #Random(5,20)) @Chance60(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Keep waiting for it... @Wait( #Random(5,20)) @Chance60(Command center)
+@Flag(tgr8 Edged by Domme) <i>Almost</i> there... @Wait( #Random(5,20)) @Chance80(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 <i>Almost</i> there... @Wait( #Random(5,20)) @Chance80(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 <i>Almost</i> there... @Wait( #Random(5,20)) @Chance80(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 <i>Almost</i> there... @Wait( #Random(5,20)) @Chance80(Command center)
+@Flag(tgr8 Edged by Domme) #SubName... @Wait( #Random(5,20)) @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 #SubName... @Wait( #Random(5,20)) @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 #SubName... @Wait( #Random(5,20)) @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 #SubName... @Wait( #Random(5,20)) @Goto(Command center)
+(Wait For It JK)
+@Flag(tgr8 Edged by Domme) Wait for it... @Chance50(Fuck That)
+@Flag(tgr8 Edged by Contact1) @Contact1 Wait for it... @Chance50(Fuck That)
+@Flag(tgr8 Edged by Contact2) @Contact2 Wait for it... @Chance50(Fuck That)
+@Flag(tgr8 Edged by Contact3) @Contact3 Wait for it... @Chance50(Fuck That)
+@Flag(tgr8 Edged by Domme) Just kidding #Lol @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Just kidding #Lol @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Just kidding #Lol @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Just kidding #Lol @RapidTextOn @Goto(Command center)
+(Fuck That)
+@Flag(tgr8 Edged by Domme) Fuck that #Lol @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Fuck that #Lol @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Fuck that #Lol @RapidTextOn @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Fuck that #Lol @RapidTextOn @Goto(Command center)
+(Who Has A Nicer Ass)
+@NullResponse @RapidCodeOn
+@Flag(tgr8 Edged by Domme) @NullResponse @Goto(WHANA_Domme)
+@Flag(tgr8 Edged by Contact1) @NullResponse @Goto(WHANA_Contact1)
+@Flag(tgr8 Edged by Contact2) @NullResponse @Goto(WHANA_Contact2)
+@Flag(tgr8 Edged by Contact3) @NullResponse @Goto(WHANA_Contact3)
+(WHANA_Domme)
+#LetTheEdgeFade
+Who has a nicer #Ass @RapidTextOn
+#Me
+or this girl? @ShowButtImage @RapidTextOff @LockImages
+[you] So you think my #Ass is better... @Goto(Good Thing Asskisser) @UnlockImages
+[she, her, that] Oh really #Lol @Goto(I appreciate)
+@DifferentAnswer #Me or her #SubName?
+(WHANA_Contact1)
+@Contact1 #LetTheEdgeFade
+@Contact1 Who has a nicer #Ass @RapidTextOn
+@Contact1 #Me
+@Contact1 or this girl? @ShowButtImage @RapidTextOff @LockImages
+[you] @Contact1 So you think my #Ass is better... @Goto(Good Thing Asskisser) @UnlockImages
+[she, her, that] @Contact1 Oh really #Lol @Goto(I appreciate)
+@DifferentAnswer @Contact1 #Me or her #SubName?
+(WHANA_Contact2)
+@Contact2 #LetTheEdgeFade
+@Contact2 Who has a nicer #Ass @RapidTextOn
+@Contact2 #Me
+@Contact2 or this girl? @ShowButtImage @RapidTextOff @LockImages
+[you] @Contact2 So you think my #Ass is better... @Goto(Good Thing Asskisser) @UnlockImages
+[she, her, that] @Contact2 Oh really #Lol @Goto(I appreciate)
+@DifferentAnswer @Contact2 #Me or her #SubName?
+(WHANA_Contact3)
+@Contact3 #LetTheEdgeFade
+@Contact3 Who has a nicer #Ass @RapidTextOn
+@Contact3 #Me
+@Contact3 or this girl? @ShowButtImage @RapidTextOff @LockImages
+[you] @Contact3 So you think my #Ass is better... @Goto(Good Thing Asskisser) @UnlockImages
+[she, her, that] @Contact3 Oh really #Lol @Goto(I appreciate)
+@DifferentAnswer @Contact3 #Me or her #SubName?
+(I appreciate)
+@Flag(tgr8 Edged by Domme) I appreciate your honesty @RT(#SubName, #PetName) #EmoteHappy @SetVar[EdgesAdd]=[#Random(5, 10)]
+@Flag(tgr8 Edged by Contact1) @Contact1 I appreciate your honesty @RT(#SubName, #PetName) #EmoteHappy @SetVar[EdgesAdd]=[#Random(5, 10)]
+@Flag(tgr8 Edged by Contact2) @Contact2 I appreciate your honesty @RT(#SubName, #PetName) #EmoteHappy @SetVar[EdgesAdd]=[#Random(5, 10)]
+@Flag(tgr8 Edged by Contact3) @Contact3 I appreciate your honesty @RT(#SubName, #PetName) #EmoteHappy @SetVar[EdgesAdd]=[#Random(5, 10)]
+@Flag(tgr8 Edged by Domme) But I still added @ShowVar[EdgesAdd] edges to what you owe #Me for not picking mine :P @UnlockImages
+@Flag(tgr8 Edged by Contact1) @Contact1 But I still added @ShowVar[EdgesAdd] edges to what you owe #Me for not picking mine :P @UnlockImages
+@Flag(tgr8 Edged by Contact2) @Contact2 But I still added @ShowVar[EdgesAdd] edges to what you owe #Me for not picking mine :P @UnlockImages
+@Flag(tgr8 Edged by Contact3) @Contact3 But I still added @ShowVar[EdgesAdd] edges to what you owe #Me for not picking mine :P @UnlockImages
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[edges_owed]=[edges_owed]+[EdgesAdd]
+@NullResponse @DeleteVar[EdgesAdd] @Goto(Command center)
+@NullResponse @RapidCodeOff
+(Good Thing Asskisser)
+@Flag(tgr8 Edged by Domme) I guess that's a good thing
+@Flag(tgr8 Edged by Contact1) @Contact1 I guess that's a good thing
+@Flag(tgr8 Edged by Contact2) @Contact2 I guess that's a good thing
+@Flag(tgr8 Edged by Contact3) @Contact3 I guess that's a good thing
+@Flag(tgr8 Edged by Domme) Since you apparently like to kiss it so much #Lol @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Since you apparently like to kiss it so much #Lol @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Since you apparently like to kiss it so much #Lol @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Since you apparently like to kiss it so much #Lol @Goto(Command center)
+(Who owns that cock)
+#LetTheEdgeFade
+@RT(Let me ask you a question, Let me ask you something, I have a question for you, Your #DomHonorific has a question for you) @RT(#SubName, #PetName)
+@RT(Who owns that #Cock?, Who's the owner of that #Cock?, That #Cock you have between your legs,, who owns it?)
+#Me...
+or you?
+[you, yours] @NullResponse @Goto(That's right)
+[me, I, mine] @NullResponse @Goto(I don't think so)
+@DifferentAnswer #Me or you @RT(#SubName, #PetName)?
+(That's right)
+@RT(That's right my #PetName!, #Good, That's how a proper #PetName behaves...)
+@RT(Since it's my #Cock I want you to #ReachTheEdge, And now edge!, Prepare to #ReachTheEdge) @Goto(Command center)
+(I don't think so)
+@RT(Are you sure #PetName?, I don't think so..., I'm not so sure about it)
+@RT(If you were the owner you wouldn't be here #Stroking and #Edging for #Me, You wouldn't be here #Stroking and #Edging for #Me if what you just said were true, If you were right you wouldn't be here #Stroking that #Cock in front of #Me with your hand)
+@RT(instead you would be doing this for your girlfriend/wife, but you would be fucking a real woman, you would be pounding a real #Pussy #Now, you would be with your woman fucking her hard in all her holes...)
+However, since that #Cock belongs to #Me I just added a few edges to the total amount you owe me @ChangeVar[edges_owed]=[edges_owed]+[#Random(5,10)]
+(Say thank you)
+@NullResponse @Timeout(15, You should be grateful)
+[thanks, thank you, Thanks, Thank you] @RT(#Good, That's better!) @Goto(Command center)
+@DifferentAnswer @Flag(tgr8 Edged by Domme) What were you trying to say @RT(#SubName, #PetName)?
+(You should be grateful)
+@RT(You should be grateful for that #PetName, You should thank #Me for that, I didn't hear the magic words #SubName!) @Goto(Say thank you)
+(tgr8_ButtCooldown)
+@Flag(tgr8 Edged by Domme) Here's another sexy #Ass to cool down to #Grin @ShowButtImage @LockImages @Chance50(Then Again Butt)
+@Flag(tgr8 Edged by Contact1) @Contact1 Here's another sexy #Ass to cool down to #Grin @ShowButtImage @LockImages @Chance50(Then Again Butt)
+@Flag(tgr8 Edged by Contact2) @Contact2 Here's another sexy #Ass to cool down to #Grin @ShowButtImage @LockImages @Chance50(Then Again Butt)
+@Flag(tgr8 Edged by Contact3) @Contact3 Here's another sexy #Ass to cool down to #Grin @ShowButtImage @LockImages @Chance50(Then Again Butt)
+@Flag(tgr8 Edged by Domme) Just follow the shape of her curves
+@Flag(tgr8 Edged by Contact1) @Contact1 Just follow the shape of her curves
+@Flag(tgr8 Edged by Contact2) @Contact2 Just follow the shape of her curves
+@Flag(tgr8 Edged by Contact3) @Contact3 Just follow the shape of her curves
+@Flag(tgr8 Edged by Domme) Imagine how how her #Ass would feel in your palms
+@Flag(tgr8 Edged by Contact1) @Contact1 Imagine how how her #Ass would feel in your palms
+@Flag(tgr8 Edged by Contact2) @Contact2 Imagine how how her #Ass would feel in your palms
+@Flag(tgr8 Edged by Contact3) @Contact3 Imagine how how her #Ass would feel in your palms
+@Flag(tgr8 Edged by Domme) Or the moans she would make if you spanked it
+@Flag(tgr8 Edged by Contact1) @Contact1 Or the moans she would make if you spanked it
+@Flag(tgr8 Edged by Contact2) @Contact2 Or the moans she would make if you spanked it
+@Flag(tgr8 Edged by Contact3) @Contact3 Or the moans she would make if you spanked it
+@Flag(tgr8 Edged by Domme) #Me, on the other hand...
+@Flag(tgr8 Edged by Contact1) @Contact1 #Me, on the other hand...
+@Flag(tgr8 Edged by Contact2) @Contact2 #Me, on the other hand...
+@Flag(tgr8 Edged by Contact3) @Contact3 #Me, on the other hand...
+@Flag(tgr8 Edged by Domme) I would rather hear the moans <i>you</i> make having to #ReachTheEdge again #Grin @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 I would rather hear the moans <i>you</i> make having to #ReachTheEdge again #Grin @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 I would rather hear the moans <i>you</i> make having to #ReachTheEdge again #Grin @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 I would rather hear the moans <i>you</i> make having to #ReachTheEdge again #Grin @UnlockImages @Goto(Command center)
+(Then Again Butt)
+@Flag(tgr8 Edged by Domme) Then again, you'll never finish your edges staring at butts all day, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Then again, you'll never finish your edges staring at butts all day, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Then again, you'll never finish your edges staring at butts all day, so... @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Then again, you'll never finish your edges staring at butts all day, so... @UnlockImages @Goto(Command center)
+(tgr8_BoobCooldown)
+@Flag(tgr8 Edged by Domme) Here's some more #Boobs for you to relax to #Grin @ShowBoobsImage @LockImages @Chance50(Then Again Boob)
+@Flag(tgr8 Edged by Contact1) @Contact1 Here's some more #Boobs for you to relax to #Grin @ShowBoobsImage @LockImages @Chance50(Then Again Boob)
+@Flag(tgr8 Edged by Contact2) @Contact2 Here's some more #Boobs for you to relax to #Grin @ShowBoobsImage @LockImages @Chance50(Then Again Boob)
+@Flag(tgr8 Edged by Contact3) @Contact3 Here's some more #Boobs for you to relax to #Grin @ShowBoobsImage @LockImages @Chance50(Then Again Boob)
+@Flag(tgr8 Edged by Domme) Maybe relax isn't the best word
+@Flag(tgr8 Edged by Contact1) @Contact1 Maybe relax isn't the best word
+@Flag(tgr8 Edged by Contact2) @Contact2 Maybe relax isn't the best word
+@Flag(tgr8 Edged by Contact3) @Contact3 Maybe relax isn't the best word
+@Flag(tgr8 Edged by Domme) Suffer to?
+@Flag(tgr8 Edged by Contact1) @Contact1 Suffer to?
+@Flag(tgr8 Edged by Contact2) @Contact2 Suffer to?
+@Flag(tgr8 Edged by Contact3) @Contact3 Suffer to?
+@Flag(tgr8 Edged by Domme) Squirm to?
+@Flag(tgr8 Edged by Contact1) @Contact1 Squirm to?
+@Flag(tgr8 Edged by Contact2) @Contact2 Squirm to?
+@Flag(tgr8 Edged by Contact3) @Contact3 Squirm to?
+@Flag(tgr8 Edged by Domme) Ache to?
+@Flag(tgr8 Edged by Contact1) @Contact1 Ache to?
+@Flag(tgr8 Edged by Contact2) @Contact2 Ache to?
+@Flag(tgr8 Edged by Contact3) @Contact3 Ache to?
+@Flag(tgr8 Edged by Domme) Fuck it @RapidTextOn
+@Flag(tgr8 Edged by Contact1) @Contact1 Fuck it @RapidTextOn
+@Flag(tgr8 Edged by Contact2) @Contact2 Fuck it @RapidTextOn
+@Flag(tgr8 Edged by Contact3) @Contact3 Fuck it @RapidTextOn
+@Flag(tgr8 Edged by Domme) Let's just go with all of the above #Lol @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Let's just go with all of the above #Lol @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Let's just go with all of the above #Lol @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Let's just go with all of the above #Lol @UnlockImages @Goto(Command center)
+(Then Again Boob)
+@Flag(tgr8 Edged by Domme) Just kidding #Lol @RapidTextOn @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact1) @Contact1 Just kidding #Lol @RapidTextOn @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact2) @Contact2 Just kidding #Lol @RapidTextOn @UnlockImages @Goto(Command center)
+@Flag(tgr8 Edged by Contact3) @Contact3 Just kidding #Lol @RapidTextOn @UnlockImages @Goto(Command center)
+(tgr8 special test)
+@NullResponse @CheckFlag(tgr8 special test instructions, Skip instructions)
+Before we start I will give you some instructions
+You will do this test with the last of us who edged you
+@RT(You must #Stroke to the beat without #Edging, You will #Stroke to the beat without #Edging, You must #Stroke to the beat,, but don't get close to the #EdgeNoun for the entire length of the audio file)
+@RT(Report if you reach the #EdgeNoun, You must report if you reach the #EdgeNoun, If you reach the #EdgeNoun then you have to report it, If you reach the #EdgeNoun report it)
+@RT(If you reach the #EdgeNoun hands off and <b>type</b> <i>stop</i>, If you edge stop #Stroking and type <i>stop</i>, If you edge I want you to stop #Stroking and type <i>stop</i>)
+@RT(If you stop the test before the end for three times you will be punished, Reach the #EdgeNoun for three times and you'll be punished, You edge three times? You get the punishment!, You can reach the #EdgeNoun for two times. Do it another time and we will punish you)
+And trust #Me, you don't want to be punished... @TempFlag(tgr8 special test instructions)
+(Skip instructions)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8 special test)
+@NullResponse @CheckFlag(tgr8 Edged by Domme) @CheckFlag(tgr8 Edged by Contact1) @CheckFlag(tgr8 Edged by Contact2) @CheckFlag(tgr8 Edged by Contact3)
+@NullResponse @RapidCodeOff
+(tgr8 Edged by Domme)
+@RT(If you reach the #EdgeNoun hands off and type <i>stop</i>, If you edge stop #Stroking and type <i>stop</i>, If you edge I want you to stop #Stroking and type <i>stop</i>) @CallReturn(Custom\CallReturn\BlackJerk\tgr8 special test\*.txt)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8 Edged by Domme, tgr8 Edged by Contact1, tgr8 Edged by Contact2, tgr8 Edged by Contact3)
+@NullResponse @Goto(Command center)
+@NullResponse @RapidCodeOff
+(tgr8 Edged by Contact1)
+@Contact1 @RT(If you reach the #EdgeNoun hands off and type <i>stop</i>, If you edge stop #Stroking and type <i>stop</i>, If you edge I want you to stop #Stroking and type <i>stop</i>) @CallReturn(Custom\CallReturn\BlackJerk\tgr8 special test\Choose Contact1 special test audio file.txt)
+@NullResponse @Goto(Command center)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8 Edged by Domme, tgr8 Edged by Contact1, tgr8 Edged by Contact2, tgr8 Edged by Contact3)
+@NullResponse @Goto(Command center)
+(tgr8 Edged by Contact2)
+@Contact2 @RT(If you reach the #EdgeNoun hands off and type <i>stop</i>, If you edge stop #Stroking and type <i>stop</i>, If you edge I want you to stop #Stroking and type <i>stop</i>) @CallReturn(Custom\CallReturn\BlackJerk\tgr8 special test\Choose Contact2 special test audio file.txt)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8 Edged by Domme, tgr8 Edged by Contact1, tgr8 Edged by Contact2, tgr8 Edged by Contact3)
+@NullResponse @Goto(Command center)
+@NullResponse @RapidCodeOff
+(tgr8 Edged by Contact3)
+@Contact3 @RT(If you reach the #EdgeNoun hands off and type <i>stop</i>, If you edge stop #Stroking and type <i>stop</i>, If you edge I want you to stop #Stroking and type <i>stop</i>) @CallReturn(Custom\CallReturn\BlackJerk\tgr8 special test\Choose Contact3 special test audio file.txt)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(tgr8 Edged by Domme, tgr8 Edged by Contact1, tgr8 Edged by Contact2, tgr8 Edged by Contact3)
+@NullResponse @Goto(Command center)
+@NullResponse @RapidCodeOff
+(tgr8 special edge test failed)
+@RT(You failed to complete the test #PetName, You failed the test, You didn't complete the test, You did not managed to complete the test) @MoodDown
+You are such a <b>disappointment</b> to #Me!
+@RT(Now I have to punish you, Now you will face the punishment, You will be punished #Now)
+@RT(You still owe #Me #Var[tgr8_Edge_for_us_edges_left] edges, You didn't complete #Var[tgr8_Edge_for_us_edges_left] edges so far, You still need to do  #Var[tgr8_Edge_for_us_edges_left] edges to repay #Me)
+@RT(So here's what we're #Gonna do, Let me explain what's #Gonna happen, Here's what we're #Gonna do)
+You will be punished for failing the special edge test and the edges you still owe #Me will magically transform into #Balls slap!
+@NullResponse @RapidCodeOn
+@NullResponse @RTOff @DeleteFlag(tgr8 Edged by Domme, tgr8 Edged by Contact1, tgr8 Edged by Contact2, tgr8 Edged by Contact3)
+@NullResponse @SetVar[tgr8_balls_slaps]=[#Random(10,30)]
+@NullResponse @RoundVar[tgr8_balls_slaps]=[10]
+@NullResponse @SetVar[tgr8_Edge_for_us_edges_left_not_rounded]=[#Var[tgr8_Edge_for_us_edges_left]]
+@NullResponse @RoundVar[tgr8_Edge_for_us_edges_left]=[10]
+@NullResponse @If[tgr8_Edge_for_us_edges_left]<[tgr8_Edge_for_us_edges_left_not_rounded]Then(Correct rounding)
+@NullResponse @ChangeVar[tgr8_balls_slaps]=[tgr8_balls_slaps]+[tgr8_Edge_for_us_edges_left]
+@NullResponse @Goto(Total ball slap is)
+@NullResponse @RapidCodeOff
+(Correct rounding)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[tgr8_Edge_for_us_edges_left]=[tgr8_Edge_for_us_edges_left]+[10]
+@NullResponse @ChangeVar[tgr8_balls_slaps]=[tgr8_balls_slaps]+[tgr8_Edge_for_us_edges_left]
+@NullResponse @RapidCodeOff
+(Total ball slap is)
+@RT(So,, the total @Balls slaps is..., So now you owe #Me..., The total is now...)
+@ShowVar[tgr8_balls_slaps] #Balls slaps!
+(Choose Domme)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(Punished by Domme,Punished by Contact1,Punished by Contact2,Punished by Contact3)
+@NullResponse @Goto(Punished by Domme, Punished by Contact1, Punished by Contact2, Punished by Contact3)
+@NullResponse @RapidCodeOff
+(Punished by Domme)
+@NullResponse @TempFlag(Punished by Domme) @Goto(Loop punishment)
+(Punished by Contact1)
+@NullResponse @TempFlag(Punished by Contact1) @Goto(Loop punishment)
+(Punished by Contact2)
+@NullResponse @TempFlag(Punished by Contact2) @Goto(Loop punishment)
+(Punished by Contact3)
+@NullResponse @TempFlag(Punished by Contact3) @Goto(Loop punishment)
+(Loop punishment)
+@Flag(Punished by Domme) @RT(I want 10 #Balls slaps, 10 #Balls slaps, Gimme 10 #Balls slaps, Give #Me 10 #Balls slaps, Slap your #Balls 10 times, Slap your #Balls 10 times for #Me, #Balls slap time! I want 10!, Slap time! 10 for those #Balls!) @PlayAudio[tease\spank\Belle10*.mp3]
+@Flag(Punished by Contact1) @Contact1 @RT(I want 10 #Balls slaps, 10 #Balls slaps, Gimme 10 #Balls slaps, Give #Me 10 #Balls slaps, Slap your #Balls 10 times, Slap your #Balls 10 times for #Me, #Balls slap time! I want 10!, Slap time! 10 for those #Balls!) @PlayAudio[tease\spank\Spank10.mp3]
+@Flag(Punished by Contact2) @Contact2 @RT(I want 10 #Balls slaps, 10 #Balls slaps, Gimme 10 #Balls slaps, Give #Me 10 #Balls slaps, Slap your #Balls 10 times, Slap your #Balls 10 times for #Me, #Balls slap time! I want 10!, Slap time! 10 for those #Balls!) @PlayAudio[tease\G2Spank\*.mp3]
+@Flag(Punished by Contact3) @Contact3 @RT(I want 10 #Balls slaps, 10 #Balls slaps, Gimme 10 #Balls slaps, Give #Me 10 #Balls slaps, Slap your #Balls 10 times, Slap your #Balls 10 times for #Me, #Balls slap time! I want 10!, Slap time! 10 for those #Balls!) @PlayAudio[tease\G3Spank\*.mp3]
+@NullResponse @Wait( #Random(18,20))
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[tgr8_balls_slaps]=[tgr8_balls_slaps]-[10]
+@NullResponse @If[tgr8_balls_slaps]=[0]Then(End punishment)
+@NullResponse @Chance20(Entertain Mistress) @Goto(Choose Domme)
+@NullResponse @RapidCodeOff
+(Entertain Mistress)
+@Flag(Punished by Domme) @RT(Slap your #Balls another 10 times,, just for my amusement #PetName, Slap your #Balls another 10 times,, only that these won't count, Just another 10 #SubName..., Just another 10 #SubName,, please,, just to entertain #Me..., Just another 10 #SubName,, please,, just for fun...,)  @PlayAudio[tease\spank\Belle10*.mp3]
+@Flag(Punished by Contact1) @Contact1 @RT(Slap your #Balls another 10 times,, just for my amusement #PetName, Slap your #Balls another 10 times,, only that these won't count, Just another 10 #SubName..., Just another 10 #SubName,, please,, just to entertain #Me..., Just another 10 #SubName,, please,, just for fun...,) @PlayAudio[tease\spank\Spank10.mp3]
+@Flag(Punished by Contact2) @Contact2 @RT(Slap your #Balls another 10 times,, just for my amusement #PetName, Slap your #Balls another 10 times,, only that these won't count, Just another 10 #SubName..., Just another 10 #SubName,, please,, just to entertain #Me..., Just another 10 #SubName,, please,, just for fun...,)  @PlayAudio[tease\G2Spank\*.mp3]
+@Flag(Punished by Contact3) @Contact3 @RT(Slap your #Balls another 10 times,, just for my amusement #PetName, Slap your #Balls another 10 times,, only that these won't count, Just another 10 #SubName..., Just another 10 #SubName,, please,, just to entertain #Me..., Just another 10 #SubName,, please,, just for fun...,) @PlayAudio[tease\G3Spank\*.mp3]
+@NullResponse @Goto(Choose Domme)
+(End punishment)
+@RT(Finished!, That's all #SubName!, Slapping is finished!)
+#HowAreYourBallsFeeling
+#Balls_in_pain
+@Contact3 Why funny things don't last longer?
+Don't worry #Contact3 you can come by another time. #SubName will be here for you
+@Contatc3 I have other things I'd like to try...
+@Contact1 Count me in!
+What did you say #Contact2?
+@Contact2 I had fun #GeneralTime so I think I could join you
+Ok, it's decided!
+@Contact3 @RT(Time to go for me, It's go time for me) #DomName @Goto(Goodbye time)
+(End Edge for us)
+@RT(That was the last one #SubName, That was the last #EdgeNoun, You repayed your debt with #Me, #SubName. No more #Edging for you...)
+@RT(I like when you suffer so much for #Me,, for <i>us</i>,, #PetName, I #Love seeing you suffer)
+@Contact1 @RT(All that #CumNoun built up and no release. I can't imagine the #Ache your #Balls are suffering this moment, Are your #Balls #Aching? They sure are..., #HowAreYourBallsFeeling #Balls_in_pain)
+@Contact1 Would you like to #Cum for #Me?
+[yes] @Contact1 I don't think you will be #Cumming any time soon
+[no] @Contact1 #Good
+@AcceptAnswer @Contact1 I don't think you'll be #Cumming any time soon #EmoteLaugh
+I have other plans for that #Cock #Contact1
+@Contact3 More edging followed by more denial?
+Kind of...
+@Contact3 I'm in!
+@Contact3 Unfortunately we'd have to do it another time
+@Contact3 I must go now @Goto(Goodbye time)
+(Goodbye time)
+@RT(Ok,, see you again girls!, #Bye, #Bye girls!,Ok,, see you again!)
+@Contact1 @RT(#Bye #ShortName, #Bye #DomName, #Bye!, See you next time #DomName!)
+@Contact2 @RT(#Bye #ShortName, #Bye #DomName, #Bye!, See you next time #DomName!)
+@Contact3 @RT(#Bye #ShortName, #Bye #DomName, #Bye!, See you next time #DomName!)
+@Contact2 @RT(#Bye #SubName,#Bye #SubName!)
+@NullResponse @RapidCodeOn
+@NullResponse @RemoveContact1
+@NullResponse @RemoveContact2
+@NullResponse @RemoveContact3
+@NullResponse @DeleteFlag(Punished by Domme,Punished by Contact1,Punished by Contact2,Punished by Contact3)
+@NullResponse @DeleteVar[edges_done,edges_owed,special_test_edge]
+@NullResponse @DeleteVar[tgr8_Edge_for_us_edges_left,tgr8_Edge_for_us_edges_left_not_rounded,tgr8_balls_slaps]
+@NullResponse @RapidCodeOff
+@End

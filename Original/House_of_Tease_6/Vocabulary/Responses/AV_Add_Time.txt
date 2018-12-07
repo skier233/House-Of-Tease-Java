@@ -1,0 +1,27 @@
+[Add time]
+[Before Tease]
+@NullResponse @MiniScript(AV_Add_Tease_Time) 
+[Before Tease End]
+[First Round]
+@NullResponse @MiniScript(AV_Add_Tease_Time) 
+[First Round End]
+[Stroking]
+@NullResponse @MiniScript(AV_Add_Tease_Time) 
+[Stroking End]
+[Not Stroking]
+@NullResponse @MiniScript(AV_Add_Tease_Time) 
+[Not Stroking End]
+[Edging]
+@NullResponse @MiniScript(AV_Add_Tease_Time) 
+[Edging End]
+[Holding The Edge]
+@NullResponse @MiniScript(AV_Add_Tease_Time) 
+[Holding The Edge End]
+[CBT Cock]
+[CBT Cock End]
+[CBT Balls]
+[CBT Balls End]
+[Chastity]
+[Chastity End]
+[After Tease]
+[After Tease End]

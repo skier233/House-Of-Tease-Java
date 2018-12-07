@@ -1,0 +1,21 @@
+@NullResponse @CheckFlag(pthevLongDenialActive)
+@OrgasmRestricted But it's not going to happen @Goto(not in the mood)
+@AllowsOrgasm(Never) But it's not going to happen @Goto(not in the mood)
+@AllowsOrgasm(Always) But you already know I'll let you, so why do you keep asking #EmoteFlustered @Goto(not in the mood)
+@NullResponse @If[pvBegToCum]>[7]Then(passed if then check)
+@RT(I know,Of course,I have no doubt that,Sure,Obviously) you @RT(<i>want</i>,would <i>like</i>,are just aching,are desperate) to @RT(have an orgasm,cum,shoot your load), #Name
+But I really just don't know yet whether I'll let you...
+@End
+(pthevLongDenialActive)
+@NullResponse @If[pvBegToCum]>[7]Then(passed if then check LDA)
+But I'm not going to @RT(allow it,let you) #Smile
+@End
+(passed if then check LDA)
+@NullResponse @Interrupt(pvIntWantToCumLDA)
+@End
+(not in the mood)
+@NullResponse
+@End
+(passed if then check)
+@NullResponse @Interrupt(pvIntWantToCum)
+@End

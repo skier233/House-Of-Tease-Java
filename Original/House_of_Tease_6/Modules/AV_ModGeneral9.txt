@@ -1,0 +1,435 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral9_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral9]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral9_NotFirstTime)
+(AV_ModGeneral9_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral9]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral9]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral9]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral9]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral9]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral9]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral9]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral9]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral9]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral9]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral9]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral9]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral9]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral9]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral9]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral9]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral9]=[AV_ModGeneral9]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral9]=[AV_ModGeneral9]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral9]=[AV_ModGeneral9]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral9]=[AV_ModGeneral9]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral9]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+Oh my, what I could do with you. 
+Stand up #PetName, stand up and spread your legs @Wait(15)
+Now that you are suitably frustrated
+I want you to exercise your PC muscle. 
+I want you to, without touching it, make your cock bounce. 
+@Flag(av_fetish_pain) And for every bounce you are to hit yourself in the balls
+Start now...
+Oh, you like that don't you?
+And you are so good at it
+Keep going... @Wait(20)
+Now I am going to test you. 
+Don't look at me like that
+everything up to now was simply a warm up.
+@Flag(av_fetish_cei) @NullResponse @Goto(CEIPart)
+@Flag(av_fetish_pain) @NullResponse @Goto(PainPart)
+#Edge @EdgeNoHold @MultipleEdges(3, 15, 100)
+Hmmm... @Goto(ContTea2)
+(CEIPart)
+You will not hurt yourself for me. 
+No, I just want to see the tears of frustration in your eyes as you fight back the desire to cum. 
+Get yourself a teaspoon. @Wait(30)
+I have only 2 instructions for you
+1) Do not cum
+2) Fill your teaspoon with pre-cum. 
+I would advise bending the spoon so that it can be put aside without spilling its contents.
+I will not be prescriptive here. 
+You may order whatever videos you wish and stroke your tiny friend however you want. 
+I would recommend edging as much as possible however, otherwise you may be here all day.
+Once you have collected your designated amount
+pour it into the palm of your hand and rub both hands gently together. 
+Now rub that pre-cum all over your face. 
+Leave it there to dry 
+Tell me when you are done
+[done, ready, yes] #Good  @Goto(ContTea2)
+@DifferentAnswer Done #SubName? 
+(PainPart)
+attach 2 clothespins to your nipple @Wait(20)
+#Edge @Edge
+attach #Random(2, 4) clothespins to your #Balls @Wait(20)
+#Edge @EdgeNoHold @MultipleEdges(3, 15, 100)
+Hit each butt cheek #RandomRound10(10, 30) times @Wait(30)
+#Edge @Edge
+(ContTea2)
+Good boy...
+You can sit, remove all and clean yourself now...
+I will give you 30 seconds @Wait(30)
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+Good. 
+You sitting at your computer with your cock out. 
+@Flag(av_fetish_cfnm) @RT(fully, completely) naked for me...
+The idea of it turns me on and makes me want to touch myself. 
+Why don't you touch yourself for me?
+#StartStroking
+The name of this game is control. 
+@Flag(av_fetish_rough) I need to see if you are an animal or if you have the self awareness to control your instincts. 
+@Flag(av_fetish_rough) Your instincts will be to lose control, and only an animal sucumbs to their instincts. 
+@NotFlag(av_fetish_rough) I need to see if you have the self awareness to control your instincts. 
+@NotFlag(av_fetish_rough) Your instincts will be to lose control, and only an bad boys sucumbs to their instincts. 
+You call that #Stroking?
+Stroking requires your full essence.
+#Stroke faster
+I'm afraid there is nor recourse but punishment. 
+The willing acceptance of punishment and the ability to withstand it... @TempFlag(av_intera_006)
+@Flag(av_fetish_rough) separate us from the beast in the field.
+@NotFlag(av_fetish_rough) separates the good from the bad boys.
+#StopStroking
+#KneelForMe
+Look at you laying down, your throbbing cock can hardly wait. 
+Are you aroused? 
+I remember back in school how thrilled I was at the realization that 
+the boys struggled internally to control their eyes as they talked to me. 
+@NotFlag(av_fetish_pain) @NullResponse @Goto(SKPA01)
+Ok collect saliva from your mouth and put it on your nipples @Wait(15)
+attach 1 clothespin on each nipple @Wait(20)
+now rotate the clothespin on nipples 5 time for at least 90 degres on the left and then on the right. @Wait(20)
+take the spoon and hit each ass cheek 10 times as hard as you can. @Wait(20)
+Do you have enough?
+[yes] Quiet #Slave, I don't want to hear your pathetic excuses. @Goto(SKPA01)
+[no] #Good 
+@DifferentAnswer #YesorNo #SubName?
+@Flag(av_fetish_rough) Your torment amuses me, long may it continue.
+@NotFlag(av_fetish_rough) Let's coninue so...
+How are those balls feeling? 
+Are they bruised yet?
+Get to the edge of orgasm whilst I think about your next task. @PlayAudio[tease\cEdge.mp3] @Edge
+It needs to be something juicy, something...
+ah, I know.
+@Flag(av_fetish_bondage) Firstly tie up your balls and cock hard @Wait(33)
+You will stroke only the head with dominant hand. 
+Every 10 strokes you will give your balls 5 hard slaps with the spoon. 
+You are not allowed to edge 
+(SKPA01)
+#StartStroking
+Your balls will be such an interesting colour by the end of today.
+They may also be swollen. 
+I trust you are not desperate to cum yet. 
+I hope not, because we haven't even started
+and whilst you will get an opportunity to blow your load, it may not be to your liking.
+@Flag(av_fetish_rough) Are you managing to keep the animal tame inside you? 
+@NotFlag(av_fetish_rough) Are you managing to be a good boy? 
+Show me...
+#Edge @EdgeNoHold @MultipleEdges(2, 15, 100)
+@NotFlag(av_fetish_pain) @NullResponse @Wait(20) @Goto(SKPA02)
+There are other torments that can be applied to your balls.
+More Clothespins for example.
+Now then #PetName, you are going to apply #Random(3, 5) to your balls. @Wait(33)
+(SKPA02)
+#StartStroking
+no edging. 
+Do you ache? 
+Can you feel the desire to cum building within you? 
+If you perform well today, there may even be a chance to empty your seed 
+I require you to add to the ache in your balls by exercising your PC muscle
+the muscle you use to jump your cock up and down. 
+Squeeze it now and see your cock rise. @DeleteFlag(av_intera_006)
+#StopStroking
+So here is your exercise regime.
+Clench your PC muscle #RandomRound10(10, 30) times quickly @Wait(33)
+Good boy...
+Now...
+Clench and hold for @RT(5 seconds and release for 5 seconds. Do this 10 times, 10 seconds and release for 10 seconds. Do this 5 times)
+Good...
+#SitDown
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+Whats the matter #Slave?
+Is this little bit of stroking too much for you?
+I wanna see some stamina from you #PetName
+I guess we have to get a little bit more serious here
+Whats the matter #SubName?
+You have this expression in your eyes #Laugh
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+Now...get on your knees and spread them as wide as you possible can and sit back on your legs @Wait(10)
+There you go.. thats better #PetName
+So..
+I bet you would like to have permission to touch your cock again right?
+put your hand back on your cock!
+No stroking yet though.
+You have to wait for permission
+Just feel it growing in your hand.
+Feel the veins and how sensitive and tender your cock is getting...
+Longing for you to stroke it.
+Are you getting anxious #Slave? 
+#StartStroking
+Stroke it very slowly and softly
+Caress your achy balls with the other hand
+My oh my look at you..
+Did i saw a little quivering over there?
+Someone sems to be getting a little aroused?
+Isnt that so #PetName?
+Well.. keep going at that pace
+Eyes up here #PetName..
+Look into my eyes and nowhere else!
+Speed up a little
+@Flag(av_fetish_foot) Would you like to feel my feet on your cock?
+@Flag(av_fetish_foot) Dont you dare look at them!
+Stay focused on my face #PetName
+@Flag(av_fetish_foot) I bet you would really like that ..
+@Flag(av_fetish_foot) My toes rubbing up and down your shaft
+@Flag(av_fetish_foot) Slowly milking out tiny drops of precum
+@Flag(av_fetish_foot) Think about that..
+@Flag(av_fetish_foot) Would you let me do that? 
+Switch your hands and stroke faster! @Wait(20)
+Twist and squezze your nipples for me while you stroke @Wait(20)
+#Edge @Edge
+#LetTheEdgeFade @Chance50(AVSkipDouble)
+And now...
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+(AVSkipDouble)
+#GoodBoy
+Hands on your side!
+Let go of that cock!
+So..
+I assume you would like to play with yourself some more?
+You have to earn that right to touch yourself #Slave..
+Gather some saliva with your finger and rub it over your nipples..
+Very good..
+Now play with them again..
+I want them to be as hard as your cock is!
+Thats what i like to see..
+@Flag(av_fetish_pain) Now put 2 clothespins on your nipples @Wait(20)
+Now you have to take the long and frustrating route with me
+Take one hand and cup your balls with it
+Are they starting to ache slave?
+#StartStroking
+Just pump that #Cock
+Long frustrating strokes.
+I want to see you suffer for me slave
+Faster!!
+#Edge @EdgeHold
+If you want to please me today, then will have to go way beyond your limits for me
+@Flag(av_fetish_pain) Now put 4 clothespins on your @RT(balls, ears) @Wait(20)
+Start massaging your swollen balls #PetName
+They will need alot of love today in order to endure all the ache that is coming
+I want you to change your position now slaveboy..
+Close your legs together while you kneel
+Your knees have to make contact
+Keep your back straight and point your cock torwards me slave 
+#StartStroking
+How are you feeling slave?
+Is the ache gettin bigger?
+Need to cum?
+You look a bit shaky over there
+#StopStroking
+Sit in your chair
+@Flag(av_fetish_pain) And remove all clothespins @Wait(20)
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+#LittleGame
+We will pick a card and whoever has the highest card wins the round @SetVar[AV_CardGamePin]=[0]
+If I win, you will put a clothespin on your body @SetVar[AV_CardGameEdge]=[0]
+If you win, you can edge for me...
+@Flag(AV_DommeMistress) @NullResponse @SetVar[AV_CardGameLevel]=[10]
+@NotFlag(AV_DommeMistress) @NullResponse @SetVar[AV_CardGameLevel]=[5]
+Whoever gets #Var[AV_CardGameLevel] rounds, wins the game
+If I win the game, I can have some fun punishing you a little more
+If you win the game, maybe you can have a second chance if I decide to deny your orgasm today...
+#LetStart
+(CardStart)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_CardGameSubA]=[0]
+@NullResponse @SetVar[AV_CardGameDomA]=[0]
+@RT(Your card is a, You got a)... @Goto(01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13)
+(01)
+Ace @ShowImage[av_imagens\cards3\01\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[1] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(02)
+Two @ShowImage[av_imagens\cards3\02\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[2] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(03)
+Three @ShowImage[av_imagens\cards3\03\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[3] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(04)
+Four @ShowImage[av_imagens\cards3\04\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[4] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(05)
+Five @ShowImage[av_imagens\cards3\05\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[5] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(06)
+Six @ShowImage[av_imagens\cards3\06\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[6] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(07)
+Seven @ShowImage[av_imagens\cards3\07\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[7] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(08)
+Eight @ShowImage[av_imagens\cards3\08\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[8] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(09)
+Nine @ShowImage[av_imagens\cards3\09\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[9] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(10)
+Ten @ShowImage[av_imagens\cards3\10\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[10] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(11)
+jack @ShowImage[av_imagens\cards3\11\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[11] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(12)
+Queen @ShowImage[av_imagens\cards3\12\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[12] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(13)
+King @ShowImage[av_imagens\cards3\13\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[13] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(CardGameA)
+@RT(My Card is a, and I got a, what I got is a) 
+@NullResponse @Goto(01D, 02D, 03D, 04D, 05D, 06D, 07D, 08D, 09D, 10D, 11D, 12D, 13D)
+(01D)
+Ace @ShowImage[av_imagens\cards3\01\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[1] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(02D)
+Two @ShowImage[av_imagens\cards3\02\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[2] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(03D)
+Three @ShowImage[av_imagens\cards3\03\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[3] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(04D)
+Four @ShowImage[av_imagens\cards3\04\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[4] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(05D)
+Five @ShowImage[av_imagens\cards3\05\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[5] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(06D)
+Six @ShowImage[av_imagens\cards3\06\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[6] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(07D)
+Seven @ShowImage[av_imagens\cards3\07\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[7] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(08D)
+Eight @ShowImage[av_imagens\cards3\08\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[8] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(09D)
+Nine @ShowImage[av_imagens\cards3\09\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[9] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(10D)
+Ten @ShowImage[av_imagens\cards3\10\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[10] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(11D)
+jack @ShowImage[av_imagens\cards3\11\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[11] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(12D)
+Queen @ShowImage[av_imagens\cards3\12\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[12] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(13D)
+King @ShowImage[av_imagens\cards3\13\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[13] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(CardGameB)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_CardGameDomA]=[AV_CardGameSubA]Then(EmpateA)
+@NullResponse @If[AV_CardGameDomA]>[AV_CardGameSubA]Then(DommeWonA)
+@NullResponse @If[AV_CardGameDomA]<[AV_CardGameSubA]Then(SubWonA)
+(DommeWonA)
+#Great, I Won @ChangeVar[AV_CardGamePin]=[AV_CardGamePin]+[1]
+@RT(Put, Place) a @RT(clothespin, pin) on @RT(your, any place of your) @RT(body, slave body) @Wait(20)
+@NullResponse @Chance75(AVPositions)
+get on all four, ass up @Goto(SkipPositions)
+(AVPositions)
+@RT(stand up, #KneelForMe, sit down) @Wait(10)
+@RT(hands behind your back, hands behind your head, arms open)
+(SkipPositions)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_CardGamePin]=[AV_CardGameLevel]Then(MissWin)
+@RT(continuing, next round) @Goto(CardStart)
+(SubWonA)
+@RT(Damn, Aww, #ExclaimFuck), you won @ChangeVar[AV_CardGameEdge]=[AV_CardGameEdge]+[1]
+#Edge @Edge
+#LetTheEdgeFade  @RapidCodeOn
+@NullResponse @If[AV_CardGameEdge]=[AV_CardGameLevel]Then(SubWin)
+@RT(continuing, next round) @Goto(CardStart)
+(EmpateA)
+A Tie!! 
+Nobody wins... @RapidCodeOn
+@NullResponse @Goto(CardStart)
+(SubWin)
+You won the game  @MoodBest
+Congratulations @RT(#SubName, #PetName), but remember, you still can be denied today...
+#SitDown and remove all clothespins... @Wait(20)
+@End
+(MissWin)
+I won
+Fun Time for me 
+Sit and remove all clothespins... @Goto(Puni1, Puni2, Puni3, Puni4)
+(Puni1)
+@NullResponse @Call(Custom\CallReturn\AV_Punish1.txt)
+@NullResponse 
+@End
+(Puni2)
+@NullResponse @Call(Custom\CallReturn\AV_Punish2.txt)
+@NullResponse 
+@End
+(Puni3)
+@NullResponse @Call(Custom\CallReturn\AV_Punish3.txt)
+@NullResponse 
+@End
+(Puni4)
+@NullResponse @Call(Custom\CallReturn\AV_PunishRND.txt, RNDPunish)
+@NullResponse 
+@End

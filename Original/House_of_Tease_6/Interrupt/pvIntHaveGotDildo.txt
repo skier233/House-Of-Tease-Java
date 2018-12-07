@@ -1,0 +1,40 @@
+@NullResponse @DeleteFlag(pvHGD)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@NullResponse @CheckFlag(pthevDildo)
+@NullResponse @CheckFlag(pthevAnalOther)
+So, you actually have a dildo now?
+[yes] That's great #EmoteHappy @SetFlag(pthevDildo)
+[no] Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+We can have so much fun with that #Grin
+@NullResponse @CheckFlag(pthevNoAnal)
+Make sure you keep it close @SetFlag(pthevAnal)
+@End
+(pthevDildo)
+Yes, I know #Name
+No need to remind me #Smile
+@End
+(pthevAnalOther)
+Really? You actually have a dildo now?
+[yes] That's great #EmoteHappy @DeleteFlag(pthevAnalOther) @SetFlag(pthevDildo)
+[no] Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+We can have so much fun with that #Grin
+@NullResponse @CheckFlag(pthevNoAnal)
+Make sure you keep it close @SetFlag(pthevAnal)
+@End
+(pthevNoAnal)
+But... I thought you weren't into anal
+Are you saying that you <i>are</i> into anal play now?
+[yes] Good #Smile @DeleteFlag(pthevNoAnal) @SetFlag(pthevAnal)
+[no] Okay, but in that case you don't really need a dildo @Goto(misunderstood)
+@DifferentAnswer #YesOrNo
+Make sure to keep that toy close, #Name
+You're going to need it sooner or later...
+@End
+(mis understood)
+I must have misunderstood then
+@End

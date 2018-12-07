@@ -1,0 +1,56 @@
+@RT(#PetName, #SubName)
+@RT(I want to know some more things about you, I want to know more about you, I want to get to know you better, I'm curious about you)
+@NotFlag(AV_Pergunta01) @NullResponse @Goto(P01)
+@NotFlag(AV_Pergunta02) @NullResponse @Goto(P02)
+@NotFlag(AV_Pergunta03) @NullResponse @Goto(P03)
+@NotFlag(AV_Pergunta04) @NullResponse @Goto(P04)
+@NullResponse @Goto(AllDone37)
+(P01)
+When was the first time you called someone Mistress? @InputVar[AV_Perg01]
+#AV_Inter
+When was the first time you were called slave, #PetName, etc...? @InputVar[AV_Perg02]
+#AV_Inter
+What is your most embarrassing moment ever? @InputVar[AV_Perg03]
+#AV_Inter
+#ThatsEnough @SetFlag(AV_Pergunta01)
+@End
+(P02)
+What tends to feel better for you, sex or masturbation?
+[sex, real sex] I imagined that
+[masturbation, stroking, jerking] #Lol, so you are doing your favourite with me...
+@DifferentAnswer sex or masturbation #SubName?
+Your 5 favorite spots to be stimulated. @InputVar[AV_Perg04]
+#AV_Inter
+What's the most unusual thing you've done nude? @InputVar[AV_Perg05]
+#AV_Inter
+#ThatsEnough @SetFlag(AV_Pergunta02)
+@End
+(P03)
+Have you ever had sex/masturbated while somebody was sleeping near you?
+[yes] Kinky!!
+[no] Very risky, right?
+@DifferentAnswer #YesorNo #SubName?
+Age you started masturbating? @InputVar[AV_Perg06]
+#AV_Inter
+How did you discover/learn about it? @InputVar[AV_Perg07]
+#AV_Inter
+#ThatsEnough @SetFlag(AV_Pergunta03)
+@End
+(P04)
+Have you ever given/received a footjob, boobjob, etc.?
+[yes] Aww...I will not be your first
+[no] You don't? 
+@DifferentAnswer #YesorNo #SubName?
+Have you ever been caught masturbating/having sex?
+[yes] Ouch #Lol
+[no] lucky you, I was once #EmoteSmile
+@DifferentAnswer #YesorNo #SubName?
+Have you ever used a homemade sex toy, or a regular object as a sex toy?
+[yes] Kinky!!
+[no] Boooring #EmoteSmile
+@DifferentAnswer #YesorNo #SubName?
+#ThatsEnough @SetFlag(AV_Pergunta04)
+@End
+(AllDone37)
+@NullResponse
+@End

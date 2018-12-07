@@ -1,0 +1,10 @@
+@DommeLevel(1) Give me 5 more smacks on both cheeks
+@DommeLevel(1) Give me 10 more smacks on both cheeks
+@DommeLevel(2) Give me 15 more smacks on both cheeks
+@DommeLevel(2) Give me 20 more smacks on both cheeks
+@DommeLevel(3) Give me 20 more smacks on both cheeks
+@DommeLevel(3) Give me 25 more smacks on both cheeks
+@DommeLevel(4) Give me 25 more smacks on both cheeks
+@DommeLevel(4) Give me 30 more smacks on both cheeks
+@DommeLevel(5) Give me 30 more smacks on both cheeks
+@DommeLevel(5) Give me 50 more smacks on both cheeks

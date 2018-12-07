@@ -1,0 +1,335 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral18_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral18]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral18_NotFirstTime)
+(AV_ModGeneral18_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral18]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral18]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral18]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral18]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral18]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral18]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral18]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral18]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral18]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral18]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral18]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral18]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral18]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral18]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral18]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral18]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral18]=[AV_ModGeneral18]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral18]=[AV_ModGeneral18]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral18]=[AV_ModGeneral18]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral18]=[AV_ModGeneral18]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral18]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+Hey, want to see a cool trick? 
+Put your hand on your dick for a second. 
+Just rub it a little. 
+That's good. You're my slave. 
+@NotFlag(AV_DommeMistress) Oh! No, no, I know you're not. 
+@Flag(AV_DommeMistress) Oh! I know you are. 
+But that's the trick, did you feel how it didn't sound wrong right away? 
+@NotFlag(AV_DommeMistress) You had to think about it for half a second.
+@Flag(AV_DommeMistress) You hadn't to think about it for half a second.
+See, when I tell you to do stuff, put ideas in your head
+that get you turned on, you start just taking in what I say. 
+The more turned on you get, you think less with your brain and more with your penis. 
+The more favors I do for your penis, the more favors it does for me. 
+Oh, does it turn you on when I talk about that stuff? 
+About your hard cock, throbbing for me? 
+Oops! Well, how about a little test? 
+Take it out and start stroking @PlayAudio[tease\cStroke.mp3] 
+Yeah, you @RT(have to do it, can't help it)! 
+You know I'm getting in your head, but I'm already in your head
+so it's like, what's the difference? 
+I mean, I'm going to get you addicted, yeah keep stroking, get you addicted
+@NotFlag(av_fetish_rough) make you SO weak and keep you coming back for more
+@Flag(av_fetish_rough) make you SO stupid and weak and keep you coming back for more
+keeeeep stroking, but what's the difference? 
+Stroke and don't worry about it. 
+Up and down and up and down 
+@NotFlag(av_fetish_rough) and sooo aroused and gullible and turned 
+@Flag(av_fetish_rough) and sooo dumb and aroused and gullible and turned 
+Keep stroking
+Imagine a room full of balloons, up to the top, that's your brain. 
+Each balloon is a thought of yours. Each stroke pops one. 
+Keep going, pop pop pop. 
+Pop eeeeeach and every one
+Feels too good to stop. 
+Up, down, pop, pop. Oooh, here's a balloon that says 'don't trust her,' let's pop that one. 
+Here's one that says '@RT(don't be her slave, don't get addicted to this).' Pop it now.
+Oh, wow! The room's empty! Just me here now.
+Well, that won't do. 
+Here, I'll just write some stuff on the walls with chalk. S-l-a-v-e, slave, that's good. 
+And I'll write this out, 'you. are. addicted. to. her.' 
+So now you know your name, it's "Slave" and your primary motivating factor: me! 
+Some more balloons might get in here eventually, but you'll still be able to read this stuff. 
+It's more important.
+Oh, hey, you're still stroking! 
+You alread took all your own thoughts away, dummy! 
+Well, here, I'll write one more thing for you. ' #AV_RepeatAL '
+Yeah, that should do it!
+Well, I guess I'll let you edge, now. 
+#Edge @Edge
+Goooood slave. A slave obeys. 
+See! Wasn't that a cool trick!
+@End
+(Modulo2)
+#SubName
+Now we will have a little dice game
+We will start with one single dice and move our way forward
+Which means, you and your hand will be moving, while i am watching #EmoteHappy
+So lets start right away with one dice 
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 6), 10, 100)
+Oh this was a great warm up for now, wasnt it ?
+I bet wou will like the game with 2 dices #EmoteHappy
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 6), 10, 100)
+#GNMCheerEdgeATon
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 6), 10, 100)
+I am sure you dont mind if we try another round, do you?
+[yes] thats great #PetName @Goto(DiceLater)
+[no] Oh so you are already finished for now, thats too bad
+@DifferentAnswer #YesorNo
+@End
+(DiceLater)
+But I will give you some time to recover... @BookmarkModule
+@End
+Back to our little dice game
+Since you finished stage 2 i guess its time for the masterclass.
+I dont think you will survive this stage #EmoteHappy
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 6), 10, 100)
+#GNMCheerEdgeATon
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 6), 10, 100)
+#GNMCheerEdgeATon
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 6), 10, 100)
+Now we are done for now #EmoteHappy
+@End
+(Modulo3)
+Now be a good boy and let go of your cock.
+You are nervous aren't you #SubName? 
+Don't be, I won't hurt you.
+@Flag(av_fetish_pain) too much ** #Laugh **
+Hands behind your back, now #PetName
+So, you can be a good boy after all?
+You are getting what you want from me
+I intend to get what I want too. 
+Touch yourself #SubName, wank it for me. @PlayAudio[tease\cStroke.mp3] 
+What do you want from your mistress?
+Good boy. As long as you continue to be so responsive and obedient...
+I may just have a little treat for you once I've finished playing
+Now I'm going to test your self-control. 
+You have done very well so far, but now we're going to see how well your training has sunk in.
+Stroke! Faster! I want you  to feel a breeze on your face as you work that cock.
+You fucking love this don't you, my little toy? 
+Now edge. I want to see precum. Edge until I get what I want. @PlayAudio[tease\cEdge.mp3] @Edge
+Awwwww, you poor thing! 
+You did sooo well to hold your cummies in your balls. 
+Well done, #PetName. 
+You know what? You really are amusing me! Well done you!
+But do you know what would really entertain me?
+I can't wipe this smile off my face at the thought...
+...of you hurting your own balls for me.
+@Flag(av_fetish_pain) Would you do that for me, pet? For your Mistress?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+@Flag(av_fetish_pain) @NullResponse @Goto(AV_Pain)
+@NotFlag(av_fetish_pain) Would you do that for me, pet? For your Mistress? 
+[yes] #Good
+[no] No? In this case #KneelForMe @Goto(AV_SP)
+@DifferentAnswer #YesorNo #SubName?
+(AV_Pain)
+You have done such a good job of entertaining me 
+Awww! I'm such a mean little princess, aren't I? But you love me all the more for that, don't you pet?
+Now go get a ruler. @Wait(20)
+#KneelForMe
+and let the show begin!
+I'm nice and comfy, and looking forward to this so much that I'm starting to moisten. @TempFlag(av_intera_016)
+Now smack your balls with that ruler, while you stare at me. @PlayAudio[tease\whip.mp3]
+Don't you dare look up, and don't stop slapping your balls until I say so...
+First the left nut, then your right. 
+Left-right-left-right-left-right... good little soldier! 
+Keep on slapping them for me
+Harder! I wanna hear it SLAP!
+That's better.
+Now concentrate on your left nut
+slap it five times, and make sure I can hear it SLAP each time. @PlayAudio[tease\whip.mp3] 
+If any of your strikes don't SLAP nicely, start the slaps again.
+Now the right nut. Five more SLAPS, please! @PlayAudio[tease\whip.mp3]
+Now ten SLAPS to the left. @PlayAudio[tease\whip.mp3]
+Remember, If any of your strikes don't SLAP nice and loud, start the slaps again.
+Now ten for your right nut. Nice. @PlayAudio[tease\whip.mp3]
+Awwwww... is that a tear in your eye?  @DeleteFlag(av_intera_016)
+Does that hurt your little balls? 
+Good. This is getting me wet.
+(AV_SP)
+#StartStroking
+And you know what I want when I get wet, don't you slave....
+Hmmm, you're doing a pretty good job, #PetName.
+But, while I'm no longer bored, I am getting horny
+But I want to see you edge for me again. 
+#Edge @Edge @MultipleEdges( #Random(2, 3), 10, 100)
+Hmmm, you're just dripping precum now, my love. 
+You must be soooo close now...
+Which makes it all the more amusing for me! Stand up now. @Wait(15)
+This is great 
+you are soooo horny, aren't you my love?
+Good! Now, let's get you even hornier
+#Edge and thank me. @EdgeNoHold
+Ohhhh, you're just streaming precum baby! 
+Is this making you all horny and desperate, my love? 
+Awwwwww, poor little toy! 
+#SitDown
+@End
+(Modulo4)
+I know what you @RT(want, need).
+But I don't do it just for you.  
+Your desire for it makes me so... fucking ...wet.
+Go ahead, say it baby, tell me what you want. @Timeout(15, AV_Timeo84)
+[fuck me, anal, strapon] You really are a little @RT(bitch, slut), don't you? #EmoteHappy @Goto(AV_Spe_Anal)
+[cbt, hurt me, spank, beat] You really are a @RT(painslave, slutpain, masochist), don't you? @Goto(AV_Spe_CBT)
+@DifferentAnswer Tell me what you want, #SubName
+(AV_Timeo84)
+Your poor dick
+You haven't even touched it.
+Let's get it nice and ready for me.
+#StartStroking
+I want you to work up a nice big load for me. @Wait( #Random(10, 20))
+@NullResponse @Goto(SpePartFinal)
+(AV_Spe_CBT)
+you need lube for that one @Wait(30)
+You're going to use this lube and massage your balls. @Wait(25)
+You dont love feeling the weight of them in your hand?
+Squeeze them gently. @Wait(15)
+I know you would like feeling my nails scratch lightly against them.
+Stop now, let's work that #Balls for real now.
+@NullResponse @CBTBalls
+@Flag(AV_DommeMistress, av_fetish_pain) @NullResponse @CBTBalls
+@NullResponse @Goto(SpePart2cbt)
+(AV_Spe_Anal)
+Get your toy, or use your finger, but you need lube @Wait(30)
+all I am offering right now is to take this glistening dick...and slide it right into your ass.
+Are you afraid I'll see in your eyes how badly you want me to push my strapon into you? @Timeout(5, AV_Timeo69)
+[yes] I will be gentle....maybe #EmoteHappy
+[no] #Good  @MoodUp
+@DifferentAnswer #YesorNo
+(AV_Timeo69)
+Well, your leaking cock sort of gives it away.
+Tell me how much you want it, baby.
+Tell me you want my cock.
+Lube your ass for me @Wait(20)
+Mmmmmm, that's it.  I'm going to give it you.  
+Are you ready for @RT(it, me to fill your ass)?
+Mmmm, there you go, honey, shhhhh. Fuck your ass for me... @Wait(20)
+It's ok.  That's all of it.  
+leave it right there for you to get used to.
+Relax baby, I'm giving you exactly what you need.  
+I'll only give you exactly what you ask for.
+@NullResponse @Goto(SpePart2anal)
+(SpePart2cbt)
+Your poor dick
+You haven't even touched it.
+Let's get it nice and ready for me.
+#StartStroking
+I want you to work up a nice big load for me. @Wait( #Random(10, 20))
+@NullResponse @Goto(SpePart3cbt)
+(SpePart2anal)
+Your poor dick
+You haven't even touched it.
+Let's get it nice and ready for me.
+#StartStroking
+I want you to work up a nice big load for me. @Wait( #Random(10, 20))
+@NullResponse @Goto(SpePart3anal)
+(SpePart3cbt)
+So @RT(what will it be honey, What can I do for you)?
+Hmm?  I can't quite hear you.
+Mmmm,  "please burst my balls?"  As you wish.
+Slap your #Balls @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+Yeah?  Just, like that?  @Wait( #Random(10, 20))
+You want to keep beating your balls just ...like ...this? 
+Go ahead...  @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+You needed this, didn't you? @Wait( #Random(10, 20))
+@NullResponse @Goto(SpePartFinal)
+(SpePart3anal)
+So @RT(what will it be honey, What can I do for you)?
+Hmm?  I can't quite hear you.
+Mmmm,  "please fuck you?"  As you wish.
+Start fucking that ass
+Yeah?  Just, like that?  @Wait( #Random(10, 20))
+You want to keep fucking your ass just ...like ...this? 
+You needed that big dick in your ass, didn't you? @Wait( #Random(10, 20))
+@NullResponse @Goto(SpePartFinal)
+(SpePartFinal)
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@RT(Ah ah ah. Not yet, Shhhhh. Not yet) 
+Aww you poor whimpering mess.  
+Your cock is trying to cum, I can see it.  
+But nothing's coming out.  
+Not yet.  
+If I let you cum, what are you going do for me, hmm?
+@NotFlag(av_fetish_cei) @NullResponse @Goto(SkipCEI2)
+If you want me to make you cum, you need to promise to clean up your mess. 
+Promise me you'll lick up every drop
+What do you say?
+[yes] @RT(Imagine licking your warm thick cum off my nipples while you bury your cock in my cunt, It's going to feel so good. Say it. Promise me). @TempFlag(AV_EatCum)
+[no] Sww...no fun 
+@DifferentAnswer #YesorNo #SubName?
+(SkipCEI2)
+Enough for now...
+Go clean yourself...you have 1 minute @Wait(60)
+All clean? #Lol
+@End

@@ -1,0 +1,13 @@
+@NullResponse @Goto(G1, G2, G3)
+(G1)
+@Contact1 #RelaxAndBreathe @Wait(30)
+@Contact1 #StartStroking @StartStroking
+@End
+(G2)
+@Contact2 #RelaxAndBreathe @Wait(30)
+@Contact2 #StartStroking @StartStroking
+@End
+(G3)
+@Contact3 #RelaxAndBreathe @Wait(30) 
+@Contact3 #StartStroking @StartStroking
+@End

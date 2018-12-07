@@ -1,0 +1,378 @@
+@NullResponse @CheckFlag(Contact1_unit,Contact1_unit1)
+I hope you dont mind that she will join us today #EmoteLaugh @AddContact1
+Look whos here
+@Contact1 Hello #ShortName!
+@Contact1 Hi #SubName
+@Contact1 #ShortName told me many things about you #SubName #Grin
+@Contact1 She said that you are able to stroke your #Cock for hours #EmoteMoan
+Did I really tell you that #Contact1? #EmoteHer
+@Contact1 YES you did #ShortName #EmoteLaugh
+@Contact1 Anyway I was so aroused in getting the chance to test you on my own #PetName #EmoteBreath
+@Contact1 And now we are both here. #EmoteMoan
+@Contact1 Its kind of weird
+@Contact1 What about some warming up?
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(3, 5)
+@Contact1 I never did that before.
+@Contact1 When #ShortName told me about you, I couldnt get you out of my mind.
+@Contact1 I was thinking about you nearly every day
+@Contact1 Just the thought of making you edge, over and over again, gets me totally wet
+@Contact1 Thinking of you
+@Contact1 stroking your hard #Cock at full speed for me
+@Contact1 moaning my name out loud, while stroking for me in your chair
+@Contact1 #SubName the imagination of your dripping #Cock makes me vibrating here
+@Contact1 I am all soaking wet, so lets get to the funny part @SetFlag(Contact1_unit)
+Looks like its getting funny, so i am sneaking outta here @RemoveDomme
+@Contact1 #SubName are you still dressed?
+[yes] @Contact1 this will cost you at least 10 edges extra @SetVar[EdgesAdd]=[10] @Goto(Sub_undress)
+[no] @Contact1 Thats a good boy!!! So we can move on
+@DifferentAnswer @Contact1 What should i do with this answer?
+@Contact1 So please get in wanking position and
+@Contact1 Tell me when you are ready to get started!
+@Contact1 so lets start @Goto(Sub_hard)
+(Contact1_unit)
+@NullResponse @AddContact1
+Hello again #Contact1
+Nice to have you back
+@Contact1 Thx #ShortName
+@Contact1 I really enjoyed my last lesson with #SubName
+@Contact1 He did a pretty good job :-)
+Thats good to hear #Contact1, hope you will have lots of fun today with him
+Will take me a while to get back here, so you have nearly the whole day with him #Lol
+@Contact1 Oh that sounds good to me #ShortName
+@Contact1 I havent planned anything else, than making #PetName edge #EmoteLaugh
+Thats a great idea, so i am already out of here, bye bye @RemoveDomme
+@Contact1 Speaking of edges
+@Contact1 For warmup give me some edge @EdgeNoHold @MultipleEdges(4, 15)
+@Contact1 I am sure we will have fun again @SetFlag(Contact1_unit1)
+@Contact1 #SubName are you still dressed?
+[yes] @Contact1 this will cost you at least 10 edges extra @SetVar[EdgesAdd]=[10] @Goto(Sub_undress)
+[no] @Contact1 Thats a good boy!!! So we can move on
+@DifferentAnswer @Contact1 What should i do with this answer?
+@Contact1 So please get in wanking position
+@Contact1 Tell me when you are ready to get started!
+[ready,ok,yes] @Contact1 so lets start @Goto(Sub_hard)
+(Contact1_unit1)
+@NullResponse @AddContact1
+Hey #Contact1, nice to see you
+How are you today?
+@Contact1 Thank #ShortName, everything is fine.
+@Contact1 And what about you?
+Also fine, and thank you, that you take care of #SubName again.
+I have a lot of things to get done, so i will just fly and leave you all alone.
+We will chat later, when i get back. See you.
+@Contact1 Ok #ShortName, see you later
+@RemoveDomme
+@Contact1 Now we are all alone again #SubName.
+@Contact1 I really enjoy making you squirm and ache for me #PetName
+@Contact1 Now i understand what #ShortName likes that much on you.
+@Contact1 It is really funny to see your #Cock #Ache.
+@Contact1 But as you know, to get an aching #Cock, you need to #Stroke a lot.
+@Contact1 And i am sure you that you already realised, that this is going to happen right now #Smile
+@Contact1 The only things that needs to be cleared are
+@Contact1 Naked ? 
+[no] @Contact1 You know what that means, dont you? 20 edges extra @SetVar[EdgesAdd]=[20]
+[yes] @Contact1 Well prepared #PetName
+@DifferentAnswer try again
+@Contact1 And the second thing is
+@Contact1 Hard ?
+[no] @Contact1 Do i really need to tell you again? Another 20 edges extra @Goto(Sub_hard)
+[yes] @Contact1 Well prepared #PetName
+@DifferentAnswer Try again
+@Contact1 I think we can get things going now @Wait(30)
+@NullResponse @Goto(Sub_decision)
+(Sub_undress)
+@Contact1 Ok then, lets get rid of this useless clothes.
+@Contact1 I want you bare naked and ready to serve.
+@Contact1 I hope i dont need to tell you that you just have 1 minute to be ready @Wait(40)
+@Contact1 AWWW too bad, you didnt make it in time, which gives another 20 edges extra @ChangeVar[EdgesAdd]=[EdgesAdd]+[20]
+@Contact1 Now you should be naked and sitting in your chair.
+(Sub_hard)
+@Contact1 but is your cock hard already ?
+[yes] @Contact1 OK then stand up and present your #Cock to me now and be ready to worship me @Goto(Sub_decision)
+[no] @Contact1 this brings up another 20 edges extra
+@DifferentAnswer @Contact1 What should i do with this answer? @LoopAnswer
+(EdgesAdd)
+@Contact1 Seems you picked up some extra work @ChangeVar[EdgesAdd]=[EdgesAdd]+[20]
+@Contact1 Fine #EmoteLaugh
+@Contact1 Do you need some help to get hard?
+[yes] @NullResponse @Goto(Sub_help)
+[no] @NullResponse @Goto(Sub_decision)
+@DifferentAnswer Try again
+(Sub_help)
+@Contact1 I hope this video will help to get your #Cock hard
+@PlayVideo
+@Contact1 I expect that you are hard now so
+@Contact1 Tell me when you are ready to get to serious stroking!
+[ready,ok,yes] @Contact1 Ok then lets get to work @Goto(Sub_decision)
+[no] @Contact1 Then you get another chance @Goto(Sub_help)
+@DifferentAnswer @Contact1 ???
+(Sub_decision)
+@Contact1 So what are we going to do today #SubName?
+@Contact1 What if I let decide YOU ?
+@Contact1 I think I will give you 3 options
+@Contact1 Some edges?
+@Contact1 A few ruined orgasms?
+@Contact1 Or CBT and ballbusting?
+@Contact1 So whats your favourite?
+[edges, 1] @Contact1 @Goto(Sub_edges)
+[ruin, 2] @Contact1 @Goto(Sub_ruin)
+[CBT, 3] @Contact1 @Goto(Sub_cbt)
+@DifferentAnswer Thats not what I wanted to hear, try again
+(Sub_edges)
+@Contact1 Thats what I like on you #SubName
+@Contact1 Your unbroken will to serve me with all that edges
+@Contact1 So lets find out what we have to deal with :-)
+@Contact1 For this purpose I have brought a special dice #Lol
+@Contact1 A 20-sided dice, which I am going to use for this
+@NullResponse @SetVar[Sub_EdgeGoal]=[#Random(1,20)]
+@Contact1 The dice tells me @ShowVar[Sub_EdgeGoal]
+@Contact1 So far, so good
+@Contact1 And now let the fate decide the multiplier for us #Lol
+@NullResponse @If[Sub_EdgeGoal]<=[5]Then(Change_var)
+@Contact1 Its not really what I wanted, but I have to deal with it @Goto(ExtraEdges)
+(Change_var)
+@ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]*[#Random(2,3)]
+@Contact1 So fate decided
+@Contact1 that you have to do @ShowVar[Sub_EdgeGoal] edges for me tonight #PetName
+(ExtraEdges)
+@Contact1 Lets have a look, if you had some extra edges :-)
+@Contact1 @ShowVar[EdgesAdd]
+@Contact1 As you remember, you were not really prepared and picked up some extra edges
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]+[EdgesAdd]
+@Contact1 So we end up with @ShowVar[Sub_EdgeGoal] in total for #GeneralTime
+@Contact1 Sounds good to me #SubName
+@Contact1 But what about you?
+[its ok, good, fine] @Contact1 Just what I have thought :-) @Goto(Start_Session)
+[not good, too much, no good, dont like, no] @Contact1 Did i really hear that?
+@DifferentAnswer ...
+@Contact1 So you think thats too much for you?
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(2, 10)
+@Contact1 Hmmm in fact that you dont want to do that much edges for me, i think it is necessary to explain you, who makes the rules here.
+@Contact1 And that you have to learn it from the beginning, i will not be that easy on you this time
+@NullResponse @SetVar[Sub_EdgesAdd]=[#Random(10, 15)]
+@Contact1 I decided that i increase your edge-account with @ShowVar[Sub_EdgesAdd] edges
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]+[Sub_EdgesAdd]
+@Contact1 Next time i think i will not be that kind to you !
+@Contact1 Which means you have to do @ShowVar[Sub_EdgeGoal] edges for me now!
+@Contact1 And be sure that you will do them all!
+@Contact1 So you better think of your answers before!
+(Start_Session)
+@Contact1 Seems we have some serious work to do for YOU #Grin
+@Contact1 What are we waiting for?
+@Contact1 I'm going to show you some pictures I found online
+@NullResponse @SetVar[Edge_Count]=[0]
+@Contact1 And when I think I have a really good one
+@Contact1 I'll let you edge to it #Grin
+@Contact1 When you reached your Edge goal, we can move on @TempFlag(av_intera_017)
+@Contact1 Get ready #PetName @LockImages
+(Show_Image)
+@NullResponse @ShowBlogImage @Chance75(Show_Image)
+@Contact1 I want you to edge for this one #PetName
+@Contact1 Get close for me right now @Edge @PlayAudio[tease\cEdge.mp3]
+@Contact1 Just sit back and relax @UnlockImages @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Edge_Count]=[Sub_EdgeGoal]Then(Edge_Goal_Met)
+@Contact1 Let yourself calm down as much as you can @ChangeVar[EdgeRemaining]=[Sub_EdgeGoal]-[Edge_Count]
+@Contact1 You still have @ShowVar[EdgeRemaining] edges to go #Grin
+@Nullresponse @Goto(Rocket_man,Edge_loop,Show_Image)
+(Rocket_man)
+@Contact1 Lets make a little exciting countdown to get the rocket up
+@Contact1 #SubName, edge on 0
+@NullResponse @RapidTextOn
+@Contact1 10
+@Contact1 9
+@Contact1 8
+@Contact1 7
+@Contact1 6
+@Contact1 5
+@Contact1 4
+@Contact1 3
+@Contact1 2
+@Contact1 1
+@Contact1 EDGE! @Edge @PlayAudio[tease\cEdge.mp3]
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1] @RapidTextOff
+@NullResponse @If[Edge_Count]=[Sub_EdgeGoal]Then(Edge_Goal_Met)
+@Contact1 #Var[Sub_EdgeGoal] dripping edges to go for you #SubName
+@Nullresponse @Goto(Rocket_man,Edge_loop,Show_Image,Loop_no_hold,Loop_no_hold1,Loop_no_hold2,Loop_no_hold3,Loop_no_hold4,Loop_no_hold5)
+(Edge_loop)
+@Contact1 @DommeTag(Face,Sideview) Still ok for you?
+@Contact1 Do you need a break?
+[yes] @Contact1 Then take a short break @RapidTextOn @Goto(Break)
+[no] @Contact1 I hope, you know what you are doing @RapidTextOn @Goto(Rocket_man,Loop_no_hold,Loop_no_hold1,Loop_no_hold2,Loop_no_hold3,Loop_no_hold4,Loop_no_hold5)
+@DifferentAnswer @Contact1 ..
+(Loop_no_hold)
+@NullResponse @RapidTextOff @Edge @PlayAudio[tease\cEdge.mp3]
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Sub_EdgeGoal]=[0]Then(Edge_Goal_Met)
+@Contact1 Wanna try some more?
+[yes] @Contact1 @RapidTextOn @Goto(Rocket_man,Loop_no_hold1,Loop_no_hold2,Loop_no_hold3,Loop_no_hold4,Loop_no_hold5)
+[no] @Contact1 Ok then immediately stop stroking @RapidTextOn @Goto(Break)
+@DifferentAnswer @Contact1 Thats fine
+(Loop_no_hold1)
+@NullResponse @RapidTextOff @Edge @PlayAudio[tease\cEdge.mp3]
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Sub_EdgeGoal]=[0]Then(Edge_Goal_Met)
+@Contact1 Still #Var[Sub_EdgeGoal] edges to go
+@Contact1 Another one?
+[yes] @Contact1 @RapidTextOn @Goto(Rocket_man,Loop_no_hold,Loop_no_hold2,Loop_no_hold3,Loop_no_hold4,Loop_no_hold5)
+[no] @Contact1 Ok then immediately stop stroking @RapidTextOn @Goto(Break)
+@DifferentAnswer @Contact1 Thats fine
+(Loop_no_hold2)
+@NullResponse @RapidTextOff @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Sub_EdgeGoal]=[0]Then(Edge_Goal_Met)
+@Contact1 One more possible?
+[yes] @Contact1 @RapidTextOn @Goto(Rocket_man,Loop_no_hold,Loop_no_hold1,Loop_no_hold3,Loop_no_hold4,Loop_no_hold5)
+[no] @Contact1 Ok then immediately stop stroking @RapidTextOn @Goto(Break)
+@DifferentAnswer @Contact1 Thats fine
+(Loop_no_hold3)
+@NullResponse @RapidTextOff @EdgeHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Sub_EdgeGoal]=[0]Then(Edge_Goal_Met)
+@Contact1 #Var[Sub_EdgeGoal] edges left on the countdown :-)
+@Contact1 Can you give me one more edge baby?
+[yes] @Contact1 @RapidTextOn @Goto(Rocket_man,Loop_no_hold,Loop_no_hold1,Loop_no_hold2,Loop_no_hold4,Loop_no_hold5)
+[no] @Contact1 Ok then immediately stop stroking @RapidTextOn @Goto(Break)
+@DifferentAnswer @Contact1 Thats fine
+(Loop_no_hold4)
+@NullResponse @RapidTextOff @Edge @PlayAudio[tease\cEdge.mp3]
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Sub_EdgeGoal]=[0]Then(Edge_Goal_Met)
+@Contact1 Oh baby, you look very frustrated.
+@Contact1 Looks like you need a break, dont you?
+[yes] @Contact1 I am NOT thinking that you need a break, so we simply move on with the next edge @RapidTextOn @Goto(Rocket_man,Loop_no_hold,Loop_no_hold1,Loop_no_hold2,Loop_no_hold3)
+[no] @Contact1 Fine so we can still continue edging @RapidTextOn @Goto(Rocket_man,Loop_no_hold,Loop_no_hold1,Loop_no_hold2,Loop_no_hold3)
+@DifferentAnswer @Contact1 Thats fine
+(Loop_no_hold5)
+@Contact1 Another slideshow for you comming up
+@Contact1 This YOU tell stop and then i will stop the show
+@Contact1 Here we go @TnAFastSlides
+[stop] @NullResponse @LockImages @CheckTnA
+@DifferentAnswer I'm going to keep going until you say stop
+(Boobs)
+#Edge @Edge
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Sub_EdgeGoal]=[0]Then(Edge_Goal_Met)
+@NullResponse @UnlockImages
+@NullResponse @Goto(Rocket_man,Loop_no_hold,Loop_no_hold1,Loop_no_hold2,Loop_no_hold3,Loop_no_hold4)
+(Butt)
+#Edge @Edge
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Sub_EdgeGoal]=[0]Then(Edge_Goal_Met)
+@Contact1 Nice picture by the way @UnlockImages
+@NullResponse @Goto(Rocket_man,Loop_no_hold,Loop_no_hold1,Loop_no_hold2,Loop_no_hold3,Loop_no_hold4)
+(Break)
+@NullResponse @RapidTextOff
+@Contact1 Just take a break without stroking
+@Contact1 Only watch this video and try to relax.
+@Contact1 Simply watch out, that your #Cock stays hard.
+@PlayVideo
+@Contact1 Ok your break is over
+@Contact1 But before we move on with working on your edgegoal, just give me one extra edge #Grin
+@NullResponse @RapidTextOff @Edge @PlayAudio[tease\cEdge.mp3]
+@NullResponse @Goto(Rocket_man,Edge_loop,Show_Image,Loop_no_hold, Loop_no_hold1, Loop_no_hold2, Loop_no_hold3,Loop_no_hold4)
+(Edge_Goal_Met)
+@Contact1 So you really did all that edges! @DeleteFlag(av_intera_017)
+@Contact1 Now i am very impressed #SubName
+@Contact1 I think thats enough for now @UnlockImages
+@NullResponse @AddDomme
+@NullResponse @RemoveContact1
+Let's get back to some teasing #Grin
+@End
+(Edge_Quicky)
+@Contact1 Looks like we just have a quicky today #EmoteSad
+@Contact1 I am sad that you were so lucky today and got just @Var[Sub_EdgeGoal] edges
+@Contact1 In my dreams there where numbers with three digits #EmoteSad
+@Contact1 Fate is treating me hard today
+@Contact1 so maybe I need to be extra rough on YOU for that? @DommeLevelUp
+@Contact1 Nevertheless lets bring this to an end
+@Contact1 #SubName @Edge to get warmed up! @PlayAudio[tease\cEdge.mp3]
+@Contact1 I'm going to show you some pictures I found online
+@NullResponse @SetVar[Edge_Count]=[0]
+@Contact1 And when I think I have a really good one @TempFlag(av_intera_017)
+@Contact1 I'll let you edge to it #Grin
+@Contact1 When I think you've edged enough, we can move on
+@Contact1 Get ready #PetName @LockImages
+(Show_Image1)
+@NullResponse @ShowBlogImage @Chance75(Show_Image1)
+@Contact1 I want you to edge for this one #PetName
+@Contact1 Get close for me right now @Edge @PlayAudio[tease\cEdge.mp3]
+@Contact1 Just sit back and relax @UnlockImages @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1]
+@NullResponse @If[Edge_Count]=[EdgeGoal_dice]Then(Edge_Goal_Met1)
+@Contact1 Let yourself calm down as much as you can @ChangeVar[EdgeRemaining]=[Sub_EdgeGoal]-[Edge_Count]
+@Contact1 You still have #Var[EdgeRemaining] to go #Grin
+@Nullresponse @Chance50(Rocket_man1) @Goto(Show_Image1)
+(Rocket_man1)
+@Contact1 Lets make a little exciting countdown to get the rocket up
+@Contact1 #SubName, edge on 0
+@NullResponse @RapidTextOn
+@Contact1 10
+@Contact1 9
+@Contact1 8
+@Contact1 7
+@Contact1 6
+@Contact1 5
+@Contact1 4
+@Contact1 3
+@Contact1 2
+@Contact1 1
+@Contact1 EDGE! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+@NullResponse @ChangeVar[Sub_EdgeGoal]=[Sub_EdgeGoal]-[1] @RapidTextOff
+@Contact1 #Var[Sub_EdgeGoal] dripping edges to go for you #SubName
+@Nullresponse @Goto(Show_Image)
+(Edge_Goal_Met1)
+@Contact1 So you really did all that edges! @DeleteFlag(av_intera_017)
+@Contact1 Now i am very impressed #SubName
+@Contact1 I think thats enough for now @UnlockImages
+@NullResponse @AddDomme
+@NullResponse @RemoveContact1
+Lets get back to some teasing #Grin @DeleteVar[Sub_EdgeGoal]
+@End
+(Sub_ruin)
+@Contact1 oh so you think you can give me at least 3 ruined loads? #EmoteMoan
+@NullResponse @SetVar[Cum_Count]=[0]
+@Contact1 Did you recognize that I was talking about MINIMUM 3 orgasms?
+@Contact1 So there could be 20 loads also if I use my 20 sided dice #Lol
+@Contact1 No no, Dont worry, I am not using this dice this time #EmoteLaugh
+@Contact1 its just the 10 sided one this time #Lol
+@Contact1 So lets see how often you will have to unload now :-)
+@NullResponse @SetVar[Sub_CumGoal]=[#Random(3,10)]
+@Contact1 Your fate tells me, that you have to do #Var[Sub_CumGoal] loads
+@Contact1 Pretty ambicious, dont you think?
+@Contact1 thats a lot of cum you have to produce tonight
+@Contact1 so your #Balls really need to be filled up a lot
+@Contact1 But dont worry, thats my job, #Lol
+@Contact1 And I am sure that I am pretty good at that :-)
+@Contact1 dont waste time
+@Contact1 Lets start off with our first edge to get warmed @EdgeNoHold
+@Contact1 As you can see i am not starting off to hard with you :-)
+@Contact1 But from now on, things are going to get exciting #EmoteMoan
+@Contact1 Actually you decided that you want this, so its not my fault #Lol
+@Contact1 you know what to do when you hear the beat right? @EdgeToRuin
+@NullResponse @If[Cum_Count]=[Sub_CumGoal]Then(Cum_Goal_Met)
+@NullResponse @ChangeVar[Sub_CumGoal]=[Sub_CumGoal]-[1]
+@Contact1 #Var[Sub_CumGoal] orgasms left to do for you #SubName
+(Cum_break)
+@Contact1 I will give you a short break to allow your #Balls to get filled up a bit again.
+@Contact1 Therefore sit and watch the next video, but dont touch your #Cock
+@Contact1 After the video, you will immediately get the chance to touch it again
+@Contact1 @PlayVideo
+@Contact1 Here you go @EdgeToRuin
+@Contact1 Just take some deep breath now @ChangeVar[Sub_CumGoal]=[Sub_CumGoal]-[1]
+@NullResponse @If[Sub_CumGoal]=[Cum_Count]Then(Cum_Goal_Met)
+@NullResponse @ChangeVar[CumRemaining]=[Sub_CumGoal]-[Cum_Count]
+@Contact1 #Var[Sub_CumGoal] orgasms left to do for you #SubName
+@NullResponse @Goto(Cum_break)
+(Cum_Goal_Met)
+@Contact1 So you really did all that orgasms!
+@Contact1 I think thats enough for now
+@NullResponse @AddDomme
+@NullResponse @RemoveContact1
+Lets get back to some teasing #Grin @DeleteVar[Sub_CumGoal]
+@End
+(Sub_cbt)
+@Contact1 Hmmm thats an awesome decision. I have some weird things in mind for that
+@NullResponse @CBT
+@Contact1 I think thats enough for now
+@NullResponse @AddDomme
+@NullResponse @RemoveContact1
+@End

@@ -1,0 +1,24 @@
+@NullResponse @Goto(1,2,3,4)
+(1)
+Slap yourself in the face with your free hand, #PetName
+Don't forget to keep stroking @Wait(5)
+Do it again, slap your face
+Good boy #Smile
+@End
+(2)
+Punch yourself in the balls, #PetName
+Make it hurt
+Keep stroking, I didn't say you could stop
+@End
+(3)
+Get on your knees, #PetName
+Don't forget to keep stroking
+Slap yourself in the face with your free hand @Wait(5)
+Harder, #PetName
+Now say: I'm sorry, #DomHonorific @Wait(5)
+Get up off your knees
+@End
+(4)
+I'm going to bust your #Balls @DommeLevelUp
+But don't you dare stop stroking, #PetName @CBTBalls
+@End

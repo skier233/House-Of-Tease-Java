@@ -1,0 +1,27 @@
+@NullResponse @Goto(01, 02, 03)
+(01)
+Are you having trouble keeping up #SubName?
+[yes] No problem #Smile @Goto(no problem)
+[no] Oh good #Smile
+@DifferentAnswer #YesOrNo
+Then we can continue
+@End
+(02)
+C'mon #PetName, you're only supposed to edge when I say so
+For example, when I say...
+#Edge @EdgeNoHold
+That wasn't so hard, was it?
+Just try to keep away from the edge until I want you to
+Or I might have to punish you...
+Actually, that sounds like fun too #Laugh
+@End
+(03)
+You didn't have permission to edge, #Name
+I guess you're enjoying yourself a little too much #EmoteWink
+@CockTorture @NullResponse @CBTCock
+Are you going to be able to control yourself from now on?
+[yes] Good #Smile
+[no] Well, you better try #PetName
+@DifferentAnswer #YesOrNo
+This might turn into an unpleasant session otherwise #Laugh
+@End

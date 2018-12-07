@@ -1,0 +1,31 @@
+@NullResponse @CheckFlag(Working) @SetFlag(Working) @Chance30(2)
+Sorry #Name, I'm working right now
+Keep your hands off of #Yourself until I get home, okay? #EmoteHappy
+I'll talk to you later #Name @Interrupt(TSDayReset) 
+@End 
+(Working)
+I told you I was working #Name
+Try me later #Name 
+<i>No touching</i> @Interrupt(TSDayReset) 
+@End 
+(2)
+Hey #Name, I'm at work right now
+But that's no reason you can't #Ache for me a #Little
+I want you to watch some sexy videos for me @Chance30(20) @Chance30(21)
+Just don't touch yourself while you watching them #Smile 
+I'll make you a deal #Smile
+I'll think about you doing it a lot while I'm working
+And I won't touch myself either until you say hi to me this evening #Smile @Goto(Con2)
+(20)
+Give me a couple really good rounds of worship strokes
+#Thinking about that will have me all nice and wet by the time you say hi to me this evening #Smile @Goto(Con2)
+(21)
+Actually I want you to watch 3 videos #Smile
+No stroking at all for the first one
+You can worship stroke through the second one
+And then you can edge once for the last one
+After you edge, no touching #Smile
+(Con2)
+Gotta go #Name
+Have fun #Smile @Interrupt(TSDayReset)
+@End 

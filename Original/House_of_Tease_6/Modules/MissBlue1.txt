@@ -1,0 +1,1135 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModMissBlue1_NotFirstTime)
+@NullResponse @SetVar[AV_ModMissBlue1]=[0] 
+@NullResponse @SetFlag(AV_ModMissBlue1_NotFirstTime)
+(AV_ModMissBlue1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModMissBlue1]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModMissBlue1]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModMissBlue1]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModMissBlue1]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModMissBlue1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModMissBlue1]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModMissBlue1]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModMissBlue1]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModMissBlue1]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModMissBlue1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModMissBlue1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModMissBlue1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModMissBlue1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModMissBlue1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModMissBlue1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModMissBlue1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModMissBlue1]=[AV_ModMissBlue1]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModMissBlue1]=[AV_ModMissBlue1]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModMissBlue1]=[AV_ModMissBlue1]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModMissBlue1]=[AV_ModMissBlue1]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModMissBlue1]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+#StopStroking @StopStroking 
+@NullResponse @CheckFlag(pthevMod2X)
+#Edge @Edge
+#LetTheEdgeFade @CheckFlag(pthevMod2A)
+I'll give you a moment to recover
+You'll need it #Grin @CheckFlag(pthevMod2B)
+In the mean time I'll give you something to look at @ShowHardcoreImage
+Wouldn't you love to slide your #Cock between those lips @ShowTaggedImage @TagLesbian @TagKissing
+That's not so nice of me is it... @ShowBlowjobImage
+I give you a moment to recover, then show you all these hot images #Laugh
+Recovering is overrated anyway, #Name @CheckFlag(pthevMod2C)
+#Edge @EdgeHold
+#LetTheEdgeFade
+I wonder how many times you can do that
+Before you go completely insane @Chance50(edgeagain)
+I mean, at some point you'll probably just edge your brain away
+Do you want to find out? #Grin
+#Edge @EdgeHold
+Let that #Cock rest a little bit now
+Rub your #Balls 
+Feel how full and swollen they are
+So full of cum they could just burst
+Does if feel good to rub them?
+[yes] Good, keep rubbing them for me @Goto(edgeagain)
+[no] Maybe you'd rather stroke your #Cock again
+[hurt,hurts,hurting,painful,pain,aching,ache,sore] Aw poor you #Smile
+@DifferentAnswer #YesOrNo
+Squeeze your #Balls #PetName
+Harder! #Grin
+(edgeagain)
+#Edge @EdgeNoHold
+#LetTheEdgeFade @SetFlag(pthevMod2X)
+@End 
+(pthevMod2X)
+#Edge @Edge
+#LetTheEdgeFade
+I think you should do a couple more edges #Name @InterruptsOff
+A throw of the dice will determine how many @DeleteFlag(pthevBreakNormal) @TempFlag(pthevBreakEdging)
+Hold on a second @AFKOn @Wait(14)
+Alright found the dice #Smile @DeleteFlag(pthevMod2X) @SetFlag(pthevMod2A) @AFKOff
+Here we go... @Goto(1,2,3,4,4,5,5,6,6)
+(1)
+@NullResponse @InterruptsOn @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal)
+I threw a one #EmoteSad
+Well let's get it over with then, edge for me #Name @EdgeHold
+#LetTheEdgeFade
+At least I made the most out of that one edge #Grin
+@End
+(2)
+It's a two... #EmoteSad
+#Edge @EdgeHold
+#LetTheEdgeFade
+Don't get too comfortable #SubName, one more to go 
+#Edge @EdgeHold
+#LetTheEdgeFade
+Two edges can still be pretty intense
+@NullResponse @InterruptsOn @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal)
+@End
+(3)
+It's a three #SubName
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Two more to go...
+Edge again! @EdgeNoHold
+Relax #PetName only one more
+#Edge @EdgeHold
+#LetTheEdgeFade
+I bet you #Cock is aching pretty good right now #Smile
+@NullResponse @InterruptsOn @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal)
+@End
+(4)
+A four! That shouldn't be too much of a problem for a pro like you
+Lets get started #SubName, edge for me @EdgeNoHold
+Almost halfway #Laugh
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Don't get too comfortable now...
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+And the last one... edge #PetName @EdgeHold
+#LetTheEdgeFade
+Breath easy now, let your body relax
+Are you okay #SubName?
+[yes] Good #Smile
+[no] That was pretty intense wasn't it
+[intense,amazing,great] #Grin
+[mean,cruel,bitch] I know #PetName I know #Grin
+[aching,ache,hurts,hurting] You're doing great #PetName #Smile
+@AcceptAnswer You're doing great #PetName
+Maybe next time I'll "help" the dice a little 
+Too make it even harder for you #Grin
+@NullResponse @InterruptsOn @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal)
+@End
+(5)
+Oooh a five... make me proud #PetName #Smile
+Give me my first edge! @EdgeNoHold
+#LetTheEdgeFade
+If we do these quickly it'll just be like one very long edge
+#Edge @EdgeNoHold
+Relax and get ready #PetName @Wait(5)
+Edge for me again @EdgeNoHold
+That's three, only two more to go!
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+You're doing great, get ready for the last one
+#Edge @EdgeHold
+#LetTheEdgeFade
+Are you okay #SubName?
+[yes] Good #Smile
+[no] That was pretty intense wasn't it
+[intense,amazing,great] #Grin
+[mean,cruel,bitch] I know #PetName I know #Grin
+[aching,ache,hurts,hurting] You're doing great #PetName #Smile
+@AcceptAnswer You're doing great #PetName
+May next time I'll use two dice #Grin
+@NullResponse @InterruptsOn @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal)
+@End
+(6)
+Well, guess what #SubName
+I threw a six and I didn't even cheat!
+So let's begin, edge for me #Name @EdgeNoHold
+#LetTheEdgeFade
+You'll be aching so much at the end of this #Grin
+#Edge @EdgeNoHold
+#LetTheEdgeFade @Wait(10)
+#Edge @EdgeNoHold
+This is fun, maybe I should use more dice though...
+A maximum of six edges seems a bit easy
+#Edge @EdgeNoHold
+On the other hand, I don't want to completely ruin my toy
+Not in such a short time anyway #Grin
+Speaking of ruining things...
+I'm seriously considering making you ruining an orgasm after edge number 6
+Damn, was that last one number 4 or 5?
+[4,four,fourth] I think so too
+[5,five,fifth] Mmm I don't think so #Name
+@AcceptAnswer I think it was 4, that means 2 more to go
+#Edge @EdgeHold
+#LetTheEdgeFade
+Okay get ready for the last one
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+So I decided not to make you ruin it after all @Timeout(8,edgesenough)
+[thank you,thanks] You're welcome #Smile
+[too bad] #Laugh it could still happen of course...
+[please ruin,make me ruin,ruin it,love ruined,like ruined] #Laugh maybe later...
+@AcceptAnswer I was thinking more of a "thank you", but okay...
+(edgesenough)
+After all those edges I thought ruining it would have a bit much
+Like I said, I don't want to completely ruin my toy... yet #Grin
+@NullResponse @InterruptsOn @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal)
+@End
+(pthevMod2A)
+Time to do some edges #Name
+I've used dice before, but only one
+This time I want you to throw the dice yourself
+And I want you to use 2
+So go get a pair of dice tell me when you're ready
+[ready] Good. Now, you could cheat of course... @Goto(i trust you)
+[no,don't have, haven't got] Hmm, there are other ways to do this
+@DifferentAnswer Let me know when you're ready
+You can go to random.org/dice
+Or google "dice", I'm sure you can find something @Wait(10)
+Ready?
+[yes,ready] Good. Now, you could cheat of course... @Goto(i trust you)
+[no] God... just make sure you have a pair of dice next time, #PetName
+@DifferentAnswer #YesOrNo
+We'll just have to move on to something else I guess
+@End
+(i trust you)
+But I trust you to do exactly as instructed #Smile
+Okay #Name, throw the dice!
+What number did you get?
+[1,one] Very funny, what number did you really get? @LoopAnswer
+[2,two] Damn, lucky you... @SetVar[pthevMod2Aedges]=[2]
+[3,three] Only 3... it'll have to do @SetVar[pthevMod2Aedges]=[3]
+[4,four] Could be higher @SetVar[pthevMod2Aedges]=[4]
+[5,five] Okay then @SetVar[pthevMod2Aedges]=[5]
+[6,six] I'd be happier had it been one die  @SetVar[pthevMod2Aedges]=[6]
+[7,seven] Could be worse  @SetVar[pthevMod2Aedges]=[7]
+[8,eight] Not bad  @SetVar[pthevMod2Aedges]=[8]
+[9,nine] That's not bad  @SetVar[pthevMod2Aedges]=[9]
+[10,ten] Alright, double digits!  @SetVar[pthevMod2Aedges]=[10]
+[11,eleven] Alright, double digits!  @SetVar[pthevMod2Aedges]=[11]
+[12,twelve] That's what I like to see!  @SetVar[pthevMod2Aedges]=[12]
+@DifferentAnswer Seriously #SubName, what number?
+Let's get it over with #Smile  @DeleteFlag(pthevBreakNormal) @TempFlag(pthevBreakEdging) @InterruptsOff
+(back to the top)
+#Edge @Edge
+#LetTheEdgeFade @ChangeVar[pthevMod2Aedges]=[pthevMod2Aedges]-[1]
+@NullResponse @If[pthevMod2Aedges]=[0]Then(all edges done)
+#pthevMod02EdgesLeft
+@NullResponse @Goto(back to the top)
+(all edges done)
+That's all for now #Name @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal) @InterruptsOn
+Although to be honest, that was probably not your last edge #GeneralTime @DeleteFlag(pthevMod2A) @SetFlag(pthevMod2B)
+@End
+(pthevMod2B)
+Do you know what time it is?
+Time to bring out the dice and do some edges #Smile
+I think last time you used 2 dice, right? @Timeout(8,positive it was)
+[yes] I think you can probably guess what I'm going to say next @Goto(positive it was)
+[no] I'm pretty sure we used 2 dice last time, #PetName
+@DifferentAnswer #YesOrNo
+And since the time before that we used 1...
+(positive it was)
+This time we'll use 3 #Grin @DeleteFlag(pthevMod2B) @SetFlag(pthevMod2C)
+Are you up for it?
+[yes] I expected nothing else from you, #SubName #Smile
+[no] That was a rhetorical question, it's not up for debate
+@DifferentAnswer #YesOrNo
+So go get 3 dice, or go to random.org/dice or some other website
+And let's see how many edges you get 
+Ready?
+[yes,ready] #Grin @Goto(throw three dice)
+[no] Let me know when you are, I'll wait @LoopAnswer
+[don't,won't,can't,please,will not,not possible,impossible,not going] So, this is going to be a problem...
+@DifferentAnswer Are you ready?
+Are you going to get the dice, yes or no?
+[yes] Okay, good #Smile @Goto(throw three dice)
+[no] I'm disappointed #SubName
+@DifferentAnswer #YesOrNo
+And I'm going to take it out on your #Balls @CBTBalls
+@NullResponse @MiniScript(pvMs_PunishmentLight_NotStroking)
+Make sure next time you have 3 dice @MoodDown
+@End
+(throw three dice)
+Throw the dice!
+What number did you get?
+[1,one] Very funny, what number did you really get? @LoopAnswer
+[2,two] Right, with 3 dice... so what number did you really get? @LoopAnswer
+[3,three] What are the odds... #EmoteSad @SetVar[pthevMod2Aedges]=[3]
+[4,four] Meh... @SetVar[pthevMod2Aedges]=[4]
+[5,five] Meh... @SetVar[pthevMod2Aedges]=[5]
+[6,six] Six it is @SetVar[pthevMod2Aedges]=[6]
+[7,seven] Lucky seven! Lucky for you, that is... @SetVar[pthevMod2Aedges]=[7]
+[8,eight] Only 8... lucky you @SetVar[pthevMod2Aedges]=[8]
+[9,nine] That's not bad @SetVar[pthevMod2Aedges]=[9]
+[10,ten] 10 is a nice round number, a bit low though @SetVar[pthevMod2Aedges]=[10]
+[11,eleven] I'm slightly disappointed #EmoteWink @SetVar[pthevMod2Aedges]=[11]
+[12,twelve] That'll do #PetName, that'll do #Smile @SetVar[pthevMod2Aedges]=[12]
+[13,thirteen] Lucky 13 #Smile @SetVar[pthevMod2Aedges]=[13]
+[14,fourteen] That's not too bad @SetVar[pthevMod2Aedges]=[14]
+[15,fifteen] That's not bad, I'm happy #Smile @SetVar[pthevMod2Aedges]=[15]
+[16,sixteen] Sweet sixteen #Smile @SetVar[pthevMod2Aedges]=[16]
+[17,seventeen] Oh yeah #Laugh @SetVar[pthevMod2Aedges]=[17]
+[18,eighteen] This is going to take a while #Laugh @SetVar[pthevMod2Aedges]=[18]
+@DifferentAnswer Seriously #SubName, what number?
+Let's get to it #Smile  @DeleteFlag(pthevBreakNormal) @TempFlag(pthevBreakEdging) @InterruptsOff
+(three back to top)
+#Edge @Edge
+#LetTheEdgeFade @ChangeVar[pthevMod2Aedges]=[pthevMod2Aedges]-[1]
+@NullResponse @If[pthevMod2Aedges]=[0]Then(three edges done)
+#pthevMod02EdgesLeft
+@NullResponse @Goto(three back to top)
+(three edges done)
+That's all of them #Smile @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal) @InterruptsOn
+That poor #Cock of yours must be throbbing now #Grin
+@End
+(pthevMod2C)
+Let's do some more edging
+Do you have 3 dice ready?
+[yes] Let's see how lucky you are today... @Goto(throw three dice)
+[no] @NullResponse
+@DifferentAnswer #YesOrNo
+Oh...
+But you're going to get them for me right away, right?
+[ready] Let's see how lucky you are today... @Goto(throw three dice)
+[yes,of course,certainly,as you wish] Good, let me know when you're ready @LoopAnswer
+[no] What, you don't like edging anymore all of a sudden? @DommeLevelUp @MoodDown
+@DifferentAnswer #YesOrNo
+Maybe you'd prefer hurting yourself... @CBT
+@NullResponse @MiniScript(pvMs_PunishmentLight_NotStroking)
+Make sure you have 3 dice next time 
+Remember, you can also use websites like random.org/dice
+@End
+(Modulo2)
+#StopStroking @StopStroking 
+Do you like it when I make you edge #PetName?
+[yes] Good #Smile
+[no] Good, I like making you do things you don't want to #Grin
+@AcceptAnswer I love making you edge
+#Edge @Edge
+#LetTheEdgeFade
+I'm going to show you some pictures #Name
+You're going to give me 10 full strokes for each picture
+And no more than 10 stokes
+Except when it's a pic of a blowjob...
+A blowjob means you have to edge #Smile
+Is that clear?
+[yes] Good @Goto(canstart)
+[no,explain,dont understand,unclear] It's perfectly simple #PetName
+@DifferentAnswer #YesOrNo
+Every new picture means you stroke your #Cock 10 times
+But when I show you a picture of a blowjob you have to edge as fast as you can
+Okay?
+[yes,okay,understood,clear] It's not exactly rocket science is it @Goto(canstart)
+[no] Now you're just yanking my chain #Name
+@AcceptAnswer Now you're just yanking my chain #Name
+When really, I should be yanking yours
+(canstart)
+So let's begin!
+This is a nice one to start off with @ShowSoftcoreImage @LockImages
+You don't have to tell me every time you did your 10 strokes
+Just make sure you do them all
+Like right now @ShowBoobsImage
+You can do the math #PetName
+If I showed you each and every one of the pics in your collection
+How many strokes would that be... @ShowHardcoreImage
+A lot #Laugh
+Ooh BJ alert! You know what that means @ShowBlowjobImage @Edge
+You have quite a few blowjob pictures too
+What if I made you edge to all of them #GeneralTime
+That would really mess you up @ShowSoftcoreImage
+I don't think you could handle it
+10 strokes for this #Ass #Name @ShowButtImage @Wait(12)
+@NullResponse @ShowBlowjobImage @Edge
+I don't even have to tell you anything anymore @InterruptsOff @DeleteFlag(pthevBreakNormal) @TempFlag(pthevBreakEdging)
+I can let the pictures do the talking
+@NullResponse @ShowFemdomImage @SetVar[pthev_Mod03edges]=[0]
+(BackUp)
+@NullResponse @If[pthev_Mod03edges]=[5]Then(end)
+@NullResponse @Goto(FDimage,LDimage,Butt,Boob,LesImage,HCimage,BJimage,BJimage,BJimage)
+(FDimage)
+@NullResponse @ShowFemdomImage
+@NullResponse @Goto(BackUp)
+(LDimage)
+@NullResponse @ShowLezdomImage
+@NullResponse @Goto(BackUp)
+(Butt)
+@NullResponse @ShowButtImage
+@NullResponse @Goto(BackUp)
+(Boob)
+@NullResponse @ShowBoobsImage
+@NullResponse @Goto(BackUp)
+(LesImage)
+@NullResponse @ShowLesbianImage
+@NullResponse @Goto(BackUp)
+(HCimage)
+@NullResponse @ShowHardcoreImage
+@NullResponse @Goto(BackUp)
+(BJimage)
+@NullResponse @ShowBlowjobImage @Edge
+#pthevMod03-01 @ChangeVar[pthev_Mod03edges]=[pthev_Mod03edges]+[1] @Goto(BackUp)
+(end)
+Last one, #PetName @ShowBlowjobImage @Edge
+#LetTheEdgeFade @UnlockImages @InterruptsOn @DeleteFlag(pthevBreakEdging) @SetFlag(pthevBreakNormal)
+We could go on like this forever
+But there are so many other ways I can torment you #Grin
+@End
+(Modulo3)
+#StopStroking @StopStroking 
+@NullResponse @CheckFlag(pvMod05GoToBoobs,whose boobs are better)
+@NullResponse @Chance50(whose boobs are better)
+#SubName, I've been thinking about punishing you
+Well, not that you deserve to be punished right now #Smile
+But in order to keep you in line, I need to have that option
+Do you have a cane?
+[yes] Good, keep it close, we might need it @SetFlag(pthevCane)
+[no] That's too bad, I'll have to think of other ways to punish you then
+[what,explain,understand] You know, a cane for caning your ass, do you have one? @LoopAnswer
+@DifferentAnswer #YesOrNo
+@NullResponse @SetFlag(pvMod05GoToBoobs)
+@End
+(whose boobs are better)
+Whose #Boobs do you prefer, hers or mine? @LockImages @ShowBoobsImage @Timeout(6,noanswer)
+[your,yours] Thank you #SubName @Goto(yours1,yours2,yours3)
+[her,hers] Well, she does have a really nice pair... @Goto(hers1,hers2,hers3)
+@DifferentAnswer Come on #PetName hers or mine?
+(noanswer)
+Are you wondering if it's a trick question?
+[yes] #Laugh well only one way to find out, do you prefer hers or mine? @LoopAnswer
+[no] So what's your answer? @LoopAnswer
+[your,yours] That's the right answer #SubName #Smile @Goto(yours1,yours2,yours3)
+[her,hers] Well, she does have a really nice pair... @Goto(hers1,hers2,hers3)
+@DifferentAnswer Come on #PetName hers or mine?
+(yours1)
+They're really nice though...
+Good enough to cover in chocolate sauce and lick clean #Laugh
+@NullResponse @Glitter(pthevGlitter01Mod05) @UnlockImages @Wait(8)
+Have you ever had your #Cock covered in chocolate #SubName?
+[yes] I wish I'd been there
+[no] Maybe you should try it
+@DifferentAnswer #YesOrNo
+Maybe I'd lick it clean for you @ShowBlowjobImage
+I <i>do</i> love chocolate
+@End
+(yours2)
+Although she does have an amazing pair don't you think?
+[yes] Well that's why you saved that picture I guess
+[no] Weird, since it's one of your own pictures
+@AcceptAnswer They make me feel a little bit jealous
+@NullResponse @UnlockImages
+@End
+(yours3)
+It's nice to get compliments #Smile @UnlockImages
+Maybe it's just what you thought I wanted to hear
+But that's okay, you'd be right #Smile
+@End
+(hers1)
+They're so nice I think you should edge for these #Boobs right now @Edge
+#LetTheEdgeFade
+In fact, since you seem to like other girls' #Boobs so much
+Maybe you should edge to all of them
+Like these, edge to them #SubName @ShowBoobsImage @EdgeNoHold
+These are lovely as well @ShowBoobsImage
+Edge for her left breast #PetName @EdgeNoHold
+#LetTheEdgeFade
+Now edge for her right breast @EdgeNoHold
+And here's another great pair @ShowBoobsImage
+Edge for both of them @EdgeHold
+Do you need to cool down a minute? @Timeout(5,nocooldown)
+[yes] You are such a pussy #Laugh @Goto(cooldown)
+[no] @Goto(edgeagain)
+@AcceptAnswer I guess you don't need a break the @Goto(edgeagain)
+(nocooldown)
+I guess not 
+(edgeagain)
+Edge for these #Boobs @ShowBoobsImage @EdgeHold
+#LetTheEdgeFade
+Had enough yet?
+[yes] You are such a pussy #Laugh @Goto(cooldown)
+[no] Good
+@DifferentAnswer #YesOrNo
+Then edge for these #Boobs #PetName @ShowBoobsImage @EdgeHold
+Can you take more?
+[yes] That's why I like playing with you #Grin
+[no] You are such a pussy #Laugh @Goto(cooldown)
+@DifferentAnswer #YesOrNo
+Edge again #PetName @ShowBoobsImage @EdgeHold
+#LetTheEdgeFade
+Do you want another one?
+[yes] @NullResponse
+[no] You are such a pussy #Laugh @Goto(cooldown)
+@DifferentAnswer #YesOrNo
+Ten edge again #PetName @ShowBoobsImage @EdgeHold
+Would you like to do another edge #SubName?
+[yes] Wow, you just keep going don't you...
+[no] You are such a pussy #Laugh @Goto(cooldown)
+@DifferentAnswer #YesOrNo
+Well edge for these then @ShowBoobsImage @EdgeHold
+#LetTheEdgeFade @UnlockImages @CheckFlag(pthevDeniedToday)
+That's enough for now #Name @GotoDommeOrgasm
+(Never Allows)
+It's a shame you don't get to cum #GeneralTime
+You've built up sooo much cum in those last couple of edges #Grin
+I hope you learned your lesson @Goto(learning)
+(Rarely Allows)
+I know don't let you cum all that often
+But I almost feel like you've earned it with those couple of edges 
+I guess you'll have to wait and see...
+Just remember #Name @Goto(learning)
+(Sometimes Allows)
+I almost feel like you've earned an orgasm with those couple of edges 
+You'll have to wait and see, no promises!
+Just remember #Name @Goto(learning)
+(Often Allows)
+I would say your chances are good #PetName
+But don't quote me on that #Grin @Goto(learning)
+(Always Allows)
+That orgasm you'll get later on will be awesome
+Thanks to that last couple of edges #Smile
+Just remember #Name @Goto(learning)
+(pthevDeniedToday)
+It's a shame you don't get to cum at the end
+You've built up sooo much cum in those last couple of edges #Grin
+I hope you learned your lesson @Goto(learning)
+(cooldown)
+I know just what you need to calm down @CBTBalls
+I hope you'll remember this #PetName @Goto(learning)
+@End
+(hers2)
+But you know that's not what I wanted to hear 
+@NullResponse @UnlockImages @CBT
+Let's try that again
+Her #Boobs or mine #PetName? @ShowBoobsImage @LockImages
+[your,yours] You learn quickly #SubName @Goto(learning)
+[her,hers] I guess you just like the pain #PetName
+@DifferentAnswer Come on #PetName hers or mine?
+@NullResponse @CBTBalls
+@NullResponse @Goto(learning)
+(hers3)
+I want you to do 50 slow worship strokes for those #Boobs
+No edging, let me know when you're done
+[done,did,finished] Hands off then
+[yes] Let me know when you did 50 strokes @LoopAnswer
+[no] Let me know when you did 50 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 50 strokes
+Do you still think her #Boobs are nicer than mine?
+[yes] Well honesty counts for something I guess
+[no] I guess you learned a little something then @Goto(learning)
+@DifferentAnswer #YesOrNo
+Give them 100 fast strokes without edging
+[done,did,finished] Better stop touching then
+[yes] Let me know when you did 100 strokes @LoopAnswer
+[no] Let me know when you did 100 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 100 strokes
+Now, whose #Boobs are nicer, hers or mine?
+[her,hers] This is harder than I thought...
+[your,yours] See, that wasn't too hard now was it @Goto(learning)
+@DifferentAnswer Hers or mine #PetName
+200 strokes for these #Boobs #PetName, go!
+But NO edging!
+Let me know when you're done
+[done,did,finished] Okay, hands off
+[yes] Let me know when you did 200 strokes @LoopAnswer
+[no] Let me know when you did 200 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 200 strokes
+So whose #Boobs are nicer, hers or mine?
+[her,hers] Fuck, it's easier to train a monkey #Laugh
+[your,yours] See, that wasn't too hard now was it @Goto(learning)
+@DifferentAnswer Hers or mine #PetName
+@NullResponse @CBTCock
+300 strokes now #PetName
+Remember: no edging!
+[done,did,finished] Good, hands off your #Cock then
+[yes] Let me know when you did 300 strokes @LoopAnswer
+[no] Let me know when you did 300 strokes @LoopAnswer
+@DifferentAnswer Let me know when you did 300 strokes
+I'll ask you one more time #SubName
+Whose #Boobs do you prefer, hers or mine?
+[her,hers] Oh well...
+[your,yours] See, that wasn't too hard now was it @Goto(learning)
+@DifferentAnswer Hers or mine #PetName
+#Edge @EdgeHold
+#LetTheEdgeFade
+I guess you do really like those #Boobs then @Timeout(5,reallylike)
+[yes,i do] I know they're nice #SubName
+[no,don't] You're a puzzle wrapped in a riddle #SubName #Laugh
+@AcceptAnswer It's not that they're not nice
+(reallylike)
+A girl just likes getting compliments that's all
+I have to admit I kind of admire your tenacity #SubName
+But I still feel I should punish you for being a jerk #Grin @CBTBalls
+#Edge @EdgeHold
+#LetTheEdgeFade
+(learning)
+My #Boobs are always nicest @UnlockImages
+Even when they are not... #Smile
+@End
+(Modulo4)
+#StopStroking @StopStroking 
+I've got to go for a minute #Name @Goto(Contact1,Contact2,Contact3)
+(Contact1)
+@NullResponse @Glitter(pthevGlitterMod06-06)
+I can't leave you unsupervised of course @Wait(10)
+Luckily I have some friends who can help out @Wait(5)
+I hope you don't mind being left at the mercy of one of my friends @Timeout(8,themercy1)
+[no, don't mind, okay, no problem, fine] That's good #Smile
+[don't want, please don't] It's too bad you feel that way #PetName
+@AcceptAnswer Not that it matters either way
+(themercy1)
+Because that's how it's going to be 
+Just because I'm taking a break
+Doesn't mean you should get one too
+@NullResponse @AddContact1 @InterruptsOff
+@Contact1 Always a pleasure to deny a boy his pleasure #Laugh
+@Contact1 Oh, hi there #SubName #Grin
+@Contact1 Just leave him up to me #ShortName
+@Contact1 He's still stroking right?
+Not at the moment, no... that'll be up to you to decide now
+@Contact1 Oh okay #Laugh
+Be back in a few minutes!
+@Contact1 Don't hurry #Smile
+@NullResponse @RemoveDomme
+I'm going to tease you so bad #SubName
+I love that I can access your porn from here
+The stuff you keep says a lot about the kind of person you are
+Like this one for example @ShowCaptionsImage @LockImages
+Oh yes it tells me all I need to know #Laugh
+You do have a thing for girls telling you what to do @ShowCaptionsImage @UnlockImages
+Which is great cause I love telling guys what to do
+I want to see how good you are #SubName
+Give me 50 strokes, but don't edge!
+Tell me when you're done @Timeout(20,hurry up)
+[done,ready,did] Good boy @Goto(more stroking)
+@DifferentAnswer Tell me when you're done #SubName
+(hurry up)
+Hurry up #SubName @Timeout(15,too slow)
+[done,ready,did] Good boy, a little slow, but okay @Goto(more stroking)
+@DifferentAnswer Tell me when you're done #SubName
+(too slow)
+Too slow, you should be done by now @CBTCock
+(more stroking)
+Give me 100 strokes, but no edging!
+Just tell me when you did 100 strokes @Timeout(25,hurry up2)
+[done,ready,did] Good boy @Goto(more stroking2)
+@DifferentAnswer Tell me when you're done #SubName
+(hurry up2)
+C'mon stroke that cock faster #SubName @Timeout(15,too slow2)
+[done,ready,did] You should go faster @Goto(more stroking2)
+@DifferentAnswer Tell me when you're done #SubName
+(too slow2)
+Not good enough #SubName @CBTCock
+(more stroking2)
+Give me another 100 strokes, but really fast this time
+And of course, no edging...
+Stroke now, and don't lose count #Smile @Timeout
+Tell me when you're done @Timeout(10,hurry up3)
+[done,ready,did] Good boy @Goto(more stroking3)
+@DifferentAnswer Tell me when you're done #SubName
+(hurry up3)
+Faster #SubName @Timeout(15,too slow3)
+[done,ready,did] It's getting harder isn't it @Goto(more stroking3)
+[stop,too much,enough] Okay hands off @Goto(more stroking3)
+@DifferentAnswer Tell me when you're done #SubName
+(too slow3)
+Stop stroking @CBTCock
+That was no good #SubName
+But I'll give you another chance
+(more stroking3)
+Do you think you could do another 100 without edging or coming?
+[yes] Let's put that to the test
+[no] Okay hands off then @Goto(not enough stroking)
+@DifferentAnswer Yes or no?
+Go! @Timeout(20,hurry up4)
+[done,ready,did] Wow, that was amazing! @Goto(no more stroking)
+[stop,too much,enough] Okay hands off @Goto(not enough stroking)
+@DifferentAnswer Tell me when you're done #SubName
+(hurry up4)
+I wonder if you're going to make it this time @Timeout(15,did not make it)
+[done,ready,did] Good job! @Goto(no more stroking)
+[stop,too much,enough] Okay hands off @Goto(not enough stroking)
+@DifferentAnswer Tell me when you're done #SubName
+(did not make it)
+Stop stroking #SubName, I'm done waiting
+(not enough stroking)
+You need a little more stamina to meet my standards
+But that's okay, nobody's perfect #Smile
+@NullResponse @AddDomme
+How are you guys doing?
+@Contact1 Just testing your little subby here
+And how did he do?
+@Contact1 Not too good, #ShortName, not too good
+#Laugh
+@Contact1 It's okay though, I might have pushed him a little too far #Grin
+I figured as much
+Maybe next time, after some more training... @Goto(looking forward)
+(no more stroking)
+I'm impressed #SubName
+@NullResponse @AddDomme
+How are you guys doing?
+@Contact1 Just testing your little subby here
+And how did he do?
+@Contact1 Better than I expected actually
+Well jerking off is the one thing he's good at #Lol @RapidTextOn
+@Flag(pthevVirgin) @Contact1 His stamina is pretty good for a virgin...
+@Flag(pthevVirginEmbarrassed) Don't say that #Contact1, he's embarrassed about that
+@Flag(pthevVirginEmbarrassed) @Contact1 Yeah? Maybe he ought to be...
+@Flag(pthevVirginEmbarrassed) Okay that's enough #Contact1 #Laugh
+I'll try to keep him in shape for your next visit @RapidTextOff
+(looking forward)
+@Contact1 Already looking forward to it!
+@Contact1 For now I'll leave him to you 
+Alright, thanks for filling in #Contact1 #Smile
+@Contact1 Bye
+@NullResponse @RemoveContact1
+@NullResponse @InterruptsOn
+@End
+(Contact2)
+@NullResponse @Glitter(pthevGlitterMod06-03)
+I can't leave you unsupervised of course @Wait(10)
+Luckily I have some friends who can help out @Wait(5)
+I hope you don't mind being left at the mercy of one of my friends @Timeout(8,themercy2)
+[no, don't mind, okay, no problem, fine] That's good #Smile
+[don't want, please don't] It's too bad you feel that way #PetName
+@AcceptAnswer Not that it matters either way
+(themercy2)
+Because that's how it's going to be 
+Just because I'm taking a break
+Doesn't mean you should get one too
+@NullResponse @AddContact2 @InterruptsOff
+@Contact2 Hi #ShortName and #SubName what's up?
+Hey there #Contact2 thanks for helping out #Smile
+@Contact2 Sure, but what exactly am I supposed to do here?
+@Contact2 I mean I'm supposed to tease #SubName right?
+Well it's up to you I suppose, but yeah that's the general idea
+@Contact2 So is he like, jerking off right now?
+Nope, but he will if you tell him to #Smile
+@Contact2 So you just tell him when to start and stop?
+Basically, yes
+He'll do anything you say, unless it's dangerous or disgusting of course
+@Contact2 Why would I want to do that?? I'm not #Contact3
+#Laugh You'll do fine #Contact2  
+Okay have fun you two, I'll be right back
+@NullResponse @RemoveDomme 
+@NullResponse @Glitter(pthevGlitterMod06-04) 
+@NullResponse @Wait(15)
+So, you're stroking now, right #SubName? 
+[yes] Oh good, I thought I dropped the ball already! @Goto(any good)
+[no] Oh right she said you're NOT stroking
+@DifferentAnswer Yes or no?
+I'm terrible at this #Laugh @Timeout(8,so start please)
+[no,fine,good,alright,okay,not] Thanks #SubName #Smile
+[yes,you are,awful,terrible] Hmm 
+@AcceptAnswer Oh well...
+(so start please)
+So, start stroking again please...?
+(any good)
+@NullResponse @Wait(12)
+Stroke you cock #SubName
+Am I doing okay so far?
+[yes,sure,okay,fine,good,alright] Few! #Smile
+[great,amazing,super] C'mon #SubName don't exaggerate
+[no,bad,not good] Sorry #SubName I'm not experienced like #DomName is
+[terrible,awful,shit] Oh shut up #SubName it's not that bad
+@AcceptAnswer I'm doing my best #SubName
+#DomName told me about the porn stash on your computer
+It's pretty amazing @ShowHardcoreImage @LockImages
+That's fucking hot #Smile
+I can't imagine masturbating to this stuff @ShowHardcoreImage
+And <i>not</i> being allowed to cum
+And I can't believe you let #DomName do that to you @UnlockImages
+I want you to stop stroking now
+Did you actually stop touching just now?
+[yes] #Smile
+[no] Fine, keep stroking then @Goto(keep stroking then)
+@DifferentAnswer Yes or no?
+I have to admit though...
+It's pretty hot to know you're all hard right now and not touching
+I'm so wet right now :)
+Good thing I've got those pictures of yours @ShowLesbianImage @LockImages
+God that'a hot @Wait(12)
+Typng with on hands tricky @ShowTaggedImage @Tag1F @TagMasturbation
+Got my fingers so deep in my pussy @Wait(13)
+Mmm I love knowing you can't touch yourself @ShowLesbianImage @Wait(17)
+@NullResponse @AddDomme
+@NullResponse @UnlockImages
+Hey I'm back, how are you two doing? @Timeout(10,still there)
+[masturbating,busy,rubbing,touching,pussy] Ah, #Contact2 got 'distracted' didn't she #Smile 
+@AcceptAnswer #Contact2 got 'distracted' didn't she #Smile 
+(still there)
+#Contact2 are you still there?
+@Contact2 Sorry I was err, busy... *blush*
+I guess #SubName didn't get a whole lot to do then #Lol
+@Contact2 Not really...
+@Contact2 Can I leave him to you now?
+Sure, I'll take it from here
+@NullResponse @RemoveContact2 
+She got a little carried away I guess...
+@NullResponse @InterruptsOn
+@End
+(keep stroking then)
+Stroke to this picture #SubName @ShowLesbianImage @LockImages @AFKOn
+Let's just wait until #DomName returns @Wait(78)
+@NullResponse @AddDomme
+Hey I'm back, how are you two doing? @UnlockImages @AFKOff
+@Contact2 #SubName isn't exactly following orders
+@Contact2 I told him to stop and he just kept going...
+Come on #SubName stop stroking
+#Contact2 you should punish him when he does that 
+@Contact2 How?
+Like this... @CBTBalls
+That's enough for now #PetName
+@Contact2 Oh wow, I'll... keep that in mind I guess
+@Contact2 But to be honest that's more like something #Contact3 would do
+Well, you have to keep your boy in line sometimes #Grin
+Would you like to try it again sometime?
+@Contact2 Sure, if I don't <i>have</i> to hurt him #Smile
+Of course not, it's completely up to you
+@Contact2 Alright I'll leave you to it then, Bye #SubName! @Timeout(8,not say bye)
+[bye,goodbye,see you,later] @Contact2 :)
+[thanks,thank you] @Contact2 You're welcome!
+@AcceptAnswer @NullResponse
+Bye #Contact2!
+@NullResponse @RemoveContact2
+@NullResponse @InterruptsOn
+@End
+(not say bye)
+You're not going to say goodbye to #Contact2 #SubName? @Timeout(10,still no bye)
+[bye,goodbye,see you,later] @Contact2 :)
+[thanks,thank you] @Contact2 You're welcome!
+@AcceptAnswer @NullResponse
+(still no bye)
+We'll have to work on your manners #PetName
+Bye #Contact2!
+@NullResponse @RemoveContact2
+@NullResponse @InterruptsOn
+@End
+(Contact3)
+@NullResponse @Glitter(pthevGlitterMod06-01)
+I can't leave you unsupervised of course @Wait(10)
+Luckily I have some friends who can help out @Wait(5)
+I hope you don't mind being left at the mercy of one of my friends @Timeout(8,themercy3)
+[no, don't mind, okay, no problem, fine] Good #Smile
+[don't want, please don't] That's too bad
+@AcceptAnswer In any case
+(themercy3)
+Not that matters what you think #PetName
+Just because I don't have time right now
+Is no reason to let you off the hook #Grin
+@NullResponse @AddContact3 @InterruptsOff
+@Contact3 Hi #ShortName #Smile
+Hey #Contact3 thanks for taking over 
+@Contact3 My pleasure
+#SubName, you'll do anything #Contact3 tells you, understood?
+[yes] Good
+[no] Don't make this harder than it has to be #PetName, just do as she says
+@DifferentAnswer #YesOrNo
+I'll be back in a few minutes, have fun!
+@Contact3 I'm sure I will #Grin
+@NullResponse @Glitter(pthevGlitterMod06-02)
+@NullResponse @RemoveDomme
+Hello #SubName @Timeout(8,lookslike)
+[hi,hello,hey] @NullResponse
+[nice,happy,glad,good] You haven't forgotten you manners I see
+@AcceptAnswer @NullResponse
+(lookslike)
+Looks like I've got you all to myself #SubName
+You haven't stopped stroking now have you?
+[yes,i have] I don't think anyone told you to, so start stroking
+[no,haven't,not] Good, keep going
+@DifferentAnswer Did you stop stroking, yes or no?
+I think #DomName is way too easy on you
+If you were my toy to play with
+Let's just say 
+I wouldn't be as interested in your pleasure as she seems to be
+Now that we're alone I guess I could give you a little taste
+Would you like that?
+[yes] Of course you would, stupid question right?
+[no] That's too bad, because #DomName clearly told you to do as I say
+@DifferentAnswer Yes or no #SubName?
+I want you to go get 9 clothespins
+Hurry up, let me know when you're ready
+[ready] Okay, good!
+[don't have, haven't got] What kind of household do you live in that you don't have clothespins!? @Goto(NoPins)
+[can't,cannot,not possible,impossible] That's disappointing #SubName @Goto(NoPins)
+[don't want,please] Don't whine #SubName, go get those clothespins @LoopAnswer
+[wait,hold on,need time,more time,right back] Hurry up #PetName @LoopAnswer
+@DifferentAnswer Are you ready or do you need more time?
+Are you still stroking? @SetFlag(pthevClothespins)
+[yes] Good, keep going #Smile @Goto(stillstroking)
+[no] I didn't tell you to stop #SubName
+@DifferentAnswer Yes or no?
+Give your #Balls one hard smack
+Now give me 100 strokes as fast as you can without edging
+Tell me when you're done
+[100,done,did,ready,finished] Good, now keep stroking slowly
+@DifferentAnswer Let me know if you're done
+(stillstroking)
+I want you to put 1 clothespin on each nipple @Wait(15)
+Now put 3 clothespins on each of your #Balls @Wait(25)
+As for that last clothespin
+What should we do with that...
+Stick out your tongue #SubName
+I want you to put the last clothespin on your tongue @Wait(9)
+Has #DomName ever done anything like this to you #SubName?
+[yes] I find that hard to believe
+[no] Like I said, she's going way too easy on you #Grin
+@DiffentAnswer Yes or no?
+She's such a sweet girl, isn't she? 
+#Edge @Edge
+@NullResponse @CBTCock
+#DomName should let me take care of you more often
+Would you like that?
+[yes] Say it out loud
+[no] I guess this is a little too much for you @Goto(toomuchforya)
+@DifferentAnswer Yes or no?
+Not easy talking with that clothespin on your tongue is it
+Now say: Please hurt me more #Contact3 @Timeout(8,sayitagain)
+[please hurt] <i>Say</i> it, don't type it #SubName
+[yes,okay,did,done,said] Good #Grin
+@AcceptAnswer @NullResponse
+(sayitagain)
+Now type it: Please hurt me more #Contact3
+[please hurt me more] Okay, if that's really what you want...
+@DifferentAnswer Try again #SubName
+@NullResponse @CBTCock
+(could have fun)
+We could have so much fun together :)
+If it's okay with #DomName of course
+@NullResponse @AddDomme
+Hi guys, I'm back #Smile
+@Contact3 Hey #ShortName, we were just talking about you!
+Well I'm a really interesting subject #Laugh
+@Contact3 You know, you might find your toy back a little different than you left it
+What did you do? Wait, let me read back the chat... @Wait(8)
+OMG #Contact3 what have you done to #SubName #Laugh
+Hey #SubName, do you still have that clothespin on your tongue?
+[yes] #Laugh @Goto(takeoffpins)
+[no] @NullResponse
+@DifferentAnswer #YesOrNo
+@Contact3 What the fuck #SubName I didn't tell you to do that
+Now you've done it #PetName
+@Contact3 #DomName hasn't trained you well enough #SubName @CBTBalls
+@Contact3 Take the clothespins off if you haven't yet @Goto(more often)
+(takeoffpins)
+@Contact3 Take those clothespins off now #SubName
+@Contact3 you must be drooling all over yourself
+Gross #Lol
+@Contact3 There are so many fun things you can do with clothespins #Grin
+I never knew
+(more often)
+You should join us more often #Contact3 I could use the help
+@Contact3 And #SubName could use the training #Laugh
+Well your standards are a little higher than mine...
+@Contact3 Just let me know when I can join, when I've  got time I'll be there
+@Contact3 For now I'll leave #SubName in your caring hands #Smile
+Okay #Contact3, thanks again!
+@Contact3 Bye #SubName, see you soon #Smile
+@NullResponse @RemoveContact3
+It's good to know I can leave you in her hands #PetName
+Now where were we @InterruptsOn
+@End
+(toomuchforya)
+That's a shame, cause I'm really starting to enjoy this #SubName
+There's all kinds of things I could do to you
+A couple of clothespins is just the beginning @Goto(could have fun)
+(NoPins)
+I guess I'll have to think of some other way to torment you
+First of all
+Get to the edge for me @EdgeHold
+Good boy :)
+Do you have a leather belt?
+[yes] Go get it for me!
+[no] Hmmm @Goto(no belt)
+@DifferentAnswer Yes or no?
+Do you need time to go get it?
+[yes] Okay, let me know when you got it @LoopAnswer
+[no] Good
+[got it,have it,ready] Good
+@DifferentAnswer Let me know when you're ready
+Put it around your neck @SetFlag(pthevLeatherBelt) @Wait(9)
+Pull the end so it's good and tight
+Now get on your hands and knees like a good puppy
+That's where you belong #SubName
+No matter how nice #DomName is to you
+@NullResponse @AddDomme
+Hi guys, I'm back #Smile
+@Contact3 Hey, we were just talking about you
+Sounds like an interesting conversation #Laugh
+@Contact3 Maybe you should read back the chat by the way...
+Okay...
+You got #SubName in quite the predicament there #Lol 
+@Flag(pthevMarried) What if @ShowVar[pthevNamePartner] walked in right now...
+@Flag(pthevGirlfriend) What if @ShowVar[pthevNamePartner] walked in right now...
+@Flag(pthevMarried) @Contact3 She'd freak out #Laugh
+@Flag(pthevGirlfriend) @Contact3 She'd freak out #Laugh
+@Flag(pthevMarried) @Contact3 Or maybe she'd just smack his ass red
+@Flag(pthevGirlfriend) @Contact3 Or maybe she'd just smack his ass red
+@Flag(pthevMarried) @Contact3 I guess he'll have to do it himself @Goto(smack your ass)
+@Flag(pthevGirlfriend) @Contact3 I guess he'll have to do it himself @Goto(smack your ass)
+@Contact3 And it's about to get much worse *grin*
+(smack your ass)
+@Contact3 Smack your ass for us #SubName
+@Contact3 Both cheeks, left-right-left-right
+@Contact3 Keep doing it and do it hard, I want your ass red
+And pull on that belt around your neck, too #Grin
+@Contact3 Good thing you keep #SubName on a short leash #ShortName
+#Laugh
+I should get you in here more often, just to keep him in line
+@Contact3 You seem to be doing alright #ShortName
+@Contact3 You can stop spanking yourself now #SubName @Timeout(10,what do you say)
+[thank you,thanks,merci,gracias] @Contact3 You're welcome :) @Goto(better get going)
+@AcceptAnswer A thank you would be nice @Goto(better get going)
+(what do you say)
+What do you say #PetName?
+[thank you,thanks,merci,gracias] @Contact3 You're welcome :)
+@DifferentAnswer No, try again...
+(better get going)
+@Contact3 I better get going now, thanks for letting me take over #ShortName
+@Contact3 Oh and #SubName you can get off your knees now and take that belt off :)
+I'm sure it won't be the last time #Contact3, talk to you later #Smile
+@NullResponse @RemoveContact3
+@NullResponse @Glitter(pthevGlitterMod06-05)
+That wasn't too much for you, was it #SubName?
+[yes,it was,too much] That's unfortunate #PetName
+[no,okay,no problem,fine] Good #Smile
+@DifferentAnswer #YesOrNo
+Because I'm sure she'll be back for more sooner or later
+By the way, keep that belt close, we might need it again #Grin
+@NullResponse @InterruptsOn
+@End
+(no belt)
+How about a shoelace?
+[yes] Good, go get it then
+[no] Another "no"... @Goto(another no)
+@DifferentAnswer Yes or no?
+Don't take too long #SubName @Wait(10)
+I think you probably know what I want you to do with it @Timeout(15,tie your balls)
+[wait,hold,moment] Okay, but don't take too long @Wait(20)
+[ready] Good
+@AcceptAnswer @NullResponse
+(tie your balls)
+Loop one end around your balls and tie it with a knot @SetFlag(pthevShoelace)
+Make it tight, but still comfortable
+You don't want to cut your blood circulation
+Oh and make sure the loose end is long enough to reach your mouth
+Ready?
+[yes,ready,done,did] Okay
+[no,wait,moment,need more time] Let me know when you're ready
+@DifferentAnswer Let me know when you're ready
+Now take the loose end between your teeth, so the line is tight
+This way you can tug on your balls
+While you've got your hands free to do other things... @CBTCock
+@NullResponse @CBTBalls
+@NullResponse @AddDomme
+Hey guys, I'm back #Smile
+@Contact3 Hi #ShortName, check out what I did to #SubName @Wait(6)
+Wow, does it hurt #SubName?
+[yes] @Contact3 That was the idea #Laugh
+[like hell,a lot,very much] Poor you #Grin
+[no] You don't have to act tough #PetName
+[not bad,not too bad,okay,fine,not really] @Contact3 You're tougher than I thought #SubName
+@DifferentAnswer Did it hurt or not?
+@Contact3 Well, I better get going now, thanks for letting me take over #ShortName
+@Contact3 Oh and #SubName you can put that shoelace away now
+Keep it somewhere close though, we might need it again #Grin
+@Contact3 That sounds ominous #SubName #Laugh
+@Contact3 talk to you later #Smile
+Bye #Smile
+@NullResponse @RemoveContact3
+Just the two of us again #PetName
+@NullResponse @InterruptsOn
+@End
+(another no)
+Seems it's difficult to have my kind of fun with you
+Give me another edge then @EdgeHold
+You see, I think #DomName is going to easy on you
+The way I see it, boys need to be put in their place now and then
+With some pain or discomfort, nothing too extreme or dangerous of course
+Don't you agree?
+[yes,I agree,agreed] That's good to hear #Grin
+[no,don't] You should be glad I'm not you Domme then #Smile @Goto(not your domme)
+@DifferentAnswer Yes or no?
+But you need to be prepared for it
+So you should make sure you have some items ready to use
+Clothespins, a belt, shoelaces
+Those are fun to play with #Grin
+@NullResponse @AddDomme
+Hey guys, I'm back, what's up #Smile
+@Contact3 Hi #ShortName 
+@Contact3 I was just making some suggestions to #SubName
+@Contact3 To make things a little more... interesting
+@Contact3 You know, give you more options when dealing with #SubName
+More options is always good #Smile
+And I can see you made some interesting suggestions...
+@Contact3 Okay I gotta go #ShortName, talk to you later! @Timeout(8,talk to you later)
+[bye,goodbye,thank,thanks,later] @Contact3 Bye #SubName
+@AcceptAnswer @Contact3 Bye #SubName
+(talk to you later)
+Thanks again #Contact3!
+@NullResponse @RemoveContact3
+That was interesting 
+We'll see what comes of it #Smile
+@NullResponse @InterruptsOn
+@End
+(not your domme)
+Get to the edge for me again @EdgeHold
+@NullResponse @AddDomme
+Hey guys, I'm back, what's up #Smile
+@Contact3 Hi #ShortName 
+@Contact3 Nothing much, we certainly haven't done anything you wouldn't do
+Do I detect a hint of disappointment?
+@Contact3 Let's just say it's a good thing you're his domme not me :)
+@Contact3 Anyways, maybe next time #SubName will be more cooperative
+@Contact3 Gotta go now, talk to you later #ShortName :)
+Alright, thanks for taking over #Contact3
+@NullResponse @RemoveContact3
+You didn't make friends today #PetName
+But I'm sure #Contact3 won't hold it against you
+@NullResponse @InterruptsOn
+@End

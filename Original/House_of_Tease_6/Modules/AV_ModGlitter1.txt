@@ -1,0 +1,499 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGlitter1_NotFirstTime)
+@NullResponse @SetVar[AV_ModGlitter1]=[0] 
+@NullResponse @SetFlag(AV_ModGlitter1_NotFirstTime)
+(AV_ModGlitter1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGlitter1]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGlitter1]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGlitter1]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGlitter1]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGlitter1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGlitter1]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGlitter1]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGlitter1]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGlitter1]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGlitter1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGlitter1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGlitter1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGlitter1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGlitter1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGlitter1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGlitter1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGlitter1]=[AV_ModGlitter1]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGlitter1]=[AV_ModGlitter1]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGlitter1]=[AV_ModGlitter1]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGlitter1]=[AV_ModGlitter1]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGlitter1]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+@NotFlag(av_fetish_pain) @NullResponse @Goto(3wg5sd0)
+#SubName @Glitter(AV_CallContactR)
+@Flag(av_fetish_rough) Since you like being handled roughly
+@Flag(av_fetish_pain) I know you really #Love pain
+I will lend you to a friend
+Just for a few minutes, don't worry.  @DommeLevelUp
+I think you can trust me @ApathyLevelUp
+even if what I'm saying sounds crazy, so here goes... @Goto(C1, C2, C3)
+(C1)
+@AddContact1
+@Contact1 Hello #PetName
+@Contact1 I'm going to get you hard first.
+@Contact1 #StartStroking, slowly. 
+@Contact1 You're already there, aren't you? Pathetic. 
+@Contact1 Look at it, twitching and throbbing already. 
+@Contact1 I bet if you went a little faster, you'd cum all over yourself. 
+@Contact1 #StopStroking
+@Contact1 You want your hand back on this #Cock, don't you? 
+@Contact1 Well, how about instead you slap it. @CustomTask(AV_CBT_Gliter1)
+@Contact1 Or better yet, you slap those balls of yours? @CustomTask(AV_CBT_Gliter1)
+@Contact1 Oh, that hurts, doesn't it? A few more, you think.
+@Contact1 What's that? Is your little #Cock soft already?
+@Contact1 No, we can't have that. @CustomTask(AV_StrokeNumberGliter1)
+@Contact1 Mmmmm, now that feels good, doesn't it? 
+@Contact1 you know it does, you're already rock hard again. 
+@Contact1 #StartStroking 
+@Contact1 But you know what? 
+@Contact1 I think your cock looked prettier before, when it was soft. 
+@Contact1 #StopStroking
+@Contact1 How many slaps do you think it'll take to get there? 
+@Contact1 Only one way to find out, I suppose. @CustomTask(AV_CBT_Gliter1)
+@Contact1 That won't do at all. 
+@Contact1 Let's try again, shall we? No? 
+@Contact1 Too bad I'm in charge here. Say it. 
+@Contact1 Again, louder. @CustomTask(AV_CBT_Gliter1)
+@Contact1 Good boy. Let's get you nice and hard again. 
+@Contact1 This time you are only going to use one finger. 
+@Contact1 #StartStroking 
+@Contact1 Just trail it up and down your shaft. 
+@Contact1 No real pleasure for you #OfCourse
+@Contact1 but just enough sensation to get you hard again. 
+@Contact1 Does it hurt yet, your cock? 
+@Contact1 Yes? No, it doesn't. You don't know what pain is yet. 
+@Contact1 #StopStroking
+@Contact1 #BCnBB_A1b . Are you ready? @CustomTask(AV_CBT_Gliter1)
+@Contact1 It hurts so much, doesn't it? 
+@Contact1 Well, we aren't done yet. Did you enjoy when you #Stroked hard before? 
+@Contact1 Be honest, you know you did. 
+@Contact1 #StartStroking 
+@Contact1 You won't enjoy this nearly as much. 
+@Contact1 The base of your cock, sensitive
+@Contact1 yet not so sensitive that you'll be able to cum when you stroke there with your thumb and forefinger. 
+@Contact1 You'll get hard #OfCourse
+@Contact1 but you could do this for hours and you'd never manage more than a trickle of pre-cum. 
+@Contact1 No satisfaction, no relief, understand? 
+@Contact1 I own this cock now. Say it. 
+@Contact1 Does it hurt? Being this hard? 
+@Contact1 you bet it does. Do you want to cum? Beg. Beg me. 
+@Contact1 Now you know you can beg harder than that. 
+@Contact1 You must not be desperate enough. 
+@Contact1 #StrokeFaster
+@Contact1 You're twitching, you must be right at the edge. 
+@Contact1 Did you know that if you squeeze the tip of the cock, you can delay orgasm? 
+@Contact1 It's a bit painful, but it works. 
+@Contact1 It's true, want to see? 
+@Contact1 Pinch down, cut off the blood flow, and you can't cum. 
+@Contact1 See, you did learn something today. 
+@Contact1 I can get you right to the edge'
+@Contact1 then deny you. Over and over, for as long as I want.
+@Contact1 Oh, you're trembling. 
+@Contact1 #StopStroking
+@Contact1 Maybe I've been too hard on you. 
+@Contact1 That was quite the show, thank you. @ApathyLevelDown
+@Contact1 You never really had a chance, you do know that, right? @DommeLevelDown
+@RemoveContact1
+@End
+(C2)
+@AddContact2
+@Contact2 Hello #PetName
+@Contact2 I'm going to get you hard first.
+@Contact2 #StartStroking, slowly. 
+@Contact2 You're already there, aren't you? Pathetic. 
+@Contact2 Look at it, twitching and throbbing already. 
+@Contact2 you bet if you went a little faster, you'd cum all over yourself. 
+@Contact2 #StopStroking
+@Contact2 You want your hand back on this #Cock, don't you? 
+@Contact2 Well, how about instead you slap it. @CustomTask(AV_CBT_Gliter2)
+@Contact2 Or better yet, you slap those balls of yours? @CustomTask(AV_CBT_Gliter2)
+@Contact2 Oh, that hurts, doesn't it? A few more, you think.
+@Contact2 What's that? Is your little #Cock soft already?
+@Contact2 No, we can't have that. @CustomTask(AV_StrokeNumberGliter2)
+@Contact2 Mmmmm, now that feels good, doesn't it? 
+@Contact2 you know it does, you're already rock hard again. 
+@Contact2 #StartStroking 
+@Contact2 But you know what? 
+@Contact2 I think your cock looked prettier before, when it was soft. 
+@Contact2 #StopStroking
+@Contact2 How many slaps do you think it'll take to get there? 
+@Contact2 Only one way to find out, I suppose. @CustomTask(AV_CBT_Gliter2)
+@Contact2 That won't do at all. 
+@Contact2 Let's try again, shall we? No? 
+@Contact2 Too bad I'm in charge here. Say it. 
+@Contact2 Again, louder. @CustomTask(AV_CBT_Gliter2)
+@Contact2 Good boy. Let's get you nice and hard again. 
+@Contact2 This time you are only going to use one finger. 
+@Contact2 #StartStroking 
+@Contact2 Just trail it up and down your shaft. 
+@Contact2 No real pleasure for you, #OfCourse, but just enough sensation to get you hard again. 
+@Contact2 Does it hurt yet, your cock? 
+@Contact2 Yes? No, it doesn't. You don't know what pain is yet. 
+@Contact2 #StopStroking
+@Contact2 I want those balls to ache so bad. Are you ready? @CustomTask(AV_CBT_Gliter2)
+@Contact2 It hurts so much, doesn't it? 
+@Contact2 Well, we aren't done yet. Did you enjoy when you #Stroked hard before? 
+@Contact2 Be honest, you know you did. 
+@Contact2 #StartStroking 
+@Contact2 You won't enjoy this nearly as much. 
+@Contact2 The base of your cock, sensitive
+@Contact2 yet not so sensitive that you'll be able to cum when you stroke there with your thumb and forefinger. 
+@Contact2 You'll get hard #OfCourse
+@Contact2 but you could do this for hours and you'd never manage more than a trickle of pre-cum. 
+@Contact2 No satisfaction, no relief, understand? 
+@Contact2 I own this cock now. Say it. 
+@Contact2 Does it hurt? Being this hard? 
+@Contact2 you bet it does. Do you want to cum? Beg. Beg me. 
+@Contact2 Now you know you can beg harder than that. 
+@Contact2 You must not be desperate enough. 
+@Contact2 #StrokeFaster
+@Contact2 You're twitching, you must be right at the edge. 
+@Contact2 Did you know that if you squeeze the tip of the cock, you can delay orgasm? 
+@Contact2 It's a bit painful, but it works. 
+@Contact2 It's true, want to see? 
+@Contact2 Pinch down, cut off the blood flow, and you can't cum. 
+@Contact2 See, you did learn something today. 
+@Contact2 I can get you right to the edge'
+@Contact2 then deny you. Over and over, for as long as I want.
+@Contact2 Oh, you're trembling. 
+@Contact2 #StopStroking
+@Contact2 Maybe I've been too hard on you. 
+@Contact2 That was quite the show, thank you. @ApathyLevelDown
+@Contact2 You never really had a chance, you do know that, right? @DommeLevelDown
+@RemoveContact2
+@End
+(C3)
+@AddContact3
+@Contact3 Hello #PetName
+@Contact3 I'm going to get you hard first.
+@Contact3 #StartStroking, slowly. 
+@Contact3 You're already there, aren't you? Pathetic. 
+@Contact3 Look at it, twitching and throbbing already. 
+@Contact3 you bet if you went a little faster, you'd cum all over yourself. 
+@Contact3 #StopStroking
+@Contact3 You want your hand back on this #Cock, don't you? 
+@Contact3 Well, how about instead you slap it. @CustomTask(AV_CBT_Gliter3)
+@Contact3 Or better yet, you slap those balls of yours? @CustomTask(AV_CBT_Gliter3)
+@Contact3 Oh, that hurts, doesn't it? A few more, you think.
+@Contact3 What's that? Is your little #Cock soft already?
+@Contact3 No, we can't have that. @CustomTask(AV_StrokeNumberGliter3)
+@Contact3 Mmmmm, now that feels good, doesn't it? 
+@Contact3 you know it does, you're already rock hard again. 
+@Contact3 #StartStroking 
+@Contact3 But you know what? 
+@Contact3 I think your cock looked prettier before, when it was soft. 
+@Contact3 #StopStroking
+@Contact3 How many slaps do you think it'll take to get there? 
+@Contact3 Only one way to find out, I suppose. @CustomTask(AV_CBT_Gliter3)
+@Contact3 That won't do at all. 
+@Contact3 Let's try again, shall we? No? 
+@Contact3 Too bad I'm in charge here. Say it. 
+@Contact3 Again, louder. @CustomTask(AV_CBT_Gliter3)
+@Contact3 Good boy. Let's get you nice and hard again. 
+@Contact3 This time you are only going to use one finger. 
+@Contact3 #StartStroking 
+@Contact3 Just trail it up and down your shaft. 
+@Contact3 No real pleasure for you, #OfCourse, but just enough sensation to get you hard again. 
+@Contact3 Does it hurt yet, your cock? 
+@Contact3 Yes? No, it doesn't. You don't know what pain is yet. 
+@Contact3 #StopStroking
+@Contact3 I want those balls to ache so bad. Are you ready? @CustomTask(AV_CBT_Gliter3)
+@Contact3 It hurts so much, doesn't it? 
+@Contact3 Well, we aren't done yet. Did you enjoy when you #Stroked hard before? 
+@Contact3 Be honest, you know you did. 
+@Contact3 #StartStroking 
+@Contact3 You won't enjoy this nearly as much. 
+@Contact3 The base of your cock, sensitive
+@Contact3 yet not so sensitive that you'll be able to cum when you stroke there with your thumb and forefinger. 
+@Contact3 You'll get hard #OfCourse
+@Contact3 but you could do this for hours and you'd never manage more than a trickle of pre-cum. 
+@Contact3 No satisfaction, no relief, understand? 
+@Contact3 I own this cock now. Say it. 
+@Contact3 Does it hurt? Being this hard? 
+@Contact3 you bet it does. Do you want to cum? Beg. Beg me. 
+@Contact3 Now you know you can beg harder than that. 
+@Contact3 You must not be desperate enough. 
+@Contact3 #StrokeFaster
+@Contact3 You're twitching, you must be right at the edge. 
+@Contact3 Did you know that if you squeeze the tip of the cock, you can delay orgasm? 
+@Contact3 It's a bit painful, but it works. 
+@Contact3 It's true, want to see? 
+@Contact3 Pinch down, cut off the blood flow, and you can't cum. 
+@Contact3 See, you did learn something today. 
+@Contact3 I can get you right to the edge'
+@Contact3 then deny you. Over and over, for as long as I want.
+@Contact3 Oh, you're trembling. 
+@Contact3 #StopStroking
+@Contact3 Maybe I've been too hard on you. 
+@Contact3 That was quite the show, thank you. @ApathyLevelDown
+@Contact3 You never really had a chance, you do know that, right? @DommeLevelDown
+@RemoveContact3
+(3wg5sd0)
+@NullResponse 
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @Glitter(AV_CallContact3)
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact3
+Hey #Contact3 
+@Contact3 Hi #EmoteLaugh 
+I need to take care of something here, but I will keep a eye in the chat
+@Contact3 #AV_Break4
+@Contact3 In fact, how about giving me a little preview of your stroking skills right now, #SubName?
+@Contact3 For now, just pull it out and show me how you #Stroke @CustomTask(AV_StrokeNumberGliter3)
+@Contact3 Ummmm, yeah, good stuff. I'm sure it'll get it bigger and harder later.
+@Contact3 Yes, it is a lot of fun for me seeing your aching, twitching cock throbbing for me!
+@Contact3 I wish I could keep you around to stroke for me...
+@Contact3 #Stroke to the beat #AudioStroke
+@Contact3 Can you just imagine what it would be like if I was the one stroking this #Cock ? 
+@Contact3 My soft little hands wrapped around your aching shaft
+Don't get him too excited, #Contact3
+We want him to last until the end of #GeneralTime 
+@Contact3 OK, that was enough of a break.
+@Contact3 Let me see some more stroking!
+@Contact3 #StartStroking
+@Contact3 Ohhhh, look at how hard you are!
+@Contact3 You have been through a lot of teasing so far.
+@Contact3 Boy, I can just feel the lust in your eyes as you look at me. 
+@Contact3 You know, that look like you will do anything I asked you to,
+@Contact3 no matter how embarrassing or humiliating it might be. 
+@Contact3 #StopStroking
+Looks like you completed your job #Contact3
+I'm ready, let me continue!
+@Contact3 #Lol sure...see you later @RemoveContact3
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @Glitter(AV_CallContact2)
+#PetName My friend will join us @AddContact2
+Hey Sweetie 
+@Contact2 Hi #EmoteLaugh 
+This is my friend #Contact2 and she has never seen a really #Submissive guy before #EmoteRandom
+@Contact2 Yea she told me all about it and I just have to see it!
+#Yes you are going to go crazy when you see it.  
+@Contact2 mmmm I can't wait! #Stroke !.... Pretty please #Lol
+#Yes show it to her #Slave #EmoteLaugh I love making other girls jealous #AudioStrokeNW
+@Contact2 holy shit! 
+@Contact2 I can't even... It's fucking hot... Fuck is it beautiful! @Wait(20)
+#EmoteLaugh  mmmm edging it is the best it's sooo #Hot
+@Contact2 How long can he hold it?
+All the time you want.
+@Contact2 (laugh) No way I don't believe you! ... Prove it (laugh) I wanna see.
+Ok (laugh) prepare to be amazed #Edge @EdgeHold
+@Contact2 wow... You have to teach me how to do that! Like right now! 
+hmmm ok I'll teach but remember this #Cock is mine! #EmoteLaugh 
+@Contact2 so where do I start?
+Just tell him to edge and he will obey
+@Contact2 #SubName
+your going to need more then that.. 
+@Contact2 #Slave
+@Contact2 #Edge @EdgeHold
+yea he likes that #Smile
+@Contact2 you make it look so easy
+mmm it's because I like it so much #Lol
+@Contact2 ok One more time
+look at him he wants to see your eyes 
+@Contact2 #Edge @EdgeHold
+@Contact2 #Great
+mmmm ok my turn #Stroke to the beat #AudioStrokeNW
+@Contact2 let me help. play with your #Balls #PetName @Wait(15)
+you are so close... I'm going to have to push you a little #EmoteLaugh 
+oh oh just about there! Your doing to good!
+@Contact2 He did it! 
+good job but we're not done yet
+@Contact2 I wanna see he completely #Surrendered
+Go for it! 
+@Contact2 #PetName 
+@Flag(av_fetish_pain) @NullResponse @CustomTask(AV_CBT_Gliter2)
+@Contact2 mmmm I think he is getting ready
+yea I can see his eyes rolling back #Lol
+@Contact2 I want it more!
+#EmoteWhimper
+@NullResponse @CustomTask(AV_StrokeNumberGliter2)
+yea it's the best right?
+@Contact2  mmmmm 
+@Contact2 thank you baby @RemoveContact2
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+@AddContact3
+@Contact3 #LAPLookAtPictures_85 and #Stroke with me?
+@NullResponse @Goto(01, 02)
+(01)
+@NullResponse @ShowImage[av_imagens\Girls\00.jpg] @PlayAudio[tease\justtolisten\pic01.mp3] @Wait(10) @Chance75(03)
+(02)
+@NullResponse @ShowImage[av_imagens\Girls\01.jpg] @PlayAudio[tease\justtolisten\pic02.mp3] @Wait(20)
+(03)
+@NullResponse @Goto(03a, 04, 04a)
+(04a)
+@NullResponse @ShowImage[av_imagens\Girls\08.jpg] @PlayAudio[tease\justtolisten\pic03.mp3] @Wait(15) @Goto(05)
+(03a)
+@NullResponse @ShowImage[av_imagens\Girls\02.jpg] @PlayAudio[tease\justtolisten\pic03.mp3] @Wait(15) @Chance75(05)
+(04)
+@NullResponse @ShowImage[av_imagens\Girls\03.jpg] @PlayAudio[tease\justtolisten\pic10.mp3] @Wait(15)
+(05)
+@NullResponse @Goto(06, 07, 08, 09)
+(06)
+@NullResponse @ShowImage[av_imagens\Girls\04.jpg] @PlayAudio[tease\justtolisten\pic02.mp3] @Wait(20) @Goto(10)
+(07)
+@NullResponse @ShowImage[av_imagens\Girls\05.jpg] @PlayAudio[tease\justtolisten\pic10.mp3] @Wait(15) @Goto(10)
+(08)
+@NullResponse @ShowImage[av_imagens\Girls\06.jpg] @PlayAudio[tease\justtolisten\pic13.mp3] @Wait(32) @Goto(10)
+(09)
+@NullResponse @ShowImage[av_imagens\Girls\07.jpg] @PlayAudio[tease\justtolisten\pic13.mp3] @Wait(32) @Goto(10)
+(10)
+@Contact3 She'd know you like it a little wet, so spit on your hand. @Goto(11, 12)
+(11)
+@NullResponse @ShowImage[av_imagens\Girls\09.jpg] @PlayAudio[tease\justtolisten\pic05.mp3] @Wait(15) @Goto(13)
+(12)
+@NullResponse @ShowImage[av_imagens\Girls\10.jpg] @PlayAudio[tease\justtolisten\pic05.mp3] @Wait(15)
+(13)
+@Contact3 Imagine #Stroking to her in real life. @Goto(14, 15)
+(14)
+@NullResponse @ShowImage[av_imagens\Girls\11.jpg] @PlayAudio[tease\justtolisten\pic15.mp3] @Wait(40) @Goto(16)
+(15)
+@NullResponse @ShowImage[av_imagens\Girls\12.jpg] @PlayAudio[tease\justtolisten\pic15.mp3] @Wait(40)
+(16)
+@NullResponse @Goto(17, 18)
+(17)
+@NullResponse @ShowImage[av_imagens\Girls\13.jpg] @PlayAudio[tease\justtolisten\pic25.mp3] @Wait(25) @Goto(20)
+(18)
+@NullResponse @ShowImage[av_imagens\Girls\14.jpg] @PlayAudio[tease\justtolisten\pic25.mp3] @Wait(25)
+(20)
+@Contact3 Imagine it's my - her soft little hands on you, lightly teasing you with those strokes. @Goto(21, 22)
+(21)
+@NullResponse @ShowImage[av_imagens\Girls\15.jpg] @PlayAudio[tease\justtolisten\pic24.mp3] @Wait(30) @Goto(23)	
+(22)
+@NullResponse @ShowImage[av_imagens\Girls\16.jpg] @PlayAudio[tease\justtolisten\pic24.mp3] @Wait(30)
+(23)
+@NullResponse @Goto(24, 25)
+(24)
+@NullResponse @ShowImage[av_imagens\Girls\17.jpg] @PlayAudio[tease\justtolisten\pic04.mp3] @Wait(50) @Goto(30)
+(25)
+@NullResponse @ShowImage[av_imagens\Girls\18.jpg] @PlayAudio[tease\justtolisten\pic04.mp3] @Wait(50)
+(30)
+@NullResponse @Goto(31, 32, 33)
+(31)
+@NullResponse @ShowImage[av_imagens\Girls\19.jpg] @PlayAudio[tease\justtolisten\pic06.mp3] @Wait(17) @Goto(35)
+(32)
+@NullResponse @ShowImage[av_imagens\Girls\20.jpg] @PlayAudio[tease\justtolisten\pic07.mp3] @Wait(20) @Goto(35)
+(33)
+@NullResponse @ShowImage[av_imagens\Girls\21.jpg] @PlayAudio[tease\justtolisten\pic08.mp3] @Wait(24)
+(35)
+@NullResponse @Goto(36, 37, 38)
+(36)
+@NullResponse @ShowImage[av_imagens\Girls\22.jpg] @PlayAudio[tease\justtolisten\pic09.mp3] @Wait(20) @Goto(40)
+(37)
+@NullResponse @ShowImage[av_imagens\Girls\23.jpg] @PlayAudio[tease\justtolisten\pic11.mp3] @Wait(15) @Goto(40)
+(38)
+@NullResponse @ShowImage[av_imagens\Girls\24.jpg] @PlayAudio[tease\justtolisten\pic12.mp3] @Wait(20)
+(40)
+@NullResponse @Goto(41, 42, 43)
+(41)
+@NullResponse @ShowImage[av_imagens\Girls\25.jpg] @PlayAudio[tease\justtolisten\pic14.mp3] @Wait(25) @Goto(45)
+(42)
+@NullResponse @ShowImage[av_imagens\Girls\26.jpg] @PlayAudio[tease\justtolisten\pic20.mp3] @Wait(20) @Goto(45)
+(43)
+@NullResponse @ShowImage[av_imagens\Girls\27.jpg] @PlayAudio[tease\justtolisten\pic21.mp3] @Wait(30)
+(45)
+@NullResponse @Goto(46, 47, 48)
+(46)
+@NullResponse @ShowImage[av_imagens\Girls\28.jpg] @PlayAudio[tease\justtolisten\pic22.mp3] @Wait(15) @Goto(50)
+(47)
+@NullResponse @ShowImage[av_imagens\Girls\29.jpg] @PlayAudio[tease\justtolisten\pic06.mp3] @Wait(17) @Goto(50)
+(48)
+@NullResponse @ShowImage[av_imagens\Girls\30.jpg] @PlayAudio[tease\justtolisten\pic07.mp3] @Wait(20)
+(50)
+@Contact3 Keep your eyes on her, imagine she's naked right next to you, 
+@Contact3 whispering dirty things in your ear, telling you how much she loves your cock. @Goto(51, 52, 53)
+(51)
+@NullResponse @ShowImage[av_imagens\Girls\31.jpg] @PlayAudio[tease\justtolisten\pic08.mp3] @Wait(24) @Goto(55)
+(52)
+@NullResponse @ShowImage[av_imagens\Girls\32.jpg] @PlayAudio[tease\justtolisten\pic09.mp3] @Wait(20) @Goto(55)
+(53)
+@NullResponse @ShowImage[av_imagens\Girls\33.jpg] @PlayAudio[tease\justtolisten\pic11.mp3] @Wait(15)
+(55)
+@NullResponse @Goto(56, 57, 58)
+(56)
+@NullResponse @ShowImage[av_imagens\Girls\34.jpg] @PlayAudio[tease\justtolisten\pic12.mp3] @Wait(20) @Goto(60)
+(57)
+@NullResponse @ShowImage[av_imagens\Girls\35.jpg] @PlayAudio[tease\justtolisten\pic14.mp3] @Wait(25) @Goto(60)
+(58)
+@NullResponse @ShowImage[av_imagens\Girls\36.jpg] @PlayAudio[tease\justtolisten\pic20.mp3] @Wait(20)
+(60)
+@Contact3 Mm, that girl is so fucking hot. I'd love to lick her all over. I bet you'd like to watch that, huh?	 @Goto(61, 62, 63)
+(61)
+@NullResponse @ShowImage[av_imagens\Girls\37.jpg] @PlayAudio[tease\justtolisten\pic21.mp3] @Wait(30) @Goto(65)
+(62)
+@NullResponse @ShowImage[av_imagens\Girls\38.jpg] @PlayAudio[tease\justtolisten\pic22.mp3] @Wait(15) @Goto(65)
+(63)
+@NullResponse @ShowImage[av_imagens\Girls\43.jpg] @PlayAudio[tease\justtolisten\pic09.mp3] @Wait(20)
+(65)
+@NullResponse @Goto(66, 67, 68, 69, 70)
+(66)
+@NullResponse @ShowImage[av_imagens\Girls\40.jpg] @PlayAudio[tease\justtolisten\pic21.mp3] @Wait(30) @Goto(71)
+(67)
+@NullResponse @ShowImage[av_imagens\Girls\41.jpg] @PlayAudio[tease\justtolisten\pic22.mp3] @Wait(15) @Goto(71)
+(68)
+@NullResponse @ShowImage[av_imagens\Girls\42.jpg] @PlayAudio[tease\justtolisten\pic08.mp3] @Wait(24) @Goto(71)
+(69)
+@NullResponse @ShowImage[av_imagens\Girls\43.jpg] @PlayAudio[tease\justtolisten\pic24.mp3] @Wait(30) @Goto(71)
+(70)
+@NullResponse @ShowImage[av_imagens\Girls\39.jpg] @PlayAudio[tease\justtolisten\pic20.mp3] @Wait(20)
+(71)
+#Okay, #Slave, I hope you enjoyed it. @RemoveContact3
+@End

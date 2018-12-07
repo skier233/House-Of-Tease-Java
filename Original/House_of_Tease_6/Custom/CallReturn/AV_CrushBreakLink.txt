@@ -1,0 +1,325 @@
+@NullResponse @Chance50(Positions)
+(LinkCrush)
+@RT(I want to see your eyes roll back, Such a good #PetName you are...always so hard and ready, do you like how I am is using you?, I can see you're already throbbing at the thought of it)
+I love @RandomText(watching your frustration, watching you suffer, watching you squirm, denying you, teasing you, torturing you, controlling you)
+So... @RT(let's build up you a little , Let's prepare you a little, You need to be prepared for more, I understand if you're not quite at the edge yet,, maybe I can help you with that) @RapidCodeOn
+@NullResponse @Chance35(AV_CrushSelect)
+@NullResponse @Goto(AVI50, AVI51, AVI52, AVI53, AVI54, AVI55, AVI56, AVI57, AVI58, AVI59)
+(AVI50)
+@Flag(AV_Know_50) @NullResponse @Goto(Sim50)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI51)
+@Flag(AV_Know_51) @NullResponse @Goto(Sim51)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI52)
+@Flag(AV_Know_52) @NullResponse @Goto(Sim52)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI53)
+@Flag(AV_Know_53) @NullResponse @Goto(Sim53)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI54)
+@Flag(AV_Know_54) @NullResponse @Goto(Sim54)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI55)
+@Flag(AV_Know_55) @NullResponse @Goto(Sim55)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI56)
+@Flag(AV_Know_56) @NullResponse @Goto(Sim56)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI57)
+@Flag(AV_Know_57) @NullResponse @Goto(Sim57)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI58)
+@Flag(AV_Know_58) @NullResponse @Goto(Sim58)
+@NullResponse @Goto(AV_CrushSelect)
+(AVI59)
+@Flag(AV_Know_59) @NullResponse @Goto(Sim59)
+@NullResponse @Goto(AV_CrushSelect)
+(AV_CrushSelect)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_QualCrushes]=[0]
+@NotFlag(AV_Know_12) @NullResponse @ChangeVar[AV_QualCrushes]=[AV_QualCrushes]+[1]
+@NotFlag(AV_Know_00) @NullResponse @ChangeVar[AV_QualCrushes]=[AV_QualCrushes]+[10]
+@NotFlag(AV_Know_01) @NullResponse @ChangeVar[AV_QualCrushes]=[AV_QualCrushes]+[100]
+@NotFlag(AV_Know_03) @NullResponse @ChangeVar[AV_QualCrushes]=[AV_QualCrushes]+[1000]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_QualCrushes]=[0]Then(Part1_1)
+@NullResponse @If[AV_QualCrushes]=[1]Then(Part1_2)
+@NullResponse @If[AV_QualCrushes]=[10]Then(Part1_3)
+@NullResponse @If[AV_QualCrushes]=[100]Then(Part1_4)
+@NullResponse @If[AV_QualCrushes]=[1000]Then(Part1_5)
+@NullResponse @If[AV_QualCrushes]=[11]Then(Part1_6)
+@NullResponse @If[AV_QualCrushes]=[101]Then(Part1_7)
+@NullResponse @If[AV_QualCrushes]=[111]Then(Part1_8)
+@NullResponse @If[AV_QualCrushes]=[110]Then(Part1_9)
+@NullResponse @If[AV_QualCrushes]=[1001]Then(Part1_10)
+@NullResponse @If[AV_QualCrushes]=[1011]Then(Part1_11)
+@NullResponse @If[AV_QualCrushes]=[1111]Then(Part1_12)
+@NullResponse @If[AV_QualCrushes]=[1010]Then(Part1_13)
+@NullResponse @If[AV_QualCrushes]=[1110]Then(Part1_14)
+@NullResponse @If[AV_QualCrushes]=[1100]Then(Part1_15)
+@NullResponse @If[AV_QualCrushes]=[1101]Then(Part1_16)
+(Part1_1)
+@NullResponse @Goto(Sim12,Sim00,Sim01,Sim03)
+(Part1_2)
+@NullResponse @Goto(Sim00,Sim01,Sim03)
+(Part1_3)
+@NullResponse @Goto(Sim12,Sim01,Sim03)
+(Part1_4)
+@NullResponse @Goto(Sim12,Sim00,Sim03)
+(Part1_5)
+@NullResponse @Goto(Sim12,Sim00,Sim01)
+(Part1_6)
+@NullResponse @Goto(Sim01,Sim03)
+(Part1_7)
+@NullResponse @Goto(Sim00,Sim03)
+(Part1_8)
+@NullResponse @Goto(Sim03)
+(Part1_9)
+@NullResponse @Goto(Sim12,Sim03)
+(Part1_10)
+@NullResponse @Goto(Sim00,Sim01)
+(Part1_11)
+@NullResponse @Goto(Sim01)
+(Part1_12)
+@NullResponse @Goto(SemCrush)
+(Part1_13)
+@NullResponse @Goto(Sim12,Sim01)
+(Part1_14)
+@NullResponse @Goto(Sim12)
+(Part1_15)
+@NullResponse @Goto(Sim12,Sim00)
+(Part1_16)
+@NullResponse @Goto(Sim00)
+(SemCrush)
+I should go deeper in your mind #SubName
+@End
+(Sim12)
+Follow the beat for your secret crush, #Var[AV_Persona13] @ShowImage[av_imagens\01\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3] 
+@NullResponse @ShowImage[av_imagens\01\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\01\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\01\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)
+(Sim00)
+Follow the beat your @RT(favourite, crush) actress, #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3] 
+@NullResponse @ShowImage[av_imagens\02\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\02\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\02\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)
+(Sim01)
+Follow the beat your @RT(favourite, crush) singer, #Var[AV_Persona02] @ShowImage[av_imagens\03\*.jpg]  @PlayAudio[tease\StrokePattern\*.mp3] 
+@NullResponse @ShowImage[av_imagens\03\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\03\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\03\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)
+(Sim03)
+Follow the beat for #Var[AV_Persona04] @ShowImage[av_imagens\04\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3] 
+@NullResponse @ShowImage[av_imagens\04\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\04\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\04\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)
+(Sim50) 
+Follow the beat for #Var[AV_Persona50] @ShowImage[av_imagens\10\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\10\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\10\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\10\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)
+(Sim51) 
+Follow the beat for #Var[AV_Persona51] @ShowImage[av_imagens\11\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\11\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\11\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\11\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa) 
+(Sim52) 
+Follow the beat for #Var[AV_Persona52] @ShowImage[av_imagens\12\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\12\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\12\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\12\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)  
+(Sim53) 
+Follow the beat for #Var[AV_Persona53] @ShowImage[av_imagens\13\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3] 
+@NullResponse @ShowImage[av_imagens\13\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\13\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\13\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa) 
+(Sim54) 
+Follow the beat for #Var[AV_Persona54] @ShowImage[av_imagens\14\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3] 
+@NullResponse @ShowImage[av_imagens\14\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\14\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\14\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa) 
+(Sim55) 
+Follow the beat for #Var[AV_Persona55] @ShowImage[av_imagens\15\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\15\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\15\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\15\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa) 
+(Sim56) 
+Follow the beat for #Var[AV_Persona56] @ShowImage[av_imagens\16\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\16\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\16\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\16\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa) 
+(Sim57) 
+Follow the beat for #Var[AV_Persona57] @ShowImage[av_imagens\17\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\17\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\17\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\17\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)  
+(Sim58) 
+Follow the beat for #Var[AV_Persona58] @ShowImage[av_imagens\18\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\18\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\18\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\18\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)  
+(Sim59) 
+Follow the beat for #Var[AV_Persona59] @ShowImage[av_imagens\19\*.jpg] @PlayAudio[tease\StrokePattern\*.mp3]
+@NullResponse @ShowImage[av_imagens\19\*.jpg] @Wait(15)
+#KeepStroking @ShowImage[av_imagens\19\*.jpg] @Wait(10)
+@NullResponse @ShowImage[av_imagens\19\*.jpg] @Wait(10)
+#StopStroking 
+@NullResponse @Goto(Pausa)
+(Pausa)  
+@Flag(AV_NoControl99) @NullResponse @Goto(Pausa2)
+@Flag(AV_SimControl99) @NullResponse @Goto(PulaIntro)
+I would love it if you'd let me take more control over you
+What do you think #SubName, will you do that for me?
+[yes] You know that you've been needing this for some time. @SetFlag(AV_SimControl99)
+[no] Aww... @SetFlag(AV_NoControl99) @Goto(Pausa2)
+@DifferentAnswer #YesorNo #SubName?
+So you decided to become my slave for real.
+Although this was not really a decision wasn't it? 
+Under my strict guidance you will be transformed. 
+First your mind, then your body and at last your soul. 
+I will help you to become the obedient slave you crave to be.
+The first step on your journey will be... @Goto(Legs, Bathroom, Collar, Plug)
+(PulaIntro)
+@NullResponse @Goto(Legs, Bathroom, Collar, Plug)
+(Legs)
+@Flag(AV_Cont_Legs) @NullResponse @Goto(LegSecond)
+You Must Keep Legs Spread @SetFlag(AV_Cont_Legs)
+Here is a very simple rule that is designed to keep things awkward for you
+and emphasize that your cock and balls belong to me. 
+The rule is that your legs can't touch your cock or balls in the sessions. 
+(LegSecond)
+I want to see his balls hanging down.
+You must keep your legs spread till the end of this session
+Unless I say the other way
+@End
+(Bathroom)
+@Flag(AV_Cont_Bathroom) @NullResponse @Goto(Pausa2)
+From now on... @SetFlag(AV_Cont_Bathroom)
+You Must Ask Permission to Use the Bathroom during our sessions. 
+I will decide how you will pee #Lol
+@End
+(Collar)
+@Flag(AV_Cont_NoCollar) @NullResponse @Goto(Pausa2)
+@Flag(AV_Cont_Collar) @NullResponse @Goto(PutCollar)
+Do you have any Collar and/or Cuffs?
+[yes] #Good @SetFlag(AV_Cont_Collar)
+[no] Aww... @SetFlag(AV_Cont_NoCollar) @Goto(Pausa2)
+@DifferentAnswer #YesorNo #SubName?
+(PutCollar)
+@Flag(AV_Cont_Collar2) I hope you are still using the collar #PetName @Goto(Pausa2)
+I want you to wear a collar or ankle cuffs, both if you have, as a symbol that I own you  @SetFlag(AV_Cont_Collar2)
+Tell me when you are done
+[done, yes, ready] good boy
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(Pausa2)
+(Plug)
+@Flag(AV_Cont_NoPlug) @NullResponse @Goto(Pausa2)
+@Flag(AV_Cont_Plug) @NullResponse @Goto(Putplug)
+Do you have any Butt-Plug or Strapon?
+[yes] #Good @SetFlag(AV_Cont_Plug)
+[no] Aww... @SetFlag(AV_Cont_NoPlug) @Goto(Pausa2)
+@DifferentAnswer #YesorNo #SubName?
+(Putplug)
+@Flag(AV_Cont_NoPlug2) I hope that you have that plug in your ass #PetName  @Goto(Pausa2)
+I want you to @RT(wear, insert) a butt-plug in your ass @SetFlag(AV_Cont_Plug2)
+Tell me when you are done
+[done, yes, ready] good boy
+@DifferentAnswer Are you done #SubName?
+You must keep till the end of this session
+Unless I want to play with your ass in other ways #EmoteSmile Goto(Pausa2)
+(Pausa2)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_QteModulos]<[5]Then(Pausa3)
+@NullResponse @Chance60(AVBreak)
+(Pausa3)
+@NullResponse @RapidCodeOn
+@Flag(AV_EatCum) @NullResponse @Goto(Pausa4)
+@Flag(av_fetish_cei) @NullResponse @Chance40(AVCEI8)
+(Pausa4)
+@RT(From this point forth I will control every part of you, Get ready cause it's going to be a long way before you will orgasm) @Wait(20)
+#RelaxAndBreathe @Wait(20)
+@End
+(AVBreak)
+@RT(This session is intense, We've been at this for some time, We've been here for some time now, you look exhausted)
+Do you need a break?
+[yes] #Okay
+[no] #Good @Goto(Pausa9)
+@DifferentAnswer #YesorNo #SubName?
+(BreakTime)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance20(BR1)
+I will give you a 2 minutes break...
+Go drink water, wash your hands or anything to help you to cool down
+I will play a sound when I want you back here....go @Wait(120)
+Back here @RT(#SubName, #PetName) @PlayAudio[tease\3S3D.mp3] 
+Your break is over... @Wait(10)
+@End
+(BR1)
+@NullResponse @CallReturn(Custom\CallReturn\pvCr_BreakStroking.txt)
+@End
+(AVCEI8)
+I've tried so many ways of getting you to eat your own cum. 
+I've been @RT(sweet and sensual, encouragingly, seductive)
+I've tried blackmailing you into it
+tough love humiliating you into doing it edging games...
+but you're still a little pussy who has chickened out, right? 
+So today I just get real about it. 
+@RT(No games, no fucking around)
+Just tapping right into that logical male mind of yours. 
+I tell you straight @RT(how it's going to feel, how it's going to taste)
+@RT(Think of this as no-nonsense CEI, It's not mean but it's not sugar coated)
+It's just me and your cock
+and getting you to eat that load for me, like you've wanted to all along. 
+So, if you get to cum today...
+including a ruined orgasm @TempFlag(AV_EatCum)
+you will eat for me
+@End
+(Pausa9)
+@RT(From this point forth I will control every part of you, Get ready cause it's going to be a long way before you will orgasm) @Wait(20)
+#RelaxAndBreathe @Wait(20)
+@End
+(Positions)
+@RT(I think you need some time , you need some time) to @RT(recover, breath) @Goto(Slide1, Slide2, Slide3) 
+(Slide1)
+@NullResponse @Slideshow(Femdom, Slow) 
+@NullResponse @Goto(PositionsStart)
+(Slide2)
+@NullResponse @Slideshow(Softcore, General)
+@NullResponse @Goto(PositionsStart)
+(Slide3)
+@NullResponse @Slideshow(Boobs, Butts)
+@NullResponse @Goto(PositionsStart)
+(PositionsStart)
+@RT(we take this opportunity, Let's take advantage of this opportunity) to work on some @RT(slave, submissive) positions
+@RT(Go to, stay in) that position until you hear a bell @ShowImage[av_imagens\positions\all\*.jpg] @Wait(15)
+And you @RT(may, can) @RT(enjoy, watch) some @RT(sexy, nice, hot) @RT(images, pictures, girls) @SlideshowOn
+@NullResponse @Wait( #Random(30, 60))
+#SitDown @PlayAudio[tease\Bell.mp3] @SlideshowOff
+@End

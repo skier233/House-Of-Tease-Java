@@ -1,0 +1,420 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGlitter5_NotFirstTime)
+@NullResponse @SetVar[AV_ModGlitter5]=[0] 
+@NullResponse @SetFlag(AV_ModGlitter5_NotFirstTime)
+(AV_ModGlitter5_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGlitter5]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGlitter5]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGlitter5]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGlitter5]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGlitter5]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGlitter5]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGlitter5]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGlitter5]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGlitter5]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGlitter5]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGlitter5]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGlitter5]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGlitter5]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGlitter5]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGlitter5]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGlitter5]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGlitter5]=[AV_ModGlitter5]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGlitter5]=[AV_ModGlitter5]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGlitter5]=[AV_ModGlitter5]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGlitter5]=[AV_ModGlitter5]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGlitter5]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact2  @AddContact2
+@Contact2 HI #EmoteLaugh 
+#AV_Break3
+@Contact2 #AV_Break4
+@NullResponse @RemoveDomme
+@RT(well well well what do we have here?, Now is the little boy ready for some fun?)
+@RT(It sure looks like it, Are you ready?)
+Let's play a game, cumboy! 
+I know how much you love to edge, do you think you can last 20 edges?
+@Flag(av_fetish_cei) Lick up every drop of precum you leak out while edging. 
+I will have you on the edge of your seat
+your dick in your hands, leaking precum, begging me to let you cum! 
+@Flag(av_fetish_cei) You're a good cumboy, so you'll be licking up that precum, saying outloud "I'm your cumboy, #Contact2!" 
+Worship every part of me, edge for me! 
+@RT(I love making you weak, You won't last the 20 edge...)
+Can you stay in the game? 
+#Edge @EdgeNoHold
+Just starting...
+#ReachTheEdge @EdgeNoHold @PlayAudio[tease\cEdge.mp3] 
+#LetTheEdgeFade
+Stand up in this position @ShowImage[av_imagens\positions\stand\*.jpg] @Wait(20)
+#Edge @EdgeNoHold @MultipleEdges(2, 5, 100)
+You can sit now...let the edge subside.
+#Edge @EdgeNoHold
+#ReachTheEdge @EdgeNoHold @PlayAudio[tease\cEdge.mp3] 
+#LetTheEdgeFade
+Go down in this position @ShowImage[av_imagens\positions\kneel\*.jpg] @Wait(20)
+#Edge @EdgeNoHold @MultipleEdges(2, 5, 100)
+Sit #SubName... don't you dare cum! 
+For the next 2 edges, as you stroke use your other hand to gently rub your balls. 
+I know you love to do that!
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+Now, lay back with your legs spread wide and jerk your cock again as fast as you can.
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+Keep your legs spread as wide as you can and lay there for a minute 
+This is a pretty humiliating position to be in. 
+I know that I would be embarrassed 
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+Stand up in this position @ShowImage[av_imagens\positions\stand\*.jpg] @Wait(20)
+#Edge @EdgeNoHold @MultipleEdges(2, 5, 100)
+Go down in this position @ShowImage[av_imagens\positions\kneel\*.jpg] @Wait(20)
+#Edge @EdgeNoHold @MultipleEdges(2, 5, 100)
+You can sit...
+Almost there...
+#Edge @EdgeNoHold
+And now, the last one...
+#Edge @EdgeNoHold
+Good job. 
+@Contact2 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact2
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact3
+Hey #Contact3  
+@Contact3 Hi #EmoteLaugh 
+#AV_Break3
+@Contact3 #AV_Break4
+@NullResponse @RemoveDomme
+@RT(well well well what do we have here?, Now is the little boy ready for some fun?)
+@RT(It sure looks like it, Are you ready?)
+All those thoughts going through my head really turned me on...
+I have big plans for you now... 
+#KneelForMe @Wait(10)
+@RT(What to do now?, I've imagined so many ways I can make you suffer!)
+I think I'll start playing with your nipples
+@NotFlag(AV_PinDone) Go fetch me some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+Place one clothespin on each
+Now twist the clothespins clockwise as far as you can and keep'em twisted... @Wait(15)
+@Flag(av_fetish_pain) Now twist'em counterclockwise....
+And do not let'em go until I say so!!
+mmm... your pain is making me wet...
+Are your nipples sore slave?
+Okay painslut, that's enough for now, let go of the clothespins, but keep them clamped on your nipples
+How are your nipples?
+Hurting? 
+@RT(I imagine so, I love to see them when they look like they're going to explode)
+Let's give'em a litle bit more
+@Flag(av_fetish_pain) Smack those clothespins
+@Flag(av_fetish_pain) more...
+@Flag(av_fetish_pain) Harder......
+@Flag(av_fetish_pain) Smack them until they come off @Wait(20)
+@Flag(av_fetish_pain) Put them back on @Wait(15)
+@Flag(av_fetish_pain) Smack them off one more time @Wait(15)
+@Flag(av_fetish_pain) Excellent, Now put them back on again @Wait(15)
+Oh yeah, that's how I like to see them....
+So red and swollen that they look like they're about to scream!!
+#StartStroking @Wait(15)
+@Edge #Edge
+You can take off the clothespins, that's enough nipple torture for the moment... @Wait(15)
+@RT(you know while I was standing there I was thinking about what to do with you for the rest of the session, I would like to take this a little bit further slave)
+@RT(Aww poor boy am i being too demanding?, But of course you cant cum)
+Stand up straight and spread your legs as far as you can  @Wait(15)
+#Edge @EdgeNoHold @MultipleEdges(2, 5, 100)
+You do these funny expressions when you edge
+Look at your cock twitching down there
+You seem to have a decent self control
+Most guys would spurt their goo within seconds in front of me
+But youre not allowed #PetName
+Which makes it even more fun for me
+What the matter? trouble keeping your sperm in your shaft?
+#SitDown
+@Contact3 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact3
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact1
+Hey #Contact1  
+@Contact1 HI #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@NullResponse @RemoveDomme
+@RT(well well well what do we have here?, Now is the little boy ready for some fun?)
+@RT(It sure looks like it, Are you ready?)
+#StartStroking
+I have a #Great idea #SubName
+I will let you edge
+Now you probably think, this isn't anything special..
+You have edged so many times, what could be so tough now?
+#DomName showed me some interesting pictures of slave positions
+And you will edge in some of those positions.
+#StopStroking
+Let's begin...
+Your first position is kneeling for me @SetVar[AV_Glitter_Posit_Kneel]=[#Random(1, 7)]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Glitter_Posit_Kneel]=[1]Then(AVRamdKneeling1)
+@NullResponse @If[AV_Glitter_Posit_Kneel]=[2]Then(AVRamdKneeling2)
+@NullResponse @If[AV_Glitter_Posit_Kneel]=[3]Then(AVRamdKneeling3)
+@NullResponse @If[AV_Glitter_Posit_Kneel]=[4]Then(AVRamdKneeling4)
+@NullResponse @If[AV_Glitter_Posit_Kneel]=[5]Then(AVRamdKneeling5)
+@NullResponse @If[AV_Glitter_Posit_Kneel]=[6]Then(AVRamdKneeling6)
+@NullResponse @If[AV_Glitter_Posit_Kneel]=[7]Then(AVRamdKneeling7)
+(AVRamdKneeling1)
+Go down in this position @ShowImage[av_imagens\positions\kneel\01.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling2)
+Go down in this position @ShowImage[av_imagens\positions\kneel\02.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling3)
+Go down in this position @ShowImage[av_imagens\positions\kneel\03.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling4)
+Go down in this position @ShowImage[av_imagens\positions\kneel\04.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling5)
+Go down in this position @ShowImage[av_imagens\positions\kneel\05.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling6)
+Go down in this position @ShowImage[av_imagens\positions\kneel\06.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(AVRamdKneeling7)
+Go down in this position @ShowImage[av_imagens\positions\kneel\07.jpg] @Wait(25)
+@NullResponse @Goto(FimKneel)
+(FimKneel)
+Now, #EdgeNoun for me @EdgeNoHold @MultipleEdges(2, 10, 100)
+#LetTheEdgeFade
+New position #Slave @SetVar[AV_Glitter_Posit_Stand]=[#Random(1, 7)]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Glitter_Posit_Stand]=[1]Then(AVRamdStanding1)
+@NullResponse @If[AV_Glitter_Posit_Stand]=[2]Then(AVRamdStanding2)
+@NullResponse @If[AV_Glitter_Posit_Stand]=[3]Then(AVRamdStanding3)
+@NullResponse @If[AV_Glitter_Posit_Stand]=[4]Then(AVRamdStanding4)
+@NullResponse @If[AV_Glitter_Posit_Stand]=[5]Then(AVRamdStanding5)
+@NullResponse @If[AV_Glitter_Posit_Stand]=[6]Then(AVRamdStanding6)
+@NullResponse @If[AV_Glitter_Posit_Stand]=[7]Then(AVRamdStanding7)
+(AVRamdStanding1)
+Stand up in this position @ShowImage[av_imagens\positions\stand\01.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding2)
+Stand up in this position @ShowImage[av_imagens\positions\stand\02.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding3)
+Stand up in this position @ShowImage[av_imagens\positions\stand\03.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding4)
+Stand up in this position @ShowImage[av_imagens\positions\stand\04.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding5)
+Stand up in this position @ShowImage[av_imagens\positions\stand\05.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding6)
+Stand up in this position @ShowImage[av_imagens\positions\stand\06.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(AVRamdStanding7)
+Stand up in this position @ShowImage[av_imagens\positions\stand\07.jpg] @Wait(25)
+@NullResponse @Goto(FimStand)
+(FimStand)
+Now, #EdgeNoun for me @EdgeNoHold @MultipleEdges(2, 10, 100)
+#LetTheEdgeFade
+Is that precum i see there running down your shaft?
+@Contact1 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact1
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @RapidCodeOn
+@NullResponse @AddTeaseTime(20 Minutes)
+@NullResponse @SetVar[AV_GlitterControl2]=[0] 
+@NullResponse @Goto(GL01, GL02, GL03)
+(GL01)
+@RandomText(#Contact1 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact1
+@NullResponse @Wait(05)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact1 @RandomText(Sure, No problem, my pleasure) @ChangeVar[AV_GlitterControl2]=[AV_GlitterControl2]+[1]
+@NullResponse @RemoveDomme 
+@NullResponse @Goto(StartGlit)
+(GL02)
+@RandomText(#Contact2 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact2
+@NullResponse @Wait(05)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact2 @RandomText(Sure, No problem, my pleasure) @ChangeVar[AV_GlitterControl2]=[AV_GlitterControl2]+[2]
+@NullResponse @RemoveDomme 
+@NullResponse @Goto(StartGlit)
+(GL03)
+@RandomText(#Contact3 will assume the lead of our session for a few minutes, I'm going to give you to one of my friends to use)
+@NullResponse @AddContact3
+@NullResponse @Wait(05)
+I need to take care of something here, @RandomText(you can take care of #SubName, I will be back soon)
+@Contact3 @RandomText(Sure, No problem, my pleasure) @ChangeVar[AV_GlitterControl2]=[AV_GlitterControl2]+[3]
+@NullResponse @RemoveDomme 
+@NullResponse @Goto(StartGlit)
+(StartGlit)
+@RT(Come on in, Hello, Hi there) Slaveboy
+Well we will find out one way or another how @RT(obedient, compliant, submissive, trainable) you are, won't we?
+@RT(Lets do a quick test shall we?, Do you want stroke it? should I let you?)
+Well then show me! 
+Im curious how our little @RT(master edger, slave, stroker) here performs
+#StartStroking @Goto(Intro01, Intro02)
+(Intro01)
+slowly 
+No edging or cumming of course.. that goes without saying doesnt it?
+Does that feel good slave boy?
+Speed up a little 
+I wanna see the expressions on your face while your desire grows
+NO edging tho! 
+@RT(You have to ask for permission, Only I get to decide if and when youre allowed to edge yourself)
+Listen to me while you stroke away your #Cock
+Whats the matter slave?
+Is this little bit of stroking to much for our master edger?
+NO edging!
+Stop stroking @PlayAudio[tease\cStop.mp3] @Goto(Part02)
+(Intro02)
+at a medium speed
+I want you to edge for me @CustomMode(done, Goto, Finished Task)
+But only stroke the second half underneath your cockhead leave the head alone
+As soon as you feel youre getting near the edge I want you to stroke slower and and slower
+Until you reach the edge at a very slow speed
+Dont mess this up im watching you 
+Tell me when you are done
+Just type "done" when you edged.
+(Loop)
+@RT(C'mon, Go) #SubName, @RT(I want, give me, show me) that edge
+@RT(You can do it, Do it, be a good #Slave) @Wait(30) @Goto(Loop)
+(Finished Task)
+@RT(Good boy, Very good my little strokerslave) @CustomMode(ModeText, Normal) 
+hands behind your back immediately!
+That one looked difficult you werent about to burst were you? 
+(Part02)
+Well since youre all horny again as it seems
+Get on your knees and spread them as wide as you possible can and sit back on your legs @Wait(15)
+There we go.. thats better..
+So I bet you would like to have permission to touch your cock again right? 
+I wanna see how obedient you are
+put your hand on your cock @SetLink(AV_GlitterLink987)
+No stroking yet tho
+@RT(Just feel it growing in your hand, Feel the veins and how sensitive your cock is getting)
+Longing for you to stroke it.
+Alright stroke it very slowly all the way up and all the way down your shaft @PlayAudio[tease\cStroke.mp3] 
+@RT(No more slip ups from here on out #Slave, My oh my look at you)
+Did I see a little quivering there?
+Well keep going at that pace
+Go ahead stroke yourself to the edge for me @EdgeNoHold
+Calm down for a couple of seconds @Wait(05)
+Now use your non dominant hand and get to the edge again for me  @EdgeNoHold
+Good boy @BookmarkModule
+@End
+@Stroking #StopStroking @StopStroking 
+Now you must be in pain #lol @SetLink(AV_GlitterLink988)
+And that makes me sooooo #Horny!!! #EmoteHappy  @Goto(Volta01, Volta02)
+(Volta01)
+So tell me slaveboy are you an ass man ?
+Do you like my ass?
+How about you give me an edge for each cheek?
+Sounds fair?
+Do 1 with your dominant hand the other with your non dominant
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100) 
+Look at you getting all sweaty over there
+Ready to explode having a big eruption of cum comming out of your cock?
+I dont think so slaveboy..
+Put your hands on your side slave
+Let your cock twitch a liitle bit
+Letting him know that there wont be any cumming anytime soon! @Goto(Volta03)
+(Volta02)
+Take a good look at my breasts
+I want you to start stroking your cock again
+Stroke as fast as you can and give each of my breasts an edge
+Again 1 with your dominant hand 1 with the other...
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100) 
+Look at you getting all sweaty over there
+Ready to explode having a big eruption of cum comming out of your cock?
+I dont think so slaveboy..
+Put your hands on your side slave
+Let your cock twitch a liitle bit
+Letting him know that there wont be any cumming anytime soon!
+(Volta03)
+Think about how good your orgasm would feel like if I would give you allowance @BookmarkModule
+@End
+@Stroking #StopStroking @StopStroking 
+@NullResponse @RapidCodeOn
+@NullResponse @RemoveTeaseTime(20 Minutes)
+@NullResponse @If[AV_GlitterControl2]=[1]Then(G01)
+@NullResponse @If[AV_GlitterControl2]=[2]Then(G02)
+@NullResponse @If[AV_GlitterControl2]=[3]Then(G03)
+(G01)
+@Contact1 Look who is back @AddDomme
+Hi #PetName, miss me?
+@Contact1 He is fine #EmoteHappy
+Thanks #Contact1, I will take control now
+@Contact1 You are welcome... cya
+@NullResponse @RemoveContact1
+@End
+(G02)
+@Contact2 Look who is back @AddDomme
+Hi #PetName, miss me?
+@Contact2 He is fine #EmoteHappy
+Thanks #Contact2, I will take control now
+@Contact2 You are welcome... cya
+@NullResponse @RemoveContact2
+@End
+(G03)
+@Contact3 Look who is back @AddDomme
+Hi #PetName, miss me?
+@Contact3 He is fine #EmoteHappy
+Thanks #Contact3, I will take control now
+@Contact3 You are welcome... cya
+@NullResponse @RemoveContact3
+@End

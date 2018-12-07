@@ -1,0 +1,4 @@
+What if I am truly evil though slave, have you thought about that?  @TempFlag(AV_Short31)
+So what if I really am as ‘evil' as you wanted me to be… and more? 
+Could you handle that slave? @ResponseYes(Can Handle_z) @ResponseNo(Can Handle_not)
+@End

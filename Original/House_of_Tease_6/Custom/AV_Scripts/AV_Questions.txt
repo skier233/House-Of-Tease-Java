@@ -1,0 +1,189 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(av_quest_finished)
+@NullResponse @CheckFlag(av_quest_18)
+@NullResponse @CheckFlag(av_quest_done)
+@NullResponse @CheckFlag(av_quest_17)
+@NullResponse @CheckFlag(av_quest_16)
+@NullResponse @CheckFlag(av_quest_15)
+@NullResponse @CheckFlag(av_quest_14)
+@NullResponse @CheckFlag(av_quest_13)
+@NullResponse @CheckFlag(av_quest_12)
+@NullResponse @CheckFlag(av_quest_11)
+@NullResponse @CheckFlag(av_quest_10)
+@NullResponse @CheckFlag(av_quest_09)
+@NullResponse @CheckFlag(av_quest_08)
+@NullResponse @CheckFlag(av_quest_07)
+@NullResponse @CheckFlag(av_quest_06)
+@NullResponse @CheckFlag(av_quest_05)
+@NullResponse @CheckFlag(av_quest_04)
+@NullResponse @CheckFlag(av_quest_03)
+@NullResponse @CheckFlag(av_quest_02)
+@NullResponse @CheckFlag(av_quest_01)
+@NullResponse @CheckFlag(av_quest_00) 
+(av_quest_00)
+Do you enjoy footjob? @SetFlag(av_quest_01)
+[yes] Mmm, we have a foot slave here  @SetFlag(av_fetish_foot)
+[no] It's #Okay @Goto(av_quest_01)
+@DifferentAnswer yes or no?
+#_TheThingsICanDoToYou  @ShowTaggedImage @TagFeet 
+@End
+(av_quest_01)
+I want to look at your posture.  @SetFlag(av_quest_02)
+Move forward, until you are on the edge of your seat. @ShowImage[av_imagens\02.jpg] @LockImages
+Spread your legs apart.
+Place your feet securely on the ground.
+Sit upright with a straight back.
+Your #Balls should be hanging freely
+and you should be reasonably comfortable.
+This is your "Basic Position" 
+From now on you will assume this position 
+for exercising and stay in this position during our session @SetFlag(av_basic_position)
+unless told otherwise @UnlockImages
+@End
+(av_quest_02)
+Do you enjoy bondage? @SetFlag(av_quest_03)
+[yes] I think that #Cock could use a little bondage. @SetFlag(av_fetish_bondage)
+[no] It's #Okay @Goto(av_quest_03)
+@DifferentAnswer yes or no?
+I hope you are prepared to be tied soon.
+@End
+(av_quest_03)
+Are you into playing with hot wax? @SetFlag(av_quest_04)
+[yes] Hmm @SetFlag(av_fetish_hothax)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+#_TheThingsICanDoToYou
+@End
+(av_quest_04)
+Do you enjoy pegging? @SetFlag(av_quest_05)
+[yes] I'm gonna train you to be a good anal whore. @SetFlag(av_fetish_pegging)
+[no] #Okay
+@DifferentAnswer yes or no?
+Do you rather a 50% chance to cum or 100% to ruin your orgasm? 
+[50, cum] A gambler, huh?
+[ruin, 100] #Okay @SetFlag(av_fetish_ruin)
+@DifferentAnswer ruin or cum #Slave ?
+#_TheThingsICanDoToYou
+@End
+(av_quest_05)
+The next thing I want you to learn @SetFlag(av_quest_06) @LockImages
+is the "Standing Position".  @ShowImage[av_imagens\01.jpg]
+Guess what...
+... right. Stand up straight 
+feet slightly apart, @SetFlag(av_standing_position)
+hands behind your back! @UnlockImages
+@End
+(av_quest_06)
+Do you like receiving pain? @SetFlag(av_quest_07)
+[yes] I already knew it @SetFlag(av_fetish_pain)
+[no] #Okay
+@DifferentAnswer yes or no?
+@End
+(av_quest_07)
+The next thing I will introduce you to today is "Twitching" @SetFlag(av_quest_08)
+"Twitching" is when you contract your pelvic muscles and your cock jumps up.
+Try it once.
+Actually "Twitching" consist of two actions: 
+Contraction of your muscles 
+and relaxation of your muscles.
+On the command "Tense" you will contract 
+and on "Release" you will relax.
+For now, we will "Tense" and immediate "Release" 
+Later, when you are better trained, 
+I will make you hold "Tense".
+Let's see how well you perform in practice @SetFlag(av_fetish_twitching)
+@End
+(av_quest_08)
+Do you like being handled roughly? @SetFlag(av_quest_09)
+[yes] #Yes, you like that #Slave @SetFlag(av_fetish_rough)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+@End
+(av_quest_09)
+The next topic for today is @SetFlag(av_quest_10)
+the "Submissive Position" @ShowImage[av_imagens\04.jpg] @LockImages
+Listen carefully. 
+I want you #KneelForMe 
+bend forward and rest your head on your hands.
+Your ass should stick up, 
+your legs will be slightly apart  @SetFlag(av_submissive_position)
+so that your #Balls are hanging nicely. @UnlockImages
+@End
+(av_quest_10)
+Do you like CEI (cum eating)? @SetFlag(av_quest_11)
+[yes]  I'm gonna train you to be a good slut. @SetFlag(av_fetish_cei)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+@End
+(av_quest_11)
+This position is called 'kneel' @SetFlag(av_quest_12)
+So when I tell you 'Kneel #PetName ' I want you on your knees
+Your knees and ankles touching each others
+Your back straight
+Your hands crossed being your back, palms outward
+Your head bowed down @SetFlag(png__position_kneel)
+If I want you to keep this one for a long time I'll tell you to get a pillow for under your knees
+And if you get punished the pillow can be replaced by rice or frozen peas
+Trust me after a few minutes kneeling on rice you'll be a lot more obedient #lol
+Let's try it
+Don't worry, the classical one, not in punishment mode #Grin
+@RapidTextOn Kneel #PetName @Wait(20)
+With some training you'll be able to keep it a lot longer without any pillow @Wait(10)
+Alright you can sit down @RapidTextOff 
+@End
+(av_quest_12)
+Do you like Titjobs? @SetFlag(av_quest_13)
+[yes]  Mmm, we have a tit slave here  @SetFlag(av_fetish_titjob)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+@End
+(av_quest_13)
+The next one is the 'worship' position @SetFlag(av_quest_14)
+You'll do this one each time I tell you to worship me or you pray to me @SetFlag(png__position_worship)
+It's basicly the praying position of the muslims
+Kneeling, knees together
+Back and head down, your forehead touching ground
+Your arms stretched in front of your reaching far
+Your hands together palm down touching the floor @ShowImage[png\worship.jpg] @UnlockImages
+Let's try it
+Worship me by saying out loud "I will always obey, love and worship #DomHonorific #DomName " 20 times @Wait(20)
+I know you will #PetName #Grin
+And in exchange I promise that I will always make you ache for me! #lol
+@End
+(av_quest_14)
+Do you like CFNM? (clothed female, nude male) @SetFlag(av_quest_15)
+[yes]  Mmm, good thing is, you are already naked for me  @SetFlag(av_fetish_cfnm)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+@End
+(av_quest_15)
+Do you like Gag?  @SetFlag(av_quest_16)
+[yes]  Mmm, shut up #Lol  @SetFlag(av_fetish_gag)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+@End
+(av_quest_16)
+This one is the 'beg' position @SetFlag(av_quest_17)
+It's also a kneeling position @SetFlag(png__position_beg)
+But this time Your knees are slighly apart around 10 inches/25 centimeters
+Sitting on your heels, back straight
+Hands on your laps, palms up
+And head up, eyes looking down
+Each time you have something to ask of me or if I tell you to beg me I want you in this position! #Grin @ShowImage[png\beg.jpg] @UnlockImages
+Let's try it
+@RapidTextOn Beg me orally to let you stroke #PetName @Wait(10)
+Not convincing enough, beg harder @Wait(10)
+Alright, good enough you can sit down again @RapidTextOff
+@End
+(av_quest_17)
+Do you like facesitting? @SetFlag(av_quest_done)
+[yes] So this is the kind of stuff that turns you on huh?  @SetFlag(av_fetish_facesitting)
+[no] It's #Okay
+@DifferentAnswer yes or no?
+@End
+(av_quest_done)
+...
+@End
+(av_quest_finished)
+...
+@End

@@ -1,0 +1,8 @@
+#DomName have been complaining. You don't really follow their instructions, do you? @SetModule(AV_SpecGlitter3Module1)
+You just ignore their punishments as you please, is that true?
+[yes] Great! I will give you a lesson that you cannot skip... 
+[no] No, you have never skipped a punishment before? Then you wouldn't have any problems with my new, unskippable punishment...
+@DifferentAnswer #YesorNo #SubName?
+Well, do you want to change that pathetic behaviour, slave?
+#StartStroking @StartStroking
+@End

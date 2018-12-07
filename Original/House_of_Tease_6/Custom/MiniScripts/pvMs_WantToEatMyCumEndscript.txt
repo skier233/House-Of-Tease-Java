@@ -1,0 +1,16 @@
+@NullResponse @CheckFlag(av_fetish_cei)
+@NullResponse @CheckFlag(pthevCEI_No)
+Really?
+That's good to know, #Name
+I'll remember that #EmoteHappy @SetFlag(av_fetish_cei)
+@End
+(av_fetish_cei)
+I know, #Name #Laugh @If[pthevBegForCEI]>[2]Then(you told me)
+@End
+(you told me)
+You told a a couple of times already
+@End
+(pthevCEI_No)
+So you changed you mind about that #EmoteHappy
+That's good to know @DeleteFlag(vpthevCEI_No) @SetFlag(av_fetish_cei)
+@End

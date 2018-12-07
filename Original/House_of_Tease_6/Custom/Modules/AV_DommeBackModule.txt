@@ -1,0 +1,30 @@
+#StopStroking @StopStroking 
+@NullResponse @RapidCodeOn
+@NullResponse @RemoveTeaseTime(20 Minutes)
+@NullResponse @If[AV_GlitterControl]=[1]Then(G01)
+@NullResponse @If[AV_GlitterControl]=[2]Then(G02)
+@NullResponse @If[AV_GlitterControl]=[3]Then(G03)
+(G01)
+@Contact1 Look who is back @AddDomme
+Hi #PetName, miss me?
+@Contact1 He is fine #EmoteHappy
+Thanks #Contact1, I will take control now
+@Contact1 You are welcome...cya
+@NullResponse @RemoveContact1
+@End
+(G02)
+@Contact2 Look who is back @AddDomme
+Hi #PetName, miss me?
+@Contact2 He is fine #EmoteHappy
+Thanks #Contact2, I will take control now
+@Contact2 You are welcome...cya
+@NullResponse @RemoveContact2
+@End
+(G03)
+@Contact3 Look who is back @AddDomme
+Hi #PetName, miss me?
+@Contact3 He is fine #EmoteHappy
+Thanks #Contact3, I will take control now
+@Contact3 You are welcome...cya
+@NullResponse @RemoveContact3
+@End

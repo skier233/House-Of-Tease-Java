@@ -1,0 +1,13 @@
+@NullResponse @AFKOn @RapidCodeOn
+@NullResponse @RestrictOrgasm(1 second)
+@NullResponse @DeleteFlag(pvOCGending)
+@NullResponse @DeleteFlag(pvOCGsecondguess)
+@NullResponse @DeleteFlag(pvOCGthirdguess)
+@NullResponse @DeleteFlag(pvOCGfourthguess)
+@NullResponse @DeleteFlag(pvOCGfifthguess)
+@NullResponse @DeleteFlag(pvOCGame)
+@NullResponse @DeleteFlag(pvOCRollDice)
+@NullResponse @DeleteFlag(pvOrgasmControl)
+@NullResponse @DeleteFlag(pvOCGameActive)
+@NullResponse @AFKOff @RapidCodeOff
+@End

@@ -1,0 +1,70 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#Stop @StopStroking
+(Sub Not Stroking)
+#SubName @CheckFlag(AV_AskedHumGilrs)
+I know you are devoted to me and do as I say.
+@Flag(av_fetish_rough) and like to be put in your place
+@Flag(av_fetish_pain) and it's a painslut
+That make me happy.
+You want to make me happy, right? @Timeout(5, AV_Timeo233)
+[yes] #Good 
+[no] You don't? 
+@DifferentAnswer #YesorNo
+(AV_Timeo233)
+I already exposed you to my Glitter friends
+What I want to know now
+If you would allow me to expose you to other girls...
+Before you answer, you need to know they are not like my friends...
+Some of them are real Dominatrix...
+Others want just to see a guy doing anything they said...
+So, this can be more humiliating than you're used to...
+Do you want to try?
+[yes] #Good @SetFlag(av_fetish_humiliating)
+[no] It's OK... @Goto(NoHumil)
+@DifferentAnswer #YesorNo
+@NullResponse @SetFlag(AV_AskedHumGilrs)
+(AV_AskedHumGilrs)
+#AV_PickGirls
+@SystemMessage #AV_GirlName has joined the chat room...
+@NullResponse @SetVar[AV_OmelegComplete]=[#Random(8,9)]
+@NullResponse @SetVar[AV_CalcOme]=[0] 
+(AV_Omeleg)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_Omeleg]=[0] 
+@NullResponse @SetVar[AV_OmelegTarget]=[#Random(2,4)]
+(AV_Start)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> #AV_ShowOmelegPics <Font color="black" size="4"> #AV_OmLegStroke </Font> @ChangeVar[AV_Omeleg]=[AV_Omeleg]+[1]  @Chance35(AV_OM_NoEdge1)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black"> #Edge </Font> #AV_ShowOmelegPics  @EdgeMode(Goto, AV_OM_NoEdge1) @Wait( #Random(10, 15))
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(C'mon #SubName,, don't you want to get close for me?, You should be edging for me much quicker than this #SubName, I know you can get there faster than this #Slave) </Font> #AV_ShowOmelegPics @Wait( #Random(10, 15))
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(Hurry up and get close for me, I hope you're not let letting yourself get distracted over there, Faster #SubName,, I want you on that edge right now) </Font> #AV_ShowOmelegPics @Wait( #Random(10, 15))
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(I know you can edge quicker than this, Focus #SubName,, I want you on that edge) </Font> #AV_ShowOmelegPics @Wait( #Random(10, 15))
+(AV_OM_NoEdge1)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> #Stop </Font> #AV_ShowOmelegPics @EdgeMode(Normal)
+@Flag(av_fetish_pain) @SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(Spank, Hit) your @RT(balls, testicles) </Font>  #AV_ShowOmelegPics @PlayAudio[tease\spank\Spank*.mp3] @Wait(15)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(On your knees, Get on your knees, Stand up, Stand) </Font>  #AV_ShowOmelegPics @Wait(10)
+#AV_ShowOmelegPics @SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> #AV_OmLegStroke </Font>  @Chance40(AV_OM_NoEdge2)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> #Edge  </Font> #AV_ShowOmelegPics  @EdgeMode(Goto, AV_OM_NoEdge2) @Wait( #Random(10, 15))
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(C'mon #SubName,, don't you want to get close for me?, You should be edging for me much quicker than this #SubName, I know you can get there faster than this #Slave) </Font> #AV_ShowOmelegPics @Wait( #Random(10, 15))
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(Hurry up and get close for me, I hope you're not let letting yourself get distracted over there, Faster #SubName,, I want you on that edge right now) </Font> #AV_ShowOmelegPics @Wait( #Random(10, 15))
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(I know you can edge quicker than this, Focus #SubName,, I want you on that edge) </Font> #AV_ShowOmelegPics @Wait( #Random(10, 15))
+(AV_OM_NoEdge2)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> #Stop  </Font> #AV_ShowOmelegPics @EdgeMode(Normal)
+@Flag(av_fetish_pain) @SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> @RT(Spank, Hit) your @RT(butt, ass)  </Font> #AV_ShowOmelegPics @PlayAudio[tease\spank\Spank*.mp3] @Wait(15)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> #SitDown  </Font> #AV_ShowOmelegPics @DeleteFlag(AV_OmStrokeNumber) @DeleteFlag(AV_OmStrokeBeat) @DeleteFlag(AV_OmStrokeSimple) @DeleteFlag(AV_OmStrokeOver)
+@SystemMessage <Font color="green"> #AV_GirlName :</Font> <Font color="black" size="4"> #AV_OmLegTaunts  </Font> #AV_ShowOmelegPics
+@NullResponse @If[AV_Omeleg]=[AV_OmelegTarget]Then(Enough)
+@NullResponse @Goto(AV_Start)
+(Enough)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_CalcOme]=[AV_CalcOme]+[AV_Omeleg]
+@NullResponse @If[AV_CalcOme]>=[AV_OmelegComplete]Then(EndOme)
+@NullResponse @DeleteFlag(AV_GirlErina) @DeleteFlag(AV_GirlKris) @DeleteFlag(AV_GirlMandy) @DeleteFlag(AV_GirlCarolinne) @DeleteFlag(AV_GirlNelly)
+I think @RT(you need, I want more) humiliating
+@NullResponse #AV_PickGirls @Goto(AV_Omeleg)
+(EndOme)
+#ThatsEnough
+@End
+(NoHumil)
+Let's try other things...
+@End

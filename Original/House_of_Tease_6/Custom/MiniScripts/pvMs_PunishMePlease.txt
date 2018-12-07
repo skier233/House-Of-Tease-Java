@@ -1,0 +1,8 @@
+Interesting thought, #Name
+Why should I punish you? @Wait(15)
+I don't see why I should punish you without a good reason @Chance50(reason enough)
+And if you want it, it can't really be a punishment anyway #EmoteRandom
+@End
+(reason enough)
+Although I suppose you interrupting me is reason enough #Laugh @CBT
+@End

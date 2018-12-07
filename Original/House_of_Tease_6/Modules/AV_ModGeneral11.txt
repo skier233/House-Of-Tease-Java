@@ -1,0 +1,321 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral11_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral11]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral11_NotFirstTime)
+(AV_ModGeneral11_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral11]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral11]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral11]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral11]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral11]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral11]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral11]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral11]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral11]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral11]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral11]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral11]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral11]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral11]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral11]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral11]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral11]=[AV_ModGeneral11]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral11]=[AV_ModGeneral11]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral11]=[AV_ModGeneral11]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral11]=[AV_ModGeneral11]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral11]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+I already know that you are an amazing subject 
+who gave himself up completely and with that turned into a @RT(screaming, begging, shivering) and shaking love slave 
+with only one thing on his mind and that is to please his Mistress.
+You are going to do what I say and you will like it. 
+Understood?
+#KneelForMe
+Oh, it feels so great
+knowing that you would bend over backwards to do anything just knowing it would make me happy. 
+You make me happy, #PetName. 
+It's like you were fucking born to do this.
+#StartStroking
+I can feel you not only getting deeper and deeper into it 
+but also that you're letting go
+thus allowing yourself to drift into an intense sexual bliss and with that under my control. 
+Your body goes into lustful and intense spasms with every word I tell 
+I just know that you're dying to orgasm for me. 
+#Edge @EdgeNoHold
+Of course that would be way too early and sure enough, after intensifying your lust even more! 
+I want you to feel who is in control of your mind and body.
+@Flag(av_fetish_rough) With every humiliations words, intense feelings of lust intensify.
+The intensity with which your feels and expresse each and everyone of my orders is spectacular my pet. 
+I want you to feel my power over you #PetName. 
+Finding the triggers, are the things that turns you on the most, is the key. 
+#StartStroking
+Here are one of theses trigger words: 
+@RT(Cock milked, Draining genitals, Forced ejaculation, Controled male orgasm?)
+Does it tell you something #PetName? 
+Is it what you looking for baby?? 
+@Flag(av_fetish_rough) When you start your computer late at night, you're not a human being. 
+@Flag(av_fetish_rough) You're a fuckin'animal! That's right you're a little dog. 
+@Flag(av_fetish_rough) Cauz little doggyslave can't control himself. 
+@Flag(av_fetish_rough) Don't deny it, pervert! Your #Cock have no secret for me, #PetName. 
+Keep stroking. 
+I want you to repeat after me. 'Thank you mistress, for letting me touch my cock.' 
+You're welcome, dear. 
+Now, stroke your cock harder. 
+Faster. 
+#Edge @EdgeNoHold
+@Flag(AV_DommeMistress, av_fetish_pain) Squeeze your fucking balls. 
+@Flag(AV_DommeMistress, av_fetish_pain) Don't touch your cock, I want you to squeeze those balls of yours. 
+@Flag(AV_DommeMistress, av_fetish_pain) Nice and tightly. 
+@Flag(AV_DommeMistress, av_fetish_pain) Keep them on there.
+Beg for me to let you cum. 
+#SitDown
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+I'm in control. I make the rules. 
+Do you understand?  @Timeout(10, AV_Jump85)
+[yes] Good boy
+[no] Say who's in control now.
+@DifferentAnswer #YesorNo #SubName?
+(AV_Jump85)
+Do you like being told by a girl that she's in control? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+#StartStroking
+Let's start with a few slow strokes. @PlayAudio[tease\b075.mp3] 
+Let's keep the momentum going. 
+Very good! 
+What's that? #Lol @PlayAudio[tease\b075.mp3] 
+No, there aren't any breaks. 
+Speed up @PlayAudio[tease\b120.mp3] 
+I can tell you are holding back better. 
+@RT(Let's try some more intense stimulation, I think you need to be pushed harder)
+Faster @PlayAudio[tease\b210.mp3] 
+Alright #PetName, think you can handle this? 
+I hope you dont mind
+@RT(But I feel that fast strokes are too hard, I think the slower stroking makes things easier) for you @PlayAudio[tease\b075.mp3] 
+I know very well that you are struggling right now 
+and that these slow strokes are making you go insane 
+but you wanted a tease so you are getting a tease.  @PlayAudio[tease\b075.mp3] 
+The orgasm you will have at the end will be amazing 
+if you are man enough to get to the end?
+#StopStroking @Chance50(AVRND27)
+You know my love, sometimes
+like right now
+I think about how you're soooo good to me. 
+My #Pussy is so fucking satisfied. 
+Mm... so deliciously satisfied. @Goto(KeepGoing)
+(AVRND27)
+you're just so hungry for my skin all the time
+and that feels so wonderful
+to be so desired, and of course to know you want to pleasure me however I want you to. 
+(KeepGoing)
+#StartStroking
+Freestyle now...
+Now that I'm denying you, I mean...  
+@RT(because, it's something else)...
+I want it to be very hard
+Not just your #Cock
+I want to make it hard for you to follow instructions
+Because I want you very frustrated and very horny
+And when you fail...
+You just give me an excuse to be <i>really</i> mean to you #Grin
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+There we go. 
+Was that so hard? 
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+@RT(#PetName, #SubName)
+Lay back, relax,  and let me make you happy. 
+I'm sure you're pretty hard now, but don't do anything yet. 
+Just relax for a moment...
+realize that if you follow my instructions, you will feel amazing in these next few minutes
+and, at the end, your cock will explode with pleasure as you shoot loads of cum all over the place. 
+Ok, let's get started. 
+Reach down and feel that cock. 
+Take your index finger and rub it right around the base. 
+Now run it up the underside and all around the head. 
+Now reach down and feel those balls. 
+Good boy.
+Now...
+#StartStroking
+Now reach down and feel those balls with your other hand. 
+Nice. 
+You can stop playing with your balls now, but keep stroking. 
+Good boy.
+#StopStroking
+Now, we're going to change things up. 
+You know how there's that technique of rubbing 2 sticks together to start a fire? 
+Do that with your cock. 
+Hold your shaft between your two palms and roll it. 
+There you go. 
+Not too fast. 
+Start off slowly.
+Good boy. It feels different, right? 
+Instead of the up-down motion of you stroking, it's more of a constant steam of pleasure. 
+Speed it up now, go to medium speed. 
+Nice.
+It feels so good. 
+Now go fast. 
+It feels awesome to go at the fast speed, doesn't it? 
+You like that, don't you? 
+You naughty boy.
+#StopStroking
+You're getting pretty close to cumming now, but we aren't ready just yet. 
+Back to stroking. 
+Go fast now. 
+Almost to that point of no return... 
+#Edge @Edge
+#LetTheEdgeFade
+Now, lets distract you a little
+bring you back from the brink of orgasm. 
+It's pretty hard to distract you when you're about to cum, but we'll try. 
+Well, it's been a good ammount of time at this point anyway
+back to stroking. @PlayAudio[tease\cStroke.mp3] 
+A little harder to control this time, eh? 
+You just want to cum so badly it's driving you crazy. 
+But lets take a break. 
+#StopStroking
+You want to come so bad. 
+You just want that release. 
+It will feel so good. 
+Go back to the firestarter method from before. 
+Roll your dick between your palms.
+Well, it's so much fun to tease you. 
+You want to cum so badly, but I won't let you yet.
+I can feel it. 
+Can you edge with that?
+Let's find out
+#Edge @Edge
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+#SubName
+Clasp your hands together behind your back.
+@RT(You have already agreed to comply, You have taken an oath to comply).  
+Now, I know that you want to touch yourself.  
+But remember how much sweeter that is when a @RT(girl, woman) is control of how and when you do so.
+Do not touch yourself.  
+Keep your hands behind your back.  
+Now, I know you have a hand you like to #Stroke with.  
+This is what we will call your dominant hand.  
+Your other hand we will call your submissive hand.  
+What I want you to do is this:
+Take your submissive hand out from behind your back.  
+Leave your dominant hand behind your back.
+Take your submissive hand and place it on the tip of your penis.  
+Do not touch your shaft.
+Go ahead and touch the tip to your heart's content.  
+Do whatever you want with it but do not touch the shaft.
+Now, touch the very top and rub your finger across it.  
+@Flag(av_fetish_cei) Now put that finger in your mouth and ingest any moisture that is upon it.
+Now return your submissive hand behind your back.
+Now breath in and out deeply, and remind yourself that you have taken an oath to comply.
+Now, take both hands out from behind your back and let them lie naturally
+not touching your side but a few inches out from your side.
+I know that when you #Stroke, you like to rub your shaft up and down.  
+I am going to allow you to stroke yourself in a moment. 
+But when I do, you are only allowed to stroke upwards  according to the specific tempo as I instruct. 
+For each beat, you must do one upward stroke. 
+Do not do any downward strokes.
+Now, place your submissive hand on your shaft. 
+Do not do anything further until I begin the beats.
+Now, begin. #AV_AudioBeat @Wait(20)
+#StopStroking
+Place your submissive hand under your balls. 
+Keep it there.  @Wait(10)
+@Flag(av_fetish_cei) Now, place your dominant hand just on the tip. 
+@Flag(av_fetish_cei) Swirl it around and again take any moisture into your mouth. 
+@Flag(av_fetish_cei) After you have placed your finger into your mouth...
+return both hands to your side.
+You are now feeling the benefits and power of my control.  
+You must resist the temptation to do anything other than what I instruct.
+Now, Place your dominant hand underneath your balls. 
+Place your submissive hand on the shaft.   
+When I begin the beats, #Stroke upwards using your submissive hand.
+Now. #AV_AudioBeat @Wait(20)
+#StopStroking
+Keep your hand on your shaft but do not move anything. 
+Keep your dominant hand under your balls. @Wait(10)
+Now again #Stroke to the beat, upwards only. #AV_AudioBeat @Wait(20)
+#StopStroking
+Now again stroke upwards along with my beats with your submissive hand.   
+But only stroke upward and do not go any faster than my rhythm.
+Go #AV_AudioBeat @Wait(20)
+#StopStroking
+Keep both hands where they are. @Wait(10)
+@Flag(av_fetish_cei) Now, place your submissive hand on the tip and again take any moisture in your mouth.
+Return both hands to your sides.
+Now with both hands by your side, thrust your pelvis in the air as if you are having sex. 
+I'm not going to count, but I am going to allow you to do this for 15 seconds. 
+Go @Wait(15)
+Stop.  
+Now, place your dominant hand under your #Balls.  
+Place your submissive hand over that hand. 
+Now, with your hands in that position, move your hands so that your #Cock flaps forward and backward until I stop.
+Keep going  @Wait(10)
+Stop.
+Remove your hands from your balls and put them by your sides.
+Place your submissive hand under your balls.
+I am going to allow you to stroke rapidly up-and-down using your dominant hand for 10 seconds.  
+I will not be counting aloud, but I will be timing you.  
+Do not orgasm. Go. @PlayAudio[tease\cStroke.mp3]  @Wait(10)
+#StopStroking
+Keep your hand on the shaft.
+I am now going to allow you rapid and down strokes for another 10 seconds.  
+Do not come. 
+Go. @PlayAudio[tease\cStroke.mp3]  @Wait(10)
+#StopStroking
+I am now going to allow UPWARD STROKES ONLY for another 10 seconds.  
+Do not come.
+Go. @PlayAudio[tease\cStroke.mp3]  @Wait(10)
+#StopStroking
+This may have been difficult
+but you have made be happy 
+and you will find great benefits from this and our future trainings.
+@End

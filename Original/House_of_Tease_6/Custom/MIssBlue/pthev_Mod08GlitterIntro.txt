@@ -1,0 +1,449 @@
+@NullResponse @CheckFlag(pvMod08Rerun)
+@NullResponse @CheckFlag(pthevModRelaDone)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod08Rerun)
+@NullResponse @Goto(one,two,three,first,second,third)
+(pthevModRelaDone)
+@NullResponse @CheckFlag(pthevGlitterIntroduced)
+Hmmm... #Grin @ShowFemdomImage
+#StopStroking @StopStroking @ShowFemdomImage
+I like the idea of sharing you with other women #SubName
+@Flag(pthevPartnerCanJoin) And I mean not just @ShowVar[pthevNamePartner]
+Some of my friends would love to have their way with you #Grin
+Especially #Contact1 and #Contact3
+To be honest, #Contact3 might be too much for you to handle #Laugh
+Would you mind if they join us sometime?
+[yes] That's unfortunate
+[no] Good #Smile
+@DifferentAnswer #YesOrNo
+Because #Contact1 has already been reading along...
+@NullResponse @AddContact1
+@Contact1 Hi #SubName #Smile @Timeout(7,said hi)
+[hi,hello,hey] @NullResponse @Goto(replied something)
+[how are you,how do you do] @Contact1 I'm fine, thank you. Wow #ShortName you've trained him well
+[nice to meet,happy to meet,glad to meet] @Contact1 Same here #SubName. Wow #ShortName you've trained him well 
+@AcceptAnswer @NullResponse @Goto(replied something)
+Well he was pretty well-trained to begin with...
+God knows how that happened #Laugh
+@Flag(pvHasPartner) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevExGF) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevSubInLove) Maybe he's trying to impress @ShowVar[pthevNamePartner]
+@Contact1 Well, submissive guys tend to be like that
+That's true @Goto(replied something)
+(said hi)
+Aren't you going to say hi to my friend #PetName?
+[hi,hello,hey] @NullResponse @Goto(replied something)
+[how are you,how do you do] @Contact1 I'm fine thanks. #ShortName you may have trained him too well
+[nice to meet,happy to meet,glad to meet] @Contact1 Same here #SubName. #ShortName you've trained him too well 
+@AcceptAnswer @NullResponse @Goto(replied something)
+@Contact1 I mean, waiting for your permission to say hello seems a bit much
+Well he was pretty well-trained to begin with...
+God knows how that happened #Laugh
+@Flag(pvHasPartner) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevExGF) I suppose we've got @ShowVar[pthevNamePartner] to thank for that
+@Flag(pthevSubInLove) Maybe he's just trying to impress @ShowVar[pthevNamePartner] 
+@Contact1 Well, submissive guys tend to be like that
+That's true
+(replied something)
+@Contact1 So how turned on is he right now?
+Only one way to be sure: check how fast he can edge #EmoteHappy
+@Contact1 Alright, get to the edge #SubName @Edge
+@Contact1 Well we did learn that he listens pretty good 
+What about his turned-on-ness?
+@Contact1 I'm not sure, I think I have to see that again
+@Contact1 Get to the edge again #SubName @Edge
+@Contact1 I think his turned-on-ness isn't quite up to my standards yet 
+Your standards are pretty high, to be honest
+@Contact1 At least you didn't invite #Contact3, I can't even <i>see</i> her standards
+I'm sure she'll want to get in on this soon enough #Laugh
+@Contact1 Be very afraid #SubName... Also, get to the edge one more time @Edge
+@Contact1 Nice...
+@Contact1 Oh by the way, I asked #Contact3 and #Contact2 to join us too
+@Contact1 I hope that's okay? They should be here soon...
+That's fine, and I'm sure #SubName wouldn't mind either
+Right, #SubName?
+[yes] Too bad, I don't care #Smile
+[no] I didn't think so #Smile
+@AcceptAnswer It doesn't matter either way #Smile
+They're very welcome @AddContact2
+@Contact2 Hi!
+Look who's here, we were just talking about you
+@Contact1 Is #Contact3 also coming?
+@Contact2 I don't know about coming, but she'll be here soon #EmoteWink
+#Lol
+@Contact1 I know who's definitely <i>not</i> coming...
+@Contact2 So this #SubName is the one I've been hearing so much about?
+Yes, that's him @AddContact3
+@Contact3 Am I late?
+Never #Smile @SetFlag(pthevGlitterIntroduced)
+@Contact1 We were just about to have some fun with #SubName #EmoteHappy
+@Contact3 <i>My</i> kind of fun?
+Maybe not right now
+But you'll get the opportunity to have <i>your</i> kind of 'fun' soon enough #Laugh
+@Contact2 Aww, I feel sorry for #SubName already!
+@Contact3 C'mon, I'm not that bad
+@Contact1 Well, I can remember a certain incident with a certain guy...
+@Contact1 Involving a certain fairly sizable strapon dildo...
+@Contact3 Yeah, yeah okay #Lol
+@Contact3 Hey #ShortName, can I give #SubName an order?
+Sure, go ahead
+@Contact3 Okay #SubName, give me an edge @Edge(Longhold,HoldTaunts)
+@Contact2 Wow...
+@Contact1 That was intense #Laugh
+@BallTorture And it's not just edging you can make him do... @CBTBalls
+@Contact3 This is starting to look like <i>my</i> kind of fun #Laugh
+@Contact2 That was just mean, #ShortName...
+@Contact2 Anyway, I gotta go, see you girls later #Smile @RemoveContact2
+@Contact1 I think you scared #Contact2 off already, #ShortName
+@Contact3 Oh, she'll be back #Laugh
+Yeah, she's not as innocent as she lets on, #Contact1
+@CockTorture @NullResponse @Goto(just so much fun)
+@Contact1 Now if only you let us slap his privates around for a bit...?
+Not gonna happen #Contact1
+But there's plenty of other stuff you can do to my #PetName #Smile @Goto(plenty of other stuff to do)
+(just so much fun)
+@Contact1 Hey #SubName... @CBTCock
+@Contact1 That is just <i>so</i> much fun #EmoteHappy
+(plenty of other stuff to do)
+If you want to have some more time with #SubName, just let me know
+@Contact1 I'll hold you to that!
+That goes for you too of course, #Contact3
+@Contact3 Thanks! I've got some stuff to do now, so I'll talk to you later, okay?
+See you! @RemoveContact3
+@Contact1 Well, this has been fun, #ShortName
+@Contact1 I'll leave you to it, thanks for letting me join in #Smile
+Anytime, #Contact1
+@Contact1 See ya soon!
+Bye
+@Contact1 Bye #SubName @RemoveContact1
+My friends seem to like you a lot, #PetName
+Well, they like messing with you, anyway #Laugh
+@End
+(pthevGlitterIntroduced)
+@Nullresponse @RapidcodeOn
+@NullResponse @CheckFlag(pvMod08Stage2)
+@NullResponse @SetVar[pvMod08RunCount]=[0]
+@Flag(pvMod8A1) @Nullresponse @Goto(pvMod8A1)
+@Flag(pvMod8B1) @Nullresponse @Goto(pvMod8B1)
+@Flag(pvMod8C1) @Nullresponse @Goto(pvMod8C1)
+@Nullresponse @Goto(one,two,three)
+(pvMod8A1)
+@Flag(pvMod8B2) @Nullresponse @DeleteFlag(pvMod8A1) @SetFlag(pvMod8A2) @DeleteFlag(pvMod8B2) @SetFlag(pvMod08Stage2) @Goto(three)
+@Flag(pvMod8C2) @Nullresponse @DeleteFlag(pvMod8A1) @SetFlag(pvMod8A2) @DeleteFlag(pvMod8C2) @SetFlag(pvMod08Stage2) @Goto(two)
+@Nullresponse @DeleteFlag(pvMod8A1) @SetFlag(pvMod8A2) @Goto(two,three)
+(pvMod8B1)
+@Flag(pvMod8A2) @Nullresponse @DeleteFlag(pvMod8B1) @SetFlag(pvMod8B2) @DeleteFlag(pvMod8A2) @SetFlag(pvMod08Stage2) @Goto(three)
+@Flag(pvMod8C2) @Nullresponse @DeleteFlag(pvMod8B1) @SetFlag(pvMod8B2) @DeleteFlag(pvMod8C2) @SetFlag(pvMod08Stage2) @Goto(one)
+@Nullresponse @DeleteFlag(pvMod8B1) @SetFlag(pvMod8B2) @Goto(one,three)
+(pvMod8C1)
+@Flag(pvMod8A2) @Nullresponse @DeleteFlag(pvMod8C1) @SetFlag(pvMod8C2) @DeleteFlag(pvMod8A2) @SetFlag(pvMod08Stage2) @Goto(two)
+@Flag(pvMod8B2) @Nullresponse @DeleteFlag(pvMod8C1) @SetFlag(pvMod8C2) @DeleteFlag(pvMod8B2) @SetFlag(pvMod08Stage2) @Goto(one)
+@Nullresponse @DeleteFlag(pvMod8C1) @SetFlag(pvMod8C2) @Goto(one,two)
+-
+-
+-
+(one)
+@NotFlag(pvMod08Rerun) @NullResponse @SetFlag(pvMod8A1)
+Check out this picture I found... @ShowBlogImage @AddContact1
+Hey, look who just logged on
+@Contact1 Hey you #Smile
+@Contact1 Oh, and hello to you too, #PetName...
+What's up, #Contact1?
+@Contact1 Just thought I'd stop by to see how your pet is doing
+@Contact1 And maybe add to his suffering if I can...
+Be my guest #EmoteHappy
+@Contact1 Give me an edge, #SubName @Edge 
+@Contact1 Fuck that is HOT
+@Contact1 Get to the edge again, #PetName @EdgeHold
+Hey #Contact1, I noticed you've started calling him by my pet names #Laugh 
+@Contact1 I guess I did, I hope that's okay?
+I don't mind #Smile
+@Contact1 #PetName, smack your #Balls for me
+[done,did] Too fucking funny #Laugh
+@DifferentAnswer @Contact1 Do it!
+You're a natural, #Contact1
+Why don't you have a #PetName of your own?
+@Contact1 I don't know...
+@Contact1 I do torment my boyfriend now and then
+@Contact1 But he doesn't seem to like it too much, not like #SubName here... #Laugh
+It does take a certain type... 
+Edge, #PetName @EdgeHold
+#LetTheEdgeFade
+@Contact1 Do you have, like, a schedule for edges?
+What do you mean?
+@Contact1 I mean does he have to edge like at least every 5 minutes or so?
+Not really, but I try to keep him a a certain level of desperation #EmoteWink
+@Contact1 Edge for us right now, #SubName @EdgeNoHold
+@Contact1 His desperation level seemed to be dropping, so...
+#Laugh
+Like I said, you have a talent for it
+@Contact1 Oh, I have many talents #EmoteWink
+@Contact1 I gotta go, talk to you later!
+Okay,bye @RemoveContact1
+@End
+-
+-
+-
+(two)
+@NotFlag(pvMod08Rerun) @NullResponse @SetFlag(pvMod8B1)
+#KeepStroking
+I can show you some pictures while you do @ShowBlogImage
+Just to make it a little big more difficult #Grin @ShowBlogImage
+#EmoteMoan that's a good one @ShowBlogImage @AddContact2
+Look who just logged on to say hi
+@Contact2 Hi #ShortName and #SubName
+@Contact2 I'm not interrupting anything, am I?
+Never, #Contact2 #Smile
+Well, I hope not... #PetName are you still stroking?
+[yes] Good
+[no] I didn't tell you to stop, so start #JerkingOff right now
+@DifferentAnswer #YesOrNo
+@Contact2 It's so weird that he needs you to tell him to masturbate #EmoteRandom
+Oh, he would still do it if he didn't have me #Lol
+But it's much better for him to be controlled like this
+#StopStroking @StopStroking
+@Contact2 Too bad, #SubName... you better do as the lady says
+@Contact2 So #ShortName, do you control him all the time?
+@Contact2 Or can #SubName go off and do as he likes when you're not looking... @CheckFlag(pthevCompleteControlYES,under my complete control)
+No, only in chat sessions does he have to follow my instructions @CheckFlag(pthevCompleteControlNO,not under complete control)
+Or those of my friends, of course #Smile @Goto(she wants you to start stroking)
+(not under complete control)
+I tried to get him to submit completely, but he said no #EmoteSad
+@Contact2 #Contact3 would know what to do about that #Lol
+Oh yes... 
+@Contact2 You're lucky she's not her, #SubName!
+But he still has to do as she says when she comes in to chat
+Like with all my friends #Smile @Goto(she wants you to start stroking)
+(under my complete control)
+Oh no no, I control when and how he masturbates
+He's not ever allowed to touch himself unless I allow it
+Or one of my friends, of course #Smile
+@Contact2 That must be pretty tough...
+(she wants you to start stroking)
+@Contact2 #SubName, I want you to start stroking now
+@Contact2 Sorry, #ShortName, is it okay if I just step in like that?
+Sure, gives me a chance to sit back an enjoy the show #EmoteHappy
+@Contact2 Stroke a little faster, #SubName
+@Contact2 That's right, make your dick feel really good
+@Contact2 Even faster now...
+@Contact2 Slow down
+@Contact2 Stroke <i>really</i> slow now
+@Contact2 Long, slow strokes, #SubName
+I call them 'worship strokes'
+@Contact2 Give me your slowest worship strokes, #SubName
+@Contact2 Keep going just like that
+You can make him do this for a <i>very</i> long time
+@Contact2 Like, how long?
+I don't know, haven't actually tried to find the limit yet
+But pretty long, for sure
+@Contact2 Hours, probably
+Days, if he didn't fall asleep eventually
+@Contact2 He would probably keep going in his sleep
+#Laugh
+<i>That</i> I would like to see...
+@Contact2 He probably dreams of #JerkingOff already anyway...
+@Contact2 #SubName, does #DomName ever pop up in your dreams?
+[yes] I've really gotten under your skin, haven't I #Smile
+[no] You will, eventually #Grin
+@DifferentAnswer #YesOrNo
+@Contact2 Keep those slow strokes coming, #SubName
+@Contact2 Maybe we should try putting him to sleep, to see if the #JerkingOff persists
+We could try some hypnosis, maybe...
+You are getting very sleepy, #SubName
+Your eyelids are getting heavy...
+@Contact2 Your <i>balls</i> are getting heavy...
+#Lol
+I don't think this is gonna work
+@Contact2 Nah, you're right
+@Contact2 Hands off your cock, #SubName
+Did you fall asleep, #PetName?
+[yes] See, I'm a terrible hypnotist #Laugh
+[no] @Contact2 You're a better hypnotist than you thought...
+@DifferentAnswer #YesOrNo
+@Contact2 I'm sure you've got ways to make sure he doesn't doze off
+Instead of 'when I snap my fingers' it's 'when I slap your cock'
+@Contact2 I bet that would <i>not</i> be a very popular stage show #Lol
+I know some girls who would <i>love</i> that stage show!
+@Contact2 #Laugh
+@Contact2 Talk to you later, #ShortName
+Bye, #Contact2 @RemoveContact2
+@End
+-
+-
+-
+(three)
+@NotFlag(pvMod08Rerun) @NullResponse @SetFlag(pvMod8C1)
+#KeepStroking
+Check out this picture I found... @ShowBlogImage
+This one's pretty @RT(hot,sexy) too @ShowBlogImage @AddContact3
+Look who just came in #EmoteHappy
+@Contact3 Hi #Smile
+Good to see you, #Contact3
+@Contact3 You too, and #SubName of course
+@Contact3 Always good to see him suffer some well deserved abuse #Grin
+At the moment he's just doing some stroking
+@Contact3 Always good for buildup... May I?
+Be my guest
+@Contact3 Get to the edge, #SubName @EdgeHold
+@Contact3 That cock is feeling way too good right now
+@Contact3 Hey #DomName can I hurt that pathetic excuse for a cock?
+@CockTorture Sure #Smile @Goto(yes you can hurt it)
+No, #SubName isn't into it, sorry #EmoteSad
+@Contact3 Hm... I don't think that should be up to him, but okay @Goto(no you cannot hurt it)
+(yes you can hurt it)
+@Contact3 Awesome #Grin @CBTCock
+@Contact3 It's not feeling so good now, it it? #Grin
+(no you cannot hurt it)
+@Contact3 So tell me, #SubName...
+@Contact3 Do you take it up the ass for #DomName?
+[yes] You're not thinking what I'm thinking, are you #Contact3? @Goto(i do take it up)
+[no] @Contact3 Well you should...
+@DifferentAnswer @Contact3 #YesOrNo
+You're not thinking what I'm thinking, are you #Contact3?
+(i do take it up)
+@Contact3 What?
+You know, a certain incident with a certain guy...
+Involving a certain fairly sizable strapon dildo and a pair of handcuffs...
+@Contact3 #Laugh I wouldn't do that to #SubName, you know that
+@Contact3 Not unless you say it's okay, anyway #EmoteWink
+Just checking... I don't think #SubName is ready for <i>that</i>
+@Contact3 Don't worry about it, #ShortName #Smile
+(she wants you to kneel)
+@NotFlag(pvKneeling,pvWillNotKneel) @Contact3 Get on your knees, #SubName @TempFlag(pvKneeling)
+That <i>is</i> how it all started...
+@Contact3 Hey, c'mon, I don't even know where that strapon is...
+@Contact3 And besides, I'm not in the room with #SubName now am I?
+Just kidding, #Contact3
+@Contact3 I'm not as cruel a person as you girl seem to think
+@Contact3 You don't think I'm too cruel, do you #SubName?
+[yes,I do,you are] @Contact3 Oh really...
+[no,I don't, you're not] @Contact3 You see, #ShortName? @Goto(he is just scared of you)
+@DifferentAnswer #YesOrNo
+You shouldn't have said that, #PetName #Grin
+@Contact3 Spread you legs, #SubName
+@Contact3 You know what I'd <i>love</i> to do right now?
+@BallTorture I know what you're thinking, go right ahead #EmoteHappy @Goto(yes you can hurt them)
+I'm going to have to stop you right there, #Contact3
+Those #Balls are off limits, unfortunately...
+@Contact3 Oh that's just ridiculous! You should be able to smack them around...
+Sorry, you'll have to think of something a bit less cruel
+Be nice to a boy for a change #EmoteWink @Goto(show you how nice)
+(yes you can hurt them)
+@Contact3 Spread your legs a little wider #SubName @CBTBalls
+@Contact3 Do you still think I'm cruel?
+[yes] @Contact3 So you think you know me better than I know myself...
+[no] @Contact3 You see, #ShortName? @Goto(he is just scared of you)
+@DifferentAnswer @Contact3 #YesOrNo
+@Contact3 Alright then @Goto(show you how nice)
+(he is just scared of you)
+He's just scared of telling you the truth #EmoteWink
+(show you how nice)
+@Contact3 I'll show you how nice I can be...
+@Contact3 Get to the edge, #SubName @EdgeHold
+@Contact3 That was just a little taste of how <i>good</i> I can make you feel, #SubName #Smile
+I think he gets the point #Lol
+@Contact3 I have to get going, talk to you later, #ShortName
+You're always welcome to join in, #Contact3!
+@Contact3 Thanks! @RemoveContact3
+Let me tell you, #SubName
+Though she may act tough sometimes 
+Once you get to know her, #Contact3 is actually the kindest person you'll ever meet
+@Flag(pvKneeling) You can get off your knees now #Smile @DeleteFlag(pvKneeling)
+@NullResponse
+@End
+(pvMod08Stage2)
+@NullResponse @If[pvMod08RunCount]>[4]Then(Rerun)
+@NullResponse @Goto(first,second,third)
+(first)
+@NullResponse @AddContact1
+Look who's here #EmoteHappy
+@Contact1 Just dropped by to get an edge out of #PetName here
+@Contact1 Is that okay?
+Sure!
+@Contact1 Edge for me, #SubName @EdgeHold
+@Contact1 That's all #Grin @CheckFlag(pthevLink2PicSaved,sissy pic)
+Just let me know when you want to spend to more time with him
+@Contact1 Will do #Smile @RemoveContact1
+#Contact1, always in a hurry #Laugh
+@End
+(sissy pic)
+Hold on a second, #Contact1
+Did I ever show you that picture of #SubName I have?
+@Contact1 What picture...?
+Well...
+This one #Smile @ShowImage[Images\My Sissy Pics\Sissy01.jpg] @LockImages
+@Contact1 That is just <i>too</i> fucking funny! #Laugh
+@Contact1 Looking like a true sissy bitch...
+I know, right? #Laugh @UnlockImages
+@Contact1 We should put this on the web
+@Contact1 In a contact add, <i>Sissy bitch looking for large black cock</i>
+That's just evil, #Contact1
+Evil and fun #Grin
+Maybe after we make a couple more more pictures...
+@Contact1 We should definitely do that, maybe we can pimp him out
+@Contact1 You know, make some money...
+That's tempting... would you be up for it, #PetName?
+[yes] @Contact1 OMG Now we definitely have to do it!!
+[no] @Contact1 That's no surprise...
+@DifferentAnswer #YesOrNo
+I'd prefer to keep #SubName for myself and my friends to play with #Smile
+@Contact1 That's probably for the best
+@Contact1 Gotta go, #ShortName see you later #Smile
+Bye #Contact1 @RemoveContact1
+@End
+(second)
+@NullResponse @AddContact2
+@Contact2 Hey you guys and girls #Smile
+Hi #Contact2, what bring you to there parts?
+@Contact2 Just wanted to make #SubName do some of those 'worship strokes' for me
+He's all yours #Smile
+@Contact2 #SubName, I want you to give me 25 <i>really</i> slow worship strokes right now @Wait(8)
+@Contact2 I think you can still go a bit slower...
+@Contact2 That's good, #SubName
+@Contact2 If you've reached 15 already you're going too fast @Wait(6)
+@Contact2 Let me know when you're done
+[done,did,finished,ready] @Contact2 Hands off then! @StopStroking
+@DifferentAnswer Just say 'done' when you're done, #PetName
+@Contact2 I just @RT(love,adore) being worshipped *giggles*
+That's what men are for #Laugh @CheckFlag(pthevSPHyes,well man is)
+@Contact2 Talk to you later #Smile
+Bye #Contact2 @RemoveContact2
+(well man is)
+@Contact2 If you can call #SubName that, with that tiny #Cock of his #Laugh
+It's pretty pathetic, really
+@Contact2 #DomName has told me all about you, #SubName
+@Contact2 It must be hard to go through life like that
+@Contact2 All those disappointed looks of girls when you take your pants off
+@Flag(pthevVirgin) He's still a virgin, so that will not have happened all that often...
+@Flag(pthevVirgin) @Contact2 OMG really?? #Laugh
+@HasChastity @Contact2 You should lock him up in his chastity cage for good, #ShortName
+@Contact2 I think it's safe to say no woman is going to fuck #SubName any time soon
+@Contact2 Gotta go, #DomName, bye #Smile
+See you later #Smile @RemoveContact2
+@End
+(third)
+@NullResponse @AddContact3
+@Contact3 Hi!
+Hey there!
+Stop stroking, #PetName @StopStroking
+@Contact3 I'm not staying long
+@Contact3 Just needed to vent some frustration
+@BallTorture @NullResponse @Goto(vent some frustration)
+Well, you still can't hurt his #Balls if that's what you're thinking
+@Contact3 Oh come on!
+@Contact3 Well... A really long edge might be just as good... #Grin
+@Contact3 Get to the edge #SubName @Edge(LongHold,HoldTaunts)
+@Contact3 Oohhh just let that ache subside now @Goto(edge might be just as good) 
+(vent some frustration)
+@Contact3 So #SubName... @CBTBalls
+(edge might be just as good)
+@Contact3 I feel better already! #EmoteHappy
+Always does the trick #Laugh
+@Contact3 Thanks #ShortName
+Anytime #Smile @RemoveContact3
+@End
+(Rerun)
+@NullResponse @DeleteFlag(pvMod08Stage2) @SetFlag(pvMod08Rerun) @Goto(first,second,third)
+@End

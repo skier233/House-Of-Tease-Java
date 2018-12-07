@@ -1,0 +1,16 @@
+Don't forget, this was your idea
+I know I've made it hard for you @TempFlag(AV_Short27)
+and that's what you wanted too, isn't it? @Timeout(5, AV_Timeo385)
+[yes] #IKnow
+[no] Well, you can give up #Lol
+@DifferentAnswer #YesorNo
+(AV_Timeo385)
+You didn't want me to make it easy for you
+you wanted every orgasm to be completely excruciating didn't you? @Timeout(5, AV_Timeo386)
+[yes] #Good @IncreaseRuinChance @ChangeVar[AV_RuinChance]=[AV_RuinChance]+[1]
+[no] #LetMeThinkAboutIt
+@DifferentAnswer #YesorNo
+(AV_Timeo386)
+And yet you still can't quite believe that I won't show you compassion
+that I won't show you mercy at the last second.
+@End

@@ -1,0 +1,331 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral17_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral17]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral17_NotFirstTime)
+(AV_ModGeneral17_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral17]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral17]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral17]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral17]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral17]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral17]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral17]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral17]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral17]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral17]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral17]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral17]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral17]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral17]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral17]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral17]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral17]=[AV_ModGeneral17]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral17]=[AV_ModGeneral17]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral17]=[AV_ModGeneral17]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral17]=[AV_ModGeneral17]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral17]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+I am training you, darling.
+So that you will understand how you are supposed to act around me. 
+And you know to listen to me. 
+You know to do exactly what I say. 
+@Flag(AV_DommeMistress, av_fetish_pain) @CBTBalls
+#Edge @Edge
+Mmmmm, good boy... 
+Ha.. you didn't even resist that time.. 
+It looks like you are responding to your training...
+You like it when I'm in control, don't you..?  @Timeout(6, AV_Timeo28)
+[yes] And that gets you off.. doesn't it?  @MoodUp
+[no] Mmmm, I am in control, aren't I?  @MoodDown
+@DifferentAnswer #YesorNo
+(AV_Timeo28)
+Makes your #Cock realllly fuckin' hard... 
+Mmmm, apparently, it does..
+who would have thought, you would want to be bossed around like this?  
+#StartStroking
+Who would have thought you'd like it when I.. call you names. 
+That it would make you feel this powerful urge... 
+to @RT(touch yourself, jack off, cum).  
+@NotFlag(av_fetish_rough)I hope that wasn't too mean, though...
+You like it when @RT(I'm mad,, don't you, I'm mean)? @Timeout(5, AV_Timeo63)
+[yes] @NullResponse @ApathyLevelUp @MoodUp
+[no] @NullResponse  @MoodDown
+@DifferentAnswer #YesorNo
+(AV_Timeo63)
+you also love when I tease you.. make you feel a little guilty..
+about @RT(the way that you get off on that soooo fucking hard, how it makes you excited and a little scared)
+the hardest you ever have.. every fucking time..  
+@DommeLevel1 #Edge @EdgeNoHold
+@DommeLevel2 #Edge @Edge
+@DommeLevel3 #Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+@DommeLevel4 #Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@DommeLevel5 #Edge @Edge @MultipleEdges(3, 10, 100)
+So.  Dooo you? Like it when I... am a total fucking BITCH.. to you? 
+When I torture you.. like this?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+When I make sure that there is so much pressure @RT(built up, forcing, urging, tormenting) you. 
+Driving your every thought? 
+The distress, as I casually ignore those pain fully blue balls 
+that I so knowingly and willfullly caused?
+@Flag(AV_DommeMistress, av_fetish_pain) @CBTBalls
+@BadMood Not that I care about your silly little feelings, but.. @CBTBalls
+Ah 
+I saw that look.  
+I know how you feel. 
+You're just really.. Well not calm. Docile, I guess? @RT(Obedient, Subservient).  
+Aren't you?  
+Hmm?  
+Well....  
+@End
+(Modulo2)
+@RT(This #Cock is my cock, That #Cock is my property, The cock is mine. And mine alone. It just happens to be attached to you).
+@RT(Not yours. Mine, And I mean it,, you don't touch that cock without my express permission, It belongs to me). 
+@RT(When I want it,, I will have it, That cock is there for my pleasure,, not yours). 
+#StartStroking
+If I want to spend an hour teasing my clit with the head of your cock, that's what I'm going to fucking do. 
+And afterwards, if I want to be fucked by my cock, then I will be fucked by my cock. 
+@Flag(AV_DommeMistress, av_fetish_rough) And if I don't want to be fucked by my cock, then you will get the fuck out of my sight while I clean myself up. 
+And no masturbating on your own. 
+You'll save that load for when I want it.
+Good boy. 
+Keep stroking that #Cock for me. 
+Don't worry. 
+You're allowed to play with yourself when I tell you to. 
+There will be no punishment.  
+@Edge #Edge
+#PetName, that little object between your legs is looking awfully sad. 
+You must be so @RT(desperate, frustrated).
+You've been such an obedient #PetName lately
+@RT(Mistress is going to edge you,, over and over, Goddess is going to bring you to the brink,, make you moan and squirm,, then stop). 
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 4), 10, 100)
+Don't you dare fucking cum until you are given permission, #Slave.
+#KneelForMe
+You wanted a cute, dominant chick. Now you've got to know your place. 
+@Flag(av_fetish_pegging, AV_LikeAnal) You're eventually going to ride the strapon I bought, but I'm not going to fuck you.
+@Flag(av_fetish_pegging, AV_LikeAnal) You're going to fuck yourself unto me.
+@Flag(av_fetish_pegging, AV_LikeAnal) You're going to ride me, like a @RT(bitch, whore, slut, cunt) all those demeaning terms will be used against you, as you take it
+@Flag(av_fetish_pegging, AV_LikeAnal) from the back, from a woman who you will address as your superior. 
+I understand, baby. But in a way this is like a test. 
+@Flag(AV_DommeMistress, av_fetish_pain) @CBTBalls
+I say jump, you say how high. 
+You need to understand this is a "female-led relationship" 
+and as much as you fight it, and as tough as you try to appear
+I know it turns you on. 
+#Edge @Edge
+I wear the pants, you can uh, wear the panties? 
+Think about it, there's a reason terms like ..."female supremacy" get you worked up. 
+It's nature's way of pointing you in the right direction. 
+It's my body, and you've got to respect any decision I make with it. 
+@Flag(AV_DommeMistress, av_fetish_pain) @CBTBalls
+#Edge @Edge
+@Flag(AV_DommeMistress, av_fetish_pain) @CBTBalls
+#Edge @Edge
+You better do a perfect job then!
+#SitDown
+@End
+(Modulo3)
+#LittleGame
+I found on the Milovana forum, Little Miss Jay created it
+but I changed to fit in our session
+It's called the pyramid game. 
+It's a test of endurance, stamina and will 
+Do you know?
+[yes] #Good, we can jump to the game @Goto(PiramGame)
+[no] OK, let me explain to you
+@DifferentAnswer #YesorNo #SubName?
+As the name suggests, imagine a pyramid
+you'll start at the bottom with a longer duration then as you get to the top, the time will reduce... 
+The task shouldn't take you very long
+but you must not have a break of longer than 1 minute between rounds. 
+(PiramGame)
+certainly highlight who can keep their cummies in those #Balls during a lot of teasing and stroking. 
+Let's start 
+Round 1
+#StartStroking
+Stay nice and slow with your hand tight @PlayAudio[tease\b055.mp3] 
+and imagine my lips tightly around that #Cock and taking the length of you into my mouth @TempFlag(av_intera_015)
+You would have to be an extremely good boy to receive this sort of attention from me. @PlayAudio[tease\b055.mp3] 
+Even thinking of my doing this to you, you're lucky. @Slideshow(Femdom, slow)
+Keep going  @SlideshowOn @PlayAudio[tease\b055.mp3] 
+@NullResponse @Wait(11)
+@NullResponse @PlayAudio[tease\b055.mp3] @Wait(17)
+@NullResponse @PlayAudio[tease\b055.mp3] @Wait(17)
+@NullResponse @PlayAudio[tease\b055.mp3] @Wait(17)
+#Stop @SlideshowOff 
+it's going to be easy for me to control you in the future. @Wait(20)
+Enjoy your rest  @Wait(20)
+Round 2
+#StartStroking
+Here I want you stroking that cock at a medium pace @PlayAudio[tease\b110.mp3] 
+this is the kind of pace I could imagine sitting on you  @Wait(10)
+while you're tied spread eagle on my bed unable to move an inch.  @PlayAudio[tease\b110.mp3] 
+I'd grind back and forth and you'd moan through the wet panties I'd have stuffed into your mouth. @Wait(10)
+Every second you'd be holding back your cum @PlayAudio[tease\b110.mp3] 
+#Balls reaching bursting point and that desperate cock throbbing. @Wait(10)
+#EmoteHappy @PlayAudio[tease\b110.mp3]  @Wait(17) 
+#Stop @Wait(20)
+How about a little Ballbusting to help you in the next round? @Timeout(7, AV_NoBall)
+[yes] #Good 
+[no] Oh well....so no rest for you @Goto(AV_NoBall)
+@DifferentAnswer #YesorNo
+@NullResponse @CBTBalls
+@Flag(AV_DommeMistress, av_fetish_pain) @NullResponse @CBTBalls
+(AV_NoBall)
+Round 3
+#KneelForMe
+#StartStroking
+You will perform for me. @PlayAudio[tease\b120.mp3] 
+You will get to your knees right now and tug away desperately in time to the metronome.  @Wait(10)
+I'd have you kneeling in the corner of the bedroom while I relax on bed @PlayAudio[tease\b120.mp3]
+Maybe even teasing myself a little @Wait(10)
+my tight juicy pussy right in your view. @PlayAudio[tease\b120.mp3]
+You're so desperate to touch me aren't you boy? @Wait(10)
+#Stop
+#SitDown @Wait(20)
+You must be so happy
+knowing how much it pleases me that you were so obedient. @Wait(20)
+Round 4
+Tease just that sweet spot and the tip of that probably wet by now cock. @PlayAudio[tease\cStroke.mp3] 
+I want your fingers caressing yourself  @Wait(10)
+thinking of my delicate but teasing touch @Wait(20)
+rubbing and bringing you to a higher level of desperation...  @Wait(10)
+If you could get any more desperate... #EmoteWink
+#Stop @Wait(20)
+You are so obedient. 
+Such a good boy.  I'm so proud of you. 
+And so proud to call you mine. My good boy. @Wait(20)
+Round 5
+#StartStroking
+Back to fast paced stroking again #PetName. @PlayAudio[tease\b180.mp3] 
+I want you to imagine my hands on you, telling you over and over not to cum @Wait(10)
+you're making a wimpering sound @PlayAudio[tease\b180.mp3] 
+you know better than to ask to cum right now. @Wait(10)
+#Stop @DeleteFlag(av_intera_015)
+Good job #SubName
+This was #Hot
+@End
+(Modulo4)
+You are going to touch yourself for me. 
+You are going to pay close attention as your hands become an extension of my will, am I clear?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+We'll start simple, take your dominant hand and place it along your neck as if you're going to massage it. 
+Now, gently squeeze your neck and drag it down to your navel. Slowly. 
+I want you to feel your palm as it presses down along your chest, the way the fingers trail from behind as it pulls lower. 
+I want your other hand on top your knee, and then lifting until it hovers and only your fingertips remain in contact.
+Your dominant hand had better still be on your navel, because that #Cock isn't allowed to be touched. 
+Not yet. 
+Drag your other hand up along your thigh
+just the fingertips trailing from behind as you make a small turn into your inner thighs
+but don't touch yourself down there. 
+Not yet. 
+Instead, I want you to go around, to tease across with all five fingers as you avoid your cock for me
+until you reach the other knee. 
+See, was that so hard? 
+Index finger of your dominant hand out
+I want you to drag it all the way from your chin down to the base of that cock
+and then you'll encircle it with your thumb. 
+Don't rush, I want you to savour @RT(each moment, every last sensation) that is delivered unto you through my commands.
+@RT(You're getting harder now, aren't you, Are you down to your cock)? 
+Good, now tighten your grip
+let the other fingers relax along your #Balls for a little before you curl them up in a wistful touch. 
+Hand still tightened around the base
+I want the other one pulled closer to your cock, a single finger for now. 
+Take that single finger and drag it along the underside
+pulling it along the length of your cock but don't touch the head!
+Not yet. 
+And then I want you to repeat the action, with two fingers this time. 
+And then three. 
+And then four. @Wait(10)
+And then finally all 5 fingers pulling along that cock of yours 
+until you are within a hair's breadth of your head before you pull away.
+You can release your hold now, letting the cock stand on its own
+@RT(waiting in anticipation for my next command, eager to please its mistress). 
+Go on, take a finger and wipe off the tip
+@Flag(av_fetish_cei) you can even have a taste, always nice when boys aren't afraid to sample themselves.
+You see those bare thighs? 
+I want you to pull your fingertips along the insides
+crossing over without slowing down over your aching balls. @Chance50(AVRND38)
+Then I want you to do it again, with the other hand this time 
+and along the other thigh. 
+(AVRND38)
+And then, and only then may you finally take ahold of that cock you have been so patient with. 
+We'll start slow, with nice long strokes up and down that cock of yours. @PlayAudio[tease\cStroke.mp3] 
+@RT(Mmm,, wouldn't it be so much better in my mouth, It feels good doesn't it,, to finally be allowed to stroke that aching cock of yours for me)? 
+Tugging upwards, just tight enough that the skin follows, and back down again. 
+I want you to take it nice and slowly
+to feel the way 'my' hand @RT(run itself along your cock, embraces and tugs along your veiny shaft)
+the sensations it's delivering to you. 
+Close your eyes for a bit, moan if you must but I want you to just have a moment to enjoy it all.
+Your other hand, I want you to pull it round the bottom to cup at your balls
+palming them
+kneading them and massaging them in preparation for that big load you're going to build. 
+Now increase the pace, just a little bit. 
+@RT(Just enough that you'll notice it but not too much, I want this to last). 
+Can you feel it, that increased pressure below as your cock begins to understand what it's in for
+all from 'my' talented hands. 
+Go on, @RT(whisper to me about how much you want it, beg for my touch, beg and you may stroke yourself faster). 
+Do you feel that, my power over you? 
+I want you to slowly get faster as time goes on. 
+@RT(My hands accelerating in tune with your impending pleasure until you start to feel it, That twitching,, that rush and the powerful pleasure that your body yearns for)
+#Edge @EdgeNoHold
+@RT(Just for a moment,, not long, Take a moment to breath,, to calm down)
+Once you've relaxed a little, @RT(toes no longer curling, back no longer arching and breathing less laboured) you may continue. @Wait(15)
+I want you to gently stroke yourself to another edge @PlayAudio[tease\cStroke.mp3] 
+This time, I want you to hold it there as pressure builds up
+you balls tightening as you desperately massage them with your other hand
+your core tensing up in anticipation. 
+#Edge @EdgeHold
+Good boy
+@End

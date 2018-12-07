@@ -1,0 +1,10 @@
+@RT(Okay so tell me,Interesting thought,Well now), #Name
+Why should I punish you? @Wait(15)
+Hm, I don't see why I should punish you without a good reason @Chance30(reason enough)
+And if you <i>want</i> it, how can it be a punishment, really #EmoteRandom
+@End
+(reason enough)
+@RT(But,Although) I @RT(gues,suppose,think) you interrupting me @RT(is a good enough excuse,is reason enough,gives me a good excuse) #Laugh
+@BallTorture @NullResponse @Interrupt(pvIn_CBTBalls)
+@NullResponse @Interrupt(pvInt_Punishment)
+@End

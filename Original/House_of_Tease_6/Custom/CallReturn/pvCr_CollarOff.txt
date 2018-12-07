@@ -1,0 +1,8 @@
+@Stroking #StopStroking @StopStroking
+@RT(Take off,Remove) your collar, #Name
+@RT(Put it away for now,Put it to the side,You can put it away for now)
+Ready?
+[yes,ready,done,finished,did] @RT(Good,Alright then,Good boy,Okay,Then we can continue) @DeleteFlag(pvCollared)
+@DifferentAnswer Let me know when you are...
+@NullResponse
+@End

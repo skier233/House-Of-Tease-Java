@@ -1,0 +1,404 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModVideos5_NotFirstTime)
+@NullResponse @SetVar[AV_ModVideos5]=[0] 
+@NullResponse @SetFlag(AV_ModVideos5_NotFirstTime)
+(AV_ModVideos5_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModVideos5]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModVideos5]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModVideos5]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModVideos5]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModVideos5]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModVideos5]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModVideos5]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModVideos5]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModVideos5]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModVideos5]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModVideos5]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModVideos5]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModVideos5]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModVideos5]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModVideos5]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModVideos5]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModVideos5]=[AV_ModVideos5]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModVideos5]=[AV_ModVideos5]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModVideos5]=[AV_ModVideos5]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModVideos5]=[AV_ModVideos5]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModVideos5]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury @SetVar[AV_StrokeCrushFinal]=[#Random(5, 9)] 
+I will let you choose who you want to #Stroke when I am out. @SetVar[AV_StrokeCrushTurn]=[0] 
+Choose one of your crushes @InputVar[AV_WantStroke]
+#Okay, you will #Stroke for her for a few minutes now... @RapidCodeOn
+@NullResponse @If[AV_WantStroke]=[AV_Persona01]Then(Actress)
+@NullResponse @If[AV_WantStroke]=[AV_Persona02]Then(Singer)
+@NullResponse @If[AV_WantStroke]=[AV_Persona13]Then(Secret)
+@NullResponse @If[AV_WantStroke]=[AV_Persona04]Then(PornStar)
+@NullResponse @If[AV_WantStroke]=[AV_Persona50]Then(Crush0)
+@NullResponse @If[AV_WantStroke]=[AV_Persona51]Then(Crush1)
+@NullResponse @If[AV_WantStroke]=[AV_Persona52]Then(Crush2)
+@NullResponse @If[AV_WantStroke]=[AV_Persona53]Then(Crush3)
+@NullResponse @If[AV_WantStroke]=[AV_Persona54]Then(Crush4)
+@NullResponse @If[AV_WantStroke]=[AV_Persona55]Then(Crush5)
+@NullResponse @If[AV_WantStroke]=[AV_Persona56]Then(Crush6)
+@NullResponse @If[AV_WantStroke]=[AV_Persona57]Then(Crush7)
+@NullResponse @If[AV_WantStroke]=[AV_Persona58]Then(Crush8)
+@NullResponse @If[AV_WantStroke]=[AV_Persona59]Then(Crush9)
+Who? @RapidCodeOn
+@NullResponse @If[AV_WantStroke]=[AV_Persona01]Then(Actress)
+@NullResponse @If[AV_WantStroke]=[AV_Persona02]Then(Singer)
+@NullResponse @If[AV_WantStroke]=[AV_Persona13]Then(Secret)
+@NullResponse @If[AV_WantStroke]=[AV_Persona04]Then(PornStar)
+@NullResponse @If[AV_WantStroke]=[AV_Persona50]Then(Crush0)
+@NullResponse @If[AV_WantStroke]=[AV_Persona51]Then(Crush1)
+@NullResponse @If[AV_WantStroke]=[AV_Persona52]Then(Crush2)
+@NullResponse @If[AV_WantStroke]=[AV_Persona53]Then(Crush3)
+@NullResponse @If[AV_WantStroke]=[AV_Persona54]Then(Crush4)
+@NullResponse @If[AV_WantStroke]=[AV_Persona55]Then(Crush5)
+@NullResponse @If[AV_WantStroke]=[AV_Persona56]Then(Crush6)
+@NullResponse @If[AV_WantStroke]=[AV_Persona57]Then(Crush7)
+@NullResponse @If[AV_WantStroke]=[AV_Persona58]Then(Crush8)
+@NullResponse @If[AV_WantStroke]=[AV_Persona59]Then(Crush9)
+#SubName, type carefully the name, or use google to copy. @RapidCodeOn
+@NullResponse @If[AV_WantStroke]=[AV_Persona01]Then(Actress)
+@NullResponse @If[AV_WantStroke]=[AV_Persona02]Then(Singer)
+@NullResponse @If[AV_WantStroke]=[AV_Persona13]Then(Secret)
+@NullResponse @If[AV_WantStroke]=[AV_Persona04]Then(PornStar)
+@NullResponse @If[AV_WantStroke]=[AV_Persona50]Then(Crush0)
+@NullResponse @If[AV_WantStroke]=[AV_Persona51]Then(Crush1)
+@NullResponse @If[AV_WantStroke]=[AV_Persona52]Then(Crush2)
+@NullResponse @If[AV_WantStroke]=[AV_Persona53]Then(Crush3)
+@NullResponse @If[AV_WantStroke]=[AV_Persona54]Then(Crush4)
+@NullResponse @If[AV_WantStroke]=[AV_Persona55]Then(Crush5)
+@NullResponse @If[AV_WantStroke]=[AV_Persona56]Then(Crush6)
+@NullResponse @If[AV_WantStroke]=[AV_Persona57]Then(Crush7)
+@NullResponse @If[AV_WantStroke]=[AV_Persona58]Then(Crush8)
+@NullResponse @If[AV_WantStroke]=[AV_Persona59]Then(Crush9)
+(Actress)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\02\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Actress)
+(Singer)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\03\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Singer)
+(Secret)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\01\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Secret)
+(PornStar)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\04\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(PornStar)
+(Crush0)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\10\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush0)
+(Crush1)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\11\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush1)
+(Crush2)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\12\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush2)
+(Crush3)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\13\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush3)
+(Crush4)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\14\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush4)
+(Crush5)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\15\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush5)
+(Crush6)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\16\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush6)
+(Crush7)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\17\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush7)
+(Crush8)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\18\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush8)
+(Crush9)
+Stroke! #AV_AudioBeat @ShowImage[av_imagens\19\*.jpg] @Wait(18) @ChangeVar[AV_StrokeCrushTurn]=[AV_StrokeCrushTurn]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StrokeCrushTurn]=[AV_StrokeCrushFinal]Then(Finished)
+@NullResponse @Goto(Crush9)
+(Finished)
+#ThatsEnough
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+I'd like you to take direction @SetVar[AV_StopGoFinal]=[#Random(5, 10)] 
+So you have stamina and huge loads in your #Balls
+Think you have what it takes? 
+[yes] Good
+[no] In this case, we need to train you, right?
+@DifferentAnswer #YesorNo #SubName?
+I'll be instructing you to stop and go with the sound you already know. @SetVar[AV_StopGo]=[0] 
+You'll be working up a sweat 
+And your heart will be pounding for me with the rhythm of your pulsing cock. 
+Practice makes perfect 
+So you'll be doing that until you perfect your strokes. 
+Get ready
+(StopG)
+@RT(squatting, hunker, #KneelForMe, Stand up, Stand, Sit down, Sit) @ChangeVar[AV_StopGo]=[AV_StopGo]+[1]
+#Stroke @PlayAudio[tease\cStroke.mp3] @Wait(10)
+#Stop
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_StopGo]=[AV_StopGoFinal]Then(Finished)
+@NullResponse @Goto(StopG)
+(Finished)
+#ThatsEnough
+#SitDown
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+Now, before we begin, I'm going to go over a few things. 
+@Flag(av_fetish_bondage) @NullResponse @MiniScript(AV_Bondage1) 
+I need you to get soft. 
+I know, I know, the more you think about it, the harder it gets. 
+Shall we begin? 
+[yes] Good.
+[no] You don't? 
+@DifferentAnswer #YesorNo #SubName?
+Form a ring with two fingers and your thumb and hold the base of your #Cock. 
+I want you to make your cock clench and throb. 
+Make that cock head bulge. 
+I want you to keep tensing and releasing until I give you permission to relax. 
+Got it? I want you rock hard and THROBBING. 
+Let's take a trip down horny lane, shall we? 
+With #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg] 
+Do you remember what it felt like?  @ShowImage[av_imagens\02\*.jpg] 
+What it felt like the first time you saw her? @ShowImage[av_imagens\02\*.jpg] 
+That pretty face.. that gorgeous body.  @ShowImage[av_imagens\02\*.jpg] 
+Your face blushing. Your breath quickening.  @ShowImage[av_imagens\02\*.jpg] 
+Your heart starting to pound. You can barely think.  @ShowImage[av_imagens\02\*.jpg] 
+Tingles running down your spine.  @ShowImage[av_imagens\02\*.jpg] 
+Down your chest, as you look at HER CHEST #EmoteLaugh  @ShowImage[av_imagens\02\*.jpg] 
+Your #Cock starting to inflate.  @ShowImage[av_imagens\02\*.jpg] 
+Did you ever imagine what it would be like if it were.. her hand on your dick?  @ShowImage[av_imagens\02\*.jpg] 
+Just.. take your hand.. and stroke down slowly. @ShowImage[av_imagens\02\*.jpg]  @PlayAudio[tease\cStroke.mp3] 
+all the way from the tip to base of your shaft.. and back up again.. slowly..  @ShowImage[av_imagens\02\*.jpg]
+keep going..  @ShowImage[av_imagens\02\*.jpg] 
+What's that? You're close?  @ShowImage[av_imagens\02\*.jpg] 
+@Flag(av_fetish_bondage) Aww, it would hurt so much if you came right now. @ShowImage[av_imagens\02\*.jpg] 
+Please? Please, what? Please go faster? @ShowImage[av_imagens\02\*.jpg] 
+No? Oh.. you want to stop.  @ShowImage[av_imagens\02\*.jpg] 
+Beg me. Beg me how you don't want me to make you stroke. @ShowImage[av_imagens\02\*.jpg] 
+Is that all you got? @ShowImage[av_imagens\02\*.jpg] 
+Alright. Stop. @PlayAudio[tease\cStop.mp3]  @ShowImage[av_imagens\02\*.jpg] 
+Aww, poor baby. 
+@Flag(av_fetish_bondage) Take the cord off. And the handkerchief too. @Wait(20)
+@Flag(av_fetish_bondage) All free now? Good. 
+I guess a punishment is in order. 
+That's fair, don't you think? 
+I did let you stroke for your crush
+Take your hand.. and place it over your balls.. 
+That's right, you know what's coming next.
+Alright.. ready? Here we go..
+1 @PlayAudio[tease\whip.mp3] 
+Ouch'
+2 @PlayAudio[tease\whip.mp3] 
+Harder
+3 @PlayAudio[tease\whip.mp3] 
+I said HARDER
+4 @PlayAudio[tease\whip.mp3] 
+@Flag(AV_DommeMistress) @Chance50(Restart)
+@BadMood @Chance70(Restart)
+@NullResponse @Chance70(NoRestart)
+(Restart)
+You're not listening. Start over. 
+We're gonna do this as many times as it takes to get it right.
+1 @PlayAudio[tease\whip.mp3] 
+That's it..
+2 @PlayAudio[tease\whip.mp3] 
+#EmoteLaugh 
+3 @PlayAudio[tease\whip.mp3] 
+Awww, poor baby..
+4 @PlayAudio[tease\whip.mp3] 
+(NoRestart)
+I love how your body jumps with each strike.
+5 @PlayAudio[tease\whip.mp3] 
+Whimpering? My poor little puppy. 
+Aww, are those tears in your eyes? 
+Do you.. do you want me to stop? @Timeout(3, AV_Timeo14)
+[yes] Aww... @Goto(StopedAV)
+[no] You don't? @MoodUp
+@DifferentAnswer #YesorNo
+(AV_Timeo14)
+Hmm?
+Suck it up!
+6! @PlayAudio[tease\whip.mp3] 
+You like this, don't you?
+7 @PlayAudio[tease\whip.mp3] 
+Harder
+8!  @PlayAudio[tease\whip.mp3] 
+That's right, you heard me!
+9 @PlayAudio[tease\whip.mp3]  @Wait(10)
+(StopedAV)
+Now, I know what you want to do. 
+You want to stroke that cock of yours, don't you? 
+Guess what? I'm going to let you. 
+In a few moments, I'm going to let you stroke HOWEVER you want using your whole hand. 
+Sound fun? 
+But here's the catch: you may only stroke when your dick is soft. #Lol
+That's right, you heard me. You can stroke only when your cock is limp and soft. 
+As soon as it gets stiff, take your hand off until you go completely soft and limp again. 
+Oh, and while you're doing that, look at photos of her
+That should make things a little.. HARDER.
+Ready? 
+Let's begin.. @ShowImage[av_imagens\02\*.jpg]  @PlayAudio[tease\cStroke.mp3] 
+You like wrapping your hand around that erection while looking at her, don't you?  @ShowImage[av_imagens\02\*.jpg] 
+Just like the very first time you did it?  @ShowImage[av_imagens\02\*.jpg] 
+Let me ask something.  @ShowImage[av_imagens\02\*.jpg] 
+When you ran your fingers up and down your dick for the first time for her..  @ShowImage[av_imagens\02\*.jpg] 
+the excitement.. as you got closer and closer to the edge.  @ShowImage[av_imagens\02\*.jpg] 
+As your balls started to tighten.  @ShowImage[av_imagens\02\*.jpg] 
+Your cock starting to jump..  @ShowImage[av_imagens\02\*.jpg] 
+That feeling as you felt your cum exiting your balls..  @ShowImage[av_imagens\02\*.jpg] 
+and traveling up your FUCKING DICK' doing your best to hold back..  @ShowImage[av_imagens\02\*.jpg] 
+but realizing that there was nothing you could do about it.  @ShowImage[av_imagens\02\*.jpg] 
+That it was going to happen whether you wanted it to or not..  @ShowImage[av_imagens\02\*.jpg] 
+Oops, time's up! Hands off!  @ShowImage[av_imagens\02\*.jpg]  @PlayAudio[tease\cStop.mp3] 
+You couldn't stroke much, huh? I bet that was just absolute agony. 
+Do you wanna stroke?  @Timeout(5, AV_Timeo15)
+[yes] Hmm? Is that all you want to do right now? 
+[no] You don't? Well.. @Goto(NoStrokeAV)
+@DifferentAnswer #YesorNo
+Too bad #Lol
+@End
+(NoStrokeAV)
+Lucky you
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+@NotFlag(av_fetish_pain) @NullResponse @Goto(skipvideo)
+#AV_Break2 @AddContact3
+Hey #Contact3 
+@Contact3 Hi #EmoteLaugh 
+#AV_Break3
+@Contact3 #AV_Break4
+@NullResponse @RemoveDomme
+I think I want to see how good of a beating you are #Slave
+Hehe, looks like you're mine now #Slave! 
+Go down on your knees
+and present that #Balls! 
+Mmh, let's turn it more purple hehe...
+Now get into position loserboy and count the slaps with me!
+Ready Bitch?
+@NullResponse @PlayAudio[tease\whip.mp3] 
+That was 1 #Slave! 
+And you better count and thank me out loud after each smack
+or I won't be so nice anymore!
+@NullResponse @PlayAudio[tease\whip.mp3] 
+2 !! Hehe, I love hearing that smack it makes 
+when you hits your #Balls boytoy! 
+Stick out that balls some more slaveboy! 
+Yes, just like that! And thank me louder slut!
+@NullResponse @PlayAudio[tease\whip.mp3] 
+Hehe, good little slutboy! 3 !! 
+Mmmh, that one looked like it hurt loserboy, did you just make a little jump there?
+So fucking cute...
+@NullResponse @PlayAudio[tease\whip.mp3] 
+4 !! Mmh, I could whip you all day long slaveboy
+so you better hope #DomName is coming back soon!
+@NullResponse @PlayAudio[tease\whip.mp3] 
+5 !!
+Let's make sure you still is horny
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@NullResponse @PlayAudio[tease\whip.mp3] 
+6 !! Hehe, look at that #Slave, I think you can already start 
+to see some red streams on your worthless balls! 
+But it's not nearly purple enough yet boytoy...
+Get ready loserboy, this one is going to be a good one again hehe...
+@NullResponse @PlayAudio[tease\whip.mp3] 
+7!!!"
+@NullResponse @PlayAudio[tease\whip.mp3] 
+8
+Look at me you little slut! 
+And you can hit him much harder honey! 
+Yes? Let me try...
+@NullResponse @PlayAudio[tease\whip.mp3] 
+9
+@NullResponse @PlayAudio[tease\whip.mp3] 
+10 !!
+And that's about it. 
+I hope your dick is erect.
+@Contact3 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact3
+@End
+(skipvideo)
+@RT(Good thing, Thankfully) you have some videos on your computer
+Stroke to the beat #Grin
+Have fun @PlayVideo 
+#CensorContinue
+@End

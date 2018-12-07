@@ -1,0 +1,267 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral4_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral4]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral4_NotFirstTime)
+(AV_ModGeneral4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral4]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral4]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral4]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral4]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral4]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral4]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral4]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral4]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral4]=[AV_ModGeneral4]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral4]=[AV_ModGeneral4]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral4]=[AV_ModGeneral4]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral4]=[AV_ModGeneral4]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral4]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CheckFlag(AV_DommeMistress)
+What I want is a slave, a toy that I can play with, someone who will do ANYTHING I demand
+I may have something a little different planned for you
+You need to make a decision do you want to commit to being my slave today?
+[yes] Ok, I am glad you have agreed @TempFlag(AV_DommeMistress)
+[no] You don't? @Goto(skip2)
+@DifferentAnswer Yes or no #SubName?  
+(AV_DommeMistress)
+I want you to put clothes pins 1 on each nipple.
+Then Tie your ball's up with Rubber-bands 2 oh maybe 3?
+After that you will attach 2 pins to each side of your ball's 
+Pinched ball's and enjoy rubbing them feel how tight they are. 
+And grab an ice cube #EmoteWink
+Tell me when you are done.
+[yes, ready, done] Alright #Grin
+[no] Well you should be if you are back on your computer... Slap your cock 5 times and then hurry up
+@DifferentAnswer I don't care about your vague answers! Slap your cock 2 times!
+#KneelForMe, Spread legs apart stroke around them pins
+Up and down on the shaft 100 strokes, flick that swelled head!
+Enjoy all that #Stroking the tender jerks!
+As you feel your nipples burn! @Wait(10)
+Do try to pleasure your #Cock!
+Orgasm's are not allowed right now.
+@NullResponse @CustomTask(AV_StrokeNumber)
+Since your so desperate ..
+Get an Ice Cube push it up in your ass far!
+That's it you want to please me so I can see your cum right?
+Way Up deep in your ass for Mistress now!
+Tell me when you are done.
+[yes, ready, done] Alright #Grin
+[no] Well you should be if you are back on your computer... Slap your cock 5 times and then hurry up
+@DifferentAnswer I don't care about your vague answers! Slap your cock 2 times!
+#RandomRound10(50, 100) strokes to your shaft, no cum sorry, enjoy the strokes! @Wait(15)
+Hold it inside. @Wait(15)
+That is so hot keep in in there bending over whip your ass
+20 on the left cheek, 20 on the right cheek.
+Look at me and whip it. @Wait(10)
+Tug at your cock lightly #RandomRound10(10, 30) times. Oh No cumming but you can feel it. @Wait(15)
+I'm sure your not fit for any woman your done after.
+#Stroking only for a Mistress obeying every instruction.
+Keeping that wet ass full too.
+Wow what a good slave I think you still got something on the floor
+#Edge @EdgeNoHold
+Pull 1 pin off your nipple!
+No cum no way. @Wait(10)
+Rest 30 seconds... @Wait(15)
+#Edge @EdgeNoHold
+Pull the other pin off your 2nd nipple.
+Perfect denied by pain!
+Oh Slave you were so close..
+I wonder how close?
+@Flag(av_fetish_cei) Take that finger taste that precum from your tip.
+@Flag(av_fetish_cei) Again tasting more do it eat that filthy precum.
+All you think about is blowing that load. @Chance50(AVRND05)
+#Edge @EdgeNoHold
+Pull 1 pin off your #Balls! @Chance60(AVRND05)
+#Edge @EdgeNoHold
+Pull 1 pin off your #Balls! 
+(AVRND05)
+Take off all pins from your ball's.
+Now bounce your sore ball's up and down
+Am I finished? 
+I guess I can let you wank do it till your getting to the edge. 
+I know it's so difficult to get fully hard after abusing yourself.
+That's ok no choice stroke right till you feel that edge... @EdgeNoHold
+Your going to do it beg I love to hear your cumless cries .
+#SitDown
+@End
+(skip2) @RapidCodeOn
+@NullResponse @Chance50(Brava)	
+@NullResponse @Goto(skip)
+(Brava)
+@NullResponse @MoodDown
+@End
+(skip)
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+Remember when I talked about the level of ache I want you to feel?
+The thing is...
+It takes more than @RandomText(waving a sexy picture in front of your face, my teasing little words worming their way into your ear while you stroke)
+No
+In order to get to the level of ache I want
+You're #Gonna have to spend a little time on the edge #PetName #Grin
+@Flag(AV_DommeMistress) @NullResponse @Chance50(AVRND10)
+@Flag(AV_DommeMistress) But first, @CBT
+(AVRND10)
+Edge for me right now @EdgeNoHold
+#LetTheEdgeFade
+Stopping like that when you're so close @FollowUp50(Even once)
+Is enough to make a ruined orgasm feel three times as worse as it would have
+So you can imagine how much worse it's #Gonna feel
+After I make you edge again #Grin
+Get to the edge right now @EdgeNoHold
+#LetTheEdgeFade
+#EmoteMoan
+Starting and stopping like that
+It's just so frustrating I know #EmoteHappy
+So when I make you edge again for me in a second
+I won't make you stop
+I'll just make you hold it this time #Grin
+Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_GlittersTest.txt)
+@NullResponse 
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+Time for some edging practice.
+This is about edging you into a frenzy. 
+You're going to love it. 
+#Edge 
+Probably you won't this time, but don't worry, you'll have plenty of opportunities. @Wait(20)
+#StopStroking 
+Time will go by fast, don't worry. @Wait(20)
+#Edge 
+You know what I love more than anything? Frustrating you into a sexual frenzy.  @Wait(10)
+When the frustration is so intense it's all you can think about. That's just pure fun. @Wait(9)
+#StopStroking 
+That #Great state when you are so focused on your #Cock.  @Wait(10)
+On what you are feeling in that moment. @Wait(9)
+#Edge 
+The world fades away. All that matters to you is that feeling.  @Wait(10)
+The #Great feeling of sexual frustration that you crave so much. @Wait(7)
+#StopStroking 
+I'm happy to give you that feeling.  @Wait(7)
+You #Love being frustrated and that's perfect, because I #Love frustrating you. @Wait(10)
+#Edge 
+So that's what we are going to do. @Wait(5) 
+We are going to frustrate you and frustrate you and frustrate you.  @Wait(5)
+Just talking about it makes you #Horny doesn't it. Me to. @Wait(6)
+#StopStroking 
+So let's try to maximize the frustration today. Edge and stop and edge and stop.  @Wait(10)
+This time is going to be a little different than before. @Wait(6)
+#Edge 
+We are going to get you into a state of pure sexual frustration.  @Wait(10)
+It's going to feel so amazing. @Wait(5)
+#StopStroking 
+That sounds #Great doesn't it. It is. You are going to love it. @Wait(15)
+#Edge 
+Do you like #Stroking for me? I like when you #Stroke for me to. @Wait(7)
+But you know what I also like? @Wait(7)
+#StopStroking 
+I like making you stop. Just sit there waiting to #Stroke again. @Wait(14)
+#Edge
+You can #Feel that orgasm almost there. It's #Great isn't it? @Wait(13)
+#StopStroking  
+What's the matter? Don't you like this part? Sure you do. #RelaxAndBreathe @Wait(13)
+#Edge 
+Oooo you're really starting to get there now aren't you.  @Wait(6)
+#Feel that approaching orgasm. So good. So close. @Wait(6)
+#StopStroking 
+Does your #Cock twitch a little when you stop?  @Wait(6)
+It hasn't been very long yet. This should be easy. @Wait(6)
+#Edge 
+This is just the warm-up. Go stop. Go stop. So much fun.  @Wait(6)
+Don't you just #Love it? I know I do. @Wait(5)
+#StopStroking 
+Relax. Recharge. Get ready for another sprint to the edge. @Wait(11)
+#Edge 
+You're so #Submissive . Doing everything I tell you to; when I tell you.  @Wait(5)
+That's good. You enjoy it. Enjoy knowing how good your #Obedience makes me feel. @Wait(5)
+#StopStroking 
+I tell you to stop and you stop. 
+You want to keep going I know, but you want to #Please me more. @Wait(5) 
+To #Please me you need to do exactly what I say. @Wait(5)
+#Edge 
+You are getting to the edge faster and faster. @Wait(9)
+#StopStroking 
+Just a little break. These stops take almost no time at all. @Wait(9)
+#Edge 
+You don't need to CUM anyways. This is better than cumming.  @Wait(5)
+This is way more fun for both of us. @Wait(3)
+#StopStroking 
+If you're really good you might get to CUM at the end. @Wait(8)
+#Edge 
+Could you go through all this and then stop and put your #Cock back in your pants? @Wait(7)
+#StopStroking 
+If that's what I tell you to do, then you'd better do it. @Wait(7)
+#Edge 
+How are those edges coming? Feels so great right? @Wait(6)
+#StopStroking 
+Edge, stop, edge, stop. You must be in heaven. @Wait(6)
+#Edge Five seconds now! @Wait(5)
+#StopStroking #Crazy fast right?  @Wait(5)
+#Edge Can you take it? 
+#StopStroking And relax
+#Edge So close now! 
+#StopStroking  @Wait(5)
+#ThatsEnough
+@End

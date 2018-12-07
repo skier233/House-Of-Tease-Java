@@ -1,0 +1,84 @@
+Sounds like you really can't take another stroke #Grin @DeleteFlag(AV_CrashReport)
+I guess I better decide your fate
+But first
+Give me one last edge @Edge
+#SubName... @DecideOrgasm
+@DifferentAnswer Tell me when you're close #PetName
+(Orgasm Allow)
+Bring yourself to the edge one more time @Edge
+[came, finished, did] Good #Grin
+[thank, gracias, merci, grateful, good, amazing, incredible] You're welcome #PetName #Grin
+@AcceptAnswer Hehe just calm down now
+I hope you enjoyed that orgasm #SubName
+Who knows how many you're actually going to get? @Goto(EndScript)
+(Orgasm Deny)
+Bring yourself to the edge one more time @Edge
+Put it back in your pants, you don't get to cum now
+Too bad @Goto(second)
+Better luck next time #Grin @Goto(EndScript)
+(Orgasm Ruin)
+Bring yourself to the edge one more time @Edge
+[ruined, did] Good #Grin
+[fuck] #Grin
+@AcceptAnswer hehe just calm down now
+I love building up all that pleasure just to snatch it away from you @Chance50(more_ruin)
+Better luck next time
+(more_ruin)
+In fact I love it so much that I'll make you ruin another one for me! #lol
+#StartStroking
+I want to see more of your ruined orgasms today!
+I wonder how many I can make you ruin like that #lol @GotoDommeLevel
+(DommeLevel5)
+(DommeLevel4)
+Edge for me @EdgeToRuinHold
+Wow this one must have really hurt #lol
+But it's way to early to stop!
+(DommeLevel3)
+(DommeLevel2)
+I want to play with you some more before you ruin again
+Are you dry yet? #lol
+Let's make sure!
+Edge one more time @EdgeToRuin
+Drip, drip...
+I wonder if you can take more than that...
+Awww, poor boy... I bet you wanted release now. But you can't.
+And we are not done with you yet, not even close.
+(DommeLevel1)
+I'm so mean ruining all your orgasms like that
+I'm sorry! #Grin
+Well not really... #lol
+But this time I'll let you come, I swear! @Chance20(Orgasm Allow)
+Bring yourself to the edge one more time @EdgeToRuin
+Well you came... #lol
+I know i can be so #Mean to you sometimes
+Do you think you can take one more for me?
+[yes]ohh I love it when you destroy yourself so willingly #lol
+[no]Good that means you're past your limit! Let's see how far past it I can make you go #lol
+@DifferentAnswer It might be the frustration but you don't make sense... Can you take one more yes or no?
+So let's end that session in a bang!
+Or a splurt in this case #lol
+Gather all your remaining forces and edge a last time @EdgeToRuinHold
+Alright you can rest @Goto(EndScript)
+(second)
+On second thought @CallReturn(Custom\AV_Scripts\AV_CumFun.txt)
+(EndScript)
+@NullResponse @RapidCodeOn 
+@Flag(AV_DecOrg) @NullResponse @IncreaseOrgasmChance
+@Flag(AV_IncRuin) @NullResponse @DecreaseRuinChance 
+@Flag(AV_IncOrg) @NullResponse @DecreaseOrgasmChance
+@Flag(AV_DecRuin) @NullResponse @IncreaseRuinChance
+@NullResponse @DeleteFlag(AV_DecOrg, AV_IncRuin, AV_IncOrg, AV_DecRuin)
+I know I teased you pretty good #GeneralTime
+But I'm not <i>quite</i> done yet #Grin
+I'm sending you some instructions I'd like you to do for me today
+I think you're #Gonna find them pretty intense #Grin @SendDailyTasks
+Thanks for giving me such a good time #GeneralTime #PetName
+I can't wait to see you again #EmoteHappy Bye @RapidTextOn
+@SystemMessage <b>END SESSION REPORT</b> @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme mood ended in #DomMood @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme level ended in #DomLevel  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme apathy ended in #DomApathy @ShowImage[av_imagens\System.jpg]
+@Flag(AV_DommeMistress) Mistress Mode actived in this session @SystemMessage  @ShowImage[av_imagens\System.jpg]  @RapidTextOff
+@SystemMessage That Status will be reseted in the next session @ShowImage[av_imagens\System.jpg] @Wait(10)
+@SystemMessage  @ShowImage[av_imagens\System.jpg] @EndTease
+@End

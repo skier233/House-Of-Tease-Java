@@ -1,0 +1,164 @@
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pvMod37B)
+@NullResponse @CheckFlag(pvMod37A)
+@NullResponse @CheckFlag(pvMod12AppDone,talked about app)
+@NullResponse @CheckFlag(pthevGlitterIntroduced,should have an app)
+(talked about app)
+I don't think I'll ever get enough of this
+And I suspect that neither will you #Grin
+I'm going to make sure you won't
+I'm going to make you feel so horny and weak
+That you'll have no choice than to come back to me
+Again and again
+And you'll beg me <i>not</i> to let you cum
+Because you'll want that feeling to last
+Just you wait and see, #PetName #Grin @SetFlag(pvMod37A)
+@End
+(should have an app)
+You know what would be amazing?
+If I had an app where I could see exactly how horny you were #Smile
+That way I would know exactly how many edges until your breaking point...
+Fuck... that would be perfect @Glitter(pvGL_Mod12-01)
+It would have an ache-o-meter with a needle showing the level of ache 
+You'd go into the red a <i>lot</i>, #SubName #Laugh @SetFlag(pvMod12AppDone)
+#Edge @Edge
+I think your ache-o-meter just spiked #Grin @AddContact1
+@Contact1 What's this about creating an app?
+Oh I was just thinking, what if I had an app measuring how horny #SubName is
+@Contact1 That... just blew my mind...
+I know, right? #Laugh
+With a little ache-o-meter
+@Contact1 #Lol You could check his levels any time of day
+@Contact1 And if they are getting too low...
+I'd text him: #PetName 5 edges, now!
+@Contact1 OMG #Lol
+@Contact1 Well, you don't necessarily need an app for that
+@Contact1 #SubName...
+@Contact1 Edge for us, now! @EdgeNoHold @MultipleEdges(5,5,100)
+Do you think someone could create an app like that?
+@Contact1 I don't know, measuring arousal would be tricky I guess
+@Contact1 You could measure heart rate and stuff like that
+@Contact1 But maybe he's at the gym and his heart rate is up because of that
+#SubName is jogging in the park and I'm like: drop your pants, start #JerkingOff #Laugh
+@Contact1 Right #Laugh
+@Contact1 But what do I know, I'm no app expert 
+@Contact1 It would definitely be a revolution in teasing #Smile
+No doubt @RemoveContact1
+I guess I have to keep teasing you the old-fashioned way for now, #Name @SetFlag(pvMod37A)
+@End
+(pvMod37A)
+Think about how many people must be having sex at this very moment @DeleteFlag(pvMod37A) @SetFlag(pvMod37B)
+I mean actual, skin shredding, cum drenching, mind blowing sexual intercourse #Smile
+Maybe really close to wherever you are sitting right now
+Maybe you can even hear a couple though the walls and windows
+At any given second, lots of people are doing it all over the place
+And here you are, #JerkingOff
+My little masturbation puppet
+#Edge @Edge @MultipleEdges(3,7,50)
+#LetTheEdgeFade
+Come to think of it, what am <i>I</i> doing??
+I could be having me some of that amazing sex, yet here I am
+Giving masturbation instructions to... you...
+The difference is of course, that I can have sex whenever I want to
+I doubt that's the case for you...
+@End
+(pvMod37B)
+You're going to do some strokes to a timer now @DeleteFlag(pvMod37B)
+That means you have to finish the set I give you before the clock runs out
+It's going to be fun, I promise #EmoteHappy
+But don't edge or it's not going to be so much fun anymore #EmoteWink
+Let's get started...
+(another round)
+@NullResponse @EdgeMode(Goto,failed timer)
+@NullResponse @Goto(one,two,three,four,five,six,seven,eight)
+(one)
+@RT(I want you to do,You're going to do)...
+50 strokes in 25 seconds, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(5)
+20 @Wait(10)
+10 @Wait(5)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(two)
+@RT(I want you to do,You're going to do)...
+50 strokes in 20 seconds, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(5)
+15 @Wait(5)
+10 @Wait(5)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(three)
+@RT(I want you to do,You're going to do)...
+25 strokes in 20 seconds, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(5)
+15 @Wait(5)
+10 @Wait(5)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(four)
+@RT(I want you to do,You're going to do)...
+25 strokes in 15 seconds, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(5)
+10 @Wait(7)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(five)
+@RT(I want you to do,You're going to do)...
+100 strokes in one minute, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(20)
+40 @Wait(9)
+30 @Wait(15)
+15 @Wait(11)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(six)
+@RT(I want you to do,You're going to do)...
+100 strokes in 50 seconds, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(20)
+30 @Wait(20)
+10 @Wait(7)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(seven)
+@RT(I want you to do,You're going to do)...
+75 strokes in 50 seconds, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(20)
+30 @Wait(15)
+15 @Wait(12)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(eight)
+@RT(I want you to do,You're going to do)...
+75 strokes in one minute, #Name - @RT(GO,the clock is ticking,so start stroking,right NOW,hurry up) @RapidTextOn @Wait(40)
+40 @Wait(9)
+30 @Wait(15)
+15 @Wait(11)
+3
+2
+1
+@RT(STOP,Hands off,Time's up,stop,stop stroking) @RapidTextOff @Goto(check)
+@End
+(check)
+@NullResponse @EdgeMode(Normal) @Chance20(end timed strokes)
+Let's do @RT(one more,another) @RT(round,set,one)... @Goto(another round)
+(end timed strokes)
+That's enough for now, #Name
+@End
+(failed timer)
+I did tell you not to edge, #PetName @MoodDown
+You had to go and ruin the fun again... *sigh* @Interrupt(pvInt_Punishment)
+@End

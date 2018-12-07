@@ -1,0 +1,65 @@
+@Stroking #Stop @StopStroking
+Well..... I'm very disappointed.
+What is the problem, #SubName?
+[hurts, cant take anymore, cant take, can't take, too much] @NullResponse @Goto(DecideHurt)
+[break] @NullResponse @Goto(DecideBreak)
+[mean, cruel] @NullResponse @Goto(DecideCruel)
+[aching, aches, suffering, suffer] @NullResponse @Goto(DecideSuffer)
+@AcceptAnswer @NullResponse @Goto(Break)
+(DecideCruel)
+@NullResponse @RapidCodeOn
+@NeutralMood @NullResponse @Chance50(Break)
+@BadMood @NullResponse @Chance10(Break)
+@GoodMood @NullResponse @Chance75(Break)
+@RT(It only gets worse from here, I thought being cruel to your #Cock was the entire reason I'm here, Your #Cock belongs to me,, so I get to be as mean as I want) @Goto(Inter)
+@End
+(DecideHurt)
+@NullResponse @RapidCodeOn
+@NeutralMood @NullResponse @Chance50(Break)
+@BadMood @NullResponse @Chance10(Break)
+@GoodMood @NullResponse @Chance75(Break)
+@RT(Seeing your pain turns me on so much, Good, I want it to hurt, You'll have to learn to endure more than this) #PetName @Goto(Inter)
+@End
+(DecideBreak)
+@NullResponse @RapidCodeOn
+@NeutralMood @NullResponse @Chance50(Break)
+@BadMood @NullResponse @Chance10(Break)
+@GoodMood @NullResponse @Chance75(Break)
+No, I don't think you @RT(deserve, earned) a @RT(breake, pause). @Goto(Inter)
+@End
+(DecideSuffer)
+@BadMood @RT(You think this is suffering? Don't make me laugh, Keep that up and I'll show that #Cock real suffering) #EmoteRandom
+@BadMood @NullResponse @Goto(Fim)
+I want that #Cock to suffer a little for me, but...
+@GoodMood @NullResponse @Chance75(Break)
+@NeutralMood @NullResponse @Chance50(Break)
+I like the thought of you suffering for me #PetName. @Goto(Inter)
+@End
+(Break)
+OK, I think @RT(you can have, I will give you) a @RT(pause, break) @CallReturn(Custom\CallReturn\pvCr_BreakStroking.txt)
+@End
+(Inter)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance50(Fim)
+I expect you to know the rules by now and obey them
+Will you @RT(obey me, submit) now?
+[yes] #Good @Goto(Fim)
+[no] I'm not kidding around #SubName @Goto(Restict)
+@DifferentAnswer #YesorNo #SubName?
+(Restict)
+#Okay #SubName, your last chance...
+@DoesNotHaveChastity @NullResponse @Goto(NoChast)
+@HasChastity Now you're going to somehow make my #Cock go soft and limp
+@HasChastity I don't care how you do it @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@NullResponse
+@End
+(NoChast)
+So nice to have an orgasm once in a while, isn't it?
+But let's not make it a habit, #Name
+In fact, consider yourself denied for the foreseeable future
+How about 2 weeks? @RestrictOrgasm(2 Weeks)
+This should make you obey me next time
+@End
+(Fim)
+@NullResponse
+@End

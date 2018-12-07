@@ -1,0 +1,288 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGames4_NotFirstTime)
+@NullResponse @SetVar[AV_ModGames4]=[0] 
+@NullResponse @SetFlag(AV_ModGames4_NotFirstTime)
+(AV_ModGames4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGames4]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGames4]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGames4]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGames4]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGames4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGames4]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGames4]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGames4]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGames4]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGames4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGames4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGames4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGames4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGames4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGames4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGames4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGames4]=[AV_ModGames4]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGames4]=[AV_ModGames4]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGames4]=[AV_ModGames4]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGames4]=[AV_ModGames4]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGames4]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+@Flag(AV_Pins) Remove all the clothespins @Wait(10)
+You think you know everything about me @DeleteFlag(AV_Pins)
+but you have no clue what can and does take place here. 
+There is far more than this simple tease fetish going on here. 
+You might find out about other things here too boy
+it is all up to your Mistress to decide. @CBT
+I might decide you need longer and more in depth sessions. 
+I love giving subs really hard sessions. 
+You have no idea what can happen to you. 
+You better try your hardest to make your Mistress proud boy.
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+#StartStroking
+You are not allowed to stop stroking.
+If you reach the edge. Stop and put a clothespin on your body.
+The first two must go to your nipples. @Wait(20)
+At the exact moment the edge fades, you will resume the stroking. @Wait(20)
+Look me in the eyes while you #Stroke #Slave 
+I bet you won't make it #Random(5, 15) minutes. 
+Your eyes are absolutely full of  lust. 
+I've seen that look before 
+and any sub who has it cums hard no matter how they try to hold it back.
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+I don't think any kind of sexual pleasure is a punishment 
+but when you have to perform and not cum 
+I guess it probably can get very frustrating 
+and seem like you're being punished.
+#StartStroking
+Remember to keep putting the clothespins on
+I want you so desperate 
+that if I reached over and touched that #Cock with the tip of my finger
+it would burst like a ruptured dam. 
+Remember boy, no stopping or finishing early.
+Oh my goodness. 
+Your balls look so full and swollen just like they said they would. 
+You must really get teased a ton around here.  
+I feel bad that I have to make your balls fill up even more 
+but I have no choice if I want to stick around.
+#Edge @EdgeNoHold @MultipleEdges(4, 10, 100)
+Well, I am going to make sure you learn some patience. 
+A sub must attain this virtue.
+You see, I am going to teach you some cock patience today.
+#StartStroking
+I aim to truly show you how hard and desperate that little cock can get 
+and never, ever release any of the huge load that will be churning, boiling
+even trying to spill, ooze and force it's way out of it.  
+Every drop of that hot nasty cum will stay inside you no matter what unless I order it out. 
+#StopStroking
+Remove the clothespins @Wait(15)
+I am not messing around so do not fuck with me. 
+Look into my eyes #Slave. @CBTBalls
+Can you tell that I am not in the mood to deal with asinine behavior? 
+I demand and will get one hundred percent compliance. 
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+@Flag(AV_Pins) Remove all the clothespins @Wait(10)
+@NotFlag(AV_PinDone) Go fetch me some clothespins and a spoon @Wait(20)
+That little cock isn't nearly as hard as I want it.  @DeleteFlag(AV_Pins)
+#StartStroking
+I want it as hard as it can possibly get. 
+I want it so stiff that it pulsates visibly. 
+That little cock is going to go thru some real torment 
+to make up for this messy situation.
+Keep going #Slave! 
+You're going to struggle more than you thought was even possible 
+and yet you will give me total obedience.
+That's right #SubName. 
+Your only purpose is to serve, learn, and obey. 
+#StopStroking
+I've enjoyed watching you suffer and squirm.
+Put 2 clothespins on your nipples @Wait(15)
+Let's get one thing straight slave
+today you are going to hurt yourself for my pleasure 
+just like you did in all those days of denial
+Now show me how you slap those balls! @CBTBalls
+Stroke to the beat #AudioStroke
+Give me that #Cock right now. 
+Don't edge boy. 
+Just accept what is happening and be patient. 
+Calm down and focus on my eyes. 
+Accept that it's not your cock anymore. 
+It's mine right now.
+Now show me more like that one. 
+We're going to count and you WILL slap those balls for each number!
+Ready?
+1
+2
+3 @RapidTextOn
+4
+5 @RapidTextOff
+That's better #Slave, now they are hurting just like they should be!
+Now stand up
+I want #Random(4, 6) clothespins on your #Balls @Wait(25)
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)	
+I really like the fact that you did that in front of me 
+without any hesitation or second thoughts. 
+You did it because I told you to do it 
+even though it was humiliating 
+Did that make you feel like a slut?  @ResponseYes(Call Me) @ResponseNo(AV_NoNeutral)  
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+That's good because I need you to feel like a dirty little slut for me. 
+Being humbled in front of a Mistress is an ongoing necessary part of sub evolution. 
+You're still just a horny little slut in my eyes.
+Remove all clothespins and sit down
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+I usually don't enjoy teasing a sub this much. 
+Seeing how you're progressing 
+and this high level of obedience is making me horny.  
+I could easily ramp you up to my extreme edge holding regiment 
+but I don't think I can handle anymore edge holding with you today. 
+I will absolutely rape you if I keep this going 
+so we're going to do some more rapid edges without the holding now.
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)	
+So now is gonna be all about defining your limits and challenging yourself! 
+We're gonna work on speed, on endurance, on technique, and on restraint. 
+I guess I wouldn't call it training @FollowUp50(who are we kidding... you're definitely already an expert stroker)
+I'd just call it seeing what you can really do!
+This is gonna be about just how fast you can #Stroke that #Cock! 
+I bet you're gonna be pretty good at this one!  
+You're only gonna stroke for 10 little seconds
+but we're gonna see just how many strokes you can do in 10 seconds. 
+make sure you give solid strokes
+Ready?
+Go! @PlayAudio[tease\cStroke.mp3] @Wait(9)
+#StopStroking
+How many strokes did you do? @InputVar[AV_Stroke10Sec]
+@NullResponse RapidCodeOn
+@GoodMood @NullResponse @Goto(Happy)
+@BadMood @NullResponse @Goto(Angry)
+@NullResponse @Goto(Normal)
+(Happy)
+@NullResponse RapidCodeOn
+@NullResponse @If[AV_Stroke10Sec]<=[10]Then(Vinte)
+@NullResponse @If[AV_Stroke10Sec]<=[40]Then(Trinta)
+@NullResponse @If[AV_Stroke10Sec]>[40]Then(Quarenta)
+(Angry)
+@NullResponse RapidCodeOn
+@NullResponse @If[AV_Stroke10Sec]<=[30]Then(Vinte)
+@NullResponse @If[AV_Stroke10Sec]<=[35]Then(Trinta)
+@NullResponse @If[AV_Stroke10Sec]>[35]Then(Quarenta)
+(Normal)
+@NullResponse RapidCodeOn
+@NullResponse @If[AV_Stroke10Sec]<=[20]Then(Vinte)
+@NullResponse @If[AV_Stroke10Sec]<=[30]Then(Trinta)
+@NullResponse @If[AV_Stroke10Sec]>[30]Then(Quarenta)
+(Vinte)
+Just #Var[AV_Stroke10Sec]?
+I think your #Cock need a rest
+Let's focus on your #Balls now @CBTBalls
+@NullResponse @Goto(Cem)
+(Trinta)
+Not bad. @Goto(Cem)
+(Quarenta)
+#HolyShit, #Var[AV_Stroke10Sec] strokes?
+I don't think I've #Teased you enough. Let's fix that
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+(Cem)
+In the coming months I will tease you mercilessly.
+When you think it's over you will find it has only just begun.
+When you feel like you cannot go on, I will push you further. 
+When your lustful desires seem to have reached their peak
+I will show you how much higher they can go.
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+Hey #SubName...
+In this game, you'll go between pain and pleasure.
+I love a submissive who will go through pain just for my sake. @Chance25(NoGuest)
+Let's call a guest @Goto(G1, G2, G3)
+(G1)
+@NullResponse @RapidCodeOn
+@NullResponse @AddContact1 @TempFlag(AV_G1)
+@NullResponse @Goto(SoloAV)
+(G2)
+@NullResponse @RapidCodeOn
+@NullResponse @AddContact2 @TempFlag(AV_G2)
+@NullResponse @Goto(SoloAV)
+(G3)
+@NullResponse @RapidCodeOn
+@NullResponse @AddContact3 @TempFlag(AV_G3)
+@NullResponse @Goto(SoloAV)
+(NoGuest)
+@NullResponse @TempFlag(AV_NoGuest)
+(SoloAV)
+Ready? @SetVar[AV_RNDRounds]=[#Random(7, 12)] 
+(StartAV)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[AV_RNDNumber]
+@NullResponse @SetVar[AV_RNDNumber]=[#Random(1, 2)] 
+@NullResponse @ChangeVar[AV_RNDRounds]=[AV_RNDRounds]-[1]
+@NullResponse @If[AV_RNDRounds]=[0]Then(FinishAV)
+@NullResponse @If[AV_RNDNumber]=[1]Then(SmackAV)
+@NullResponse @If[AV_RNDNumber]=[2]Then(StrokeAV)
+(StrokeAV)
+@NullResponse @RapidCodeOff
+@Flag(AV_G1) @Contact1 #Stroke #RandomRound5(10, 30) times @PlayAudio[tease\cStroke.mp3] 
+@Flag(AV_G2) @Contact2 #Stroke #RandomRound5(10, 30) times @PlayAudio[tease\cStroke.mp3] 
+@Flag(AV_G3) @Contact3 #Stroke #RandomRound5(10, 30) times @PlayAudio[tease\cStroke.mp3] 
+@Flag(AV_NoGuest) #Stroke #RandomRound5(10, 30) times @PlayAudio[tease\cStroke.mp3] 
+@NullResponse @Goto(StartAV)
+(SmackAV)
+@NullResponse @RapidCodeOff
+@Flag(AV_G1) @Contact1 @RT(Smack, Spank, Hit) your #Balls #SpankN times @PlayAudio[tease\whip.mp3] 
+@Flag(AV_G2) @Contact2 @RT(Smack, Spank, Hit) your #Balls #SpankN times @PlayAudio[tease\whip.mp3] 
+@Flag(AV_G3) @RT(Smack, Spank, Hit) your #Balls #SpankN times @PlayAudio[tease\whip.mp3] 
+@Flag(AV_NoGuest) @RT(Smack, Spank, Hit) your #Balls #SpankN times @PlayAudio[tease\whip.mp3] 
+@NullResponse @Goto(StartAV)
+(FinishAV)
+#ThatsEnough
+@Flag(AV_G1) @NullResponse @RemoveContact1 @DeleteFlag(AV_G1)
+@Flag(AV_G2) @NullResponse @RemoveContact2 @DeleteFlag(AV_G2)
+@Flag(AV_G3) @NullResponse @RemoveContact3 @DeleteFlag(AV_G3)
+@End

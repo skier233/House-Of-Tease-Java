@@ -1,0 +1,10 @@
+@NullResponse @CheckFlag(Working)
+Hey #Name
+I'm on my way home right now
+Message me here in a few #Name @Interrupt(TSDayReset) 
+@End 
+(Working)
+Hey #Name @DeleteFlag(Working)
+I'm on my way home right now
+Message me here in a few #Name @Interrupt(TSDayReset) 
+@End 

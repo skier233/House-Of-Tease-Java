@@ -1,0 +1,41 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@NotFlag(AV_PinDone) Go fetch me some clothespins and a spoon. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+#KneelForMe
+Pinch your nipples.
+@Flag(av_fetish_pain) No, not like you're posing for a magazine. Make them hurt.
+Now pull them. Hard. 
+Twist them back and forth like you're starting a fire. 
+@Flag( av_fetish_pain) HARDER.
+@Flag(av_fetish_rough) Yes little #PetName, whimper for me...
+Alright, now grab the nipple clamps, and attach them.
+Nice and tight...That should keep you busy.
+Mmmm, now my favorite part. 
+Spread your legs and hold that sore dick out of the way.
+It's time to punish those balls of yours. 
+Those guilty little slut balls full of worthless little slut cum.
+They deserve a beating. 
+Are they nice and exposed for me? 
+Hold out your hand, facing down. 
+Give them a hard slap with the spoon, bring your hand straight down on to them. 
+Ready?
+ONE. @PlayAudio[tease\whip.mp3]
+@Flag(av_fetish_pain) Stop. We both know you didn't even try. That little bitch tap is laughable.
+@Flag(av_fetish_pain) That wasn't pain you felt, just shock.
+@Flag(av_fetish_pain) I want to hear you cry out when your hand hits that sack.
+@Flag(av_fetish_pain) Do it again.
+@Flag(av_fetish_pain) ONE. @PlayAudio[tease\whip.mp3]
+Hmph. TWO. @PlayAudio[tease\whip.mp3]
+Stop being a pussy. Harder: THREE. @PlayAudio[tease\whip.mp3]
+FOUR. @PlayAudio[tease\whip.mp3]
+FIVE. @PlayAudio[tease\whip.mp3]
+Stop. Hold your balls with your other hand 
+and pull the sack skin taut until your balls are held still so they get the full impact.
+Now one more, as hard as before, and you'd better not hold back.
+SIX. @PlayAudio[tease\whip.mp3]
+AND AGAIN. SEVEN. @PlayAudio[tease\whip.mp3]
+#Lol
+You can sit and remove the clothespins
+@End

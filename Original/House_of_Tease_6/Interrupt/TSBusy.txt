@@ -1,0 +1,8 @@
+(Busy1)
+@NullResponse @SetFlag(Busy1)
+Sorry, #SubName, I've got some things going on right now 
+Try messaging me again in an hour or so
+No touching till I say #EmoteHappy
+Talk to you soon, @Name 
+@NullResponse @Interrupt(TSDayReset) 
+@End

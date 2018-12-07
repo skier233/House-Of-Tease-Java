@@ -1,0 +1,501 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModAud5_NotFirstTime)
+@NullResponse @SetVar[AV_ModAud5]=[0] 
+@NullResponse @SetFlag(AV_ModAud5_NotFirstTime)
+(AV_ModAud5_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModAud5]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModAud5]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModAud5]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModAud5]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModAud5]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModAud5]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModAud5]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModAud5]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModAud5]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModAud5]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModAud5]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModAud5]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModAud5]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModAud5]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModAud5]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModAud5]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModAud5]=[AV_ModAud5]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModAud5]=[AV_ModAud5]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModAud5]=[AV_ModAud5]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModAud5]=[AV_ModAud5]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModAud5]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #Stop @StopStroking
+@BadMood @NullResponse @Goto(BadMood1)
+@Flag(av_fetish_pain) #Slave @Goto(AV_Miss)
+Do you remember what were you doing before we started this session? @Timeout(8, NoRespo)
+[yes] #Lol, maybe... 
+[no] No? @Goto(NoRespo)
+@AcceptAnswer Yes or no #SubName?
+But now...
+(NoRespo)
+Only things you can think about are: @RapidTextOn
+#Boobs
+#Ass @RapidTextOff
+@Flag(av_fetish_foot) #Feet
+and cum?
+Perfect! 
+That means that you have had a beautiful aching.
+And it's not over yet! @Goto(Normal)
+(AV_Miss)
+Are you suffering? 
+Are you afraid of pain? 
+You shouldn't.
+You have been trained very well by me
+"your" #Balls are MINE, and I know exactly what they deserve. 
+@NotFlag(AV_PinDone) Go fetch me a spoon, shoelace and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+#KneelForMe
+So first attach one pin to each nipple. @Wait(20)
+#TieYourBalls
+@Flag(av_fetish_gag) #BallGagOn
+Now put #Random(2, 4) on your #Balls @Wait(20)
+The nipple pins must be hurting by now. 
+keep them on. @Goto(Normal)
+(BadMood1)
+Time for some whipping #Slave. 
+You have been such a bad boy recently and you deserve a spanking.
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+Stand up
+Now start spankin your ass cheeks with the spoon until you cant keep going on.  @Wait(20)
+Dont forget the other  @Wait(20)
+Both cheeks should be verry red right now. 
+If not give me 50 spanks on each cheeks. Very hard ones! @Goto(Normal)
+(Normal)
+Do you want to change my mind? 
+Try with an edge. @EdgeNoHold
+Very well! 
+But I'm not convinced so... 
+spank your balls #RandomRound10(10, 20) times for me
+@Flag(AV_DommeMistress) You are my little #Slave. 
+I can't wait to collar you and make you all mine. 
+@Flag(av_fetish_pain) You'll be my ballbusting bitch 
+@Flag(av_fetish_foot) My foot slave. 
+@Flag(av_fetish_pain) I'll kick you in the balls each and every day 
+@Flag(av_fetish_foot) I will make you worship my perfect feet before being locked into chastity 
+@Flag(av_fetish_rough) I am superior to you and you know it. 
+@Flag(av_fetish_rough) You should be on your knees BEGGING me to make you my bitch! 
+@Flag(av_fetish_pain) You will become my ballbusting slave, when I let you out of chastity. 
+@Flag(av_fetish_pain) I will kick you in the balls as hard as I can
+You're looking a little manly over there so it's time to fix that!
+@CBTCock
+@Flag(AV_LikeAnal) You know you want me to spread your asshole with a big strap-on 
+@Flag(AV_LikeAnal) You are going to be my bitch and there is nothing you can do about it.
+You are going to be under my control from here on out. 
+You know that deep down inside your #Cock you want me to make you take it. 
+You'll love it! 
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+It is so funny that you like me to give you abuse 
+@Flag(av_fetish_pain) and a good whipping. 
+@Flag(av_fetish_pain) @CBT
+You can't help yourself. 
+All you want to do is #Stroke to me. 
+You are so easy to control with your silly fetishes. 
+You'll do anything I tells you to do. 
+You are so eager to please me that you can't say no to anything. 
+#StartStroking
+@Flag(av_fetish_rough) Women like me are superior to men in all ways. 
+You see I know how to control you and I can tell you I'm controlling you 
+and you can't even do anything about it 
+because you are too busy stroking your #Cock to care if I take advantage of you. 
+But I know you love it. 
+You love having a gorgeous powerful woman control your life. 
+@Flag(av_fetish_rough) You're too pathetic to make your own choices anyway. 
+@RT(It's really quiet easy to manipulate men, I can make you do anything as long as I'm getting you hard) which doesn't take much effort on my part. 
+It's fun for me to tease guys like you. 
+#Edge @Edge
+Remove everything 
+#SitDown
+@End
+(Modulo2)
+@Stroking #Stop @StopStroking
+Would you like some pleasure?
+Well you're going to need to add in a little pain as well. 
+I'll admit, I love instructing you to hurt yourself, just a little bit 
+And I know you're addicted to my CBT instructions. 
+You'll do anything I say. 
+Who doesn't like a little pain with their pleasure?
+Well no touching without my explicit permission
+Are you nervous? @Timeout(8, NoRespo2)
+[yes] Well we will get to that #Slave
+[no] There is no rush right?
+@AcceptAnswer Yes or no #SubName?
+(NoRespo2)
+Now start gently massaging your balls
+Pull them down a bit and just feel how badly they want to release all that stocked up sperm
+Now #Stroke very slowly @PlayAudio[tease\cStroke.mp3]
+Follow the beats @PlayAudio[tease\b075.mp3] 
+Take your other hand behind your back
+I see you are already quivering
+Maybe this will be a very short session?
+Speed up a little @PlayAudio[tease\b110.mp3]
+You will take your hand away if you start cumming!
+Is that understood slave? @PlayAudio[tease\b110.mp3]
+So you are getting close slave? @Timeout(8, NoRespo3)
+[yes] Didnt you have any stamina #Slave? @Goto(Pause)
+[no] There is no rush right?
+@AcceptAnswer Yes or no #SubName?
+(NoRespo3)
+Keep going...
+(Pause)
+#StopStroking
+How sensitive are you?... seriously
+You didnt spurt..not bad
+Well hand behind your back and look down at your cock
+Wanna continue with what youre best at #PetName?
+Stroking and edging your penis?
+[yes] Go ahead keep going again lets try some edge holding for a change
+[no] Im surprised you endured all this slave @Goto(AV_Jump46)
+@DifferentAnswer #YesorNo #SubName?
+#StartStroking
+No, go fast @PlayAudio[tease\b250.mp3]
+That's right!
+Now...
+#Edge @EdgeHold @MultipleEdges(2, 10, 100)
+#LetTheEdgeFade
+(AV_Jump46)
+How bad do you want to cum #Slave? @Wait(10)
+But you dont have it #SubName
+I'm the one who will make you scream with frustration
+#KneelForMe
+Now, there's what I wanted to see. A frustrated little penis
+@NotFlag(av_fetish_pain) @NullResponse @Goto(skip58232)
+#LittleGame
+You will follow the instructions that I give to you 
+You will need your clothespins @Wait(20)
+Ready?
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+Remove all clothespins @DeleteFlag(AVs_Ln) @DeleteFlag(AVs_Rn) @DeleteFlag(AVs_Ball) @DeleteFlag(AVs_Li) @DeleteFlag(AVs_Ri) @Wait(20)
+@NotFlag(av_fetish_pain) @NullResponse  @Goto(skip58232)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+Remove all clothespins @DeleteFlag(AVs_Ln) @DeleteFlag(AVs_Rn) @DeleteFlag(AVs_Ball) @DeleteFlag(AVs_Li) @DeleteFlag(AVs_Ri) @Wait(20)
+You're being treated like a naughty boy and you like it. 
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+Remove all clothespins @DeleteFlag(AVs_Ln) @DeleteFlag(AVs_Rn) @DeleteFlag(AVs_Ball) @DeleteFlag(AVs_Li) @DeleteFlag(AVs_Ri) @Wait(20)
+Remember that you deserve it.
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+Remove all clothespins @DeleteFlag(AVs_Ln) @DeleteFlag(AVs_Rn) @DeleteFlag(AVs_Ball) @DeleteFlag(AVs_Li) @DeleteFlag(AVs_Ri) @Wait(20)
+(skip58232)
+I hope those balls are still aching for me, #PetName, because if they're not you weren't trying hard enough before. 
+#Edge @Edge
+Do you feel used now? @Wait(10)
+Yes you are
+@NotFlag(av_fetish_pain) @NullResponse @Goto(658hgr3)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+#AV_PinsGame @Wait(20)
+Remove all clothespins @DeleteFlag(AVs_Ln) @DeleteFlag(AVs_Rn) @DeleteFlag(AVs_Ball) @DeleteFlag(AVs_Li) @DeleteFlag(AVs_Ri) @Wait(20)
+Make sure they're uncomfortable and keep them that way for a while.
+(658hgr3)
+#SitDown
+@End
+(Modulo3)
+@Stroking #Stop @StopStroking
+I love to make slave boys embarrassed
+Stand up @Wait(10)
+That's better.  
+I want to see the goods.  
+I know, I know, "they're so sensitive."  
+Spread your legs.  
+A little more.  
+Perfect.   
+I want a nice clear shot at those precious #Balls.  
+That look on your face is priceless.  
+You already look like you're in pain 
+I guess you must feel very vulnerable standing there
+naked, legs spread, with your balls dangling freely.  
+I've got them right where I want them.  
+Hanging heavy in their little sack.  
+Fragile.  Defenseless.  
+I'm a real ball buster. 
+And I'm going to bust YOUR balls.  
+First, give me a edge @EdgeNoHold
+#LetTheEdgeFade
+Let's get started while Mr. Cock is up and out of the way, shall we? @CustomMode(#ZAVI_ICantTake, Goto, StopTask_AV)
+@Flag(av_fetish_pain) @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank3.mp3] @Wait(12)
+See? That wasn't so bad, was it?  @TempFlag(av_MAT5a01)
+You're dancing around holding yourself like you have to pee, that's classic! 
+(av_MAT5a01) 
+I'm such a pain in the balls, aren't I?
+#Edge @EdgeNoHold
+@NotFlag(av_fetish_pain) @NullResponse @Goto(skip27863)
+ok, let back into position.   
+Spread those legs a little wider.   
+Good. Do they ache?
+Good!  
+@RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3] @Wait(13)
+Oooo, that was a good one!  @TempFlag(av_MAT5a02)
+I love how guys bend over and hold themselves like that!   
+Does it actually help the pain or is it just a reflex?   
+Heh, I think you're too busy clutching your pearls to pay attention.
+(av_MAT5a02)
+#Edge @EdgeNoHold
+Come on, straighten back up. 
+You can do it!  
+That's right, legs spread again.
+@RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3]  @Wait(12)
+Hurts worse when one of them takes the full impact, doesn't it? @TempFlag(av_MAT5a03) 
+That's ok, call me all the names you want.  
+I kinda like it.  
+(av_MAT5a03) 
+Ballbusting Bitch is one of my favorites, by the way!  
+You can call me that next time if you want! 
+Oh don't look at me like that, you're over the hump, after all.   
+I know, they hurt.  
+They're supposed to hurt, silly!   
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+(skip27863)
+I may not be your ball's favorite person right now, but your cock still likes me.   
+So let's get this over with! 
+@Flag(av_fetish_pain) @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank10.mp3]  @Wait(12)
+Perfect shot!  @TempFlag(av_MAT5a04)
+(av_MAT5a04)
+Your balls just got pwned!  @CustomMode(ModeText, Normal) 
+Oh fuck, seeing you there, your balls throbbing in pain @DeleteFlag(av_MAT5a04, av_MAT5a03, av_MAT5a02, av_MAT5a01)
+your cock throbbing with lust
+all because of me, it's just too much!
+You did good, baby.  
+Now get back to your chair
+@End
+(StopTask_AV)
+@NullResponse @CallReturn(Custom\Interact\AV_PainInter.txt) 
+@NullResponse 
+@Flag(StopAllowed) @NullResponse @Goto(EndMod3)
+@Flag(av_MAT5a04) @NullResponse @Goto(av_MAT5a04)
+@Flag(av_MAT5a03) @NullResponse @Goto(av_MAT5a03)
+@Flag(av_MAT5a02) @NullResponse @Goto(av_MAT5a02)
+@Flag(av_MAT5a01) @NullResponse @Goto(av_MAT5a01)
+(EndMod3)
+#ThatsEnough @DeleteFlag(StopAllowed, av_MAT5a04, av_MAT5a03, av_MAT5a02, av_MAT5a01)
+@End
+(Modulo4)
+@Stroking #Stop @StopStroking
+So tell me did Mistress #Contact3 turn you on?
+[yes] What was it exactly that turned you on?
+[no] Well it doesnt sound like that
+@DifferentAnswer #YesorNo #SubName?
+And would you say that you had a little crush on Mistress #Contact1?
+[yes] Is that so slave?
+[no] You don't? 
+@DifferentAnswer #YesorNo #SubName?
+Based on the way you're talking about them...
+I thought it would be a good idea to put your training to the test
+How would you like it if you were on display for my friends?
+@NullResponse @AddContact3
+@NullResponse @AddContact2
+@NullResponse @AddContact1
+I will leave you with the girls...I will be back later.
+@NullResponse @RemoveDomme
+@Contact1 #SubName
+@Contact3 We are going to take you on a journey of pain and pleasure
+@Contact2 Stand up @Wait(10)
+@Contact3 Now! Hands behind your head!
+@Contact2 Is that as big as it gets?
+@Contact2 That's not very impressive!!
+@Contact2 #StartStroking @Wait(15)
+@Contact1 Girls this is an ..... erect?..... penis.
+@Contact3 It's so fun watching him. 
+@Contact3 See his cock is already twitching.
+@Contact1 Wittle cock twitch
+@Contact3 #Stop
+@Contact3 See?
+@Contact3 Still twitching.
+@Contact3 As you have already seen the balls are very sensitive.
+@Contact3 So just giving a light squeeze can be enough to get a man to behave.
+@Contact3 And a tight squeeze can make a man do almost anything to wish for escape.
+@Contact3 squeeze your balls #SubName
+@Contact3 Hahaha see what I mean.
+@Contact2 #Edge @EdgeNoHold
+@Contact2 Do you want to cum?
+@Contact2 Do you want to cum in front me?
+@Contact2 NO!!!!
+@Contact2 See how it's dancing?!
+@Contact2 Twitching like crazy!
+@Contact2 With one single drop of pre-cum dribbling from the head?!
+@Contact2 Stay like that!
+@Contact2 Hands behind your head!
+@Contact2 Hope you feel ashamed!
+@Contact3 You are here because of your perverted actions!
+@Contact1 Now girls.
+@Contact1 Lets start again.
+@Contact1 #StartStroking
+@Contact1 Slowly. 
+@Contact1 Gripping with just your thumb and index finger 
+@Contact1 Up....
+@Contact1 And down.....
+@Contact1 Up.....
+@Contact1 And down....
+@Contact1 Right the way along the shaft right over the head......
+@Contact1 and back down.
+@Contact3 Now slightly faster.
+@Contact3 Up and down.
+@Contact2 up and down.
+@Contact1 up and down.
+@Contact2 See how much he's enjoying it?!
+@Contact3 Then slow again....
+@Contact2 Hummmm......
+@Contact2 Have you learned your lesson?
+@Contact2 HAVE YOU?!
+@Contact1 Just try not to cum.
+@Contact2 Try not to cum while thinking about my big tits.
+@Contact2 Mmmmm I bet you are just aching now.
+@Contact1 Girls look at all that pre-cum just dripping.
+@Contact1 His cock looks so shiny now.
+@Contact1 Bet you would love for one of us to lick it all off.
+@Contact1 To lick your lolly pop.
+@Contact3 God, I'm so turned on now. 
+@Contact3 Oh you're doing so well holding on.
+@Contact3 I can see the pressure in your cock.
+@Contact3 Are you going to be a good boy and learn to cum only when a woman tells you?
+@Contact3 #StopStroking
+@Contact2 Now, kneel for us. @Wait(20)
+@Contact2 Get the spoon and keep your legs apart @Wait(10)
+@Contact2 Mmmmm, and your balls are aching too, aren't they?
+@Contact2 Well I can't leave them out can I? 
+@Contact2 I think they need some loving too, don't they.
+@Flag(av_fetish_pain) @Contact2 @RT(Hit, Spank) your #Balls @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+@Contact2 How does it feel? 
+@Contact3 Your cock is still as hard as a rock, are you sure you're not lying to us?
+@Flag(av_fetish_pain) @Contact3  @RT(Hit, Spank) your #Balls @PlayAudio[tease\G3Spank\*.mp3]  @Wait(22)
+@Contact3 I don't like liars.
+@Flag(av_fetish_pain) @Contact3  @RT(Hit, Spank) your #Balls @PlayAudio[tease\G3Spank\*.mp3]  @Wait(22)
+@Contact3 Liars deserve to be fucked, hard.
+@Contact2 If I was there, I would put on a really big strapon...
+@Contact2 tie you the fuck down, and shove it in your throat to get it wet.
+@Flag(av_fetish_pain) @Contact2 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3]  @Wait(12)
+@Contact2 Your cock is dripping, you know?
+@NotFlag(av_fetish_pain) @NullResponse @Goto(SkipPain)
+@Contact2 Your turn #Contact1
+@Contact1 Are you sure you don't enjoy having your balls played with?
+@Contact1 Ahhh, fuck, I didn't know you liked that, you dirty little boy. 
+@Contact1 Oh you love it don't you?
+@Contact1 #Edge @Edge
+@Contact1 Don't be afraid.
+@Contact1 I know you want to moan, so moan!
+@Contact1 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank3.mp3]  @Wait(12)
+@Contact1 I want to hear you moan.
+@Contact1 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank3.mp3]  @Wait(13)
+@Contact1 I want to hear it all.
+@Contact3 I don't care if it hurts, that's the fucking point. 
+@Contact3  @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank10.mp3]  @Wait(13)
+@Contact3 I want to hear your moans.
+@Contact3 #Edge @Edge
+@Contact3  @RT(Hit, Spank) your  @PlayAudio[tease\G3Spank\*.mp3]  @Wait(22)
+@Contact3 I want to hear your whimpers.
+@Contact3  @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3]  @Wait(13)
+@NullResponse @Chance50(AV_No01)
+@Contact3  @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank3.mp3]  @Wait(12)
+(AV_No01)
+@Contact3 Beg for it, bitch. Beg for be spanked like the slut you are!
+@Contact2 That's it...let me hear it hurting you. 
+@Contact2 You deserve this.
+@Contact2 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3] @Wait(12)
+@Contact2 You want to be my fucktoy.
+@Contact2 #Edge @Edge
+@Contact2 @RT(Hit, Spank) your #Balls @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+@Contact1 Tell me how much you love it, tell me!
+@Contact1 #Edge @Edge
+@Contact1 Don't you dare fucking cum!
+@Contact1 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3] @Wait(12)
+@Contact1 You are not allowed to cum.
+@Contact1 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3] @Wait(12)
+@Contact3 Take it!
+@Contact3 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3] @Wait(12)
+@NullResponse @Chance50(AV_No02)
+@Contact3 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+(AV_No02)
+@Contact3 Take it you fucking slut! 
+@Contact3 Beg for
+@Contact3 Beg for it!
+@Contact3 #Edge @Edge
+@Contact3 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank3.mp3] @Wait(12)
+@NullResponse @Chance50(SkipPain)
+@Contact3 @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3] @Wait(12)
+(SkipPain)
+@Contact3 Take a rest @Wait(20)
+@Contact3 So focus now on your *cock*
+@Contact2 Is it hard?
+@Contact1 Is it *throbbing*?
+@Contact1 Does it ache from excitement?
+@Contact1 Can you feel the precum dripping down?
+@Contact3 And what about those balls?
+@Contact3 Focus on them now.
+@Contact3 Are the heavy?
+@Contact3 And they all bunched up, ready to *cum*?
+@Contact2 Do they ache too?
+@Contact3 Wow.
+@Contact3 I enjoyed that.
+@Contact3 I'll see you soon baby.
+@Contact1 yeah, #DomName is back 
+@Contact2 I hope we did not break you #SubName
+@NullResponse @AddDomme
+Hi #PetName, miss me? @RemoveContact1
+@NullResponse @RemoveContact2
+@NullResponse @RemoveContact3
+Wow
+They fled from me?
+What happened #PetName? #Lol
+@End

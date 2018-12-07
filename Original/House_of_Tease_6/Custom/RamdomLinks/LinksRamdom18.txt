@@ -1,0 +1,119 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link18_NotFirstTime)
+@NullResponse @SetVar[AV_Link18]=[0] 
+@NullResponse @SetFlag(AV_Link18_NotFirstTime)
+(AV_Link18_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link18]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link18]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link18]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link18]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link18]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link18]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link18]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link18]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link18]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link18]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link18]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link18]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link18]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link18]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link18]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link18]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link18]=[AV_Link18]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link18]=[AV_Link18]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link18]=[AV_Link18]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link18]=[AV_Link18]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link18]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+The Femdom @RT(relationship, lifestyle) allows you to @RT(explore, enjoy) new sexual pleasures
+@RT(For example, Like)...
+You decide when he is allowed to cum, by locking him in chastity device.
+Chastity device is a powerful tool! You truly control his cock, and it's wonderful to know it is caged.
+He is carrying it, but you are the owner. No one besides you decide when it will be released.
+The most precious thing to any male is his cock. 
+Losing control on it for you, The key holder, will make him your obedient bitch.
+#StartStroking @StartStroking
+@End
+(Link2)
+You know, in femdom @RT(lifestyle, relationships)
+the dominant woman has @RT(advantages, privileges) that vanilla woman @RT(dont have, can only dream of).
+@RT(For example, Like)...
+You can train him to be your perfect oral slave.
+Since you are the dominant, and he is your subject, he will eat you on demand anytime.
+It is really worth spending the time and train him how to lick you. 
+He is yours and unlike a vanilla man, he will do all efforts to follow your instructions in order to please you.
+#StartStroking @StartStroking
+@End
+(Link3)
+The Femdom @RT(relationship, lifestyle) allows you to @RT(explore, enjoy) new sexual pleasures
+@RT(For example, Like)...
+You can turn him into your sex toy.
+There are many devices you can attach to your submissive and make him your sex slave. 
+He will become an object, and his only purpose is to please you. 
+Exactly like any sex toy you have, but this human toy can follow voice commands
+#StartStroking @StartStroking
+@End
+(Link4)
+@Flag(AV_LikeAnal) @NullResponse @Goto(AV_Peg)
+@RT(I want to use you more, I want to use you hard, I want use you as hard as I like)
+Because you @RT(deserve it, deserve to be used, deserved that)
+I will not hold back
+I'm so damn horny @RT(#PetName, #SubName)
+#StartStroking @StartStroking
+@End
+(AV_Peg)
+You know, in femdom @RT(lifestyle, relationships)
+the dominant woman has @RT(advantages, privileges) that vanilla woman @RT(dont have, can only dream of).
+@RT(For example, Like)...
+You can fuck him hard!
+It is such a great fun to fuck him. 
+Personally, I love the Feeldoe for this purpose.
+It is built to bring the woman satisfaction when penetrating his ass. 
+Since you are the dominant, and he is your slave, you can do it anytime you like.
+#StartStroking @StartStroking
+@End

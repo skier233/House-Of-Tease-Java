@@ -1,0 +1,53 @@
+@RT(Time to edge a lot, Edge time, Let's try some more edges) @RT(#PetName, #SubName)
+You will repeat the process until you've deemed it's OK to jump over the edge and have an orgasm.
+However our goal is reach a state of edging...
+where @RT(any touch or caress leads to an explosive sensation of elation, you continue edging,, you continue feeling extreme pleasure as your mind and body will become one).
+@RT(You will experiencing such concentrated pleasure can become very expressive, Your body and face will react to every touch to the #Cock,, resulting in the term "goon")
+Relax and spread your legs a bit, so that you have enough space to work on your #Cock
+#Edge @EdgeHold @MultipleEdges( #Random(2, 3), 10, 100)
+@NullResponse @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+(Loop_frequent)
+#Edge @RapidTextOff @EdgeHold
+Can you do another one?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break9)
+@DifferentAnswer Thats fine
+(Loop_frequent1)
+#Edge @RapidTextOff @EdgeHold
+Push on?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break9)
+@DifferentAnswer Thats fine
+(Loop_frequent2)
+#Edge @RapidTextOff @EdgeHold
+Shall we go on?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break9)
+@DifferentAnswer Thats fine
+(Loop_frequent3)
+#Edge @RapidTextOff @EdgeHold
+Do you need the next edge?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break9)
+@DifferentAnswer Thats fine
+(Loop_frequent4)
+#Edge @RapidTextOff @EdgeHold
+Damn can you really handle another one?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break9)
+@DifferentAnswer Thats fine
+(Loop_frequent5)
+#Edge @RapidTextOff @EdgeHold
+#SubName do you want more?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break9)
+@DifferentAnswer Thats fine
+(Loop_frequent6)
+#Edge @RapidTextOff @EdgeHold
+One more to start flying?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_frequent, Loop_frequent1, Loop_frequent2, Loop_frequent3, Loop_frequent4, Loop_frequent5, Loop_frequent6)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break9)
+@DifferentAnswer Thats fine
+(Break9)
+@RT(Here you go, Just take a break without stroking) @RapidTextOff @Wait( #Random(10, 20))
+@End

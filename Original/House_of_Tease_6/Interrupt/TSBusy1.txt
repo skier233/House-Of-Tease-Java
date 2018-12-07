@@ -1,0 +1,20 @@
+@NullResponse @SetFlag(Busy1) @SetFlag(WasBusy1) @Chance50(2) @Chance50(3)
+Sorry #Name, I've got some things going on right now  
+Try messaging me again in an hour or so
+No touching until I say so #Smile
+Talk to you soon #Name @Interrupt(TSDayReset) 
+@End 
+(2)
+Sorry #Name, I'm going to be busy for an hour or so
+Why don't you get ready for me though @ChastityOff
+I want you to have edged for me before you say hi to me #Smile
+You may only edge once #Smile
+You may stroke for as long as it takes to get you there #Smile
+Talk to you soon @Interrupt(TSDayReset)
+@End 
+(3)
+Hey #SubName, I'm a little preoccupied at the moment
+But don't think I'll forget about you #Smile
+Send me another message here in about an hour or so
+I should be free then #Smile @Interrupt(TSDayReset)
+@End 

@@ -1,0 +1,142 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link12_NotFirstTime)
+@NullResponse @SetVar[AV_Link12]=[0] 
+@NullResponse @SetFlag(AV_Link12_NotFirstTime)
+(AV_Link12_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link12]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link12]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link12]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link12]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link12]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link12]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link12]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link12]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link12]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link12]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link12]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link12]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link12]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link12]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link12]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link12]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link12]=[AV_Link12]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link12]=[AV_Link12]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link12]=[AV_Link12]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link12]=[AV_Link12]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link12]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+@Flag(av_fetish_cei) @NullResponse @Goto(AV_CEI2)
+@RT(I want to use you more, I want to use you hard, I want use you as hard as I like)
+Because you @RT(deserve it, deserve to be used, deserved that)
+I will not hold back
+I'm so damn horny @RT(#PetName, #SubName)
+#StartStroking @StartStroking
+@End
+(AV_CEI2)
+I'm here for you. 
+I'm going to make you drink that load. 
+And you'll love it. 
+Look down at your swollen dick. 
+Look at the head, look at the precum. 
+You want that load, you need to do it for me.
+#StartStroking @StartStroking
+@End
+(Link2)
+@Flag(av_fetish_cei) @NullResponse @Goto(AV_CEI)
+@RT(I want to use you more, I want to use you hard, I want use you as hard as I like)
+Because you @RT(deserve it, deserve to be used, deserved that)
+I will not hold back
+I'm so damn horny @RT(#PetName, #SubName)
+#StartStroking @StartStroking
+@End
+(AV_CEI)
+You want to taste your cum?  @ResponseYes(Call Me)
+You neeeeeed to taste your cum. 
+Have you chickened out before?
+I really hate it when guys chicken out. 
+You want to be kinky, you want to taste that load, but once you nut you lose the courage. 
+Poor baby. 
+Well no pussying out #GeneralTime, ok?
+We're gonna do it. 
+We're gonna break you in. 
+You're gonna love it. 
+#StartStroking @StartStroking
+@End
+(Link3)
+@Flag(AV_LikeAnal) @NullResponse @Goto(AV_Peg)
+@RT(I want to use you more, I want to use you hard, I want use you as hard as I like)
+Because you @RT(deserve it, deserve to be used, deserved that)
+I will not hold back
+I'm so damn horny @RT(#PetName, #SubName)
+#StartStroking @StartStroking
+@End
+(AV_Peg)
+I've got this big black silicone, you know...
+What better way to fuck you than with 9 inches of cock, it's even bigger than yours!
+A little over the top?
+Noo...
+You want to be my ass slut.
+#StartStroking @StartStroking
+@End
+(Link4)
+@Flag(av_fetish_foot) @NullResponse @Goto(AV_pe)
+@RT(I want to use you more, I want to use you hard, I want use you as hard as I like)
+Because you @RT(deserve it, deserve to be used, deserved that)
+I will not hold back
+I'm so damn horny @RT(#PetName, #SubName)
+#StartStroking @StartStroking
+@End
+(AV_pe)
+Would you like my feet on your cock?
+Dont look at them stay focused on my face slaveboy
+I bet you would really like that 
+My toes rubbing up and down your shaft
+Slowly milking out tiny drops of precum
+Would you let me do that? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+#StartStroking @StartStroking
+@End

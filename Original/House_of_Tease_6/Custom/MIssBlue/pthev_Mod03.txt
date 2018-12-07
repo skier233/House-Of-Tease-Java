@@ -1,0 +1,163 @@
+#StopStroking @StopStroking
+Do you like @RT(edging,it when I make you edge,getting to the edge) #PetName?
+[yes] Good #Smile
+[no] Good, I @RT(love,like,do enjoy) @RT(putting you through,making you do,it when you have to endure) @RT(stuff,things) you don't @RT(like,want to,actually enjoy) #Grin
+@AcceptAnswer I @RT(love,like,do enjoy) making you edge
+#Edge @Edge
+#LetTheEdgeFade @CheckFlag(pvMod03A)
+I'm going to show you some pictures, #Name @SetFlag(pvMod03A)
+You're going to give me 10 full strokes for each picture
+And no more than 10 stokes
+Except when it's a pic of a blowjob...
+A blowjob means you have to edge #Smile
+Is that clear?
+[yes] Good @Goto(canstart)
+[no,explain,dont understand,unclear] It's perfectly simple #PetName
+@DifferentAnswer #YesOrNo
+Every new picture means you stroke your #Cock 10 times
+But when I show you a picture of a blowjob you have to edge as fast as you can
+Okay?
+[yes,okay,understood,clear] It's not exactly rocket science is it @Goto(canstart)
+[no] Now you're just yanking my chain #Name
+@AcceptAnswer Now you're just yanking my chain #Name
+When really, I should be yanking yours
+(canstart)
+So let's begin!
+This is a nice one to start off with @ShowSoftcoreImage @LockImages
+You don't have to tell me every time you did your 10 strokes
+Just make sure you do them all
+Like right now @ShowBoobsImage
+You can do the math #PetName
+If I showed you each and every one of the pics in your collection
+How many strokes would that be... @ShowHardcoreImage
+A lot #Laugh
+Ooh BJ alert! You know what that means @ShowBlowjobImage @Edge
+You have quite a few blowjob pictures too
+What if I made you edge to all of them #GeneralTime
+That would really mess you up @ShowSoftcoreImage
+I don't think you could handle it
+10 strokes for this #Ass #Name @ShowButtImage @Wait(12)
+@NullResponse @ShowBlowjobImage @Edge
+I don't even have to tell you anything anymore @CustomMode(#pvNeedABreak,Goto,need break)
+I can let the pictures do the talking
+@NullResponse @ShowFemdomImage @SetVar[pthev_Mod03edges]=[0]
+(BackUp)
+@NullResponse @If[pthev_Mod03edges]>[5]Then(end)
+@NullResponse @Goto(FDimage,LDimage,Butt,Boob,LesImage,HCimage,BJimage,BJimage,BJimage)
+(FDimage)
+@NullResponse @ShowFemdomImage
+@NullResponse @Goto(BackUp)
+(LDimage)
+@NullResponse @ShowLezdomImage
+@NullResponse @Goto(BackUp)
+(Butt)
+@NullResponse @ShowButtImage
+@NullResponse @Goto(BackUp)
+(Boob)
+@NullResponse @ShowBoobsImage
+@NullResponse @Goto(BackUp)
+(LesImage)
+@NullResponse @ShowLesbianImage
+@NullResponse @Goto(BackUp)
+(HCimage)
+@NullResponse @ShowHardcoreImage
+@NullResponse @Goto(BackUp)
+(BJimage)
+@NullResponse @ShowBlowjobImage @Edge
+#pthevMod03-01 @ChangeVar[pthev_Mod03edges]=[pthev_Mod03edges]+[1] @Goto(BackUp)
+(end)
+Last one, #PetName @ShowBlowjobImage @Edge
+#LetTheEdgeFade @UnlockImages @CustomMode(#pvNeedABreak,Normal)
+We could go on like this forever
+But there are so many other ways I can torment you #Grin
+@End
+(need break)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_BreakStroking.txt)
+I hope you still remember what to do... @Goto(BackUp)
+(pvMod03A)
+There is something I like more than making you edge
+And that's making you edge twice in a row #Grin
+Get to the edge, #PetName @Edge @MultipleEdges(2,6,100)
+#LetTheEdgeFade
+And if you can do 2 in a row... you know what I'm going to say, right?
+The thing with edging is, more is always better @CustomMode(#pvDontWantTo,Goto,no more edging)
+It might not feel that way for you, but most of the time I feel like I don't do it enough
+Making you edge, I mean @CustomMode(#pvNeedABreak,Goto,no more edging)
+#Edge @EdgeNoHold @MultipleEdges(3,7,100)
+#LetTheEdgeFade
+So that was three in a row...
+You're probably starting to worry a little now, aren't you?
+You're thinking: is she going to tell me to do 4 in a row next? @CheckFlag(pvMod03B)
+And then 5? Then 6? @SetFlag(pvMod03B)
+How far is this going to go?
+#Edge @EdgeNoHold @MultipleEdges(4,6,100)
+#LetTheEdgeFade
+Have you had enough yet, #Name?
+[yes] Oh... you know that's not the right answer, right? #Laugh
+[no] Good #Smile
+@DifferentAnswer #YesOrNo
+Because I'm not done yet
+You already know how many this is going to be...
+#Edge @EdgeNoHold @MultipleEdges(5,8,100)
+#LetTheEdgeFade @CheckFlag(pvMod03C)
+1+2+3+4+5=15 edges... I hadn't realised how quickly this adds up, #Name @SetFlag(pvMod03C)
+I should probably let you regain your strength for a minute @CustomMode(#pvNeedABreak,Normal) 
+On the other hand... why stop now, right? #Laugh @CustomMode(#pvDontWantTo,Normal)
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+@End
+(pvMod03C)
+This is what I like to call an edge ladder, #Name @DeleteFlag(pvMod03C)
+You've climbed 5 rungs so far
+@NullResponse @CustomMode(#pvDontWantTo,Normal)
+@NullResponse @CustomMode(#pvNeedABreak,Normal)
+So now I'm going to give you a choice
+Option 1: you complete your ladder, in other words: climb down from 4 back to 1
+That means another 10 edges #Grin
+Option 2: only 1 edge, but you have to hold it
+AND 5 ball smacks for each of the edges you skipped, so that's 45 smacks
+Which one do you choose, option 1 or option 2?
+[1,one] Excellent choice, I hate to leave an edge ladder unfinished #EmoteHappy @Goto(finish the ladder)
+[2,two] I was hoping you'd say that #Grin 
+@DifferentAnswer 1 or 2?
+@NullResponse @CheckFlag(pvBallsTied,balls are tied)
+@Flag(pthevShoelace) I think this will work best if those #Balls are tied up @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+(balls are tied)
+@Flag(pvSpoon) Get the wooden spoon, you're going to use is to do the smacking
+45 ball smacks, get to it
+And don't hold back, #Name - you know I wouldn't @Wait(20)
+Done?
+[yes,done,ready,finished] Good #PetName #Smile
+[no] Let me know when you're done @LoopAnswer
+@DifferentAnswer Let me know when you're done
+And then there's that one edge that you still owe me...
+#Edge @EdgeHold
+#LetTheEdgeFade
+Maybe next time you'll opt for finishing the ladder #Smile
+@End
+(finish the ladder)
+#Edge @EdgeNoHold @MultipleEdges(4,6,100)
+That was rung 4, just relax for a moment
+Going down the ladder is much easier, isn't it?
+The next one is only 3 edges, so no sweat!
+Well, maybe a little sweat, and some precum #Laugh
+#Edge @EdgeNoHold @MultipleEdges(3,7,100)
+#LetTheEdgeFade
+Almost there, #Name
+#Edge @EdgeNoHold @MultipleEdges(2,5,100)
+Let that poor #Cock throb now... get ready for the last one
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Good job on getting down the ladder, #Name
+Maybe next time we'll climb one a bit taller #Smile
+@End
+(pvMod03B)
+I'm not going to do that this time, #Name @DeleteFlag(pvMod03B)
+Instead, I'm going to jump straight to 6! #Grin
+#Edge @EdgeNoHold @MultipleEdges(6,7,100)
+#LetTheEdgeFade @CustomMode(#pvDontWantTo,Normal)
+@NullResponse @CustomMode(#pvNeedABreak,Normal)
+@End
+(no more edging)
+@NullResponse @CallRandom(Custom/CallFromMod/NoMoreEdging)
+@End

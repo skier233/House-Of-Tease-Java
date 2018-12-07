@@ -1,0 +1,4 @@
+@NotFlag(AV_OmStrokeNumber) #Stroke #RandomRound10(20, 40) times @PlayAudio[tease\cStroke.mp3] @TempFlag(AV_OmStrokeNumber) @Wait( #Random(10, 15))
+@NotFlag(AV_OmStrokeBeat) #Stroke to the beat @PlayAudio[tease\beats\*.mp3] @TempFlag(AV_OmStrokeBeat) @Wait( #Random(10, 15))
+@NotFlag(AV_OmStrokeSimple) #Stroke for Me  @PlayAudio[tease\cStroke.mp3]  @TempFlag(AV_OmStrokeSimple)  @Wait( #Random(10, 15))
+@NotFlag(AV_OmStrokeOver) @RT(Give me, I want to see, Follow) an Overdrive @PlayAudio[tease\StrokePattern\overdrive*.mp3] @TempFlag(AV_OmStrokeOver) @Wait( #Random(10, 15))

@@ -1,0 +1,12 @@
+yesterday
+last night
+a few days back
+a few days ago
+last week
+last weekend
+a couple of days ago
+a couple days back
+yesterday
+last #DayofWeek
+earlier #GeneralTime
+the other day

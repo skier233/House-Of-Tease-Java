@@ -1,0 +1,36 @@
+#1_ST_TagState @TempFlag(AV_taskOP5)
+@NullResponse @GotoDommeLevel 
+(DommeLevel1) 
+I love knowing that you're so desperate for me that even the slightest touch could set that #Cock off so your task today is  going to put that to the test. 
+You're going to give 200 of the slowest, most frustrating strokes you can.  @SetVar[AV_EdgeGoal]=[5]
+If you manage to reach the edge, then I know you're exactly as desperate as I want you to be and the task is complete. 
+But! If you can't reach the edge, then you need to make yourself suffer and build up that ache even more for me. 
+5 edges before the end of the session should do the trick #Grin @Goto(TaskReady)
+(DommeLevel2) 
+I love knowing that you're so desperate for me that even the slightest touch could set that #Cock off, so your task today is  going to put that to the test. 
+You're going to give 200 of the slowest, most frustrating strokes you can.  @SetVar[AV_EdgeGoal]=[6]
+If you manage to reach the edge, then I know you're exactly as desperate as I want you to be and the task is complete. 
+But! If you can't reach the edge, then you need to make yourself suffer and build up that ache even more for me. 
+6 edges before the end of the session should do the trick #Grin @Goto(TaskReady)
+(DommeLevel3) 
+I love knowing that you're so desperate for me that even the slightest touch could set that #Cock off, so your task today is  going to put that to the test. 
+You're going to give 200 of the slowest, most frustrating strokes you can.  @SetVar[AV_EdgeGoal]=[7]
+If you manage to reach the edge, then I know you're exactly as desperate as I want you to be and the task is complete. 
+But! If you can't reach the edge, then you need to make yourself suffer and build up that ache even more for me. 
+7 edges before the end of the session should do the trick #Grin @Goto(TaskReady)
+(DommeLevel4) 
+I love knowing that you're so desperate for me that even the slightest touch could set that #Cock off, so your task today is  going to put that to the test. 
+You're going to give 200 of the slowest, most frustrating strokes you can.  @SetVar[AV_EdgeGoal]=[8]
+If you manage to reach the edge, then I know you're exactly as desperate as I want you to be and the task is complete. 
+But! If you can't reach the edge, then you need to make yourself suffer and build up that ache even more for me. 
+8 edges before the end of the session should do the trick #Grin @Goto(TaskReady)
+(DommeLevel5) 
+I love knowing that you're so desperate for me that even the slightest touch could set that #Cock off, so your task today is  going to put that to the test. 
+You're going to give 200 of the slowest, most frustrating strokes you can.  @SetVar[AV_EdgeGoal]=[10]
+If you manage to reach the edge, then I know you're exactly as desperate as I want you to be and the task is complete. 
+But! If you can't reach the edge, then you need to make yourself suffer and build up that ache even more for me. 
+10 edges before the end of the session should do the trick #Grin @Goto(TaskReady)
+(TaskReady)
+Now take that #Cock out of your pants
+And #StartStroking for me @StartStroking
+@End

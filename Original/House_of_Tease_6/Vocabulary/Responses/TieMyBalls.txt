@@ -1,0 +1,38 @@
+[tie my balls, balls tied up, tied up balls, tie up my balls, want to use a shoelace, i use a shoelace]
+[Before Tease]
+Not now, #Name
+We might get to that later
+[Before Tease End]
+[First Round]
+@NotFlag(pvBallsTied) If that's what you want @MiniScript(pvMs_TieMyBalls)
+@Flag(pvBallsTied) They should be already, #Name #EmoteFlustered 
+[First Round End]
+[Stroking]
+@NotFlag(pvBallsTied) If that's what you want @MiniScript(pvMs_TieMyBalls)
+@Flag(pvBallsTied) They should be already, #Name #EmoteFlustered  
+[Stroking End]
+[Not Stroking]
+@NotFlag(pvBallsTied) Not now, #Name
+@Flag(pvBallsTied) They should be already, #Name #EmoteFlustered  
+[Not Stroking End]
+[Edging]
+I just want you to get to the edge now
+[Edging End]
+[Holding The Edge]
+@NotFlag(pv_TieMyBalls1) Would that help you to hold the edge? @TempFlag(pv_TieMyBalls1) @ResponseYes(TieMyBalls)
+@Flag(pv_TieMyBalls1) Alright then, #Name  @MiniScript(pvMs_TieMyBalls)
+[Holding The Edge End]
+[CBT Cock]
+Let's focus on that #Cock now
+[CBT Cock End]
+[CBT Balls]
+@NotFlag(pvBallsTied) Good idea @MiniScript(pvMs_TieMyBalls)
+@Flag(pvBallsTied) They should be already, #Name #EmoteFlustered  
+[CBT Balls End]
+[Chastity]
+@HasChastity Being locked up isn't enough anymore? @MiniScript(pvMs_TieMyBalls)
+@DoesNotHaveChastity Yes, good idea #EmoteHappy @MiniScript(pvMs_TieMyBalls)
+[Chastity End]
+[After Tease]
+Maybe next time, #Name
+[After Tease End]

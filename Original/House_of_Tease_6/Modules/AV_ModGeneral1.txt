@@ -1,0 +1,336 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral1_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral1]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral1_NotFirstTime)
+(AV_ModGeneral1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral1]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral1]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral1]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral1]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral1]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral1]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral1]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral1]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral1]=[AV_ModGeneral1]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral1]=[AV_ModGeneral1]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral1]=[AV_ModGeneral1]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral1]=[AV_ModGeneral1]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral1]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+This tease is extremely simple but don't underestimate it. 
+@RT(I guarantee you will get have a raging Angry Cock before the end, You may even start to sweat you will be so stimulated) 
+You #Like the sound of that #Slave 
+I'm going to count to ten over and over at a regular pace. 
+When I say one, you #Stroke one time.  When I say two you #Stroke two times.
+When I say three you #Stroke three times. All the way up to ten.
+I count at a regular pace which means you need to stroke faster and faster each time.
+By the time I get to ten you will have to stroke quite fast
+so that you can get all your strokes in before the count starts over. 
+What could be simpler?
+Let's start @PlayAudio[tease\count.mp3] @Wait(52)
+It feels so good, but at the same time it's a kind of #Torture. @FollowUp50(That's what I #Like)
+#ICanKeepThisUp @PlayAudio[tease\count.mp3] @Wait(52)
+I like creating that dilemma in you. 
+#ICanKeepThisUp @PlayAudio[tease\count.mp3] @Wait(52)
+You're torn between pleasing me with your sexual frustration @FollowUp50(and giving in to an orgasm) 
+#ICanKeepThisUp @PlayAudio[tease\count.mp3] @Wait(52)
+Are you a total wreck?  @FollowUp50(I hope so)
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+#PetName, you have been such a good boy for the past half hour
+I think it's time to let you edge again. 
+Have you been good and saved your cum for me? @Timeout(05, AV_Jump04)
+[yes] mmm...very good boy. @MoodUp
+[no]  What?  @CallReturn(Interrupt\OpiateFRNPC.txt)
+@AcceptAnswer #Lol
+(AV_Jump04)
+For this 100-1 you will stroke and only edge in the end
+#StartStroking
+Good. @TempFlag(av_intera_001)
+I'll be graceful and count for you today.
+100. 
+99. 
+98.  @RapidTextOn
+97. 
+96. 
+95. 
+94. 
+93. 
+92. 
+91.  @RapidTextOff
+90.
+#StopStroking
+Hmm...I wonder what you're thinking about as you #Stroke your #Cock ...
+#StartStroking @RapidTextOn
+89. 
+88. 
+87. 
+86. 
+85. 
+84. 
+83. 
+82. 
+81. 
+80.
+#StopStroking @RapidTextOff
+Are you thinking about my breasts? @Timeout(5, AV_Timeo01)
+[yes] #Good @MoodUp
+[no] You aren't? @MoodDown
+@DifferentAnswer #YesorNo
+(AV_Timeo01)
+Those nice round perky breasts pushed up by my black leather corset?
+You must be you little slut.
+#StartStroking @RapidTextOn
+79.  
+78. 
+77. 
+76. 
+75. 
+74. 
+73. 
+72. 
+71. 
+70
+#StopStroking @RapidTextOff
+Or are you thinking about worshiping my tight, round ass? 
+They must look amazing underneath this tight red latex skirt. 
+Wouldn't you just love to put your face there, and maybe even kiss it.
+#StartStroking @RapidTextOn
+69. 
+68. 
+67. 
+66. 
+65. 
+64. 
+63. 
+62. 
+61. 
+60
+#StopStroking @RapidTextOff
+Or...perhaps you're thinking about the impossible...
+#StartStroking
+59. 
+58. 
+57. 
+56. 
+55. 
+54.
+#StopStroking
+No, are you thinking about crawling in between my legs 
+and worship my hot, wet cunt?
+#StartStroking
+53. 
+52. 
+51. 
+50.
+#StopStroking
+Lick my pussy until I come *all* over your face?
+#StartStroking
+*laugh* @RapidTextOn
+49. 
+48. 
+47. 
+44. 
+43. 
+42. 
+41. 
+40.
+#StopStroking @RapidTextOff
+Or maybe even
+You're thinking about *me* stroking your cock with my hand?
+Those long, delicate #Hands wrapped around your cock 
+#Stroking *up* and *down*, *up and down*.
+Those same #Hands slowly, but firmly milking your cum out of your #Cock ?
+#StartStroking @RapidTextOn
+39. 
+38. 
+37. 
+36. 
+35. 
+34. 
+33. 
+32. 
+31. 
+30.
+#StopStroking @RapidTextOff
+Oh, you're doing surprisingly well tonight. 
+But...I can definitely see you strain to hold back your orgasm
+It's best you don't think about how it will look like if my red, full lips are wrapped around your cock?
+Oh...did you just shiver? 
+Mm...the thought is a little too much for you to handle slut?
+#StartStroking @RapidTextOn
+29. 
+28. 
+27. 
+26. 
+25. 
+24. 
+23. 
+22. 
+21. 
+20.
+#StopStroking @RapidTextOff
+Instead of thinking about all these naughty things about me.
+Just to make a point...don't you even think about how your #Cock
+the one in your hand, would feel deep inside me.
+#StartStroking @RapidTextOn
+19.
+18.
+17.
+16.
+15. @RapidTextOff
+#StopStroking
+Fucking my hot, wet, tight cunt. *In* and *out*,*in* and *out*
+and  my pussy clenching and massaging that cock of yours?
+#StartStroking
+14.
+13.
+12.
+11.
+10.
+#StopStroking
+Ooh, 10, little one.
+Your face is all twisted...
+#StartStroking
+9
+8
+7
+6
+5
+4
+3
+2
+1
+#Edge @Wait(10)
+#StopStroking  @DeleteFlag(av_intera_001)
+#ThatsEnough
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some videos on your computer
+I'm sure one of these girls will be able to keep you occupied for a few moments #Grin
+Have fun @PlayVideo
+#CensorContinue
+Well I don't know about you, but I feel refreshed @Chance60(ContinueCH1)
+So time to get my own hands dirty again #Grin
+@End
+(ContinueCH1)
+Let's play another @PlayVideo
+#CensorContinue
+It's nice to suffer for a girl like that sometimes @Chance50(ContinueCH2)
+So time to get my own hands dirty again #Grin
+@End
+(ContinueCH2)
+Let's do again @PlayVideo
+#CensorContinue
+I don't mind sharing you with girls like that @Chance40(ContinueCH3)
+So time to get my own hands dirty again #Grin
+@End
+(ContinueCH3)
+One more @PlayVideo
+#CensorContinue
+Well I don't know about you, but I feel refreshed @Chance20(ContinueCH4)
+So time to get my own hands dirty again #Grin
+@End
+(ContinueCH4)
+Let's play another @PlayVideo
+#CensorContinue
+So time to get my own hands dirty again #Grin
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+On second thought
+#Edge
+You dont need to tell me if you are on the edge this time
+Just hold when you get there @Wait(10)
+@RapidCodeOn
+@NullResponse @Goto(edge1, edge2, edge3, edge4, edge5, edge6, edge7, edge8)
+(edge1)
+While you watch this #Smile @PlayVideo[AV_Clips/webm/ruin001.webm]
+#Stop
+@End
+(edge2)
+While you watch this #Smile @PlayVideo[AV_Clips/webm/ruin002.webm]
+#Stop
+@End
+(edge3)
+While you watch this #Smile @PlayVideo[AV_Clips/webm/ruin003.webm]
+#Stop
+@End
+(edge4)
+While you watch this #Smile @PlayVideo[AV_Clips/webm/ruin004.webm]
+#Stop
+@End
+(edge5)
+While you watch this #Smile @PlayVideo[AV_Clips/webm/ruin005.webm]
+#Stop
+@End
+(edge6)
+While you watch this #Smile @PlayVideo[AV_Clips/webm/ruin006.webm]
+#Stop
+@End
+(edge7)
+While you watch this #Smile @PlayVideo[AV_Clips/webm/ruin007.webm]
+#Stop
+@End
+(edge8)
+While you watch Dianna #Smile @PlayVideo[AV_Clips/webm/d010.webm]
+#Stop
+@End

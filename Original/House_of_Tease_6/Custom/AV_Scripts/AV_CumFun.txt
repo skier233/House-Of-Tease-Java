@@ -1,0 +1,453 @@
+@Variable[#DateDifference(AV_FinishGlitter,Days)]>[15] @NullResponse @Chance50(FimGlitters)
+I think I want to make you cum today
+But in my way 
+@Flag(AV_DommeMistress) And I want you to put #Random(2, 5) clothespins on your #Balls @Wait(20)
+@NullResponse @Goto(Cum1, Cum2, Cum3, Cum4)
+(Cum1)
+You won't have anything against a couple of overdrives, am I right?
+Follow the beat all the time
+Stop everytime I tell you does not matter if you are cumming. 
+Just stop and ruin your orgasm
+no cheating
+Ready?
+Start now @PlayAudio[tease\overdrive2.mp3] @Wait(#Random(15, 30))
+#StopStroking
+#StartStrokingNS @PlayAudio[tease\overdrive1.mp3] @Wait(#Random(20, 45))
+#StopStroking
+#StartStrokingNS @PlayAudio[tease\overdrive3.mp3] @Wait(#Random(10, 40))
+#StopStroking
+#ThatsEnough 
+I hope you came @Goto(DidYou)
+@End
+(Cum2)
+I will teach you how to release all that saved-up cum from your #Balls properly
+We will learn the Ruined Orgasm correctly.
+You will completely relax and let go completely.
+First #Edge @EdgeNoHold
+Now Edge again and Hold @PlayAudio[tease\cEdge.mp3] 
+Now keep holding that edge!  
+When I say
+you're gonna give me 3, super quick, hard, wet strokes right up and over that head!
+All 3 strokes should be done in about a half second... 
+Really really fast!  
+And then HANDS OFF and just let that #Cock spit and spasm without the company of your loyal hand!! 
+Make sure you're really close to the edge honey!!
+Ready?  @Wait(#Random(10, 20))
+Now!! @PlayAudio[tease\Spank3.mp3] 
+#RuinYourOrgasm
+#Good @UpdateRuined
+@End
+(Cum3)
+You will stroke to the beat and can cum
+But need to stop when the beats stoped
+does not matter if you are cumming. Just stop and ruin your orgasm @Chance50(knees1)
+(getup1)
+Get up! @Chance50(Bite1g)
+@Goto(knees2)
+(knees1)
+#KneelForMe @Chance50(Bite1k)
+@Goto(getup2)
+(Bite1k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup2)
+(Bite1g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees2)
+(getup2)
+Get up! @Chance50(Bite2g)
+@Goto(knees3)
+(knees2)
+#KneelForMe @Chance50(Bite2k)
+@Goto(getup3)
+(Bite2k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup3)
+(Bite2g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees3)
+(getup3)
+Get up! @Chance50(Bite3g)
+@Goto(knees4)
+(knees3)
+#KneelForMe @Chance50(Bite3k)
+@Goto(getup4)
+(Bite3k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup4)
+(Bite3g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees4)
+(getup4)
+Get up! @Chance50(Bite4g)
+@Goto(knees5)
+(knees4)
+#KneelForMe @Chance50(Bite4k)
+@Goto(getup5)
+(Bite4k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup5)
+(Bite4g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees5)
+(getup5)
+Get up! @Chance50(Bite5g)
+@Goto(knees6)
+(knees5)
+#KneelForMe @Chance50(Bite5k)
+@Goto(getup6)
+(Bite5k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(getup6)
+(Bite5g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Goto(knees6)
+(getup6)
+Get up! @Chance50(Bite6g)
+@Goto(knees7)
+(knees6)
+#KneelForMe @Chance50(Bite6k)
+@Goto(getup7)
+(Bite6k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance70(getup7)
+#ThatsEnough @Goto(final)
+(Bite6g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance70(knees7)
+#ThatsEnough @Goto(final)
+(getup7)
+Get up! @Chance50(Bite7g)
+@Goto(knees8)
+(knees7)
+#KneelForMe @Chance50(Bite7k)
+@Goto(getup8)
+(Bite7k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance60(getup8)
+#ThatsEnough @Goto(final)
+(Bite7g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance60(knees8)
+#ThatsEnough @Goto(final)
+(getup8)
+Get up! @Chance50(Bite8g)
+@Goto(knees9)
+(knees8)
+#KneelForMe @Chance50(Bite8k)
+@Goto(getup9)
+(Bite8k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance50(getup9)
+#ThatsEnough @Goto(final)
+(Bite8g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking @Chance50(knees9)
+#ThatsEnough @Goto(final)
+(getup9)
+Get up! @Chance50(Bite9g)
+@Goto(final)
+(knees9)
+#KneelForMe @Chance50(Bite9k)
+@Goto(final)
+(Bite9k)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking
+#ThatsEnough @Goto(final)
+(Bite9g)
+#Stroke for me @PlayAudio[tease\bite.mp3] @Wait(8)
+#StopStroking
+#ThatsEnough @Goto(final)
+(final)
+You can sit now
+I hope you came
+(DidYou)
+...did you? or did you have to ruin it?
+[yes, came, cum] I hope you're thankful that I gave you this second chance @EmoteHer
+[ruin, ruined] You were so close, huh. It's still something I guess #EmoteLaugh
+[no, didn't, didnt, couldn't, couldnt] You had your chance! #EmoteSmiles
+@DifferentAnswer Did you manage to cum, or not?
+@End
+(Cum4)
+@RT(Would you like to improve your chances of cumming, Would you like to earn an orgasm today, Would you like to convincing me to let you cum today)?
+[yes] @RT(That's great...for me at least, Oh goodie...more fun for me, I wonder if you will regret that decision). @SetVar[AV_FinalEdgeChance]=[0]
+[no] @RT(Perhaps that's for the best, Scared? Smart move, Oh well...maybe you'll get lucky next time) @Goto(NoDeal)
+@DifferentAnswer #YesorNo #SubName?
+@RT(First things first, Let's prepare, We will need to prepare a bit then)
+@RT(Fetch me clothespins,, plenty of them, Get a whole lot of clothespins, Clothespins... and be quick about it)!
+[yes, ready, done] @RT(So this is what we are going to do. And by we...I mean you, So here are the rules, So here is your challenge)
+@DifferentAnswer Are you ready #SubName?
+@RT(Start by adding a clothespin to each nipple...that's your prepayment as it were, Each nipple needs a clothespin...just cause I like it like that, Attach a clothespin on each nipple...to make sure you are paying attention)! @Wait(20)
+@RT(Now for each additional clothespin you place on your balls...I will increase your chance of an orgasm, Every clothespin you are willing to place on your balls will increase you chance to cum, Every clothespin I see sticking on your balls will make me more likely to let you squirt)
+@RT(How many will you take on, So how much clothespins are you willing to suffer to increase your odds, So what stakes are you prepared to raise, How many will fit on your #Balls)?
+[0, zero] @RT(Ok, no orgasm for you then, Funny then I guess we're done here, If you don't want to help yourself that's fine by me)! @Goto(NoDeal)
+[1] @RT(That's everything?, That's not all that much... but there is always a chance it's enough, I guess you're still feeling lucky) @Goto(Chance1)
+[2] @RT(That's everything?, That's not all that much... but there is always a chance it's enough, I guess you're still feeling lucky) @Goto(Chance2)
+[3] @RT(That's everything?, That's not all that much... but there is always a chance it's enough, I guess you're still feeling lucky) @Goto(Chance3) 
+[4] @RT(That's everything?, That's not all that much... but there is always a chance it's enough, I guess you're still feeling lucky) @Goto(Chance4)  
+[5] @RT(Better not take any chances...smart thinking, I guess you really want to cum, Nice... even if you still don't get to cum I applaud the effort)! @Goto(Chance5)
+[6] @RT(Better not take any chances...smart thinking, I guess you really want to cum, Nice... even if you still don't get to cum I applaud the effort)! @Goto(Chance6)
+[7] @RT(Better not take any chances...smart thinking, I guess you really want to cum, Nice... even if you still don't get to cum I applaud the effort)! @Goto(Chance7)
+[8] @RT(Better not take any chances...smart thinking, I guess you really want to cum, Nice... even if you still don't get to cum I applaud the effort)!] @Goto(Chance8)
+@DifferentAnswer Give me a number less than 8 #SubName
+(Chance1)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[1]
+@NullResponse @Goto(FateAV)
+(Chance2)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[2]
+@NullResponse @Goto(FateAV)
+(Chance3)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[3]
+@NullResponse @Goto(FateAV)
+(Chance4)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[4]
+@NullResponse @Goto(FateAV)
+(Chance5)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[5]
+@NullResponse @Goto(FateAV)
+(Chance6)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[6]
+@NullResponse @Goto(FateAV)
+(Chance7)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[7]
+@NullResponse @Goto(FateAV)
+(Chance8)
+@NullResponse @ChangeVar[AV_FinalEdgeChance]=[AV_FinalEdgeChance]+[8]
+@NullResponse @Goto(FateAV)
+(FateAV)
+@RT(So let's start getting them on then, Let's begin the procedure then #PetName, Let's hurt those balls)!
+@RT(Oh yeah... you are edging for every clothespin you're putting on... did I forget to mention that?, I had a great idea...you are edging after every clothespin... shouldn't be too hard after being so close just now right?, Just putting the clothespins on would be boring... you will edge after each one for my entertainment!) @SetVar[EdgeFinalCounter]=[0]
+(EdgeLoop)
+#Edge @EdgeNoHold
+#CheerEdgeATon @ChangeVar[EdgeFinalCounter]=[EdgeFinalCounter]+[1]
+@NullResponse @If[EdgeFinalCounter]>=[AV_FinalEdgeChance]Then(FinalEdge) @RapidCodeOn
+@NullResponse @Goto(EdgeLoop)
+(FinalEdge)
+@RT(Great show! Look at those pins dancing, That was entertaining, Well I most definitely enjoyed that)!
+@RT(get ready for your second chance! Let's see if you picked enough pins, I guess you are curious whether your balls have earned a release...let's find out)!
+@RT(Yes...with the clothespins still on of course, The clothespins aren't going anywhere by the way... if you can edge with them... you can cum with them as well, And keep on those clothespins...I want to see them shake all over the place)! @RapidCodeOn
+@NullResponse @If[AV_FinalEdgeChance]=[1]Then(Final10)
+@NullResponse @If[AV_FinalEdgeChance]=[2]Then(Final20)
+@NullResponse @If[AV_FinalEdgeChance]=[3]Then(Final30)
+@NullResponse @If[AV_FinalEdgeChance]=[4]Then(Final40)
+@NullResponse @If[AV_FinalEdgeChance]=[5]Then(Final50)
+@NullResponse @If[AV_FinalEdgeChance]=[6]Then(Final60)
+@NullResponse @If[AV_FinalEdgeChance]=[7]Then(Final70)
+@NullResponse @If[AV_FinalEdgeChance]=[8]Then(Final80)
+(Final10)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance10(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(Final20)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance20(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(Final30)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance30(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(Final40)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance40(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(Final50)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance50(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(Final60)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance60(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(Final70)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance70(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(Final80)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance80(AV_Won)
+@NullResponse @Goto(AV_Lost)
+(AV_Won)
+Give me one last edge @Edge 
+#CumForMe @UpdateOrgasm 
+@End
+(AV_Lost)
+Give me one last edge @Edge
+@RT(Just stop it...you haven't earned it. Try harder next time, Stop jerking...you needed way more clothespins to stand a chance, Stop, denied again! As if you could ever determine your own faith)!
+@End
+(NoDeal)
+@NullResponse 
+@End
+(FimGlitters)
+@NullResponse @SetDate(AV_FinishGlitter,0 Days)
+@RT(You know,, I was chatting with my friends just now,, and I told them I just denied you for today, it seems my friends still wants to finish you off today, My friends seems to want to subvert my command over you,, and might allow you to cum)
+I will not @RT(tell you, let you know) who will be...
+@RT(I would be suspicous,, but I'll let you take the risk if you want, That would worry me if I were a slave,, but I'm not,, so the choice is yours, That's unlike her,, would you think she has a hidden agenda?, I don't know what she has planned for you though, I do wander what she's going to do with you, I'm curious whether she'll be nice to you,, or not)
+@RT(So do you want to head off for her? I won't be around to keep you safe,, so decide wisely!, So, do you want to give her a chance?, Do you want to me handing you over for today?)
+[yes] @RT(Good luck then,I hope it turns out well for you, I hope she won't spoil you!, Taking the easy way out huh? Whatever, Don't say I didn't warn you!)
+[no] @RT(Probably a smart move,, why risk it when you might get lucky with me another day and survive as well!, Then my decision stands,, no orgasm for you today!, I like that you respect my decision #Name) @Goto(NoDeal)
+@DifferentAnswer #YesorNo #SubName?
+@RT(So, Well), you will @RT(finish with, be borrowed to, try your luck with...)
+@NullResponse @RapidCodeOn
+@NeutralMood @NullResponse @Goto(Glitter01, Glitter02, Glitter03)
+@BadMood @NullResponse @Goto(DommeIsBad)
+@GoodMood @NullResponse @Goto(DommeIsGood)
+(DommeIsBad)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance50(Glitter03)
+@NullResponse @Chance40(Glitter02)
+@NullResponse @Goto(Glitter01, Glitter02, Glitter03)
+(DommeIsGood)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance60(Glitter01)
+@NullResponse @Chance30(Glitter02)
+@NullResponse @Goto(Glitter01, Glitter02, Glitter03)
+(Glitter01)
+#Contact1 @AddContact1
+Good luck @RemoveDomme
+@Contact1 @RT(#DomName just told me she was denying you today, #DomName denied you today huh?, I'm here to save you from denial!
+@Contact1 @RT(I think you've earned an orgasm,, and I would like to see it!, You earned a real orgasm today,, so I'm granting you one, I can see you need to cum today,, that's why I stepped in after your denial.)
+@Contact1 #StartStroking
+@Contact1 @RT(Oh yes,, let me see you enjoy it!, This is so hot!, Keep going,, I love it!)
+@Contact1 @RT(Faster!, Speed it up!, Full speed now!)
+@Contact1 @RT(Get ready to edge!, Final edge comming up now!, Get ready to edge darling) @Chance80(Gltter1Cum)
+@NullResponse @Chance50(Gltter1Ruin)
+@Contact1 #Edge @EdgeHold
+@Contact1 @RT(Guess I'm denying you as well,, sorry, I didn't really mean to get your hopes up for nothing,, but sometimes things just don't work out for you slave, I guess you don't get to cum after all today,, even I didn't expect myself to be so cruel to you)
+@Contact1 I guess we're done for today then. Maybe I can help you out next time...
+@End
+(Gltter1Cum)
+@Contact1 #Edge @Edge(Orgasm, Hold)
+@NullResponse @Wait(15)
+@Contact1 @RT(I hope you enjoyed it, I hope you remember what I did for you today, That must have been a relief,, glad I could help you out.)
+@Contact1 @RT(I hope I can help out next time as well, Maybe a denial from #DommeName isn't that bad everytime, huh?, Perhaps I'll be here in time to rescue you from your next denial as well!)
+@Contact1 Bye for now!
+@End
+(Gltter1Ruin)
+@Contact1 #Edge @Edge(Ruin, Hold)
+@NullResponse @Wait(15)
+@Contact1 @RT(Huh,, I'm not feeling it today it seems... , I think I made a mistake..., Strange,, I kinda lost interest in seeing you cum...)
+@Contact1 I guess we're done for today then. Maybe I can help you out next time...
+@NullResponse @AddDomme @RemoveContact1
+@End
+(Glitter02)
+#Contact2 @AddContact2
+Good luck @RemoveDomme
+@Contact2 @RT(Hi #SubName!, My toy arrives!, Oh goodie, I got you!)
+@Contact2 @RT(I don't know what #DommeName told you,, but I hope you don't think I'll just let you cum like it's no big deal, I hope you don't expect to just cum for me, You know me well enough to know I won't just let you squirt your seed for me)
+@Contact2 @RT(I want a show!, I want to be entertained!, I need you to amuse me first!)
+@Contact2 @RT(If you do well,, I promise you a full orgasm!, You have the chance to earn yourself a full orgasm!, Do well enough,, and you will be rewarded with a truly spectacular orgasm!)
+@NotFlag(AV_PinDone) @Contact2 Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Contact2 Good, now get nice and hard for me!
+@Contact2 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+(Double Edge routine)
+@Contact2 @RT(Now the show begins!, Now let's get it on!, And now the real fun starts!)
+@Contact2 @RT(Stand up, Get up on your feet,Stand up in front of the screen now!)
+@Contact2 Add two clothespins to your balls...
+@Contact2 Do 5 jumping jacks, make sure that cock bounces! @Wait(10)
+@Contact2 @RT(Cool!, Haha!, Look at it go!)
+@Contact2 @RT(Another clothespin!, One more clothespin on the balls dearest.) @Wait(10)
+@Contact2 @RT(Now I wanna see some dick swinging, Now the dick gets to dance by itself!, Now for the main star of the event!)
+@Contact2 I want to see that dick swing around in circles! Start now! @Wait(10)
+@Contact2 @RT(Now from left to right!, Now from side to side!)
+@Contact2 Shake those hips! @Wait(10)
+@Contact2 @RT(Now up and down!, Now top to bottom!)
+@Contact2 gimme some hot thrusting!
+@Contact2 @RT(Good,, good, Nice work #SubName, Good job toy!)
+@Contact2 @RT(You are getting me so damn hot, Your dick shaking is doing it's job over here,, just so you know..., Oh yeah,, that's what I'm talking about!)
+@Contact2 @RT(Now let's build up for the finale!, Let's prepare you for the finale!, You need to be prepared for your big finish now,, my little star)
+@Contact2 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@Contact2 @RT(Great,, now let me explain what's going to happen next, Yummy,, now I'll tell you how you are going to finish, Pay attention bitch,, cum instructions comming up!)
+@Contact2 @RT(First,, you are going to place the clothespins on your balls, The clothespins are going to go on your balls, Those balls are just asking to have some clothespins placed on them...)
+@Contact2 @RT(How many clothespins? Well ALL OF THEM of course!, Start placing them on,, and keep going until there are none left!, As long as there is place on those balls,, you will keep adding clothespins!) @Wait(20)
+@Contact2 @RT(Your nuts need to look like a hedgehong!, Your balls need to become a pin cushion!, This will look so cool!)
+@Contact2 @RT(Ok,, you can place one on each nipple,, cause I'm nice like that!, I guess you can place one on your nipples,, to spread the fun around just a little bit!, MORE! MORE! MORE!) @Wait(20)
+@Contact2 @RT(Ready?, Done yet?, Tell me when you are ready!)
+[ready, yes, done] @Contact2 @RT(Good,, let's get you back up to 100% horny now, Great,, let's get you rock hard again now!,Perfect,, you need to do some edges for me now!)
+@DifferentAnswer @Contact2 Are you ready?
+@Contact2 #StartStroking
+@Contact2 Faster!
+@Contact2 Harder!
+@Contact2 @RT(As fast as you can now!, Maximum speed!, Top speed now!)
+#Edge @EdgeHold
+@Contact2 @RT(This looks soo cool!, Look at those balls making such a racket!, I wonder if that is as painful as it looks!)
+(Wait 20s)
+@Contact2 @RT(You were going pretty hard there..., That was some pretty wild action)
+@Contact2 @RT(Now start jerking for me, Keep up the pressure,, wank that cock, Just masturbate at a steady pace for a minute now) @PlayAudio[tease\cStroke.mp3]
+@Contact2 For you grand finale, we will have an amazing combo of pain and pleasure slave...
+@Contact2 You might have guessed it
+@Contact2 but you are going to remove those clothespins with the string.... WHILE YOU ARE CUMMING!
+@Contact2 Or after being denied again.
+@Contact2 @RT(I so want to see your face when that happens!, It would make me ecstatic to see you endure that, I'm almost cumming myself just thinking about it!)
+@Contact2 If I tell you to cum, you will NOT STOP STROKING until all of the clothespins are torn off.
+@Contact2 @RT(Are you ready for the show of a lifetime?, Ready to make me soaking wet with your pain?, Ready to show me how badly you need to cum?)
+@Contact2 @RT(Get ready to edge!, Prepare your balls for emptying!, Almost there painslut!) @Chance40(Gltter2Cum)
+@NullResponse @Chance65(Gltter2Ruin)
+@Contact2 #Edge @EdgeHold
+@Contact2 #AV_NoCum @FollowUp(And remove the clothespins)
+@NullResponse @Wait(15)
+@Contact2 @RT(You probably didn't really need to cum that badly, did you..., I guess you can go a while longer without an orgasm)
+@End
+(Gltter2Cum)
+@Contact2 #Edge @Edge(Orgasm, Hold)
+@NullResponse @Wait(15)
+@Contact2 Awesome job slave... I never expected you to have the discipline!
+@Contact2 I don't know if you got any enjoyment out of it, but I most certainly did. And that's all that matters of course!
+@Contact2 You can start cleaning up now, but thank you for a Broadway-worthy show!
+@Contact2 I hope to see you soon! Perhaps that's no longer true for you though ;)
+@End
+(Gltter2Ruin)
+@Contact2 #Edge @Edge(Ruin, Hold)
+@NullResponse @Wait(15)
+@Contact2 I don't know what I'll do to you next time, but rest assured you will like it even less!
+@Contact2 Now clean up your mess, and get out of my face!
+@NullResponse @AddDomme @RemoveContact2
+@End
+(Glitter03)
+#Contact3 @AddContact3
+Good luck @RemoveDomme
+@Contact3 @RT(I don't believe it,, you are actually comming to me!, Well you are definitely living on the edge,, pun intended!, Ha! Gotcha!)
+@Contact3 You seem pretty aroused already, but give me an edge just to make sure! @EdgeNoHold @PlayAudio[tease\cEdge.mp3]
+@Contact3 @RT(#DommeName has been teasing you for a while now, You've been played with for a good time today, Your cock has been treated like the toy it is for some time today)
+@Contact3 @RT(So I understand why you are desperate enough to take your chance with me, That must be why you want to cum so badly you will even lay your faith in my hands)
+@Contact3 @RT(But you of course realise it won't be easy with me, I don't suppose it would be a surprise that your orgasm comes with a cost when I'm around..., You know nothing is ever easy with me...)
+@Contact3 @RT(So you must be thinking,, I'll take some CBT to be allowed to come,, easy,, even from #Contact3, You are probably expecting CBT to amuse me,, and then a nice orgasm for you, Some hard CBT to trade in for an orgasm,, you think?)
+@Contact3 @RT(You are correct slave, Well you are not  wrong, So it seems you can read half of my mind)
+@Contact3 @RT(So start by getting the clothespins ready!, Get the clothespins for starters!) @Wait(15)
+@Contact3 @RT(Great,, let's get going!, And the show commences!, I can't wait to see the finale today!)
+@Contact3 @RT(Let's decorate you a bit, Let's make sure you are not too comfortable, So for an entree...)
+@Contact3 @RT(A clothespin on each nipple please, Attach a clothespin to each nipple, Those nipples each need a clothespin,, you know that) @Wait(15)
+@Contact3 #Edge @Edge
+@Contact3 @RT(Now add one pin on each side of your balls, Now add one clothespin on your balls. Or no,, add two!, Let's torture your nuts a bit, place two clothespins)
+@Contact3 #Edge @Edge
+@Contact3 #LetTheEdgeFade
+@Contact3 #KneelForMe @Wait(15)
+@Contact3 @RT(I don't want you to start doubting your decision. Start jerking off so your brain is deprived of oxygen..., Not long now,, jerk hard and fast!, I can see the end now,, start a sprinting jerk now!) @PlayAudio[tease\cStroke.mp3]
+@Contact3 @RT(Don't stop jerking now, You are going to keep jerking until the end now, Keep jerking, feel the burn!) @EdgeMode(Goto, ce4tgf)
+@Contact3 Add two more clothespins on your balls, while you are still jerking! @Wait(20)
+@Contact3 Edge for me, now! @PlayAudio[tease\cEdge.mp3]
+@Contact3 Come on, just a bit faster for me! @Wait(15)
+@Contact3 Why aren't you edging like I told you?
+@Contact3 Just give it everything you've got right now!
+@Contact3 You can go faster, I know you can! @Wait(15)
+@Contact3 Just a quick sprint to the finish now! @Wait(15)
+@Contact3 You like to edge, you want to edge, you NEED to edge, so just do it now! @Wait(15)
+(ce4tgf)
+@Contact3 @RT(Slow down your strokes to half speed, Slow down a bit, but don't stop!) @EdgeMode(Normal)
+@Contact3 @RT(Hold it!, Ride it!, Keep on it!)
+@Contact3 @RT(Now tell me,, do you want to cum?, So, you wanna cum?, Do you want to cum slave?)
+@Contact3 @RT(This is awesome!, I love it!, This is what true power feels like!) @Chance50(Gltter3ChanceCum)
+#AV_NoCum @Wait(10) @Goto(G3Fim)
+(Gltter3ChanceCum)
+@NullResponse @Chance50(Gltter3Ruined)
+@Contact3 @RT(cum for me!, Cum! Get it all on there!, Cum! Dump you disgusting seed) @Wait(10)
+@Contact3 #Yes @UpdateOrgasm @Goto(G3Fim)
+(Gltter3Ruined)
+@Contact3 @RT(Now ruin your orgams,, right now!, On second thought,, you don't need a full orgasm to donate your semen right? Ruin it, Hahahaha, you fell into my trap! This will be the worst,, but ruin it you painslut!) @UpdateRuined
+@Contact3 #Yes
+(G3Fim)
+@Contact3 @RT(Wow, that was so cool, What a show babe!, Spectacular, all that cum from that tiny dick!)
+@Contact3 @RT(Now let's relax for a second, Take a break before we go on, Catch your breath for a bit)
+@Contact3 @RT(To keep you occupied: take of the clothespins,, one by one, Start taking of the clothespins,, one by one)
+@Contact3 @RT(God that's so hot, This is the best night ever!)
+@Contact3 @RT(Great job slave, Finally you do something worthwhile!)
+@NullResponse @AddDomme @RemoveContact3
+@End

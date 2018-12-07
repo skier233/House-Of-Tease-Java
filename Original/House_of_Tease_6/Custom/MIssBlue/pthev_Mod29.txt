@@ -1,0 +1,76 @@
+#StopStroking @StopStroking @CheckFlag(pvMod29A)
+I'd like to see how fast you can stroke, #Name @SetFlag(pvMod29A)
+In a moment I want you to do 50 strokes as fast as you can
+And I mean <i>full</i> strokes: all the way from the base to the tip
+Up and down counts as 1 stroke
+Type 'done' when did all 50 strokes
+Get ready... @RapidTextOn @Wait(8)
+Go! @SetDate(pvMod09Fastest,15 seconds) @SetDate(pvMod09Fast,25 seconds) @SetDate(pvMod09Slow,35 seconds) @SetDate(pvMod09Slowest,50 seconds) 
+[done] @NullResponse @CheckDate(pvMod09Slowest)
+@AcceptAnswer I told you to type 'done', #SubName, how hard can that be #EmoteFlustered @RapidTextOff @Goto(thinks you cheated)
+@NullResponse @CheckDate(pvMod09Slow)
+@NullResponse @CheckDate(pvMod09Fast)
+@NullResponse @CheckDate(pvMod09Fastest)
+That's impossible! @RapidTextOff
+Don't think you can cheat without consequences, #PetName
+(thinks you cheated)
+It really ticks me off when you don't follow simple instructions
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(pvMod09Slowest)
+You must be the slowest stroker ever! #Lol @RapidTextOff
+Really, though, that was terrible
+But maybe you're just a little <i>too</i> worked up right now
+We'll have try this again some other time...
+@End
+(pvMod09Slow)
+That was pretty slow... @RapidTextOff
+I guess you just need a bit more training #Smile
+@End
+(pvMod09Fast)
+That's pretty good, but I think you could do better @RapidTextOff
+I guess we'll have to practice more #Smile
+@End
+(pvMod09Fastest)
+That's impressive, #SubName! @RapidTextOff
+I guess all that #JerkingOff finally pays off #Laugh
+@End
+(pvMod29A)
+Don't ever forget that I own that #cock, #Name @CheckFlag(pvMod29B)
+#JerkingOff to me is better than doing it alone, better than sex even @SetFlag(pvMod29B)
+You need my words, my commands to guide you
+I don't think you can ever go back to normal masturbation or sex @CheckFlag(pthevVirgin)
+But my guess is, you don't even want to #Smile
+@End
+(pthevVirgin)
+Let's face it, you're probably going to remain a virgin forever
+You'll always be at the mercy of powerful hot women
+Not because you can't do any better, but because you don't want to
+Always craving the denial and humilation over a fulfilling sex life
+And that's okay, #SubName #Smile @CheckFlag(pvBeta)
+@End
+(pvBeta)
+The truth is, you're a beta boy who doesn't really deserve to have sex
+It wouldn't be fair towards the girl in question
+So you're going to spend your days obediently #JerkingOff to my instructions
+That way, no one else will have to suffer the humiliation of having to touch that #Cock
+Oh, maybe someday, someone will have pity on you
+A friend or someone you meet a party who gets just drunk enough to feel sorry for you
+Pity sex is the best you can hope for, #PetName
+@End
+(pvMod29B)
+That becomes more and more true with ever stroke and every edge @DeleteFlag(pvMod29B) @DeleteFlag(pvMod29A)
+There's no denying it
+Your #Cock and your mind belong to me
+#StartStroking @Wait(#Random(10,20))
+Stop!
+@CockTorture I can do to your #Cock whatever I want, #PetName @CBTCock
+I comes so naturally to you, doesn't it...
+It's like you're programmed to obey every hot girl that you encounter
+It's a deep seated urge whenever you see a gorgeous ass @ShowButtImage
+Or a nice pair of #Boobs @ShowBoobsImage
+Or when you hear the clicking on high heels on pavement
+You're obsessed little mind immediately snaps into focus
+Your knees start to buckle and you just want to drop down and worship
+I love how easy it is to control you, #PetName #Smile
+@End

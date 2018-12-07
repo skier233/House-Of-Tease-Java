@@ -1,0 +1,368 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModFetish5_NotFirstTime)
+@NullResponse @SetVar[AV_ModFetish5]=[0] 
+@NullResponse @SetFlag(AV_ModFetish5_NotFirstTime)
+(AV_ModFetish5_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModFetish5]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModFetish5]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModFetish5]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModFetish5]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModFetish5]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModFetish5]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModFetish5]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModFetish5]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModFetish5]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModFetish5]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModFetish5]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModFetish5]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModFetish5]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModFetish5]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModFetish5]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModFetish5]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModFetish5]=[AV_ModFetish5]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModFetish5]=[AV_ModFetish5]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModFetish5]=[AV_ModFetish5]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModFetish5]=[AV_ModFetish5]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModFetish5]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact3  @AddContact3
+@Contact1 Hi #EmoteLaugh 
+#AV_Break3
+@Contact3 #AV_Break4
+@NullResponse @RemoveDomme
+Here you are again, glued to your computer screen, cock in hand. 
+Weak for beautiful women like me telling you what to do 
+You could watch porn of hot chicks fucking, like a NORMAL guy, but you know your place.
+I guess I can give you a little treat
+Now get on your knees!!! 
+You are my good little #Slave. 
+c'mon make me proud! do as I say.
+#StartStroking
+Do you think you deserve to be my little pet?  @ResponseYes(IWillDoWhatever) @ResponseNo(AV_NoNeutral) 
+Well, for a wanker like you, I have something special planned.
+I love teasing you and confusing your cock. 
+You`re very good at this.
+#StopStroking 
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins) @SetFlag(AV_PinDone)
+You are nothing but a toy to me 
+and I feel like playing rough with you today.
+Aren't you so lucky to be my pain slut.
+@Flag(av_fetish_pain) Put 1 clothespin on each of your nipples @Wait(20)
+I'm a big sadist and I love torturing your pathetic little cock.
+#StartStroking
+@Flag(av_fetish_pain) Now grab yourself by the balls 
+@Flag(av_fetish_pain) and squeeze as hard as you can. 
+@Flag(av_fetish_pain) Harder, make yourself cry. 
+I know you'll suffer for me. 
+@Flag(av_fetish_pain) Now let go and slap your balls really hard. 
+@Flag(av_fetish_pain) I want you to be so sore that it hurts next time you jerk off.
+#StopStroking  
+Now slap your cock. 
+@Flag(av_fetish_pain) Right on the head where it hurts the most. 
+@Flag(av_fetish_pain) Do it over and over and over again. 
+Make it bounce. 
+Make it sting. 
+I just love knowing that you are hurting your own dick for me. 
+#StartStroking
+I'm going to put you in so much pain today.
+@RT(I don't care how much it hurts, you'll do anything for me, I love taking advantage of you)
+It's time for you to be honest. 
+You need to acknowledge your craving for domination. 
+You need a woman to take control of you. 
+#StopStroking
+@Flag(av_fetish_pain) Put #Random(3, 4) clothespins on your #Balls @Wait(20)
+You want me to control your cock 
+Don't bother to deny it. 
+Perhaps a few snaps of my whip will convince you to confess. 
+No? That's alright. 
+If pain won't break you, I know pleasure will. 
+#StartStroking
+I'm going to tease your dick until your begging me to own it. 
+Go ahead and touch it for me. 
+Go ahead and admit just how badly you want me to dominate you.
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+No pleasure for you today #Slave. 
+Why? Cause we both know you don't deserve it, don't you?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+You only deserve pain and suffering. 
+You can sit now and remove all clothespins
+@Contact3 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact3
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact1  @AddContact1
+@Contact1 Hi #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@NullResponse @RemoveDomme
+It's ok to admit it
+I know you've always wanted to try letting go of control
+letting a beautiful woman tell you what to do. 
+There's nothing wrong with @RT(it just because you're a guy doesn't mean you need to be in control, giving into your desires and letting a woman be in control of you) 
+It's actually very freeing, most men love it. 
+You can just give in to your submissive desires. 
+I'll start off slow. 
+#StartStroking
+All you have to do is follow my instructions 
+Doesn't that sound nice? 
+I will tell you exactly what to do. 
+Starting now your cock is under my control. 
+I bet it excites you to be under my control 
+I want you to touch yourself while thinking of how powerless you are right now. 
+You have given up everything to me, I have full control of your body.
+Keep stroking your cock as I caress my body. 
+I know how much you want to touch me right now but you don't have permission for that 
+Go all the way up and down as you think about how you HAVE to stroke your cock for me. 
+You don't have a choice, you have to jerk off for me 
+because it's what I want you to do 
+You're going to keep stroking your cock for me but remember
+since I am in control, don't get too excited too fast. 
+Remember, you do everything that I say. 
+And isn't it so relaxing, so much better to not have to think for yourself?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+It's so much better when I tell you to stroke your cock, it's much more fun that way. 
+It's going to give you much more pleasure to do what I say. 
+keep stroking your cock and you can play with your balls a little for extra stimulation. 
+I want you to get really excited now so you can fantasize about touching my beautiful body 
+but you still have to prove that you can be a good boy before you can touch me. 
+All you have to do is listen to me.
+You have no other responsibilities, nothing else matters. 
+Now I want you to start stroking faster and get yourself close to orgasm. 
+Squeeze your cock tight enough to feel real good but without cumming yet. 
+Isn't it better this way, letting go and having someone else be in control?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+I know you will want to keep giving yourself to me. 
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+Good boy. 
+Isn't it so much better to have a woman telling you to edge instead of just jerking off to porn?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+I know you enjoyed it and you are going to want me to control you more and more.
+It's perfectly natural, you should just give in and enjoy yourself.
+@Contact1 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact1
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact2  @AddContact2
+@Contact2 Hi #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@NullResponse @RemoveDomme
+Your whole purpose is to to serve me. 
+Want to please me? Want to become my favorite pet?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Then listen closely and follow my instructions. 
+If you want to be in my good books you are going to have to work hard
+because to be a good pet you have to put my happiness before yours. 
+Ready to really serve me #Slave? 
+Then let's begin.
+So JOI... Jerk Off Instruction...
+That's what you want!!! 
+It's no secret. 
+You reallllly like jerking off. 
+I know how you guys are. You get so worked up... cock as hard as a rock... 
+imagining I'm there with you. 
+Not this time. 
+You like to be insulted, right?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+So take out your cock and do what you do best. 
+#StartStroking
+I know what I'm doing to you
+you know what I am doing to you. 
+Let's strip away the pretense for this one shall we? 
+I've trapped you inside your own brain
+used up every ounce of manipulation I had and shoved it in to you
+Now you're nothing but a modifiable sack
+so eager to please me
+to do anything for goddess. 
+You would do the sickest things at a drop of a hat for me wouldn't you #Slave?
+#StopStroking 
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+#KneelForMe @SetFlag(AV_PinDone)
+I've turned you in to a toy, one I love to come and play with every so often, rattling the chains where you sleep. 
+How does it feel to know I have this control over you
+that I can take a leash and clip it on to your collar and you would walk willingly by my side. 
+Does it fuck you up? Or does it turn you on? 
+We both know the answer pet, it's just time you admitted it.
+I own you.
+@Flag(av_fetish_pain) Put #Random(3, 4) clothespins on your #Balls @Wait(20)
+#StartStroking
+and don't forget
+I'm smarter than you and I know better than you what belongs in your life 
+and what doesn't
+I know that you want it. 
+I know you love me telling you what to do @RT(and how to do it, and when to do it)
+I have programmed you to the point where you can not live without it!
+you yearn for My control and dream of serving at My feet. 
+It is so much better when you are doing it for Me. 
+#Edge @Edge
+I expect you on your knees with your cock standing at attention.
+#SitDown and remove all clothespins
+@Contact2 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact2
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+I am granting you a rare privilege now 
+I'm going to let you stroke yourself at my command. 
+You must do it my way and follow my orders with exactness
+Can you maintain control of yourself for your mistress?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+You're doing well so far. 
+What I want you to do now is lift your hips just a little in your seat.
+You're going to take your dominant hand and do your best to cup your testicles through your pants in it. 
+Try to fit as much of them as possible. 
+Your other hand is going to feel it's way around the outline of your shaft. 
+You should make sure that your hand is only on the shaft, and not the tip or head. 
+Then what you're going to do is carefully knead at your balls with your fingers in a rolling motion.
+While you do this, you're going to squeeze at your shaft from the top.
+You may start.. now.
+Keep going. @Wait(15)
+You're doing well.
+Okay. You can stop.
+You can relax your hips and stop squeezing for now. 
+Now we're going to do something a little more intense.
+Take one of your hands and feel your balls. 
+Find one and feel it gently between your fingers.
+Massage it and caress it in your fingertips. 
+You can alternate between them if you like.
+With your other hand, I want you to take your index finger and your thumb again.
+Put your thumb just underneath the little lip part on the back of the head.
+Now take your index fingertip and touch your slit 
+and make sure you gather up as much precome as you can on it.
+Then slide your finger down until its in that sensitive part on the underside.
+Press your thumb firm into the back of your shaft
+and then press your index finger against the underside.
+Use your thumb to keep it still, and move your index finger in a circle shape on that sensitive spot. 
+Spread that precome around, and keep moving it in circles. 
+Move it up and down to, if you want, but let's pay lots of attention to that spot...
+I bet that feels good, doesn't it? 
+Its your most sensitive place, and I'm rubbing right up against it..
+I bet your balls feel nice and heavy too. 
+Make sure you're not forgetting to rub them and feel them. 
+We want them nice and tight up underneath you..
+You can handle it. 
+Make sure you're putting on the pressure..
+Okay, now you can stop.
+How are you feeling right now? A bit tense?
+I bet you'd like a handjob from me, wouldn't you? 
+I have soft, smooth hands.. 
+I bet you'd just love to have all that stress and tension worked up out of you.
+Would you like it if I emptied those big balls of yours? 
+Would you like it if I milked you dry?
+Let's work on that a little then..
+We'll pick up our pace a little bit.
+We need to get you nice and bothered..
+So let's take one hand and put it back on your balls. 
+Cup as much of it as you can..
+Take your other hand and slide it back down onto yourself.
+Now you're going to lightly squeeze those balls, really gently
+curl your other hand tightly and slowly pump it onto yourself, as though it was mine. Move very slowly. @PlayAudio[tease\cStroke.mp3] 
+Make sure you've got your fingers tight.
+Work your way down to the bottom, making sure your other hand is giving those balls light little squeezes..
+Now you're going to stroke yourself for a little while. 
+Nice and slow, but with lots of pressure. 
+I'm not going to let you off easy, after all..
+Now slowly move top to bottom, back and forth. 
+Don't move your hips just yet.
+Keep going until I tell you to do something differently.
+You're doing well. It's a nice, slow milk.. 
+I want to churn up everything inside of you and fill you up nicely.
+Keep going..
+Make sure you're feeling those balls. I want them aching.
+You can keep going for just a bit longer. 
+Bite your lip a bit if you need to..
+Groan, grunt.. it's okay. 
+Make as much noise as you need to.
+Alright, now keep doing what you're doing.. 
+Now I want you to squeeze a bit harder on your balls. 
+Not super tightly, but enough where you can feel each one outlined in your palm.
+Use your thumb and move them around inside you a bit if you like.
+I want you to start moving your hips a little now. 
+Upward, like you were thrusting toward me.
+You can stroke a bit faster now. Once per second, but no faster.
+Don't get any looser. 
+You can twist and shift as much as you need to, but no faster than one stroke a second.
+Move your hips up.. and down..
+Desperately trying to feel all of your big, hard cock in my soft, warm hands.
+You're doing so well.
+I can tell by the look on your face that you're starting to feel a little uneasy.
+But that's okay, because you're going to keep going..
+That's it. Make sure those balls are getting fuller and closer to the base of your shaft..
+Alright, now.. again, don't stop what you're doing..
+We're going to make things a little difficult now.
+A little endurance.
+I want you to stop playing around with your balls and give them some serious attention.
+I want you to start squeezing them as hard as you possibly can without hurting yourself. 
+Keep that squeeze and hold it.
+Don't hurt yourself. 
+Get yourself as far as you can, and then hold that squeeze.
+Now I want you to move your hips faster. 
+You should time your thrusts so that they meet with your hand on your stroke. 
+I wanna hear a nice slapping sound.
+You can stroke faster now. Twice a second if you like.
+Make sure you're lifting your hips and bucking up nice, thrusting into my hands..
+Look at you, helplessly pounding away into them. 
+You're so desperate. But it's cute..
+I can see how hard it's getting for you to keep going. 
+You want so badly to have control over yourself right now.
+I can tell. It's written all over your red face..
+Keep thrusting. Keep squeezing.
+I'll tell you when you can stop. Not yet.
+Be a good boy and fuck my hands. Put all the strength you can into those hips.
+Alright. Give your balls a final squeeze, and slow your hips a little. 
+Don't slow down your strokes.
+Keep stroking..
+You want to satisfy me, don't you? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+You wouldn't want to leave me disappointed.
+Stop @PlayAudio[tease\cStop.mp3] 
+@End

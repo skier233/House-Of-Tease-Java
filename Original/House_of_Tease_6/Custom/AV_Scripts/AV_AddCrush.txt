@@ -1,0 +1,59 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+So, we have a new crush, #PetName? @RapidCodeOn
+@NullResponse @CheckFlag(AV_Know_59)
+@NullResponse @CheckFlag(AV_Know_58)
+@NullResponse @CheckFlag(AV_Know_57)
+@NullResponse @CheckFlag(AV_Know_56)
+@NullResponse @CheckFlag(AV_Know_55)
+@NullResponse @CheckFlag(AV_Know_54)
+@NullResponse @CheckFlag(AV_Know_53)
+@NullResponse @CheckFlag(AV_Know_52)
+@NullResponse @CheckFlag(AV_Know_51)
+@NullResponse @CheckFlag(AV_Know_50)
+What is her name? @InputVar[AV_Persona50]
+Hmm...make sure to put at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\10\ @SetFlag(AV_Know_50)
+@End
+(AV_Know_50)
+What's her name? @InputVar[AV_Persona51]
+make sure to put at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\11\ @SetFlag(AV_Know_51)
+@End
+(AV_Know_51)
+What is her name? @InputVar[AV_Persona52]
+make sure to have at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\12\ @SetFlag(AV_Know_52)
+@End
+(AV_Know_52)
+What's her name? @InputVar[AV_Persona53]
+make sure to put at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\13\ @SetFlag(AV_Know_53)
+@End
+(AV_Know_53)
+What is her name? @InputVar[AV_Persona54]
+make sure to have at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\14\ @SetFlag(AV_Know_54)
+@End
+(AV_Know_54)
+What's her name? @InputVar[AV_Persona55]
+make sure to put at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\15\ @SetFlag(AV_Know_55)
+@End
+(AV_Know_55)
+What is her name? @InputVar[AV_Persona56]
+make sure to have at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\16\ @SetFlag(AV_Know_56)
+@End
+(AV_Know_56)
+What's her name? @InputVar[AV_Persona57]
+make sure to put at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\17\ @SetFlag(AV_Know_57)
+@End
+(AV_Know_57)
+What is her name? @InputVar[AV_Persona58]
+make sure to have at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\18\ @SetFlag(AV_Know_58)
+@End
+(AV_Know_58)
+What is her name? @InputVar[AV_Persona59]
+make sure to have at least 10 #Pictures of her in the folder TeaseAI\Images\av_imagens\18\ @SetFlag(AV_Know_59)
+This is the last one, we cant add any more.
+@End
+(AV_Know_59)
+Sorry #SubName, no more girls to tease you. 
+10 it's enough
+@End

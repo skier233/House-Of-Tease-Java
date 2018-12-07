@@ -1,0 +1,144 @@
+@NotFlag(pthevModRelaDone) @NullResponse @Call(Custom/MIssBlue/pthev_Mod16RelaStat.txt)
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pvMod34A)
+Do you ever fantasize about having sex with me? @Timeout(8,you probably dream)
+[yes] I do try hard to get inside your mind #Grin
+[no] I find that hard to believe...
+@DifferentAnswer #YesOrNo
+(you probably dream)
+You probably dream about me day and night
+You want me don't you? @Timeout(8,you want me to sit)
+[yes] #Smile
+[no] Admit it, #SubName
+@DifferentAnswer #YesOrNo
+(you want me to sit)
+You want me to sit on your lap
+To rub my #Boobs in your face
+You want to feel the heat coming off my #Pussy
+To feel how wet I am through my panties
+As I rub up against your hard cock
+You want me to pull my panties to the side
+You want to slide your cock inside my pussy, don't you?
+No matter how much you want it...
+It's never going to happen, #SubName
+But you can still fantasize and dream about it #Smile @SetFlag(pvMod34A)
+@End
+(pvMod34A)
+@NullResponse @CheckFlag(pvCuckold)
+@NullResponse @CheckFlag(pvCuckoldNo)
+It must be hard for you to look at my hot body so much
+Painful even
+To look and not be able to touch...
+Only to touch yourself and make you #Cock cry little tears of precum for me
+@Flag(pvBeta) #JerkingOff like the good little beta boy that you are
+@Flag(pvAlpha) Maybe you even feel like you get get into my pants if you tried
+Trust me, this is the only proper place for you, #Name @CheckFlag(DommeIsDatingStud,are you cuckold)
+@End
+(are you cuckold)
+In fact... I was having sex with my boyfriend the other day
+And as he was pounding away I imagined you were there in the room
+You were on your knees in the corner of the room, #JerkingOff
+I came even harder than normal thinking about that...
+And my boyfriend already makes me cum so fucking hard #Smile
+I wonder...
+Does it turn you on to think about me fucking another guy?
+[yes] So you're a bit of a cuckold... @Goto(bit of a cuckold)
+[no] That'll just be my private fantasy then #Smile
+@DifferentAnswer #YesOrNo
+It's not like we have to share every single kink anyway @SetFlag(pvCuckoldNo)
+@End
+(bit of a cuckold)
+Somehow that doesn't surprise me at all #Laugh @SetFlag(pvCuckold)
+Next time I get it on with my guy... I'm going to remember you told me this
+And I'm going to cum so fucking hard thinking about how hard it makes <i>you</i>
+@End
+(pvCuckold)
+@NullResponse @CheckFlag(pvHasPartner,let her cheat)
+@NullResponse @Goto(pvMod34Cuck)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(let her cheat)
+@NullResponse @CheckFlag(pvMod34Cuck)
+Let's talk about this cuckolding fantasy of yours for a second
+Does it mean that @ShowVar[pthevNamePartner] gets to have sex with other people?
+[yes] Oh my #Laugh @Goto(she gets to sleep with other people)
+[no] That's too bad for her...
+@DifferentAnswer #YesOrNo
+Does she even know that you fantasize about being cuckolded?
+[yes] Then she should probably make better use of that fact #Laugh
+[no] She'd probably be very interested in finding out #Laugh
+@DifferentAnswer #YesOrNo
+Although it might be better if it stayed a secret, I get that
+Some fantasies are better left in the realm of fantasy @SetFlag(pvMod34Cuck)
+@End
+(she gets to sleep with other people)
+You never cease to amaze me, #SubName @SetFlag(pvCuckoldBP)
+You're a cuckold in the truest sense of the word @SetFlag(pvMod34Cuck)
+Is @ShowVar[pthevNamePartner] with you right now?
+[yes] That's the only way you can be sure she's not fucking some other guy I guess...
+[no] She's *probably* not having sex with someone else right now
+@DifferentAnswer #YesOrNo
+Or maybe she <i>is</i>! #Lol
+That would be so fucked up, although I guess it turns you on...
+@Flag(pthevMarried) At least your wife can get fucked properly
+@Flag(pthevGirlfriend) At least your girlfriend can get fucked properly
+The fact that you let her alone is proof that you can't possibly be enough for her
+Instead you're stuck #JerkingOff to me
+I want you to edge and think about @ShowVar[pthevNamePartner] getting fucked hard @Edge
+#LetTheEdgeFade
+It must hurt to know that you'll only ever be a cuckold
+That you could never please @ShowVar[pthevNamePartner] the way her lovers can
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+@End
+(pvCuckoldNo)
+@RT(Hm,Mmm)...
+@RT(I changed my mind,On second thought,No actually), @RT(start stroking again,keep stroking that cock,keep going)
+In fact...
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(pvMod34Cuck)
+@NullResponse @CheckFlagFlag(pvCuckoldBP,what is she doing)
+@RT(Hm,Mmm)...
+@RT(I changed my mind,On second thought,No actually), @RT(start stroking again,keep stroking that cock,keep going)
+In fact...
+#Edge @EdgeHold
+#LetTheEdgeFade @CheckFlag(pthevModRelaDone,check out images)
+Edge again, #Name @EdgeNoHold
+Good boy #Smile
+@End
+(what is she doing)
+I was wondering, #SubName...
+Given that you're here with me, #JerkingOff
+Does that mean @ShowVar[pthevNamePartner] is out getting laid?
+[yes] Oh wow @Goto(oh wow)
+[no] Oh okay #Smile
+@DifferentAnswer #YesOrNo
+Well, I'm sure she gets to have plenty of sex with <i>real<i> men
+Probably need a break from all that from time to time #EmoteWink
+@End
+(oh wow)
+Well then I suppose you both get what you deserve #GeneralTime #Laugh
+@BallTorture Meaning that while she gets awesome sex, you get to hurt your #Balls @CBTBalls
+She is one lucky lady to have you, #SubName
+And I'm sure even more so the other way around #Smile
+@End
+(check out images)
+@CockSmall Look at that pathetic little excuse for a cock, how could it ever please a woman... #Laugh
+Check this out, #Name @ShowHardcoreImage @LockImages
+That could never be you and you know it #Smile
+That's why you're stuck here #JerkingOff while real men are having sex
+@Flag(pvCuckoldBP) One of them is probably fucking @ShowVar[pthevNamePartner] right now
+@Flag(pthevSingle) If you ever get a girlfriend you should let her sleep with other guys
+It's just the way off the world, #Name @ShowHardcoreImage
+Funny that you watch so much porn of men with big dicks fucking girls
+Here's my theory about that... @ShowHardcoreImage
+I think you want to see girls get what they deserve, what you can't give them
+Real pleasure at the hands of real men @ShowHardcoreImage
+And meanwhile you get what you deserve too #Grin @UnlockImages
+@CockTorture Because I always give my #Cock what it deserves @CBTCock
+#Edge @Edge
+#LetTheEdgeFade
+@End

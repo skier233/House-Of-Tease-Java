@@ -1,0 +1,187 @@
+Type <b>info</b> at any time for information on prompts. @RapidTextOn
+(TsysReset)
+What kind of reset would you like to perform, FULL or PARTIAL?
+[full] @NullResponse @Goto(Full)
+[partial] @NullResponse @Goto(Partial)
+[info] FULL - Performs a FULL Reset of all Tsys flags, PARTIAL - prompts for specific flags. @LoopAnswer
+@DifferentAnswer would you like to perform a FULL, or PARTIAL reset of Tsys?
+(Full)
+Warning, A partial reset will let you choose what flags you delete.
+A full reset will delete <b>ALL</b> flags, including modules.
+Are you sure you wish to proceed?
+[yes] Dispatching ninjas...
+[no] Please Wait @Goto(TsysReset)
+@DifferentAnswer Prompt accepts only "Yes" or "No"
+Clearing Tsys CORE
+@NullResponse @DeleteFlag(FirstStart)
+@NullResponse @DeleteFlag(NormalStart)
+@NullResponse @DeleteFlag(DommeStart)
+@NullResponse @DeleteFlag(EndPrep)
+@NullResponse @DeleteFlag(Busy1)
+@NullResponse @DeleteFlag(WasBusy1)
+@NullResponse @DeleteFlag(Working)
+Done
+Clearing Tsys SETS
+@NullResponse @DeleteFlag(SundaySET)
+@NullResponse @DeleteFlag(MondaySET)
+@NullResponse @DeleteFlag(TuesdaySET)
+@NullResponse @DeleteFlag(WednesdaySET)
+@NullResponse @DeleteFlag(ThursdaySET)
+@NullResponse @DeleteFlag(FridaySET)
+@NullResponse @DeleteFlag(SaturdaySET)
+Done
+Clearing Sessions
+@NullResponse @DeleteFlag(OpiateLOD)
+@NullResponse @DeleteFlag(OpiateLOR)
+@NullResponse @DeleteFlag(OpiateLOC)
+@NullResponse @DeleteFlag(OpiateCSD)
+@NullResponse @DeleteFlag(OpiateLSNK)
+@NullResponse @DeleteFlag(OpiateLSNK1)
+@NullResponse @DeleteFlag(OpiateLSK)
+Done
+Clearing NPx's
+@NullResponse @DeleteFlag(OpiateNPS)
+@NullResponse @DeleteFlag(OpiateNPR)
+@NullResponse @DeleteFlag(OpiateNPC)
+@NullResponse @DeleteFlag(NPxD)
+@NullResponse @DeleteFlag(NPxRD)
+Done
+Clearing Edge Roulette
+@NullResponse @DeleteFlag(EREx)
+@NullResponse @DeleteFlag(ERS)
+@NullResponse @DeleteFlag(ERFlag)
+@NullResponse @DeleteFlag(ERWin)
+@NullResponse @DeleteFlag(ERWon)
+@NullResponse @DeleteFlag(ERWon2)
+@NullResponse @DeleteFlag(ERLost)
+@NullResponse @DeleteFlag(ERLoss)
+@NullResponse @DeleteFlag(ERLoss2)
+Clearing Modules
+@NullResponse @DeleteFlag(ATEMod)
+@NullResponse @DeleteFlag(JOIMod)
+@NullResponse @DeleteFlag(CensorMod)
+@NullResponse @DeleteFlag(RLGLMod)
+@NullResponse @DeleteFlag(BBnEMod)
+@NullResponse @DeleteFlag(DeleteHentai)
+Done
+Resetting required initial run flags
+@NullResponse @SetFlag(FirstRun)
+@NullResponse @SetFlag(FirstEnd)
+@NullResponse @SetFlag(NoMatch)
+Done
+Reset Complete
+Recalling ninjas...
+Please restart TeaseAI. @EndTease
+@End
+(Partial)
+Dispatching ninjas
+(PartialMenu)
+What would you like to clear? <i>type</i> <b>info</b> <i>for available operations and information about them</i>
+[Core] @NullResponse @Goto(CORE)
+[Sets] @NullResponse @Goto(SETs)
+[LOx] @NullResponse @Goto(LOx)
+[NPx] @NullResponse @Goto(NPx)
+[ER] @NullResponse @Goto(ER)
+[Mods] @NullResponse @Goto(MODs)
+[Reqs] @NullResponse @Goto(REQs)
+[Info] @NullResponse @Goto(PartialInfo)
+@DifferentAnswer Invalid Response, What would you like to clear? <i>type</i> <b>info</b> <i>for available operations and information about them</i>
+(PartialInfo)
+Reqs: Flags that are required to set up TsysCORE when Swiss is being ran for the first time
+Core: Flags that tell Tsys how to greet the user
+Sets: Flags that tell Tsys what day it is
+LOx: Flags that tell Tsys user's last orgasm type
+NPx: Flags that tell Tsys if the user came, ruined, or stroked without permission
+ER: A network of flags to dictate how Tsys behaves in regards to Edge Roulette
+<i>For more information on ERFlags, check</i> <b>Swiss\_\Skynet.txt</b>
+Mods: Flags used to determine if a module has been run for the first time or not @Goto(PartialMenu)
+(CORE)
+Are you sure you would like to clear Tsys CORE?
+[yes] Clearing Tsys CORE
+[no] Returning to Menu @Goto(PartialMenu)
+@DifferentAnswer Yes or No? <i>No returns to menu</i>
+@NullResponse @DeleteFlag(NormalStart)
+@NullResponse @DeleteFlag(DommeStart)
+@NullResponse @DeleteFlag(EndPrep)
+@NullResponse @DeleteFlag(Busy1)
+@NullResponse @DeleteFlag(WasBusy1)
+@NullResponse @DeleteFlag(Working)
+Done @Goto(PartialMenu)
+(SETs)
+Are you sure you would like to clear any Tsys SET's ?
+[yes] Clearing Tsys SETS
+[no] Returning to Menu @Goto(PartialMenu)
+@DifferentAnswer Yes or No? <i>No returns to menu</i>
+@NullResponse @DeleteFlag(SundaySET)
+@NullResponse @DeleteFlag(MondaySET)
+@NullResponse @DeleteFlag(TuesdaySET)
+@NullResponse @DeleteFlag(WednesdaySET)
+@NullResponse @DeleteFlag(ThursdaySET)
+@NullResponse @DeleteFlag(FridaySET)
+@NullResponse @DeleteFlag(SaturdaySET)
+Done @Goto(PartialMenu)
+(LOx)
+Are you sure you would like to clear any LOx flags?
+[yes] Clearing OpiateLOx
+[no] Returning to Menu @Goto(PartialMenu)
+@DifferentAnswer Yes or No? <i>No returns to menu</i>
+@NullResponse @DeleteFlag(OpiateLOD)
+@NullResponse @DeleteFlag(OpiateLOR)
+@NullResponse @DeleteFlag(OpiateLOC)
+@NullResponse @DeleteFlag(OpiateCSD)
+@NullResponse @DeleteFlag(OpiateLSNK)
+@NullResponse @DeleteFlag(OpiateLSNK1)
+@NullResponse @DeleteFlag(OpiateLSK)
+Done @Goto(PartialMenu)
+(NPx)
+Are you sure you would like to clear any NPx flags?
+[yes] Clearing OpiateNPx
+[no] Returning to Menu @Goto(PartialMenu)
+@DifferentAnswer Yes or No? <i>No returns to menu</i>
+@NullResponse @DeleteFlag(OpiateNPS)
+@NullResponse @DeleteFlag(OpiateNPR)
+@NullResponse @DeleteFlag(OpiateNPC)
+@NullResponse @DeleteFlag(NPxD)
+@NullResponse @DeleteFlag(NPxRD)
+Done @Goto(PartialMenu)
+(ER)
+Are you sure you would like to clear any Edge Roulette flags?
+[yes] Clearing Edge Roulette
+[no] Returning to Menu @Goto(PartialMenu)
+@DifferentAnswer Yes or No? <i>No returns to menu</i>
+@NullResponse @DeleteFlag(EREx)
+@NullResponse @DeleteFlag(ERS)
+@NullResponse @DeleteFlag(ERFlag)
+@NullResponse @DeleteFlag(ERWin)
+@NullResponse @DeleteFlag(ERWon)
+@NullResponse @DeleteFlag(ERWon2)
+@NullResponse @DeleteFlag(ERLost)
+@NullResponse @DeleteFlag(ERLoss)
+@NullResponse @DeleteFlag(ERLoss2)
+Done @Goto(PartialMenu)
+(Mods) Returning to Menu @Goto(PartialMenu)
+Are you sure you would like to clear any Module flags?
+[yes] Clearing Modules
+[no]
+@DifferentAnswer Yes or No? <i>No returns to menu</i>
+@NullResponse @DeleteFlag(ATEMod)
+@NullResponse @DeleteFlag(JOIMod)
+@NullResponse @DeleteFlag(CensorMod)
+@NullResponse @DeleteFlag(RLGLMod)
+@NullResponse @DeleteFlag(BBnEMod)
+@NullResponse @DeleteFlag(DeleteHentai)
+Done @Goto(PartialMenu)
+(Reqs) 
+Would you like to set <b>the required</b> flags for a clean run? <b>This is required if you have reset the Tsys CORE and/or OpiateLOx's</b>
+[yes] Setting required initial run flags
+[no] Returning to Menu @Goto(PartialMenu)
+@DifferentAnswer Yes or No? <i>No returns to menu</i>
+@NullResponse @SetFlag(FirstRun)
+@NullResponse @SetFlag(FirstEnd)
+@NullResponse @SetFlag(NoMatch)
+Done @Goto(PartialMenu)
+(Complete)
+Operations complete
+Recalling ninjas...
+Please restart TeaseAI @EndTease
+@End 

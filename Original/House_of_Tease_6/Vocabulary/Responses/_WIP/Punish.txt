@@ -1,0 +1,4 @@
+[punish, punished, confess, confession, tell you, tell you something, i was bad, i've been bad, ive been bad]
+[All]
+@NullResponse @Interrupt(RPunish)
+[All End]

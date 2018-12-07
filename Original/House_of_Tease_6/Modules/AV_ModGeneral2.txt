@@ -1,0 +1,265 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral2_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral2]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral2_NotFirstTime)
+(AV_ModGeneral2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral2]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral2]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral2]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral2]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral2]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral2]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral2]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral2]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral2]=[AV_ModGeneral2]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral2]=[AV_ModGeneral2]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral2]=[AV_ModGeneral2]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral2]=[AV_ModGeneral2]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral2]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Break2 @AddContact2
+@Contact2 Somebody didn't have a very satisfying night, did they? @Timeout(5, AV_Timeo02)
+[yes] @Contact2 #Good 
+[no] @Contact2 Let's change that, right? 
+@DifferentAnswer @Contact2 #YesorNo
+(AV_Timeo02)
+@Contact2 Well I got some bad news..
+@Contact2 Now isn't going to get any better. #StartStroking
+@Contact2 I bet you thought you were done stroking today, huh?
+@Contact2 I kinda LIKE the idea of you not being able to cum.
+@Contact2 In fact, I LOVE the idea of you not being able to cum.
+@Contact2 You know what I think?
+@Contact2 I think when you're alone with #DomName
+@Contact2 and she's teasing you, moving against you to make desperate
+@Contact2 it won't be her body you'll be thinking about.
+@Contact2 It will be mine.
+@Contact2 Oh, and something I'll be WAY better at than my friend...
+@Contact2 ...leaving you unsatisfied. #StopStroking
+@Contact2 so much better than some stupid movie.
+@Contact2 Seriously, I was dreading going to that rom-com, but this
+@Contact2 #StartStroking
+@Contact2 this is something I could watch all day.
+@Contact2 What is it...you want to stop? @Timeout(5, AV_Timeo03)
+[yes] @Contact2 Well, will not happen
+[no] @Contact2 #Good 
+@DifferentAnswer @Contact2 #YesorNo
+(AV_Timeo03)
+@Contact2 I was thinking about you
+@Contact2 wondering about all the things #DomName was doing to you
+@Contact2 and how long I was going to have to wait to get my hands on you
+@Contact2 so I could make you suffer twice as bad as she did
+@Contact2 But since I'm here, I don't have to wait
+@Contact2 I can just make you suffer now
+@Contact2 #Edge @Edge
+@Contact2 Because you do this for me. And it's really turning me up!
+@NullResponse @RemoveContact2
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+I love playing with boys who need to cum.
+So, let's have you #Stroke in a way that's more appropriate. @Goto(01,02)
+(01)
+Take your index finger and your middle finger together
+and rub the shaft, right under the head @PlayAudio[tease\cStroke.mp3]
+That's it...finger your little pussy, #Slave. @Goto(cont)
+(02)
+Take your index finger and your thumb
+Make a 'O' around the shaft, right under the head
+That's it...#Stroke that way, #Slave. @PlayAudio[tease\cStroke.mp3]
+(cont)
+There we go...now that makes more sense doesn't it?
+Finger yourself faster than that.
+That's it, doesn't that feel good?
+[yes] #Lol @MoodUp
+[no] No?
+@DifferentAnswer Yes or no #SubName?
+Now...while you're #Liking that, I want you to picture everything I'm telling you.
+And tell me if this doesn't get your #Cock harder.
+Imagine me on my knees between your legs, staring into your eyes @ShowTaggedImage @TagHandjob @LockImages
+While I milk your cock with my soft, warm #Hands...right in front of my #Face.
+Are you still rubbing that hard clit for me? @UnlockImages
+That's it.
+Keep going...but don't you dare cum without my permission... @Chance50(03)
+Anyway, imagine my hands wrapped tight around your #Cock. @ShowTaggedImage @TagHandjob
+Slowly #Stroking you up...and down...and back up...and back down @ShowTaggedImage @TagHandjob
+Both of my hands twisting around your hard shaft as they go... @ShowTaggedImage @TagHandjob
+Keep fingering that little thing.
+(03)
+Now imagine me #Stroking you faster...and faster... @ShowTaggedImage @TagHandjob
+And imagine my beautiful lips inching closer to the head of your #Cock @ShowBlowjobImage
+@GoodMood See me slowly open my mouth, and lean my head right over the tip @ShowBlowjobImage
+@GoodMood You can already feel the warmth of my breath...and the wetness...
+@GoodMood You can imagine the beautiful sucking heaven awaiting you inside...and then suddenly @ShowBlowjobImage
+Take your fingers off your cock @PlayAudio[tease\cStop.mp3]
+Don't #Touch it.
+Awww what's the matter?  
+You wanted to keep dreaming a little longer?
+Well...you might as well face reality right?
+That's mean... 
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+Are you starting to feel better?
+[yes] Then start stroking to the beat #AudioStroke
+[no] Too bad, start stroking to the beat. #AudioStroke #PetName
+@DifferentAnswer Yes or no #PetName?
+I know...
+It seems cruel to build you back up right away.
+But your suffering isn't always about me being cruel or punishing you
+Sometimes it's just to give me pleasure. @Chance50(AVRND01)
+To know that you suffer for me.
+That no matter how horrible the ache is
+even though the pain gets more intense with every single pass of your hand
+you still do it... @FollowUp50(...for me)
+(AVRND01)
+This can be so much more.
+#Edge @Edge
+#LetTheEdgeFade
+You're probably wondering how you're even going to be able to endure all this.
+@Flag(AV_DommeMistress) That's not your job to wonder about shit.
+Your job is to take your hand and put it on your #Cock.
+Now curl your fingers around the shaft and grab hold of it.  @FollowUp50(Your job is to suffer and stroke)
+I know you're suffering, so get stroking to the beat #AudioStroke.
+That's it.
+It aches so much now, but I know you'll recover
+You'll stroke through the pain.
+and your #Cock might protest at first
+but soon enough it will remember how bad it wants an orgasm
+It will start to grow harder
+and suddenly you'll find yourself racing towards a brand new orgasm
+Get back on the edge and stay there. @EdgeHold
+Is it even harder to stay on the edge after all that stroking? @Timeout(5, AV_Timeo04)
+[yes] #Good I want every edge to be an unspeakable torture for you.
+[no] Aww @MoodDown
+@DifferentAnswer #YesorNo
+I want you to suffer @FollowUp50(so much your #Cock would sooner die than endure another second of it)
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+I think its time for a little test 
+I think its important for a #PetName 
+To sometimes be tested to ensure 
+that you keep improving yourself in the art of mantain control
+So, I will use your weak points.
+Starring: @TempFlag(av_intera_002)
+#Var[AV_Persona04] @ShowImage[av_imagens\04\*.*] @SetVar[AV_PornStar]=[0]
+#Var[AV_Persona01] @ShowImage[av_imagens\02\*.*] @SetVar[AV_Actress]=[0]
+and #Var[AV_Persona02] @ShowImage[av_imagens\03\*.*] @SetVar[AV_Singer]=[0]
+Are you ready for denial, edging, and humiliation? 
+#StartStrokingNS @PlayAudio[tease\b110.mp3] @Goto(act1, sin1, por1)
+(Start_Porn)
+@NullResponse @PlayAudio[tease\b120.mp3] @Goto(act1, sin1)
+(Start_Actress)
+@NullResponse @PlayAudio[tease\b120.mp3] @Goto(sin1, por1)
+(Start_Singer)
+@NullResponse @PlayAudio[tease\b120.mp3] @Goto(act1, por1)
+(por1)
+@NullResponse @ShowImage[av_imagens\04\*.*] @ChangeVar[AV_PornStar]=[AV_PornStar]+[1] @PlayAudio[tease\b120.mp3]
+@NullResponse @Goto(Check1)
+(act1)
+@NullResponse @ShowImage[av_imagens\02\*.*] @ChangeVar[AV_Actress]=[AV_Actress]+[1] @PlayAudio[tease\b120.mp3]
+@NullResponse @Goto(Check1)
+(sin1)
+@NullResponse @ShowImage[av_imagens\03\*.*] @ChangeVar[AV_Singer]=[AV_Singer]+[1] @PlayAudio[tease\b120.mp3]
+@NullResponse @Goto(Check1)
+(Check1)
+@NullResponse @If[AV_PornStar]=[3]Then(Second_Part) @PlayAudio[tease\b110.mp3] @RapidCodeOn
+@NullResponse @If[AV_Actress]=[3]Then(Second_Part)
+@NullResponse @If[AV_Singer]=[3]Then(Second_Part) @RapidCodeOff
+@NullResponse @If[AV_PornStar]=[1]Then(Start_Porn)
+@NullResponse @If[AV_Actress]=[1]Then(Start_Actress)
+@NullResponse @If[AV_Singer]=[1]Then(Start_Singer)
+(Second_Part)
+You've been a bad boy all these years
+#Stroking to #Pictures of celebs on the internet
+Today, I get back at you. 
+@Flag(AV_DommeMistress) You are my slave today. Slap that hard cock 2 times, make it sting!
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_PornStar]=[0]
+@NullResponse @SetVar[AV_Actress]=[0]
+@NullResponse @SetVar[AV_Singer]=[0]
+@NullResponse @Goto(act2, sin2, por2) @RapidCodeOff
+(2Start_Porn)
+@NullResponse  @Goto(act2, sin2)
+(2Start_Actress)
+@NullResponse  @Goto(sin2, por2)
+(2Start_Singer)
+@NullResponse  @Goto(act2, por2)
+(por2)
+Stroke #StrokeN times for #Var[AV_Persona04] @ShowImage[av_imagens\04\*.*] @ChangeVar[AV_PornStar]=[AV_PornStar]+[1]
+@NullResponse @Goto(Check2)
+(act2)
+Stroke #StrokeN times for #Var[AV_Persona01] @ShowImage[av_imagens\02\*.*] @ChangeVar[AV_Actress]=[AV_Actress]+[1]
+@NullResponse @Goto(Check2)
+(sin2)
+Stroke #StrokeN times for #Var[AV_Persona02]  @ShowImage[av_imagens\03\*.*] @ChangeVar[AV_Singer]=[AV_Singer]+[1]
+@NullResponse @Goto(Check2)
+(Check2)
+@NullResponse @If[AV_PornStar]=[3]Then(Third_Part) @RapidCodeOn
+@NullResponse @If[AV_Actress]=[3]Then(Third_Part)
+@NullResponse @If[AV_Singer]=[3]Then(Third_Part) @RapidCodeOff
+@NullResponse @If[AV_PornStar]=[1]Then(2Start_Porn)
+@NullResponse @If[AV_Actress]=[1]Then(2Start_Actress)
+@NullResponse @If[AV_Singer]=[1]Then(2Start_Singer)
+(Third_Part)
+Know that I have complete control over your body 
+@Flag(AV_DommeMistress) #KneelForMe @SetFlag(AV_SubKnees)
+Before we go on, you need to understand something: 
+you are a pervert. 
+Don't be ashamed, just know you are a good #Slave who will do whatever you're told. @DeleteFlag(av_intera_002)
+@End

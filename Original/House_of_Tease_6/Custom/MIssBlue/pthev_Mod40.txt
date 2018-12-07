@@ -1,0 +1,261 @@
+@Flag(pthevGlitterIntroduced) @NullResponse @Chance70(with glitter)
+#StopStroking @StopStroking
+While you were #JerkingOff I've been scrolling through some sexy blogs
+I want to show some of the stuff I found
+You can never have @RT(enough,too much porn), right? #Lol
+Let's see... @LockImages
+Do you think this is hot? @ShowBlogImage
+[yes] Cool, me too #Smile @LikeBlogImage
+[no] It's not the greatest pic ever I guess @DislikeBlogImage
+@DifferentAnswer #YesOrNo
+How about this one, hot or not? @ShowBlogImage
+[hot,yes] One of my favourites too #EmoteMoan @LikeBlogImage
+[not,no] Really? I'm surprised... @DislikeBlogImage
+@DifferentAnswer Hot or not, #Name?
+Like or dislike? @ShowBlogImage
+[like,yes,hot] Me too #EmoteMoan @LikeBlogImage
+[dislike,no,not] Okay @DislikeBlogImage
+@DifferentAnswer Like or dislike, #Name?
+How about this one? @ShowBlogImage
+[like,love,yes,hot] Me too #EmoteMoan @LikeBlogImage
+[dislike,no,not] Okay @DislikeBlogImage
+@DifferentAnswer Hot or not, #Name?
+Alright, that's enough for now @UnlockImages
+@End
+(with glitter)
+@NullResponse @CheckFlag(pvMod40A)
+#StopStroking @StopStroking @SetFlag(pvMod40A)
+@Flag(pvContact3RoughYes) @NullResponse @Chance50(rough yes)
+#Contact1 just texted me that she's going to join us #Smile
+She doesn't get to play with my toy as much as I do
+So she's probably going to be hell bent on making the most of the time she has
+In other words, prepare for some <i>serious</i> edging #Laugh @AddContact1
+@Contact1 Because apparently, #DomName doesn't make you edge nearly enough #Smile
+I try not to ruin the fun by destroying my toy in one go...
+@Contact1 Well, my philosophy is that you can destroy and rebuild over and over again
+@Contact1 It's amazing thing to see, #ShortName
+@Contact1 You completely reduce one of these beta boys into a quivering self-loathing mess
+@Contact1 And they will swear they're never going to fall so low again
+@Contact1 That they won't let themselves be used up like that by a girl again
+@Contact1 But then you bat your lashes, flash them some skin and a cute smile
+@Contact1 And they come crawling back like the helpless little losers they are
+I know, I've seen you do it, #Contact1
+@Contact1 You better believe it... and <i>you</i> better believe it too, #SubName
+@Contact1 Stroke that pathetic excuse for a cock
+@Contact1 Faster, I don't want to wait for ages when I tell you to edge
+@Contact1 Come on, get to the edge, #SubName @EdgeHold @MultipleEdges(5,6,100)
+@Contact1 Oh fuck yes let that edge sink in for a minute #EmoteHappy
+What did I tell you? This girl does not do slow buildups #Laugh
+@Contact1 I wanted to get his attention right from the start
+Oh I think that got his attention #Grin
+@Contact1 Now let's see how far we can get without edging @EdgeMode(Goto,how far we got)
+@Contact1 #SubName...
+@Contact1 Give me 25 strokes, but DO NOT EDGE
+@Contact1 I don't care how long it takes, just let me know when you're done
+[done] @Contact1 Good
+@DifferentAnswer @Contact1 Just say "done" when you're done *rolls eyes*
+@Contact1 Now give me 50 strokes, you have 30 seconds - Go! @RapidTextOn @Wait(10)
+@Contact1 20 seconds... @Wait(8)
+@Contact1 10 @Wait(5)
+@Contact1 3
+@Contact1 2
+@Contact1 1
+@Contact1 STOP @RapidTextOff
+@Contact1 Do you finish your 50 strokes in time?
+[no] @Contact1 Tsk, tsk, tsk @Goto(tsk tsk)
+[yes] I trained my boy well, #Contact1 #Smile
+@DifferentAnswer @Contact1 Yes or no?
+@Contact1 Let's see about that... #Grin
+50 strokes in 20 seconds, #SubName - Go! @RapidTextOn @Wait(5)
+@Contact1 15 @Wait(5)
+@Contact1 10 @Wait(5)
+@Contact1 3
+@Contact1 2
+@Contact1 1
+@Contact1 STOP @RapidTextOff
+@Contact1 Did you make it in time?
+[no] @Contact1 Tsk, tsk, tsk @Goto(tsk tsk)
+[yes] @Contact1 So far, so good
+@DifferentAnswer @Contact1 Yes or no?
+100 strokes in 40 seconds, Go! @RapidTextOn @Wait(10)
+@Contact1 30 @Wait(10)
+@Contact1 20 @Wait(14)
+@Contact1 3
+@Contact1 2
+@Contact1 1
+@Contact1 STOP @RapidTextOff
+@Contact1 Do you finish 100 strokes in time?
+[no] @Contact1 Tsk, tsk, tsk @Goto(tsk tsk)
+[yes] Like a champ #EmoteHappy
+@DifferentAnswer @Contact1 Yes or no?
+@Contact1 I must say, pretty impressive, #ShortName @EdgeMode(Normal)
+@Contact1 But I do get the feeling you haven't 'prepared' our toy properly #GeneralTime
+Meaning...?
+@Contact1 I'll show you what I mean #Grin
+@Contact1 Get to the edge for us, #SubName @EdgeHold @MultipleEdges(6,6,100)
+@Contact1 Let that edge fade away... #Smile
+I see what you mean now, #Contact1
+Get to the edge again, #PetName @EdgeHold @MultipleEdges(4,7,100)
+#LetTheEdgeFade
+@Contact1 That's it #Laugh
+@Contact1 And just to make sure you know what I'm talking about, edge again #SubName! @EdgeHold @MultipleEdges(3,5,100)
+Keep breathing and let go of your #Cock, #PetName
+@Contact1 This has been fun, but I'll leave #SubName in your able but cruel hands now, #ShortName
+@Contact1 I think he's properly 'prepared' for whatever else you have in store now
+Definitely! #Lol @RemoveContact1
+I hope your #Cock didn't fall off there or anything, #Name #Smile
+@End
+(tsk tsk)
+@Contact1 That's not good, not good at all, #ShortName @MoodDown @EdgeMode(Normal)
+I guess my #PetName needs a little more training to be up to your standards #Smile
+@Contact1 Get to the edge right now, #SubName @EdgeNoHold @MultipleEdges(6,6,100)
+@Contact1 You can relax, let that poor #Cock bounce around for a moment
+I'm guessing the training regimen will consist of a great many edges?
+@Contact1 That seems to work #Laugh
+@Contact1 So, #SubName... @Goto(the regimen)
+(how far we got)
+Aww... he failed... just let that edge fade away, #PetName @MoodDown
+@Contact1 That was... not good, #SubName 
+@Contact1 I did tell you not to edge, didn't I? @Timeout(7,did tell you)
+[yes] @Contact1 And yet you did it anyway...
+[no] @Contact1 Oh I most certainly did, slave
+@DifferentAnswer @Contact1 #YesOrNo
+(did tell you)
+He just enjoys staying on the edge so damn much, #Contact1 #Laugh
+@Contact1 Then let's give him what he wants #Grin
+(the regimen)
+@Contact1 Edge. Right. Now! @EdgeHold
+#LetTheEdgeFade
+@Contact1 Don't get too comfortable, though... because...
+@Contact1 You are going to edge again, right now @EdgeHold @MultipleEdges(5,6,100)
+@Contact1 Very good, let that #Cock swing in the wind now #Laugh
+It seems to be swinging in the wind a lot #Lol
+@Contact1 I guess it doesn't get to see the inside of a pussy much, right?
+Not really...
+@Flag(pvHasPartner) Although you'd have to ask @Var[pthevNamePartner] I suppose
+@Flag(pthevVirgin) It's actually never been inside one at all...
+@Flag(pthevVirgin) @Contact1 Oh... okay then... don't worry you still have your hand, #SubName #Laugh
+@Contact1 That's just a bit sad, really
+@Contact1 Maybe you should edge for us again to forget about your sadness, #SubName @EdgeHold @MultipleEdges(3,6,100)
+Keep breathing and let go of your #Cock, #PetName
+@Contact1 One more time, edge #SubName @EdgeHold @MultipleEdges(4,7,100)
+@Contact1 Good boy #Smile
+@Contact1 This has been fun, but I'll leave #SubName in your able but cruel hands now, #ShortName
+Alright #Smile @RemoveContact1
+I hope your #Cock didn't fall off there or anything, #Name
+@End
+(rough yes)
+@NullResponse @AddContact3
+@Contact3 Hi there #Smile @CustomMode(#pvDontWantTo,Goto,not want rough)
+@Flag(pvKneeling) I've already got #SubName on his knees, just as you like it, #Contact3 #Smile @Goto(on yr fucking knees)
+I think you're in for a rough ride, #PetName #Grin
+@Contact3 Get down on your fucking knees, #SubName @TempFlag(pvKneeling)
+Like I said... #Laugh
+(on yr fucking knees)
+@Contact3 It's about time your slave was treated to some proper domination, #ShortName
+You're starting to sound like a true dominatrix #EmoteWink 
+@Contact3 I wouldn't know about that, but I do know I like to torment worms like #SubName
+@Flag(pvBallsTied) By the way, his balls are tied up already as well @Goto(tie yr fucking balls)
+@NotFlag(pthevShoelace) @NullResponse @Goto(no shoelace)
+(back from no shoelace)
+@Contact3 Wrap the shoelace around your balls a few times and tie them off tight, slave
+(tie yr fucking balls)
+You're not going to hurt my #PetName too much are you?
+@Contact3 Depends on what you mean by "too much" #Laugh
+@Contact3 And since when did you get so protective of the little worm??
+I didn't, I just...
+@Contact3 You're just hoping I <i>will</i> hurt him "too much", aren't you? #Lol
+Well, like you said, define "too much"...
+But yeah, I'm hoping to see some serious agony #Grin
+You always take it just bit further than I would, and I love that...
+@Contact3 Just showing you how it's done right #EmoteWink
+@Contact3 Now, #SubName should be about done tying those pathetic #Balls
+@Contact3 Start tapping your balls with three fingers at a pace of 1 tap every 3 seconds, #SubName
+@Contact3 I would start softly if I were you, or you'll get into trouble later
+Somehow I get the feeling #SubName is in trouble already #Laugh
+@Flag(pvSpoon) Oh by the way, you should probably have the wooden spoon nearby, #PetName
+Those poor #Balls are in for a rough ride...
+@Contact3 Tap a little harder now, you should start to feel uncomfortable now @Wait(#Random(10,20))
+@Contact3 Again, tap a little harder... that discomfort should start to turn into pain now @Wait(#Random(10,20))
+@Contact3 Stop!
+@Contact3 Now scurry along and go get a wooden spoon or ruler
+@Flag(pvSpoon) See? #EmoteHappy @Goto(there is a spoon)
+I'm not sure that #SubName has one around, #Contact3
+Do you have one, #Name?
+[yes] Oh good #Grin @Goto(there is a spoon)
+[no] @Contact3 That won't do at all, slave
+@DifferentAnswer #YesOrNo
+@Contact3 I do not take "no" for an answer @Goto(not want rough)
+@End
+(there is a spoon)
+@Contact3 If you need to get it from somewhere, you will stay on your knees, slave
+@Contact3 Crawl and come back, but do it quickly
+#Contact3 does not like it when she has to wait, #SubName
+@Contact3 I don't know why people keep saying that about me...
+@Contact3 Yeah, I have little patience with weak little boys, but I'm not generally like that, am I?
+Well, a little bit... I still love you though, #Contact3 #Smile
+@Contact3 Okay I have low tolerance for bullshit, that I will admit #Smile
+@Contact3 #SubName, our weak little pain slut, you are going to smack your #Balls now
+@Contact3 So spread your legs a little further apart, and start with 10 smacks
+@Contact3 You will say "thank you miss #Contact3" when you're done
+[thank you miss] @Contact3 You're welcome #Laugh
+@DifferentAnswer @Contact3 What do you say?
+@Contact3 Let's make sure that #Cock is still hard as a rock, get to the edge @EdgeNoHold
+@Contact3 Back away from the edge now, #Name
+@Contact3 Get down on all fours
+@Contact3 Spank your ass with the wooden spoon
+@Contact3 25 smacks left and 25 right, so that's 50 in total
+@Contact3 And don't you fucking hold back, do it HARD
+@Contact3 I'm waiting, #PetName
+[thank you miss] @Contact3 Good boy
+@DifferentAnswer @Contact3 @RT(What was that,What do you say,What,Excuse me)?
+Your ass is getting all red, #PetName #Laugh
+@Contact3 Hands off the floor, get to the edge @EdgeNoHold
+#LetTheEdgeFade
+Not enough, edge for us again #Name @EdgeHold
+#LetTheEdgeFade @CheckFlag(pvMod40SkipRuinTalk,skip the ruin talk)
+@NullResponse @CheckFlag(pvEndRuinByContact3,skip the ruin talk)
+@Contact3 Do you think we can ruin him by slapping his #Balls right now? @Timeout(5,slap ruin)
+[yes] @Contact3 Shut up, I didn't ask you anything, bitch
+@AcceptAnswer @Contact3 Shut up, I didn't ask you anything, bitch
+(slap ruin)
+I don't know, maybe... he does seem pretty close at the moment
+@Contact3 We'll try that some other time, alright?
+Sounds like an interesting experiment #Grin @SetFlag(pvEndRuinByContact3)
+@Contact3 Right now let's try to slap that edge out of that #Cock @CBTCock
+(skip the ruin talk)
+@Contact3 Pick up that wooden spoon again, #Name
+@Contact3 Smack your #Balls 10 times, then thank me properly
+[thank you] @Contact3 Good boy
+@DifferentAnswer @Contact3 @RT(What was that,What do you say,What,Excuse me)?
+Mmm I think he's had enough for now, #Contact3 @CustomMode(#pvDontWantTo,Normal)
+@Contact3 Okay, I'll leave him to you then #Smile
+@Contact3 But remember, don't go easy on #SubName - make him earn the pleasure he gets
+What, you're <i>my</i> mistress now? #Lol
+@Contact3 Sorry, I know I have a tendency to give orders... #Smile
+@Contact3 Talk to you later... enjoy your bruised balls, #SubName #Grin @RemoveContact3
+Aww, my poor #PetName has some bruised blue balls...
+You can get off your knees now @DeleteFlag(pvKneeling)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_UnTieMyBalls.txt)
+Rub those sore #Balls a little bit, massage the pain away 
+At least you don't have to deal with that kind of treatment all the time
+I guess I should be a bit nicer to you now... @MoodUp
+But I don't know if if I feel like being nice #Laugh
+Stop rubbing your #Balls
+@End
+(no shoelace)
+@Contact3 We're going to need some tools... simple household items...
+@Contact3 Go get a shoelace, #SubName, you can do that for me right?
+[yes] @Contact3 Good, let me know when you're ready @LoopAnswer
+[no] @Contact3 Oh well... @Goto(not want rough)
+[ready] @NullResponse
+@DifferentAnswer @Contact3 Yes or no??
+@Contact3 Pay attention, #DomName - you might learn a thing or two #Smile @SetFlag(pthevShoelace) @Goto(back from no shoelace)
+@End
+(not want rough)
+@NullResponse @Interrupt(pvIn_NotWantRoughContact3)
+@End
+(pvMod40A)
+#Edge @Edge @MultipleEdges(2,5,50)
+#LetTheEdgeFade @DeleteFlag(pvMod40A)
+@End

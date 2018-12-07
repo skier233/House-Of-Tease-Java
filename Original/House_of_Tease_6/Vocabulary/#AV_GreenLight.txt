@@ -1,0 +1,8 @@
+@Flag(AV_Know_00) <Font color="green">GREEN LIGHT</Font> @ShowImage[av_imagens\02\*.jpg] 
+@Flag(AV_Know_01) <Font color="green">GREEN LIGHT</Font> @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_12) <Font color="green">GREEN LIGHT</Font> @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_03) <Font color="green">GREEN LIGHT</Font> @ShowImage[av_imagens\04\*.jpg] 
+GREEN LIGHT @ShowImage[av_imagens\gifs\*.gif] 
+GREEN LIGHT @ShowImage[av_imagens\Girls\*.jpg] 
+GREEN LIGHT @ShowFemdomImage
+GREEN LIGHT @ShowSoftcoreImage

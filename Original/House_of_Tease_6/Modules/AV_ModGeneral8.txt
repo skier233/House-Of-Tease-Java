@@ -1,0 +1,397 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral8_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral8]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral8_NotFirstTime)
+(AV_ModGeneral8_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral8]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral8]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral8]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral8]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral8]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral8]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral8]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral8]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral8]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral8]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral8]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral8]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral8]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral8]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral8]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral8]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral8]=[AV_ModGeneral8]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral8]=[AV_ModGeneral8]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral8]=[AV_ModGeneral8]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral8]=[AV_ModGeneral8]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral8]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+Do you want to be a good boy for me #GeneralTime?
+I know it's hard to be so vulnerable, but the fact you trust me to take care of you means the world to me.
+I wouldn't want to do this with anyone else either, #Name.
+I promise to take good care of you, and keep you safe.
+Listen up...
+I want you to follow my instructions very carefully.
+@NotFlag(av_fetish_pain) @NullResponse @Goto(AVSKIPain1)
+@NotFlag(AV_PinDone) Go fetch me a spoon, shoelace and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+@Flag(av_fetish_pain) You are going to put a clothespin on each nipple.  @Wait(15)
+@Flag(av_fetish_pain) Then clip a 2nd clothespin onto 1 leaf end of each clothespin. @Wait(15)
+@Flag(av_fetish_pain) You will twist the clothespins on your nipples, hold for 10 seconds, then release. @Wait(15)
+ok...on your feet, #Slave. @TempFlag(av_intera_005)
+It's time for another punishment session. @Chance50(AVRPu48)
+This time, you will take your paddle/spoon
+and swat your naughty behind following the beats
+Ready?
+Go @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+#GoodBoy @Goto(Fimrnd)
+(AVRPu48)
+Spread your ass cheeks apart. 
+Wider! 
+Now hold that until I say otherwise!
+Take your paddle/spoon, and whip each ass cheek 50 times! @Wait(20)
+There, nice and bright red, just as it should be!
+(Fimrnd)
+Are your nipples sensitive?
+You're nipples are so hard for me. Does that mean you're enjoying yourself?
+You are such a naughty boy! Mental note taken, nipple torture are good.
+That's right, you're my naughty boy.
+(AVSKIPain1)
+#TieYourBalls
+@Flag(av_fetish_gag) #BallGagOn
+#StartStroking
+I can feel your balls getting heavy with cum. 
+It's all mine, do you understand? 
+Every last drop.
+#Edge @Edge
+I never claimed to be a saint. 
+In fact what I'm about to do to you is the total opposite of saintly.
+#KneelForMe
+@NotFlag(av_fetish_pain) @NullResponse @Goto(AVSKIPain2)
+@CBTBalls
+Do you like the view down there?
+@CBTBalls
+@Flag(AV_Know_17) #Var[AV_Persona09]
+@NotFlag(AV_Know_17) Good boy
+(AVSKIPain2)
+I knew you would follow instructions.
+#StartStroking
+Move your hand over the head, and rub the base with your thumb. 
+That's what my tongue would be doing to you #SubName.
+Mmm, wouldn't it be so much better in my mouth?
+Your other hand, I want you to pull it round the bottom to cup at your balls
+palming them
+kneading them and massaging them 
+#Edge @Edge
+#LetTheEdgeFade
+@NotFlag(av_fetish_pain) @NullResponse @Goto(AVSKIPain3)
+Now I want #Random(2, 4) Clothespins on your balls @Wait(20)
+(AVSKIPain3)
+I could ruin you at any moment, I could tell you to stop and leave you frustrated, but I won't.
+I want your cock to explode for me, just not quite yet...
+I love to watch you do that. 
+You're like a toy that can play with itself... **#Laugh**
+#Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+#SitDown
+@NotFlag(av_fetish_pain) @NullResponse @Goto(AVSKIPain4)
+And remove everything
+(AVSKIPain4)
+@Flag(AV_Know_17) #Var[AV_Persona09]
+@NotFlag(AV_Know_17) Good boy
+@NullResponse @DeleteFlag(av_intera_005)
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+Don't you wish you were here to play with me? 
+That softness, that weight would feel so good in your hands, wouldn't it? #EmoteMoan
+sit on your hands for me. 
+What would you do if you were here with me? 
+Would you just gently rub the outside of my pussy with your flat hand? 
+Would you run a finger up...and down my slit? 
+Or would you thrust your cock deep inside of me and savor my muscles squeezing your every inch? #EmoteMoan
+Do you want to stroke yourself for me? 
+Are you ready for that?
+Tell me how badly that cock is crying out to be touched. @Wait(15)
+That's it. Good boy.
+#StartStroking
+That's it. Get yourself all worked up. 
+Imagine my hand lightly going up and down. 
+Up and down. 
+Give the head some attention. 
+Take your thumb and forefinger and pretend my lips are wrapped around it. 
+Squeeze. 
+Work your thumb over the tip. 
+#StopStroking
+Your balls are just bursting for their own orgasm, aren't they? 
+Well it's not time for that yet. 
+@NotFlag(AV_LikeAnal) @NullResponse @Goto(AVSKIPAn1)
+Go get some lube @Wait(20)
+What I want you to do now is lube up your fingers. 
+Oh, you're just so excited, aren't you? 
+It's not the orgasm you wanted, but you were just dying to play with that prostate, weren't you? 
+Get yourself all nice and lubed up. 
+Mm-hm. There you go. 
+Bring your legs up. 
+Put your knees up near your shoulders and present your ass to me.
+@Flag(AV_Know_17) #Var[AV_Persona09]
+@NotFlag(AV_Know_17) Good boy
+Put one hand on your cock and stroke slowly. @PlayAudio[tease\cStroke.mp3] 
+SLOWLY. 
+With your other hand, trace little circles around your asshole. 
+Rub it lightly. 
+Tickle it. 
+Are you ready, slave? 
+Put your fingers in your ass
+just a little bit, not even to the first knuckle. 
+Hold them there for a second. 
+Are you still playing with your cock? 
+Good. Now take your fingers out. 
+Rub them up to your balls and back down to your asshole
+just like I would tease my slit. 
+Massage your prostate from the outside.
+Ready to put your fingers back in? 
+Push them in slowly, just halfway and stop. 
+Hold them there. 
+Keep those muscles relaxed. 
+With a very light grip, on your cock, I want you to stroke quickly. 
+Very light and very fast. 
+Feel your ass wanting to tense and pull your fingers in. 
+But don't let it. 
+Think about how good it would feel to press on your g-spot right now. 
+But don't do it. 
+Edge for me. @Edge @PlayAudio[tease\cEdge.mp3] 
+I want you to plunge your fingers the rest of the way into your ass 
+and press against your prostate. 
+You'd better not cum from it.
+All the way in.
+Press your fingers up into that spot you find so pleasurable. 
+Don't even think about cumming. 
+Don't think of your fingers pushing a delicious load up through your cock.
+Fuck yourself. 
+Let your fingers relax and then press them again. 
+Relax and press. 
+Don't think about me being there with a strap-on. 
+Don't think about my warm breath on your neck as I whisper in your ear, begging for your cum.
+Keep fucking yourself. 
+Moan for me
+I wish I could feel your cock twitching in my hand as I fuck you.
+Now rub the top of your cock. 
+No grabbing, no gripping, just a flat palm and flat fingers. 
+Doesn't that feel good? 
+That slippery wetness combined with the dull heat as your press against your g-spot? 
+If I were there, it would be my wetness. 
+rub it faster. 
+Can you cum like this? Is it enough? 
+Or is it just enough to keep you on edge and never allow you to cum?
+It doesn't matter because you're going to stop touching your cock. 
+Hands off. 
+Take your fingers out of your ass.
+Stroke yourself. @PlayAudio[tease\cStroke.mp3] 
+Fast. 
+Faster. 
+Are you going to be a good boy for your mistress?
+#Edge @Edge
+Now fuck yourself. 
+Press on that prostate. 
+Massage that button just like you'd want me to.
+Moan. I want to hear your desire. 
+I want you pleading to cum.
+Fingers out, and stroke yourself again. @PlayAudio[tease\cStroke.mp3] 
+That load is just building up, isn't it? 
+Get to the edge and ride it. @EdgeHold @PlayAudio[tease\cEdge.mp3] 
+Fuck yourself again, and keep that cock ready. 
+If I were to tell you to cum right now, could you? 
+You see, boy, this is what it feels like to give your control to me. 
+The line between being a good boy and being disobedient is razor thin, and I want you tiptoeing it. 
+Because it entertains me. 
+You entertain me. 
+Stop Fucking
+Good boy.
+Now get yourself cleaned up @Wait(20)
+(AVSKIPAn1)
+Well, You are my slave now. 
+You should be thankful.
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+I know that when all is said and done
+when you've squeezed the last few drops of cum out of your #Cock
+you tend to feel pretty darn miserable. 
+But...the grass is always greener. 
+So I want you to think about something as you stroke your cock for me... @PlayAudio[tease\cStroke.mp3] 
+Given the chance, would you give this up? 
+If you could take a pill to switch off your arousal to femdom
+@Flag(av_fetish_rough) to humiliation
+to the fact that you're so utterly addicted, would you swallow it? 
+No more fetish obsessions. 
+Just a regular guy, enjoying vanilla porn in healthy doses. 
+Do you want that? 
+Tell me out loud as you pump. 
+Admit the truth to me as I mindfuck you deeper into addiction. 
+Allow me to show you how little "real life" satisfies you. 
+You need this. 
+It's not just that you want it, that you desperately crave my control. 
+You NEED this. 
+@Flag(av_fetish_rough) You were born inferior. 
+@Flag(av_fetish_rough) You were destined to be a loser. 
+@Flag(av_fetish_rough) As miserable as you might feel after the cum spurts out of your cock
+@Flag(av_fetish_rough) it's nothing compared to the misery of your every day life...
+@Flag(av_fetish_rough) exactly why you come here in the first place. 
+#StopStroking
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+Here I am, looking at you. 
+Thinking about what we're going to do... 
+Hmm... 
+It's one thing to daydream about this while I'm pretending to pay attention in meetings
+to imagine you obeying me
+imagine making you do things you've never done before
+imagine you cumming harder than I've ever seen you cum before. 
+But it's a little different actually being here, with you actually lying there naked
+waiting for me to tell you what to do. 
+I have to admit that I'm not completely sure what I'll have you do
+how far I'll push you. 
+But I am really fucking horny.
+Too horny for foreplay. 
+#StartStroking
+Bend your knees a little more for me. 
+Keep stroking. 
+Open your mouth, just a tiny bit. 
+Good. Very good.
+this isn't about just standing here watching you jack off. 
+I mean, I'm enjoying it, but there are MANY other things I want to see you do before we're done. 
+I do need you to show me you know I'm in charge. 
+I have big plans for you. And I don't want you backing out on me, spoiling my fun. 
+@Flag(av_fetish_cei) Open your mouth. Wider. Show me your tongue. Mmmmm. 
+Keep stroking. 
+Show me some pre-cum. I want to see some. 
+Squeeze it out. 
+There you go. Good! 
+@NotFlag(av_fetish_cei) @NullResponse @Goto(SkipCEI4)
+Now take your other hand, the one you aren't stroking with, and get a little bit on your finger tip. 
+Now put that finger tip on the tip of your tongue. 
+I told you I'd be pushing you! 
+Go ahead, just a tiny taste, for me. 
+Not so bad, right? A little sweet? 
+Now, do it again. 
+Just the tip of your finger, just the tip of your tongue. 
+I bet you've never done this before! 
+I've never seen a guy do it before either. 
+It's . . . sexy.
+Now put some more on your finger and put your finger all the way in your mouth. 
+Suck on your finger
+I want to go further. 
+You're eating your own cum. 
+For me. 
+Holy shit. 
+My heels feel so tall right now...
+(SkipCEI4)
+#StopStroking
+Stretch your legs out. 
+Stretch your arms out. 
+Show me what I'm working with. 
+Let me use my imagination. 
+#KneelForMe
+Arms out. 
+Mouth open. 
+Turn away from me so I can see your ass. 
+Mmm... 
+Reach back with both hands and spread your ass cheeks apart.
+Show me everything. 
+Mmm... 
+I want to see that ass. 
+@Flag(AV_LikeAnal) @NullResponse @Goto(Anal59)
+@NullResponse  @NullResponse @Goto(SkipAnal59)
+(Anal59)
+I want to see that ass...fucked.
+Yes. Bend over, face down, hands holding your ass open. 
+Yes. That's good - very good. 
+I think that I am going to cum while watching you fuck your ass for me. #Emote. 
+Put some lube on the middle finger 
+Hmm. And the ring finger. 
+More lube. 
+I said I was going to cum while watching you fuck your ass, not while watching you finger your ass. 
+More. Good. 
+I'm going to cum so hard, trust me.
+Oh, and no touching your cock. 
+I'm cumming, not you.
+Now reach back and slide your lubed up fingers into your ass. 
+Do it slowly, I don't want you to hurt yourself. 
+Maybe just go in a little ways, then come out, then back in a little bit. 
+Up to your second knuckle is good. 
+For now. In and out, in and out. 
+In a little deeper, out not quite as far, in and out, in and out. 
+In a little deeper. 
+Hold it there. 
+Out a little, In more, out, in, in, in all the way. 
+As far as you can. 
+Is that as far as they go? 
+Sit back and sit down on your hand. 
+I want to see your fingers all the way up in your ass. 
+Oh yes... sit back all the way. 
+Now just hold that position. 
+If you can feel your prostate feel free to wiggle your fingers a little bit, anything that feels good. 
+Right now this is all about me cumming, but that doesn't mean you can enjoy yourself too! 
+Of course, no touching your cock!
+Ok, now keep your hand on the chair and sit up and down a little. 
+Just enough you feel your fingers slide out and back in. 
+Do it again. 
+And again. 
+That's what an ass looks like when it is getting fucked. 
+Keep going. 
+Oh god yes. 
+Keep going. 
+Keep going. 
+Stop
+#HolyShit That was insane.
+(SkipAnal59)
+I hope you enjoyed that a hundredth as much as I did! 
+You're amazing! Best toy ever! 
+I'm going to throw out my vibrator and just ask you to perform for me whenever I want to cum. 
+Ok. Wow.
+@End

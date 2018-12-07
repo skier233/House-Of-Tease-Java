@@ -1,0 +1,10 @@
+@Stroking #StopStroking @StopStroking
+@RT(Go ahead and,You should,I want you to,Why don't you,You're going to) tie up those #Balls @RT(for me,right now,now), #Name
+@RT(So go get a,Now get out that,That is why you have that) shoelace
+Make it tight, but not too tight @Wait(10)
+Ready?
+[yes,ready,done] Good
+[no] I'll wait, let me know when you're done @LoopAnswer
+@DifferentAnswer Are you ready?
+@NullResponse @TempFlag(pvBallsTied)
+@End

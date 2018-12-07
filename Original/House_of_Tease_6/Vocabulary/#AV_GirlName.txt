@@ -1,0 +1,5 @@
+@NotFlag(AV_GirlErina, AV_GirlKris, AV_GirlMandy, AV_GirlNelly) Carolinne
+@NotFlag(AV_GirlCarolinne, AV_GirlKris, AV_GirlMandy, AV_GirlNelly) Erina
+@NotFlag(AV_GirlCarolinne, AV_GirlErina, AV_GirlMandy, AV_GirlNelly) Kris
+@NotFlag(AV_GirlCarolinne, AV_GirlErina, AV_GirlKris, AV_GirlNelly) Mandy
+@NotFlag(AV_GirlCarolinne, AV_GirlErina, AV_GirlKris, AV_GirlMandy) Nelly

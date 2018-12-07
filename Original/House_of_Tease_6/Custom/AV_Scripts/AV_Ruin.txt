@@ -1,0 +1,43 @@
+#SubName...
+It's time to take all that ache you've been building up for me
+And make sure it stays trapped in that #Cock with the most frustrating ruined orgasm of your life #Grin
+I want you to start stroking
+Fast and furious, bring yourself to the edge
+And when you're as close as you can possibly fucking stand it
+Tell me you're close #Grin @EdgeNoHold
+Did you <i>really</i> think I was #Gonna let you off that easy?
+Oh no #PetName
+You're #Gonna suffer edge after edge after edge
+Until <i>I</i> decide you're ready to completely ruin #Grin
+@NullResponse @Goto(ru01, ru02, ru03)
+(ru01)
+Get to the edge again @EdgeNoHold
+#LetTheEdgeFade
+Oh, you know what would be fucking cruel?
+Making you edge a few times and making you hold it #Grin
+#EmoteMoan That sounds like too much fun not to do @Goto(ru04)
+(ru02)
+Get close for me #SubName @EdgeHold
+#LetTheEdgeFade
+Pretty soon you're #Gonna beg to ruin you just to stop the torture #Lol
+It's not #Gonna happen #PetName @Goto(ru04)
+(ru03)
+Edge @EdgeHold
+#LetTheEdgeFade
+I'm finding out so much about myself #GeneralTime #PetName
+I love the agony you're in
+The anticipation you must be feeling
+Scared about how much it's #Gonna hurt when I ruin you
+Oh #SubName
+It's #Gonna hurt you <i>bad</i> @Goto(ru04)
+(ru04)
+Get to the edge @EdgeToRuinHoldSecret
+[ruined, did, fuck] #EmoteMoan
+[no] I didn't give you a choice #PetName, RUIN it right now! @LoopAnswer
+[please] I said RUIN it @LoopAnswer
+@AcceptAnswer #EmoteMoan
+Just let all that cum dribble from your #Cock @UpdateRuined
+Focus on how much it hurts when it has to force its own way out like that @DeleteFlag(AV_RuinHorny)
+How good it could have felt if I had just given you a few more strokes
+#RelaxAndBreathe @Wait(20)
+@End

@@ -1,0 +1,7 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+What did you want to ask me? @Wait(12)
+Let's move on, #Name
+@End

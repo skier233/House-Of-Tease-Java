@@ -1,0 +1,27 @@
+@NullResponse @DeleteFlag(pvWWC)
+@NullResponse @CheckFlag(pthevSissyYES,already knew that)
+@NullResponse @CheckFlag(pthevSissyNO,thought you did not)
+So #PetName...
+You like to dress up like a girl?
+[yes] We're <i>definitely</i> going to do that then #Laugh
+[no]  Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+You should have some lingerie and make up ready, #SubName @SetFlag(pthevSissyYES)
+#StartStroking @StartStroking
+@End
+(already knew that)
+Yes I know you do, #PetName
+#StartStroking @StartStroking
+@End
+(thought you did not)
+Oh really... so you like to dress up like a girl now?
+[yes] We're <i>definitely</i> going to do that someday then #Laugh
+[no]  Oh... @Goto(mis understood)
+@DifferentAnswer #YesOrNo
+You should have some lingerie and make up ready, #SubName @DeleteFlag(pthevSissyNO) @SetFlag(pthevSissyYES)
+#StartStroking @StartStroking
+@End
+(mis understood)
+I must have misunderstood then
+#StartStroking @StartStroking
+@End

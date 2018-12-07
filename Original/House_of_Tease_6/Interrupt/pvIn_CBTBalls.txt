@@ -1,0 +1,11 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+Let's @RT(pay some attention to,focus on) those little #Balls @CheckFlag(pvBallsTied,already tied)
+@Flag(pthevShoelace) @NullResponse @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+(already tied)
+@NotFlag(pvKneeling) Get down on your knees, #Name @TempFlag(pvKneeling)
+@RT(I do enjoy,I love,There are few things I enjoy more than,I always have so much fun,I do really REALLY like) making those #Balls hurt #Grin @CBTBalls
+They @RT(probably,must) feel @RT(pretty sore,a bit bruised) now #Grin
+@End

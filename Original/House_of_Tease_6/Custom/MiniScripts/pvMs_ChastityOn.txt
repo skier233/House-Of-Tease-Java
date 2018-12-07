@@ -1,0 +1,8 @@
+Put on your chastity device, #Name
+Let me know when you're ready to continue
+[ready,done,finished] Good
+[yes] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Let me know when you're ready
+Isn't it much better when you're in a cage? #Smile @ChastityOn
+@End

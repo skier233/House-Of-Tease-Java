@@ -1,0 +1,169 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link3_NotFirstTime)
+@NullResponse @SetVar[AV_Link3]=[0] 
+@NullResponse @SetFlag(AV_Link3_NotFirstTime)
+(AV_Link3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link3]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link3]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link3]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link3]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link3]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link3]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link3]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link3]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link3]=[AV_Link3]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link3]=[AV_Link3]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link3]=[AV_Link3]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link3]=[AV_Link3]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+#1_ST_Tease @RapidCodeOn
+@NullResponse @SetVar[AV_Link3]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Edge, stop, edge, stop.
+#Edge @Edge
+#LetTheEdgeFade
+You must be in heaven.
+#Edge @Edge
+#LetTheEdgeFade
+Build up that wonderful sexual frustration for me.
+Good thing you #Love the feeling of that sexual frustration so much.
+@RandomText(You still have a ways to go #PetName, Imagine how frustrated you are going to start to #Feel)
+#StartStroking @StartStroking
+@End
+(Link2)
+Could you go through all this and then stop and put your #Cock back in your pants?
+[no] If that's what I tell you to do, then you'd better do it.  @Goto(mau1)
+[yes] #Good  @Goto(bom1)
+@DifferentAnswer Yes or no #SubName?
+(bom1)
+@NullResponse @MoodUp
+@NullResponse @Goto(fim1)
+(mau1)
+@NullResponse @MoodDown
+(fim1)
+@NullResponse @CheckFlag(AV_Know_14)
+But, just in case...
+If I need, what would be a better way to punish you? @InputVar[AV_Persona15]
+Hmm @SetFlag(AV_Know_14)
+#StartStroking @StartStroking
+@End
+(AV_Know_14)
+#StartStroking @StartStroking
+@End
+(Link3)
+You should be thanking me.  
+@AllowsOrgasm(Never) When deny your orgasm,
+@AllowsOrgasm(Often, Sometimes) If I deny your orgasm,
+@AllowsOrgasm(Always) When I let you cum
+@AllowsOrgasm(Often, Sometimes, Never) You at least get to enjoy some sensation riding the edge.
+@AllowsOrgasm(Always) Cumming will feel so good after all these edges
+Are you having fun yet?
+[yes]Ooooh I'll make sure to use it against you 
+[no]That's too bad @Goto(pula4)
+@DifferentAnswer yes or no?
+@NullResponse @MoodUp
+I know I am...
+(pula4)
+I love #Teasing your orgasm...
+Holding the power to let you release in my hands...
+You can't even #Stroke it again until I say the magic words...
+You desperately want me to tell you you can...
+while you feel your dick start to get softer...and softer... @FollowUp(and softer #Lol)
+Now tell me...do you think you deserve to cum?
+[yes]@Goto(next1)
+[no]@Goto(next2)
+@DifferentAnswer yes or no?
+(next1)
+Do you think you've been #Submissive enough to earn your release from this agony??
+[yes]Ooh that's really nice! I'm very pleased about that #Emote
+[no]Well at least I tried #lol @Goto(pula6)
+@DifferentAnswer yes or no?
+@NullResponse @MoodUp
+(pula6)
+#StartStroking @StartStroking
+@End
+(next2)
+Do you don't think you've been #Submissive enough to earn your release from this agony??
+[yes]Ooh that's really nice! I'm very pleased about that #Emote 
+[no]Well at least I tried #lol  @Goto(pula7)
+@DifferentAnswer yes or no?
+@NullResponse @MoodUp
+(pula7)
+#StartStroking @StartStroking 
+@End
+(Link4)
+@Flag(AV_DommeMistress)  @Goto(pula10)
+#PetName
+Do you want something else?
+Something harsh, cruel.
+Someone who will put you in your fucking place. A Mistress perhaps.
+Is that what you want? To be told how worthless and pathetic you are? @CBT
+@RandomText(Made to get on your knees to serve and obey, To bring you lips to your Goddess' feet, Your tongue worshipping my #Pussy as often as I wish) @ShowTaggedImage @TagCunnilingus
+@RandomText(Made to pleasure me with no chance of getting any satisfaction yourself, You want that little #Cock to be locked away, withered and useless and you want Mistress to be the one to hold the key)  @ShowTaggedImage @TagCunnilingus
+#StartStroking @StartStroking
+@End
+(pula10)
+That #Cock is no longer yours, it's my property 
+and I'm the only one that decides when my property needs to be touched... 
+Look at you, you're stiffening up at my mere mention of it... 
+Cup those #Balls with your left hand... Are they full for your Mistress? @ResponseYes(Blue Balls) 
+Start playing with them, roll them in your palm. @Chance50(AVRND01)
+@RandomText(How's my cock doing? Is it as hard as it gets?, How bad do you want to touch it right now?)
+(AVRND01)
+Take your right hand and wrap it around the shaft, no jerking! 
+Just keep it still around that meat and keep playing with those balls. 
+You're really desperate to stroke it now, aren't you? 
+#StartStroking @StartStroking
+@End

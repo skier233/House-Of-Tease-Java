@@ -1,0 +1,7 @@
+Do you think you get to cum #PetName? @Timeout(8, NoRespo)
+[yes] #Lol, maybe... 
+[no] Thats right #SubName
+@AcceptAnswer Yes or no #SubName?
+(NoRespo)
+@NullResponse @TempFlag(AV_0RND17)
+@End

@@ -1,0 +1,63 @@
+@NullResponse @CheckFlag(pvCEITpart2)
+(pvCEITpart1)
+Is there any precum dripping from your #Cock? @SetFlag(pvCEITpart2)
+[yes] Nice #Smile @Goto(lick it up)
+[no] Then you're not #Horny enough, #Name
+@DifferentAnswer #YesOrNo
+#Edge @EdgeHold @MultipleEdges(3,6)
+<i>Now</i> do you have any precum dripping?
+[yes] Works every time #Grin @Goto(lick it up)
+[no] Really?, that's odd #EmoteRandom
+@DifferentAnswer #YesOrNo
+#Edge @EdgeHold @MultipleEdges(5,4)
+What about now, any precum?
+[yes] I knew it would work eventually #Grin @Goto(lick it up)
+[no] Really? That's odd #EmoteRandom
+@DifferentAnswer #YesOrNo
+I guess you need to do a lot more stroking #GeneralTime
+@End
+(lick it up)
+Scoop up that precum with your index finger... @CustomMode(#pvDontWantTo,Goto,do not want)
+And lick it up #Grin
+Do it, #PetName
+Lick up all that salty sticky precum @Wait(8)
+Did you do it? @CustomMode(#pvDontWantTo,Normal)
+[yes] Hmmm #Grin
+[no] Oh... @Goto(do not want)
+@DifferentAnswer #YesOrNo
+I think in time you'll learn to love that taste, #SubName
+And before you know it you'll be swallowing your cum like a good slut #Smile
+@End
+(pvCEITpart2)
+Check this out... #EmoteMoan @ShowBlowjobImage @LockImages @DeleteFlag(pvCEITpart2)
+#Edge @EdgeHold(4,7)
+#LetTheEdgeFade
+I think it would be really hot if you'd eat your cum for me, #SubName @UnlockImages @CustomMode(#pvDontWantTo,Goto,do not want)
+I wasn't sure at first, but #Contact3 is right
+Subs should swallow #Smile
+You may think it's a big deal
+But it really isn't
+Lots of women swallow @ShowBlowjobImage
+How do you think all these blowjobs end...? @ShowBlowjobImage
+Most of them end with a thick load flowing down someone's throat @ShowBlowjobImage
+Look at that girl, you know she's going to do it @ShowBlowjobImage
+And so is she... @ShowBlowjobImage
+Lots of men swallow it too, especially submissive ones #Grin
+And so should you, #PetName
+Will you swallow your cum for me? @CustomMode(#pvDontWantTo,Normal)
+[yes] Good
+[no] Hmmm @Goto(do not want)
+@DifferentAnswer #YesOrNo
+In time you'll learn to love it, #SubName @DeleteFlag(pthevCEI_No) @SetFlag(av_fetish_cei) @DeleteFlag(pthevCEITraining)
+And even if you won't
+Remember that you do it to make me happy #Smile
+Now, we're going to build a big juicy load for you to swallow... @SetFlag(pvSwallowNextLoad)
+#Edge @Edge
+#LetTheEdgeFade
+I can't wait for the next time I let you cum
+And I bet you can't either #Lol
+@End
+(do not want)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_NotWantCEItraining.txt)
+@NullResponse
+@End

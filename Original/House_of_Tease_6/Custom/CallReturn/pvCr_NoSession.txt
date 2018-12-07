@@ -1,0 +1,7 @@
+@NullResponse @CheckDate(pvNoSession,start session)
+@SystemMessage #DomName is offline @SetFlag(pvNoSessionTried)
+@EndTease
+@End
+(start session)
+@NullResponse
+@End

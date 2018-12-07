@@ -1,0 +1,136 @@
+@NullResponse @CheckFlag(pvWantToCumDidRuin)
+@NullResponse @CheckFlag(pvWantToCumDidOrgasm)
+Aww poor @RT(helpless,little,needy,frustrated,denied) #PetName #Laugh
+You've been begging me to let you cum so much #GeneralTime @BadMood(punishment)
+@NullResponse @GotoDommeApathy
+(ApathyLevel1)
+@NullResponse @Chance90(orgasm)
+@NullResponse @Chance80(ruin)
+@NullResponse @Goto(punishment)
+@End
+(ApathyLevel2)
+@NullResponse @Chance75(orgasm)
+@NullResponse @Chance70(ruin)
+@NullResponse @Goto(punishment)
+@End
+(ApathyLevel3)
+@NullResponse @Chance50(orgasm)
+@NullResponse @Chance60(ruin)
+@NullResponse @Goto(punishment)
+@End
+(ApathyLevel4)
+@NullResponse @Chance25(orgasm)
+@NullResponse @Chance50(ruin)
+@NullResponse @Goto(punishment)
+(ApathyLevel5)
+@NullResponse @Chance10(orgasm)
+@NullResponse @Chance40(ruin)
+@NullResponse @Goto(punishment)
+@End
+-
+(punishment)
+But I'm just not in the mood for it
+So I'm not going to let you cum at all #GeneralTime @RestrictOrgasm
+And I'm going to punish you for even asking @Interrupt(pvInt_Punishment)
+@End
+(orgasm)
+And I want to be @RT(kind,nice,merciful) to you #GeneralTime #Smile @Chance50(kind mindfuck)
+But #Name...
+I @RT(doubt that,wonder if) this is really what you want...
+You like this feeling of intense aching don't you?
+And you want to suffer for me, right?
+Maybe the truth is that you don't really want it to end, #PetName
+Because you want to keep feeling this deliciously @RT(horny,frustrated,aroused)
+And once you cum... that ends 
+So I want you to think about it long and hard, #Name
+Get to the edge for me @EdgeHold
+#LetTheEdgeFade
+I'm going to ask you one last time
+So be honest to yourself and to me, #PetName
+Do you really want to cum right now?
+[yes] Okay then
+[no] Just as I thought #Laugh @Goto(if you do not want to,maybe later then)
+@DifferentAnswer #YesorNo
+On your knees #PetName
+#Edge @Edge(Orgasm,Hold)
+Hmmm yes #Smile @SetVar[pthevOrgasmLast]=[1]
+I hope you don't regret that orgasm now... @TempFlag(pvWantToCumDidOrgasm)
+It's so much more fun when you're horny and desperate #Laugh
+Maybe we should start building up that ache in your #Balls right away
+Do you want continue?
+[yes] Good #PetName #Smile @Goto(yes want more)
+[no] Aww too bad
+@DifferentAnswer #YesOrNo
+Don't stay away too long #PetName #EmoteWink @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(kind mindfuck)
+So...
+On your knees #PetName
+#Edge @Edge(Orgasm,Hold)
+Hmmm yes #Smile @SetVar[pthevOrgasmLast]=[1]
+I hope you don't regret that orgasm now... @TempFlag(pvWantToCumDidOrgasm)
+It's so much more fun when you're horny and desperate #Laugh
+Maybe we should start building up that ache in your #Balls right away
+Do you want continue?
+[yes] Good #PetName #Smile @Goto(yes want more)
+[no] Aww too bad
+@DifferentAnswer #YesOrNo
+Don't stay away too long #PetName #EmoteWink @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(yes want more)
+Don't get your hopes up though, you're not getting to cum anymore #GeneralTime @RestrictOrgasm @AddTeaseTime(10 minutes,30 minutes)
+@End
+(ruin)
+And I want to be @RT(kind,nice,merciful) to you #GeneralTime #Smile @Chance50(mindfuck)
+So...
+On your knees #PetName
+#Edge @Edge(Hold,Ruin)
+Well you did ask for an orgasm, and you got one #Lol @SetVar[pthevOrgasmLast]=[3]
+That goes to show... @TempFlag(pvWantToCumDidRuin)
+Be careful what you ask for or you might get it #EmoteWink
+And I'm not done with you either, #Name
+We're going to continue until you break #Grin @AddTeaseTime(10 minutes,30 minutes)
+@End
+(mindfuck)
+But #Name...
+I wonder if this is really what you want...
+You like this feeling of intense aching don't you?
+And you want to suffer for me, right?
+The truth is that you don't really want it to end, #PetName
+Because you want to keep feeling this deliciously @RT(horny,frustrated,aroused)
+And once you cum... that ends 
+So I want you to think about it long and hard, #Name
+Get to the edge for me @EdgeHold
+#LetTheEdgeFade
+I'm going to ask you one last time
+So be honest to yourself and to me, #PetName
+Do you want to cum right now?
+[yes] Okay then
+[no] Just as I thought #Laugh @Goto(if you do not want to)
+@DifferentAnswer #YesorNo
+On your knees #PetName
+#Edge @Edge(Hold,Ruin)
+Well you did ask for an orgasm, and you got one #Lol @SetVar[pthevOrgasmLast]=[3]
+That goes to show... @TempFlag(pvWantToCumDidRuin)
+Be careful what you ask for or you might get it #EmoteWink
+And I'm not done with you either, #Name
+We're going to continue until you break #Grin @AddTeaseTime(10 minutes,30 minutes)
+@End
+(if you do not want to)
+That @RT(is that,settles it,is settled) then, no @RT(orgasm,cumming,pleasure) for you #GeneralTime #Smile @RestrictOrgasm
+@End
+(maybe later then)
+Maybe later on you'll get to cum after all
+But you need to get a lot more frustrated first #Grin @AddTeaseTime(10 minutes,30 minutes)
+@End
+-
+(pvWantToCumDidRuin)
+You can stop begging for an orgasm now, #Name
+I already <i>gave</i> you one, remember?
+Sure, it was a <i>ruined</i> orgasm, but still... #Grin
+And orgasm is an orgasm, #Name
+@End
+(pvWantToCumDidOrgasm)
+You can stop begging for an orgasm now, #Name
+I already <i>gave</i> you one, remember?
+@End

@@ -1,0 +1,314 @@
+#StopStroking @StopStroking
+Let's check those extra tasks @CheckFlag(AV_taskOP1) @RapidCodeOn
+@NullResponse @CheckFlag(AV_taskOP2)
+@NullResponse @CheckFlag(AV_taskOP3)
+@NullResponse @CheckFlag(AV_taskOP4)
+@NullResponse @CheckFlag(AV_taskOP5)
+@NullResponse @CheckFlag(AV_taskOP6)
+@NullResponse @CheckFlag(AV_taskOP7)
+@NullResponse @CheckFlag(AV_taskOP8)
+@NullResponse @CheckFlag(AV_taskOP9)
+(AV_taskOP1)
+@Flag(AV_task1_50) Remember #Slave 50 strokes and edge
+@Flag(AV_task1_80) Remember #Slave 80 strokes and edge
+@Flag(AV_task1_100) Remember #Slave 100 strokes and edge
+@Flag(AV_task1_200) Remember #Slave 200 strokes and edge
+@Flag(AV_task1_300) Remember #Slave 300 strokes and edge
+Go ahead, and tell me when you are done. @Wait(20)
+#EmoteSmile
+[done, yes, edged] Looks like you have completed your task today  @DeleteFlag(AV_TaskON)
+@DifferentAnswer Are you done #PetName?
+@End
+(AV_taskOP2)
+@NullResponse @CheckFlag(AV_task2_First) @RapidCodeOn
+@NullResponse @CheckFlag(AV_task2_Second)
+@NullResponse @CheckFlag(AV_task2_Third)
+@NullResponse @CheckFlag(AV_task2_Forth)
+@NullResponse @CheckFlag(AV_task2_Fift)
+First its time free, keep track of how long it takes to get there! @SetFlag(AV_task2_First)
+#Edge @EdgeNoHold 
+How much time toke in seconds? @InputVar[AV_task2_time1]
+OK
+So, your actual record its #Var[AV_task2_time1] seconds
+And you own me #Var[AV_task2_EdgeCount] edges below this record
+@End
+(AV_task2_First)
+#ContinueTask @If[AV_task2_EdgeCount]=[0]Then(oops)
+#Edge @EdgeNoHold
+Did you take less that #Var[AV_task2_time1] seconds? 
+[yes] #Great  @Goto(goodjob1)
+[no] too bad, keep trying
+@DifferentAnswer Yes or no #PetName?
+@End
+(goodjob1)
+Good job @ChangeVar[AV_task2_EdgeCount]=[AV_task2_EdgeCount]-[1]
+We have a new record @DeleteVar[AV_task2_time1]
+How much time take in seconds? @InputVar[AV_task2_time2]
+Your new record is #Var[AV_task2_time2] seconds
+You still own me #Var[AV_task2_EdgeCount] edges below this record 
+#AV_MoveOn @SetFlag(AV_task2_Second)
+@End
+(AV_task2_Second)
+#ContinueTask @If[AV_task2_EdgeCount]=[0]Then(oops)
+#Edge @EdgeNoHold
+Did you take less that #Var[AV_task2_time2] seconds? 
+[yes] #Great  @Goto(goodjob2)
+[no] too bad, keep trying
+@DifferentAnswer Yes or no #PetName?
+@End
+(goodjob2)
+Good job @ChangeVar[AV_task2_EdgeCount]=[AV_task2_EdgeCount]-[1]
+We have a new record @DeleteVar[AV_task2_time2]
+How much time take in seconds? @InputVar[AV_task2_time3]
+Your new record is #Var[AV_task2_time3] seconds
+You still own me #Var[AV_task2_EdgeCount] edges below this record 
+@NullResponse @If[AV_task2_EdgeCount]=[0]Then(oops)
+#AV_MoveOn @SetFlag(AV_task2_Third)
+@End
+(AV_task2_Third)
+#ContinueTask @If[AV_task2_EdgeCount]=[0]Then(oops)
+#Edge @EdgeNoHold
+Did you take less that #Var[AV_task2_time3] seconds? 
+[yes] #Great  @Goto(goodjob3)
+[no] too bad, keep trying
+@DifferentAnswer Yes or no #PetName?
+@End
+(goodjob3)
+Good job @ChangeVar[AV_task2_EdgeCount]=[AV_task2_EdgeCount]-[1]
+We have a new record @DeleteVar[AV_task2_time3]
+How much time take in seconds? @InputVar[AV_task2_time4]
+Your new record is #Var[AV_task2_time4] seconds
+You still own me #Var[AV_task2_EdgeCount] edges below this record 
+@NullResponse @If[AV_task2_EdgeCount]=[0]Then(oops)
+#AV_MoveOn @SetFlag(AV_task2_Forth)
+@End
+(AV_task2_Forth)
+#ContinueTask @If[AV_task2_EdgeCount]=[0]Then(oops)
+#Edge @EdgeNoHold
+Did you take less that #Var[AV_task2_time4] seconds? 
+[yes] #Great  @Goto(goodjob4)
+[no] too bad, keep trying
+@DifferentAnswer Yes or no #PetName?
+@End
+(goodjob4)
+Good job @ChangeVar[AV_task2_EdgeCount]=[AV_task2_EdgeCount]-[1]
+We have a new record @DeleteVar[AV_task2_time4]
+How much time take in seconds? @InputVar[AV_task2_time5]
+Your new record is #Var[AV_task2_time5] seconds
+You still own me #Var[AV_task2_EdgeCount] edges below this record 
+@NullResponse @If[AV_task2_EdgeCount]=[0]Then(oops)
+#AV_MoveOn @SetFlag(AV_task2_Fift)
+@End
+(AV_task2_Fift)
+#ContinueTask @If[AV_task2_EdgeCount]=[0]Then(oops)
+#Edge @EdgeNoHold
+Did you take less that #Var[AV_task2_time5] seconds? 
+[yes] #Great  @Goto(goodjob5)
+[no] too bad, keep trying
+@DifferentAnswer Yes or no #PetName?
+@End
+(goodjob5)
+Good job @ChangeVar[AV_task2_EdgeCount]=[AV_task2_EdgeCount]-[1]
+We have a new record @DeleteVar[AV_task2_time5]
+How much time take in seconds? @InputVar[AV_task2_time6]
+Your new record is #Var[AV_task2_time6] seconds
+You still own me #Var[AV_task2_EdgeCount] edges below this record 
+#AV_MoveOn @If[AV_task2_EdgeCount]=[0]Then(oops)
+@End
+(oops)
+Oops...
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(AV_task2_First)
+@NullResponse @DeleteFlag(AV_task2_Second)
+@NullResponse @DeleteFlag(AV_task2_Third)
+@NullResponse @DeleteFlag(AV_task2_Forth)
+@NullResponse @DeleteFlag(AV_task2_Fift)
+@NullResponse @DeleteVar[AV_task2_time1]
+@NullResponse @DeleteVar[AV_task2_time2]
+@NullResponse @DeleteVar[AV_task2_time3]
+@NullResponse @DeleteVar[AV_task2_time4]
+@NullResponse @DeleteVar[AV_task2_time5]
+@NullResponse @DeleteVar[AV_task2_time6]
+@NullResponse @DeleteVar[AV_task2_EdgeCount]
+Looks like you have completed your task today  @DeleteFlag(AV_TaskON)
+@End
+(AV_taskOP3)
+So, you own me #Var[AV_EdgeGoal] edges 
+You already give me #Var[AV_EdgeCount] edges 
+(EdgeTask)
+#Edge @EdgeNoHold #PetName
+@NullResponse @ChangeVar[AV_EdgeCount]=[AV_EdgeCount]+[1] @If[AV_EdgeCount]=[AV_EdgeGoal]Then(Edge Goal Met)
+#LetTheEdgeFade @ChangeVar[AV_EdgeRemaining]=[AV_EdgeGoal]-[AV_EdgeCount]
+You still have #Var[AV_EdgeRemaining] to go #Grin 
+Want to give me another? 
+[yes] #Great  @Goto(EdgeTask)
+[no] #Okay  @Goto(Fim)
+@DifferentAnswer Yes or no #PetName?
+(Fim)
+I think that's enough for now 
+#AV_MoveOn 
+@End
+(Edge Goal Met)
+Looks like you have completed your task today @DeleteFlag(AV_TaskON)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[AV_EdgeCount]
+@NullResponse @DeleteVar[AV_EdgeGoal]
+@NullResponse @DeleteVar[AV_EdgeRemaining]
+#AV_MoveOn 
+@End
+(AV_taskOP4)
+#Okay #PetName pick  1 of your favorite sexy videos. 
+Remember to stroke through the entire thing. 
+if you get close, take your hands off and pause the video. When you've cooled down a little, press play and get back to stroking. 
+Go ahead, and tell me when you are done. 
+[done, yes] Looks like you have completed your task today  @DeleteFlag(AV_TaskON)
+@DifferentAnswer Are you done #PetName?
+@End
+(AV_taskOP5)
+#Okay #PetName 
+Try to edge with 200 of the slowest, most frustrating strokes you can. 
+Starting.....NOW @Wait(30)
+Hmm 
+Don't mind me, I'm just going to look through a few pictures while you #Stroke #Grin
+@NullResponse @ShowLocalImage
+(Look Again)
+@NullResponse @ShowLikedImage @Chance70(Look Again)
+@NullResponse
+Don't forget to tell me when you are done.
+[done, yes] #Great
+@DifferentAnswer Are you done #PetName?
+Did you managed to reach the edge with 200 slow strokes?
+[yes] #Great  @Goto(OP5_Done)
+[no] too bad @SetVar[AV_EdgeCount]=[0] @Goto(EdgeOP5a)
+@DifferentAnswer Yes or no #PetName?
+(EdgeOP5a)
+In this case, you own me #Var[AV_EdgeGoal] edges #Slave
+(EdgeOP5)
+#Edge @EdgeNoHold #PetName
+@NullResponse @ChangeVar[AV_EdgeCount]=[AV_EdgeCount]+[1] @If[AV_EdgeCount]=[AV_EdgeGoal]Then(OP5_Done)
+#LetTheEdgeFade @ChangeVar[AV_EdgeRemaining]=[AV_EdgeGoal]-[AV_EdgeCount]
+You still have #Var[AV_EdgeRemaining] to go #Grin @Goto(EdgeOP5)
+(OP5_Done)
+Looks like you have completed your task today @DeleteFlag(AV_TaskON)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[AV_EdgeCount]
+@NullResponse @DeleteVar[AV_EdgeGoal]
+@NullResponse @DeleteVar[AV_EdgeRemaining]
+#AV_MoveOn 
+@End
+(AV_taskOP6)
+#Okay #PetName 
+Try to edge with the slowest, most frustrating strokes you can. 
+Remember, you own me #Var[AV_EdgeGoal] edges #Slave
+(EdgeOP6)
+Now #Edge 
+Hmm @Chance50(OP6a)
+Don't mind me, I'm just going to look through a few pictures while you #Stroke #Grin
+@NullResponse @NewBlogImage
+(Look Again)
+@NullResponse @ShowLikedImage @Chance50(Look Again)
+@NullResponse @Goto(OP6NoMore)
+(OP6a)
+Remember that perfect storm of your porn collection?
+@NullResponse @ShowBoobsImage
+@ShowFemdomImage
+#EmoteLaugh
+@NullResponse @ShowSoftcoreImage
+(OP6NoMore)
+Don't forget to tell me when you edged.
+[done, yes, edge, edged] #Great @ChangeVar[AV_EdgeCount]=[AV_EdgeCount]+[1] @If[AV_EdgeCount]=[AV_EdgeGoal]Then(OP6_Done)
+@DifferentAnswer Did you edged #PetName?
+#LetTheEdgeFade @ChangeVar[AV_EdgeRemaining]=[AV_EdgeGoal]-[AV_EdgeCount]
+You still have #Var[AV_EdgeRemaining] to go #Grin @SetVar[AV_EdgeCount]=[0] @Goto(EdgeOP6)
+(OP6_Done)
+Looks like you have completed your task today @DeleteFlag(AV_TaskON)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[AV_EdgeCount]
+@NullResponse @DeleteVar[AV_EdgeGoal]
+@NullResponse @DeleteVar[AV_EdgeRemaining]
+#AV_MoveOn 
+@End
+(AV_taskOP7)
+#Okay #PetName 
+First, you need to give me #Var[AV_EdgeCount] edges 
+(EdgeOP7)
+#Edge @EdgeNoHold #PetName
+@NullResponse @ChangeVar[AV_EdgeCount]=[AV_EdgeCount]+[1] @If[AV_EdgeCount]=[AV_EdgeGoal]Then(OP7_CBT)
+#LetTheEdgeFade @ChangeVar[AV_EdgeRemaining]=[AV_EdgeGoal]-[AV_EdgeCount]
+You still have #Var[AV_EdgeRemaining] to go #Grin @Goto(EdgeOP7)
+(OP7_CBT)
+Now, the fun part
+start slapping that sensitive little cock head until you're completely soft.
+@NullResponse @Wait(10)
+So #Evil
+Go ahead, and tell me when you are done. 
+[done, yes, soft] #Lol @Goto(OP7_Done)
+@DifferentAnswer Are you soft #PetName?
+(OP7_Done)
+Looks like you have completed your task today @DeleteFlag(AV_TaskON)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[AV_EdgeCount]
+@NullResponse @DeleteVar[AV_EdgeGoal]
+@NullResponse @DeleteVar[AV_EdgeRemaining]
+#AV_MoveOn 
+@End
+(AV_taskOP8)
+#Okay #PetName 
+You task is to edge #Var[AV_EdgeReal] times and hold the last one
+And you will repeat this #Var[AV_EdgeRepeat] times
+(EdgeOP8)
+#Edge @EdgeNoHold #PetName
+@NullResponse @ChangeVar[AV_EdgeCount]=[AV_EdgeCount]+[1] @If[AV_EdgeCount]=[AV_EdgeGoal]Then(OP8_EDGEHold)
+#LetTheEdgeFade @ChangeVar[AV_EdgeRemaining]=[AV_EdgeGoal]-[AV_EdgeCount]
+@NullResponse @Goto(EdgeOP8)
+(OP8_EDGEHold)
+#Edge @EdgeHold
+@NullResponse @ChangeVar[AV_EdgeTimes]=[AV_EdgeTimes]+[1] @If[AV_EdgeTimes]=[AV_EdgeRepeat]Then(OP8_Done)
+#LetTheEdgeFade @ChangeVar[AV_EdgeTimeRemaining]=[AV_EdgeRepeat]-[AV_EdgeTimes]
+You still have #Var[AV_EdgeTimeRemaining] cicles to go #Grin 
+Want to give me another serie? @SetVar[AV_EdgeCount]=[0]
+[yes] #Great  @Goto(EdgeOP8)
+[no] #Okay  @Goto(Fim8)
+@DifferentAnswer Yes or no #PetName?
+(Fim8)
+I think that's enough for now 
+#AV_MoveOn 
+@End
+(OP8_Done)
+Looks like you have completed your task today @DeleteFlag(AV_TaskON)
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteVar[AV_EdgeCount]
+@NullResponse @DeleteVar[AV_EdgeGoal]
+@NullResponse @DeleteVar[AV_EdgeRemaining]
+@NullResponse @DeleteVar[AV_EdgeRepeat]
+@NullResponse @DeleteVar[AV_EdgeTimeRemaining]
+@NullResponse @DeleteVar[AV_EdgeTimes]
+#AV_MoveOn 
+@End
+(AV_taskOP9)
+#Okay #PetName 
+So, 10 minutes of #Stroking and edging, huh?
+#EmoteMoan
+Remember, When you get close, stop and rest for 30 seconds, then right back to the edge. 
+Your timer start....Now
+Long way to go @Wait(50)
+Check out this picture I found earlier @ShowBlogImage @Wait(10)
+Keep going @Wait(50)
+I wonder what was going through your head when you saved this one #Grin @ShowLocalImage  @Wait(30)
+3 minutes in @Wait(30)
+#Smile @ShowFemdomImage @Wait(10)
+I will check something here... keep #Stroking @Wait(50)
+Fuck... I don't know who aches more looking at this, me or you #Lol @ShowLesbianImage @Wait(10)
+Almost half way @Wait(50)
+So this is the kind of girl you really want me to be huh? #Grin @ShowCaptionsImage @Wait(20)
+Can you continue with our session after that? @Wait(30)
+I wonder if this makes the ache worse for you @ShowBlogImage @Wait(10)
+Where is my clock? @Wait(50)
+#Ache for me @Wait(60)
+#Smile  @ShowLocalImage  @Wait(30)
+It turns me on so much knowing what I can do to you @Wait(30)
+Almost there...keep going @Wait(50)
+#StopStroking
+Looks like you have completed your task today @DeleteFlag(AV_TaskON)
+#AV_MoveOn 
+@End

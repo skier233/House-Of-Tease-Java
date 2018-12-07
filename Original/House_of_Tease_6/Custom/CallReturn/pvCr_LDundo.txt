@@ -1,0 +1,10 @@
+@NullResponse @AFKOn @RapidCodeOn
+@NullResponse @DeleteFlag(pthevLongDenialActive)
+@NullResponse @DeleteFlag(pvOrgasmControl)
+@NullResponse @DeleteFlag(pvLDASecondWeek)
+@NullResponse @DeleteFlag(pvLDAWholeMonth)
+@NullResponse @SetFlag(pthevLongDenialEnded)
+@NullResponse @RestrictOrgasm(1 second)
+@NullResponse @SetDate(pvRenewLDA,1 month)
+@NullResponse @AFKOff @RapidCodeOff
+@End

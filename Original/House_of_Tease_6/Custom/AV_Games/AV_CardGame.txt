@@ -1,0 +1,148 @@
+#LittleGame
+We will pick a card and Whoever has the highest card won the round
+If I win, you will put a clothespin on your body
+If you win, you can edge for me...
+@Flag(AV_DommeMistress) @NullResponse @SetVar[AV_CardGameLevel]=[10]
+@NotFlag(AV_DommeMistress) @NullResponse @SetVar[AV_CardGameLevel]=[5]
+Who get #Var[AV_CardGameLevel] rounds, won the game
+If I won the game, I can have some fun punishing you a little more
+If you won the game, maybe you can have a second chance if I decide to deny your orgasm today...
+#LetStart
+(CardStart)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_CardGameSubA]=[0]
+@NullResponse @SetVar[AV_CardGameDomA]=[0]
+@RT(Your card is a, You got a)... @Goto(01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13)
+(01)
+Ace @ShowImage[av_imagens\cards3\01\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[1] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(02)
+Two @ShowImage[av_imagens\cards3\02\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[2] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(03)
+Three @ShowImage[av_imagens\cards3\03\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[3] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(04)
+Four @ShowImage[av_imagens\cards3\04\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[4] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(05)
+Five @ShowImage[av_imagens\cards3\05\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[5] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(06)
+Six @ShowImage[av_imagens\cards3\06\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[6] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(07)
+Seven @ShowImage[av_imagens\cards3\07\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[7] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(08)
+Eight @ShowImage[av_imagens\cards3\08\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[8] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(09)
+Nine @ShowImage[av_imagens\cards3\09\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[9] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(10)
+Ten @ShowImage[av_imagens\cards3\10\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[10] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(11)
+jack @ShowImage[av_imagens\cards3\11\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[11] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(12)
+Queen @ShowImage[av_imagens\cards3\12\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[12] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(13)
+King @ShowImage[av_imagens\cards3\13\*.jpg] @ChangeVar[AV_CardGameSubA]=[AV_CardGameSubA]+[13] @RapidCodeOn
+@NullResponse @Goto(CardGameA)
+(CardGameA)
+@RT(My Card is a, and I got a, what I got is a) 
+@NullResponse @Goto(01D, 02D, 03D, 04D, 05D, 06D, 07D, 08D, 09D, 10D, 11D, 12D, 13D)
+(01D)
+Ace @ShowImage[av_imagens\cards3\01\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[1] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(02D)
+Two @ShowImage[av_imagens\cards3\02\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[2] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(03D)
+Three @ShowImage[av_imagens\cards3\03\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[3] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(04D)
+Four @ShowImage[av_imagens\cards3\04\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[4] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(05D)
+Five @ShowImage[av_imagens\cards3\05\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[5] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(06D)
+Six @ShowImage[av_imagens\cards3\06\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[6] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(07D)
+Seven @ShowImage[av_imagens\cards3\07\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[7] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(08D)
+Eight @ShowImage[av_imagens\cards3\08\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[8] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(09D)
+Nine @ShowImage[av_imagens\cards3\09\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[9] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(10D)
+Ten @ShowImage[av_imagens\cards3\10\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[10] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(11D)
+jack @ShowImage[av_imagens\cards3\11\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[11] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(12D)
+Queen @ShowImage[av_imagens\cards3\12\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[12] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(13D)
+King @ShowImage[av_imagens\cards3\13\*.jpg] @ChangeVar[AV_CardGameDomA]=[AV_CardGameDomA]+[13] @RapidCodeOn
+@NullResponse @Goto(CardGameB)
+(CardGameB)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_CardGameDomA]=[AV_CardGameSubA]Then(EmpateA)
+@NullResponse @If[AV_CardGameDomA]>[AV_CardGameSubA]Then(DommeWonA)
+@NullResponse @If[AV_CardGameDomA]<[AV_CardGameSubA]Then(SubWonA)
+(DommeWonA)
+#Great, I Won @ChangeVar[AV_CardGamePin]=[AV_CardGamePin]+[1]
+@RT(Put, Place) a @RT(Clothespin, pin) in @RT(your, any place of your) @RT(body, slave body) @Wait(20)
+@NullResponse @Chance75(AVPositions)
+get on all four, ass up @Goto(SkipPositions)
+(AVPositions)
+@RT(stand up, #KneelForMe, sit down) @Wait(10)
+@RT(hands behind your back, hands behind your head, arms open)
+(SkipPositions)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_CardGamePin]=[AV_CardGameLevel]Then(MissWin)
+@RT(continuing, next round) @Goto(CardStart)
+(SubWonA)
+@RT(Damn, Aww, #ExclaimFuck), you won @ChangeVar[AV_CardGameEdge]=[AV_CardGameEdge]+[1]
+#Edge @Edge
+#LetTheEdgeFade  @RapidCodeOn
+@NullResponse @If[AV_CardGameEdge]=[AV_CardGameLevel]Then(SubWin)
+@RT(continuing, next round) @Goto(CardStart)
+(EmpateA)
+A Tie!! 
+Nobody wins... @RapidCodeOn
+@NullResponse @Goto(CardStart)
+(SubWin)
+You won the game  @MoodBest
+Congratulations @RT(#SubName, #PetName), but remember, you still can be denied today...
+Sit and remove all clothespins... 
+@End
+(MissWin)
+I won
+Fun Time for me 
+Sit and remove all clothespins... @Goto(Puni1, Puni2, Puni3, Puni4)
+(Puni1)
+@NullResponse @Call(Custom\CallReturn\AV_Punish1.txt)
+@NullResponse 
+@End
+(Puni2)
+@NullResponse @Call(Custom\CallReturn\AV_Punish2.txt)
+@NullResponse 
+@End
+(Puni3)
+@NullResponse @Call(Custom\CallReturn\AV_Punish3.txt)
+@NullResponse 
+@End
+(Puni4)
+@NullResponse @Call(Custom\CallReturn\AV_PunishRND.txt, RNDPunish)
+@NullResponse 
+@End

@@ -1,0 +1,11 @@
+You told me you'd do it
+Are you saying you are breaking that promise?
+[yes] Fine. @DeleteFlag(av_fetish_cei) @SetFlag(pthevCEI_No)
+[no] Good, then lick it up and swallow it, #Name @Goto(lick it up)
+@DifferentAnswer #YesOrNo
+But you'll understand that I'm going to have to punish you now
+@NullResponse @TempFlag(pvPunishmentRefusedCEI) @Interrupt(pvInt_Punishment)
+@End
+(lick it up)
+And be @RT(happy,glad) I'm not going to @RT(punish you,beat your ass) for hesitating
+@End

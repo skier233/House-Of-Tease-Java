@@ -1,0 +1,36 @@
+@ApathyLevel4 @NullResponse @Chance30(End2)
+@ApathyLevel5 @NullResponse @Chance80(End2)
+@RT(What is the problem, What is, What, Say, you can talk to me, yes, what happened) #SubName?
+[pain, hurt, killing, rough] hmm @Goto(CheckMood)
+[pause, break, rest] @NullResponse @Goto(CheckPause)
+@DifferentAnswer what #SubName?
+(CheckPause)
+@NeutralMood @Chance30(End2)
+@BadMood @RT(I don't give a fuck if you can handle this or not, Begging just makes me want to torture you even more, I dont care), you will @RT(#Take, continue) @Goto(End)
+@GoodMood #Okay
+@RT(I'll try to keep your limits in mind a little better, I think) I can let you rest for a while
+enjoy @Wait( #Random(100, 200))
+#ThatsEnough
+@End
+(CheckMood)
+@NeutralMood @NullResponse @Chance60(SomeEdges)
+@BadMood @RT(I don't give a fuck if you can handle this or not, Begging just makes me want to torture you even more)  @Goto(End2)
+@RT(I'm really being mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #PetName), @RT(You, We) can stop ...for @RT(a while, now) @TempFlag(StopAllowed)
+@End
+(SomeEdges)
+@RT(Maybe, Do you think) @RT(a few, some) edges will @RT(help you to #Take the pain, make it easy)?
+[yes] #Good @Goto(EdgesRND)
+[no] Hmm 
+@DifferentAnswer #YesorNo #SubName?
+@RT(I'm really being mean to that #Cock of yours #GeneralTime,, aren't I?, Ok #PetName), @RT(You, We) can stop ...for @RT(a while, now) @TempFlag(StopAllowed)
+@End
+(EdgesRND)
+#Edge @EdgeNoHold @MultipleEdges( #Random(4, 7), 15, 100)
+@RT(#ThatsEnough, Now we can continue, we can continue)
+@End
+(End)
+@NullResponse 
+@End
+(End2)
+@RT(It wouldn't be a tease if you didn't suffer, stop complaining, I'm going to tease you to fucking tears) #SubName
+@End

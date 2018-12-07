@@ -1,0 +1,186 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral28_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral28]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral28_NotFirstTime)
+(AV_ModGeneral28_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral28]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral28]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral28]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral28]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral28]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral28]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral28]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral28]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral28]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral28]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral28]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral28]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral28]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral28]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral28]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral28]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral28]=[AV_ModGeneral28]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral28]=[AV_ModGeneral28]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral28]=[AV_ModGeneral28]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral28]=[AV_ModGeneral28]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral28]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@NullResponse @CallReturn(Custom\CallReturn\Edge for us.txt)
+@NullResponse
+@End
+(Modulo2)
+@NotStroking Start #Stroking again @PlayAudio[tease\Tri\*.mp3]
+@Stroking I went to make you stop now, but...
+I decided that I want you to stroke for all your crushes #EmoteSmile
+@Flag(AV_Know_03) Paying tribute to #Var[AV_Persona04] @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) #KeepStroking @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) Take a good look at her body. @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_58) #KeepStroking for #Var[AV_Persona58] @ShowImage[av_imagens\18\*.jpg] 
+@Flag(AV_Know_12) Now your secret crush, #Var[AV_Persona13] @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) #KeepStroking @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) Feels good, right? @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_50) #KeepStroking for #Var[AV_Persona50] @ShowImage[av_imagens\10\*.jpg] 
+@Flag(AV_Know_01) Now, your Crush singer, #Var[AV_Persona02] @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) #KeepStroking @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) I want you to imagine those are her hands which are running over your #Cock @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_53) #KeepStroking for #Var[AV_Persona53] @ShowImage[av_imagens\13\*.jpg] 
+@Flag(AV_Know_00) Your Crush actress, #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) #KeepStroking @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) Hmm @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_51) #KeepStroking for #Var[AV_Persona51] @ShowImage[av_imagens\11\*.jpg] 
+@Flag(AV_Know_52) Can you take it for #Var[AV_Persona52]? @ShowImage[av_imagens\12\*.jpg] 
+@Flag(AV_Know_54) It's your fault for having so many crushes, like #Var[AV_Persona54] @ShowImage[av_imagens\14\*.jpg] 
+@Flag(AV_Know_55) Almost there, don't disappoint #Var[AV_Persona55] @ShowImage[av_imagens\15\*.jpg] 
+@Flag(AV_Know_56) #KeepStroking for #Var[AV_Persona56] @ShowImage[av_imagens\16\*.jpg] 
+@Flag(AV_Know_57) You can do it for #Var[AV_Persona57] @ShowImage[av_imagens\17\*.jpg] 
+@Flag(AV_Know_59) #Var[AV_Persona59] is the last one @ShowImage[av_imagens\19\*.jpg] 
+#StopStroking @StopStroking 
+That was fun. @Wait(15)
+@End
+(Modulo3)
+@Stroking #Stop @StopStroking
+During your training, you will be taught to worship me
+and you will beg me to allow your relief.
+You will learn that you are here for my pleasure
+and you will be trained to obey without questioning.
+#StartStroking
+You may not enjoy everything that I decide to do with you
+but that is part of giving up control.
+In the end, you'll be glad to submit to my will.
+A good slave would put his Mistress' pleasure before his own no matter what.
+He will do anything to please his Mistress, and is able to control his needs in order to serve her. 
+#Edge @Edge
+If it gives me pleasure to see you deny yourself, that is what you will do. 
+@Flag(av_fetish_rough) It's necessary to teach man-slaves what it's like to be violated. 
+@Flag(av_fetish_rough) It's like a final stamp which seals the submission, and is standard for any training program.
+From now on, you will tell me, if get close to the edge. @EdgeMode(Goto, FailNotEdge2)
+If you are on the edge is already to late.
+#StartStroking
+Now you're only supposed to feel your strokes. Nothing more...
+nothing less. And of course the incredible frustration, that you will never be able to spurt while I'm with you
+Just... frustrating... strokes!
+All the time!
+Now, let's begin for real
+What the hell?! You're slagging. Stroke fast!
+I recognized you like my pussy... a lot! 
+But don't concentrate on just one thing.
+The rest of my body is very hot also 
+#Stop @EdgeMode(Normal)
+@End
+(FailNotEdge2)
+#Stop @EdgeMode(Normal)
+I love that look on your face, that look of pain. 
+We’re going to be seeing a lot more of that before we’re through today. @CBTBalls
+@End
+(Modulo4)
+@Stroking #Stop @StopStroking
+This will be a test of endurance, or maybe it will be easy for you. @AddContact1 @AddContact2 @AddContact3
+@Contact1 Hi there, yourself
+@Contact3 You have to excuse my smile. I can't stop it, when I see a slave naked with an hard-on
+@Contact2 Now, we have to get our mind on something else, your little denied cock @EdgeMode(Goto, FailNotEdge3)
+I bet you are ready for some action, tough boy?!
+Don't answer, it's rethorical!
+Be careful, if you edge will be punished.
+Let's start...
+@Contact1 #AV_GlittersGame
+@Contact1 #Stop @Wait( #Random(8, 15))
+#AV_GlittersGame
+#Stop @Wait( #Random(8, 15))
+@Contact3 #AV_GlittersGame
+@Contact3 #Stop @Wait( #Random(8, 15))
+#AV_GlittersGame
+#Stop @Wait( #Random(8, 15))
+@Contact2 #AV_GlittersGame
+@Contact2 #Stop 
+@Contact3 Go faster! We need to train you.
+@Contact2 Other slaves were in better shape than you.
+@Contact1 Stamina-ways we mean. You look pretty decent after all.
+@Flag(AV_DommeMistress) @NullResponse @Chance20(HaveEnough8)
+@NotFlag(AV_DommeMistress) @NullResponse @Chance40(HaveEnough8)
+(NotSkipping)
+@Contact3 #AV_GlittersGame
+@Contact3 #Stop @Wait( #Random(8, 15))
+@Contact1 #AV_GlittersGame
+@Contact1 #Stop @Wait( #Random(8, 15))
+@Contact2 #AV_GlittersGame
+@Contact2 #Stop @Wait( #Random(8, 15))
+(HaveEnough8)
+#ThatsEnough
+You did #SubName @EdgeMode(Normal)
+@Contact2 Don't worry. We're done with you now. 
+@Contact3 But we will meet pretty soon again.
+@NullResponse @RemoveContact1 @RemoveContact2 @RemoveContact3
+@End
+(FailNotEdge3)
+oh oh... Punishment time
+@NotFlag(av_fetish_pain) @NullResponse @CBT
+@Flag(av_fetish_pain) @NullResponse @CallReturn(Custom\CallReturn\AV_PunishRND.txt)
+@NullResponse 
+@NullResponse @Goto(NotSkipping)
+@NullResponse 
+@End

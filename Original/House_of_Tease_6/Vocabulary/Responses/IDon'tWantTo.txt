@@ -1,0 +1,7 @@
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me]
+[All]
+@Flag(pvNotWantNormal) Quit moaning #Name
+@Flag(pvNotWantCEI) That's interesting... @MiniScript(pvMs_NotWantCEI)
+@Flag(pvNotWantBodyWriting) That's too bad, #Name #EmoteSad @MoodDown @InterruptsOn @DeleteFlag(pvNotWantBodyWriting) @SetFlag(pvNotWantNormal) @TempFlag(pvDidNotWrite)
+@Flag(pvNotWantCEItraining) C'mon #Name @MiniScript(pvMs_NotWantCEItraining)
+[All End]

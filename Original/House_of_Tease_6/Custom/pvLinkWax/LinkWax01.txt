@@ -1,0 +1,56 @@
+@NullResponse @CheckFlag(pvLinkWax01A)
+Look at that flame flickering, #Name @TempFlag(pvLinkWax01A)
+Is there enough molten wax for us to use?
+[yes] Then let's not waste it
+[no] No problem, we have time #Smile @Goto(we have time)
+@DifferentAnswer #YesOrNo
+Sit back a little bit
+@Flag(pvKneeling) You can get off your knees now @DeleteFlag(pvKneeling)
+I'm sure I don't have to tell you this, but be careful, #SubName
+It's still an open flame you have there...
+@Flag(pvBallsTied) Your #Balls are so nicely tied up and exposed #Grin @Goto(balls tied)
+@Flag(pthevShoelace) @NullResponse @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+(balls tied)
+Pick up that candle, #PetName @CustomMode(#pvDontWantTo,Goto,do not want)
+I want you to drip a few drops on your #Balls
+Just a few drops...
+Feel it burn on your skin, #PetName
+Put down the candle for a moment
+Give me 25 quick strokes to make sure your #Cock is still hard @Wait(10)
+I don't know if that was really necessary, actually
+Maybe you got even harder from the wax dripping on those tender #Balls
+Pick up the candle and drip some wax on your chest
+Start with the area around your nipples, then make a trail down to your belly
+It's like I'm branding you, #Name
+Burning my name into your skin the way my control is burnt into your mind
+The wax is an affirmation of my ownership of you
+And my ownership of your #Cock
+Drip some wax on the shaft, #PetName @Wait(10)
+And a couple more on your #Balls too @Wait(10)
+Good boy
+Is there any doubt left that you're completely mine? #Smile
+Put away the candle, but keep it burning @CustomMode(#pvDontWantTo,Normal)
+You never know, we might need it later on... @Wait(15)
+Ready to continue, #SubName?
+[ready,yes] Good
+[no] Let me know when you are ready
+@DifferentAnswer Let me know when you are ready
+Those little patches of wax are marks of your submission to me, #PetName
+Wear them proudly while they last #Smile
+@Flag(pvBallsTied) @NullResponse @CallReturn(Custom/CallReturn/pvCr_UnTieMyBalls.txt)
+@NullResponse
+@End
+(do not want)
+Alright, put down the candle, #SubName @MoodDown
+It's always disappointing when you down follow through of stuff
+But in this case, I'm not going to punish you for it
+@End
+(we have time)
+And there are so many ways to keep your #Balls burning with ache #Grin
+@End
+(pvLinkWax01A)
+Look at those tiny dried patches of wax on your skin
+Or maybe all that remains is spots of red skin
+Marks of where I touched you with my fingertips
+Showing you how much you belong to me
+@End

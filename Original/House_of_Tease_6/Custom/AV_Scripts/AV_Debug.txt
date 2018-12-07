@@ -1,0 +1,38 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#Stop @StopStroking
+(Sub Not Stroking)
+@NullResponse @RapidCodeOn 
+@NullResponse @UnlockImages
+@NullResponse @RapidTextOff
+@NullResponse @SlideshowOff 
+@NullResponse @AddDomme
+@Group(D123) @NullResponse @RemoveContact1 @RemoveContact2 @RemoveContact3 
+@Group(D12) @NullResponse @RemoveContact1 @RemoveContact2
+@Group(D13) @NullResponse @RemoveContact1 @RemoveContact3
+@Group(D23) @NullResponse @RemoveContact2 @RemoveContact3 
+@Group(D1) @NullResponse @RemoveContact1
+@Group(D2) @NullResponse @RemoveContact2
+@Group(D3) @NullResponse @RemoveContact3
+@NullResponse @RemoveContact1 
+@NullResponse @RemoveContact2 
+@NullResponse @RemoveContact3 
+@NullResponse @RapidCodeOff
+@End
+@SystemMessage Fixing... @ShowImage[av_imagens\System.jpg] 
+@Group(1) @SystemMessage Adding Domme @AddDomme @ShowImage[av_imagens\System.jpg] 
+@Group(1) @SystemMessage Removing Glitter 1 @RemoveContact1 @ShowImage[av_imagens\System.jpg] 
+@Group(2) @SystemMessage Adding Domme @AddDomme @ShowImage[av_imagens\System.jpg] 
+@Group(2) @SystemMessage Removing Glitter 2 @RemoveContact2 @ShowImage[av_imagens\System.jpg] 
+@Group(3) @SystemMessage Adding Domme @AddDomme @ShowImage[av_imagens\System.jpg] 
+@Group(3) @SystemMessage Removing Glitter 3 @RemoveContact3 @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Unlocking images @UnlockImages @ShowImage[av_imagens\System.jpg] 
+@SystemMessage Endind slideshow @SlideshowOff  @ShowImage[av_imagens\System.jpg] 
+@End
+@NullResponse @UnlockImages
+@NullResponse @SlideshowOff 
+@NullResponse @AddDomme
+@NullResponse @RemoveContact1
+@NullResponse @RemoveContact2 
+@NullResponse @RemoveContact3 
+@End

@@ -1,0 +1,104 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link19_NotFirstTime)
+@NullResponse @SetVar[AV_Link19]=[0] 
+@NullResponse @SetFlag(AV_Link19_NotFirstTime)
+(AV_Link19_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link19]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link19]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link19]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link19]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link19]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link19]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link19]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link19]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link19]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link19]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link19]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link19]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link19]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link19]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link19]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link19]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link19]=[AV_Link19]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link19]=[AV_Link19]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link19]=[AV_Link19]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link19]=[AV_Link19]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link19]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+After all, you have no choice in the matter. 
+Resist all you like it is only going to make my domination over you more fun and more enjoyable for me. 
+Meanwhile, you are on your knees, serving, and knowing how to be a good submissive #PetName for your owner. 
+@Flag(av_fetish_rough) Knowing  when I am doing my job right, is when your goddess has you whimpering like a little bitch for her to stop.
+@NotFlag(av_fetish_rough) Knowing  when I am doing my job right, is when your goddess has you whimpering for her to stop.
+@Flag(av_fetish_rough) Are you that little bitch?
+#StartStroking @StartStroking
+@End
+(Link2)
+I will not stop pushing you.
+I feel the need to be served, and to serve out punishments. 
+@Flag(av_fetish_rough) Fortunately enough, I was born to be served by the weaker sex. 
+This goddess is destined to be worshiped. 
+The mistress you know you want to succumb to.
+#StartStroking @StartStroking
+@End
+(Link3)
+I to be a bad girl and make good men do bad things
+and turn them into my own personal bad boy.
+This can be everything from having you masturbate to my instructions
+or spanking yourself for me
+#StartStroking @StartStroking
+@End
+(Link4)
+Becoming a bad-girl is the way to go, because being a good girl is so over rated.  
+Why do you want to be innocent, because take it from a girl like myself
+there is no going back, once you've gone bad youre bad.
+My philosophy is simple go big or go home
+so if you're bad, and love to be naughty
+then you've come to the right place
+#StartStroking @StartStroking
+@End

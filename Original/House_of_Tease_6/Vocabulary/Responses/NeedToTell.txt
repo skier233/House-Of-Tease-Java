@@ -1,0 +1,4 @@
+[need to tell,want to tell,have to tell,tell you something,want to talk,need to talk,you need to know]
+[All]
+@NullResponse @MiniScript(pvMs_NeedToTellYou)
+[All End]

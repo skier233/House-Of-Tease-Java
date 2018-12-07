@@ -1,0 +1,9 @@
+You're getting close aren't you slave, you can't help yourself can you? @ResponseYes(I Can Take More) @ResponseNo(ICantHelpMyself)
+The thought of me destroying your balls makes you fucking horny too doesn't it slave?  @Timeout(5, AV_Timeo241)
+[yes] #Good @ApathyLevelUp
+[no] #LetMeThinkAboutIt @ApathyLevelDown
+@DifferentAnswer #YesorNo
+(AV_Timeo241)
+You want to cum so bad don't you @TempFlag(AV_Short33)
+Well come on, show me how bad you want it
+@End

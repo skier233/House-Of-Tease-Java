@@ -1,0 +1,112 @@
+@NullResponse @CheckFlag(pvMod33B)
+@NullResponse @CheckFlag(pvMod33A)
+#Edge @Edge
+Stare at my body, #PetName @SetFlag(pvMod33A)
+It seems so close, yet so far away, doesn't it... 
+#Edge @Edge
+#LetTheEdgeFade
+Even though you don't get to touch my body
+You can still look
+Isn't my ass amazing?
+I would let you kiss it if you were here #Smile
+#Edge @Edge
+#LetTheEdgeFade
+I'm going to make you edge to every part of my body
+Just because I can #Grin
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod33A)
+#StopStroking @StopStroking
+#ThatsAllForToday @DeleteFlag(pvMod33A) @SetFlag(pvMod33B)
+Do you want to cum for me?
+[yes] Aww that's so sweet #Giggles
+[no] #Laugh @Goto(said no to cum)
+@DifferentAnswer #YesOrNo
+#Edge @Edge
+Back away from the edge, because...
+I'm not going to let you cum just yet, I was just kidding #Laugh
+I know you want it so badly, #Name
+I know you're just ball of barely contained sexual frustration right now
+That ultimate release is on you mind all the time, isn't it? @Goto(imagine it now)
+(said no to cum)
+That's so sweet, #PetName #Smile
+I actually had no intention of letting you cum right now
+so no was the only right answer
+Although you have to wonder...
+What if you'd said yes, maybe I would have let you cum anyway
+(imagine it now)
+Just imagine it now
+That wave of almost unbearable pleasure washing over you
+That rush rippling from your groin up your spine into your brain
+#EmoteMoan
+#Edge @Edge
+#LetTheEdgeFade
+The longer you wait... the better it's going to feel when it comes
+@End
+(pvMod33B)
+#StopStroking @StopStroking @DeleteFlag(pvMod33B)
+@CockTorture You're having way too much fun, #Name @CBTCock
+Put your hands behind your head @Wait(#Random(5,15))
+This is good...
+Sometimes you need to show me your obedience to me by stroking and edging a lot
+And sometimes by sitting and waiting with your hands behind your back @Wait(#Random(5,15))
+We could do this until my #Cock is completely limp @Chance50(until limp)
+But I want it to stay rock hard now
+Lower one hand and give me 10 strokes
+@CockTorture After you did, slap that #Cock hard...
+And then put your hand back behind your head @Wait(#Random(10,25))
+Do that again: 10 strokes...
+@CockTorture Don't forget the hard slap at the end #Smile
+And hands behind your head again @Wait(#Random(10,20))
+And again, 10 strokes
+@CockTorture Slap
+And hands on head #Smile @Wait(#Random(10,20))
+Now 20 strokes... @Wait(10)
+@CockTorture Then slap that #Cock back and forth once
+And of course, hands behind your head again @Wait(#Random(20,35))
+Now give me 25 strokes... @Wait(20)
+@CockTorture Then slap that #Cock three times, hard
+And hands behind your head
+This is becoming a routine, isn't it...
+I can reduce it to a couple of very simple commands for you to follow
+25, go! @Wait(15)
+@CockTorture 3, hard, go!
+Head! #Laugh
+we can distil this whole thing to me shouting a set of numbers and body parts
+And you'd know exactly what to do #Smile
+It would kinda take the fun out of teasing I guess...
+It's industrial style teasing, I could just let a computer program send you random commands...
+But that wouldn't do <i>me</i> any good, now would it? #Smile
+You can lower your hands now, #Name
+@End
+(until limp)
+You can lower one hand to answer me: is it limp already?
+[yes] Wow that's really quick... @Goto(it is limp)
+[no] I can wait #Smile
+@DifferentAnswer #YesOrNo
+I bet I'm a lot more patient than you
+Put your hand behind your head again, #Name
+I'm just gonna get myself a drink or something @Wait(#Random(30,60)) @AFKOn
+So, is that pathetic thing you call a cock soft yet? @AFKOff
+[yes] Alright then @Goto(it is limp)
+[no] Wow, persistent... #Laugh
+@DifferentAnswer #YesOrNo
+But so am I #Smile @Wait(#Random(40,60)) @AFKOn
+It's gone soft now, right? @AFKOff
+[yes] Finally! @Goto(it is limp)
+[no] What....!?
+@DifferentAnswer #YesOrNo
+That's just... magic #EmoteHappy @MoodBest
+As a reward, get to the edge, #PetName @EdgeHold
+Let that magic #Cock rest a little, it deserves it
+@End
+(it is limp)
+Then you have my permission to lower your hands...
+And do whatever you need to get that erection back
+Stroke it, squeeze it, slap it, I don't care
+As long as it gets hard and ready to edge for me
+Because that's where this is going, straight from soft noodle to hard edge
+Edge for me as fast as you can, #PetName @EdgeHold
+#LetTheEdgeFade
+@End

@@ -1,0 +1,162 @@
+@NullResponse @AFKOn @RapidCodeOn
+@NullResponse @BadMood(bad mood)
+@NullResponse @GoodMood(good mood)
+@ApathyLevel(1) @NullResponse @Goto(70chance)
+@ApathyLevel(2) @NullResponse @Goto(60chance)
+@ApathyLevel(3) @NullResponse @Goto(50chance)
+@ApathyLevel(4) @NullResponse @Goto(40chance)
+@ApathyLevel(5) @NullResponse @Goto(30chance)
+@End
+(bad mood)
+@ApathyLevel(1) @NullResponse @Goto(40chance)
+@ApathyLevel(2) @NullResponse @Goto(30chance)
+@ApathyLevel(3) @NullResponse @Goto(20chance)
+@ApathyLevel(4) @NullResponse @Goto(10chance)
+@ApathyLevel(5) @NullResponse @Goto(01chance)
+@End
+(good mood)
+@ApathyLevel(1) @NullResponse @Goto(99chance)
+@ApathyLevel(2) @NullResponse @Goto(90chance)
+@ApathyLevel(3) @NullResponse @Goto(80chance)
+@ApathyLevel(4) @NullResponse @Goto(70chance)
+@ApathyLevel(5) @NullResponse @Goto(60chance)
+(01chance)
+@NullResponse @Chance01(yes)
+@NullResponse @Goto(no)
+@End
+(10chance)
+@NullResponse @Chance10(yes)
+@NullResponse @Goto(no)
+@End
+(20chance)
+@NullResponse @Chance20(yes)
+@NullResponse @Goto(no)
+@End
+(30chance)
+@NullResponse @Chance30(yes)
+@NullResponse @Goto(no)
+@End
+(40chance)
+@NullResponse @Chance40(yes)
+@NullResponse @Goto(no)
+@End
+(50chance)
+@NullResponse @Chance50(yes)
+@NullResponse @Goto(no)
+@End
+(60chance)
+@NullResponse @Chance60(yes)
+@NullResponse @Goto(no)
+@End
+(70chance)
+@NullResponse @Chance70(yes)
+@NullResponse @Goto(no)
+@End
+(80chance)
+@NullResponse @Chance80(yes)
+@NullResponse @Goto(no)
+@End
+(90chance)
+@NullResponse @Chance90(yes)
+@NullResponse @Goto(no)
+@End
+(99chance)
+@NullResponse @Chance99(yes)
+@NullResponse @Goto(no)
+@End
+(yes)
+@NullResponse @AFKOff
+@NullResponse @RapidCodeOff @Goto(first,second,third,fourth,fifth)
+(first)
+I should probably stop letting you #JerkOff so much...
+If you can't even stay away from the edge
+It's so much fun to take away your pleasure 
+But on the other hand, I want to make you so horny your brain starts to melt
+And that means making you stroke and edge and stroke and edge #Grin
+Hmmm... such a delicious dilemma...
+No, I definitely I want you horny as hell right now #Laugh
+There's going to be no quarter for my #PetName
+@End
+(second)
+You're edging without permission a little too often #GeneralTime
+Maybe you've been #JerkingOff too much
+On the other hand... maybe you've not been doing that enough
+Maybe you need more practice...
+@End
+(third)
+It's so hard to keep yourself from edging, isn't it...
+You're looking at my hot body all the time
+Or at pictures of other girls @ShowTaggedImage @TagSoloF 
+Or this... @ShowFemdomImage
+When you see all this hotness @ShowLocalImage
+It's just so hard to keep yourself from edging @ShowLesbianImage
+But you have to try, #PetName @ShowBlowjobImage
+You have to try to be a good #PetName for me
+You can always ask me for an edge, and if I say no...
+Well you're just going to have to try and exercise some self control #EmoteHappy
+@End
+(fourth)
+Be careful about edging without permission
+If I'm not happy with your performance
+I can always take away your access to my #Cock altogether
+You're lucky I'm not going to do that right now
+@End
+(fifth)
+Try not to edge without my permission too often, #Name
+I'm not going to deny you access to my #Cock this time
+But I might not be so forgiving next time
+@End
+(no)
+@NullResponse @AFKOff
+@NullResponse @RapidCodeOff @Goto(one,two,three,four,five)
+(one)
+You're edging without permission a little too often #GeneralTime
+Maybe you've been #JerkingOff too much
+Luckily, that's something we can remedy #Grin
+Because, #PetName...
+Just because I want to tease you, doesn't necessarily mean you get to #JerkOff
+@HasChastity And you don't have that chastity device for nothing @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity Just keep you hands away from my #Cock @ChastityOn 
+We can have fun, even when you're not touching #Smile
+@End
+(two)
+I should probably stop letting you #JerkOff so much...
+If you can't even stay away from the edge
+It's so much fun to take away your pleasure 
+But on the other hand, I want to make you so horny your brain starts to melt
+And that means making you stroke and edge and stroke and edge #Grin
+Hmmm... such a delicious dilemma...
+Alright, I've made my mind up
+@HasChastity @NullResponse @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity @NullResponse @ChastityOn
+You don't get to stroke for now #Smile
+@End
+(three)
+Alright, I'm going to make you do another edge, #Name
+You better make the most of it, because it's the last one you'll get for a while
+#Edge @EdgeHold
+#LetTheEdgeFade
+@HasChastity Now you're going to somehow make my #Cock go soft and limp
+@HasChastity I don't care how you do it @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity @NullResponse @ChastityOn
+It's about time your #Cock got some rest #Smile
+@End
+(four)
+It's about time you stop #JerkingOff because you're obviously not able to control yourself
+@HasChastity So you better find some way to get that erection down
+@HasChastity That's right, it's time to get that chastity device out again
+That #Cock needs some time off
+@HasChastity @NullResponse @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity @NullResponse @ChastityOn
+Your hands are probably starting to itch already #Laugh
+@End
+(five)
+I think it's best if you don't #JerkOff anymore for now
+You could probably use some rest too, right?
+Or... not... I don't care #Laugh
+@HasChastity Better get some ice, or do some summersaults
+@HasChastity Or whatever you need to do to get that erection down #Lol
+@HasChastity Because you probably know what's coming next... @CallReturn(Custom/CallReturn/pvCr_ChastityOn.txt)
+@DoesNotHaveChastity @NullResponse @ChastityOn
+Let's see how you like it when you don't get to #JerkOff
+@End

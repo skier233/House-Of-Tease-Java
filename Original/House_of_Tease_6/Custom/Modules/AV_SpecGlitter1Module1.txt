@@ -1,0 +1,19 @@
+#StopStroking @StopStroking 
+I am so glad #DomName let me take control of you @ChangeVar[AV_GlitterControl]=[AV_GlitterControl]+[1]
+i spent all day thinking about you
+ready to stroke now? 
+I will give you something different
+#Stroke #Random(10, 20) slowly @PlayAudio[tease\cStroke.mp3] @Wait(15)
+Give me #Random(5, 8) quick strokes @PlayAudio[tease\cStroke.mp3] @Wait(10) 
+#Stroke #Random(10, 20) slowly @PlayAudio[tease\cStroke.mp3] @Wait(15)
+Give me #Random(5, 8) quick strokes @PlayAudio[tease\cStroke.mp3] @Wait(10) 
+aww you look so cute struggling like that 
+Now Edge @Edge
+I've been nice to you so far. 
+I haven't made you do anything too scary or painful.
+Only a bit of sexual torment and teasing. 
+It's time you repay me. @SetLink(AV_SpecGlitterLinkEnd)
+#Edge @EdgeNoHold @MultipleEdges(4, 10, 100)
+Now slave, are your balls getting a bit too full? 
+Would you like some release? #Lol
+@End

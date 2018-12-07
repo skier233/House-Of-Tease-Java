@@ -1,0 +1,10 @@
+The thing is...
+I don't want to stop making you suffer either
+In fact, I want to just keep on teasing you 
+So, lets add some time to our session today @RapidCodeOn
+@Flag(AV_DommeMistress) @NullResponse @AddTeaseTime(15 Minutes, 20 Minutes) 
+@Flag(AV_DommeMistress) @NullResponse @Goto(NoMoreExt)
+@NullResponse @AddTeaseTime(10 Minutes, 15 Minutes) 
+(NoMoreExt)
+And now
+@End

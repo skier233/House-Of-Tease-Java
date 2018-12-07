@@ -1,0 +1,206 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+How about some more anal play #SubName?
+[yes] Good boy #EmoteHappy
+[no] Oh you spoilsport... #EmoteSad @Goto(noanal)
+@DifferentAnswer Is that a yes or a no?
+@NullResponse @Goto(Pre1,Pre2,Pre3)
+(Pre1)
+Perhaps one of the reasons why strap on penetration has held such a fascination for me
+is because of that fact that it is so taboo. 
+It remains a forbidden fruit, so to speak. @Goto(ESC_ANAL)
+(Pre2)
+Pegging makes me feel very powerful and in charge 
+It is nice to be able to turn the tables and treat men as servants and sluts. @Goto(ESC_ANAL)
+(Pre3)
+God, you must be a good fuck. 
+I would love plowing you and milking your locked-up cock with my huge strap-on. 
+holding you steady while your hole remembers who’s in charge. @Goto(ESC_ANAL)
+(ESC_ANAL)
+@NullResponse @Goto(ANAL1,ANAL2,ANAL3,ANAL4)
+(ANAL1)
+Put a towel on the ground and crouch down on it.
+Get some lube @Wait(30)
+#KneelForMe @Wait(30)
+Squeeze some lube onto the pointer and middle fingers 
+But this time, in your non dominant hand 
+and reach down past your cock and balls. 
+Slather it onto your asshole. @Wait(10)
+add more lube to fingers and then slowly push your pointer finger in. 
+When you cant push it deeper, remove it slowly and replace it with your middle finger.  @Wait(10)
+The middle finger is longer and will penetrate deeper. @Wait(15)
+When it is fully inserted, just leave it there.  @Wait(30)
+#StartStroking @Wait(20)
+Get used to the feeling of fingers in your ass.  
+When you're satisfied, remove the finger and re-lube again. @Timeout(40, analtrain5)
+[satisfied, done, ready, finished] #Okay
+[no] You don't? 
+@AcceptAnswer satisfied or no #SubName?
+(analtrain5)
+#StopStroking @wait(10)
+Now insert your lubed pointer finger slowly. 
+Give it a long stroke all the way in and out.  @Wait(30)
+Then replace it with your middle finger. 
+All the way in, all the way out. 
+I call this my "1-2" technique. 
+#StartStroking @Wait(20)
+Keep rotating back and forth for 24 repetitions @Wait(30)
+slowly increasing your speed as your asshole loosens up. @Wait(30)
+After 24 repetitions, insert the middle finger and leave it in. 
+#Edge @wait(18)
+#StopStroking 
+Now, go back to the "1-2" technique 
+and repeat until your ass relaxes enough to stay open even when there's no finger inside.  @Wait(30)
+Are you satisfied, or want more ass fuck? @Timeout(40, analtrain6)
+[yes, satisfied, done, finished] #Okay @Goto(EndAnal2)
+[no] You don't? 
+@AcceptAnswer satisfied or no #SubName?
+(analtrain6)
+Let's continue then
+We are going try to fit 2 fingers up your ass. 
+#StartStroking @Wait(20)
+Now, fuck your ass with 2 fingers  @Wait(30)
+Keep there @Wait(20)
+Move your fingers in and out, fucking your ass 20 times.  @Wait(30)
+Then remove them completely before pushing them all the way back in, at least 3 times. @Wait(30)
+When you feel you've been thoroughly violated and stretched, stop. @Wait(30)
+Hmmm... @Goto(EndAnal2)
+(ANAL2)
+I want you to look up into my eyes. 
+I hope you are ready for what comes next?
+@NotFlag(AV_PinDone) Go fetch me a spoon, lube and some clothespins. At least 10 of them. @Wait(20) @TempFlag(AV_PinDone)
+#KneelForMe
+@Flag(av_fetish_pain) Now put one on each nipple. 
+@Flag(av_fetish_pain) Get as much nipple in as you can then pull them out as far as you can to check that they are on properly. @Wait(20)
+@Flag(av_fetish_rough) Do you like that whore? 
+Good
+@Flag(av_fetish_pain) now take four more, 2 on each ear. 
+@Flag(av_fetish_pain) That's a bit uncomfortable now isn't it.
+@Flag(av_fetish_pain) Now put 4 tightly on your balls.
+@Flag(av_fetish_pain) All in a pretty little line. 
+@Flag(av_fetish_pain) I sure hope you have room for them all.
+Thought you might need a bit of encouragement with this slave. 
+I hope you are still kneeling, you better be. 
+Bend over and stick that ass in the air.
+Thats right I'm going to fuck you
+I'm going to fuck that ass, I now own.
+Lube one finger and prod your tight little asshole with it. @Wait(20)
+Come on ram that thing in there a little harder. 
+Is it starting to go in. 
+Thats a good little slave. 
+How hungry is that slave ass now, 
+squeeze it all the way up your ass. @Wait(20)
+Good whore all the way up, get it all the way in. 
+Go on, bend over a bit more.
+Is it in slut, good little doggy...
+That feel good, does it feel like youre my horny ass slave?
+Now pull it out half way very slowly and ram it back in hard and fast. @Wait(20)
+Fuck yourself with it like that 12 times @Wait(20)
+Hmmm...remove all clothespins @Goto(EndAnal2)
+(ANAL3)
+#KneelForMe
+Lube one finger and run around you right there and rub in all 
+Oh, yes, moan for me, fuck! 
+You like that don't you?
+How about press your finger in just a little bit, and open you up, just for the tip of it. 
+Oh my god baby, that's so hot, watching you squirm. 
+You love it don't you? 
+You want more? 
+Lets see if you can slide your finger in a little deeper. 
+Fuck baby, you're so hot, moaning as you slide your finger in slowly. 
+That's it take your finger in all the way. 
+Oh, that's my dirty little boy, loving your finger dip in and out of your asshole.
+And look at how hard and twitchy your cock is. 
+No, don't touch it! 
+@Flag(av_fetish_pain) @CBTCock
+I want to watch it twitch while you finger yourself. 
+Oh, baby would you like another finger, hmmmm? 
+Let me see if we can slide in two. @Wait(15)
+Oh yeah, that's it, open up for me baby. 
+Take 2 fingers in that sexy little hole of yours. 
+You're taking them so good. 
+Have you ever had anything else in you back here before? 
+No? I bet you'd love it, wouldn't you? 
+You want to be fucked in your hot, wet hole? 
+Do you baby? 
+Beg for it. 
+Beg me to fuck your sweet little ass. 
+That's right. 
+Tell me that you're my good little boy slut and that your ass is mine. 
+That I can do whatever I want to you. 
+That's a good boy! 
+@Flag(av_fetish_pain) Slap your #Cock following the beats @PlayAudio[tease\spank\*.mp3]  @Wait(12)
+Keep fucking that ass
+Oh, look how easily yours finger slides in and out. 
+#StartStroking
+But dont stop the fucking...
+I'm going to slowly fuck you
+Fuck, yes, moan for me, let me hear those sexy little whimpers and growls. 
+Oh, yeah, you want more don't you? 
+You want it harder? 
+What's that? That's right. 
+"Yes please. Please fuck me harder"
+@NullResponse @Chance50(NoAudioFuck)
+@SystemMessage #DomName turned on the mic @PlayAudio[tease\commands\Fuck*.mp3] @Wait(10)
+(NoAudioFuck)
+That's what I want to hear. 
+I'm getting so wet. 
+I want to cum so fucking bad while fucking your sweet little hole. 
+Hmmm... @Goto(EndAnal2)
+(ANAL4)
+I think we'll play with this hole first. 
+This tight, pink pucker that you're always so eager to offer me. 
+This slick, toy-craving fuckhole that will suck on every finger I've got.
+Get some lube @Wait(30)
+#KneelForMe
+Just wipe a little lube on your finger and rubb your ass 
+Now... slips right into that hole.
+Yeah. That's what I'm going to pop in your hole first. 
+It doesn't do much, but I just like mixing you up a bit.
+Press in a little further, I want to see your eyes go wide
+There it is. There's my boy's prostate.
+I'm going to edge you, #PetName. But don't worry 
+I have ways of keeping you from cuming.
+#StartStroking
+and start fucking that ass
+In and out
+You need to be put in your place.
+@NotFlag(av_fetish_pain) @NullResponse @Goto(SkipPain4k)
+@Flag(av_fetish_pain) #StopStroking
+@Flag(av_fetish_pain) @NullResponse @CBTBalls
+@Flag(av_fetish_pain) #StartStroking
+You like to be stretched.
+You're almost spent
+Good...the longer you take, the more I get to shock you. 
+Keep working that finger in and out of your loose hole. 
+Take it, #PetName take it. @Chance50(NoAudioFuck76)
+@SystemMessage #DomName turned on the mic @PlayAudio[tease\commands\Fuck*.mp3] @Wait(10)
+(NoAudioFuck76)
+This little slut would do anything to ride my wrist. 
+You're never satisfied with just fingers. 
+NO
+These little sluts get a goal in mind 
+and they will beg and moan and plead for you to give them your fist 
+until they're finally begging and moaning and pleading for the exact opposite. 
+Fine...try to put a second finger inside your ass... @Wait(15)
+There you go... you earned the second finger
+I like this game. 
+What an ass-slut.
+#Edge @EdgeNoHold
+Keep fucking you ass
+I enjoy the feeling of power over you.
+Take it slut! Take that finger.
+Stop...remove your fingers...  @Wait(15)
+I wanted you to stand up and spread your legs. 
+I enjoyed deflowering you
+It made me feel powerful and in control. @Goto(EndAnal2)
+(EndAnal2)
+You can sit and clean yourself @Wait(30)
+I hope your asshole has recovered by now...
+Now I do wonder what else I can talk you into doing... #Grin
+@End
+(noanal)
+Lucky for me there are plenty of other ways to torment you #Grin
+@End

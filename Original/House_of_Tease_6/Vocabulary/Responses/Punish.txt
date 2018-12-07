@@ -1,0 +1,66 @@
+[punish, can you punish me, punish me, bad boy, punished, i was bad, i've been bad, ive been bad, want to be punished, need to be punished]
+[Before Tease]
+[Before Tease End]
+[First Round]
+Already? OK. #StopStroking @StopStroking @CBT
+[First Round End]
+[Stroking]
+@NullResponse @MiniScript(pvMs_PunishMePlease)
+If you're actually <i>asking</i> me to #Torture you. #Edge @Edge #LetTheEdgeFade
+If you want to be punished so bad I'm not #Gonna stop you #PetName . #Edge @Edge #LetTheEdgeFade
+You're so impatient to start be #Hurting for me #PetName . #Edge @Edge #LetTheEdgeFad
+If you want to be punished so bad I'm not #Gonna stop you #PetName . #StopStroking @StopStroking @CBT 
+You're so impatient to start be #Hurting for me #PetName . #StopStroking @StopStroking @CBT 
+If you're actually <i>asking</i> me to #Torture you. #StopStroking @StopStroking @CBT
+If you're actually <i>asking</i> me to #Torture you.  @MiniScript(AV_Punish1) 
+If you want to be punished so bad I'm not #Gonna stop you #PetName. @MiniScript(AV_Punish2) 
+OK I will #Hurting you #StopStroking @StopStroking @CBT
+@Flag(av_standing_position) You will now get into the Standing Position until I say to stop #Stroking @ShowImage[av_imagens\01.jpg] @UnlockImages
+@Flag(av_submissive_position) You will now get into the Submissive Position until I say to stop #Stroking @ShowImage[av_imagens\04.jpg] @UnlockImages
+@Flag(av_basic_position) You will now get into the Basic Position until I say to stop #Stroking @ShowImage[av_imagens\02.jpg]  @UnlockImages
+If you want to be punished so bad I'm not #Gonna stop you #PetName  @CallReturn(Custom\CallReturn\AV_PunishRND.txt)
+You're actually <i>asking</i> me to #Torture you. @CallReturn(Custom\CallReturn\AV_PunishRND.txt)
+In this case, a punishment must be applied @CallReturn(Custom\CallReturn\AV_PunishRND.txt)
+If you want to be punished so bad I'm not #Gonna stop you #PetName  @CallReturn(Custom\CallReturn\AV_Punish1.txt)
+You're actually <i>asking</i> me to #Torture you. @CallReturn(Custom\CallReturn\AV_Punish1.txt)
+In this case, a punishment must be applied @CallReturn(Custom\CallReturn\AV_Punish1.txt)
+If you want to be punished so bad I'm not #Gonna stop you #PetName  @CallReturn(Custom\CallReturn\AV_Punish2.txt)
+You're actually <i>asking</i> me to #Torture you. @CallReturn(Custom\CallReturn\AV_Punish2.txt)
+In this case, a punishment must be applied @CallReturn(Custom\CallReturn\AV_Punish2.txt)
+If you want to be punished so bad I'm not #Gonna stop you #PetName  @CallReturn(Custom\CallReturn\AV_Punish3.txt)
+You're actually <i>asking</i> me to #Torture you. @CallReturn(Custom\CallReturn\AV_Punish3.txt)
+In this case, a punishment must be applied @CallReturn(Custom\CallReturn\AV_Punish3.txt)
+[Stroking End]
+[Not Stroking]
+If you're actually <i>asking</i> me to #Torture you. #Edge @Edge #LetTheEdgeFade
+If you want to be punished so bad I'm not #Gonna stop you #PetName . #Edge @Edge #LetTheEdgeFade
+You're so impatient to start be #Hurting for me #PetName . #Edge @Edge #LetTheEdgeFad
+If you want to be punished so bad I'm not #Gonna stop you #PetName . #StopStroking @StopStroking @CBT 
+You're so impatient to start be #Hurting for me #PetName . #StopStroking @StopStroking @CBT 
+If you're actually <i>asking</i> me to #Torture you. #StopStroking @StopStroking @CBT
+@NullResponse @MiniScript(pvMs_PunishMePlease)
+OK I will #Hurting you @CBT
+OK I will #Hurting you @MiniScript(AV_Punish3) 
+[Not Stroking End]
+[Edging]
+If you're actually <i>asking</i> me to #Torture you. #HoldTheEdge @Wait(30)
+If you want to be punished so bad I'm not #Gonna stop you #PetName . #HoldTheEdge @Wait(30)
+You're so impatient to start be #Hurting for me #PetName . #HoldTheEdge @Wait(30)
+[Edging End]
+[Holding The Edge]
+@NullResponse @MiniScript(pvMs_PunishMePlease)
+If you're actually <i>asking</i> me to #Torture you. #HoldTheEdge @Wait(30)
+If you want to be punished so bad I'm not #Gonna stop you #PetName . #HoldTheEdge @Wait(30)
+You're so impatient to start be #Hurting for me #PetName . #HoldTheEdge @Wait(30)
+@Flag(av_standing_position) You will now get into the Standing Position until I say to stop edging @ShowImage[av_imagens\01.jpg] @UnlockImages
+@Flag(av_submissive_position) You will now get into the Submissive Position until I say to stop edging @ShowImage[av_imagens\04.jpg]  @UnlockImages
+@Flag(av_basic_position) You will now get into the Basic Position until I say to stop edging @ShowImage[av_imagens\02.jpg]  @UnlockImages
+[Holding The Edge End]
+[CBT Cock]
+[CBT Cock End]
+[CBT Balls]
+[CBT Balls End]
+[Chastity]
+[Chastity End]
+[After Tease]
+[After Tease End]

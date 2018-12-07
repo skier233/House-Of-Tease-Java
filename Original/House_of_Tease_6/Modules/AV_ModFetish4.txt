@@ -1,0 +1,372 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModFetish4_NotFirstTime)
+@NullResponse @SetVar[AV_ModFetish4]=[0] 
+@NullResponse @SetFlag(AV_ModFetish4_NotFirstTime)
+(AV_ModFetish4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModFetish4]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModFetish4]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModFetish4]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModFetish4]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModFetish4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModFetish4]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModFetish4]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModFetish4]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModFetish4]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModFetish4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModFetish4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModFetish4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModFetish4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModFetish4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModFetish4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModFetish4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModFetish4]=[AV_ModFetish4]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModFetish4]=[AV_ModFetish4]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModFetish4]=[AV_ModFetish4]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModFetish4]=[AV_ModFetish4]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModFetish4]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+#PetName
+#Contact1 asked me just asked me if she could make you edge a little for her
+#OfCourse I said sure #Grin
+@NullResponse @AddContact1
+@Contact1 See, I was a little easy on you when we first met. 
+@Contact1 I didn't think it was right to just completely destroy you before #Contact3 had a turn with you. 
+@Contact1 But now that she has..
+@Contact1 I can fuck you up without holding back
+@Contact1 #StartStroking
+@Contact1 From now on...all stroking is done on my terms
+@Contact1 You don't get to jerk off without my say so
+@Contact1 you don't even get to TOUCH it unless I let you
+@Contact1 And you sure as HELL don't get to cum
+@Contact1 The hornier you get...the more receptive you'll be to what I have to say to you
+@Contact1 #Edge @EdgeNoHold
+@Contact1 #DomName and I thought very hard about the best way to keep you from cumming. 
+@Contact1 We considered locking you up in a permanent chastity device, but that was a little too kinky for our tastes.
+@Contact1 #Edge @EdgeNoHold
+@Contact1 So in the end, we decided on something simple and effective
+@Contact1 We're just going to break your #Cock
+@Contact1 What's that look for? It's not like we're going to physically snap it in half
+@Contact1 #StartStroking
+@Contact1 Now, threats are all fine and good
+@Contact1 they keep you in line easily enough
+@Contact1 But you and I both know they aren't the only reason
+@Contact1 that you're going to comply with every little thing we tell you to do
+@Contact1 You're going to touch yourself in every way we want
+@Contact1 Hurt yourself in every way we tell you to
+@Contact1 because we both know
+@Contact1 that this the only kind of attention you deserve from women
+@Contact1 #StopStroking
+@Contact1 You're going to elevate your own arousal to a level beyond pain, beyond suffering. 
+@Contact1 The more you edge,the quicker you'll get there...
+@Contact1 so edge for me now. @EdgeNoHold
+@Contact1 Soon you'll get to a place where you're more desperate to cum than you've been in your entire life
+@Contact1 All that stroking and edging will begin to add up
+@Contact1 until just the mere THOUGHT of touching yourself will make you cry. 
+@Contact1 #Edge @EdgeNoHold
+@Contact1 I want as much ache as possible to settle in your flesh before you start stroking again
+@Contact1 When you've finally been teased to the point of desperation
+@Contact1 to the point where you will absolutely go insane if you don't cum
+@Contact1 that's when it would be perfect to make you ruin your orgasm. #Emote
+@Contact1 That's how every orgasm you're ever going to feel from now on should be. 
+@Contact1 Which sucks for you, because cocks aren't supposed to do all that work by themselves.
+@Contact1 It puts a horrible strain on the flesh and plumbing
+@Contact1 Think about that...and give me another edge @EdgeNoHold
+@Contact1 I hope you weren't expecting any #Mercy
+@NullResponse @RemoveContact1
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+#SubName
+Get a cock ring or some sort of string or rope of your choice 
+to wrap that cock up nice and tight and keep you hard just for me. 
+I will be waiting...
+[Done, ready, yes] Good #Slave #EmoteLaugh Now we can begin.
+@DifferentAnswer Are you ready #Slave?
+We are going to start slowly, teasing those #Balls. 
+Good boy, now take out that cock ring, or that string or rope. 
+I want you to put that cock ring around your dick and balls
+if you don't have one I want you to take that string 
+and wrap it around your dick and balls twice and tie a nice neat knot
+I will be waiting...
+[Done, ready, yes] Good #Slave #EmoteLaugh 
+@DifferentAnswer Are you ready #Slave?
+#StartStroking slow and steady. 
+Take your non dominant hand and start playing with your nipples. 
+@Flag(AV_DommeMistress) Pinch them, squeeze them, and play with them while you #Stroke. 
+I know they're not as sensitive as my little, soft, pink nipples are 
+but you'll have to make due. After all, you are just a boy.
+How do those #Balls feel? Tight? 
+Full of cum? Aching?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+#StrokeFaster
+Take your hand away from your nipples and start squeezing those #Balls 
+like you're trying to force the cum from that cock. 
+@Flag(AV_DommeMistress) Faster. Do you think I'm fucking around? 
+@Flag(AV_DommeMistress) FASTER slave.
+Oops! #EmoteLaugh 
+I forgot to play my favourite little game first. 
+#StopStroking
+Just keep kneading those balls for me pet, and listen to what mistress has to say.
+I think I want to take your breath away. 
+I know this #Pussy would do the trick 
+but unfortunately for you, all you have is my words #EmoteLaugh 
+But I promise you I can make due. 
+I want you to hold your breath for me #PetName 
+As long as you hold your breath you can stroke for me. 
+And you know what else? I think I want my pet on his knees. 
+#KneelForMe and take a long, deep breath.
+You're going to need it #EmoteLaugh 
+Breathe in... and hold @Wait(15)
+Now let go.
+Mmm good boy, you're making your mistress happy. 
+You can continue stroking, but stay on your knees.
+Those #Balls are probably starting to get really sore aren't they?
+I can imagine how red your cock is with all that blood pumping through your veins. 
+You might be a little too turned on.
+#StopStroking
+@Flag(av_fetish_pain) @CBTCock
+Good, now we can continue. I want you trained for me. 
+So we're going to try that again. This time for a bit longer.
+Breathe in... and hold. @Wait(20)
+Good boy, you can breathe again. 
+You looked a little tense this time. Like you weren't going to make it.
+But we'll fix that. I know your knees are getting sore so I'll be quick this time. 
+Now get ready to take a deep breath.
+Breathe in... and hold. @Wait(10)
+Ten seconds, keep holding it #Slave. 
+Just focus on that cock. How good does it feel? 
+I know how badly you want to please me. Just stroke and think of me
+What it would be like if I was standing over you 
+rubbing my clit and maybe, just maybe playing with my asshole.
+Ok you can breathe. 
+Now you can get off your knees and sit down. 
+You were so close but now I am getting bored. Time for some excitement.
+@CustomTask(AV_StrokeNumber)
+#_YouHaveNoIdeaHowMuchFunThisIs @Goto(dice1, dice2)
+(dice1)
+#KneelForMe @Wait(10) @Goto(dice3, dice4)
+(dice2)
+put your legs up in the desk in the shape of a V 
+like a slut ready to get fucked @Wait(10) @Goto(dice3, dice4)
+(dice3)
+#StartStroking @Goto(Inter)
+(dice4)
+play with just your balls for now
+(Inter)
+#_IKnowYouLongToCum @Goto(dice5, dice6)
+(dice5)
+@CBT
+#_IKnowYouLongToCum_ST_2L @Goto(Fim1)
+(dice6)
+@CustomTask(AV_StrokeNumber)
+#_IKnowYouLongToCum_ST_2L @Goto(Fim1)
+(Fim1)
+Ok so I think I've been enough of a mean bitch of a mistress
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CheckFlag(av_fetish_pegging)
+@NullResponse @Call(Custom\AV_Scripts\AV_Audio.txt)
+@End
+(av_fetish_pegging)
+@NullResponse @Chance50(Outropeg)
+#PetName, I think it's time for me to tell you some of my kinky fantasies. 
+We've been exploring all the kinky fantasies I have, and don't get me wrong I'm loving it.
+One of my favourites fantasies is to fuck you in the #Ass with my strap-on.
+@Flag(AV_DommeMistress) I love the power it gives me over you, the look on your face as I wank my hard 10'' Cock 
+@Flag(AV_DommeMistress) as I stand over you, legs apart so you can see the harness strapped onto my #Pussy mound.
+#Edge @Edge
+#LetTheEdgeFade
+Are you looking at the picture, imagining you were here on your knees, naked with your #Cock in your hand! @ShowTaggedImage @TagStrapon 
+@BadMood I know all boys fantasise about being fucked by a girl, you won't admit it to your mates 
+@BadMood but deep down the thought of a young girl penetrating your #Ass gets you rock hard and wanking like crazy @ShowTaggedImage @TagStrapon @Wait(10)
+I would command, as kick your back, legs in the air with your anus spread inviting me to penetrate you.
+@Flag(AV_DommeMistress) I don't use any lube, just pull your #Ass cheeks apart and spit in your sphincter.
+I would scream as I shoved two fingers up your #Ass
+pressing down on your prostate and opening your bum hole up to receive my #Cock.
+#Edge @Edge @ShowTaggedImage @TagStrapon
+#LetTheEdgeFade
+@Flag(AV_DommeMistress) You could scream as I do this as I tear into your anal passage,
+@Flag(AV_DommeMistress) violating your virgin ass holes, some just whimper and cry @ShowTaggedImage @TagStrapon @Wait(10)
+@Flag(AV_DommeMistress) but you would lose your #Erection as I slam my #Cock up to the hilt
+@Flag(AV_DommeMistress) something really weird happens like you slowly turning into a girl and losing your manhood as youre fucked.
+You go from #Stroking your #Cock with your fist to rubbing the tiny little stubby tip of your #Cock with your index finger and thumb
+this truly is a show of GIRL POWER and again a demonstration on how weak a sex you boys are.
+For a girl to grind her pussy mound
+banging her clit against a blokes ass cheeks is the ultimate turn on
+seeing your pathetic #Cock and #Balls shrivelled up in defeat
+as I penetrate you with the full width and length of my strap-on.
+#Edge @Edge @ShowTaggedImage @TagStrapon
+#LetTheEdgeFade
+@BadMood The final humiliation is when I pull out sharply,
+@BadMood seeing the redness of your #Ass ring all swollen, burning!!
+@BadMood I whip my harness off
+@BadMood diddle my #Pussy until its pissing cunt juice all over that raw sphincter
+@BadMood causing you to scream out in pain as the acid of my girl juice burns your boy bum hole.
+#@BadMood Edge @Edge @ShowTaggedImage @TagStrapon
+@BadMood #LetTheEdgeFade 
+@NullResponse @Chance50(AVRND15)
+Finally I raise your legs above your head
+order you to #Stroke off until you cum over your pathetic face
+and that's where my other fantasy starts
+because I love to piss on #Slave, just as you cum
+you are so vulnerable at that time you would let a girl do anything to you.
+Now shove your cock between you legs.
+Because I fancy giving you one last milking!!!
+Thats it #Stroke it like this, down strokes
+If it was as #Big as mine you could shove it up your own ass!!
+(AVRND15)
+@End
+(Outropeg)
+Would you like to hear about what I will be wearing for you tonight?
+instead of panties I am wearing a brand new strap-on that I have been dying to try out.
+Like this one @ShowTaggedImage @TagStrapon 
+Once you reach me I am going to have you kiss the head of my strap-on once again. @Chance50(AVRND03) 
+In between kisses you will declare your devotion and total commitment to me. 
+(AVRND03) 
+#Edge @Edge
+#LetTheEdgeFade 
+Once I am satisfied in your expression of dedication I will allow you to suck on my cock. 
+I am going to enjoy watching your head bob up and down on my strap-on 
+as you work it farther and farther down your throat. 
+You should know that I will not be afraid to grab the back of your head and push it down even further 
+if I #Feel you are not taking as much of it as possible. @Chance50(AVRND04) 
+I must be satisfied that you are giving me your best effort. 
+As your mistress, I deserve your best effort.
+(AVRND04) 
+When I am happy with your performance I will push you back to rest. 
+Then I will make you watch as I apply a glob of lube along with your saliva. 
+#Edge @Edge
+#LetTheEdgeFade 
+I am going to take my time slathering it up and down the shaft 
+so you can appreciate the fact that the entirety of it 
+will be thrust into your tight little #Ass #Very soon.
+Then I am going to push you face down on the floor once again 
+and take my place behind you with your #Ass high in the air for me. @Chance50(AVRND05) 
+With the tip of my strap-on perched at your hole 
+I am going to let it rest there for a few moments. 
+I want you to take it all in. 
+(AVRND05) 
+I want you to feel the measure of your helplessness as it knocks gently at your back door.
+#Edge @Edge
+#LetTheEdgeFade 
+Before I finally push the head in I am going to make you ask for it
+@Flag(AV_DommeMistress) No, I am going to make you #Beg for it. 
+With my cock hovering on the brink of your asshole I am going to make you #Beg for me to fuck you. 
+@Flag(AV_DommeHornie1) I am going to make you tell me how bad you want it. 
+@Flag(AV_DommeMistress) I am going to make you plead for me to plunge it deep inside you.
+After relishing in your beseechment, 
+I will push the head of my cock slowly into your #Ass. 
+Once I get it just a couple inches in I will stop. 
+I will hold your hips in place so that you cannot push back, 
+@Flag(AV_DommeHornie1) because I know you will want more. 
+I am going to make you wait for it. 
+@Flag(AV_DommeMistress) Once again I am going to make you plead for it.
+#Edge @Edge
+#LetTheEdgeFade 
+I will repeat this over and over again. 
+I will give you a little bit more of my strap-on cock 
+as I #Feel you have earned it by your #Begging.  @Chance50(AVRND06) 
+I will slowly fill up your #Ass with my member until I finally get it completely inside you
+And then the real fun will begin.
+(AVRND06) 
+#Edge @Edge
+#LetTheEdgeFade 
+Now that I have opened you up to receiving my whole cock 
+I will pull it most of the way out and then thrust it back in. Like this @ShowTaggedImage @TagStrapon @Wait(10)
+Then I will do it again.. @ShowTaggedImage @TagStrapon @Wait(10)
+and again. @ShowTaggedImage @TagStrapon @Wait(10)
+After a while I will take hold of your wrists for a little added leverage 
+so that I can pick up the pace. 
+As I continue to pound your ass with my strap-on 
+I am sure you will begin moaning with pleasure as you #Feel the measure of my domination over you. @ShowTaggedImage @TagStrapon @Wait(10)
+#Edge @Edge @ShowTaggedImage @TagStrapon
+#LetTheEdgeFade 
+You will begin thanking me for fucking you as I thrust into you harder and harder.
+Finally, after I have had my fill, 
+I will pull my cock from your ass 
+and push you over on your side so that you can relax while you catch your breath.  @Chance50(AVRND07) 
+I am confident by now there will be a steady flow of pre-cum flowing from the tip of your cock 
+and your balls will be even tighter than before. 
+(AVRND07) 
+I can hardly wait to feel them straining against their bondage.
+Once I have had a little fun toying with your boys, 
+I will unlock the humbler as well as unclasp your hands. 
+I will give you just a couple minutes to recover while I remove my strap-on.
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CheckFlag(av_fetish_pain)
+Do you think this is #Sexy ? @ShowBlogImage @LockImages
+[yes] I'm glad to hear you think so
+[no] That's too bad
+@DifferentAnswer Yes or no #PetName?
+Cause you're #Gonna edge to that right now #Grin @Edge
+#LetTheEdgeFade @UnlockImages
+@End
+(av_fetish_pain)
+You're #Aching so hard right now
+you could probably cum just from squeezing your balls.
+Do it! Squeeze those balls but don't you dare cum.
+[done, get, ready, yes] Good...
+@DifferentAnswer Are you done #PetName?
+I just love precum, keep stroking nice and slow, get some more out!! 
+50 strokes, squeeze your balls while stroking, then...
+[done, get, ready, yes] Good...Let's start
+@DifferentAnswer Are you done #PetName?
+Slap your #Balls and edge for me. slap and @Edge
+#LetTheEdgeFade 
+Come on, slap them harder! @Edge
+#LetTheEdgeFade
+You like to have your balls slapped when you're on the edge, don't you?
+[yes] I know you like #Slave
+[no] Dont lie to me #Slave
+@DifferentAnswer Yes or no #PetName?
+Grab your balls for me and give them a good squeeze.
+How much cum do you think you have for me so far?
+@End

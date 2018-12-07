@@ -1,0 +1,9 @@
+[your a tease, you're a tease, you are a tease, your such a tease, you're such a tease, you are such a tease, this is teasing, this is so teasing, your teasing, you're teasing, you are teasing]
+[All]
+#0_Response_Tease
+#0_Response_Tease
+#0_Response_Tease
+#0_Response_Tease
+#0_Response_Tease
+#EmoteRandom @Interrupt(RTease)
+[All End]

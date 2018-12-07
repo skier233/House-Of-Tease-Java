@@ -1,0 +1,82 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+You are really obsessed over her.
+Now you will edge for her...a lot.
+@NullResponse @RapidCodeOn
+@NullResponse @Goto(05, 06, 08, 10, 12, 15)
+(05)
+@NullResponse @SetVar[RP_Edges]=[5]
+@NullResponse @Goto(Edged By Domme)
+(06)
+@NullResponse @SetVar[RP_Edges]=[6]
+@NullResponse @Goto(Edged By Domme)
+(08)
+@NullResponse @SetVar[RP_Edges]=[8]
+@NullResponse @Goto(Edged By Domme)
+(10)
+@NullResponse @SetVar[RP_Edges]=[10]
+@NullResponse @Goto(Edged By Domme)
+(12)
+@NullResponse @SetVar[RP_Edges]=[12]
+@NullResponse @Goto(Edged By Domme)
+(15)
+@NullResponse @SetVar[RP_Edges]=[15]
+@NullResponse @Goto(Edged By Domme)
+(Edged By Domme)
+#Edge @RapidTextOff @EdgeNoHold @ShowImage[av_imagens\02\*.jpg] @ChangeVar[RP_Edges]=[RP_Edges]-[1]
+@NullResponse @If[RP_Edges]=[0]Then(Edges Finished)
+@NullResponse @Goto(Could Let You Rest, Wait For It, Wait For It JK, Know What'd Be Funny, RP Edge Count, This Many Edges Left, Probably In A Hurry)
+(Could Let You Rest)
+I could let you rest for a bit @Chance50(You Gotta Be Aching)
+But I just don't fucking want to #Grin @Goto(Edged By Domme)
+(You Gotta Be Aching)
+I mean, you <i>gotta</i> be aching right now 
+But oh yeah @RapidTextOn
+That's kinda the point #Lol @Goto(Edged By Domme)
+(Probably In A Hurry)
+You're probably in a hurry to finish these edges, so... @RapidTextOn @Goto(Edged By Domme)
+(This Many Edges Left)
+#Var[RP_Edges] edges left #SubName @Wait(#Random(5,20)) @Goto(Edged By Domme)
+(RP Edge Count)
+#LetTheEdgeFade @If[RP_Edges]=[1]Then(Edge Count One Edge Left)
+#Var[RP_Edges] edges left to go
+I wonder what's harder on you
+Doing these edges for me
+Or the things I do to you between each one #Grin @Goto(Edged By Domme)
+(Know What'd Be Funny)
+#LetTheEdgeFade
+You know what would be funny? @Chance50(This Would Be Funny)
+If after you were done giving me these edges
+I made you edge some more for me @RapidTextOn
+Just because I can #Grin @Goto(Edged By Domme)
+(This Would Be Funny)
+This... @RapidTextOn @Goto(Edged By Domme)
+(Wait For It JK)
+Wait for it... @Chance50(Fuck That)
+Just kidding #Lol @RapidTextOn @Goto(Edged By Domme)
+(Fuck That)
+Fuck that #Lol @RapidTextOn @Goto(Edged By Domme)
+(Wait For It)
+Wait for it... @Wait(#Random(5,20)) @Chance20(Edged By Domme)
+<i>Wait</i> for it... @Wait(#Random(5,20)) @Chance40(Edged By Domme)
+Keep waiting for it... @Wait(#Random(5,20)) @Chance60(Edged By Domme)
+<i>Almost</i> there... @Wait(#Random(5,20)) @Chance80(Edged By Domme)
+#SubName... @Wait(#Random(5,20)) @Goto(Edged By Domme)
+(Direct Control)
+I know I have to give up a little direct control
+But I think it's kinda hot leaving the fate of your #Cock up to chance once in a while
+How much pleasure you feel @RapidTextOn
+How much agony you endure
+All down to the roll of the die
+The flip of a card
+Holding your breath as your entire destiny unravels in a second @RapidTextOff
+All it takes to feel a rush like that...
+Is for the stakes to be high enough #Grin @Goto(Edged By Domme)
+(Edges Finished)
+#LetTheEdgeFade 
+That was the last edge you owed me #SubName
+I hope you had as much fun as I did #EmoteHappy 
+I think I'm ready to get back to having more direct control #Grin @Wait(20)
+@End

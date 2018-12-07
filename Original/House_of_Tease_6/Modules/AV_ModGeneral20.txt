@@ -1,0 +1,419 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral20_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral20]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral20_NotFirstTime)
+(AV_ModGeneral20_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral20]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral20]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral20]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral20]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral20]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral20]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral20]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral20]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral20]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral20]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral20]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral20]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral20]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral20]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral20]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral20]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral20]=[AV_ModGeneral20]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral20]=[AV_ModGeneral20]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral20]=[AV_ModGeneral20]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral20]=[AV_ModGeneral20]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral20]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@RT(#SubName, #PetName)
+Tell me, what else do you fantasize about? @Timeout(10, AV_Timeo74)
+[bondage, tie me, tie up, tie] Hmm @Goto(Bondage)
+[cfnm] Hmm @Goto(cfnm)
+[anal, strapon, pegging, prostate] Hmm @Goto(Anal)
+[exhibitionism, watching, voyeur] Hmm @Goto{Voyeur)
+[Nothing, no] Hmm @Goto(AV_Timeo74)
+@AcceptAnswer Okay then
+(AV_Timeo74)
+Have you ever been at work one day
+or out and about, and suddenly come across a sexy sight
+one that made your cock stiffen in your pants and made you think of cumming? 
+#StartStroking
+I bet you ran to the bathroom and stroked your cock in the stall
+thinking of her the whole time. 
+Do you think it's a sexy thought
+the sight and thought of a woman making you feel like you needed to run off to make yourself orgasm for her? @Goto(JuntaTudo)
+(Bondage)
+Have you ever fantasized about a beautiful woman whispering in your ear 
+while you're tied up and naked for her? 
+I bet you have. 
+You've probably lied in your bed
+and stroked your cock
+#StartStroking
+Mmmmmmm, stroking fantasizing about this very situation. @Goto(JuntaTudo)
+(cfnm)
+Do you ever stand naked in the mirror
+and wish a woman on @RT(a sexy dress, leather clothes) would appear behind you...
+wrap her arms around you and hold you tight? 
+Maybe she'd reach down and stroke your cock for you.
+#StartStroking
+Do you think she could make you would cum? 
+Mmmmmmmm. I would make you cum.
+Next time you see a mirror I bet you'll think of me taking you from behind 
+your clock gets so hard when you think of me taking hold of you 
+and stroking your cock until you cum all over the glass. @Goto(JuntaTudo)
+(Anal)
+Have you ever been lying in bed
+masturbating * #Laugh *
+and been soooooo close to cumming 
+and felt like there was something missing? 
+Oh? Felt like there was an empty space that could be filled by pleasure? 
+I'm sure you have.
+Will you let me fill it? 
+Have you ever thought about a beautiful dominant woman touching your prostate?
+I know your cock twitches when you think of me sliiiiiding my finger gently into your ass. 
+You get so hard when you think of it. 
+Think of how hard you'd shoot your cum if I stroked you this way.
+I don't think it would take much. 
+#StartStroking
+Just stroking 
+stroooking
+strooooooking
+and you're right on the edge for me. 
+Thinking about cumming. 
+Thinking about cumming for me. @Goto(JuntaTudo)
+{Voyeur)
+I know you lay here at night sometimes,naked with headphones in, stroking your cock because a sexy voice tells you to. 
+I bet your cock would be harder if you knew I've been watching you. 
+That's right sweetie. 
+I've been watching you masturbate. 
+Did your cock just twitch? 
+That's so sexy. 
+Has it always been a fantasy of yours, a dominant woman watching you masturbate for her? 
+#StartStroking
+When you were a little boy I bet you thought about masturbating for your teenage babysitter
+standing naked in front of her stroking your little cock until you came. 
+Or maybe you sat in the back of your classroom
+hands in your little pocket touching your little cock, masturbating while you stared at your hot teacher. 
+You were oh so close and then she locked eyes with you and you came in your little boy school clothes. 
+She knew the whole time. @Goto(JuntaTudo)
+(JuntaTudo)
+Keep #Stroking, but
+#TieYourBalls @TempFlag(AV_BallTied)
+@Flag(av_fetish_gag) #BallGagOn
+Back to #Stroking when you are done...
+@Flag(AV_DommeMistress, av_fetish_rough) I'm going to treat you like a whore a slave whore! 
+look into my eyes
+I see your cock is leaking something?
+@Flag(av_fetish_cei) Lick it up now Tell me how bad it tasted
+@Flag(av_fetish_cei) It was good Right? 
+#StopStroking
+Look at you...all worked up already! 
+I can't help but giggle as you try *so hard* to keep your mind focused.
+Hands on your head! Keep them there!
+You. Will. Not. Touch. That. Cock.
+Until I say so.
+Are we clear, darling?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Mmmmm....I love looking at you and exposing you.
+God, it's such a turn on.
+How does your cock feel right now, #PetName?
+I can imagine how badly you want to stroke it for me.
+Not yet. Noooo....not yet, baby. 
+@End
+(Modulo2)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(NoTeaseFYou)
+Now  I am going to show you the true meaning of girl power! 
+@Flag(av_fetish_rough) I will show you that all men are weak and that women are the dominant sex.
+@NotFlag(AV_PinDone) Go fetch me a spoon, a shoelace and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@NotFlag(av_fetish_rough) So before we start I want you to know that you will be pushed to your limits
+@Flag(av_fetish_rough) So before we start I want you to know that you will be pushed to your limits because I don't believe that worthless men like you deserve any mercy.
+We'll start of slow so cup you balls with your weak hand slap them 10 times with your strong one @PlayAudio[tease\whip.mp3] @Wait(30)
+@FlagOr(av_fetish_rough, AV_DommeMistress) That's better. And from now on if I ask you to do something you do it properly and who knows you might get a reward?
+@NotFlag(AV_DommeMistress, av_fetish_rough) That's better. Who knows you might get a reward?
+But not yet so lets step it up. So grab that shoelace and tight your balls up tight. @Wait(30)
+Then give them 5 warm up taps. @Wait(20)
+Good! 
+@FlagOr(av_fetish_rough, AV_DommeMistress) Now slap them 25 times hard. I want you to hit them as hard as you would spank me not like you ever will. @PlayAudio[tease\whip.mp3] @Wait(30)
+Again! But this time I don't want to hear a sound and I want you to stay completely still. 
+If you move or make a sound then start again. @Wait(30)
+Looks like you've earned your reward, so start stroking but make sure that them testicles of yours stay tied tight. @PlayAudio[tease\cStroke.mp3] 
+Yes, I know... I know. 
+Your #Balls feels soooo sensitive right now after all that beating doesn't it, baby? @ResponseYes(Blue Balls)
+That's right... That's right... GOOD BOY... GOOD BOY...
+Do you want to be a GOOD BOY
+@Flag(AV_DommeMistress) #Edge @Edge @MultipleEdges( #Random(2, 3), 10, 100)
+@NotFlag(AV_DommeMistress) #Edge @Edge
+That's your reward over so I hope you enjoyed it. 
+But your going to get more pain now but its not your balls that I'm targeting. 
+It's your ass, and we are going to be spanking it. 
+So grab your spoon and get on your hands and knees @Wait(20)
+Now spank each ass cheek 20 times as hard as you can! @PlayAudio[tease\whip.mp3] @Wait(30)
+@Flag(AV_DommeMistress) Now 30 hits on each! @PlayAudio[tease\whip.mp3] @Wait(40)
+Finally do 30 more hits on each and then stop because I want to go back to breaking your balls. @PlayAudio[tease\whip.mp3] @Wait(40)
+So if I were you I'd savour this moment. 
+And consider yourself lucky that that I'm not ramming an 11 inch dildo inside your soft little hole.
+#KneelForMe
+Put #Random(3, 5) clothespins on your #Balls @Wait(30)
+And 2 on your nipples @Wait(20)
+#StartStroking
+That's right... That's right.. 
+#GoodBoy
+Do you want to be a GOOD BOY for me again?  @Timeout(5, AV_Timeo93)
+[yes] Do you?
+@AcceptAnswer Awww, so scared!
+(AV_Timeo93)
+It's silly to be scared, honey.
+Stop being scared of being controlled. 
+This is good. This is VERY good. 
+@RT(To be controlled, To learn your place in a woman's hands).
+@RT(Are you learning your place, #PetName, Are you learning that I am in control)?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Now I can tell you are getting right on the edge. 
+So many helpless sounds and your body just shivering from the pleasure. 
+Soooo, soooo good. Let's go there, baby. 
+That's right, it's time for you, baby. It's time!
+@Flag(AV_DommeMistress) #Edge @Edge @MultipleEdges( #Random(2, 3), 10, 100)
+@NotFlag(AV_DommeMistress) #Edge @Edge
+you've taken a small step in learning your place.
+Remove everything of your body
+#SitDown @Wait(20)
+@End
+(NoTeaseFYou)
+@NullResponse @CallReturn(Custom\CallReturn\AV_StrokeForCrush.txt)
+@NullResponse
+@End
+(Modulo3)
+@Flag(AV_DommeMistress) You know you are my slave, and you will cum only with my permission. 
+@NotFlag(AV_DommeMistress) You know you are my , and you will cum only with my permission. 
+@AllowsOrgasm(Never) But we know that will never happen #PetName. 
+@AllowsOrgasm(Rarely, Sometimes) And that will not be very often little #PetName. 
+@AllowsOrgasm(Often, Always) And just when I tell you.
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+I like to keep you begging. 
+It makes you more submissive when you are denied. 
+I like to torture you and get inside your head slave.
+You can only cum when I allow you to. 
+By the way #SubName, one of my girlfriends, @RT(#Contact1, #Contact2, #Contact3) , has asked me how i ve managed to train you so well. 
+@Flag(AV_DommeMistress) I couldn't hold back and i told her you are not my man anymore just my #Slave. 
+@NotFlag(AV_DommeMistress) I couldn't hold back and i told her you are not my man anymore just my #PetName. 
+She was laughing so much, and seemed to enjoy hearing about your torments.
+#StartStroking
+Yes, like that. 
+@Flag(av_fetish_pain) You may find me a bit tougher, now.
+@Flag(av_fetish_pain) But I know you'll like that.
+@Flag(av_fetish_pain) #StopStroking
+@Flag(av_fetish_pain) Squeeze your balls and count to 10 slowly. 
+@Flag(av_fetish_pain) With your other hand, pinch your nipples, first one, then the other. @Wait(15)
+@Flag(av_fetish_pain) #StartStroking
+Don't get to the edge if I haven't told you to.
+Also, as I was saying before - I've teased you, so many times.
+I want to give you something different.
+So just be ready for a much more difficult time now
+Stroke faster. 
+In fact, stroke almost to the edge
+and then just slowdown enough so you do NOT get quite to the edge. 
+I want your @RT(#Cock to hurt with desire, #Balls to ache for that delicious edge)
+So, #GeneralTime, I am going to give you what you want.
+#Edge @EdgeMode(Goto, EdgeForGoto84)
+(Loop)
+#GetClose
+@NullResponse 
+@NullResponse 
+@NullResponse  @Goto(Loop)
+(EdgeForGoto84)
+Hold that edge and think about that. 
+@Flag(av_fetish_pain) I will is going to cause you some pain now. 
+@Flag(av_fetish_pain) Not punishment pain. But pain because it turns you on.
+And I'm going to make you ache, slowly, just because I want to.
+@Flag(av_fetish_cei) Oh yeah, and at some point, you ARE going to eat some cum!
+@Flag(av_fetish_cei) That part - that's only because I just want to see it. @SetFlag(AV_EatCum)
+#StopStroking @EdgeMode(Normal)
+@Flag(av_fetish_pain) I am going to make your balls and your nipples hurt
+@Flag(av_fetish_pain) just the way you must like it.
+@Flag(av_fetish_cei) I maybe will make you ruin an orgasm.
+@Flag(av_fetish_cei) And then - can you imagine - you are going to BEG me to
+@Flag(av_fetish_cei) let you eat it
+so you can edge again, and keep getting turned on. @Edge
+@Flag(av_fetish_cei) If there's any precum, lick it up
+Take that shoelace, and wrap it around and around your balls,
+nice and tight, then tie it off. @Wait(30)
+#Edge @Edge
+Awwwwe, is that frustrating?  @ResponseYes(Ark_Frustrated)
+Too bad
+@Flag(AV_DommeMistress) #Edge @Edge
+@Flag(av_fetish_pain) Slowly squeeze your #Balls, hold and count to 10. @Wait(15)
+Now slowly squeeze the base of your cock, and squeeze all the way up to the tip. @Wait(15)
+@Flag(av_fetish_cei) Any pre-cum? Lick it up.
+#StartStroking
+Don't edge
+Mmmmmm. How's that feel? Frustrating? @ResponseYes(Ark_Frustrated)
+Keep stroking, just under the edge. 
+@Flag(av_fetish_pain) But squeeze one ball with your other fingers, while you keep stroking. 
+@Flag(av_fetish_pain) Imagine, if I were stroking you, as you got right to the edge
+@Flag(av_fetish_pain) I'd squeeze one ball until you squealed.
+#StopStroking
+@Flag(av_fetish_pain) squeeze both balls hard!
+@Flag(av_fetish_pain) Good thing you weren't riding the edge, or we would have just ruined your orgasm.
+Now get to the edge @Edge
+@Flag(av_fetish_pain) Put a clothespin on each nipple. @Wait(15)
+@Flag(av_fetish_pain) Now squeeze them hard into your nipples.
+@NotFlag(av_fetish_pain) @NullResponse @Goto(JumPain)
+#StartStroking
+but stop just before you get to the edge.
+And slap your #Balls with the spoon 10 times
+And then, get back to #Stroking
+repeat till I say to stop @Wait(20)
+Ooooooh, these feel so nice. @Wait(20)
+Keep going like this @Wait(20)
+is it hard to stop stroking that hard? @Wait(20)
+#StopStroking
+(JumPain)
+Untie your balls.
+Rub your balls, squeeze them back and forth. 
+Can you feel the blood flowing back into them? @ResponseYes(Im Aching)
+Take off your clothespins @Wait(10)
+@End
+(Modulo4)
+My vulnerable, darling #PetName. 
+@RT(I want you to know what its like to *really* ache for something, I want you to long for me so much )that you are willing to let me do whatever I want to your @RT(body, flesh).
+@Flag(av_fetish_pain) You will dance along the fine line between pleasure and pain and you won't even care what the difference is anymore. 
+@NotFlag(av_fetish_pain) Pleasing me is your only concern.
+As it should be. 
+@NotFlag(AV_PinDone) Go fetch me a spoon, a shoelace and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+You've always been a Good Boy, haven't you? @Timeout(5, AV_Timeo27)
+[yes] Yes, you have. @MoodUp
+@AcceptAnswer Hmm...
+(AV_Timeo27)
+Tie your string around just your balls. 
+Hopefully you have enough slack to wrap it around a couple of times and make it super tight. @Wait(15)
+I want it tight. @Wait(15)
+Shiny testicles make me very happy. 
+Do this for me.
+With one of your hands, I want you to softly cupping your #Balls
+And my other hand  just lightly petting your penis @PlayAudio[tease\cStroke.mp3] 
+Back and forth
+Doesn't that feel nice, dear? @Timeout(5, AV_Timeo28)
+[yes] Yes, it does.
+@AcceptAnswer And of course, the male's penis would begin to get erect from this stimulation. 
+(AV_Timeo28)
+Mmmmm. I can feel you starting to harden from that soft petting. 
+#GoodBoy 
+I can see you are a little nervous, though. 
+You are in good hands, #PetName.
+There we go. Doesn't that feel WONDERFUL, dear? @Timeout(5, AV_Timeo29)
+[yes] Mmmmm, I know it does. 
+@AcceptAnswer Just feel your hand lovingly caress your little penis up and down
+(AV_Timeo29)
+@RT(And up and down..., Sooo nice).
+And feel your other hand pet and massage your #Balls, squeezing and stroking them
+They feel as if they have a bit of semen in them
+No wonder these balls feel so plump! 
+Well don't worry, #PetName, I will take care of that for you. 
+Ohhh, listen to you. Making little whimpering noises. 
+Doesn't it feel so good, baby? @Timeout(5, AV_Timeo34)
+[yes] Yes it does
+@AcceptAnswer That's alright, you can whimper all you like
+(AV_Timeo34)
+I'm not going to stop. No no, dear, I'm not going to stop
+Don't be so nervous, honey. @Chance50(AVMenos)
+Awww, listen to you whimper. My poor little boy! 
+I do so love to hear boys whimper, it's a good sign that they are learning their place. 
+Learning that they are submissive to a woman. 
+I can get you to make much louder sounds than what you are making, baby. 
+Eventually, males begin weeping and even screaming from the ecstasy I give them. 
+Mmmm, we'll get there soon enough little one. 
+(AVMenos)
+Awwww, you look scared, baby! 
+That's natural, honey. 
+It's scary to @RT(lose control, isn't it?, realize you are in the hands of a beautiful woman who is more powerful than you and can control you just by stroking your helpless penis up and down)
+And up and down. And up and down. That's right.
+Mmmmm. Now you are starting to leak precum all over your hand. GOOD BOY. 
+@Flag(av_fetish_cei) Lick it for me @Wait(15)
+I think it's time to speed up the pace a bit 
+Yes, it is baby. 
+There. Just like that! 
+Now, stop trying to squirm away, #PetName! 
+I've got you! 
+All you can do is TAKE IT as I milk you. 
+@RT(That's right. Just take it,, honey, Just TAKE IT. There's no escape for you).
+Mmmm-hmmm. You're going to explode, #PetName. @FollowUp50(You're going to explode.) 
+Listen to me and obey me.
+@Flag(AV_DommeMistress) #Edge @Edge @MultipleEdges( #Random(2, 3), 10, 100)
+@NotFlag(AV_DommeMistress) #Edge @Edge
+@NotFlag(av_fetish_pain) @NullResponse @Goto(NoPainForYou)
+@Flag(AV_DommeMistress) @NullResponse @FollowUp50(#KneelForMe)
+Now the clothespins...
+one on each nipple, and one on each ball. @Wait(30)
+Are the balls hurting yet? Tied up and now the spins?
+oooh
+@Flag(AV_DommeMistress) Shut up and slap your ass hard. 
+HARDER! 
+I want to see a red ass there! 
+@Flag(AV_DommeMistress) Now slap your balls twice and tell me how beautiful I am. 
+@Flag(AV_DommeMistress) #Edge @EdgeHold @MultipleEdges( #Random(2, 3), 10, 100)
+@NotFlag(AV_DommeMistress) #Edge @EdgeHold
+Oh my #PetName. 
+@RT(You look so adorable following my orders, This is making me so hot). 
+What is in your mind? What dirty things would you like to do to me? 
+Would you like to fuck my pussy? My ass, my feet. My face? My tits? Oh you would love to dont you? 
+Your dirty thoughts need to be punished. 
+Now reach behind and spank your ass 10 times. 
+HARDER! @Wait(15)
+Okey stop. Take the clothspins off your balls and take away the shoelace. 
+#SitDown
+Mmmm, you are delicious, #PetName.
+Awww, poor baby. 
+It had to be done, honey
+@End

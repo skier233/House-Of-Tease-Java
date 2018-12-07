@@ -1,0 +1,54 @@
+#StopStroking #SubName @StopStroking @Goto(part1,part2,part3,part4)
+(part1)
+#KneelForMe
+That's the proper place for men; naked and on their knees sucking my strapon. @ShowTaggedImage @TagStrapon
+#Stroke for me
+#DoAsISay #Slave!
+First the plug to prepare things
+then a sound spanking to let him know who's the boss
+then the cleaning ritual using your mouth
+before I take your little cherry asshole.
+Come on #Slave, take that monster cock deeper, deeper you slut boy.
+#StopStroking
+@End
+(part2)
+#StartStroking @ApathyLevelUp
+@SystemMessage #DomName turned on the mic  @PlayAudio[tease\SeSp\pegging01.mp3]
+ @Wait(15)
+ @Wait(15)
+ @Wait(15)
+ @Wait(15)
+ @Wait(12)
+@SystemMessage #DomName turned off the mic 
+#StopStroking @StopStroking
+@End
+(part3)
+#PetName 
+#StartStroking
+@SystemMessage #DomName turned on the mic  @PlayAudio[tease\SeSp\pegging02.mp3]
+ @Wait(15)
+ @Wait(15)
+ @Wait(11)
+ @Wait(15)
+ @Wait(14)
+ @Wait(10)
+@SystemMessage #DomName turned off the mic 
+#StopStroking @StopStroking
+@End
+(part4)
+#StartStroking
+@SystemMessage #DomName turned on the mic  @PlayAudio[tease\SeSp\pegging03.mp3]
+ @Wait(15)
+ @Wait(15)
+ @Wait(15)
+ @Wait(10)
+ @Wait(15)
+ @Wait(15)
+ @Wait(13)
+ @Wait(15)
+ @Wait(15)
+ @Wait(15)
+ @Wait(10)
+@SystemMessage #DomName turned off the mic 
+#StopStroking @StopStroking
+@End

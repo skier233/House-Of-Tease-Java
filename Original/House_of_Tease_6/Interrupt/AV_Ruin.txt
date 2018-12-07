@@ -1,0 +1,23 @@
+Will you ruin your orgasm for me right now? @YesMode(Goto, Will Ruin) @NoMode(Goto, Will Not Ruin) @Wait(8)
+C'mon, I promise it will be fun @RapidTextOn
+For me at least #Lol @RapidTextOff @Wait(15)
+You've been begging me to let all that cum out of your #Balls anyway
+This is your chance #EmoteHappy @Wait(15)
+(Ruin Beg Loop)
+C'mon #SubName, quit making me beg
+Let me ruin you @Wait(30) @Goto(Ruin Beg Loop)
+(Will Ruin)
+I love knowing that you'll give me whatever I want @ClearModes
+No matter how much it makes you suffer #Grin
+Now get close for me @EdgeToRuin
+Just a dribble, no force behind it.  
+No flush in your face. 
+Just feel it.  
+Feel how the edging primed you up on edge, and then nothing.
+@End
+(Will Not Ruin)
+You're no fucking fun #Lol @ClearModes
+I should just make you ruin it anyway
+But instead..
+I think I'll show you that there's even worse things I can do to that #Cock #Grin
+@End

@@ -1,0 +1,13 @@
+[don't hurt me,please don't hurt,don't make it hurt,don't make me hurt]
+[All]
+If I want to hurt you I will, #PetName
+Aww... scared of a little pain are we?
+I love it when you're begging me not to hurt you so I can ignore you and do it anyway #Grin
+I will make you feel so many different kinds of pain... #Grin
+Oh, you know I would never do anything to hurt you, #PetName #Laugh
+You can beg all you want, making you hurt is just too much fun...
+When you say that, I know you really mean the opposite of what you're saying
+[All End]
+[Stroking]
+@BallTorture You know, you saying that just made me want to hurt you... @CallReturn(Custom/CallReturn/pvCr_CBTBallsStroking.txt)
+[Stroking End]

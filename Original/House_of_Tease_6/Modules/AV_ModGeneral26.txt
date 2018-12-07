@@ -1,0 +1,350 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral26_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral26]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral26_NotFirstTime)
+(AV_ModGeneral26_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral26]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral26]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral26]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral26]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral26]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral26]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral26]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral26]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral26]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral26]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral26]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral26]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral26]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral26]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral26]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral26]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral26]=[AV_ModGeneral26]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral26]=[AV_ModGeneral26]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral26]=[AV_ModGeneral26]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral26]=[AV_ModGeneral26]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral26]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #Stop @StopStroking
+You know what I really love?
+The control you maintain over that #Cock
+Getting so close @AddContact3
+Knowing how fucking <i>good</i> it would feel if you just let yourself go over
+But holding back for me
+No matter how much you want it
+How much it <i>hurts</i>
+Because it's what I want
+@Contact3 Wow #DomName
+Hi #Contact3
+Want to make #SubName stop for me?
+@Contact3 Sure, I will try something different
+@Contact3 I will count you down #SubName
+@Contact3 @SystemMessage #Contact3 turned on the mic  @PlayAudio[tease\Glitter3\5toStop.mp3]  @Wait(10)
+@Contact3 #Stop @StopStroking
+@Contact3 @PlayAudio[tease\Glitter3\GoodBoy*.mp3]  @Wait(10)
+@NotFlag(AV_MasuDone) @NullResponse @Goto(end3430)
+@Contact3 Hey #DomName, can I try that Masu thing you talked about?
+Sure, you already know the beats...
+@Contact3 Great, let's try #SubName
+@Contact3 But I think you should #KneelForMe
+@Contact3 That's right... @SetVar[AV_MasuRounds]=[#Random(6, 10)] 
+(MasuLoop)
+@NullResponse @Goto(Mas1, Mas2, Mas3, Mas4, Mas5, Mas6, Mas7, Mas8, Mas9, Mas10, Mas11)
+(Mas1)
+@Contact3 @RT(ONE two three four,, ONE two three four, ONE two three four, Dog) @PlayAudio[tease\Masu\dogdog120.wav] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas2)
+@Contact3 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat100.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas3)
+@Contact3 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat120.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas4)
+@Contact3 @RT(ONE two three and four ONE two three and four, Cat, ONE two three and four) @PlayAudio[tease\Masu\catcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas5)
+@Contact3 DOG & CAT @PlayAudio[tease\Masu\dogcat80.wav] @Wait(25)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas6)
+@Contact3 DOG & CAT @PlayAudio[tease\Masu\dogcat100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas7)
+@Contact3 DOG & CAT faster @PlayAudio[tease\Masu\dogcat140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas8)
+@Contact3 DOG & CAT switch @PlayAudio[tease\Masu\dogcat-switch140.mp3] @Wait(18)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas9)
+@Contact3 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake100.wav] @Wait(20)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas10)
+@Contact3 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake120.wav] @Wait(17)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(Mas11)
+@Contact3 @RT(Snake, ONE and two,, THREE and four). @PlayAudio[tease\Masu\snakesnake140.wav] @Wait(15)
+@NullResponse @ChangeVar[AV_MasuTrain]=[AV_MasuTrain]+[1] @Goto(MasuBreak)
+(MasuBreak)
+@Contact3 @RT(Imagine if we played Masu for several hours at competition speed how much cum would have built up, Knowing all this,, knowing you will not be able to cum and dancing near the edge is the very essence of highlevel Masu play, If you do it right you will enter a blisfull trance like state, That's it. Keep your form. Work it hard, Stroke is To Obey)
+@NullResponse @If[AV_MasuTrain]>=[AV_MasuRounds]Then(MasuEnds)
+@NullResponse @Goto(MasuLoop)
+(MasuEnds)
+@Contact3 #ThatsEnough
+(end3430)
+@Contact3  See you later, thanks for let me use #SubName
+Bye #Contact3
+@NullResponse @RemoveContact3
+@End
+(Modulo2)
+@Stroking #Stop @StopStroking
+Let's see if you can follow my orders #SubName..
+Hmm...can you make your cock even harder #PetName ?
+Hmm..you don't seem to be all that well trained for a slave..
+Look at your leaking prick..you haven't even touched it yet..
+#StartStroking
+So..you need this..
+Do you need it so badly so that youll go crazy if you dont shoot your juice?
+Is it so bad so that you have trouble falling asleep at night? @Timeout(5, AV_Timeo1225)
+[yes] I don't belive you..
+[no] You are just horny..that's all!
+@DifferentAnswer #YesorNo
+(AV_Timeo1225)
+Aaww you poor helpless boy..look at you..
+Am I being too mean torwards you #PetName? @ResponseYes(Youre Mean) @ResponseNo(AV_NoNeutral) 
+You are the one here who wants something..not me..
+Look at it throbbing just from a couple of strokes..
+Maybe you do really need it afterall
+Try to imagine how good your orgasm would feel if you get to cum #GeneralTime..
+And that big relief afterwards..it would feel so good #PetName ..wouldn't it?
+Getting rid of all that build up pressure in your denied balls..
+I know it would slave..
+@RT(You are into tease and denial, You like to be toyed and played with, You like to be used and abused by woman)
+Does that gets your cock really hard and throbbing #Slave?
+Relax #PetName ..breathe..try to focus and keep stroking @Chance50(t23we23)
+Think about that very last stroke later today right before you start to shoot a huge torrent of cum all over the place..
+So..as i said.. 
+You get denied and denied and after whatever amount of time, there is this big orgasm..right?
+This big satisfying explosiion that you are craving so much.. @Goto(efwio8)
+(t23we23)
+That's always the big highlight of this game..right?
+Cumming after you've been brutally denied for weeks and weeks..or even months?
+Tease and denial is awesome..isnt it? @ResponseYes(ILoveTeaseAndDenial)
+So unpredictable..such a rush..all the uncertainty
+(efwio8)
+I can see your cock reacting to every word I'm saying #PetName..
+Or could it be the anticipation about what I am going to to with you?
+No no no #Slave, we are far from done..
+Slow down
+You are a trembling mess
+But you like it..don't you #SubName?
+Are you getting close slave?
+That big creamy load is building and building..isn't it? @Timeout(5, AV_Timeo1335)
+[yes] Soon #Slave..soon.. @Goto(3d380k)
+[no] Just keep stroking that big thick leaking cock for me..enjoy it
+@DifferentAnswer #YesorNo
+(AV_Timeo1335)
+Stroke faster!!
+(3d380k)
+Work that cock #Slave!
+Because that is what your mistress wants right now!
+All I want you to do is to be an obedient boy for me
+#Edge @Edge
+Very good
+I like your level of obedience that you're showing #SubName
+I'm just going to teach you how you can show some real devotion torwards your mistress..
+@Flag(av_fetish_rough) Little #Slave like you need to be reminded of their place..
+#Edge @Edge
+Tell me slave..do you think that you deserve to cum?
+Do you feel entitled to do so because you held your little load in your balls for so long?
+Take the other hand and caress your left nipple while you edge yourself..
+#Edge @EdgeHold
+We will move on to phase 2 of your training very soon..
+Let's see if we can make that slavecock twitch some more for me..
+#KneelForMe
+#StartStroking
+Look at me and keep stroking that helpless cock..
+Show me how happy you are that you're allowed to stroke for me #PetName
+Do you crave this feeling strokerboy?
+To be completly hopleless and at my mercy? @ResponseYes(ILoveBeingControlled) @ResponseNo(AV_NoNeutral) 
+Ok..so..you will edge again for me soon..
+And when you do, I want you to let go of your cock and get on all fours and remain in that position..
+Like the good little doggy that you are..
+Understood? @Timeout(5, AV_Timeo1375)
+[yes] Good
+[no] I won't say it again slaveboy..stop it..
+@DifferentAnswer #YesorNo
+(AV_Timeo1375)
+Alright..stroke your aching slavecock faster again
+That's a little better..
+Don't you want to edge for me again?
+Go on..edge like i said..
+#Edge @EdgeNoHold
+Don't spuirt yet slave..
+I haven't given you permission yet!
+#GoodBoy
+Stay on all fours but you can use a hand to stroke
+#StartStroking
+Let's me make a new rule..
+Everytime you edge i want to see some precum dripping down on the floor..
+Is it humiliating slave?
+I mean.. there you are..a leaking horny mess..willing to do everything i tell you..
+A submissive litte thing..
+You just want to cum..right?
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 15, 100)
+What a good edgeboy you can be..
+Sit down and hands behind your back!
+But you can always do more of course..more leaking, more suffering..
+If that's what makes your mistress happy..
+@End
+(Modulo3)
+@Stroking #Stop @StopStroking
+Do you think you deserve to look at the sexy nude body of a girl like me?
+[yes] No, you don't. 
+[no] That's correct, you don't. 
+@DifferentAnswer #YesorNo #SubName?
+All you deserve is looking at girls feet. 
+And this is what we'll instil in your brain today! 
+So, I will put a sexy slideshow
+Don't get distracted by pussies, tits, or asses.
+#Stroke only looking at feet.
+If you can't see a feet, hands off.
+When I am done with you today... @Slideshow(Lesbian, Softcore, slow)
+every time you see a nude girl, your attention will automatically be drawn to her feet, and away from her nude body. @SlideshowOn 
+Go ahead, #Stroke to foot. @PlayAudio[tease\cStroke.mp3] @Wait(10)
+@NullResponse @Wait(11)
+Some of the girls got really hot butts.  @Wait(10)
+@NullResponse @Wait(11)
+But that's nothing you should care about anymore. 
+@NullResponse @Wait(11)
+You only deserve to look at feet! @Wait(10)
+#Stop @SlideshowOff 
+@End
+(Modulo4)
+@Stroking #Stop @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact1
+Hey #Contact1 
+@Contact3 Hi #EmoteLaugh 
+I need to take care of something here, but I will keep a eye in the chat
+@Contact3 #AV_Break4
+@NullResponse @RemoveDomme
+Now we're going to play a dangerous game.
+Are you excited?
+There's going to be risks involved, but that's not going to stop you.
+I'm going to let you stroke to me.
+I'm going to get you so addicted, so entranced.
+Don't try to fight it. you're already lost. @SetVar[AV_Glitteroverdives]=[0] 
+@Flag(av_fetish_rough) So deep for me loser. I own you.
+You will #Stroke along a few overdrives @EdgeMode(Goto, f23ww3f7)
+Let's see how many you get withot edging
+Get ready
+First one @PlayAudio[tease\StrokePattern\overdrive3.mp3] @Wait(35)
+#Stop @ChangeVar[AV_Glitteroverdives]=[AV_Glitteroverdives]+[1]
+@RT(Just give it everything you've got right now!, You like to edge,, you want to edge,, you NEED to edge, You can go faster,, I know you can!, Just a quick sprint to the finish now!, Come on, just a bit faster for me!, Are you holding out for me?)
+Second @PlayAudio[tease\StrokePattern\overdrive3.mp3] @Wait(35)
+#Stop @ChangeVar[AV_Glitteroverdives]=[AV_Glitteroverdives]+[1]
+@Flag(av_fetish_rough) You stupid slave. And now that I have you nice and pliable I'm going to take advantage of you loser. 
+I told you it was going to be dangerous, but you couldn't control yourself with that little dick throbbing.
+A girl like me driving you crazy...
+Another one @PlayAudio[tease\StrokePattern\overdrive3.mp3] @Wait(35)
+#Stop @ChangeVar[AV_Glitteroverdives]=[AV_Glitteroverdives]+[1]
+@RT(Just give it everything you've got right now!, You like to edge,, you want to edge,, you NEED to edge, You can go faster,, I know you can!, Just a quick sprint to the finish now!, Come on, just a bit faster for me!, Are you holding out for me?)
+Another one @PlayAudio[tease\StrokePattern\overdrive3.mp3] @Wait(35)
+#Stop @ChangeVar[AV_Glitteroverdives]=[AV_Glitteroverdives]+[1]
+Teasing you, reminding you of what you can never have.
+Yet it only makes you want me more.
+You're so easily manipulated by me. 
+Another one @PlayAudio[tease\StrokePattern\overdrive3.mp3] @Wait(35)
+#Stop
+Wow, you did without edging
+good job @Goto(3f7jaslo)
+(f23ww3f7)
+#HoldTheEdge
+@NullResponse @If[AV_Glitteroverdives]=[0]Then(Over0)
+@NullResponse @If[AV_Glitteroverdives]=[1]Then(Over1)
+@NullResponse @If[AV_Glitteroverdives]=[2]Then(Over2)
+@NullResponse @If[AV_Glitteroverdives]=[3]Then(Over3)
+@NullResponse @If[AV_Glitteroverdives]=[4]Then(Over4)
+(Over0)
+You didn't got even 1 overdrive?
+#HoldingEdge
+bad slave...
+#Stop
+#DomName would want a punishment for you, so...  @Goto(287Punish)
+(Over1)
+Just 1 overdrive done?
+Not good
+#Stop
+#DomName would want a punishment for you, so...  @Goto(287Punish)
+(Over2)
+Just 2 overdrives?
+I will not punish you, but hold that edge a little longer... @Wait(10)
+#Stop
+(Over3)
+#Stop
+3 overdrives are good @Goto(3f7jaslo)
+(Over4)
+#Stop
+Well, you almost did it...
+It's good enough for me. @Goto(3f7jaslo)
+(287Punish)
+I just hope those balls of yours aren't too full because as you know cummies are earned in this lifestyle!
+Stand up @Wait(10)
+Present your ass for me to inspect #PetName...
+Mmmm. Only one thing wrong with it right now. 
+It's not red enough. Now do you want to earn my respect? 
+Take the paddle and give each cheek at least 20 spanks! 
+Right ass @PlayAudio[tease\spank\Spank10.mp3] @Wait(15)
+Left ass @PlayAudio[tease\spank\Spank10.mp3] @Wait(15)
+Ohhhh, done so quick...I know you can do more than that for Goddess but whatever. 
+Maybe next time you will work a little harder at exceeding expectations! @Goto(3f7jaslo)
+(3f7jaslo)
+@Contact1 #SitDown @EdgeMode(Normal)
+@Contact1 He's all yours #DomName @AddDomme
+#EmoteSmile @RemoveContact1
+@End

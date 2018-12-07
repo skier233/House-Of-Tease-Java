@@ -1,0 +1,13 @@
+If I say: You've been a bad boy. You say?
+[yes] Saying yes or no in response to a statement like that would imply (dis)agreement.
+[no] It is not your place to gauge whether or not you've been bad.	
+[Nothing] This one was directed to you. Therefore you must reply.	
+[sorry, I am sorry, Im sorry, apologize] That's correct. It's not your place to agree or disagree. @Goto(StartQ03Right)
+@AcceptAnswer Simple accept the judgement and apologize.
+@CBT
+@NullResponse @Goto(EndQuestionsAV)
+(StartQ03Right)
+#Stroke #RandomRound10(10, 50) times @Wait(20)
+(EndQuestionsAV)		
+This kind of verbal discipline turns me on so much.	
+@End

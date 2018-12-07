@@ -1,0 +1,290 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModVideos2_NotFirstTime)
+@NullResponse @SetVar[AV_ModVideos2]=[0] 
+@NullResponse @SetFlag(AV_ModVideos2_NotFirstTime)
+(AV_ModVideos2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModVideos2]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModVideos2]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModVideos2]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModVideos2]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModVideos2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModVideos2]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModVideos2]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModVideos2]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModVideos2]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModVideos2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModVideos2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModVideos2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModVideos2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModVideos2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModVideos2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModVideos2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModVideos2]=[AV_ModVideos2]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModVideos2]=[AV_ModVideos2]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModVideos2]=[AV_ModVideos2]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModVideos2]=[AV_ModVideos2]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModVideos2]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact1
+Hey #Contact1 
+@Contact1 Hi #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@Contact1 First, let me explain the rules
+@Contact1 you're going to  edge to me
+@Contact1 Your goal is to make it to the end of the game, "alive"
+@Contact1 You will progress through 5 levels.
+@Contact1 Each level will require more edges with less and less rest between them.
+@Contact1 By the end, your cock will be crying for release.
+@Contact1 I hope you understand whats about to happen
+@Contact1 For Level 1, you'll @RT(only, just) have to do 3 edges.  
+@Contact1 You'll always get a 20 second rest after an edge.
+@Contact1 Ready?
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(3, 20, 100)
+@Contact1 all your rest times get decreased the further you go.
+@Contact1 Level 2.  
+@Contact1 This is where the fun begins. 
+@Contact1 In this level you'll have to do 4 edges with 15 sec break
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(4, 15, 100)
+@Contact1 Don't be afraid to look at me. 
+@Contact1 I'm not trying to make this easy for you.
+@Contact1 Level 3.  
+@Contact1 Shit just got real. 
+@Contact1 By the way, you're going to do 5 edges this time.
+@Contact1 With 10 seconds break
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(5, 10, 100)
+@Contact1 Look at that cying cock.
+@Contact1 How mind blowing will that orgasm be if you make it through?
+@Contact1 Level 4.  
+@Contact1 Let me make a few things clear to you. 
+@Contact1 There are @RT(only, just) 2 levels left.  
+@Contact1 This one and Level 5.  
+@Contact1 In this level you must edge 6 times. With @RT(only, just) 5 seconds breaks.
+@Contact1 #Edge @EdgeNoHold @MultipleEdges(6, 5, 100)
+@Contact1 You look like you could spill that load any second.  
+@Contact1 You better not.
+@Contact1 This level is going to be real simple.  
+@Contact1 Level 5 is all about the edge.  
+@Contact1 Specifically, holding it. 
+@Contact1 But how many you have to hold and for how long?  
+@Contact1 Thats up to me.
+@Contact1 #Edge @EdgeHold @MultipleEdges(3, 10, 100)
+@Contact1 I love those edge holds.  
+@Contact1 It's like that cum could accidently spill out any moment.
+@NullResponse @RemoveContact1 
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact2
+Hey #Contact2 
+@Contact2 Hi #EmoteLaugh 
+#AV_Break3
+@Contact2 #AV_Break4
+@Contact2 You can call me Mistress #Contact2 or Mistress
+@Contact2 I am here to dominate you.
+@Contact2 This is a role I quite enjoy.  
+@Contact2 I often play this part. 
+@Contact2 Well lets get down to business.
+@Contact2 #StartStroking @Chance50(gg1)
+@Contact2 I love being a tease.  
+@Contact2 And to be honest
+@Contact2 I usually don't let my little strokers get off when I'm done with them.  
+@Contact2 I'll make you WISH for those edges. 
+@Contact2 Even without release @Goto(gg2)
+(gg1)
+@Contact2 You see
+@Contact2 @RandomText(I'm not going to hurt you, I'm not going to humiliate you)
+@Contact2 I'm not going to do anything but make you stroke that cock of yours.  
+@Contact2 And I'm betting that I will break you
+@Contact2 just by making you do what you seem to love so much.
+(gg2)
+@Contact2 #Edge @EdgeNoHold
+@Contact2 As a stupid male all you want to do is get as much pleasure as quickly as possible.
+@Contact2 You don't think about the future #Slave!
+@Contact2 If you lasted a while longer you may of got an extra treat
+@Contact2 but you lacked that bit of control needed.
+@Contact2 #StartStroking @FollowUp50(Follow the beat #AudioStrokeNW)
+@Contact2 I might reward you if you can hold away from the edge for long enough.
+@Contact2 So can you control yourself slave?
+@Contact2 I could mold you into the perfect slave if you keep this up.
+@Contact2 This is what you have always wanted is'nt it. 
+@Contact2 Someone who is willing to take complete control of that #Cock
+@Contact2 #StopStroking
+@Contact2 Put that cock down.
+@Contact2 Is it getting more and more difficult.
+@Contact2 Don't you want to just tip yourself over the precipice of extasy?
+@Contact2 Well of course you can't #Slave.
+@Contact2 You think with your dick and even if you believe you want control over it
+@Contact2 really you want a dominant women to take control.
+@Contact2 #Edge @EdgeNoHold @MultipleEdges(3, 10, 100)
+@Contact2 Do you enjoy debasing yourself like this in front of me? 
+@Contact2 Don't bother answering because if you don't 
+@Contact2 you will learn to enjoy it slave!
+@NullResponse @RemoveContact2
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+#AV_Break1
+#AV_Luxury
+#AV_Break2 @AddContact3
+Hey #Contact3 
+@Contact3 Hi #EmoteLaugh 
+#AV_Break3
+@Contact3 #AV_Break4
+@Contact3 There won't be much stroking here #PetName
+@Contact3 I'm rather interested in seeing you hurt that #Cock and balls for me!!
+@Contact3 Start slapping that cock lightly 
+@Contact3 until you get it hard for me #Slave!!
+@Contact3 Come on #PetName, don't make me spank your ass until you can't sit down anymore!!
+@Contact3 Good boy, I hope you haven't touched that #Cock yet
+@Contact3 I didn't give you permission!!
+@Contact3 In fact it's really simple 
+@Contact3 You just do everything and anything I tell you to
+@Contact3 and nothing else either!!
+@Contact3 #TieYourBalls
+@Flag(av_fetish_gag) @Contact3 #BallGagOn
+@Contact3 Finally a hard cock! But I don't have any use for it
+@NotFlag(av_fetish_pain) @NullResponse @Goto(xcok4589)
+@Contact3 so grab your balls with your left hand 
+@Contact3 and then start slapping them fast with your right flat hand #PetName!
+@Contact3 Don't stop slapping until your useless cock is really soft again #Slave!
+@Contact3 #Lol, getting warmed up?
+@Contact3 You know I love seeing beaten balls *giggles..
+@Contact3 Now we can beat them really good bitchboy!
+@Contact3 Let's go ahead and try this out
+@Contact3 Give me 3 HARD BALLSLAPS with your wooden spoon slave!! @Wait(10)
+@Contact3 Hehe, that was fun, now let's try your flat hand instead of the spoon #SubName @Wait(10)
+@Contact3 Haha, I love seeing that face you make when I hit your balls 
+@Contact3 Did you like it better with the spoon or your hand slave?
+[hand] @Contact3 Those useless balls must be starting to hurt bad by now.
+[spoon, ruler] @Contact3 Good boy! You look so pathetic slaveboy, I love it!
+@DifferentAnswer @Contact3 Your hands or the spoon #SubName?
+@Contact3 I guess you're really horny 
+@Contact3 and all you want to do by now is stroking that #Cock, right?
+@Contact3 Of course...well, you'll have to pay up first
+@Contact3 Give me #Random(5, 10) hard slaps to your cockhead with the spoon #Slave!! @Wait(10)
+@Contact3 I will let you stroke it a little if you do well enough...
+(xcok4589)
+@Contact3 #Lol, ok #SubName, you've earned some strokes @CustomTask(AV_StrokeNumberGliter3)
+@NotFlag(av_fetish_pain) @NullResponse @Goto(43ghju6)
+@Contact3 Now take 2 clothepins and put them on your nipples! @Wait(15)
+@Contact3 #Lol, now you're starting to look like a good little slave...
+@Contact3 From now on I will give you timers to complete my tasks #PetName
+@Contact3 so pay attention and don't fuck up!
+@Contact3 #Random(5, 10) Balls slaps with the spoon @Wait(15)
+@Contact3 #KneelForMe
+@Contact3 #Random(20, 40) Slaps to your ass with the spoon @Wait(20)
+@Contact3 Make that little slaveass red for me boytoy...
+@Contact3 @RandomText(Stand up, sit down) 
+@Contact3 #Random(5, 10) Balls slaps with your hand @Wait(15)
+@Contact3 10 HARD BALLSLAPS WITH YOUR FLAT HAND SLAVE!!
+@Contact3 I love watching you slap yourself for me #SubName
+@Contact3 Congratulations, you've earned another round of wanking:
+(43ghju6)
+@Contact3 Stroke to the beat #AudioStroke
+@Contact3 I hope it's hurting good #Slave!
+@Flag(av_fetish_pain) @Contact3 #SitDown and remove the shoelace and all clothespins
+@NullResponse @RemoveContact3
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+Let's see some #Var[AV_Persona01] #Pictures
+She really is super cute, isn't she? @ShowImage[av_imagens\02\*.jpg] 
+Sure, you can touch your #Cock! 
+#StartStroking  @ShowImage[av_imagens\02\*.jpg] 
+I'm having so much fun playing with you already @ShowImage[av_imagens\02\*.jpg] 
+watching that #Cock throb for me as you perv over a girl you can NEVER have.  @ShowImage[av_imagens\02\*.jpg] 
+@Flag(av_fetish_pain,AV_DommeMistress) #StopStroking Put 2 clothespins on those balls 
+@Flag(av_fetish_pain,AV_DommeMistress) and 2 on your nipples @Wait(12)
+@Flag(av_fetish_pain,AV_DommeMistress) looks like you're having a little too much fun for my tastes. 
+@Flag(av_fetish_pain,AV_DommeMistress) What, you mean you'd enjoy that too?? Wow, you perverted pain slut! 
+@Flag(av_fetish_pain,AV_DommeMistress) #StartStroking  @ShowImage[av_imagens\02\*.jpg] 
+Stare into the eyes of that beautiful princess on your screen that you worship.  @ShowImage[av_imagens\02\*.jpg] 
+You're transfixed by her, aren't you?  @ShowImage[av_imagens\02\*.jpg] 
+You can touch your cock- rub the head slowly, making tiny little circles.  @ShowImage[av_imagens\02\*.jpg] 
+I like to tease pathetic boys like you ;) 
+Now start #Stroking your cock SLOWLY @ShowImage[av_imagens\02\*.jpg] 
+If you break eye contact with her,  @ShowImage[av_imagens\02\*.jpg] 
+then you slap your balls ten times and continue.  @ShowImage[av_imagens\02\*.jpg] 
+@NullResponse  @ShowImage[av_imagens\02\*.jpg] 
+@NullResponse  @ShowImage[av_imagens\02\*.jpg] 
+@NullResponse  @ShowImage[av_imagens\02\*.jpg] 
+#StopStroking 
+Nicely done, #PetName! 
+You're looking a tad uncomfortable there, are you feeling the urge to cum? 
+I bet you are. 
+But I'm not letting you yet. 
+Let's find a better picture of your crush for some more inspiration...
+I bet you wish she would sit on your face so you could bask in its full glory. @ShowImage[av_imagens\02\*.jpg] 
+You can stroke a little faster now, 100 times, but let's mix things up a bit @ShowImage[av_imagens\02\*.jpg] 
+I want you to show me how good your backhand is ;)  @ShowImage[av_imagens\02\*.jpg] 
+How was that, did it feel awkward?  @ShowImage[av_imagens\02\*.jpg] 
+Or have you had practise with that technique?  @ShowImage[av_imagens\02\*.jpg] 
+#KeepStroking @ShowImage[av_imagens\02\*.jpg] 
+If you edge, you stop for 10 seconds to cool off  @ShowImage[av_imagens\02\*.jpg] 
+#StopStroking
+#KneelForMe
+I want to see you edge for her, three times.
+#Edge @EdgeNoHold @ShowImage[av_imagens\02\*.jpg] 
+#Edge @EdgeNoHold @ShowImage[av_imagens\02\*.jpg] 
+#Edge @EdgeNoHold @ShowImage[av_imagens\02\*.jpg] 
+Are you really wanting to cum now? Yeah? Aww. 
+Let's edge twice more for your crush. 
+Imagine what she'd do if she found out what you did ;) 
+I bet that turns you on even more.. am I wrong?
+#Edge @EdgeNoHold @ShowImage[av_imagens\02\*.jpg] 
+#Edge @EdgeNoHold @ShowImage[av_imagens\02\*.jpg] 
+#SitDown
+@Flag(av_fetish_pain,AV_DommeMistress) and remove the clothespins
+Let's carry on...
+@End

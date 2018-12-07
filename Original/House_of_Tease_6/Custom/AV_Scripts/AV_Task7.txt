@@ -1,0 +1,31 @@
+#1_ST_TagState @TempFlag(AV_taskOP7)
+@NullResponse @GotoDommeLevel 
+(DommeLevel1) 
+I fully believe that you can't have pleasure without a little pain, so for your task today  you get to experience both. 
+You're going to give me a single edge.  @SetVar[AV_EdgeGoal]=[1]
+After you get close, you're going to start slapping that sensitive little cock head until you're completely soft. 
+Then your task is done #Grin @Goto(TaskReady)
+(DommeLevel2) 
+I fully believe that you can't have pleasure without a little pain, so for your task today  you get to experience both. 
+You're going to give me a single edge.  @SetVar[AV_EdgeGoal]=[1]
+After you get close, you're going to start slapping that sensitive little cock head until you're completely soft. 
+Then your task is done #Grin @Goto(TaskReady)
+(DommeLevel3) 
+I fully believe that you can't have pleasure without a little pain, so for your task today  you get to experience both. 
+You're going to give me 2 edges.  @SetVar[AV_EdgeGoal]=[2]
+After you get close, you're going to start slapping that sensitive little cock head until you're completely soft. 
+Then your task is done #Grin @Goto(TaskReady)
+(DommeLevel4) 
+I fully believe that you can't have pleasure without a little pain, so for your task today  you get to experience both. 
+You're going to give me 2 edges.  @SetVar[AV_EdgeGoal]=[2]
+After you get close, you're going to start slapping that sensitive little cock head until you're completely soft. 
+Then your task is done #Grin @Goto(TaskReady)
+(DommeLevel5) 
+I fully believe that you can't have pleasure without a little pain, so for your task today  you get to experience both. 
+You're going to give me 3 edges.  @SetVar[AV_EdgeGoal]=[3]
+After you get close, you're going to start slapping that sensitive little cock head until you're completely soft. 
+Then your task is done #Grin @Goto(TaskReady)
+(TaskReady)
+Now take that #Cock out of your pants
+And #StartStroking for me @StartStroking
+@End

@@ -1,0 +1,81 @@
+[control my orgasm,limit my orgasm,decide whether I get to cum,control over my orgasm,orgasm should be your decision,orgasm should be up to you]
+[Before Tease]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[Before Tease End]
+[First Round]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Ooohh really... let's talk about that for a minute #Smile @Interrupt(pvIn_WantOrgasmControl)
+[First Round End]
+[Stroking]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Ooohh really... let's talk about that for a minute #Smile @Interrupt(pvIn_WantOrgasmControl)
+[Stroking End]
+[Not Stroking]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[Not Stroking End]
+[Edging]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[Edging End]
+[Holding The Edge]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[Holding The Edge End]
+[CBT Cock]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[CBT Cock End]
+[CBT Balls]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[CBT Balls End]
+[Chastity]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[Chastity End]
+[After Tease]
+@Flag(pthevCompleteControlYES) Whether or not you get to cum is <i>always</i> up to me, #Name 
+@Flag(pthevCompleteControlYES) I love controlling your orgasms #Giggles
+@Flag(pthevCompleteControlYES) Yes... that must be so frustrating for you #Smile
+@Flag(pthevCompleteControlYES) Yes and I wouldn't want it any other way, #Name
+@Flag(pthevCompleteControlYES) I <i>do</i> control your orgasms, and that's the way it should be #Smile
+@NotFlag(pthevCompleteControlYES) Interesting, but let's talk about that another time, okay? @SetFlag(pvWantCoCo)
+[After Tease End]

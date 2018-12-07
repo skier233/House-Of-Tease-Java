@@ -1,0 +1,194 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModFetish2_NotFirstTime)
+@NullResponse @SetVar[AV_ModFetish2]=[0] 
+@NullResponse @SetFlag(AV_ModFetish2_NotFirstTime)
+(AV_ModFetish2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModFetish2]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModFetish2]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModFetish2]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModFetish2]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModFetish2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModFetish2]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModFetish2]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModFetish2]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModFetish2]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModFetish2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModFetish2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModFetish2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModFetish2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModFetish2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModFetish2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModFetish2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModFetish2]=[AV_ModFetish2]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModFetish2]=[AV_ModFetish2]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModFetish2]=[AV_ModFetish2]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModFetish2]=[AV_ModFetish2]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModFetish2]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CheckFlag(av_fetish_cei)
+@NullResponse @Call(Custom\AV_Scripts\AV_Audio.txt)
+@End
+(av_fetish_cei)
+Every drop of precum that leaks from your cock  @FollowUp50(every stroke you make)
+brings you closer to nirvana 
+#Edge @Edge
+#LetTheEdgeFade
+If you edge long enough, maybe I WON'T make you ruin your orgasm.
+#StartStroking
+lick up all your pre-cum while you stroke
+and maybe you'll be allowed to cum like a MAN. 
+Would you like that #PetName ? 
+[yes] #Lol  @MoodUp
+[no] You don't? 
+@DifferentAnswer Yes or no #SubName?
+Can you achieve that?
+#StopStroking
+When it drips from your peehole 
+you must clean all drips by @RandomText(Dabbing your finger in your mess and feeding it to yourself, Kneeling on all fours and tonguing your mess manually)
+@Edge
+#LetTheEdgeFade
+Are you SURE you want to cum? 
+I mean you could @RandomText(edge a LITTLE longer, let that precum leak out)
+mmmmmh, don't you want to leak for a while? 
+#StartStroking
+stroke some precum out! 
+#StopStroking
+then palm with it until you're dry, then..
+who's gonna be a good #PetName and lick up all your drippies? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+you are! 
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+I'm so glad you're here. 
+To allow you maximum opportunity to show your devotion me, 
+you'll edge several times, each tougher than the last.  
+The last will be special, your most devoted act to me. 
+#StartStroking
+So for the first one, let's build to the edge slowly.  
+Follow the beat @PlayAudio[tease\b055.mp3] 
+You enjoy that, don't you?  
+Mmmh following all my instructions like a good boy. @PlayAudio[tease\b075.mp3] 
+I love to imagine your hard cock in your hand.   
+Stroke a little faster, that's it.  @PlayAudio[tease\b120.mp3] 
+Mhmmm. Keep #Stroking it for me. 
+We're stroking it faster. Nice and hard.
+Now #Edge @EdgeHold @LongHold(50)
+You did such a good job of holding it for me.  
+You did it for me just because I asked you to.
+Thinking about you so aroused, and so obedient.  
+I'll bet you're still really hard, and really aroused. @FollowUp50(But don't stroke yet)
+I'll bet it will only take only a few strokes to get you back to the edge. 
+You want to get right back there, don't you? 
+It feels so good to be on the edge.  
+@Flag(AV_DommeMistress, av_fetish_pain) But now, I want to hurt you a little
+@Flag(AV_DommeMistress, av_fetish_pain) Put 2 clothespins on your nipples
+@Flag(AV_DommeMistress, av_fetish_pain) And 4 on your #Balls @Wait(10)
+You'd like that, wouldn't you.
+Now wrap your whole hand around your whole cock, and 
+#StartStroking
+You know what I need right now? 
+I need to hear you whimper. @FollowUp50(I want to hear you beg)
+#Edge @EdgeHold @LongHold
+You're such a good boy.
+You want to be totally mine, don't you?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Give up all control to me?  
+#StartStroking
+We will work together to get you as close to orgasm as possible 
+and make this as hard for you as possible, 
+so that you can show me your maximum devotion. 
+You want to do this for me to be my good boy, don't you?
+#Edge @EdgeHold @ExtremeHold
+Let's take a minute to rest before the last build. @Wait(10)
+#StartStroking
+You're already so close to the edge this won't take long. 
+I want to hear you beg... @FollowUp50(I want to hear you moan as loud as I am)
+Now pick up the pace.
+Really work it.
+#Edge @EdgeHold @ExtremeHold
+How does that feel?  
+Remember I told you that the joy of obedience would be the greatest joy of all?
+@Flag(AV_DommeMistress, av_fetish_pain) You can remove the clothespins
+Doesn't it feel good to know you're my good boy?
+@End
+(Modulo3)
+Do you still think this is #Sexy ? @ShowLikedImage @LockImages
+[yes] I'm glad to hear you think so
+[no] That's too bad
+@DifferentAnswer Yes or no #PetName?
+Cause you're #Gonna edge to that right now #Grin @Edge
+#LetTheEdgeFade @UnlockImages
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+@NullResponse @CheckFlag(av_fetish_pain)
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some videos on your computer
+Stroke to the beat #Grin
+Have fun @PlayVideo 
+#CensorContinue
+@End
+(av_fetish_pain)
+@NullResponse @CheckFlag(AV_Pins) @RapidCodeOn
+@NullResponse @Goto(Iniciar12)
+(AV_Pins)
+You can remove all clothespins @DeleteFlag(AV_Pins)
+(Iniciar12)
+#PetName
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+#StartStroking
+#StrokeSlower
+Put a clothespin on each nipple 
+and start quickly tapping your balls with a ruler 2-3 times each second 
+while maintaining the slow paced #Stroking. @Wait(10)
+If you edge start over!  @Wait(10)
+Now pinch and twist those clothespegs! @Wait(15)
+Take off the clothespins
+Now massage those balls, enjoy how nice it feels! @Wait(15)
+@End

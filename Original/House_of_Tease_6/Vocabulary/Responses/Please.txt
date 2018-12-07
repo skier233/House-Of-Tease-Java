@@ -1,0 +1,158 @@
+[please, pleease, I beg you, I am begging, I am beging, please #DomName, please #DomHonorific, i want, i need, I'm begging]
+[Before Tease]
+Please what?
+What do you want #Name #Smile
+Ohh, #Begging? I #Love #Begging #Smile
+Mmm, #Begging...
+That's please #DomHonorific #DomName to you #Smile
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile
+Mmm, moan for me #Name
+Mmm, #Beg for me #Name
+Mmm, I #Love it when you #Beg
+[Before Tease End]
+[First Round]
+Please what?
+What do you want #Name #Smile
+Ohh, #Begging? I #Love #Begging #Smile @AddStrokeTime(60) 
+Mmm, #Begging...
+That's please #DomHonorific #DomName to you #Smile
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile @AddStrokeTime(60) 
+Mmm, moan for me #Name
+Mmm, #Beg for me #Name
+Mmm, I #Love it when you #Beg @AddStrokeTime(60) 
+[First Round End]
+[Stroking]
+I love when your beg and moan like that. @CallReturn(Custom\Shorts\Short22.txt)
+@Flag(av_fetish_cei) It sounded like you were begging me to make you swallow your own cum
+OK, are you finished with all of the begging now? That's it? Good. Now we can continue...
+#DoAsISay #Slave!
+That's right...beg for me to build up your cum more and more
+Be careful #SubName, I am here to punish you and not to listen to your stories.
+Do you really think I will listen to your stories?
+Go ahead. Beg. Promisse anything. I still won't let you cum.
+Please what?
+What do you want #Name #Smile
+Ohh, #Begging? I #Love #Begging #Smile @AddStrokeTime(60) 
+Mmm, #Begging...
+That's please #DomHonorific #DomName to you #Smile
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile @AddStrokeTime(60) 
+Mmm, moan for me #Name
+Mmm, #Beg for me #Name
+No #SubName @CallReturn(Custom\Shorts\Short16.txt)
+The only one who can demand stuff is me..right #PetName? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad)
+Honey, you have to build more energy before you can beg me!	
+Mmm, I #Love it when you #Beg @AddStrokeTime(60) 
+[Stroking End]
+[Not Stroking]
+@Flag(av_intera_001) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_002) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_009) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_010) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_004) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_005) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_006) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_007) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_011) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_008) @NullResponse @CallReturn(Custom\Interact\AV_Gen03.txt)
+@Flag(av_intera_003) @NullResponse @CallReturn(Custom\Interact\AV_Gen04.txt)
+@Flag(av_intera_012) @NullResponse @CallReturn(Custom\Interact\AV_Gen04.txt)
+@Flag(av_intera_013) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_015) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_016) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_017) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_018) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_019) @NullResponse @CallReturn(Custom\Interact\AV_EdgeInter.txt)
+@NotFlag(av_intera_001, av_intera_002, av_intera_003, av_intera_004, av_intera_005, av_intera_006, av_intera_007, av_intera_008, av_intera_009, av_intera_010, av_intera_011, av_intera_012, av_intera_013, av_intera_014, av_intera_015, av_intera_016, av_intera_017, av_intera_018, av_intera_019) @NullResponse
+[Not Stroking End]
+[Edging]
+@Flag(AV_DommeMistress) Don't keep me waiting #Slave. You'd hate to displease your Mistress.
+@BadMood Don't keep me waiting #Slave. You'd hate to displease your Mistress.
+#DoAsISay #Slave!
+That's right...beg for me to build up your cum more and more
+@Flag(av_fetish_cei) It sounded like you were begging me to make you swallow your own cum
+OK, are you finished with all of the begging now? That's it? Good. Now we can continue...
+Go ahead. Beg. Promisse anything. I still won't let you cum.
+Please what? 
+What do you want #Name #Smile 
+Ohh, #Begging? I #Love #Begging #Smile 
+Mmm, #Begging... 
+That's please #DomHonorific #DomName to you #Smile 
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile 
+Mmm, moan for me #Name 
+Mmm, #Beg for me #Name 
+Mmm, I #Love it when you #Beg 
+[Edging End]
+[Holding The Edge]
+I love when your beg and moan like that. @CallReturn(Custom\Shorts\Short22.txt)
+OK, are you finished with all of the begging now? That's it? Good. Now we can continue...
+Go ahead. Beg. Promisse anything. I still won't let you cum.
+#DoAsISay #Slave!
+Be careful #SubName, I am here to punish you and not to listen to your stories.
+Do you really think I will listen to your stories?
+@Flag(av_fetish_cei) It sounded like you were begging me to make you swallow your own cum
+Please what? 
+What do you want #Name #Smile 
+Ohh, #Begging? I #Love #Begging #Smile 
+Mmm, #Begging... 
+That's please #DomHonorific #DomName to you #Smile 
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile 
+Mmm, moan for me #Name 
+Mmm, #Beg for me #Name 
+Mmm, I #Love it when you #Beg 
+[Holding The Edge End]
+[CBT Cock]
+@Flag(AV_DommeMistress) Don't keep me waiting #Slave. You'd hate to displease your Mistress.
+@BadMood Don't keep me waiting #Slave. You'd hate to displease your Mistress.
+@Flag(AV_DommeMistress) I might just to have to buy a gag ball to silence you, if you talk back to me.
+OK, are you finished with all of the begging now? That's it? Good. Now we can continue...
+#DoAsISay #Slave!
+The only one who can demand stuff is me..right #PetName? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad)
+Go ahead. Beg. Promisse anything. I still won't let you cum.
+Please what? 
+No #SubName @CallReturn(Custom\Shorts\Short16.txt)
+What do you want #Name #Smile 
+Ohh, #Begging? I #Love #Begging #Smile 
+Mmm, #Begging... 
+That's please #DomHonorific #DomName to you #Smile 
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile 
+Mmm, moan for me #Name 
+Mmm, #Beg for me #Name 
+Mmm, I #Love it when you #Beg 
+Be careful #SubName, I am here to punish you and not to listen to your stories.
+Do you really think I will listen to your stories?
+[CBT Cock End]
+[CBT Balls]
+No #SubName @CallReturn(Custom\Shorts\Short16.txt)
+@Flag(AV_DommeMistress) Don't keep me waiting #Slave. You'd hate to displease your Mistress.
+@BadMood Don't keep me waiting #Slave. You'd hate to displease your Mistress.
+@Flag(AV_DommeMistress) I might just to have to buy a gag ball to silence you, if you talk back to me.
+Be careful #SubName, I am here to punish you and not to listen to your stories.
+Do you really think I will listen to your stories?
+Go ahead. Beg. Promisse anything. I still won't let you cum.
+The only one who can demand stuff is me..right #PetName? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad)
+OK, are you finished with all of the begging now? That's it? Good. Now we can continue...
+#DoAsISay #Slave!
+Please what? 
+What do you want #Name #Smile 
+Ohh, #Begging? I #Love #Begging #Smile 
+Mmm, #Begging... 
+That's please #DomHonorific #DomName to you #Smile 
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile 
+Mmm, moan for me #Name 
+Mmm, #Beg for me #Name 
+Mmm, I #Love it when you #Beg 
+[CBT Balls End]
+[Chastity]
+OK, are you finished with all of the begging now? That's it? Good. Now we can continue...
+[Chastity End]
+[After Tease]
+Please what? 
+What do you want #Name #Smile 
+Ohh, #Begging? I #Love #Begging #Smile 
+Mmm, #Begging... 
+That's please #DomHonorific #DomName to you #Smile 
+Ohh, are you going to #Beg for me #Name? I'm listening #Smile 
+Mmm, moan for me #Name 
+Mmm, #Beg for me #Name 
+Mmm, I #Love it when you #Beg 
+[After Tease End]

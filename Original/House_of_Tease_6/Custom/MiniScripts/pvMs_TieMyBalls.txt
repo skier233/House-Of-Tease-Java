@@ -1,0 +1,23 @@
+Go ahead and tie those #Balls @CheckFlag(pthevShoelace)
+Do you have a shoelace or something like that?
+[yes] Good @Goto(wrap it)
+[no] Go get it then
+@DifferentAnswer #YesOrNo
+Don't take too long though @Wait(10)
+Got it?
+[yes,ready,done] Okay @Goto(wrap it)
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer #YesOrNo
+(pthevShoelace)
+Get your shoelace
+I think you already know what to do
+(wrap it)
+Wrap it around both your #Balls 
+Make it tight, but not too tight
+Tie a nice knot @Wait(10)
+Ready?
+[yes,ready,done] Good
+[no] I'll wait, let me know when you're done @LoopAnswer
+@NullResponse Are you ready?
+@NullResponse @TempFlag(pvBallsTied)
+@End

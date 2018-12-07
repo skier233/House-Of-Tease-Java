@@ -1,0 +1,28 @@
+@NullResponse @RapidCodeOn 
+@Flag(AV_DecOrg) @NullResponse @IncreaseOrgasmChance
+@Flag(AV_IncRuin) @NullResponse @DecreaseRuinChance 
+@Flag(AV_IncOrg) @NullResponse @DecreaseOrgasmChance
+@Flag(AV_DecRuin) @NullResponse @IncreaseRuinChance
+@NullResponse @DeleteFlag(AV_CrashReport)
+@NullResponse @DeleteFlag(AV_DecOrg, AV_IncRuin, AV_IncOrg, AV_DecRuin)
+Normally this would be the time I decide if you get to cum
+But you're not even allowed to cum right now, are you #Lol
+I do want to leave you with something to remember me with though
+So why don't you start stroking one last time for me @RapidTextOn
+All the way to the edge
+And I'll let you hold it before I send you away #Grin @EdgeHold @RapidTextOff
+#LetTheEdgeFade
+That's all you get #GeneralTime #SubName
+I look forward to teasing you again soon
+Just like I bet you look forward to finally being able to cum again #Lol
+Goodbye for now #EmoteHappy @RapidTextOn
+@SystemMessage <b>END SESSION REPORT</b> @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme mood ended in #DomMood @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme level ended in #DomLevel  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme apathy ended in #DomApathy @ShowImage[av_imagens\System.jpg]
+@Flag(AV_DommeMistress) Mistress Mode actived in this session @SystemMessage  @ShowImage[av_imagens\System.jpg]  @RapidTextOff
+@SystemMessage That Status will be reseted in the next session @ShowImage[av_imagens\System.jpg] @Wait(10)
+@SystemMessage  @ShowImage[av_imagens\System.jpg] 
+@EndTease
+@End
+@Info The domme points out that you're not allowed to cum, but lets you hold one last edge for her before you leave. Written by 1885.

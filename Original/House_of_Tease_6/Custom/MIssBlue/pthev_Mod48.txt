@@ -1,0 +1,76 @@
+@NullResponse @Goto(one,two,three,four)
+(four)
+#StopStroking @StopStroking
+Do you ever wonder if you #JerkOff too much?
+[yes] Hmm... maybe I don't deny you often enough #EmoteWink
+[no] Never too much of a good thing, right? #Laugh
+@DifferentAnswer #YesOrNo
+Given that making you #JerkOff is my primary means of controlling you
+I don't think you can even do it too much
+After all, we need to fill up those #Balls with ache, don't we?
+All so that you are the best submissive toy for me that you can be
+@End
+(three)
+#StopStroking @StopStroking
+Isn't that actually the worst thing I can do to you
+Telling you to stop #JerkingOff
+I mean, that is the thing that you like to do more than anything
+And I can just take it away with a simple command #Grin
+Imagine having that kind of control over someone...
+Oh but you can't, can you #Laugh
+You will never have that kind of control, you don't even want to...
+But I do, #Name
+I know you want to touch that #Cock
+But you have to wait
+You can watch some porn in the meantime... @PlayVideo(20) @JumpVideo
+That's enough #Grin
+It's just making you want to #JerkOff even more, doesn't it? #Laugh
+@End
+(one)
+#Edge @Edge
+Are you @RT(suffering a lot,aching a lot,in agony) right now #SubName?
+[yes] @RT(Mmmm,Oh yeah,Just as I want you,As you should be)
+[no] Oh... @Goto(Not Aching)
+@AcceptAnswer @RT(Even so,In any case,Not that it matters)
+@RT(I want more,It's not enough,And it's going to be so much worse)
+#Edge @Edge
+#LetTheEdgeFade @Goto(End Module)
+(Not Aching)
+Well @RT(I can't have that,That's no good,That won't do) #Grin
+#Edge @Edge(LongHold)
+#LetTheEdgeFade
+(End Module)
+Don't worry #PetName
+There's @RT(plenty,a lot) more @RT(where that came from,of that to come,aching just around the corner,suffering in store for you) #Grin
+@End
+(two)
+#StopStroking @StopStroking
+It's @RT(too bad,such a shame) you're not here with me #PetName
+I'm so @RT(fucking,incredibly,unbelievably) @RT(hot,horny,aroused,wet) right now
+My @RT(pussy,clit) is @RT(practically,pretty much) <i>begging</i> to be worshipped by your tongue
+#EmoteMoan
+I know @RT(how much you want,that all you want is,you live,you would do anything) to @RT(please me,make me happy)
+@RT(I bet you could,You could probably,No doubt you would) do an @RT(incredible,amazing,great) job giving me @RT(pleasure,what I need)
+But you're not here
+@RT(So,Which means) I have to find other ways to get my @RT(pleasure,thrill,kicks)
+@BallTorture Other ways to let you worship me, and @RT(sad to say,unfortunately) @Goto(other ways to worship)
+Other ways to let you worship me
+#Edge @EdgeHold
+#LetTheEdgeFade @Goto(edge is another way to worship)
+(other ways to worship)
+@RT(Most of them,A lot of them,Many of them) are @RT(pretty,more than a little,fairly,rather) painful
+Painful for you, that is #Grin
+@BallTorture Like this one for @RT(example,instance)... @CBTBalls
+(edge is another way to worship)
+I'm sure @RT(your balls are aching right now,that made your balls ache even more,made the ache in your balls even worse)
+And @RT(I sure had a good time,I do always enjoy,I had fun) @RT(beating,busting,hurting) your #Balls 
+But it has @RT(not really,barely) done anything about the @RT(ache,throb) in my pussy #Lol
+Which I guess just puts me back where I started
+Still @RT(incredibly,very,so fucking,unbelievably) @RT(horny,hot,turned on,aroused)
+@RT(Wet,Squirming in my chair)
+And @RT(aching,desperate) to feel your tongue @RT(inside of me,inside my pussy,on my clit)
+I @RT(suppose,guess) like you I'll have to @RT(rely on my fingers to,let my fingers) do the work
+But unlike you I can actually choose when to @RT(masturbate,pleasure myself)
+<i>You</i> have to wait for my @RT(command,permission) #Grin
+@End
+@Info written by 1885. Adapted for MissBlue by PtheV.

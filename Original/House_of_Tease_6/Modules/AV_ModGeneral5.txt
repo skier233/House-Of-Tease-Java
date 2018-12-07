@@ -1,0 +1,531 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGeneral5_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral5]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral5_NotFirstTime)
+(AV_ModGeneral5_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral5]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral5]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral5]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral5]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral5]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral5]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral5]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral5]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral5]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral5]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral5]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral5]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral5]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral5]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral5]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral5]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral5]=[AV_ModGeneral5]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral5]=[AV_ModGeneral5]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral5]=[AV_ModGeneral5]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral5]=[AV_ModGeneral5]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral5]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+Your training is going so well and you don't have much left. 
+Now we will see how long you can stroke that #Cock. 
+To see if you can keep yourself from shooting yourself 
+To see if you can be brought to the edge over and over again. 
+Don't be sad #Slave. 
+I'm sure you'll enjoy it
+#StartStroking
+I love watching you #Stroke. 
+Watching you take your cock in your hand and pleasing yourself. 
+Keep up that pace for a while. 
+Let's make that cock feel as good as it can before we finish.
+@RT(Have you thought about how long you could keep all that cum in those balls, If you really were to test yourself how long do you think you could go)? @Timeout(10, AV_Jump50)
+[yes] #Lol 
+[no] You don't? 
+[1, 2, 3] I'd start slow if you've never tried before. 
+@AcceptAnswer Yes or no #SubName?
+(AV_Jump50)
+Build up the amount of time slowly until you can go longer and longer. 
+@RandomText(I bet eventually you'd be able to go for quite a while without an orgasm, Longer then you think)
+Oooh. Look at all the precum already. 
+It looks so nice pushing it's way out of that nice throbbing cock. 
+@AllowsOrgasm(Never, Rarely) I can't wait to deny you. 
+@AllowsOrgasm(Often, Sometimes, Always) I can't wait to watch you cum. 
+I have to admit that I much prefer to watch a cock being pumped when it's gone a long time without cumming. 
+So much precum drips out of it. 
+And I love that it only takes a few seconds of heavy stroking to reach the edge @FollowUp50(making even more of that precum stream out of it for me.)
+#Edge @EdgeNoHold
+You wouldn't believe how horny you'd feel if you go a long time without cumming. 
+@RandomText(You'd be thinking about stroking even more then you do now, That cock would get hard all the time and you'd drip precum all day long)
+@RandomText(I can tell that you would enjoy it, I know you think it would be frustrating)
+but that wouldn't bother you after a few days.
+#StartStroking
+If you went a good amount of time without letting any of that cum out of your balls
+@RandomText(your orgasm would feel so much better too, That built up load would just explode out of you with more force then you could imagine)
+Something tells me you'd like that, wouldn't you? @Timeout(10, AV_Jump51)
+[yes] #Great @MoodUp
+[no] You don't? @MoodDown
+@AcceptAnswer Yes or no #SubName?
+(AV_Jump51)
+You can take it slow. 
+A couple days at first and then slowly add to the number. 
+And if you stroke and edge yourself several times each day 
+I guarantee that when you do cum you'll want to go even further.
+@RandomText(Maybe you have no doubt about the benifits of denial already, Maybe you are probably thinking "Is she crazy? There's no way that going without an orgasm for more then a day can feel good.")
+@AllowsOrgasm(Never) #StopStroking @Goto(decidido)
+So I will make a question after that edge @Edge
+Will you try denying yourself for me? 
+[yes] #Yay @Goto(YesRestrit)
+[no] You don't? @Goto(NoRestrit)
+@DifferentAnswer #YesorNo #SubName?
+(YesRestrit)
+I will give you 4 options:
+3 days, 5 days, 1 week or just today
+What is going to be?
+[3 days, 3, three] #Okay @RestrictOrgasm(3 Days)
+[5 days, 5, five] Nice @RestrictOrgasm(5 Days)
+[1 week, 1, one] #HolyShit #PetName @RestrictOrgasm(1 Week)
+[today, just today] It's a start @RestrictOrgasm
+[changed my mind, nevermind] pussy @Goto(NoRestrit)
+I hope you'll learn how to take control of your own cock 
+and fill those balls up with a whole lot of cum for me. @Goto(decidido)
+(NoRestrit)
+Well... 
+(decidido)
+I can tell that cock is about ready to cum. 
+What do you say, one, maybe two more edges before we continue? 
+#StartStroking again 
+Fast
+Lets get in at least two more really fast edges.
+I bet those balls of yours are begining to feel really tight?
+All that cum is just waiting for the chance to escape. 
+Keep stroking though. 
+Keep up a good pace for a while. 
+You can last a little while longer, can't you?
+#Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+Let that cock throbb and twitch and let all the juicy precum flow out of you. 
+Good boy. 
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact1  @AddContact1
+@Contact1 Hi #EmoteLaugh 
+#AV_Break3
+@Contact1 #AV_Break4
+@NullResponse @RemoveDomme
+Now, I know you want to get hard, and I know you want to fuck me hard and cum
+but there's more to it than that. 
+You see #SubName, I've been wanting to do this to you for some time.
+I have setup a nice points system for you to use
+Here is how it works.
+#StartStroking
+Now I don't care how you do it but you need to accumulate at least 200 points
+Every stroke will be 1 point
+A edge will be 10 points
+And holding a edge, 20 points 
+I'm not counting these strokes right now.
+Because I need you desperate before the game begins
+Now bring that cock to a nice edge for me @EdgeNoHold
+Just enjoy me, I know if you try you can put every thing out of your mind so it's just you and I together. 
+That's right I am the most important person in your life right now.
+Now the game begins... @SetVar[AV_GlitterGamew]=[0] 
+@NullResponse @Goto(Game1, Game2, Game3, Game4, Game5)
+(Game1)
+#Stroke @PlayAudio[tease\b075.mp3] @Wait(20)
+#StopStroking @ChangeVar[AV_GlitterGamew]=[AV_GlitterGamew]+[25]
+@NullResponse @Goto(Calcula)
+(Game2)
+#Stroke @PlayAudio[tease\b120.mp3] @Wait(20)
+#StopStroking @ChangeVar[AV_GlitterGamew]=[AV_GlitterGamew]+[40]
+@NullResponse @Goto(Calcula)
+(Game3)
+#Stroke @PlayAudio[tease\b180.mp3] @Wait(20)
+#StopStroking @ChangeVar[AV_GlitterGamew]=[AV_GlitterGamew]+[60]
+@NullResponse @Goto(Calcula)
+(Game4)
+#Edge @EdgeNoHold
+@NullResponse @ChangeVar[AV_GlitterGamew]=[AV_GlitterGamew]+[10]
+@NullResponse @Goto(Calcula)
+(Game5)
+#Edge @EdgeHold
+@NullResponse @ChangeVar[AV_GlitterGamew]=[AV_GlitterGamew]+[20]
+(Calcula)
+@NullResponse @If[AV_GlitterGamew]>[199]Then(GameAcaba)
+You earned #Var[AV_GlitterGamew] so far...
+#Praise @Goto(Game1, Game2, Game3, Game4, Game5)
+(GameAcaba)
+You finished the game #SubName
+Oh, I want to be with you so bad it hurts and I can tell you feel the same.
+Can I ask you to do something for me?
+I want you to tell me how beautiful I am as you stroke your cock. @PlayAudio[tease\cStroke.mp3] 
+Start with my hair and cover every little part of my body.
+#ICanBeWithYou
+#ICanKeepThisUp
+#ImPleased
+#StopStroking
+OK we are done for now
+Yes I know you did not get to cum. 
+You have to understand that this is how it is going to be 
+@Contact1 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact1
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact3  @AddContact3
+@Contact3 Hi #EmoteLaugh 
+#AV_Break3
+@Contact3 #AV_Break4
+@NullResponse @RemoveDomme 
+Hello there, are you ready to have some fun? 
+Mmm, I do love a nice hard cock. Why don't you play with your balls a little
+Just sit there, in front of your computer. 
+@RandomText(I own you now, You're going to be my little bitch from now on)
+@RandomText(Is your cock hard?, It better be. Soft cocks are worthless)
+Why don't you show me how hard it can get. 
+Stroke my cock for me. @PlayAudio[tease\cStroke.mp3] 
+That's right... nice and slow. 
+Dry  that cock for me. 
+A little faster...keep stroking, oooh, yes, 
+Faster... Damn. This is turning me on.
+Faster still... stroke that cock for me while i pleasure myself.
+Ohhh shit, keep going. Fuck... don't stop....
+@RandomText(Are you getting close?, Are you about to cum your hot white pearly cum all over my tits?)
+#StopStroking
+Sit on your hands. I will cum whenever I want. But YOU cum when and where I say. 
+Is your cock drooling? 
+@Flag(av_fetish_cei) Scoop whatever has leaked from my cock and put it in your mouth. 
+@Flag(av_fetish_cei) NOW BITCH!
+@Flag(av_fetish_cei) Sit back on your hand.
+Ohhhfuck That is so hot. MMMMM.
+Now...
+You don't think I am just going to make you play with yourself. 
+Nope.
+I am going to make you suffer 
+Turn your ass around and let me look at it.... 
+Spread those cheeks. @TempFlag(av_intera_003)
+MMmmmmmm good boy. I think you LIKE being my little whore. 
+@Flag(av_fetish_pain) I want you to smack each of your cheeks 10 times. 
+You pathetic bitch!
+@Flag(av_fetish_pain) 20 more smacks, each cheek, HARD. I want to see your ass turn RED!
+That's not bad. But you can do better
+@Flag(av_fetish_pain) 10 more each! Even harder!
+@Flag(av_fetish_pain) Count them with me.
+@Flag(av_fetish_pain) First the left
+@Flag(av_fetish_pain) @NullResponse @PlayAudio[tease\G3Spank\*.mp3]  @Wait(22)
+@Flag(av_fetish_pain) Now the right
+@Flag(av_fetish_pain) @NullResponse @PlayAudio[tease\G3Spank\*.mp3]  @Wait(22)
+Good 
+@Flag(av_fetish_pain) Is your ass hot? I bet your ass is on fire. 
+That is so sexy, the way you squirm....
+Stroke your hard, pulsing cock for me @PlayAudio[tease\cStroke.mp3] 
+Do you like that? 
+#KneelForMe
+Stroke that cock for me, slowly.
+Look how purple and angry it is
+Stroke
+Stroke...
+Now stroke faster
+Faster
+Harder
+Faster
+Are you ready?
+#StopStroking
+#SitDown
+We're gonna play a little game
+I will roll a dice and will decide what you have to do, we'll start out nice and easy. 
+But it's gonna get a lot harder as we go on. Are you ready? 
+Rolling @Goto(DA1, DA2, DA3, DA4, DA5, DA6)
+(DA1)
+1. #Edge @EdgeNoHold
+@NullResponse @Goto(Parte2)
+(DA2)
+2. Stroke to the beat @Wait(20) @PlayAudio[tease\b250.mp3] 
+@NullResponse @Goto(Parte2)
+(DA3)
+3. Stroke to the beat @Wait(20) @PlayAudio[tease\b055.mp3] 
+@NullResponse @Goto(Parte2)
+(DA4)
+4. light ball tapping. @Wait(20) 
+@NullResponse @Goto(Parte2)
+(DA5)
+5. Squeeze your balls, not too hard, just enough to make it hurt. @Wait(20) 
+@NullResponse @Goto(Parte2)
+(DA6)
+6. slow sensual ball massaging. @Wait(20) 
+(Parte2)
+Now it gets a bit harder, you are ready? @Wait(20) 
+Rolling @Goto(DB1, DB2, DB3, DB4, DB5, DB6)
+(DB1)
+1. #Edge @EdgeNoHold @MultipleEdges(2, 10, 100)
+@NullResponse @Goto(Parte3)
+(DB2)
+2. Stroke to the beat @Wait(20) @PlayAudio[tease\b250.mp3] 
+@NullResponse @Goto(Parte3)
+(DB3)
+3. #Edge @EdgeNoHold
+slap your balls 5 times.
+@NullResponse @Goto(Parte3)
+(DB4)
+4. Stroke to the beat @Wait(20) @PlayAudio[tease\b120.mp3] 
+@NullResponse @Goto(Parte3)
+(DB5)
+5. Flick your left ball 5 times, hard.
+@NullResponse @Goto(Parte3)
+(DB6)
+6. Flick your right ball 5 times, hard. 
+(Parte3)
+I hope you like pain. @Wait(20) 
+Rolling @Goto(DC1, DC2, DC3, DC4, DC5, DC6)
+(DC1)
+1. Slap each ball individually 10 times @Wait(20)
+@NullResponse @Goto(Parte4)
+(DC2)
+2. Squeeze your right ball for 20 seconds. Squeeze just hard enough to where you feel it in your stomach. @Wait(20)
+@NullResponse @Goto(Parte4)
+(DC3)
+3. Squeeze your left ball for 20 seconds. Squeeze just hard enough to where you feel it in your stomach. @Wait(20)
+@NullResponse @Goto(Parte4)
+(DC4)
+4. Pull your balls down and away from your body until you feel the chords stretching, hold it  @Wait(20)
+@NullResponse @Goto(Parte4)
+(DC5)
+5. Rest your balls on the edge of the chair @Wait(20)
+@NullResponse @Goto(Parte4)
+(DC6)
+6. Slap and squeeze your balls until your dick goes totally soft. @Wait(30)
+(Parte4)
+This is the last round of our dice game, how you holding up? 
+Your balls hurt? 
+Good, the more swollen they are, the better.
+Last round. @Goto(DD1, DD2, DD3, DD4, DD5, DD6)
+(DD1)
+1. #Edge @EdgeHold @MultipleEdges(2, 20, 100)
+@NullResponse @Goto(Parte5)
+(DD2)
+2. #Edge @EdgeHold @MultipleEdges(2, 15, 100)
+@NullResponse @Goto(Parte5)
+(DD3)
+3. #Edge @EdgeHold @MultipleEdges(2, 10, 100)
+@NullResponse @Goto(Parte5)
+(DD4)
+4. #Edge @EdgeHold @MultipleEdges(3, 20, 100)
+@NullResponse @Goto(Parte5)
+(DD5)
+5. #Edge @EdgeHold @MultipleEdges(3, 15, 100)
+@NullResponse @Goto(Parte5)
+(DD6)
+6. #Edge @EdgeHold @MultipleEdges(3, 10, 100)
+(Parte5)
+How'd you like my game?  @DeleteFlag(av_intera_003)
+I'm glad you made it, it gets a lot more fun from here on out.
+@Contact3 Look who is back @AddDomme
+Hi #PetName, miss me? @RemoveContact3
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+#AV_Break1
+#AV_Luxury
+#AV_Break2
+Hey #Contact2  @AddContact2
+@Contact2 Hi #EmoteLaugh 
+#AV_Break3
+@Contact2 #AV_Break4
+@NullResponse @RemoveDomme 
+#DomName told me that you agreed to be her slave
+but she said she was going to need some help. 
+She's never had a slave before and she's afraid she's going to let you cum too much. 
+She's asked me and a few of my friend's to help her 
+until she learns not to let you stroke that cock of yours to orgasm all the time.
+I know you thought you were going to have an easy time with her in control of that dick,
+but you're a slave now and your going to have to learn your place. 
+We control your cock and it'll be up to us if you get to stroke it or sit on your hands while it's hard and throbbing.
+You're a #Slave now and that means you should always be naked in front of your Mistress.
+Now jerk that cock off till it's nice and hard. @PlayAudio[tease\cStroke.mp3] 
+Once it's hard though you better take your hand off it.
+@RandomText(Don't worry slave. I'm not that mean, You'll have plenty of time to stroke that dick. But first I've got a few things to teach you.)
+As a slave you have given up all control of your will to #DomName, and to me and my friends. 
+When we tell you to do something you better do it unless you never want to stroke that cock again.
+Now you will be required to do various chores for us
+but your primary function is to be our little toy.
+We will tease you, call you names and make you do all kinds of things you might not want to do. 
+But no matter what we tell you to do, you must do it and you must never complain.
+Now say 'yes Mistress' for me. 
+[Yes mistress] Good boy
+[Yes] Yes what?
+@LoopAnswer 
+@DifferentAnswer Are you listening?
+From now on you will also have to refer to us as Mistress.
+No matter which one of us you are talking to. 
+I think you're starting to get it. 
+Is your cock still good and hard? @Timeout(10, AV_Jump52)
+[yes] #Good @MoodUp
+[no] Bad boy @MoodDown
+@AcceptAnswer Yes or no #SubName?
+(AV_Jump52)
+Don't worry. You'll get use to that. 
+When your not locked up in a chastity belt you had better be hard, whether we tell you to be or not.
+#StartStroking
+One more thing you shouldn't forget. 
+Never, and I mean never, cum without permission. 
+If you cum when you aren't told to that cock will be locked up in its chastity belt 
+and the key will be destroyed. 
+Cum when you aren't allowed to and you never get to cum again.
+Now don't go to fast yet, cause you're gonna have to last a while. 
+Does that feel good? 
+Moving your hand up and down over that stiff dick of mine? 
+Being a slave can be fun sometimes if you do as your told. 
+We aren't all bitches who want to torture you. 
+Well some of us will, but I'm a little nicer then some of my friends. 
+After all I'm here to teach you that being a slave can be fun. 
+Sure you'll be frustrated and aching to cum
+but sometimes the fun is ours, not yours
+but in time you'll learn to love having that cock aching for us.
+Now I think you need to stroke that cock faster for me. 
+Get a nice good pace going. 
+I want you to bring yourself close to the edge for me. 
+See, slaves should always feel close to the edge.
+I want you to feel like you can't take anymore and you're going to explode. 
+Are you there yet slave? 
+#Edge @EdgeNoHold
+Good boy. 
+If you took your hand off right away, even if you were in the middle of a stroke then you're learning. 
+If you stroked even once after I said stop then you need to learn to follow directions better. 
+It's very important that you learn to obey.
+(typing) 
+I want you to type 'I will obey my Mistress'.
+I want you to feel like you have no choice other then to obey.
+@NullResponse @WritingTask(I will obey my Mistress)
+@NullResponse @Goto(Goodbou)
+(Failed Writing Task)
+You need to learn, #Slave @Goto(typing) 
+(Goodbou)
+Good Boy
+#StartStroking
+The only real attention that cock is going to get is your own hand. 
+You're the one that agreed to this remember?
+Now keep #Stroking that #Cock for me.
+I think we'll have you trained in no time. 
+And you thought you wouldn't enjoy this. Silly boy. 
+You like #Stroking, don't you? 
+I know you do. 
+Well if you obey that cock will be hard all the time and you'll get to stroke it all you want. 
+Or at least as much as we let you. 
+I hope by now you've realized that there is no going back 
+so you better get used to it. 
+Now stroke it faster for me. 
+@RandomText(Enjoy every second of it, See this is a reward for both you and me)
+You get to jerk yourself 
+and I get to watch a little sissy do as I command.
+So are you close to cumming? 
+Do you need to shoot that load for me? 
+Good boy. 
+#Edge @EdgeHold
+Does it feel good?
+Well that's enough for now. 
+So do you think you're getting the hang of this? 
+Are you becomming a better slave? 
+It'll take time, but it'll be fun for both of us. 
+Everyone thinks that slaves never have fun
+but once you become a well trained slave you'll have so much fun jerking off for me and #DomName 
+that you won't even need to cum to have a good time. 
+You'll love having your cock and balls aching all the time you'll be begging us not to let you cum.
+You don't think so? 
+Well, we'll see. 
+Now bring yourself to the edge. @Edge
+Good slave. 
+You're doing so good slave. 
+I figured it was going to take you a long time to learn how to be obediant. 
+I want you to sit there with that hard on sticking straight up. 
+Aching to be stroked. 
+Before you know it all you'll think about will be getting that cock stroked.
+See, you've probably figured it out, but that's how we control you. 
+Pretty soon all you'll think about is getting your hand wrapped around that cock 
+and jerking yourself off until you cum. 
+That desire will will make you do what ever we say in the hope that we'll let you pump that dick. 
+I bet you're going crazy right now while that dick just sits there hard as a rock waiting for your hand to touch it.
+@RandomText(Is it aching?, Are your balls beginning to swell?)
+Get use to it slave.
+Just @RandomText(think about how good it's going to feel to let go and cum, think about spilling that load all over yourself while I watch)
+#StartStroking
+slowly though. 
+You shouldn't be near the edge yet #Slave. 
+@RandomText(We want a slave that we can play with for a long time, We're gonna teach you to last as long as you can)
+so that you'll keep stroking and stroking to our commands with out squirting. 
+The longer you last for us the happier we will be
+and the happier we are the better chance you have at making a nice sticky mess for us. @Goto(TeaAV1, TeaAV2)
+(teaAV1)
+Has it been driven in yet? 
+Everything you do is for us. 
+For our pleasure. @Goto(TeaAV3)
+(teaAV2)
+Whether you have a good time or not doesn't matter. 
+It's all about us. 
+You are here to serve your Mistresss. 
+(TeaAV3)
+Jerk that cock faster now. 
+Bring yourself to the edge for me slave. @EdgeHold
+That feeling will be what you crave when were done with you. 
+You'll want to cum
+but you'll be so satisfied riding the edge of orgasm for us that you'll crave that feeling over and over again.
+Now let's practice something else that you'll need to learn. 
+The longer you go without cumming the happier your Mistresss will be 
+and you want to make us happy, don't you? 
+Good slave.
+No touching yourself until you meet with #DomName. 
+Don't worry though slave, you haven't seen the last of me. 
+Maybe next time I'll let you spill that hot load 
+and lick each and every drop up. 
+@Contact2 Look who is back @AddDomme
+Hi #PetName, miss me? 
+@Contact2 Bye, bye slave.
+@NullResponse @RemoveContact2
+@End

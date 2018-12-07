@@ -1,0 +1,226 @@
+@NotFlag(pthevClothespins) @NullResponse @Goto(no game)
+@BallTorture @NullResponse @Goto(let us play abc)
+@NullResponse @Goto(no game)
+(let us play abc)
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pvMod49A)
+@NullResponse @SetFlag(pvMod49A)
+I have a little game I want to play with you @CheckBnB 
+It doesn't have a name, really
+But let's call it the ABC Game: Asses, Boobs and Clothespins #EmoteHappy
+(explain ABC again)
+@Flag(BBnBGame) It's very similar to Boobs, Butts & Ballbusting, but with a new twist #Smile
+I'm #Gonna show you a bunch of pictures very fast
+And all you have to do is say "stop" when you want me to stop
+If you stop on a picture of a girl's boobs, I'll let you edge that #Cock for me
+But if it's a picture of her Ass...
+You have to put 2 clothespins on your #Balls 
+If you get to 5 edges before 10 clothespins, you win!
+If you have 10 clothespins on your #Balls before you did 5 edges, you lose...
+Losing means I get to have my way with your #Cock and #Balls
+Winning means you get a prize #Smile
+By the way, if you see all those pictures going by and it gets to be too much
+You can just give up and I'll let you stop
+But not before I punish your balls <i>and</i> your cock for being a quitter #EmoteRandom
+Obviously, you need 10 clothespins, do you have them ready?
+[yes,ready,got them,have them] Good
+[no] Then go get them, let me know when you're ready @LoopAnswer
+@DifferentAnswer Do you have the clothespins?
+So now that you know the rules and have the clothespins @SetVar[pvMod20CPCount]=[0] @SetVar[pvMod20EdgeCount]=[0]
+@NullResponse @Goto(Get Started) 
+(BBnBGame)
+I want to play the ABC Game again #Grin @CheckBnB 
+Remember that one?
+[yes] Good, then we can get started right away
+[no] ABC stands for  Asses, Boobs and Clothespins @Goto(explain ABC again)
+@DifferentAnswer #YesOrNo
+Do you have 10 clothespins ready?
+[yes,ready,got them,have them] Good
+[no] Then go get them, let me know when you're ready @LoopAnswer
+@DifferentAnswer Do you have the clothespins?
+Get ready #Name @SetVar[pvMod20CPCount]=[0] @SetVar[pvMod20EdgeCount]=[0]
+(Get Started)
+Here we go @TnAFastSlides
+[stop] @NullResponse @LockImages @CheckTnA
+[give up, quit, done] You know the price for quitting #PetName @StopTnA @Goto(Are You Sure)
+@DifferentAnswer I'm going to keep going until you say stop or you give up
+(Boobs)
+#pvMod20Boobs
+#Edge @EdgeNoHold @ChangeVar[pvMod20EdgeCount]=[pvMod20EdgeCount]+[1]
+#LetTheEdgeFade
+@NullResponse @If[pvMod20EdgeCount]=[5]Then(You Win)
+#pvMod20BoobsTaunt @UnlockImages
+@NullResponse @Goto(Get Started)
+(Butt)
+#pvMod20Ass
+#pvMod20Clothespins @ChangeVar[pvMod20CPCount]=[pvMod20CPCount]+[2]
+@NullResponse @If[pvMod20CPCount]=[10]Then(You Lose)
+#pvMod20AssTaunt @UnlockImages 
+@NullResponse @Goto(Get Started)
+(You Win)
+You win! @UnlockImages
+Congratulations #Name @If[pvMod20CPCount]>[0]Then(take off the pins)
+And you didn't even have to use any clothespins... @Goto(what did you win)
+(take off the pins)
+You can take off those @ShowVar[pvMod20CPCount] clothespins now #Smile
+(what did you win)
+You must be curious what you won...
+Well, balls free of clothespins, for starters #Laugh
+I'm going to let you #JerkOff to a porn video of your choosing
+And you can #JerkOff any way you like
+Or not at all, if you need break...
+But #Name, do <i>not</i> cum or ruin, you don't have permission for that
+So go ahead and find yourself something to watch
+And let me know when you're done watching
+Have fun! #Smile
+[done,ready,finished,back,watched,did] Okay, I hope you enjoyed it
+@DifferentAnswer Let me know when you're done watching
+Time for me to take back control #Smile
+@End
+(You Lose)
+Well... @UnlockImages
+That means you lost, #Name
+You've got 10 clothespins on your #Balls now
+And you didn't make it to the fifth edge...
+Which means I get to torture you some #Grin @CBTCock
+Do you have a wooden spoon or a ruler or something like that at hand?
+[yes] Good, get it out
+[no] That's okay, you can use you hand
+@DifferentAnswer #YesOrNo
+I want you to smack the clothespins off one by one 
+Make sure you aim well and don't hit two at once
+Let me count them down for you
+Take one clothespin off by hitting it with each number
+Get ready...
+10 @Wait(#Random(6,15))
+9 @Wait(#Random(6,15))
+8 @Wait(#Random(6,12))
+7 @Wait(#Random(5,12))
+6 @Wait(#Random(4,12))
+5 @Wait(#Random(3,11))
+4 @Wait(#Random(3,10))
+3 @Wait(#Random(3,9))
+2 @Wait(#Random(3,8))
+1 @Wait(#Random(3,8))
+All the clothespins should be off now
+I hope it didn't hurt <i>too</i> much
+Oh who am I kidding, I hope it hurt like hell #Lol
+Maybe you'll get more lucky next time we play this game
+You <i>do</i> want to play it again someday, right?
+[yes] Good #EmoteHappy
+[no] Maybe you should learn to appreciate my games, #PetName
+@DifferentAnswer #YesOrNo
+Because I'm sure I'm going to want to play again #Grin
+@End
+(No BnB)
+But you need Boob and Butt pictures to play it
+And you don't have them set up #EmoteSad
+You really should think about getting some pictures together
+There's <i>so</i> many ways I can have fun with them #Grin
+But in the meantime
+There's always the old-fashioned way #Lol
+@End
+(Are You Sure)
+Are you sure you want to pay it? 
+[yes] Suit yourself #Grin
+[no] In that case... @Goto(Get Started)
+@DifferentAnswer Yes or no #PetName?
+Take off the clothespins then
+Let's start by hurting those #Balls while they're still sore @CBTBalls
+Now then
+Let's give that #Cock a taste of what those #Balls are feeling @CBTCock
+I hope giving up was worth the pain #PetName
+Because here in a minute
+You're going to start stroking for me again #Grin
+@End
+(no game)
+@NullResponse @CheckFlag(pvMod49A)
+#Edge @Edge
+#LetTheEdgeFade
+@NullResponse @SetFlag(pvMod49A)
+@End
+(pvMod49A)
+I wanna make you edge some right now, #Name @DeleteFlag(pvMod49A)
+And with some I mean a lot #Grin
+Are you ready for that?
+[yes] Good, that was the only right answer
+[no] You were supposed to say yes, #PetName
+@DifferentAnswer #YesOrNo
+Because you know what?
+I don't really care if you want it or not
+I'm going to make you do it anyway #Lol
+@Flag(pvKneeling) Get up off your knees @DeleteFlag(pvKneeling)
+#Edge @EdgeHold
+#LetTheEdgeFade
+That was just the start...
+This is going to get a whole lot worse, #Name
+#Edge @EdgeHold
+Maybe you're already started to feel overwhelmed @CustomMode(#pvDontWantTo,Goto,do not want)
+But you'll soon find out that you can take a lot more than you think @CustomMode(#pvNeedABreak,Goto,need break)
+@NullResponse @CustomMode(#pvCantTakeIt,Goto,do not want)
+#Edge @EdgeHold
+#LetTheEdgeFade @Wait(10)
+#Edge @EdgeHold
+Soon you will be on the edge pretty much constantly
+#Edge @EdgeHold 
+Stay focused, #Name
+#Edge @EdgeHold
+You're doing great, #Name
+Take a moment, breathe easy #Smile @Wait(#Random(10, 20))
+#Edge @EdgeHold
+Hmmm I want want more, #Name
+#Edge @EdgeHold 
+This must feel excruciating
+I love it! #Lol
+@OrgasmRestricted By the way, don't expect to cum after all this
+#Edge @EdgeHold
+I want your mind to be all arousal all the time
+#Edge @EdgeHold
+Let the edge fade away if you can... @MoodUp
+That's probably too much too ask, right? #Laugh
+#Edge @EdgeHold
+Think about the contrast between you and me right now...
+I'm just sitting here, relaxing, giving some commands
+And you...
+You're sitting there, sweating and leaking and squirming in your chair
+It's a microcosm of an ideal male-female relationship #Laugh
+#Edge @EdgeHold
+Just another edge... no big deal, #Name
+#Edge @EdgeHold
+#LetTheEdgeFade @Wait(10)
+I satisfied for now, #PetName #Smile @MoodUp
+And I'm proud of you for making it through without even asking for a break @MoodUp
+Let me just say, you're a <i>good boy</i>, #SubName
+And I bet that #Cock is leaking pretty bad right now #EmoteHappy
+@End
+(need break)
+So you want some time off from edging, hm?
+Alright then, you can relax a little bit
+Not too long though, I'm not done with you yet
+@NullResponse @CallReturn(Custom/Break/*.txt)
+Now let's pick up where we left off...
+#Edge @EdgeHold
+Let's be clear, #SubName
+I'm not going to give you any more breaks from now on
+#Edge @EdgeHold
+I'm going to keep going until I'm satisfied
+#Edge @EdgeHold
+And all you have to do is make sure you don't cum
+Can you take more, #SubName?
+[yes] Good boy #Smile
+[no] No? @Goto(do not want)
+@DifferentAnswer #YesOrNo
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Just a couple more edges now
+#Edge @EdgeNoHold @MultipleEdges(3,8,100)
+#LetTheEdgeFade
+I bet that #Cock is leaking pretty bad right now #EmoteHappy
+@End
+(do not want)
+Aww is it getting to you my poor #PetName? #Grin @MoodDown
+@BallTorture Well that does give me a good excuse to make you hurt your #Balls I suppose @CBTBalls
+I'm not happy about your performance just now, #PetName
+But at least I got you close to your breaking point #Smile
+@End
+@Info Based on BBnB by 1885, adapted for MissBlue by PtheV.

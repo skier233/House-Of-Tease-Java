@@ -1,0 +1,324 @@
+@NullResponse @Goto(one,two,three)
+(one)
+@NullResponse @CheckFlag(pthevMod11B)
+@NullResponse @CheckFlag(pthevMod11A)
+@HasChastity @NullResponse @Goto(has device)
+It requires willpower to do what you're doing now #Name @SetFlag(pthevMod11A)
+I could put you on the spot and demand you use a chastity device
+But the advantage of not using one is that it requires real dedication
+I mean, you <i>could</i> start stroking now
+But you won't, because I told you so #Smile
+@End
+(has device)
+At some point I will probably let you out of that cage #Name @SetFlag(pthevMod11A)
+I'm sure you're already aching to get out
+But what if we don't...
+What if I leave you locked up for a long time 
+A whole month
+Half a year
+A year...
+And I don't mean wearing it at night only
+Or taking it off regularly to #JerkOff
+I mean leaving it on 24/7
+Not even taking it off to clean it
+You'd have to find some way to keep up your hygiene
+I'm sure you'll find a way, you can be creative if you have to
+Imagine how desperate you'd be then
+And when I finally let that #Cock out...
+I would be a little confused at first, probably #Smile
+But then it would quickly become harder than ever before
+One touch from me and you'll cum all over the place
+Just whispering <i>cum for me</i> in your ear would be enough
+It would definitely be worth it #PetName #Smile
+@End
+(pthevMod11A)
+@NullResponse @DeleteFlag(pthevMod11A) @SetFlag(pthevMod11B)
+@HasChastity @NullResponse @Goto(device A)
+#SubName...
+I know like everyone you have your limits
+But I also know you want to please me
+You do want to please me right?
+[yes,of course] Then let me ask you something
+[no] That's very funny #PetName @Goto(very funny)
+[don't know,maybe,not sure,what you do mean,what are you saying,trying to say] Don't worry #SubName, I just want to ask you something
+@DifferentAnswer #YesOrNo
+(if I told you)
+If I told you that it would make me a very happy #DomHonorific @RapidTextOn
+If you bought a chastity device
+Would you do it for me? @RapidTextOff
+[yes] #Yay @Goto(yes to chastity)
+[no] #EmoteSad
+@DifferentAnswer #YesOrNo
+It's okay #Name
+As long as you keep your hands off your #Cock when told
+We don't really need a device #Smile
+@End
+(yes to chastity)
+Let me know when you have one ready to use
+It's going to be so much fun #Smile
+For now though, you're just going to have to restrain yourself
+@End
+(very funny)
+You know what would please me right now? @CBT
+I see you're still willing to please me despite what you said #Grin
+But what I wanted to ask you is this #Name @Goto(if I told you)
+@End
+(device A)
+I imagine sometimes what it must be like to wear a cage
+Of course, I don't have a penis...
+But I reckon it must be pretty uncomfortable
+Is it?
+[yes] But the benefits outweigh the costs, right?
+[no] So putting a guy in one has no negatives <i>at all</i> #Smile
+@DifferentAnswer #YesOrNo
+I suppose if it got too uncomfortable you'd have to take it off
+But until then...
+No need to take it off! #Grin
+@End
+(pthevMod11B)
+@NullResponse @DeleteFlag(pthevMod11B)
+@HasChastity Maybe it's time to let you out of your cage @Chance50(take it off)
+@DoesNotHaveChastity Maybe it's time to let you stroke again @Chance50(take it off)
+But then again, maybe not
+@End
+(take it off)
+@DoesNotHaveChastity @NullResponse @Goto(is it hard)
+So free your #Cock now #Name @Wait(10)
+Is the chastity device off?
+[yes, it's off,done,ready] It must feel pretty good to be out of that thing @ChastityOff
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Are you ready to continue?
+I'm sure you're eager to #JerkOff again
+(is it hard)
+First things first though, is your #Cock hard?
+[yes] Wow, that's impressive #Grin @Goto(impressive)
+[no] Let's work on that #Name
+@DifferentAnswer #YesOrNo
+Start touching it very lightly with the tips of your fingers @ChastityOff
+Don't grab it
+No stroking yet
+Just gently caress your skin, as if you're touching my face
+You wouldn't grab my cheeks or rub them hard
+You'd lightly graze them with the back of your hand
+That's how I want you to touch your #Cock
+Slide your fingers down the shaft as if you were running them down my neck
+Tracing my collarbone
+Down to my perky #Boobs
+Circle the tip of your #Cock now, imagine it's my nipple
+Gently now #SubName, I have such sensitive nipples #Smile
+(impressive)
+@NullResponse
+@End
+(two)
+@DoesNotHaveChastity @NullResponse @Goto(two no device)
+@NullResponse @CheckFlag(pvPartnerIsKeyholder,partner is keyholder)
+So #SubName @CheckFlag(pvMadeKeyholder,domme already is keyholder) 
+About that chastity cage you're wearing
+I was wondering...
+@Flag(pthevMarried) @NullResponse @Goto(does she hold the key)
+@Flag(pthevGirlfriend) @NullResponse @Goto(does she hold the key)
+(someone should hold it)
+Would you give me control over the key?
+[yes] You should know what you're getting into here
+[no] Too bad... @Goto(keep the key)
+@DifferentAnswer #YesOrNo
+What I mean is that, for all intents and purposes, I will hold the key
+You do not get to decide when the cage comes off, period
+If at the end of a session I decide it stays on, it stays on until the next session
+I'll allow you to take it off for cleaning once a day
+Hygiene is important, #PetName #Smile
+But you have to put it back on immediately
+If you want to take it off for longer
+Or if you want to #JerkOff...
+You'll have to come to me and ask
+So, do you still want to make me keyholder?
+[yes] You won't regret it, #Name @MoodBest
+[no] Hmmm, that's too bad, #Name @Goto(keep the key)
+@DifferentAnswer #YesOrNo
+Well, maybe you will, but I certainly won't #Grin @SetFlag(pvMadeKeyholder)
+Just to think that I could keep you in chastity indefinitely
+It turns me on so much, #Name
+I probably won't, to be honest
+But I love to know that I have that option #Grin
+It's as if I'm wearing that key on a necklace
+Dangling between my #Boobs
+#EmoteMoan
+This thing we have just got interesting, #SubName #Smile
+@End
+(keep the key)
+Because what is the point of being in chastity
+If you can decide at any time to take it off
+You should really have a keyholder
+But I guess it's just a game to you and that's okay too, #SubName
+Still, you do own a chastity device, so...
+Do you ever fantasize about someone holding the key?
+[yes] Wouldn't that just be awesome? #Smile
+[no] Maybe that's just a little too scary #EmoteWink
+@DifferentAnswer #YesOrNo
+I like to think that you'll change your mind
+And that you'll give me the key
+So that I will completely own your #Cock
+But for now...
+I can still keep you in chastity during our sessions #EmoteHappy
+@End
+(does she hold the key)
+Does @ShowVar[pthevNamePartner] hold the key? I mean, does she decide when it comes off?
+[yes] Wow #Laugh @SetFlag(pvPartnerIsKeyholder)
+[no] Oh, well someone should #EmoteWink @Goto(someone should hold it)
+@DifferentAnswer #YesOrNo
+But she's okay with me telling you to take it off or put it on?
+[yes] That would be kind of a problem otherwise
+[no] Oh... well, I'm sure you have a way of working around that...
+@DifferentAnswer #YesOrNo
+Because since you have that cage
+I'm certainly going to use it #Grin
+@Flag(pthevPartnerCanJoin) Speaking of @ShowVar[pthevNamePartner] @Goto(speaking of her)
+I wouldn't want to come between you and @ShowVar[pthevNamePartner] though
+So I won't tell you to wear it after our sessions
+That's up to her #Smile
+@End
+(partner is keyholder)
+I think it's awesome that @ShowVar[pthevNamePartner] is your keyholder
+Kind of sad I'm not, sure #EmoteWink
+But in the end, what matters it that that #Cock is safely locked up
+And under control of a woman
+As all cocks should, really...
+There are too many unlocked cocks out there #Laugh
+I'm sure @ShowVar[pthevNamePartner] would agree, right?
+[yes] I thought so #Smile
+[no] Well, I suppose yours is the only one that matters to her
+@DifferentAnswer Would she agree?
+It's a great feeling to have that kind of control, #SubName
+Not that I'd expect you to understand...
+You'd rather give up control than have it
+@End
+(domme already is keyholder)
+I just wanted to say
+That I love it that you made me your keyholder
+It makes me proud that you trust me with it
+A chastity device is such a great way for me to control you
+I love knowing that #Cock is locked up for me
+You wouldn't believe how wet it makes me
+@NotFlag(pthevGlitterIntroduced) @NullResponse @Goto(glitter not introduced yet)
+And do you know who also loves it?
+#Contact2
+She laughed her ass off when I told her about it #Laugh
+At first she couldn't believe it
+She never thought you'd make me keyholder
+So I invited her over to see for herself... @AddContact2
+@Contact2 Well, hello there @Timeout(10,are you gonna say hello)
+[hi,hello,hey,how,nice,good,see you] @Contact2 Hi #SubName, good to see #ShortName didn't lock up your manners #Smile
+@DifferentAnswer You could just say hi, #PetName
+(are you gonna say hello)
+@Contact2 So #ShortName, tell me about this 'keyholder' thing...
+Yeah, so basically, #SubName is wearing a chastity device right now
+And I get to decide when it come off #EmoteHappy
+@Contact2 That's so awesome #Lol
+@Contact2 That means there's not much he can do at the moment
+No stroking, no edging, no cumming #Laugh
+@Contact2 Sounds a bit boring to be honest...
+@Contact2 But yay for #SubName being locked up though!
+To be fair, he still gets more than enough action
+The cage is just there to make the time in between that much more frustrating #Smile
+@Contact2 Oh I can totally see how that would work
+@Contact2 I mean, I've gone without sex for a few months and that was okay
+@Contact2 But not being able to masturbate when I wanted too...
+@Contact2 That would have made it a living hell #Laugh
+It's a frustrating, horny, leaking, living hell for #SubName #Grin
+@Contact2 #Lol
+@Contact2 Those things should probably be made mandatory for all guys
+Oh, definitely #Laugh
+@Contact2 I sure know a few who'd be better off in one...
+@Contact2 Anyway, I think it's great that you're doing your part, #ShortName
+I do what I can #Smile
+@Contact2 Take to you later! @RemoveContact2
+Making your life a living hell...
+That's a bit dramatic
+But not that far from the truth I guess #Smile
+@End
+(glitter not introduced yet)
+In fact, I think I'm going to need some time for myself right now...
+I'll let you watch a video in the meantime
+I'll be right back @PlayVideo @AFKOn
+@NullResponse @Wait(#Random(20,40))
+That was just what I needed, #Name #Smile
+@End
+(speaking of her)
+I would like her to decide your chastity fate right now
+I want you to go to her or text her or whatever @RapidTextOn
+And ask her if the chastity cage should come off or stay on
+Can you do that? @RapidTextOff
+[yes] Good, go and ask her then
+[no] Well, then I guess the cage stays on... @Goto(she cannot be reached)
+@DifferentAnswer #YesOrNo
+I'll wait... @Wait(12)
+What did she say, can the cage come off?
+[yes] She's such a sweet gal #Laugh
+[no] Oooh, so so cruel #Laugh @Goto(the cage stays on)
+@DifferentAnswer #YesOrNo
+Well, that settles it then @CallReturn(Custom/CallReturn/pvCr_ChastityOff.txt)
+@Flag(pthevMarried) You're lucky to be married to such a nice girl
+@Flag(pthevGirlfriend) You're lucky to have such a nice girlfriend
+And I'm lucky that she lets me play with you #Smile
+@End
+(she cannot be reached)
+You're going to have to endure a little longer 
+Who knows how long #Grin
+Of course, you can always ask @ShowVar[pthevNamePartner] to release you later
+But right now it's up to me
+And I want you to stay locked up #Grin
+@End
+(the cage stays on)
+I'm sorry #Name, but the chastity cage stays on
+No stroking for you yet
+You're going to have to endure a little longer 
+Who knows how long #Grin
+Of course, you can always ask @ShowVar[pthevNamePartner] to release you later
+But right now it's up to me
+And I want you to stay locked up #Grin
+@End
+(two no device)
+I'm going to find a nice video for you to watch
+But remember, no stroking!
+Just sit on your hand or bite on your fingers 
+If you feel like you can't control yourself
+Let's see... @Wait(7)
+Alright, found one
+Have fun, #PetName @PlayVideo
+@NullResponse
+@End
+(three)
+@DoesNotHaveChastity @NullResponse @Goto(three no device)
+Oh sweet #PetName what have you gotten yourself into
+Sitting there with your #Cock locked in a cage
+Horny as hell but nowhere to take that arousal
+And only me to decide if you get to alleviate the pressure building in your #Balls
+It's not an easy life you lead
+But you know that it has its rewards
+You know that warm fuzzy feeling when you go to bed at night after being denied
+Feeling grateful that you have someone to take control of your desires
+That must be why you bought that cage in the first place
+You must have had the hope that someone would come along
+Someone to give the key the cage and to your arousal
+The key to your orgasm and to a world of frustration
+And now your #Cock is locked in that cage...
+You'll just have to wait and see when it gets released again #Grin
+@End
+(three no device)
+I'm going to pay you one of your videos, #Name
+And although you're not allowed to #JerkOff I do expect you to stay hard
+So you're allowed to touch yourself...
+But only as much as is needed to keep my #Cock firmly appointed at the sky #Smile @CheckFlag(pvBallsTied,three balls tied)
+@Flag(pthevShoelace) And there's something else you need to do... @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+@Flag(pthevShoelace) That should keeping my #Cock hard a little bit easier @Goto(three balls tied)
+I want to make sure you enjoy the video #Smile @Goto(three balls not tied)
+(three balls tied)
+I love seeing a hard #Cock with a pair of tied up #Balls #Smile
+(three balls not tied)
+And want you to be at least as horny at the end of the video as you are now
+So, good luck with that, #PetName #EmoteHappy @PlayVideo
+After that I bet you're just aching to start stroking again
+But I want to keep you denied a little bit longer
+@BallTorture Those #Balls by the way look so big and enticing #Grin @CBTBalls
+I guess you're just going to have to deal with denial a little longer
+@End

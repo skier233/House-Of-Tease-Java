@@ -1,0 +1,143 @@
+@NullResponse @DeleteFlag(AV_CrashReport)
+@Group(1) #DomName just call me @AddDomme
+@Group(1) Sorry #Contact1, it's time to finish the session @RemoveContact1
+@Group(2) #DomName just call me @AddDomme
+@Group(2) Sorry #Contact2, it's time to finish the session @RemoveContact2
+@Group(3) #DomName just call me @AddDomme
+@Group(3) Sorry #Contact3, it's time to finish the session @RemoveContact3
+#TimeToFindIfYouGetToCum
+You may remove everything attached to your body! @Chance50(ww0001)
+That's always the big @RT(moment, highlight) of @RT(#GeneralTime,this game)..right?
+A @RT(possibility, chance) of @RT(a orgasm, cumming) after you've been @RT(heavily, brutally) teased?
+Tease and denial is @RT(great, awesome) isnt it?
+So @RT(uncertain, unpredictable)... @RT(such a rush, all the uncertainty)
+(ww0001)
+Now give yourself a @RT(good, nice) @RT(wank, jerk), @RT(till, until) you're really @RT(close, hard)! @PlayAudio[tease\cStroke.mp3] @Wait( #Random(10, 20))
+@NullResponse @Chance80(NoRuin)
+@RuinsOrgasm(Never) @NullResponse @Goto(NoRuin) 
+Now that you're so close, is the thought of ruining starting to hurt?  
+Is it unbearable?  @FollowUp50(Of course it is).  
+When submission is easy, it isn't submission, is it?
+(NoRuin) 
+@RT(Your obedience makes me #Happy, There,, that's better...that's a real hard dick, Well you look really frustrated now, I don't know if you get any enjoyment out of it,, but I most will. And that's all that matters of course!)
+@RT(Stroke faster, Stroke harder, I can see that pressure building up so much in your shaft and your head)
+@RT(Are you close #SubName? I see it in your eyes, Beg me... Beg me to cum, So beg #PetName,, beg for my cum command, Now tell me,, do you want to cum?, So,, you wanna cum?, Do you want to cum #PetName?, I've never seen you get that big before). 
+Get @RT(close, ready)... @Chance33(FimSk01) 
+#Edge @Edge
+#LetTheEdgeFade @Chance50(FimSk02) 
+@RuinsOrgasm(Not, Never) @RT(Tell me that you want to ruin for me, You know it will be so pleasurable to ruin for me), because your @RT(suffering, obedience) is all the reward you need. @Chance50(FimSk03) 
+@Flag(av_fetish_cei) @RT(Say 'please Mistress #DomName please let me eat my cum for you', Won't it be nice to taste your own cum for me?) @Chance70(FimSk03) 
+(FimSk02) 
+@RT(Say 'please Mistress #DomName,, Please let me cum', That must have been exhausting, Come on baby,, your cock looks like it's ready to cum, I'm in complete control of your #Cock).
+(FimSk03) 
+@RT(Not cumming yet, I want you to think about shooting that load, I want you to hold it in). @Wait( #Random(10, 15))
+#Stroke that #Cock.  But don't cum yet. @PlayAudio[tease\cStroke.mp3]
+@RT(Stay close, You're right there aren't you?, A little more)
+@RT(Tell me you're ready, Beg me to let that #Cock cum, It's going to feel so good, Just be a good boy and take it).
+@RT(Wait for it, I love when we do this) @Goto(FimSk04, FimSk05, FimSk01)
+(FimSk04)
+#Edge @Edge @MultipleEdges( #Random(2, 3), 10, 100)
+@NullResponse @DecideOrgasm
+(FimSk05)
+#Edge @Edge
+@NullResponse @DecideOrgasm
+(FimSk01) 
+@NullResponse @DecideOrgasm
+(Orgasm Allow)
+#Edge @Edge
+[came, finished, did] Good #Grin
+[thank, gracias, merci, grateful, good, amazing, incredible] You're welcome #PetName #Grin
+@AcceptAnswer Hehe just calm down now
+@Flag(AV_EatCum) @NullResponse @Chance35(No_CEIav)
+@Flag(AV_EatCum) #AV_CumEat @Wait(20)
+@Flag(AV_EatCum) @RT(You're going to swallow all of it, Swallow all of it #PetName)
+(No_CEIav)
+I hope you enjoyed that orgasm #SubName
+@Flag(AV_Persona30) @NullResponse @Chance30(PoT)
+Who knows how many you're actually going to get? @Goto(EndScript)
+(Orgasm Deny)
+#Edge @Edge
+#AV_NoCum
+@AllowsOrgasm(Rarely, Never) @NullResponse @Goto(NoSecondChance)
+@GoodMood You made me happy #GeneralTime, @Chance30(second)
+Too bad @Chance15(second)
+(NoSecondChance)
+Better luck next time #Grin @Goto(EndScript)
+(Orgasm Ruin)
+#Edge @Edge
+[ruined, did] Good #Grin
+[fuck] #Grin
+@AcceptAnswer hehe just calm down now
+@Flag(AV_EatCum) #AV_CumEat @Wait(20)
+I love building up all that pleasure just to snatch it away from you @Chance50(more_ruin)
+@NullResponse @MiniScript(AV_FinalTaunt) 
+Better luck next time @Goto(EndScript)
+(more_ruin)
+In fact I love it so much that I'll give you a chance to ruin another one for me! #lol
+Do you want?
+[yes] #Yay 
+[no] Ohhh  @Goto(EndScript)
+@DifferentAnswer #YesorNo #SubName?
+#StartStroking
+I want to see more of your ruined orgasms today!
+I wonder how many I can make you ruin like that #lol @GotoDommeLevel
+(DommeLevel5)
+(DommeLevel4)
+Edge for me @EdgeToRuinHold
+Wow this one must have really hurt #lol
+But it's way to early to stop!
+(DommeLevel3)
+(DommeLevel2)
+I want to play with you some more before you ruin again
+Are you dry yet? #lol
+Let's make sure!
+Edge one more time @EdgeToRuin
+Drip, drip...
+I wonder if you can take more than that...
+Awww, poor boy... I bet you wanted release now. But you can't.
+And we are not done with you yet, not even close.
+(DommeLevel1)
+I'm so mean ruining all your orgasms like that
+I'm sorry! #Grin
+Well not really... #lol
+But this time I'll let you come, I swear! @Chance20(Orgasm Allow)
+Bring yourself to the edge one more time @EdgeToRuin
+Well you came... #lol
+I know i can be so #Mean to you sometimes
+Do you think you can take one more for me?
+[yes]ohh I love it when you destroy yourself so willingly #lol
+[no]Good that means you're past your limit! @Goto(EndScript)
+@DifferentAnswer It might be the frustration but you don't make sense... Can you take one more yes or no?
+So let's end that session in a bang!
+Or a splurt in this case #lol
+Gather all your remaining forces and edge a last time @EdgeToRuinHold
+Alright you can rest @Goto(EndScript)
+(PoT)
+Now, since you like Post Orgasm Torture
+#StartStroking @Wait(20)
+Keep stroking and give yourself a HARD slap every 4 strokes. @Wait(10)
+#Lol
+#StopStroking @Goto(EndScript)
+(second)
+@RT(Hold on..., Wait a second,  Don't leave yet!, Oh,, hold on a minute,, I have some breaking news!, Wait a second #SubName,, there has been a development, Don't leave yet,, you might be in luck #PetName)
+@RT(I'm actually a bit sorry you did not get to cum, Well...I guess I'm a bit dissapointed as well,, not as much as you of course, Poor #PetName,, I almost pity you when you look at me so desperately).
+@RT(But I'm feeling somewhat lenient today, But perhaps I'll give you another chance, You are lucky I'm in a pretty good mood today however)
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_CumFun.txt)
+@NullResponse 
+(EndScript)
+@NullResponse @RapidCodeOn 
+@Flag(AV_DecOrg) @NullResponse @IncreaseOrgasmChance
+@Flag(AV_IncRuin) @NullResponse @DecreaseRuinChance 
+@Flag(AV_IncOrg) @NullResponse @DecreaseOrgasmChance
+@Flag(AV_DecRuin) @NullResponse @IncreaseRuinChance
+@NullResponse @DeleteFlag(AV_DecOrg, AV_IncRuin, AV_IncOrg, AV_DecRuin)
+Thanks for giving me such a good time #GeneralTime #PetName
+I can't wait to see you again #EmoteHappy Bye @RapidTextOn
+@SystemMessage <b>END SESSION REPORT</b> @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme mood ended in #DomMood @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme level ended in #DomLevel  @ShowImage[av_imagens\System.jpg] 
+@SystemMessage The Domme apathy ended in #DomApathy @ShowImage[av_imagens\System.jpg]
+@Flag(AV_DommeMistress) Mistress Mode actived in this session @SystemMessage  @ShowImage[av_imagens\System.jpg]  @RapidTextOff
+@SystemMessage That Status will be reseted in the next session @ShowImage[av_imagens\System.jpg] @Wait(10)
+@SystemMessage  @ShowImage[av_imagens\System.jpg] @EndTease
+@End

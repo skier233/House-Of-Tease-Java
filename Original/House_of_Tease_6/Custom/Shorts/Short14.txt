@@ -1,0 +1,12 @@
+Yes, you have one purpose in your life.
+Do you know what it is?  @Timeout(8, 28hd83jc)
+[yes] And, what is? @LoopAnswer 
+[no, I dont know, dont] @NullResponse
+[serve, obey, you] #GoodBoy @Goto(11jjee)
+@DifferentAnswer What is your purpose in life, #SubName?
+(28hd83jc)
+It's simple, your purpose is to serve me.
+(11jjee)
+You are a slave acting in my interest.
+@Flag(AV_TotalControl) Your free will is an illusion. Everything you do, you do it for me. You do it because I allow you to.
+@End

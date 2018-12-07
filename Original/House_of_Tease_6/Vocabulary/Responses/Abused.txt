@@ -1,0 +1,8 @@
+[I want to be abused, abuse me, explore me]
+[All]
+@NullResponse @CallReturn(Custom\Shorts\Short10.txt)
+@NullResponse @CallReturn(Custom\Shorts\Short06.txt)
+Maybe you just say that because it's a bit difficult to think right now #Grin
+At least you've found a way to make yourself useful, #PetName #Smile
+So, you understand now, #PetName? How you're all mine, to use and abuse as I please? @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad)
+[All End]

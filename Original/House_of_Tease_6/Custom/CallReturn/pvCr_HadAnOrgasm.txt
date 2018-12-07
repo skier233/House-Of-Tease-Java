@@ -1,0 +1,66 @@
+@RT(Oh no no,Oh come on,What the hell,What the fuck) @MoodWorst
+@Stroking #StopStroking @StopStroking
+Dammit, #Name
+(first round)
+@Flag(pvOrgasmControl) @NullResponse @CallReturn(Custom/CallReturn/pvCr_OrgasmControlReset.txt)
+Did you at least ruin it?
+[yes] That's something I guess @UpdateRuined
+[no] You should ruin your orgasm when you cum without permission @UpdateOrgasm
+@DifferentAnswer #YesOrNo
+@Flag(av_fetish_cei) You should lick it up, #Name
+@Flag(av_fetish_cei) You should ALWAYS swallow every single drop if you cum without permission
+@NullResponse @CheckFlag(pthevLongDenialActive)
+@NullResponse @CheckFlag(pthevCompleteControlYES,gave up control)
+(want to continue)
+Do you want to continue this session?
+[yes] Alright @Goto(ruined continue)
+[no] Alright then, I guess
+@DifferentAnswer #YesOrNo
+Maybe next time you'll have more self control @SetVar[pthevOrgasmLast]=[1]
+@NullResponse @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(ruined continue)
+@NullResponse @InterruptsOn
+But you deserve to be punished first @Interrupt(pvInt_Punishment)
+@End
+(pthevLongDenialActive)
+@NullResponse @CheckFlag(pvLDASecondWeek)
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_LDundo.txt)
+Apparently you were not ready for long term denial
+I should have known... #EmoteSad
+Maybe we should try that again some other day
+When you've learned what it means to <i>truly</i> submit
+Well, you ruined <i>my</i> day *sigh* @Goto(want to continue)
+@End
+(pvLDASecondWeek)
+I guess you were not ready for long term denial
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_LDundo.txt)
+I should have known, really
+So some the blame is on me, I guess
+<i>I</i> am the one who owns <i>you</i> after all
+And you can't deny a masturbation junkie the one thing he loves
+I should have known that
+So I'm not mad, #SubName
+Disappointed, yes, but not angry
+I'm not even going to punish you
+Do you want to continue this session?
+[yes] Alright @Goto(came continue)
+[no] Alright then
+@DifferentAnswer #YesOrNo
+Maybe next time you'll have more self control @SetVar[pthevOrgasmLast]=[1]
+@NullResponse @Call(Stroke/End/pthev_Endscript.txt,tease end)
+@End
+(came continue)
+@NullResponse @Interrupt(pvIn_General)
+@End
+(gave up control)
+@Flag(pvWillNotKneel) @NullResponse @Goto(not kneel)
+@NotFlag(pvKneeling) #OnYourKnees @TempFlag(pvKneeling)
+(not kneel)
+You have to learn that your orgasms are not yours, #PetName
+I own your orgasm, and I decide when you get to cum, do you understand that?
+[yes] Good
+[no] Well you better fucking get it between your ears, because that's the way it is
+@DifferentAnswer #YesOrNo
+@NullResponse @Interrupt(pvInt_Punishment)
+@End

@@ -1,0 +1,84 @@
+Are you actually asking me if I swallow cum?
+[yes] @NullResponse @Goto(you are asking)
+[no] I must have misunderstood then...
+@DifferentAnswer #YesOrNo
+@Flag(pthevCEI_No) @NullResponse @Glitter(pthevGlitterCEIsuspicion)
+@NullResponse @Goto(is okay)
+@End
+(you are asking)
+@Flag(av_fetish_cei) I think we already talked about this #SubName @Goto(already talked yes)
+@Flag(pthevCEI_No) I think we already talked about this #SubName @Goto(already talked no)
+Well I've done it, but let me tell you something #SubName
+I *hate* it
+I hate the taste, the slimy texture, everything
+It's just gross, don't you think?
+[yes,agree] It's pretty disgusting really #Laugh @Goto(pretty gross)
+[no] Wait... @Goto(so you tried it)
+[don't know,not sure,never did,never tried,never tasted] I guess you don't suck cock all that often #Smile
+@AcceptAnswer 
+Have you ever tasted your own cum?
+[yes,did,done,i have]  Eww #Laugh
+[no,never] So you really don't know what you're talking about
+@DifferentAnswer #YesOrNo
+I think we should put it the test
+To settle it once and for all @Goto(so if told)
+(pretty gross)
+But wait, that means you have actually tried it
+Did you eat your own cum or someone else's?
+[own,mine,my] Eww #Laugh
+[other,another,someone else] Oh wow... I didn't expect that
+[both] Oh wow... I didn't expect that
+[neither,didn't,haven't,have not,did not] So you just assume it's disgusting
+@AcceptAnswer I'm a bit confused by all this #SubName
+I think we should put it the test
+To settle it once and for all @Goto(so if told)
+(so you tried it)
+@NullResponse @Glitter(pthevGlitterMod07-01.txt)
+So you actually tried it?
+[yes] That just blew my mind, pun intended #Laugh
+[no] You just assume it tastes good then
+@DifferentAnswer #YesOrNo
+(so if told)
+So, if I told you to eat your own load, would you do it?
+[yes] Good! #Smile @SetFlag(av_fetish_cei) @Goto(said yes)
+[no] That's too bad #EmoteSad @SetFlag(pthevCEI_No)
+@DifferentAnswer #YesOrNo
+But I can understand, I'm not into it myself
+Although, now that I know that you don't like it
+I might have to use it against you someday #Grin
+@End
+(said yes)
+I'll keep that in mind
+Of course, I might keep my #Cock denied
+Then you'll have nothing to eat #Grin
+@End
+(already talked yes)
+So you know I hate it
+Weird that you wouldn't remember something like that
+Maybe you just can't figure out why I don't like it
+Since you seem to enjoy it so much
+You're not having second thoughts about that are you?
+[yes] No problem #SubName
+[no] Good! @Goto(is okay)
+@DifferentAnswer #YesOrNo
+It's not a big deal #Smile @DeleteFlag(av_fetish_cei) @SetFlag(pthevCEI_No)
+@End
+(already talked no)
+So you know I hate it
+Weird that you wouldn't remember something like that
+Are you having second thoughts about not eating your cum for me?
+[yes] Interesting...
+[no] That's okay #SubName @Goto(is okay)
+@DifferentAnswer #YesOrNo
+Have you already tasted cum?
+[yes] You know what to expect then
+[no] There's a first time for everything #PetName #Smile
+@DifferentAnswer #YesOrNo
+So if I told you to, would you eat your own cum?
+[yes] Alright then, #Subname walking on the wild side #Smile @SetFlag(av_fetish_cei) @DeleteFlag(pthevCEI_No) @Goto(said yes)
+[no] That's too bad #EmoteSad @SetFlag(pthevCEI_No)
+@DifferentAnswer #YesOrNo(pthevCEI_No)
+I understand it though
+(is okay)
+Let's return to more important things...
+@End

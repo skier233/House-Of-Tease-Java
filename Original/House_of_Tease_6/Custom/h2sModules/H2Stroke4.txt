@@ -1,0 +1,36 @@
+@RT(Time to edge a lot, Edge time, Let's try some more edges) @RT(#PetName, #SubName)
+You will repeat the process until you've deemed it's OK to jump over the edge and have an orgasm.
+However our goal is reach a state of edging...
+where @RT(any touch or caress leads to an explosive sensation of elation, you continue edging,, you continue feeling extreme pleasure as your mind and body will become one).
+@RT(You will experiencing such concentrated pleasure can become very expressive, Your body and face will react to every touch to the #Cock,, resulting in the term "goon")
+Relax and spread your legs a bit, so that you have enough space to work on your #Cock
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+@NullResponse @Goto(Loop_no_hold, Loop_no_hold1, Loop_no_hold2, Loop_no_hold3)
+(Loop_no_hold)
+#Edge @RapidTextOff @EdgeNoHold
+Wanna try some more?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_no_hold, Loop_no_hold1, Loop_no_hold2, Loop_no_hold3)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break7)
+@DifferentAnswer Thats fine
+(Loop_no_hold1)
+#Edge @RapidTextOff @EdgeNoHold
+Another one?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_no_hold, Loop_no_hold1, Loop_no_hold2, Loop_no_hold3)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break7)
+@DifferentAnswer Thats fine
+(Loop_no_hold2)
+#Edge @RapidTextOff @EdgeNoHold
+One more possible?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_no_hold, Loop_no_hold1, Loop_no_hold2, Loop_no_hold3)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break7)
+@DifferentAnswer Thats fine
+(Loop_no_hold3)
+#Edge @RapidTextOff @EdgeNoHold
+Can you give me one more edge baby?
+[yes] @RT(#Great, #Good, #ICanKeepThisUp) @RapidTextOn @Goto(Loop_no_hold, Loop_no_hold1, Loop_no_hold2, Loop_no_hold3)
+[no] Ok then immediately stop stroking @RapidTextOn @Goto(Break7)
+@DifferentAnswer Thats fine
+(Break7)
+@NullResponse @RapidTextOff
+Just take a break without stroking @Wait( #Random(10, 20))
+@End

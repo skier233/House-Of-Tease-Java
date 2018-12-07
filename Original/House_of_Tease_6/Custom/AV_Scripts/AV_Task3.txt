@@ -1,0 +1,26 @@
+#1_ST_TagState @TempFlag(AV_taskOP3)
+@NullResponse @GotoDommeLevel 
+(DommeLevel1)
+Your task today is  to give me 5 edges whenever and however you can.  @SetVar[AV_EdgeGoal]=[5]
+I don't mind if you space them out throughout the session, or rush through them all at once.  @SetVar[AV_EdgeCount]=[0]
+As long as you do them all, I'll be satisfied, even if you won't be #Grin   @Goto(TaskReady)
+(DommeLevel2)
+Your task today is  to give me 6 edges whenever and however you can.  @SetVar[AV_EdgeGoal]=[6]
+I don't mind if you space them out throughout the session, or rush through them all at once. @SetVar[AV_EdgeCount]=[0]
+As long as you do them all, I'll be satisfied, even if you won't be #Grin   @Goto(TaskReady)
+(DommeLevel3)
+Your task today is  to give me 7 edges whenever and however you can. @SetVar[AV_EdgeGoal]=[7]
+I don't mind if you space them out throughout the session, or rush through them all at once. @SetVar[AV_EdgeCount]=[0]
+As long as you do them all, I'll be satisfied, even if you won't be #Grin  @Goto(TaskReady)
+(DommeLevel4)
+Your task today is  to give me 8 edges whenever and however you can. @SetVar[AV_EdgeGoal]=[8] 
+I don't mind if you space them out throughout the session, or rush through them all at once. @SetVar[AV_EdgeCount]=[0]
+As long as you do them all, I'll be satisfied, even if you won't be #Grin   @Goto(TaskReady)
+(DommeLevel5)
+Your task today is  to give me 10 edges whenever and however you can. @SetVar[AV_EdgeGoal]=[10]
+I don't mind if you space them out throughout the session, or rush through them all at once. @SetVar[AV_EdgeCount]=[0]
+As long as you do them all, I'll be satisfied, even if you won't be #Grin @Goto(TaskReady)
+(TaskReady)
+Now take that #Cock out of your pants
+And #StartStroking for me @StartStroking
+@End

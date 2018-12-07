@@ -1,0 +1,25 @@
+@NullResponse @Goto(01, 02, 03)
+(01)
+You just keep edging without permission no matter what I say, don't you
+I'm running out of patience, #PetName
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(02)
+You're definitely having trouble keeping away from the edge #GeneralTime
+What should we do about that, hm?
+Maybe you just need to do more edges
+Does it become easier after a while?
+[yes] Hmm
+[no] Hmm
+@DifferentAnswer #YesOrNo
+I think I'm going to edge myself later to test that...
+Just @RT(thinking about,the thought of) it @RT(makes me horny,makes me hot,turns me on) #EmoteMoan #Laugh
+But let's not forget that you edged without permission here...
+I have to admit, #PetName
+I kind of like it when you are disobedient
+Because it gives me a reason to punish you #Grin @Interrupt(pvInt_Punishment)
+@End
+(03)
+Hmm, another case of edging without permission...
+What should we do about that... @Interrupt(pvInt_Punishment)
+@End

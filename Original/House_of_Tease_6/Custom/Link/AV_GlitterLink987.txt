@@ -1,0 +1,20 @@
+@NullResponse @Goto(Nip, Ball)
+(Ball)
+@RT(I want you to pick up the clothepins, Do you see the pack of clothespins next to you?)
+And put #Random(3, 5) them on your balls @Wait(20)
+shake your balls around a little bit and see if they fall off.. @TempFlag(AV_GlitBall34)
+If they do re attach them until its all set and tight
+#StartStroking @StartStroking
+(Nip)
+@RT(I want you to pick up the 4 clothpins, Do you see the pack of clothespins next to you?)
+Start massaging your nipples
+Make them hard @Wait(10)
+Good..now..
+Take 4 clothespins and attach them on your nipples @Wait(20)
+Good now shake your upper body a little bit and see if they fall off
+if they do re attach them until they dont fall off anymore
+Very nice my little stroker slave
+Lets pitch a tent shall we?
+So how are the clothespins doing?
+#StartStroking @StartStroking
+@End

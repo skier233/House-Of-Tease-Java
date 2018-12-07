@@ -1,0 +1,40 @@
+@NullResponse @CheckFlag(pvMs_BigCockF1)
+@NullResponse @CheckFlag(pvMs_BigCockF2)
+@CockSmall I can see why that would worry you #PetName
+@CockLarge Why would you worry about that, your #Cock is fine #Smile
+@CockAverage I guess living in the land of average makes you a little insecure #Smile
+If you must know...
+Yes, size matters
+It's true, many girls like the feeling 
+Of being filled up with a big fat cock
+And I'm no different #Smile @SetFlag(pvMs_BigCockF1)
+@End
+(pvMs_BigCockF1)
+Didn't you already ask me this before?
+I guess it's a <i>big</i> deal for you #EmoteWink
+@CockLarge You just really need that confirmation don't you...
+@CockLarge Yes, you have an amazing cock, #Name
+Yes, big cocks are better than small ones
+But it still makes a world of difference what you <i>do</i> with it
+I'd rather have a guy with tiny one who knows how to please a woman
+Than a well-hung stud who doesn't know a clit from a nipple #Smile
+@CockSmall Yours is <i>really</i> tiny though, there <i>are</i> limits to what a girl will put up with #Lol @SetFlag(pvMs_BigCockF2)
+@End
+(pvMs_BigCockF2)
+You're obsessed with this aren't you? @Timeout(5,obsessed)
+[yes] I've noticed that #Laugh
+[no] Yet you keep talking about it #Laugh
+[why] You can't seem to shut up about it, that's why #Lol
+@DifferentAnswer #YesOrNo
+(obsessed)
+@NullResponse @CheckFlag(pthevSPHyes)
+Must have something to do with the size of your own #Cock
+It's just so tiny isn't it... @SetFlag(pthevSPHyes)
+@Flag(pthevVirgin) It's no wonder you're still a virgin, #SubName
+You'd be lucky to find anyone willing to fuck you...
+@Flag(pthevGirlfriend) I'm sure your girlfriend does it out of pity
+@Flag(pthevMarried) I'm sure your wife gets off... somewhere else #Laugh
+@End
+(pthevSPHyes)
+Most guys with a tiny dick are, so you're 'normal' in that sense #Laugh
+@End

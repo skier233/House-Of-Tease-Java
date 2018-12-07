@@ -1,0 +1,7 @@
+[#AV_YouDriveMe]
+[All]
+@Flag(AV_Dri01) Got ya! #Lol
+@Flag(AV_Dri02) That's the point @RT(#SubName, #PetName)
+@Flag(AV_Dri02) @RT(That, This) is my @RT(objective, goal), @RT(#SubName, #PetName)
+@NotFlag(AV_Dri01, AV_Dri02) #IKnow, @RT(#PetName, #SubName)
+[All End]

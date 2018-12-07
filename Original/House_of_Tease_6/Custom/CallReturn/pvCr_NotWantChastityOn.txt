@@ -1,0 +1,25 @@
+@RT(What good is,why own,why have) a chastity @RT(device,belt,cage) if you don't @RT(put it on,wear it,use it) #EmoteFlustered
+You want to make me happy, don't you? @MoodDown
+[yes] Then quit moaning, #Name 
+[no] You've certainly succeeded in not making me happy, #Name @MoodDown @Goto(final no)
+@DifferentAnswer #YesOrNo
+And put on your chastity cage, okay?
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] I suppose I can't force you @Goto(final no)
+[no] I suppose I can't force you @MoodDown @Goto(final no)
+[yes,okay,as you wish,if you say] Good
+@DifferentAnswer Are you going to put it on?
+Do as I say and lock up that #Cock
+Let me know when you're ready to continue
+[ready,done,finished] @RT(Good,Alright,Okay) @ChastityOn
+[yes] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Let me know when you're ready
+Don't you feel much better when you @RT(do a I say,stop questioning my commands,simply obey me)? @Interrupt(pvIn_General)
+@End
+(final no)
+@NullResponse @CheckFlag(pvEndscriptActive)
+@NullResponse @Interrupt(pvInt_Punishment)
+@End
+(pvEndscriptActive)
+@NullResponse @TempFlag(pvPunishmentEndTease) @Interrupt(pvInt_Punishment)
+@End

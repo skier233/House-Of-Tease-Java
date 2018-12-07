@@ -1,0 +1,28 @@
+Put a clothes pin on each nipple! @SetFlag(AVs_Ln) @SetFlag(AVs_Rn)
+@Flag(AVs_Ln) Move the clothes pin on your left nipple to your left inner thigh! @DeleteFlag(AVs_Ln) @SetFlag(AVs_Li)
+@NotFlag(AVs_Ball) Put two clothes pins on your #Balls! @SetFlag(AVs_Ball)
+Put a clothes pin on each inner thigh! @SetFlag(AVs_Ri) @SetFlag(AVs_Li)
+@Flag(AVs_Rn) Move the clothes pin on your right nipple to your left nipple! @DeleteFlag(AVs_Rn) @SetFlag(AVs_Ln)
+Put two more clothes pins on your #Balls! @SetFlag(AVs_Ball)
+Put a clothes pin on your right nipple! @SetFlag(AVs_Rn)
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples 90 inwards!
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples as far as you can outwards!
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples as far as you can inwards!
+Put 2 clothes pins on each inner thigh! @SetFlag(AVs_Li) @SetFlag(AVs_Ri)
+Put a clothes pin on each nipple!  @SetFlag(AVs_Ln) @SetFlag(AVs_Rn)
+@NotFlag(AVs_Ball) Move all clothes pins on your body to your #Balls! @SetFlag(AVs_Ball)
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples 90 degrees inwards!
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples 90 degrees outwards!
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples as far as you can outwards!
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples as far as you can inwards!
+Put one clothes pin on each nipple and pull them off!
+Put 2 clothes pins on each inner thigh! @SetFlag(AVs_Li) @SetFlag(AVs_Ri)
+@NotFlag(AVs_Ball) Put @RT(three, four) clothes pins on your #Balls! @SetFlag(AVs_Ball)
+@NotFlag(AVs_Ball) Put two clothes pins on your #Balls! @SetFlag(AVs_Ball)
+Put one clothes pin on each nipple! @SetFlag(AVs_Ln) @SetFlag(AVs_Rn)
+@Flag(AVs_Ln, AVs_Rn) Take off all clothes pins but for those on your nipples!
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples as far as you can outwards!
+@Flag(AVs_Ln, AVs_Rn) Twist the clothes pins on your nipples as faar as you can inwards!
+@NotFlag(AVs_Ball) Put  @RT(three, four) clothes pins on your #Balls! @SetFlag(AVs_Ball)
+Put 2 clothes pins on each inner thigh! @SetFlag(AVs_Li) @SetFlag(AVs_Ri)
+@Flag(AVs_Ball) Put two more clothes pins on your #Balls!

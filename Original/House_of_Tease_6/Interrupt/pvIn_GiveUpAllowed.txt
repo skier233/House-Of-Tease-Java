@@ -1,0 +1,131 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@NullResponse @CheckFlag(pvIntGUA1)
+This is not good enough, #Name @SetFlag(pvIntGUA1)
+What good are you to me if you can't follow instructions...
+I know that you are trying hard to be a good boy for me
+You do want to be a good boy, right?
+[yes] #Smile
+[no] Well, that right there might be part of the problem...
+@DifferentAnswer #YesOrNo
+@NotFlag(pvPMEyes,pvPMEno) @NullResponse @Goto(have a problem)
+@NullResponse @Goto(skip pme)
+(have a problem)
+You probably have a bit of a premature ejaculation problem, right?
+[yes] Yeah, that's what I thought... #Giggles @SetFlag(pvPMEyes)
+[no] Okay, if you say so... @SetFlag(pvPMEno)
+[don't know,not sure,what is,you mean,explain] Do you always cum a little sooner than you'd hoped? @LoopAnswer
+@DifferentAnswer #YesOrNo
+(skip pme)
+@NotFlag(pthevCompleteControlYES,pthevCompleteControlNO) @NullResponse @Goto(talk about control)
+@NullResponse @CheckFlag(pthevCompleteControlNO,talk about control)
+The important thing is that you can control yourself when I'm not here to guide you
+You shouldn't be #JerkingOff without my supervision, you know that
+Are you still following that golden rule?
+[yes] Good boy
+[no] Oh... @Goto(not following golden rule anymore)
+@DifferentAnswer #YesOrNo
+Then it's okay if you have to give up once in a while
+I kinda like it when I can get you to give up
+Every time you yield to me, your resistance to me breaks a little more
+It makes you more addicted to my commands
+And eventually you'll be unable to get any real pleasure without my permission
+I'm going to enjoy breaking your resistance, #PetName #Grin 
+@End
+(not following golden rule anymore)
+That's... @MoodWorst
+I'm really disappointed, #PetName @SetFlag(pthevCompleteControlNO) @DeleteFlag(pthevCompleteControlYES)
+If you're going to #JerkOff whenever and to whatever you want, so be it
+But you made a promise, and you broke it
+Next time, be honest with me and spare me the disappointment @TempFlag(pvPunishmentEndTease) @Interrupt(pvInt_Punishment)
+@End
+(talk about control)
+Do you watch porn outside of our sessions together?
+[yes] Well, it's no wonder that you have trouble keeping up then @Goto(no wonder)
+[no] I'm glad to hear that you have some measure of self control #Smile
+@DifferentAnswer #YesOrNo
+I'm a little surprised, too
+I figured you are #JerkingOff every single chance you get
+But the fact that you don't tells me something interesting about you
+(no wonder)
+I think I know what you need most of all
+You need someone to control your masturbation habits
+And that someone should be me, #SubName
+From now on, you may only #JerkOff when I say so
+And most importantly, you may only cum when I say you can cum
+Will you do that for me?
+[yes] Good boy #Smile @SetFlag(pthevCompleteControlYES) @DeleteFlag(pthevCompleteControlNO)
+[no] That's too bad #EmoteSad @Goto(will not give up control)
+@DifferentAnswer #YesOrNo
+I need to know that you are serious about this, #SubName
+Do you promise not to cum unless I say so?
+[yes] Say it, #PetName @LoopAnswer
+[no,can't,cannot,won't,will not] Alright, forget about it @Goto(will not give up control)
+[i promise] Good
+@DifferentAnswer I want you to type it: I promise, #DomHonorific #DomName
+If you break this promise there will be consequences #Name
+So better make sure that doesn't happen #Grin
+Of course, this arrangement only works when you are completely honest
+So you should tell me when you've disobeyed me
+Is that clear?
+[yes,okay,alright,agreed,understood,understand,clear] Great #Smile
+[no] #pthevCoCo-1 @LoopAnswer
+[don't want,changed my mind] Alright, forget about it @Goto(will not give up control)
+@DifferentAnswer #YesOrNo
+I love knowing you'll <i>only</i> stroke to <i>my</i> commands
+It will make you ache for me even more
+You'll be counting the minutes until I let you #JerkOff again
+It won't be easy, #PetName
+But you'll do it for me #Smile
+@End
+(will not give up control)
+I guess this problem is going to keep popping up then #EmoteSad @SetFlag(pthevCompleteControlNO) @DeleteFlag(pthevCompleteControlYES)
+@End
+=========================
+-------------------------
+----- INTRO END ---------
+-------------------------
+=========================
+(pvIntGUA1)
+@NullResponse @Goto(one,two,three,four,five)
+(one)
+You sound like you could use a break, #Name
+But guess what...
+I don't care what you sound like, get to the edge right now @Edge
+#LetTheEdgeFade
+I sound pretty cruel saying I don't care, don't I? #Giggles
+It's not even true, I <i>do</i> care about you, #SubName
+I care about making you ache
+I care about making your suffer and squirm
+And I care about making your #Cock leak gallons of precum
+I don't care nearly as much about your wellbeing, #PetName
+But that's something you'll gladly sacrifice for being my slave
+So, no harm done #Grin
+@End
+(two)
+I know I can be pretty tough on you, #Name
+So I'll let you have a break now
+Here, watch this video...  no touching though #Smile @PlayVideo
+I hope you're ready for more torment now
+That video didn't help bring down the aching in your #Balls I guess #Smile
+@End
+(three)
+Breathe easy for a few seconds, #Name
+Don't get too comfortable though #Grin
+@End
+(four)
+Damn, I'm going way too easy on you... #Laugh
+No matter how much I tell myself I'm not going to let you off the hook
+Sometimes the better angels of my nature take control...
+That never lasts long, of course
+In the end, being cruel is just so much more fun than being nice #Grin
+@End
+(five)
+What do you say, #PetName?
+[thank you,thanks] You're welcome #Smile
+@AcceptAnswer How about just: thank you #DomHonorific #DomName @MoodDown
+A little gratitude goes a long way
+Don't get complacent though, I might be so lenient next time
+@End

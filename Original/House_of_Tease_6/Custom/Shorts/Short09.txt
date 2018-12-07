@@ -1,0 +1,68 @@
+@Stroking #StrokeSlower @StrokeSlower
+Yes, spread your legs apart
+I want to see what is mine.
+Oh you're such a good boy, maybe I don't even need to be rough with you. 
+But that #Cock tells me that maybe you want me to.  @Timeout(5, d28efiw)
+[yes] It's okay, you don't have to be ashamed.
+[no] It's okay
+@DifferentAnswer #YesorNo
+(d28efiw)
+That is how I've trained you. @Chance60(22mdrr)
+@NotFlag(av_fetish_pegging, AV_LikeAnal) @NullResponse @Goto(22mdrr)
+So, #SubName...
+You told me you want me to violate your ass... 
+That's right, isn't it?
+[yes] Interesting... #Smile
+[no] Oh... I must have misunderstood then @Goto(22mdrr)
+@DifferentAnswer #YesOrNo
+Let's talk about that some more, shall we... @Chance60(NoPlay)
+@Stroking #Stop @StopStroking
+@RT(Go get your dildo,Take out your dildo,Get your dildo for me) @CustomMode(#pvDontWantTo,Goto,not want)
+@RT(Lube it up as much as you need to,Make it nice and slippery,Lube up good if you need it,Use as much lube as you need)
+@RT(Put it in your ass,Shove that plug up your ass,Push that plug into your tight butt)
+@RT(Your ass belongs to me,I can use your ass however I want,Your ass is mine to use,I own your ass) #Grin
+Let me know when you're ready
+[done,did,ready,finished,it's in] @RT(Good,Alright,There you go,That's much better) #Smile @TempFlag(pthevPlugged)
+[don't want to,do not want to,don't want that,do not want that,don't make me,do not make me] What are you talking about @Goto(not want)
+@DifferentAnswer Just say 'ready' when you are, #SubName #EmoteFlustered
+@RT(That plug fills you up nicely,I don't know why I don't do this more often,Plugged like a good slut) @CustomMode(#pvDontWantTo,Normal)
+Start fucking that ass for me...
+(NoPlay)
+Maybe one day I can peg your ass, #PetName. Would you like that?  @Timeout(5, 0sn24d)
+[yes] Yeah?  @MoodUp
+[no] Don't lie to me @MoodDown
+@DifferentAnswer #YesorNo
+(0sn24d)
+Imagine how you'd feel, the way my hips roll and press against your ass. 
+Feel how full you are inside. Mmhm. 
+While I'm jerking you off with my hand, I'll pump into your ass with a strap-on. 
+Start out slow and easy. You like that, hmm? Would you like that?  @Timeout(5, ew4gdg)
+[yes] #GoodBoy @MoodUp
+[no] Don't lie to me @MoodDown
+@DifferentAnswer #YesorNo
+(ew4gdg)
+Imagine you are making your Miss cum with your mouth and your hands while I fuck your ass. 
+You want it faster? You want it harder? 
+Oh yeah, you can have it.
+You can get it any way you want it. 
+Faster. Deeper. *Harder.*
+@Flag(pthevPlugged) you can stop fucking your ass...go clean yourself @Wait(30)
+@End
+(22mdrr)
+@NullResponse @RapidCodeOn
+@NotFlag(av_fetish_pain) @NullResponse @Goto(4geah)
+@NullResponse @Chance60(4geah)
+You clearly need a reminder of who is in charge here.
+Did you agree? @Timeout(5, e4grsss)
+[yes] #Good
+[no] You had better get all that out of your mind right now. @CBTBalls @MoodDown
+@DifferentAnswer #YesorNo
+(e4grsss)
+Later, when I'm tired of abusing you, maybe I'll leave you here sore and frustrated and desperate.
+@Stroking #Stop @StopStroking
+@RT(Hit, Slap, Spank) your #Balls @PlayAudio[tease\spank\Belle***.mp3] @Wait(13)
+#GoodBoy
+@End
+(4geah)
+@NullResponse
+@End

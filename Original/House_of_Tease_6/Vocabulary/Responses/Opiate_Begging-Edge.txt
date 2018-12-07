@@ -1,0 +1,206 @@
+[may i edge, can i edge, let me edge, please can i edge, please may i edge, please let me edge, am i allowed to edge, would like to edge, i'd like to edge, want to edge, want an edge, permission to edge]
+[Before Tease]
+That was fast, you must really be desperate #GeneralTime #Smile @Interrupt(OpiatePTE1)
+Already? #Smile @Interrupt(OpiatePTE1)
+@ApathyLevel3 I haven't even officially told you that you're allowed to be stroking yet. I think you need to wait #Smile
+@ApathyLevel4 I haven't even officially told you that you're allowed to be stroking yet. I think you can to wait #Smile
+@ApathyLevel5 I haven't even officially told you that you're allowed to be stroking yet...
+Not yet, #PetName
+Hold your horses, #Name, we'll get to that #Laugh
+I like how eager you are, but you'll have to wait
+#OhNo
+Not now
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+[Before Tease End]
+[First Round]
+#OhNo
+Not yet, #PetName
+Maybe later
+Not so impatient, we'll get to that #Smile
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+You're already going to cum? You are too quick #Slave.
+Yes #Name edge for me @Edge
+Yes, #Edge @Edge
+#EmoteRandom #LetMeThinkAboutIt
+@NullResponse #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel1 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel2 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel3 Quit begging #Name
+@ApathyLevel4 Quit begging #Name
+@ApathyLevel5 Quit begging #Name
+@ApathyLevel1 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel2 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel3 #Shh
+@ApathyLevel4 #Shh
+@ApathyLevel5 #Shh
+@ApathyLevel1 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel2 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel3 #Shh
+@ApathyLevel4 #Shh
+@ApathyLevel5 #Shh
+[First Round End]
+[Stroking]
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+@GoodMood No, keep stroking for me @TempFlag(AV_AskedEdge)
+@GoodMood Maybe later @TempFlag(AV_AskedEdge)
+@NeutralMood #OhNo @TempFlag(AV_AskedEdge)
+@NeutralMood #OhNo @TempFlag(AV_AskedEdge)
+@NeutralMood Nope, just keep stroking @TempFlag(AV_AskedEdge)
+@NotFlag(AV_AskedEdge) If I remember I am the one who tells you what to do and when you do it right? @TempFlag(AV_AskedEdge)
+@NeutralMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+@NeutralMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+@NeutralMood Not now, #Name @TempFlag(AV_AskedEdge)
+@NeutralMood Maybe later, #Name @TempFlag(AV_AskedEdge)
+@BadMood #OhNo @TempFlag(AV_AskedEdge)
+@BadMood #OhNo just keep stroking @TempFlag(AV_AskedEdge)
+@BadMood Don't even think about it, #Name @MiniScript(pvMs_PunishmentLight_Stroking)
+@BadMood Don't even think about it, #Name @TempFlag(AV_AskedEdge)
+@BadMood Don't you fucking edge, #PetName @TempFlag(AV_AskedEdge)
+@BadMood You are NOT allowed to edge, #PetName @MiniScript(pvMs_PunishmentLight_Stroking)
+@BadMood You are NOT allowed to edge, #PetName @TempFlag(AV_AskedEdge)
+@NotFlag(AV_AskedEdge) Yes #Name #Edge for me @Edge
+@NotFlag(AV_AskedEdge) Yes, #Edge @Edge
+@NotFlag(AV_AskedEdge) #EmoteRandom #LetMeThinkAboutIt @TempFlag(AV_AskedEdge)
+@NullResponse #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel1 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel2 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel3 Quit begging #Name @TempFlag(AV_AskedEdge)
+@ApathyLevel4 Quit begging #Name @TempFlag(AV_AskedEdge)
+@ApathyLevel5 Quit begging #Name @TempFlag(AV_AskedEdge)
+@ApathyLevel1 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel2 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel3 #Shh @TempFlag(AV_AskedEdge)
+@ApathyLevel4 #Shh @TempFlag(AV_AskedEdge)
+@ApathyLevel5 #Shh @TempFlag(AV_AskedEdge)
+@ApathyLevel1 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel2 #EmoteRandom @Interrupt(OpiatePTE1)
+@ApathyLevel3 #Shh @TempFlag(AV_AskedEdge)
+@ApathyLevel4 #Shh @TempFlag(AV_AskedEdge)
+@ApathyLevel5 #Shh @TempFlag(AV_AskedEdge)
+@GoodMood @NullResponse @CallReturn(Custom/CallReturn/pvCr_EdgeAllowed.txt)
+@GoodMood @NullResponse @CallReturn(Custom/CallReturn/pvCr_EdgeAllowed.txt)
+@GoodMood @NullResponse @CallReturn(Custom/CallReturn/pvCr_EdgeAllowed.txt)
+@GoodMood No, keep stroking for me @TempFlag(AV_AskedEdge)
+@GoodMood Maybe later @TempFlag(AV_AskedEdge)
+@NeutralMood #OhNo @TempFlag(AV_AskedEdge)
+@NeutralMood #OhNo @TempFlag(AV_AskedEdge)
+@NeutralMood Nope, just keep stroking @TempFlag(AV_AskedEdge)
+@NeutralMood @NullResponse @CallReturn(Custom/CallReturn/pvCr_EdgeAllowed.txt)
+@NeutralMood @NullResponse @CallReturn(Custom/CallReturn/pvCr_EdgeAllowed.txt)
+@NeutralMood Not now, #Name @TempFlag(AV_AskedEdge)
+@NeutralMood Maybe later, #Name @TempFlag(AV_AskedEdge)
+@BadMood #OhNo @CallReturn(Custom/CallReturn/pvCr_PunishmentLight_Stroking.txt)
+@BadMood #OhNo just keep stroking @TempFlag(AV_AskedEdge)
+@BadMood Don't even think about it, #Name @CallReturn(Custom/CallReturn/pvCr_PunishmentLight_Stroking.txt)
+@BadMood Don't even think about it, #Name @TempFlag(AV_AskedEdge)
+@BadMood Don't you fucking edge, #PetName @TempFlag(AV_AskedEdge)
+@BadMood You are NOT allowed to edge, #PetName @CallReturn(Custom/CallReturn/pvCr_PunishmentLight_Stroking.txt)
+@BadMood You are NOT allowed to edge, #PetName @TempFlag(AV_AskedEdge)
+@Flag(AV_AskedEdge) Don't try my patience #PetName
+@Flag(AV_AskedEdge) Stop asking me if you can edge, it's not happening
+@Flag(AV_AskedEdge) No means no #EmoteRandom
+@Flag(AV_AskedEdge) How many times you #Gonna ask me #PetName?
+@Flag(AV_AskedEdge) My answer hasn't changed
+@Flag(AV_AskedEdge) I told you #PetName, you're not allowed to edge yet
+@Flag(AV_AskedEdge) I'll tell you when I want you to edge #PetName
+@Flag(AV_AskedEdge) I'm not #Gonna change my mind
+@Flag(AV_AskedEdge) You're not #Gonna edge #PetName, stop asking me
+[Stroking End]
+[Not Stroking]
+#OhNo
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+[Not Stroking End]
+[Edging]
+@BadMood Didn't I just tell you to!? #EmoteFlustered @MiniScript(pvMs_PunishmentLight_Stroking)
+@Badmood Yes #Name, I already told you #EmoteFlustered @MiniScript(pvMs_PunishmentLight_Stroking)
+@Badmood I already told you #EmoteFlustered @MiniScript(pvMs_PunishmentLight_Stroking)
+Yes, #PetName, edge for me now
+Oh yes #Smile
+Yes
+Go ahead then, edge for me
+I <i>do</i> want you to edge...
+Yes, #EdgeN for me now
+I already told you that I #Want you to #EdgeN #Smile
+[Edging End]
+[Holding The Edge]
+You should already be edging!
+You should be on the edge already
+C'mon, #Name, you should already be on the edge #EmoteFlustered
+@Badmood You should already be on the edge! @AddEdgeHoldTime @MiniScript(pvMs_PunishmentLight_Stroking)
+Yes #Name. #EdgeN. #HoldTheEdge
+[Holding The Edge End]
+[CBT Cock]
+@ApathyLevel1 Sorry #Name, no #Stroking #Yourself right now
+@ApathyLevel2 Sorry #Name, no #Stroking #Yourself right now
+@ApathyLevel3 Sorry #Name, no #Stroking #Yourself right now
+@ApathyLevel4 No, you're not allowed to #Stroke #Yourself right now
+@ApathyLevel5 Not a chance, you're not allowed to #Stroke #Yourself right now
+@ApathyLevel1 Sorry #Name, I don't #Want for you to be #Stroking #Yourself right now
+@ApathyLevel2 Sorry #Name, I don't #Want for you to be #Stroking #Yourself right now
+@ApathyLevel3 Sorry #Name, I don't #Want for you to be #Stroking #Yourself right now
+@ApathyLevel4 I don't think so, I #Want for you to #Ache for it #Name
+@ApathyLevel5 I don't think so, I #Want for you to #Ache for it #Name
+Mmm, I think you can wait
+Mmm, I think you should wait
+Mmm, I think you need to wait
+Maybe in a minute #Name #Smile
+Not yet, wait for it #Name
+#EmoteRandom #LetMeThinkAboutIt
+#EmoteRandom Quit begging #Name
+#EmoteRandom #Shh
+#Shh
+Mmm, I think you can wait
+Mmm, I think you should wait
+Mmm, I think you need to wait
+Maybe in a minute #Name #Smile
+Not yet, wait for it #Name
+I can see how that would be preferable, but no
+#OhNo
+No, I want you to hurt that #Cock instead
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+[CBT Cock End]
+[CBT Balls]
+@ApathyLevel1 Sorry #Name, no #Stroking #Yourself right now
+@ApathyLevel2 Sorry #Name, no #Stroking #Yourself right now
+@ApathyLevel3 Sorry #Name, no #Stroking #Yourself right now
+@ApathyLevel4 No, you're not allowed to #Stroke #Yourself right now
+@ApathyLevel5 Not a chance, you're not allowed to #Stroke #Yourself right now
+@ApathyLevel1 Sorry #Name, I don't #Want for you to be #Stroking #Yourself right now
+@ApathyLevel2 Sorry #Name, I don't #Want for you to be #Stroking #Yourself right now
+@ApathyLevel3 Sorry #Name, I don't #Want for you to be #Stroking #Yourself right now
+@ApathyLevel4 I don't think so, I #Want for you to #Ache for it #Name
+@ApathyLevel5 I don't think so, I #Want for you to #Ache for it #Name
+Mmm, I think you can wait
+Mmm, I think you should wait
+Mmm, I think you need to wait
+Maybe in a minute #Name #Smile
+Not yet, wait for it #Name
+#EmoteRandom #LetMeThinkAboutIt
+#EmoteRandom Quit begging #Name
+#EmoteRandom #Shh
+#Shh
+Mmm, I think you can wait
+Mmm, I think you should wait
+Mmm, I think you need to wait
+Maybe in a minute #Name #Smile
+Not yet, wait for it #Name
+I can see how that would be preferable, but no
+#OhNo
+No, I want you to hurt those #Balls instead
+@GoodMood @NullResponse @MiniScript(pvMs_EdgeAllowed)
+[CBT Balls End]
+[Chastity]
+#EmoteRandom As if I would let you edge! You're not allowed to <i>touch</i> #Name
+#EmoteRandom I think not #Name
+#EmoteRandom Quit begging #Name
+#EmoteRandom #Shh
+#Shh
+#OhNo
+@HasChastity With that cage on? I don't see how you could #Laugh
+@DoesNotHaveChastity No #Name, you're not even allowed to touch it right now
+[Chastity End]
+[After Tease]
+#OhNo
+[After Tease End]

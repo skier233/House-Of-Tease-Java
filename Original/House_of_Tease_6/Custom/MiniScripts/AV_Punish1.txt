@@ -1,0 +1,43 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@NotFlag(AV_PinDone) Go fetch me some clothespins and a spoon. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Flag(av_fetish_rough) Now drop to your fucking knees.
+@NotFlag(av_fetish_rough) #KneelForMe
+Ass in the air, face on the floor. 
+@Flag(av_fetish_rough) Like the little whore that you are.
+Take the spoon, and hit your ass with it. 
+Ready?
+ONE. @PlayAudio[tease\whip.mp3] 
+@RT(Pathetic. I couldn't hear a thing, Do it properly.)
+This isn't a game. ONE. @PlayAudio[tease\whip.mp3] 
+Same side. TWO. @PlayAudio[tease\whip.mp3] 
+THREE. @PlayAudio[tease\whip.mp3] 
+Do it harder. FOUR. @PlayAudio[tease\whip.mp3] 
+FIVE.  @PlayAudio[tease\whip.mp3] 
+SIX.  @PlayAudio[tease\whip.mp3] 
+SEVEN. @PlayAudio[tease\whip.mp3] 
+HARDER. EIGHT. @PlayAudio[tease\whip.mp3] 
+@Flag(AV_DommeMistress) I want that ass cheek to glow, bitch! NINE! @PlayAudio[tease\whip.mp3] 
+@NotFlag(AV_DommeMistress) NINE! @PlayAudio[tease\whip.mp3] 
+TEN! @PlayAudio[tease\whip.mp3] 
+Now the other side. 
+@Flag(av_fetish_pain) You better be putting some fucking power into these. 
+ONE. @PlayAudio[tease\whip.mp3] 
+TWO.  @PlayAudio[tease\whip.mp3] 
+THREE. @PlayAudio[tease\whip.mp3] 
+FOUR.  @PlayAudio[tease\whip.mp3] 
+FIVE. @PlayAudio[tease\whip.mp3] @Chance50(AVRND81)
+Actually, no. 
+@NotFlag(av_fetish_pain) Go back to the first cheek
+@Flag(av_fetish_pain) Go back to the first cheek and lash it hard.
+(AVRND81)
+SIX..... @PlayAudio[tease\whip.mp3] 
+SEVEN.... @PlayAudio[tease\whip.mp3] 
+EIGHT... @PlayAudio[tease\whip.mp3] 
+NINE.. @PlayAudio[tease\whip.mp3] 
+TEN. @PlayAudio[tease\whip.mp3] 
+Nice and sore now?
+You can sit now
+@End

@@ -1,0 +1,95 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+@Flag(AV_DommeMistress) @NullResponse @Interrupt(AV_Controle)
+Are you sure #PetName ?
+[yes] Hmm  @Goto(youslave)
+[no] You don't? @Goto(skip)
+@DifferentAnswer Yes or no #SubName?
+(promise)
+What I want is a slave, a toy that I can play with, someone who will do ANYTHING I demand
+You need to make a decision do you want to commit to being my slave today?
+[yes] Ok, I am glad you have agreed @Goto(youslave)
+[no] You don't? @Goto(skip2)
+@DifferentAnswer Yes or no #SubName?  
+(youslave)
+@RT(Well there's no going back now, I got some inspiration from the internet... but it's tailored to our situation).  @RapidCodeOn
+@NullResponse @MoodUp
+@NullResponse @DommeLevelUp
+@NullResponse @ApathyLevelUp 
+@NullResponse @TempFlag(AV_DommeMistress)
+@NullResponse @Chance50(WhisperMiss)
+@NullResponse @Chance50(slaveLife)
+Let's go over it, shall we? @Chance75(ReadLimits)
+Ok, I've already signed it as the Dominant
+Ah, here it is. 'Henceforth, the undersigned- that's you- shall be referred to as the submissive.
+(ReadLimits)
+I want to write some articles to this Contract, like @RapidTextOn
+Names and Titles
+Authority
+Limits @RapidTextOff
+Hmm yes...lets talk about limits
+I remember some of the kinks you dont like
+Since today I will be your Mistress...
+I think I can push  some of them #EmoteLaugh @RapidCodeOn
+@NullResponse @TempFlag(av_fetish_pain)
+@NullResponse @TempFlag(av_fetish_rough)
+@NullResponse @Chance70(n01)
+@NullResponse @TempFlag(av_fetish_bondage)
+(n01)
+@NullResponse @Chance70(n02)
+@NullResponse @TempFlag(av_fetish_hothax)
+(n02)
+@NullResponse @Chance70(n03)
+@NullResponse @TempFlag(av_fetish_pegging)
+(n03)
+@NullResponse @Chance70(n04)
+@NullResponse @TempFlag(av_fetish_cei)
+@NullResponse @Goto(n04)
+(WhisperMiss)
+I'm the slave whisper and this colar its the mark of obediance.
+Kneel down puppet, its time for our training lesson. @TempFlag(AV_SubKnees)
+Eager to begin your total submission to me? 
+Training will be very thorough and I have very high expectations of those who kneel before me. 
+I will require total servitude and your life will be completely focused and dedicated to pleasing me. 
+The training to mold you into my perfect slave begins here... @Goto(n04)
+(slaveLife)
+Today is a special day for you
+it's the day you become my slave. 
+I'm going to tell you in detail how you're going to live
+I and I alone now decide your fate, what you will be and how you will do it. 
+Are you nervous? 
+Are you thinking about backing out? 
+Too bad you can't, even if you wanted to. 
+I own you now! @Goto(n04)
+(n04)
+@NotFlag(AV_PinDone) I want you to fetch some nipple clamps or clothespins @SetFlag(AV_PinDone)
+@NotFlag(AV_PinDone) And a spoon or ruler @Wait(25)
+Let's the fun begin
+@End
+(skip2)
+@NullResponse @Chance50(Brava) @RapidCodeOn
+@NullResponse @Goto(skip)
+(Brava)
+@NullResponse @MoodDown
+@End
+(skip)
+@NullResponse 
+@End
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+MAYBE A ERROR WITH END SCRIPT. ADDING RAMDOM LINES TO TRY TO FIX
+@End

@@ -1,0 +1,12 @@
+tomorrow
+tomorrow morning
+tomorrow afternoon
+tomorrow evening
+next #DayOfWeek
+in a few days
+this week
+next week
+in a couple days
+for the next couple days
+for the next few days
+

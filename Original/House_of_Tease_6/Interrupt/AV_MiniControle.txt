@@ -1,0 +1,69 @@
+@NullResponse @RapidCodeOn
+@NullResponse @Chance20(Ramdomhappy)
+@NullResponse @Chance20(Ramdomangry)
+@NullResponse @Chance20(Ramdomhorny) 
+@NullResponse @Goto(NoRamdom)
+(Ramdomhappy)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_DommeBom]=[AV_DommeBom]+[1]
+@NullResponse @Chance20(Ramdomangry)
+@NullResponse @Chance20(Ramdomhorny) 
+@NullResponse @Goto(NoRamdom)
+(Ramdomangry)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_DommeRuim]=[AV_DommeRuim]+[1]
+@NullResponse @Chance20(Ramdomhorny) 
+@NullResponse @Goto(NoRamdom)
+(Ramdomhorny) 
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_DommeHorny]=[AV_DommeHorny]+[1]
+(NoRamdom)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_DommeBom]>=[10]Then(happy2)
+@NullResponse @If[AV_DommeBom]>=[4]Then(happy1) 
+(happy1) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHappy1)
+@NullResponse @Goto(continue1)
+(happy2) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHappy2)
+@NullResponse @Goto(continue1)
+(continue1)
+@NullResponse  @RapidCodeOn
+@NullResponse @If[AV_DommeRuim]>=[10]Then(angry2)
+@NullResponse @If[AV_DommeRuim]>=[4]Then(angry1) 
+(angry1) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeAngry1)
+@NullResponse @Goto(continue2)
+(angry2) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeAngry2)
+@NullResponse @Goto(continue2)
+(continue2)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_DommeHorny]>=[10]Then(horny2)
+@NullResponse @If[AV_DommeHorny]>=[3]Then(horny1) 
+(horny1) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHornie1)
+@NullResponse @Goto(continue3)
+(horny2) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHornie2)
+@NullResponse @Goto(continue3)
+(continue3)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_SubKnees)
+@NullResponse @Goto(continue4)
+(AV_SubKnees)
+Alright you can get back on your chair @DeleteFlag(AV_SubKnees)
+(continue4)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Pins)
+@NullResponse @Goto(SkipPins)
+(AV_Pins)
+You can remove all clothespins @DeleteFlag(AV_Pins)
+(SkipPins)
+@End

@@ -1,0 +1,49 @@
+@Flag(AV_Call01) You like be called like that, huh? @DeleteFlag(AV_Call01)
+So you like being humiliated and abused? @Timeout(5, AV_001djr)
+[yes] #IKnow @Goto(AV_001djr) 
+[no] Oh... @Goto(End) 
+@DifferentAnswer #YesorNo
+(AV_001djr)
+Well... the girls and I thought it was a bit pathetic but....
+Oh don't give me that look.
+I share everything with the girls.
+And yes, @RT(#Contact3, #Contact2) know, before you ask. 
+She knows all about you... @Goto(Order01, Order02, Order03)
+(Order01)
+@Flag(av_fetish_foot) your foot fetish
+@Flag(av_fetish_rough) How you're my bitch @Goto(KeepGo)
+@Flag(av_fetish_pain) How you are a painslut
+@FlagOr(av_fetish_pegging, AV_LikeAnal) How you like to be fucked in the ass @Goto(KeepGo)
+@Flag(av_fetish_cei) your sissy dreams about eating your cum  
+@Flag(av_fetish_cfnm) How you like to be naked in front of girls... @Goto(KeepGo)
+@NullResponse @Goto(KeepGo)
+(Order02)
+@Flag(av_fetish_cei) your sissy dreams about eating your cum  
+@Flag(av_fetish_cfnm) How you like to be naked in front of girls... @Goto(KeepGo)
+@Flag(av_fetish_foot) your foot fetish
+@Flag(av_fetish_rough) How you're my bitch @Goto(KeepGo)
+@Flag(av_fetish_pain) How you are a painslut
+@FlagOr(av_fetish_pegging, AV_LikeAnal) How you like to be fucked in the ass @Goto(KeepGo)
+@NullResponse @Goto(KeepGo)
+(Order03)
+@Flag(av_fetish_pain) How you are a painslut
+@FlagOr(av_fetish_pegging, AV_LikeAnal) How you like to be fucked in the ass @Goto(KeepGo)
+@Flag(av_fetish_cei) your sissy dreams about eating your cum  
+@Flag(av_fetish_cfnm) How you like to be naked in front of girls... @Goto(KeepGo)
+@Flag(av_fetish_foot) your foot fetish
+@Flag(av_fetish_rough) How you're my bitch @Goto(KeepGo)
+@NullResponse @Goto(KeepGo)
+(KeepGo)
+You should see your face right now.
+Awww am I too mean to you? @Timeout(5, AV_002thr)
+[yes] #Lol
+[no] Oh... That's because you're a @RT(bitch, slut)
+@DifferentAnswer #YesorNo
+(AV_002thr)
+@Flag(AV_Beta) That's is the way beta males are...
+You don't have to pretend to be alpha or strong.
+@FlagOr(av_fetish_rough, AV_Beta) You'll leave that to the real men won't you #Slave? 
+It's okay to be submissive. 
+(End)
+@NullResponse
+@End

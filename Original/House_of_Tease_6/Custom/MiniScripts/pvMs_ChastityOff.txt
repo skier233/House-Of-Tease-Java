@@ -1,0 +1,8 @@
+Take your chastity device off, #Name
+Let me know when you're ready to continue
+[ready,done,finished] Good
+[yes] I'm waiting... @LoopAnswer
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Let me know when you're ready
+You must be glad to be free again #Smile @ChastityOff
+@End

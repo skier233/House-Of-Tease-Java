@@ -1,0 +1,57 @@
+@Flag(pvFootFetishYes) @NullResponse @Chance50(call custom)
+@NullResponse @Chance33(simple edge)
+#StopStroking @StopStroking @CheckFlag(pvMod27B)
+@CockTorture @NullResponse @CBTCock
+Knowing you suffer for me is making me so wet, #Name @CheckFlag(pvMod27A)
+And I want more @SetFlag(pvMod27A)
+I always want you to suffer more
+Maybe I should feel bad about that...
+But the truth is... 
+I don't feel bad at all #Grin
+You know why?
+Because I know that you don't deserve any better
+You deserve to suffer
+It's simple, we all get what we deserve
+And for you, that means you get to suffer for me #Smile
+@End
+(simple edge)
+#Edge @Edge @MultipleEdges(3,5,50)
+#LetTheEdgeFade
+@End
+(pvMod27A)
+I know that makes me sound like a cruel person @DeleteFlag(pvMod27A)
+But I'm not, really @SetFlag(pvMod27B)
+The thing that gets me off is not being cruel
+It's knowing that you crave it...
+@End
+(pvMod27B)
+@NullResponse @CheckFlag(pvMod27C)
+#SubName... @DeleteFlag(pvMod27B)
+I don't know if I need to tell you this, but I will anyway @SetFlag(pvMod27C)
+You shouldn't feel bad about all this
+Maybe you don't, then forget I said it
+But if you ever think being submissive somehow makes you a bad person, stop it
+People are different and if this is who you are, so be it
+And for what it's worth, I'm grateful that you let me explore this side of me #Smile
+@End
+(pvMod27C)
+It's a funny thing... @DeleteFlag(pvMod27C)
+You could just watch some porn and masturbate
+That would probably a pleasurable, if somewhat pointless, use of your time
+But instead you're here with me, earning that pleasure by doing whatever I say
+@CockTorture Even hurting your #Cock for me... @CBTCock
+I like to pretend that I do these things to you 
+But ultimately, you do them to yourself
+Think about it, you could easily stop
+You could just ignore me and masturbate and cum all over the place to some porn
+But you're not going to do that are you?
+No, you're going to stay right here and wait for my instructions, whatever they may be
+I might give you pleasure...
+I might give you pain... 
+Whatever I say will be the law of the land for you
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(call custom)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagFootFetish.txt)
+@End

@@ -1,0 +1,32 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+I would love it if you'd let me control when you masturbate @DeleteFlag(pvWantCoCo)
+Not only during our sessions but in between as well @DeleteFlag(pthevCompleteControlNO)
+And I would <i>love</i> it if you only cum if I say you can
+So #SubName...
+Do you promise to only masturbate when I say you can masturbate?
+And to only cum if I say you can cum?
+[yes] I think this arrangement of ours just got interesting #Grin @SetFlag(pthevCompleteControlYES)
+[no] Too bad #EmoteSad @Goto(the answer is no)
+@DifferentAnswer #YesOrNo
+One thing though, #SubName
+This only works when you are completely honest with me
+I mean, I can't come over and check if you're being a good boy every day...
+And and I don't what to have to ask you if you've been good every single time
+So that means you should tell me whenever you've masturbated or had an orgasm without my permission
+Even if it happened outside of our sessions together
+Is that understood?
+[yes,okay,alright,agreed,understood,understand,clear] Great #Smile
+[no] #pthevCoCo-1 @LoopAnswer
+[don't want,do not want,not going to,not gonna,won't,will not] Too bad #EmoteSad @DeleteFlag(pthevCompleteControlYES) @Goto(the answer is no)
+@DifferentAnswer #YesOrNo
+That settles it then... 
+You're going to regret this, #SubName #Grin @MoodUp
+@End
+(the answer is no)
+I thought you said you wanted that, #PetName @MoodDown @SetFlag(pthevCompleteControlNO)
+But I guess you chickened out... typical
+It's okay though, I don't want to force you to do anything you don't want to do
+@End

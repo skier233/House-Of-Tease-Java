@@ -1,0 +1,102 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link21_NotFirstTime)
+@NullResponse @SetVar[AV_Link21]=[0] 
+@NullResponse @SetFlag(AV_Link21_NotFirstTime)
+(AV_Link21_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link21]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link21]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link21]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link21]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link21]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link21]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link21]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link21]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link21]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link21]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link21]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link21]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link21]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link21]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link21]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link21]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link21]=[AV_Link21]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link21]=[AV_Link21]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link21]=[AV_Link21]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link21]=[AV_Link21]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link21]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+I need you to recognize that this is just how things are going to be from now on.
+You're my slave, and that means you do what I say.
+Isn't that right, honey?  @ResponseYes(Call Me) @ResponseNo(AV_NoBad) 
+You just stay where I put you and do exactly what I want you to do and we'll have a perfect life together! 
+I'm going to be spending plenty of time with you.
+#StartStroking @StartStroking
+@End
+(Link2)
+We should milk you.
+This is what you want, what you crave.
+Life-giving milk. 
+I love the smell of your cock. 
+Sweaty, carnal, yummy. 
+I love how dirty you make me feel. 
+#StartStroking @StartStroking
+@End
+(Link3)
+#Contact2 told me she is interested in finding out more about chastity and denial...
+and if it really works so well in controlling men eeh slaves. 
+I think we should provide a demonstration for her, you dont mind do you my little pet? @ResponseYes(AV_YesNeutral) @ResponseNo(AV_NoNeutral) 
+I hope you dont feel ashamed to show your chastity cage to my friend...
+she knows how to keep a secret.
+#StartStroking @StartStroking
+@End
+(Link4)
+you should purchase a tube of hair remover.
+And bathe and ensure your whole body is deeply cleaned.
+apply the hair removal cream to your genital and anal areas.
+#StartStroking @StartStroking
+@End

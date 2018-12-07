@@ -1,0 +1,35 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+Let me test that. @Goto(part1,part2,part3)
+(part1)
+I do like the whip wich slices like a single tail and it has four tails. 
+That's like four strokes for each time I whip you.
+It's less work for Me, more suffering for you.
+And that is just the way I like it.
+My enjoyment, your suffering.
+@End
+(part2)
+Hmmm...
+Take a shoelace and tie your balls away from your cock! Make it nice and tight! @ApathyLevelUp
+Let me know if you're done.
+[done, yes, Yes Mistress, yeah, yea, sure] Move on
+@DifferentAnswer Yes or no #PetName?
+Put one clothespin on each nipple and squeeze them tight!
+Let me know if you're done.
+[done, yes, Yes Mistress, yeah, yea, sure] Move on
+@DifferentAnswer Yes or no #PetName?
+Grab your cock and stroke it slowly as you squeeze those balls with the other hand!
+You like pain...
+So...
+enjoy! @Wait(20)
+#ThatsEnough
+@End
+(part3)
+@SystemMessage  #DomName turned on the mic  @PlayAudio[tease\SeSp\pain01.mp3]
+ @Wait(10)
+ @Wait(10)
+@SystemMessage  #DomName turned off the mic   @Wait(10)
+#ThatsEnough
+@End

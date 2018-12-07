@@ -1,0 +1,56 @@
+Remember that perfect storm of your porn collection? @SetFlag(AV_Device)
+I think I feel it coming on again #Grin
+@NullResponse @Goto(v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12)
+(v1)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/01_Casey.mp4]
+@NullResponse @Goto(Fim16)
+(v2)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/02_Pixie01.mp4]
+@NullResponse @Goto(Fim16)
+(v3)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/03_Pixie02.mp4]
+@NullResponse @Goto(Fim16)
+(v4)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/04_Pixie03.mp4]
+@NullResponse @Goto(Fim16)
+(v5)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/05_Pixie04.mp4]
+@NullResponse @Goto(Fim16)
+(v6)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/06_Pixie05.mp4]
+@NullResponse @Goto(Fim16)
+(v7)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/07_Pixie06.mp4]
+@NullResponse @Goto(Fim17)
+(v8)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/08_Miranda01.mp4]
+@NullResponse @Goto(Fim16)
+(v9)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/09_Miranda02.mp4]
+@NullResponse @Goto(Fim17)
+(v10)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/10_Kylie01.mp4]
+@NullResponse @Goto(Fim17)
+(v11)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/11_Kylie02.mp4]
+@NullResponse @Goto(Fim16)
+(v12)
+@NullResponse @PlayVideo[E:\Persona/videos/Device_Pixie/12_Kylie03.mp4]
+@NullResponse @Goto(Fim16)
+(Fim16)
+@NullResponse @CheckFlag(AV_Device) 
+@NullResponse @Goto(Fim18)
+(AV_Device) 
+@Flag(AV_DommeMistress) @NullResponse @Chance50(Fim17)
+@BadMood @NullResponse  @Chance70(Fim17)
+@NullResponse @Chance20(Fim17)
+(Fim18)
+Your porn collection is a lot like your #Cock #SubName @DeleteFlag(AV_Device) 
+It gets put to much better use when it's in my hands #Lol
+@End
+(Fim17)
+I wonder how much pain your balls are in right now @DeleteFlag(AV_Device) 
+Oh well
+It doesn't matter how much they ache really
+Because we will watch another video  @Goto(v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11, v12)
+@End

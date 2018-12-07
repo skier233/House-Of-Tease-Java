@@ -1,0 +1,487 @@
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral29_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral29]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral29_NotFirstTime)
+(AV_ModGeneral29_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral29]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral29]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral29]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral29]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral29]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral29]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral29]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral29]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral29]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral29]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral29]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral29]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral29]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral29]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral29]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral29]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral29]=[AV_ModGeneral29]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral29]=[AV_ModGeneral29]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral29]=[AV_ModGeneral29]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral29]=[AV_ModGeneral29]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral29]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #Stop @StopStroking
+You can never say no to me. 
+I get everything I want.
+You know it's true. You're addicted. 
+I mindfuck you like no one ever has. 
+You love my charm and my intense beauty. 
+You're @RT(so fucking hooked on me, wrapped around my little finger). 
+You should be locked away when you're anywhere near me. 
+#StartStroking
+Stroke and jerk your brain out, just allow it to become numb. 
+You like that you don't have to think when you're stroking to me. 
+You don't have to worry about anything real
+all you have to do is pump to my sexy body and go mindless.
+Stroke your life away for me #PetName. 
+You don't have to think or worry about anything when you're in this state. 
+All you have to worry about is humping your hand. 
+You're mindfucked and horny. 
+You're completely controlled by your own dick.
+All you care about is cumming. 
+And I love controlling your cock
+I love how you obey and jerk when I say and cum only on my command.
+So follow my instructions and #Stroke
+#GoodBoy
+I know I can make you cum any second, but I'm going to make you work for this orgasm.
+#Edge @EdgeNoHold @MultipleEdges( #Random(1, 3), 10, 100)
+I know you love obeying me
+I know it feels so good, that's why you're addicted to jerking it. 
+You jerk it for me, not knowing when or if I'm going to let you cum. 
+You just love entering that jerk trance state as you mindlessly jerk it to my words and my body. 
+Now my #PetName, we're going to play a game
+and it's going to feel so good to play
+and you're going to follow the rules because you're a good pet. 
+You're going to edge and I'm going to guide you through girl after girl you have a crush
+and you're going to love it. 
+I'm going to make you edge to each of the crushes you told me. 
+And I'm going to do this because I'm conditioning you. 
+Remember, no cumming, just edging.
+@Flag(AV_Know_12) Your secret crush, #Var[AV_Persona13] @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) #StartStroking @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) Feels good, right? @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) Maybe I should give her a call if you dont do what I say @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\01\*.jpg] 
+@Flag(AV_Know_12) #LetTheEdgeFade @ShowImage[av_imagens\01\*.jpg] @Wait(10)
+@Flag(AV_Know_00) Hmm @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) Your Crush actress, #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) #StartStroking @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) Oh it feels so good to touch ourselves doesn't it. @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) Keep going, you can stay on this picture for quite some time. @ShowImage[av_imagens\02\*.jpg] @Wait(15)
+@Flag(AV_Know_00) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_00) #LetTheEdgeFade @ShowImage[av_imagens\02\*.jpg]
+@Flag(AV_Know_01) Your Crush singer, #Var[AV_Persona02] @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) #StartStroking @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) I want you to imagine those are her hands which are running over your #Cock @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) As if holding a microphone #Lol @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_01) #LetTheEdgeFade @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_03) Paying tribute to #Var[AV_Persona04] @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) #StartStroking @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) Take a good look at her body. @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) I want you to have her body firmly in your mind. @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) Now #EdgeNoun @EdgeNoHold @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) #EdgeNoun again @EdgeNoHold @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_03) #LetTheEdgeFade @ShowImage[av_imagens\04\*.jpg]
+@Flag(AV_Know_50) #EdgeNoun @EdgeNoHold for #Var[AV_Persona50] @ShowImage[av_imagens\10\*.jpg] 
+@Flag(AV_Know_51) #EdgeNoun @EdgeNoHold for #Var[AV_Persona51] @ShowImage[av_imagens\11\*.jpg] 
+@Flag(AV_Know_52) #EdgeNoun @EdgeNoHold for #Var[AV_Persona52] @ShowImage[av_imagens\12\*.jpg] 
+@Flag(AV_Know_53) #EdgeNoun @EdgeNoHold for #Var[AV_Persona53] @ShowImage[av_imagens\13\*.jpg] 
+@Flag(AV_Know_54) #EdgeNoun @EdgeNoHold for #Var[AV_Persona54] @ShowImage[av_imagens\14\*.jpg] 
+@Flag(AV_Know_55) #EdgeNoun @EdgeNoHold for #Var[AV_Persona55] @ShowImage[av_imagens\15\*.jpg] 
+@Flag(AV_Know_56) #EdgeNoun @EdgeNoHold for #Var[AV_Persona56] @ShowImage[av_imagens\16\*.jpg] 
+@Flag(AV_Know_57) #EdgeNoun @EdgeNoHold for #Var[AV_Persona57] @ShowImage[av_imagens\17\*.jpg] 
+@Flag(AV_Know_58) #EdgeNoun @EdgeNoHold for #Var[AV_Persona58] @ShowImage[av_imagens\18\*.jpg] 
+@Flag(AV_Know_59) #EdgeNoun @EdgeNoHold for #Var[AV_Persona59] @ShowImage[av_imagens\19\*.jpg] 
+@Flag(AV_Know_50) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona50] @ShowImage[av_imagens\10\*.jpg] 
+@Flag(AV_Know_51) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona51] @ShowImage[av_imagens\11\*.jpg] 
+@Flag(AV_Know_52) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona52] @ShowImage[av_imagens\12\*.jpg] 
+@Flag(AV_Know_53) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona53] @ShowImage[av_imagens\13\*.jpg] 
+@Flag(AV_Know_54) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona54] @ShowImage[av_imagens\14\*.jpg] 
+@Flag(AV_Know_55) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona55] @ShowImage[av_imagens\15\*.jpg] 
+@Flag(AV_Know_56) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona56] @ShowImage[av_imagens\16\*.jpg] 
+@Flag(AV_Know_57) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona57] @ShowImage[av_imagens\17\*.jpg] 
+@Flag(AV_Know_58) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona58] @ShowImage[av_imagens\18\*.jpg] 
+@Flag(AV_Know_59) #EdgeNoun again @EdgeNoHold for #Var[AV_Persona59] @ShowImage[av_imagens\19\*.jpg] 
+#LetTheEdgeFade
+How does it feel to be denied over and over again in front of each of these beautiful women? 
+It feels good, doesn't it?  @ResponseYes(ILoveTeaseAndDenial) 
+You feel your need growing with each and every second. 
+@FlagOr(av_fetish_rough, av_fetish_humiliating) But you know that you don't deserve these girls, you don't deserve this pleasure, and you certainly don't deserve to cum to them. 
+@End
+(Modulo2)
+@Stroking #Stop @StopStroking
+You know you're a #Slave.
+You've been told so many times before, it's been drilled into your brain by now.
+And if you want to jerk off you'll need instructions because only #Slaves need to be told how to jerk their dicks.
+It's a pretty simple concept that most men can handle but you need instructions on how to touch your own cock.
+@FlagOr(av_fetish_rough, av_fetish_humiliating) It's pathetic. 
+#StartStroking
+I also know that you like being told what to do by a woman.
+It makes you feel better about yourself.
+It makes you feel like you're getting some kind of acceptance from a woman who's too beautiful to ever want you.
+So I'll give you instructions. 
+Stare at me and stroke that #Cock. 
+You know you need help, you need encouragement
+@FlagOr(av_fetish_rough, av_fetish_humiliating) you need to be told what to do because you're a loser. 
+#Stop
+Even though you want to keep going, you can't.
+You know you have to obey me.
+@NotFlagYou(av_fetish_rough, av_fetish_humiliating) You don't have a choice because you need permission to stroke. 
+@FlagOr(av_fetish_rough, av_fetish_humiliating)  You don't have a choice because you're such a loser, you need permission to stroke. 
+I give you what you need. 
+You thought you knew what you needed.
+But I know better. 
+#StartStroking
+You need the thrill of being pushed past your limits. 
+You made your boundaries clear, built out of fear and hesitation. 
+I know how much you cling to them. 
+But I also know how much you love when I push those limits.
+It's not fun playing it safe because then you always know what to expect.
+How fucking boring. And you don't want boring, you want the rush. 
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+You want the thrill of seeing just how far you will go. 
+You want to see just how far I will take you. 
+You want the rush of not being in control. 
+When you play it safe you're only denying yourself
+and you don't want that. 
+You want the rush of seeing what happens when you push yourself beyond your limits. 
+@RT(Hit, Slap, Spank) your #Balls @PlayAudio[tease\spank\Belle***.mp3] @Wait(13)
+You want to dance on the edge of ecstasy and ruination
+not knowing whether pleasure or destruction awaits you. 
+Isn't that exciting? 
+#StartStroking
+Just thinking about it makes you cock throb. 
+You ache for this. The thrill of danger. 
+You know that I could destroy you.
+And yet you follow, mindlessly, helplessly, happily. 
+Because you need that rush. 
+You love the power I have over you, that's the exciting part. 
+Will I bring you pleasure or will I take away everything that you've known?
+That's the fun, that's the rush.
+Pushing your limits and showing you that you are capable of doing so much more. 
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 10, 100)
+You want to sacrifice everything for me. 
+@FlagOr(av_fetish_rough, av_fetish_humiliating) You want to be helplessly devoted, my obsessed little loser 
+and I'm here to show you the way. 
+I'm here to show you true pleasure, a pleasure that comes by not playing it safe
+by taking a risk. 
+Seeing just what will happen when I push your boundaries. 
+@RT(Hit, Slap, Spank) your #Balls @PlayAudio[tease\spank\Belle***.mp3] @Wait(13)
+Will I destroy you and all of your carefully preconceived ideas about yourself? 
+I will tear down everything that you are and build something better in its place. 
+I will give you something so much better than you ever imagined. 
+That's the thrill #PetName. 
+Dangerous excitement. Are you ready to find out just how far you will go? 
+I will push every single one of your limits.
+#Edge @EdgeHold
+@End
+(Modulo3)
+@Stroking #Stop @StopStroking
+@RT(#PetName, #SubName)
+#LittleGame
+I'll tell you how that works.
+There are three disciplines:
+Stroking - Stroking from slow to fast in cycles, stopping before an edge is reached. 
+Speed will increase over time.
+Edging - Reaching the edge repeatedly. Rest time will decrease over time.
+Ballooning - Staying on the edge with minimal sensation. 
+Difficulty will increase over time. 
+This game has 3 stages. 
+Each stage consists of the three disciplines, so that we have a total of 9 rounds.
+Stage 1 has the most stroking, Stage 2 the most edging and Stage 3 the most ballooning.
+STAGE 1
+Round 1: Stroking
+get ready
+@RT(Stroke, Wank, Masturbate) @PlayAudio[tease\Tri\sound1.mp3] 
+Just follow the beat with a medium to firm grip. @Slideshow(Boobs, Butt, Fast)
+Let me help you @SlideshowOn @Wait(100)
+#Stop @SlideshowOff
+#RelaxAndBreathe @Wait(20)
+Because there is no much rest time here...
+@RT(Stroke, Wank, Masturbate) @PlayAudio[tease\Tri\sound2.mp3]
+Now the beat gets a tiny bit faster.
+Nothing to worry about. @Wait(20)
+If you can, make longer, harder strokes. @Wait(20)
+You can use this stage to get their PC muscle tensed and that will happen if you push it with the strokes.
+Are you a pro? Are you training your PC muscle while stroking already? 
+That's hot. @Wait(30)
+#Stop
+#RelaxAndBreathe @Wait(20)
+@RT(Stroke, Wank, Masturbate) @PlayAudio[tease\Tri\sound3.mp3]
+Speeding up again.
+Try and keep your stroking technique just the same, #PetName. 
+Nice and firm.
+#Smile @SlideshowOn @Wait(100)
+#Stop @SlideshowOff
+#RelaxAndBreathe @Wait(20)
+@RT(Stroke, Wank, Masturbate) @PlayAudio[tease\Tri\sound4.mp3]
+Now we're going to go really fast. 
+Do NOT edge, but tell me if you edge.
+And don't loosen your grip.
+This is supposed to get your cock nice and ready for all that edging that is lying ahead of you.
+#Smile @SlideshowOn @Wait(60)
+#Stop @SlideshowOff
+#RelaxAndBreathe
+STAGE 1
+Round 2: Edging
+#Edge @EdgeNoHold
+Well done #PetName !
+Now the real fun starts. 
+#Edge @EdgeNoHold
+@NullResponse @Wait(30)
+#Edge @EdgeNoHold
+I hope you are not struggling yet. @Wait(25)
+#Edge @EdgeNoHold
+Are you beginning to detect a pattern here? @Wait(05)
+Yes, edges will come faster. @Wait(05)
+This is all about building you up in waves. @Wait(05)
+That doesn't mean you get to play safer with the edges. @Wait(05)
+#Edge @EdgeNoHold
+This is still a nice pace, isn't it? @Wait(05)
+Things will become exhausting, though. @Wait(05)
+So enjoy this while it lasts. Edge coming up. @Wait(05)
+#Edge @EdgeNoHold
+This stage has the least ammount of edging. So savor it.  @Wait(10)
+#Edge @EdgeNoHold
+Second to last edge already, #PetName ! @Wait(05)
+#Edge @EdgeNoHold
+I hope this gives you taste of what's to come. 
+You are going to LOVE Stage 2.
+STAGE 1
+Round 3: Balloning
+Let's give you a taste of this.
+Ballooning is about holding the edge, you know. 
+So maybe we should skip this rest. @EdgeMode(Goto, 4n48dkd)
+@RT(Stroke, Wank, Masturbate) to the #Edge and get ready to Hold
+While holding, you may only use three fingers.
+I'm so excited! Are you? @Wait(60)
+(4n48dkd)
+Hold with three fingers
+I'm going to take your fingers away one by one. @EdgeMode(Normal)
+You will just have to cope by being really fucking close.
+Hold with two fingers
+Oh, I'm sorry. I didn't warn you about this. 
+And I'm usually so good about giving a heads up. 
+Oh well. One finger coming up.
+Hold with one finger
+As this is the final of this stage, I want you to be super close when this stop.
+That way I know for sure that you did this round correctly. @SetLink(AV_Ballooning1)
+#Stop
+#RelaxAndBreathe @BookmarkModule
+@End
+@Stroking @Stroking #Stop @StopStroking 
+@Flag(av_fetish_pain) @CBTBalls
+@NotFlag(av_fetish_pain) @NullResponse @Wait(20)
+So, we can continue...
+@RT(Stroke, Wank, Masturbate) @PlayAudio[tease\Tri\sound2.mp3]
+We're going to start a bit slower, but the pace will pick up fast. @Wait( #Random(15, 30))
+The stroking round is shorter in this stage, just so you know. @Wait( #Random(15, 30))
+So put some effort into it, please. @Wait( #Random(15, 30))
+Faster beat now. @PlayAudio[tease\Tri\sound3.mp3]
+The grip has to be tight from now to the end of the round
+I know it's hard, but you can do it
+Get your PC muscle to stay tensed, Baby.
+You need all the prep you can get for what's to come.
+Which is... not you #Lol
+#Stop
+STAGE 2
+Round 2: Edging
+Get ready. This is the longest Edging segment
+#Edge @EdgeNoHold
+@NullResponse @Wait(30)
+This is my favorite speed.
+Treat it with respect and edge nicely, please.
+#Edge @EdgeNoHold @MultipleEdges( #Random(4, 5), 10, 100)
+Hang in there! 
+No mistakes now. You're so close to the finish line.
+#Edge @EdgeNoHold @MultipleEdges( #Random(5, 6), 7, 100)
+#RelaxAndBreathe
+STAGE 2
+Round 3: Balloning @EdgeMode(Goto, 38yds93)
+@RT(Stroke, Wank, Masturbate) to the #Edge and get ready to Hold
+You may only use three fingers to stay on the edge
+I'll be watching how many fingers touch your dick, #PetName!
+No cheating! @Wait(60)
+(38yds93)
+Hold with three fingers
+One, two, three. Okay, good! @EdgeMode(Normal)
+Get ready to lose that third finger... 
+You can always use less fingers, just so you know.
+Hold with two fingers
+One, two. Very nice.
+It's really exciting, sitting here and watching you. 
+Good thing I have snacks.
+Hold with one finger
+#Lol!
+Keep at it! This is what Balloning is all about.
+Next, I want you to be super close.
+Hold with full hand
+Grab your cock with your full hand now. 
+Tight grip.
+Stroke as slowly as you need to. 
+You can even not move it at all. 
+But hold the edge and grip tightly.
+2 fingers only after this.
+Hold with two fingers
+You are doing well. Would be a shame to lose the edge now
+You will go back to one finger after this.
+Hold with one finger.
+The finale of Stage 2 is coming up. 
+Next, you are only allowed to tap with one finger. 
+Don't lose the edge, leaky boy.
+Hold with Tapping
+Only short little taps.
+No rubbing. Good boy.
+Hold with one finger @SetLink(AV_Ballooning2)
+If you are super close and didn't need more fingers than you were allowed, you did it!
+#Stop @BookmarkModule
+@End
+@Stroking @Stroking #Stop @StopStroking
+You will be close to the edge pretty much this entire Stage. @Slideshow(Femdom, Lesbian)
+Start stroking slowly, get faster until you are near the edge, repeat. @PlayAudio[tease\cStroke.mp3]
+You may be able to stroke super fast for a long time.
+Then do that and torture your cock.
+You will be allowed to edge soon enough.
+Let me help you @SlideshowOn @Wait( #Random(40, 60))
+#Stop @SlideshowOff
+STAGE 3
+Round 2: Edging
+#Edge @EdgeNoHold
+@NullResponse @Wait(30)
+You will get less and less time to rest and edge.
+Promise.
+#Edge @EdgeNoHold
+@NullResponse @Wait(25)
+Your cock must be so rock hard right now. 
+Have you thought about whether or net you get to cum #GeneralTime?
+#Edge @EdgeNoHold
+@NullResponse @Wait(20)
+I'm sure you have.
+#Edge @EdgeNoHold
+@NullResponse @Wait(15)
+Was that edge close enough? Be honest now.
+Where were we? Oh yes, whether you could cum.
+#Edge @EdgeNoHold
+@NullResponse @Wait(10)
+This is much better than cuming, wouldn't you agree?
+#Edge @EdgeNoHold
+@NullResponse @Wait(05)
+Feel how hard you are. This is amazing.
+#Edge @EdgeNoHold
+You can't have this if you came recently. 
+#Edge @EdgeNoHold @MultipleEdges( #Random(5, 6), 5, 100)
+#RelaxAndBreathe @Wait(15)
+STAGE 3
+Round 3: Balloning @EdgeMode(Goto, bd92jsw)
+@RT(Stroke, Wank, Masturbate) to the #Edge and Hold
+Come on... @Wait(15)
+You should be close already  @Wait(60)
+(bd92jsw)
+You will be riding that edge now for a really long time.
+Your cock will not be happy after this. @EdgeMode(Normal)
+Hold with three fingers
+No accidents. Three fingers should be easy.
+You should be grateful I'm giving you this time to ease into it.
+You can guess what's coming up, can't you?
+Hold with 2 fingers @Wait(15)
+@Flag(av_fetish_pain) Slap your balls once a second to make me happy #Smile
+Hold with 1 finger
+You are getting the hang of this. 
+But don't get cocky.
+Hold with full hand
+Grab your cock with your full hand now, but do it lightly.
+Stay on the edge with the lightest of touch.
+2 fingers after this.
+Hold with 2 fingers
+Uhh, is that too much sensation for you? 
+Careful, don't go over!
+Oh and there are no fucking rests.
+1 finger coming up.
+Hold with 1 finger
+Now it's time to have some REAL fun.
+Next round, you only get to tap your cock 20 times
+Better be fucking close, #Slave!
+Hold with Tapping
+Tap tap tap, #Slave.
+20 taps maximum and super close at the end
+Hold with full hand
+Grab your cock TIGHTLY now.
+Do whatever it takes to stay on edge and not cum!
+2 fingers coming up.
+Hold with two fingers
+You will only be tapping next. I love it.
+Hold with Tapping
+I'm watching you closely. Tap tap tap.
+Hold with 2 fingers
+This is the Finale, #PetName.
+1 finger coming up.
+Hold with 1 finger
+Nice and close. The entire time.
+Oh, and by the way: tapping is awaits you.
+Hold with Tapping
+Don't ever rub, only tap. 
+That cum really wants out, right?
+Hold with 1 finger
+If you are really close, you made it.
+#Stop
+You made it #SubName
+I am so proud of you...
+@End
+(Modulo4)
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_Omeleg.txt)
+@NullResponse
+@End

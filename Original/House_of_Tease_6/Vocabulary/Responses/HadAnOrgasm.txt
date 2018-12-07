@@ -1,0 +1,6 @@
+[had an orgasm,i came,i orgasm]
+[All]
+@NullResponse @MiniScript(pvMs_HadAnOrgasm)
+@NullResponse @MiniScript(pvMs_HadAnOrgasm)
+@NullResponse @Interrupt(OpiateNPC)
+[All End]

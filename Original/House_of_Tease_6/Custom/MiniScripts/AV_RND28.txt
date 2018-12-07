@@ -1,0 +1,5 @@
+@NullResponse @TempFlag(AV_0RND28)
+@NullResponse @AddContact3
+@Contact3 @SystemMessage #Contact3 turned on the mic  @PlayAudio[tease\Glitter3\StrokeForMe01.mp3] @Wait(10)
+@NullResponse @RemoveContact3
+@End

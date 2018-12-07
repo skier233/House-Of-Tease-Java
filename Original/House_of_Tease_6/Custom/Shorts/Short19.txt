@@ -1,0 +1,21 @@
+@NullResponse @Timeout(5, 3dfgdpo)
+[aching, ache, hurting, hurt, hurts] @NullResponse @Goto(010)
+[horny, cum, desperate] @NullResponse @Goto(020)
+@AcceptAnswer Let's make that poor drippy dick drip some more..shall we?
+(3dfgdpo)
+@NullResponse
+@End
+(010)
+To be honest, I'm surprised that you've even lasted this long.
+@End
+(020)
+Is there anything that you want more right now other than having an earthshattering orgasm?
+[you, serve, obey, submit] #GoodBoy @MoodUp @Goto(Fim)
+[no] I expect you to know the rules by now and obey them
+@AcceptAnswer Too bad... I'm in complete control of your #Cock.
+@NullResponse @Chance50(Fim)
+@Variable[#DateDifference(AV_SessionTime,minutes)]>[50] @NullResponse @RemoveTeaseTime(8 Minutes)
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] @NullResponse @RemoveTeaseTime(10 Minutes)
+(Fim)
+@NullResponse
+@End

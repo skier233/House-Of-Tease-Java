@@ -1,0 +1,360 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGames3_NotFirstTime)
+@NullResponse @SetVar[AV_ModGames3]=[0] 
+@NullResponse @SetFlag(AV_ModGames3_NotFirstTime)
+(AV_ModGames3_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGames3]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGames3]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGames3]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGames3]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGames3]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGames3]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGames3]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGames3]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGames3]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGames3]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGames3]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGames3]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGames3]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGames3]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGames3]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGames3]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGames3]=[AV_ModGames3]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGames3]=[AV_ModGames3]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGames3]=[AV_ModGames3]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGames3]=[AV_ModGames3]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGames3]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking
+You know what?
+Looking at your #Balls I just realized 
+that we've completely neglected them.
+@NotFlag(av_fetish_pain) @NullResponse @Goto(Enough)		
+So for this part, let's do something about that.
+I want you to slap your balls for me.
+@CBTBalls
+@CBTBalls
+Did you like it?
+[yes] You're not really meant to like it. @Goto(YesLiked)
+[no] You know what? That's good. @Goto(NoLiked)
+@DifferentAnswer Yes or no #SubName?
+(YesLiked)
+I want you to whince with fear before a HARD slap.
+From now on I want you to raise your hand ever higher on HARD slaps.
+Got it?	@Goto(Enough)
+(NoLiked)
+The HARD slaps are supposed to make you flinch.
+You're not supposed to enjoy them. That's what makes them special.
+Got it?		
+(Enough)		
+Now, let's make you #Horny
+#Edge @EdgeNoHold @MultipleEdges(3, 8, 100)		
+I'm going to test your obedience.
+Grab a firm hold of your #Cock.
+DO NOT stroke.
+Just hold it.	
+@Flag(AV_Know_00) Keep holding. No #Stroking for #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg] 
+you want to stroke don't you?
+@Flag(AV_Know_01) Keep holding. No #Stroking for #Var[AV_Persona02] @ShowImage[av_imagens\03\*.jpg] 
+@Flag(AV_Know_12) Keep holding. No #Stroking for #Var[AV_Persona13] @ShowImage[av_imagens\01\*.jpg] 
+You want the pleasure. @PlayVideo[AV_Clips/webm/ruin003.webm]
+Your dick is begging to be stroked. 
+Ignore it! Show it who's in charge. @ShowBoobsImage
+And by that I mean me, not you. 
+Did you stroked it?
+[yes] I'm not impressed. In fact, I'm disappointed. @Goto(YesStroked)
+[no] Good boy. I knew you could do it. @Goto(NoStroked)
+@DifferentAnswer Yes or no #SubName?
+(YesStroked)
+Lift your dick, expose your balls 
+and give me 5 HARD slaps with the spoon. @Wait(10)
+@NullResponse @Goto(EnoughStroked)
+(NoStroked)
+As reward I want you to 
+@Flag(AV_DommeMistress) lift your dick, expose your balls and slap them 5 SOFT times.
+@NotFlag(AV_DommeMistress) #Edge @EdgeNoHold
+(EnoughStroked)
+#ThatsEnough
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking
+@NullResponse @RapidCodeOn
+@Flag(AV_Know_00) @NullResponse @Goto(CrushesOK1)
+#1_ST_Tease @RandomModule
+(CrushesOK1)
+@Flag(AV_Know_12) @NullResponse @Goto(CrushesOK2)
+#1_ST_Tease @RandomModule
+(CrushesOK2)
+@Flag(AV_Know_01) 
+@NullResponse @Goto(CrushesOK3)
+#1_ST_Tease @RandomModule
+(CrushesOK3)
+Cast your mind back. 
+Who was the first ever celebrity you had a crush on? 
+What was it about them that you liked so much? 
+Which celebrity right now would you most like to be your mistress? 
+1- #Var[AV_Persona02] @ShowImage[av_imagens\03\*.jpg] 
+2- #Var[AV_Persona01] @ShowImage[av_imagens\02\*.jpg] 
+3- Maybe #Var[AV_Persona13] overcomes all your dreams @ShowImage[av_imagens\01\*.jpg]
+[1] Either way, I want you to truly @RandomText(admire, worship) her. @Goto(AV_Crush1)
+[2] Either way, I want you to truly @RandomText(admire, worship) her. @Goto(AV_Crush2)
+[3] Either way, I want you to truly @RandomText(admire, worship) her. @Goto(AV_Crush3)
+@AcceptAnswer 1, 2 or 3 #SubName?
+(AV_Crush1)
+Look at #Var[AV_Persona02]. @ShowImage[av_imagens\03\*.jpg] 
+She is one hot slut @ShowImage[av_imagens\03\*.jpg] 
+we could have made out on the floor of the studio right after she recorded something  @ShowImage[av_imagens\03\*.jpg]  
+#StartStroking 
+With all these images flashing by it's easy to miss fine details. @ShowImage[av_imagens\03\*.jpg]  
+This is my favorite picture of her. @ShowImage[av_imagens\03\*.jpg]  
+Doesn't she look hot? @ShowImage[av_imagens\03\*.jpg]  
+Look at her posture. @ShowImage[av_imagens\03\*.jpg]  
+I love the expression in her face. @ShowImage[av_imagens\03\*.jpg]  
+It's like she's saying: "I know exactly how hot I am. You've got no chance with me. @ShowImage[av_imagens\03\*.jpg]  
+It's time for you to show her some gratitude. @ShowImage[av_imagens\03\*.jpg]  
+Just look at that hair. @ShowImage[av_imagens\03\*.jpg]  
+That dress is so amazing on her. @ShowImage[av_imagens\03\*.jpg]  
+Let your eyes wander down her cleavage and edge once for each breast. @EdgeNoHold @ShowImage[av_imagens\03\*.jpg]  
+Again @EdgeNoHold @ShowImage[av_imagens\03\*.jpg]  
+Edge imagining her pussy. @EdgeNoHold @ShowImage[av_imagens\03\*.jpg]  
+She would never show you it, so you will have to imagine. @ShowImage[av_imagens\03\*.jpg]  
+Finally I want you to admire her as a whole. @ShowImage[av_imagens\03\*.jpg]  
+Look at her face. @ShowImage[av_imagens\03\*.jpg]  
+She know's you're a dirty little slutboy. @ShowImage[av_imagens\03\*.jpg]  
+Prove her right by edging @EdgeNoHold @ShowImage[av_imagens\03\*.jpg]  
+#ThatsEnough @Goto(EndBecBug)
+@End
+(AV_Crush2)
+Look at #Var[AV_Persona01]. @ShowImage[av_imagens\02\*.jpg] 
+She is one hot slut @ShowImage[av_imagens\02\*.jpg] 
+we could have made out on the floor of the studio right after she recorded something  @ShowImage[av_imagens\02\*.jpg]  
+#StartStroking 
+With all these images flashing by it's easy to miss fine details. @ShowImage[av_imagens\02\*.jpg]  
+This is my favorite picture of her. @ShowImage[av_imagens\02\*.jpg]  
+Doesn't she look hot? @ShowImage[av_imagens\02\*.jpg]  
+Look at her posture. @ShowImage[av_imagens\02\*.jpg]  
+I love the expression in her face. @ShowImage[av_imagens\02\*.jpg]  
+It's like she's saying: "I know exactly how hot I am. You've got no chance with me. @ShowImage[av_imagens\02\*.jpg]  
+It's time for you to show her some gratitude. @ShowImage[av_imagens\02\*.jpg]  
+Just look at that hair. @ShowImage[av_imagens\02\*.jpg]  
+That dress is so amazing on her. @ShowImage[av_imagens\02\*.jpg]  
+Let your eyes wander down her cleavage and edge once for each breast. @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]  
+Again @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]  
+Edge imagining her pussy. @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]  
+She would never show you it, so you will have to imagine. @ShowImage[av_imagens\02\*.jpg]  
+Finally I want you to admire her as a whole. @ShowImage[av_imagens\02\*.jpg]  
+Look at her face. @ShowImage[av_imagens\02\*.jpg]  
+She know's you're a dirty little slutboy. @ShowImage[av_imagens\02\*.jpg]  
+Prove her right by edging @EdgeNoHold @ShowImage[av_imagens\02\*.jpg]  
+#ThatsEnough @Goto(EndBecBug)
+@End	
+(AV_Crush3)
+Look at #Var[AV_Persona13]. @ShowImage[av_imagens\01\*.jpg] 
+She is one hot slut @ShowImage[av_imagens\01\*.jpg]  
+#StartStroking 
+With all these images flashing by it's easy to miss fine details. @ShowImage[av_imagens\01\*.jpg]  
+This is my favorite picture of her. @ShowImage[av_imagens\01\*.jpg]  
+Doesn't she look hot? @ShowImage[av_imagens\01\*.jpg]  
+Look at her posture. @ShowImage[av_imagens\01\*.jpg]  
+I love the expression in her face. @ShowImage[av_imagens\01\*.jpg]  
+It's like she's saying: "I know exactly how hot I am. You've got no chance with me. @ShowImage[av_imagens\01\*.jpg]  
+It's time for you to show her some gratitude. @ShowImage[av_imagens\01\*.jpg]  
+Just look at that hair. @ShowImage[av_imagens\01\*.jpg]  
+That dress is so amazing on her. @ShowImage[av_imagens\01\*.jpg]  
+Let your eyes wander down her cleavage and edge once for each breast. @EdgeNoHold @ShowImage[av_imagens\01\*.jpg]  
+Again @EdgeNoHold @ShowImage[av_imagens\01\*.jpg]  
+Edge imagining her pussy. @EdgeNoHold @ShowImage[av_imagens\01\*.jpg]  
+She would never show you it, so you will have to imagine. @ShowImage[av_imagens\01\*.jpg]  
+Finally I want you to admire her as a whole. @ShowImage[av_imagens\01\*.jpg]  
+Look at her face. @ShowImage[av_imagens\01\*.jpg]  
+She know's you're a dirty little slutboy. @ShowImage[av_imagens\01\*.jpg]  
+Prove her right by edging @EdgeNoHold @ShowImage[av_imagens\01\*.jpg]  
+#ThatsEnough
+@End
+(EndBecBug)
+#RelaxAndBreathe
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking
+Game time!
+I'm going to pick a number.
+You're also going to pick a number.
+If you pick a number lower than mine then you have to stroke the difference.
+If you pick a number higher than mine then you have to slap your balls.
+Finally, if we pick the same number, you get to edge for me. @SetVar[AV_RamdomResult]=[0]
+I will pick a rounded random number @DeleteVar[AV_Ramdom1]
+Let's try @SetVar[AV_Ramdom1]=[#RandomRound10(10, 50)] 
+Choose a number between 10 and 50 @InputVar[AV_UserNumber1]
+I picked #Var[AV_Ramdom1]
+You picked #Var[AV_UserNumber1] @RapidCodeOn
+@NullResponse @If[AV_Ramdom1]=[AV_UserNumber1]Then(Edge1)
+@NullResponse @If[AV_Ramdom1]>[AV_UserNumber1]Then(Stroke1)
+@NullResponse @If[AV_Ramdom1]<[AV_UserNumber1]Then(Slap1)
+(Edge1)
+#Edge @EdgeNoHold
+@NullResponse @Goto(AVRound2)
+(Stroke1)
+@NullResponse @ChangeVar[AV_RamdomResult]=[AV_Ramdom1]-[AV_UserNumber1]
+#Stroke #Var[AV_RamdomResult] times
+@NullResponse @Goto(AVRound2)
+(Slap1)
+@NullResponse @ChangeVar[AV_RamdomResult]=[AV_Ramdom1]-[AV_UserNumber1]
+Slap you #Balls #Var[AV_RamdomResult] times
+@NullResponse @Goto(AVRound2)
+(AVRound2)
+I know it's easy to pick a low number to stroke
+So, let's make it hard for you to #Stroke in the next round
+#Edge @EdgeNoHold @MultipleEdges(5, 10, 100)
+Let's try again @SetVar[AV_RamdomResult]=[0]
+@NullResponse RapidCodeOn
+@NullResponse @SetVar[AV_RamdomRounds]=[#Random(3, 6)] 
+@NullResponse @Goto(AV_Round2Start)
+(Round2Loop)
+@NullResponse RapidCodeOn
+@NullResponse @ChangeVar[AV_RamdomRounds]=[AV_RamdomRounds]-[1]
+@NullResponse @If[AV_RamdomRounds]=[0]Then(AVRound3)
+(AV_Round2Start)
+@NullResponse @SetVar[AV_Ramdom1]=[#RandomRound10(10, 100)] 
+Choose a number between 10 and 100 @InputVar[AV_UserNumber1]
+I picked #Var[AV_Ramdom1]
+You picked #Var[AV_UserNumber1] @RapidCodeOn
+@NullResponse @If[AV_Ramdom1]=[AV_UserNumber1]Then(Edge2)
+@NullResponse @If[AV_Ramdom1]>[AV_UserNumber1]Then(Stroke2)
+@NullResponse @If[AV_Ramdom1]<[AV_UserNumber1]Then(Slap2)
+(Edge2)
+#Edge @EdgeNoHold
+@NullResponse @Goto(Round2Loop)
+(Stroke2)
+@NullResponse @ChangeVar[AV_RamdomResult]=[AV_Ramdom1]-[AV_UserNumber1]
+#Stroke #Var[AV_RamdomResult] times
+@NullResponse @Goto(Round2Loop)
+(Slap2)
+@NullResponse @ChangeVar[AV_RamdomResult]=[AV_Ramdom1]-[AV_UserNumber1]
+Slap you #Balls #Var[AV_RamdomResult] times
+@NullResponse @Goto(Round2Loop)
+(AVRound3)
+Now...
+Do you know what the PC muscle is?
+[yes] #Good @Goto(PCMuscle)
+[no] The PuboCoccygeus muscle is situated between your ballsack and your anus.
+@DifferentAnswer Yes or no #SubName?
+It's the muscle that makes your dick throb.
+Try clenching your ass and you might feel it.
+(PCMuscle)
+For this round you're going to work your PC muscle
+Basically, you will throb alot.
+#Random(3, 5) contractions @Wait(10)
+#Random(3, 5) contractions @Wait(10)
+#Random(3, 5) contractions @Wait(10)
+#Edge @EdgeNoHold
+Now, Contract and hold. @Wait(15)
+1 contraction every 2 seconds. @Wait(20)
+#Edge @EdgeNoHold
+#Random(3, 5) contractions @Wait(10)
+#Random(3, 5) contractions @Wait(10)
+Now, Contract and hold. @Wait(15)
+#ThatsEnough
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking
+@Flag(AV_Pins) Remove all the clothespins @Wait(10)
+@NotFlag(AV_PinDone) Go fetch me some clothespins. At least 10 of them. @Wait(20)
+#AV_Break1 @DeleteFlag(AV_Pins)
+#Contact3 will take care of you for a minutes @AddContact3
+@Contact3 Hands off your #Cock #SubName!
+@Contact3 I want you to remember that you and your #Cock are my property now
+@Contact3 #Okay, now run slowly with your hand over your #Balls
+@Contact3 Imagine it would be me showing you how helpless you are. 
+@Contact3 You are completely at my mercy now and I make you feel my power over you.
+@Contact3 Now #StartStroking
+@Contact3 while looking at me and thinking about my undeniable superiority to you and your impotence.
+@Contact3 I'm in the mood to make you horny a bit now.
+@Contact3 @CustomTask(AV_StrokeNumberGliter3)
+@Contact3 Play with your nipples without wanking a bit 
+@Contact3 Put a clothespin on both niples @Wait(10)
+@Contact3 Now I allow you to stroke your cock to the edge. 
+@Contact3 But don't dare to come
+@Contact3 #Edge @EdgeNoHold
+@NullResponse @CustomTask(AV_CBT_Gliter3)
+@Contact3 Are you looking forward to wank your #Cock? Are you really horny?
+@Contact3 #StartStroking
+@Contact3 So you have been obedient? 
+@Contact3 Here comes my offer: 
+@Contact3 I will lead you to your pain barriers 
+@Contact3 and enjoy your pathetic look 
+@Contact3 This is how the game works: 
+@Contact3 we will put all the remaining 8 clothespins on your #Balls
+@Contact3 And you will give me a edge between each clothespin
+@Contact3 Are you ready? 
+@Contact3 Then let's get started! @TempFlag(av_intera_012)
+@Contact3 Put 1 clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 Clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 Now you should be on your knees #Slave.
+@Contact3 Clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 Clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 By now your cock will begin to leak precum.  
+@Contact3 Your #Balls and bottom will both be exposed and completely vulnerable
+@Contact3 Clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 Clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 Your head must be spinning with sensations like never before
+@Contact3 Clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 Clothespin on your #Balls @Wait(15)
+@Contact3 #Edge @EdgeNoHold
+@Contact3 So, all 8 are on? #Good @DeleteFlag(av_intera_012)
+@Contact3 That's a good little #Slave. 
+@Contact3 Now, you can remove all clothespins and sit. 
+@Contact3 I'm done with you. 
+@NullResponse @RemoveContact3
+@End

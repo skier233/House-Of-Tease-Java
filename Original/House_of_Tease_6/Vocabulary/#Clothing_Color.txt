@@ -1,0 +1,15 @@
+red
+orange
+yellow
+green
+blue
+purple
+black
+white
+grey
+pink
+light blue
+mint green
+cheetah print
+leopard print
+animal print

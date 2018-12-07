@@ -1,0 +1,159 @@
+@Group(D1) @Contact1 #Stop @StopStroking
+@Group(D2) @Contact2 #Stop @StopStroking
+@Group(D3) @Contact3 #Stop @StopStroking
+@NullResponse @RapidCodeOn
+@Flag(AV_GlitterJoin1) @NullResponse @Goto(01)
+@Flag(AV_GlitterJoin2) @NullResponse @Goto(02)
+@Flag(AV_GlitterJoin3) @NullResponse @Goto(03)
+(01)
+@NullResponse @RapidCodeOn
+@Flag(AV_GLRD01) @NullResponse @DeleteFlag(AV_GLRD01) @Goto(GL002)
+@Flag(AV_GLRD02) @NullResponse @DeleteFlag(AV_GLRD02) @Goto(GL001)
+@NullResponse @Goto(GL001, GL002)
+(GL001)
+@Contact1 #SubName, I want to control your #Cock @TempFlag(AV_GLRD01)
+@Contact1 control whether you get pleasure or not. 
+@Contact1 And I know you'll do whatever I say @Goto(Glitter01)
+(GL002)
+@Contact1 I love teasing and denying you, keeping you on edge @TempFlag(AV_GLRD02)
+@Contact1 fucking with your mind, controlling your #Cock. @Goto(Glitter01)
+(02)
+@NullResponse @RapidCodeOn
+@Flag(AV_GLRD03) @NullResponse @DeleteFlag(AV_GLRD03) @Goto(GL004)
+@Flag(AV_GLRD04) @NullResponse @DeleteFlag(AV_GLRD04) @Goto(GL003)
+@NullResponse @Goto(GL003, GL004)
+(GL003)
+@Contact2 I know how desperate you are, I know how weak and pathetic you are. @TempFlag(AV_GLRD03)
+@Contact2 But I don't care how fucked up you are
+@Contact2 in fact, I don't give a fuck about you, you just love that I'm a bratty bitch and I tell you like it is. @Goto(Glitter02)
+(GL004)
+@Contact2 Every stroke making you dumber and dumber because you're a helpless little jerkoff addict. @TempFlag(AV_GLRD04)
+@Contact2 My helpless little jerkoff addict.
+@Contact2 And the closer you get to cumming, well it just gets better and better, #LOL! @Goto(Glitter02)
+(03)
+@NullResponse @RapidCodeOn
+@Flag(AV_GLRD05) @NullResponse @DeleteFlag(AV_GLRD05) @Goto(GL006)
+@Flag(AV_GLRD06) @NullResponse @DeleteFlag(AV_GLRD06) @Goto(GL005)
+@NullResponse @Goto(GL005, GL006)
+(GL005)
+@Contact3 I know your kind. @TempFlag(AV_GLRD05)
+@Contact3 You're @RT(a mindless milking machine, fucking freak).
+@Contact3 A pathetic peace of meat who cum on command! @Goto(Glitter03)
+(GL006)
+@Contact3 Look at you #Slave @TempFlag(AV_GLRD06)
+@Contact3 You fuck your hand like a maniac 
+@Contact3 And the more I tease you, the more I edge you, the more submissive you are! @Goto(Glitter03)
+(Glitter01)
+@NullResponse @Goto(01Tak01, 01Tak02, 01Tak03, 01Tak04)
+(01Tak01)
+@Contact1 @RT(I think I want to add some edges, A few edges) to make that hard for you
+@Contact1 #Edge @EdgeNoHold @MultipleEdges( #Random(2, 3), 15, 100)
+@Contact1 Now, when you get back to #Stroking...
+@Contact1 Let's see if you can stay away from the edge...
+@NullResponse @Goto(End)
+(01Tak02)
+@Contact1 This @RT(metronome, beats) are boring
+@Contact1 Let's try @RT(a few, some) overdrives...
+@Contact1 Follow the @RT(beats, overdrive) @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 35))
+@Contact1 #Stop @Wait( #Random(10, 25))
+@Contact1 Follow the @RT(beats, overdrive) @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 35))
+@Contact1 #Stop @Wait( #Random(10, 25))
+@NullResponse @Chance75(End02Tak04)
+@Contact1 Follow the @RT(beats, overdrive) @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 35))
+@Contact1 #Stop @Wait( #Random(10, 15))
+(End02Tak04)
+@Contact1 #ThatsEnough
+@NullResponse @Goto(End)
+(01Tak03)
+@Contact1 I think I want @RT(a few, some) #Strokes just for me
+@Contact1 @CustomTask(AV_StrokeNumber)
+@NullResponse @Chance50(End01Tak03)
+@Contact1 Let's try something different
+@Contact1 @CustomTask(Strokes)
+(End01Tak03)
+@Contact1 #ThatsEnough
+@NullResponse @Goto(End)
+(01Tak04)
+@Contact1 @RT(You are #Stroking too much, Enough #Stroking for now)...
+@NotFlag(AV_PinDone) @Contact1 Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Contact1 I think I need to be a little @RT(hard, harsh) with you too...
+@Contact1 Let's take care of that #Balls ...get the spoon ready...
+@Contact1 @PlayAudio[tease\spank\Spank**.mp3] @Wait(20)
+@Contact1 Again...
+@Contact1 @PlayAudio[tease\spank\Spank**.mp3] @Wait(20)
+@Contact1 #ThatsEnough
+@Contact1 @Goto(End)
+---
+(Glitter02)
+@NullResponse @Goto(02Tak01, 02Tak02, 02Tak03, 02Tak04)
+(02Tak01)
+@Contact2 @RT(You are #Stroking too much, Enough #Stroking for now)...
+@NotFlag(AV_PinDone) @Contact2 Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Contact2 Let's take care of that #Balls ...get the spoon ready...
+@Contact2 @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+@Contact2 Again...
+@Contact2 @PlayAudio[tease\G2Spank\*.mp3] @Wait(20)
+@Contact2 #ThatsEnough
+@NullResponse @Goto(End)
+(02Tak02)
+@Contact2 @RT(You are #Stroking too much, Enough #Stroking for now)...
+@Contact2 Let's @RT(punish, hurt) that #Cock now...
+@Contact2 @CBTCock
+@Contact2 #ThatsEnough
+@NullResponse @Goto(End)
+(02Tak03)
+@Contact2 @RT(I think I want to add some edges, A few edges) to make that hard for you
+@Contact2 #Edge @EdgeNoHold @MultipleEdges( #Random(3, 4), 15, 100)
+@Contact2 Now, when you get back to #Stroking...
+@Contact2 Let's see if you can stay away from the edge...
+@NullResponse @Goto(End)
+(02Tak04)
+@Contact2 This @RT(metronome, beats) are boring
+@Contact2 Let's try @RT(a few, some) overdrives...
+@Contact2 Follow the @RT(beats, overdrive) @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 35))
+@Contact2 #Stop @Wait( #Random(10, 25))
+@Contact2 Follow the @RT(beats, overdrive) @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 35))
+@Contact2 #Stop @Wait( #Random(10, 25))
+@NullResponse @Chance50(End02Tak04)
+@Contact2 Follow the @RT(beats, overdrive) @PlayAudio[tease\StrokePattern\overdrive*.mp3] @Wait( #Random(20, 35))
+@Contact2 #Stop @Wait( #Random(10, 15))
+(End02Tak04)
+@Contact2 #ThatsEnough
+@NullResponse @Goto(End)
+---
+(Glitter03)
+@NullResponse @Goto(03Tak01, 03Tak02, 03Tak03, 03Tak04)
+(03Tak01)
+@Contact3 @RT(You are #Stroking too much, Enough #Stroking for now)...
+@NotFlag(AV_PinDone) @Contact3 Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Contact3 Stand up and bend over...
+@Contact3 Let's take care of that ass...get the spoon ready...
+@Contact3 @CustomTask(Spanking)
+@Contact3 #ThatsEnough
+@Contact3 #SitDown
+@NullResponse @Goto(End)
+(03Tak02)
+@Contact3 @RT(You are #Stroking too much, Enough #Stroking for now)...
+@NotFlag(AV_PinDone) @Contact3 Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Contact3 Let's take care of that #Balls ...get the spoon ready...
+@Contact3 @CBTBalls
+@Contact3 #ThatsEnough
+@NullResponse @Goto(End)
+(03Tak03)
+@Contact3 @RT(You are #Stroking too much, Enough #Stroking for now)...
+@NotFlag(AV_PinDone) @Contact3 Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) @SetFlag(AV_PinDone)
+@Contact3 Let's take care of that #Balls ...get the spoon ready...
+@Contact3 @PlayAudio[tease\G3Spank\*.mp3] @Wait(20)
+@Contact3 Again...
+@Contact3 @PlayAudio[tease\G3Spank\*.mp3] @Wait(20)
+@Contact3 #ThatsEnough
+@NullResponse @Goto(End)
+(03Tak04)
+@Contact3 @RT(I think I want to add some edges, A few edges) to make that hard for you
+@Contact3 #Edge @EdgeNoHold @MultipleEdges( #Random(3, 5), 10, 100)
+@Contact3 Now, when you get back to #Stroking...
+@Contact3 Let's see if you can stay away from the edge...
+@NullResponse @Goto(End)
+(End)
+@RT(So, Well), @RT(Let's see, I hope you) @RT(still can #Stroke, can keep the #Stroking now)
+@End

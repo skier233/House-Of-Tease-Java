@@ -1,0 +1,8 @@
+What contact we need to remove? @SlideshowOff
+[0, none] ok
+[1] Removing #Contact1  @RemoveContact1
+[2] Removing #Contact2  @RemoveContact2
+[3] Removing #Contact3  @RemoveContact3
+@DifferentAnswer 0, 1, 2 or 3?
+Fixed
+@End

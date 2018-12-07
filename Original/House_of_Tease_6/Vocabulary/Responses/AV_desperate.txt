@@ -1,0 +1,48 @@
+[I am desperate, I am despairing, I am hopeless, I am anguished, I am distressed, I am wretched, I am desolate, i'm desperate, i'm going crazy, i am going crazy, I'm despairing, I'm hopeless, I'm anguished, I'm distressed, I'm wretched, I'm desolate]
+[Before Tease]
+But we haven't even started yet #EmoteLaugh
+[Before Tease End]
+[First Round]
+If you're desperate already, I'm about to have some <i>real</i> fun #EmoteLaugh
+Not as bad as you're about to be #EmoteLaugh
+[First Round End]
+[Stroking]
+@NotFlag(AV_Short29) @NullResponse @CallReturn(Custom\Shorts\Short29.txt)
+@NotFlag(AV_Short35) @NullResponse @CallReturn(Custom\Shorts\Short35.txt)
+That turns me on so much #EmoteRandom
+@Flag(AV_DommeMistress) You think <i>this</i> is desperate? Don't make me laugh #EmoteRandom
+@BadMood You think <i>this</i> is desperate? Don't make me laugh #EmoteRandom
+I guess we're going to have to do something about this. @MiniScript(AV_DesperateProp) 
+That turns me on so much #EmoteRandom @CallReturn(Custom\Shorts\Short03.txt)
+That turns me on so much #EmoteRandom @CallReturn(Custom\Shorts\Short04.txt)
+[Stroking End]
+[Not Stroking]
+@Flag(av_intera_001) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_002) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_009) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_010) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_008) @NullResponse @CallReturn(Custom\Interact\AV_Gen03.txt)
+@Flag(av_intera_013) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_015) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_016) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_017) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_018) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_019) @NullResponse @CallReturn(Custom\Interact\AV_EdgeInter.txt)
+@NotFlag(av_intera_001, av_intera_002, av_intera_003, av_intera_004, av_intera_005, av_intera_006, av_intera_007, av_intera_008, av_intera_009, av_intera_010, av_intera_011, av_intera_012, av_intera_013, av_intera_014, av_intera_015, av_intera_016, av_intera_017, av_intera_018, av_intera_019) @NullResponse
+[Not Stroking End]
+[Edging]
+That turns me on so much #EmoteRandom
+@Flag(AV_DommeMistress) You think <i>this</i> is desperate? Don't make me laugh #EmoteRandom
+@BadMood You think <i>this</i> is desperate? Don't make me laugh #EmoteRandom
+I guess we're going to have to do something about this. @MiniScript(AV_DesperateProp) 
+[Edging End]
+[Holding The Edge]
+[Holding The Edge End]
+[CBT Cock]
+[CBT Cock End]
+[CBT Balls]
+[CBT Balls End]
+[Chastity]
+[Chastity End]
+[After Tease]
+[After Tease End]

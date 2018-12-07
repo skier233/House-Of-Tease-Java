@@ -1,0 +1,207 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking #SubName @StopStroking
+(Sub Not Stroking)
+#RelaxAndBreathe #PetName @RapidCodeOn
+@NullResponse @CheckFlag(AV_RuinHorny)
+@NullResponse @Goto(NoRuin)
+(AV_RuinHorny)
+@NullResponse @If[AV_RuinHorny]=[0]Then(Part1_1)
+@NullResponse @If[AV_RuinHorny]=[1]Then(Part1_2)
+@NullResponse @If[AV_RuinHorny]=[10]Then(Part1_3)
+@NullResponse @If[AV_RuinHorny]=[100]Then(Part1_4)
+@NullResponse @If[AV_RuinHorny]=[11]Then(Part1_6)
+@NullResponse @If[AV_RuinHorny]=[101]Then(Part1_7)
+@NullResponse @If[AV_RuinHorny]=[111]Then(Part1_12)
+@NullResponse @If[AV_RuinHorny]=[110]Then(Part1_9)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_6)
+@NullResponse @Goto(Mod3)
+(Part1_7)
+@NullResponse @Goto(Mod2)
+(Part1_9)
+@NullResponse @Goto(Mod1)
+(Part1_12)
+@NullResponse @Goto(NoRuin)
+(Mod1)
+@NullResponse @SetModule(AV_RuinHorny1)
+@NullResponse @Goto(NoRuin)
+(Mod2)
+@NullResponse @SetModule(AV_RuinHorny2)
+@NullResponse @Goto(NoRuin)
+(Mod3)
+@NullResponse @SetModule(AV_RuinHorny3)
+@NullResponse @Goto(NoRuin)
+(NoRuin)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance20(Ramdomhappy)
+@NullResponse @Chance20(Ramdomangry)
+@NullResponse @Chance20(Ramdomhorny) 
+@NullResponse @Goto(NoRamdom)
+(Ramdomhappy)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_DommeBom]=[AV_DommeBom]+[1]
+@NullResponse @Chance20(Ramdomangry)
+@NullResponse @Chance20(Ramdomhorny) 
+@NullResponse @Goto(NoRamdom)
+(Ramdomangry)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_DommeRuim]=[AV_DommeRuim]+[1]
+@NullResponse @Chance20(Ramdomhorny) 
+@NullResponse @Goto(NoRamdom)
+(Ramdomhorny) 
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_DommeHorny]=[AV_DommeHorny]+[1]
+(NoRamdom)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_DommeBom]>[10]Then(happy2)
+@NullResponse @If[AV_DommeBom]>[3]Then(happy1) 
+@NullResponse @Goto(continue1)
+(happy1) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHappy1)
+@NullResponse @Goto(continue1)
+(happy2) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHappy2)
+@NullResponse @Goto(continue1)
+(continue1)
+@NullResponse  @RapidCodeOn
+@NullResponse @If[AV_DommeRuim]>[10]Then(angry2)
+@NullResponse @If[AV_DommeRuim]>[3]Then(angry1) 
+@NullResponse @Goto(continue2)
+(angry1) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeAngry1)
+@NullResponse @Goto(continue2)
+(angry2) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeAngry2)
+@NullResponse @Goto(continue2)
+(continue2)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_DommeHorny]>[10]Then(horny2)
+@NullResponse @If[AV_DommeHorny]>[3]Then(horny1) 
+@NullResponse @Goto(continue3)
+(horny1) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHornie1)
+@NullResponse @Goto(continue3)
+(horny2) 
+@NullResponse @RapidCodeOn
+@NullResponse @TempFlag(AV_DommeHornie2)
+@NullResponse @Goto(continue3)
+(continue3)
+@NullResponse @RapidCodeOn 
+@Flag(AV_DecOrg) @NullResponse @Goto(SMood2)
+@NullResponse @SetFlag(AV_DecOrg)
+@BadMood @NullResponse @DecreaseOrgasmChance
+(SMood2)
+@NullResponse @RapidCodeOn 
+@Flag(AV_IncRuin) @NullResponse @Goto(SMood3)
+@NullResponse @SetFlag(AV_IncRuin)
+@BadMood @NullResponse @IncreaseRuinChance
+(SMood3)
+@NullResponse @RapidCodeOn 
+@Flag(AV_IncOrg) @NullResponse @Goto(SMood4) 
+@NullResponse @SetFlag(AV_IncOrg)
+@GoodMood @NullResponse @IncreaseOrgasmChance
+(SMood4)
+@NullResponse @RapidCodeOn 
+@Flag(AV_DecRuin) @NullResponse @Goto(continue3b)
+@NullResponse @SetFlag(AV_DecRuin)
+@GoodMood @NullResponse @DecreaseRuinChance 
+(continue3b)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_SubKnees)
+@NullResponse @Goto(continue4)
+(AV_SubKnees)
+Alright you can get back on your chair @DeleteFlag(AV_SubKnees)
+(continue4)
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Pins)
+@NullResponse @Goto(SkipPins)
+(AV_Pins)
+You can remove all clothespins @DeleteFlag(AV_Pins)
+(SkipPins)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance90(continue5)	
+@Flag(AV_PositionSecDone) @NullResponse @CallReturn(Custom\CallReturn\AV_GoToPosit.txt) 
+@NullResponse 
+(continue5)
+@NullResponse @Chance95(continue6)	
+@NotFlag(AV_DisconectOnce) @NullResponse @CallReturn(Custom\CallReturn\AV_Disconnect.txt)
+(continue6)	
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_DommeMistress)
+@NullResponse @Chance80(AV_DommeMistress)
+@NullResponse @Chance50(AV_Opcao2)
+What I want @RT(now, today) is a slave, a toy that I can @RT(use, play with), someone who will do ANYTHING I @RT(tell them, demand)
+I guess I have a sadistic streak after all. @Goto(Pergunta)
+(AV_Opcao2)
+I think deep down you were hoping I would see your devotion and desire
+But I already had other plans. I want a slave.
+Someone who I could @RT(control, use for my pleasure, abuse) and they'd still come crawling back, desperate to worship me. 
+(Pergunta)
+You need to make a decision do you want to commit to being my slave today?
+[yes] Ok, I am glad you have agreed @Call(Custom\AV_Scripts\AV_Mistress.txt, youslave)
+[no] You don't? @Goto(AV_DommeMistress)
+@DifferentAnswer Yes or no #SubName?  
+(AV_DommeMistress)
+@NullResponse @RapidCodeOn
+@NullResponse @Chance80(AV_NoPosi)
+@NotFlag(AV_PositionSecDone) @NullResponse @CallReturn(Custom\CallReturn\AV_Positions.txt)
+@End
+(AV_NoPosi)
+@NullResponse @Chance30(CrushesAV)
+@NullResponse @Chance40(EdgeAV)
+I @RT(think I'll take, need to take) a @RT(short break, break, pause, short pause)
+#AV_Luxury
+@RT(Good thing, Thankfully) you have some @RT(porn videos, videos, nice videos) on your @RT(PC, computer)
+Stroke to the beat #Grin
+Have fun @PlayVideo 
+#CensorContinue
+@End
+(CrushesAV)
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+@NullResponse
+@End
+(EdgeAV)
+#StartStroking @Slideshow(Softcore, slow)
+@NullResponse  @SlideshowOn 
+@NullResponse  @Wait( #Random(15, 20))
+#Edge @EdgeMode(Goto, EdgeForGoto)
+@NullResponse @SlideshowOff 
+(Loop)
+#GetClose
+@NullResponse 
+@NullResponse 
+@NullResponse  @Goto(Loop)
+(EdgeForGoto)
+@NullResponse @RapidCodeOn 
+@NullResponse @Goto(V10, V15, V60)
+(V10)
+stay on the edge @PlayVideo[AV_Clips/webm/10/*.webm]
+#StopStroking @Goto(FimEdge)
+(V15)
+stay on the edge @PlayVideo[AV_Clips/webm/15/*.webm]
+#StopStroking @Goto(FimEdge)
+(V60)
+stay on the edge @PlayVideo[AV_Clips/webm/60/*.webm]
+#StopStroking @Goto(FimEdge)
+(FimEdge)
+@NullResponse @EdgeMode(Normal)
+@End
+@Info Control file to run
+@Info some variables and
+@Info check for conditions
+@Info Some lines at the end
+@Info to prevent errors
+@Info by avatarbr

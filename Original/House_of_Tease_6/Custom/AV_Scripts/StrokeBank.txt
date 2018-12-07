@@ -1,0 +1,67 @@
+#StopStroking @StopStroking @CheckFlag(AV_StrokeBankON)
+This is a little game I like to call Stroke Bank
+You will stroke for various pictures 
+with a allowed number of strokes for #Picture 
+I will put some beats in special pictures worth some number of strokes
+@NullResponse @GotoDommeLevel  @RapidCodeOn
+(DommeLevel1)
+@NullResponse @SetVar[AV_BankGoal]=[500]
+@NullResponse  @Goto(Continue)
+(DommeLevel2)
+@NullResponse  @SetVar[AV_BankGoal]=[700]
+@NullResponse @Goto(Continue)
+(DommeLevel3)
+@NullResponse  @SetVar[AV_BankGoal]=[700]
+@NullResponse  @Goto(Continue)
+(DommeLevel4)
+@NullResponse  @SetVar[AV_BankGoal]=[800]
+@NullResponse @Goto(Continue)
+(DommeLevel5)
+@NullResponse  @SetVar[AV_BankGoal]=[900]
+@NullResponse @Goto(Continue)
+(Continue)
+Your goal is #Var[AV_BankGoal] strokes
+@NullResponse @SetFlag(AV_StrokeBankON)
+@End
+(AV_StrokeBankON)
+TEXTO #Var[AV_BankGoal] strokes left
+(Roll)
+@NullResponse @Goto(Bank1, Bank2, Bank3, Bank4, Bank5, Bank6)
+(Bank1)
+50 strokes to this nice #ass @ShowButtImage @ChangeVar[AV_BankNumb]=[AV_BankNumb]+[50] @LockImages
+[done, yes, Yes Mistress, yeah, yea, sure] #_ThisMustBeTorture_ST_2L @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(StrokeBankFinish)
+(Bank2)
+50 stroke to this #sexy #boobs @ShowBoobsImage @ChangeVar[AV_BankNumb]=[AV_BankNumb]+[50] @LockImages
+[done, yes, Yes Mistress, yeah, yea, sure] #1_ST_Squirm @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(StrokeBankFinish)
+(Bank3)
+50 submissive strokes  @ShowFemdomImage @ChangeVar[AV_BankNumb]=[AV_BankNumb]+[50] @LockImages
+[done, yes, Yes Mistress, yeah, yea, sure] #1_ST_TagState @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(StrokeBankFinish)
+(Bank4)
+50 strokes @ShowLikedImage @ChangeVar[AV_BankNumb]=[AV_BankNumb]+[50] @LockImages
+[done, yes, Yes Mistress, yeah, yea, sure] #_ThisMustBeTorture_ST_2L @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(StrokeBankFinish)
+(Bank5)
+50 stroke @ShowSoftcoreImage @ChangeVar[AV_BankNumb]=[AV_BankNumb]+[50]  @LockImages
+[done, yes, Yes Mistress, yeah, yea, sure] #1_ST_Squirm @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(StrokeBankFinish)
+(Bank6)
+50 strokes @ShowLesbianImage @ChangeVar[AV_BankNumb]=[AV_BankNumb]+[50]  @LockImages
+[done, yes, Yes Mistress, yeah, yea, sure] #1_ST_TagState @UnlockImages
+@DifferentAnswer Are you done #SubName?
+@NullResponse @Goto(StrokeBankFinish)
+@Flag(AV_Know_00) #Var[AV_Persona01] worth a overdrive, for 100 points @PlayAudio[tease\overdrive3.mp3] @ShowImage[av_imagens\02\*.jpg] @Wait(45)
+@NullResponse @ChangeVar[AV_BankNumb]=[AV_BankNumb]+[100]
+@NullResponse @Goto(StrokeBankFinish)
+(StrokeBankFinish)
+@NullResponse @If[AV_BankGoal]>=[AV_BankGoal]Then(Completed) 
+@NullResponse @Goto(Roll)
+@End
+(Completed) 

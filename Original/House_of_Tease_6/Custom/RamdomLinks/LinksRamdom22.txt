@@ -1,0 +1,116 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link22_NotFirstTime)
+@NullResponse @SetVar[AV_Link22]=[0] 
+@NullResponse @SetFlag(AV_Link22_NotFirstTime)
+(AV_Link22_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link22]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link22]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link22]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link22]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link22]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link22]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link22]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link22]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link22]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link22]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link22]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link22]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link22]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link22]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link22]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link22]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link22]=[AV_Link22]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link22]=[AV_Link22]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link22]=[AV_Link22]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link22]=[AV_Link22]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link22]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+I used you in so many exciting ways 
+and did things to you you'd never even thought of before I did them to you... 
+and you loved every minute of it too. 
+It really was a work of erotic art that we created together.
+Hmmm... I think you're ready for a little bit more of the wand now though.
+Wouldn't you agree?  @ResponseYes(ILoveBeingControlled) @ResponseNo(AV_NoNeutral) 
+#StartStroking @StartStroking
+@End
+(Link2)
+Your poor balls! 
+Probably backed up with so much sperm. 
+I bet your little tadpoles are sprouting legs at this point!
+So, it seems obvious that the aching feeling in your testicles is just a serve case of blue balls.
+#Lol
+No shooting off just yet!
+Look at your cock, bobbing up and down.
+I even see some precum starting to dribble!
+But we need to take our time and really get you ready to explode
+that way your body will let as much of it out as possible.
+#StartStroking @StartStroking
+@End
+(Link3)
+Tell me, my sweet boy, how do you enjoy this soft torture? @ResponseYes(ILoveBeingControlled) @ResponseNo(AV_NoNeutral) 
+Is it to your taste? Or is it not enough? 
+I'm sure, if we kept going long enough, you would eventually cum.
+But where is the fun in that?
+I want to satisfy myself just as much as I want to play with you.
+Awww, poor baby. Is it really that difficult to resist me?
+#StartStroking @StartStroking
+@End
+(Link4)
+I keep getting distracted.
+I wanted to talk about training, and what you'll be doing for me, and all that.
+There will be lots of worship, because I'm a goddess, and your Mistress deserves the best, doesn't she?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Don't worry about being inexperienced, I'll tell you exactly what to do, darling. 
+If I tell you to give me a kiss, you give me a kiss. 
+Make it the best, most passionate kiss you've ever given.
+I might tell you to kiss my foot or my nipple.
+Whatever it is, you'll do it without question, won't you dear?  @ResponseYes(AV_YesGood) @ResponseNo(AV_NoBad) 
+Of course you will. 
+It's what a good slave does, and I can already tell you're going to be the best 
+Don't look so down! It'll be fun!
+#StartStroking @StartStroking
+@End

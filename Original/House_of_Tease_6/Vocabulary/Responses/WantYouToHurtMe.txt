@@ -1,0 +1,14 @@
+[want you to hurt me,please hurt me,hurt me please]
+[All]
+Oh c'mon, you're begging me to hurt you? That's just pathetic, #SubName #Lol
+You're such a pain slut #Laugh
+I'll hurt you when I feel like it's necessary, #PetName
+@Flag(AV_SubKnees) Well, if you stay on your knees long enough, they're probably going to hurt at some point
+@Flag(pthevPlugged) What, that plug in your ass isn't uncomfortable enough? *rolls eyes*
+[All End]
+[Stroking]
+@BallTorture If you're actually asking me to hurt you... @CallReturn(Custom/CallReturn/pvCr_CBTBallsStroking.txt)
+Don't be silly, just #JerkOff for me now, #PetName
+Why, have you been a bad boy? @ResponseYes(BeenBad)
+Really? What, you can't handle all this #JerkingOff anymore? @ResponseNo(Can Handle_not)
+[Stroking End]

@@ -1,0 +1,10 @@
+Is that your favourite word slave?
+No? should I repeat it? 
+<b>no no no? </b>
+Does it turn you on? @Timeout(5, AV_Timeo15)
+[yes] You are really submissive, #SubName
+[no] I wonder why... #Lol
+@DifferentAnswer #YesorNo
+(AV_Timeo15)
+@NullResponse
+@End

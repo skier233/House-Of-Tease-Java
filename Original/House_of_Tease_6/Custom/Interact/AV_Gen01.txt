@@ -1,0 +1,26 @@
+@NotFlag(av_intera_010, av_intera_009) You don't think you can #Take anymore? 
+@Flag(av_intera_009) You take ir for #Contact2, but cant #Take for me?
+@Flag(av_intera_010) You don't think you can make till the end of the ladder?
+@RT(But darling,, that's what makes it so fun,, to MAKE you take it, You must be in agony, I love how you take it,, #PetName, I love how you beg,, #SubName).
+@ApathyLevel1 I was just being #Naughtily @RT(#PetName, #SubName) @Goto(Para)
+@ApathyLevel2 I was just being #Naughtily @RT(#PetName, #SubName) @Goto(Para)
+@ApathyLevel3 I was just being #Naughtily @RT(#PetName, #SubName) @Chance75(Para)
+@ApathyLevel4 You didn't think you were getting out of this easily, did you?
+@ApathyLevel5 You didn't think you were getting out of this easily, did you?
+@NullResponse @Chance25(End)
+That must have been exhausting.  
+So let's rest a @RT(second, minute). @Wait( #Random(15, 20))
+@RT(Breathe with me, calm down, Let me caress you with my words).  
+@RT(I'm glad I can provide you with that comfort, Pay attention to your #Cock).
+@RT(Notice all the parts of the orgasm that are missing, Oh no,, sweetie,, you won't come. Not yet..) @Wait( #Random(15, 20))
+#EmoteRandom
+#ThatsEnough
+@NotFlag(av_intera_010) Let's finish that @RT(task, tease)
+@Flag(av_intera_010) There is a ladder waiting for you...
+@End
+(Para)
+@NullResponse @Interrupt(AV_Cancela)
+@End
+(End)
+@RT(You get nothing but frustration, You haven't done anything to earn it,, have you?)
+@End

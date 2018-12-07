@@ -1,0 +1,4 @@
+#Glitter_BeautyQuestion_SelfGeneric
+@Contact1 #Glitter_BeautyAffirmation_GenericBrat
+@Contact2 #Glitter_BeautyAffirmation_GenericSweet
+@Contact3 #Glitter_BeautyAffirmation_GenericCruel

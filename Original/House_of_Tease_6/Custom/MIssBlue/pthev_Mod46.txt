@@ -1,0 +1,154 @@
+@NullResponse @CheckFlag(pvMod46Skip)
+#Edge @EdgeNoHold
+I just can't get enough of making you do that #Smile @CheckFlag(pvMod17WonGameAgain)
+#Edge @EdgeNoHold
+@RT(Making you squirm right on the brink of orgasm,Getting you so close to that orgasm you crave,Bringing you so close to orgasm you can barely contain it)
+And then @RT(snatching,taking) it away from you
+Over and over again @TempFlag(pvMod46Skip)
+#Edge @EdgeNoHold
+I could keep doing this a long time, #PetName
+A <i>very</i> long time #Grin @CheckFlag(pvMod17WonGame)
+#Edge @EdgeNoHold
+You see, for you this is @RT(torture,agony) over and over again
+But for me...
+I just @RT(toss out some instructions,type some words), #Name #Laugh
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Who do you think will @RT(grow tired of,get enough of,fed up with) this first...
+You or me?
+[you] Oooh I do like a challenge... @Goto(i like a challenge)
+[me] Probably, yes #Laugh
+@DifferentAnswer Me or you, #Name?
+I'm a bit disappointed, I must say...
+Oh well, maybe some other time
+That would be an interesting game of chicken
+I'm sure at some point I'd get bored of making you edge
+So it's not like you could never win this game @Goto(anyway even if)
+(i like a challenge)
+#Edge @EdgeHold
+Sooner or later, you won't feel the difference 
+Between the end of the last edge, and the start of the next
+They'll just bleed together
+#Edge @MultipleEdges(3,6) @EdgeNoHold
+Are you ready to throw the towel yet?
+[yes] Aww, already? @Goto(throwing the towel)
+[no] Okay then
+@DifferentAnswer #YesOrNo
+This could go on for a bit @CustomMode(#pvCantTakeIt,Goto,throwing the towel)
+If you want to give up, just say so #Smile @CustomMode(#pvGiveUp,Goto,throwing the towel)
+#Edge @EdgeNoHold
+I didn't even make you hold that one
+So don't say I never gave you a chance, #Name
+#Edge @MultipleEdges(5,9,100) @EdgeNoHold
+Like I said, it just typing words for me
+<i>You</i> are doing all the hard work here
+And it's about to get a lot harder...
+#Edge @MultipleEdges(7,5,100) @EdgeNoHold
+All you have to say is "I give up" and it will end, #Name
+I have to admit, I didn't think you'd get this far
+And as much as I like having sit there and suffer edge after edge...
+I'm also getting a bit impatient...
+#Edge @MultipleEdges(9,5,100) @EdgeHold
+Just say those three little words and you're done
+You will have lost, but you'd be done #Smile
+No?
+Okay then...
+#Edge @MultipleEdges(12,5,100) @EdgeHold
+Well...? @Wait(6)
+Not bad, #PetName @MoodUp
+You did like 35 edges just now, maybe more
+Let's do 10 more and say it's an even 50
+And, okay, you'll have won the game if you make it through
+#Edge @EdgeNoHold
+Just nine more
+#Edge @EdgeNoHold
+That's two, still eight to go
+#Edge @EdgeNoHold
+The phrase I'm looking for is "I give up" #EmoteWink
+#Edge @EdgeNoHold
+You're not going to let victory slip away this late in the game, right?
+#Edge @EdgeHold
+Okay, 5 more
+Let's do them in a row, make sure to hold the last one
+#Edge @MultipleEdges(5,5) @Edge(LongHold,HoldTaunts)
+#LetTheEdgeFade @CustomMode(#pvCantTakeIt,Normal)
+Wow... @CustomMode(#pvGiveUp,Normal) 
+Colour me impressed, #SubName #Smile @MoodBest
+And yes, you win, congrats @TempFlag(pvMod17WonGame)
+Your #Cock must be throbbing like madman now though, right?
+[yes] I don't mind losing so much then #Grin
+[no] That's hard to believe @MoodDown
+@DifferentAnswer #YesOrNo
+In any case, you got quite the workout #GeneralTime
+@End
+(throwing the towel)
+I knew I'd win this game eventually
+There never was any doubt about that, was there?
+[yes,there was,thought i'd win,can win,will win] If that's what you want to believe #Smile
+[no,can't win,impossible,not possible] I'm sorry #SubName, but my games are rarely fair I suppose
+@DifferentAnswer #YesOrNo
+The thing is, I don't like losing
+When I play with you, I can change the rules in my favour at any time
+So losing isn't really an issue #Laugh
+(anyway even if)
+And anyway, even if you did win this game
+The amount of edging to achieve that would be enormous
+So in a way I win even if I lose #Laugh
+@End
+(pvMod17WonGame)
+But then again...
+Even I wasn't prepared for just how much of an edge slut you are
+I already tried to break you and failed #EmoteSad
+#Edge @MultipleEdges(3,6) @Edge(ExtremeHold,HoldTaunts)
+#LetTheEdgeFade
+What if I made you hold 50 of those really long edges
+What I'm trying to say is...
+I can't stand it that you won the first round of our 'game of edging chicken'
+So I'm going to make damn sure I win round 2...
+Want to play? #Grin
+[yes] You're a brave #PetName @Goto(ready for round two)
+[no] Ha, chicken!
+@DifferentAnswer #YesOrNo
+Maybe some other time, if you can muster the courage
+@End
+(ready for round two)
+When you want to give up, just tell me so
+@NullResponse @CustomMode(#pvCantTakeIt,Goto, no more please)
+@NullResponse @CustomMode(#pvGiveUp,Goto, no more please)
+#Edge @MultipleEdges(5,5) @Edge(LongHold,HoldTaunts)
+Anything you want to say?
+Maybe three words in particular?
+It's going to get ugly, #PetName
+#Edge @MultipleEdges(8,6) @Edge(ExtremeHold,HoldTaunts)
+#LetTheEdgeFade
+Get ready for the next one
+Unless, of course...
+Nah, you wouldn't want to give up
+You're having way too much fun!
+#Edge @MultipleEdges(12,5) @Edge(ExtremeHold,HoldTaunts)
+You must be the most depraved edge slut in the history of the universe
+Maybe there was an even bigger slut among the cave men of the stone age
+I mean, what else were they going to do all day...
+But you... wow...
+#Edge @MultipleEdges(15,9) @Edge(ExtremeHold,HoldTaunts)
+It's not even funny anymore @TempFlag(pvMod17WonGameAgain)
+Let's just move on to something else @MoodWorst
+This isn't going anywhere 
+Yeah, you win, good for you
+@BallTorture @NullResponse @CBTBalls
+I'm not playing this game anymore
+@End
+(no more please)
+#Yay I win this round! Suck it, #PetName!
+Alright, enough with the games already @TempFlag(pvMod17WonGameAgain)
+@End
+(pvMod17WonGameAgain)
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod46Skip)
+#Edge @Edge
+#LetTheEdgeFade
+As if you haven't been edging enough already #GeneralTime right?
+Well in my opinion, there's no such thing as "enough" edging #Grin
+@End

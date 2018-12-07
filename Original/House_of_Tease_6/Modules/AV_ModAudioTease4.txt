@@ -1,0 +1,231 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModAud4_NotFirstTime)
+@NullResponse @SetVar[AV_ModAud4]=[0] 
+@NullResponse @SetFlag(AV_ModAud4_NotFirstTime)
+(AV_ModAud4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModAud4]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModAud4]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModAud4]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModAud4]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModAud4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModAud4]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModAud4]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModAud4]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModAud4]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModAud4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModAud4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModAud4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModAud4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModAud4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModAud4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModAud4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModAud4]=[AV_ModAud4]+[1]
+@NullResponse @Goto(Module1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModAud4]=[AV_ModAud4]+[10]
+@NullResponse @Goto(Module2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModAud4]=[AV_ModAud4]+[100]
+@NullResponse @Goto(Module3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModAud4]=[AV_ModAud4]+[1000]
+@NullResponse @Goto(Module4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModAud4]=[0]
+@NullResponse @RandomModule
+@End
+(Module1)
+@Stroking #Stop @StopStroking
+Tell me something #PetName @CheckFlag(AssMan) @CheckFlag(TitMan)
+Are you more of an ass man
+Or do you prefer a nice pair of tits?
+[ass, butt, first, former, behind, rear, hienie, bum] In that case @Goto(AssManConfirm)
+[tit, boob, breast, last, latter] In that case
+[both, decide, either, choose, and] You have to pick one #PetName @LoopAnswer
+@DifferentAnswer Tits or ass #PetName?
+Here's some #Boobs you can edge to right now #Grin @ShowBoobsImage @LockImages @SetFlag(TitMan) @Edge
+#LetTheEdgeFade @UnlockImages
+So you're a tit man...
+I'm #Gonna remember that #SubName #Grin
+@End
+(AssManConfirm)
+Here's an ass you can edge to right now #Grin @ShowButtImage @LockImages @SetFlag(AssMan) @Edge
+#LetTheEdgeFade @UnlockImages
+So you're an ass man...
+I'm #Gonna remember that #SubName #Grin
+@End
+(AssMan)
+Do you think this is a nice ass? @ShowButtImage @LockImages
+[yes] I'm glad to hear you think so
+[no] That's too bad
+@DifferentAnswer Yes or no #PetName?
+Cause you're #Gonna edge to it right now #Grin @Edge
+#LetTheEdgeFade @UnlockImages
+I told you I'd remember you're an ass man
+And this won't be the last time I remind you of that #Grin
+@End
+(TitMan)
+Do you think these are some nice tits? @ShowBoobsImage @LockImages
+[yes] I'm glad to hear you think so
+[no] That's too bad
+@DifferentAnswer Yes or no #PetName?
+Cause you're #Gonna edge to them right now #Grin @Edge
+#LetTheEdgeFade @UnlockImages
+I told you I'd remember you're a tit man
+And this won't be the last time I remind you of that #Grin
+@End
+(Module2)
+@Stroking #Stop @StopStroking
+The internet gave me so many things to #Torture you with #PetName
+Like... @Goto(Audio14, Metro14, Video14)
+(Audio14)
+Erotic audios
+Follow the beats #AV_EroticAudio
+#1_ST_Sub
+@End
+(Metro14)
+Metronomes, to make you #Stroke just the way I want.
+Want to see? Keep the pace. @Goto(slo1, slo2)
+(slo1)
+We can have slow beats @PlayAudio[tease\b055.mp3] @Wait(15)
+@NullResponse @Goto(med1, med2)
+(slo2)
+We can have slow beats @PlayAudio[tease\b075.mp3] @Wait(15)
+@NullResponse @Goto(med1, med2)
+(med1)
+Medium @PlayAudio[tease\b110.mp3] @Wait(15)
+@NullResponse @Goto(fast1, fast2)
+(med2)
+Medium  @PlayAudio[tease\b120.mp3] @Wait(15)
+@NullResponse @Goto(fast1, fast2)
+(fast1)
+And Fast @PlayAudio[tease\b180.mp3] @Wait(15)
+@NullResponse @Goto(talvez)
+(fast2)
+And Fast  @PlayAudio[tease\b210.mp3] @Wait(15)
+(talvez)
+You're not struggling already are you? @Chance50(Faster14)
+@End
+(Faster14)
+And my favourite...super fast @PlayAudio[tease\b250.mp3] @Wait(15)
+#1_ST_Sub
+@End
+(Video14)
+This video, #Stroke @PlayCHVideo
+#CensorContinue
+#1_ST_Sub
+@End
+(Module3)
+@Stroking #Stop @StopStroking
+Do you want to play a Fapioh Game ?
+[yes] #Good
+[no] It's ok... @RandomModule
+@DifferentAnswer #YesorNo #SubName?
+Cool @SetVar[AV_Fapioh]=[0] 
+@NullResponse @Chance50(GlitterImage)
+(FapiohImage)
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1] 
+@NullResponse @Goto(FapiohRamdom)
+(FapiohBack)
+@NullResponse @If[AV_Fapioh]>[10]Then(GameFinished)
+@NullResponse @Chance50(SpecialImage)
+@NullResponse @Goto(GlitterImage)
+(SpecialImage)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1]
+@NullResponse @Goto(SpecialRamdom)
+(SpecialBack)
+@NullResponse @If[AV_Fapioh]>[14]Then(GameFinished)
+@NullResponse @Chance30(Video)
+@NullResponse @Goto(FapiohImage)
+(GlitterImage)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1] 
+@NullResponse @Goto(GlitterRamdom)
+(GlitterBack)
+@NullResponse @If[AV_Fapioh]>[12]Then(GameFinished)
+@NullResponse @Chance50(SpecialImage)
+@NullResponse @Goto(Video)
+(Video)
+@NullResponse @RapidCodeOn
+@NullResponse @ChangeVar[AV_Fapioh]=[AV_Fapioh]+[1] 
+@NullResponse @Goto(VideoRamdom)
+(VideohBack)
+@NullResponse @If[AV_Fapioh]>[15]Then(GameFinished)
+@NullResponse @Chance50(FapiohImage)
+@NullResponse @Goto(GlitterImage)
+(GameFinished)
+You made it!
+Pretty interesting game, I think
+@End
+(FapiohRamdom)
+@NullResponse #AV_Fapioh @Wait(20)
+@NullResponse @Goto(FapiohBack)
+(SpecialRamdom)
+@NullResponse @Goto(S1, S2, S3)
+(S1)
+@Flag(AV_Know_00) #Stroke for #Var[AV_Persona01] @RapidTextOn
+@NullResponse #AV_CelebPics @Wait(15) #AV_AudioBeat @RapidTextOff
+@NullResponse @Goto(SpecialBack)
+(S2)
+@Flag(AV_Know_01) #Stroke for #Var[AV_Persona02] @RapidTextOn
+@NullResponse #AV_SingerPics @Wait(15) #AV_AudioBeat @RapidTextOff
+@NullResponse @Goto(SpecialBack)
+(S3)
+@Flag(AV_Know_12) #Stroke for #Var[AV_Persona13] @RapidTextOn
+@NullResponse #AV_CrushPics @Wait(15) #AV_AudioBeat @RapidTextOff
+@NullResponse @Goto(SpecialBack)
+(GlitterRamdom)
+@NullResponse @Goto(G1, G2, G3)
+(G1)
+@Contact1 #Stroke for me #AV_AudioBeat
+@NullResponse @Goto(GlitterBack)
+(G2)
+@Contact2 #Stroke for me #AV_AudioBeat
+@NullResponse @Goto(GlitterBack)
+(G3)
+@Contact3 #Stroke for me #AV_AudioBeat
+@NullResponse @Goto(GlitterBack)
+(VideoRamdom)
+#Stroke to the beat @PlayAvoidTheEdge
+#StopStroking @Goto(VideohBack)
+(Module4)
+@Stroking #Stop @StopStroking
+@NullResponse @CallReturn(Custom\AV_Scripts\AV_GlittersTest.txt)
+@NullResponse 
+@End

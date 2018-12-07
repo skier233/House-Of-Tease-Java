@@ -1,0 +1,410 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModGlitter2_NotFirstTime)
+@NullResponse @SetVar[AV_ModGlitter2]=[0] 
+@NullResponse @SetFlag(AV_ModGlitter2_NotFirstTime)
+(AV_ModGlitter2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGlitter2]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGlitter2]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGlitter2]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGlitter2]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGlitter2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGlitter2]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGlitter2]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGlitter2]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGlitter2]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGlitter2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGlitter2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGlitter2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGlitter2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGlitter2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGlitter2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGlitter2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGlitter2]=[AV_ModGlitter2]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGlitter2]=[AV_ModGlitter2]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGlitter2]=[AV_ModGlitter2]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGlitter2]=[AV_ModGlitter2]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGlitter2]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @CheckFlag(AV_Know_00_NOTREADY)
+#PetName I had an idea for a game we could play together. @CheckFlag(AV_Know_00)
+But for now, I need to know...
+Who is your Celeb Crush? *Actress* @InputVar[AV_Persona01]
+Hmm... she is hot! 
+I'll make sure to use that against you later #EmoteSquirm
+@SystemMessage Put at least 10 #Var[AV_Persona01] pictures in the folder TeaseAI\Images\av_imagens\02\ before your next session @SetFlag(AV_Know_00)
+@SystemMessage make sure to rename the files like that: 01.jpg, 02.jpg... 10.jpg @SetFlag(AV_Know_00_NOTREADY)
+@End
+(AV_Know_00)
+You know that actress you've always fancied? #Var[AV_Persona01]
+The one you're almost obsessed over.
+Now you will #Stroke for her @ShowImage[av_imagens\02\01.jpg] 
+Slowly start rubbing your balls. @ShowImage[av_imagens\02\01.jpg] 
+Squeeze them gently. @Goto(M01,M02,M03)
+(M01)
+Now tell her how hot you think she is. @ShowImage[av_imagens\02\02.jpg] 
+Go on, she can't hear you.
+(M02)
+Tell her what you'd like to do to her. @ShowImage[av_imagens\02\03.jpg] 
+(M03)
+Let her know your biggest fantasy.
+Well, we both know that will never happen.
+That's why you're here, looking at her pictures instead. @ShowImage[av_imagens\02\04.jpg] 
+#StartStroking your dick slowly. @ShowImage[av_imagens\02\05.jpg] 
+Gently up and down. @ShowImage[av_imagens\02\06.jpg] 
+Isn't she hot? @ShowImage[av_imagens\02\07.jpg] @Goto(M04,M05)
+(M04)
+Are you looking at her beautiful face? @ShowImage[av_imagens\02\08.jpg] 
+Or maybe you prefer her boobs? @ShowImage[av_imagens\02\09.jpg] 
+You're not looking at her ass are you? @ShowImage[av_imagens\02\10.jpg] 
+(M05)
+#Stroke your #Cock a little faster. @ShowImage[av_imagens\02\01.jpg] 
+Squeeze it a little harder. @ShowImage[av_imagens\02\02.jpg] 
+Pretend it's her hand doing the work. @ShowImage[av_imagens\02\03.jpg] 
+How would she jerk you off? @ShowImage[av_imagens\02\04.jpg] @Goto(M06,M07)
+(M06)
+What if she found out you're jerking off to her pictures? @ShowImage[av_imagens\02\05.jpg] 
+Does the idea excite you? Do you secretly want her to know what a perv you are? @ShowImage[av_imagens\02\06.jpg] 
+What would you do if she told you that she knew what you're doing? @ShowImage[av_imagens\02\07.jpg] 
+(M07)
+Start stroking even faster than before. @ShowImage[av_imagens\02\08.jpg] 
+Imagine that the next time you meet her, she knows exactly what you've been up to. @ShowImage[av_imagens\02\09.jpg] 
+Give me 30 fast strokes. @ShowImage[av_imagens\02\10.jpg] 
+#StopStroking
+Take a few deep breaths.
+In and out.
+That's it. @Wait(10)
+Spit in your hand and #StartStroking your cock again. @ShowImage[av_imagens\02\01.jpg] 
+Long hard strokes from the head to the shaft. @ShowImage[av_imagens\02\02.jpg] 
+Imagine jerking off to her in real life. @ShowImage[av_imagens\02\03.jpg] 
+Can you see it in front of you? @ShowImage[av_imagens\02\04.jpg] 
+She's standing there before you, while you stroke your #Cock. @ShowImage[av_imagens\02\05.jpg] 
+Do you think she would be impressed? @ShowImage[av_imagens\02\06.jpg] 
+Probably not. @ShowImage[av_imagens\02\07.jpg] 
+I want you to #Stroke your dick harder and faster. @ShowImage[av_imagens\02\08.jpg] 
+Convince me that you want it. @ShowImage[av_imagens\02\09.jpg] 
+I want you to get yourself to the edge. @ShowImage[av_imagens\02\10.jpg] 
+Come on baby. Stroke for her. @ShowImage[av_imagens\02\01.jpg] 
+Are you getting close? @ShowImage[av_imagens\02\02.jpg] 
+#Edge @Edge @ShowImage[av_imagens\02\03.jpg] 
+Look her deep in her eyes. @ShowImage[av_imagens\02\04.jpg] 
+That was pretty good, wasn't it? @ShowImage[av_imagens\02\05.jpg] 
+Did you like it?
+In that case, I think you should thank her. @ShowImage[av_imagens\02\06.jpg] 
+@End
+(AV_Know_00_NOTREADY)
+@NullResponse @Chance50(FemDomImg)
+#Edge @Edge @ShowLocalImage
+#LetTheEdgeFade @Goto(Module End)
+(FemDomImg)
+#Edge @Edge @ShowFemdomImage
+(Module End)
+@NullResponse
+@End
+(Modulo2)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @CheckFlag(AV_CatFightDone)
+So I have some friends @Glitter(AV_CatfightTime)
+We were talking the other night @SetFlag(AV_CatFightDone)
+And they told me that they thought teasing and denying a guy sounded hot as hell
+So I offered to let they come play with you @AddContact1
+@Contact1 So, you think you can handle this?
+He look a little nervous, but I'm sure once he start performing for us he will be just fine! @AddContact2
+@Contact2 Oh, #Contact1 . I'm sure he will do great! @AddContact3
+Right? @Goto(PlayTime)
+(AV_CatFightDone)
+#PetName
+Ready to play with my friends again? @AddContact1
+#Emote  @AddContact2 @AddContact3 
+@NullResponse @Goto(PlayTime)
+(PlayTime)
+@Flag(av_fetish_pain) #LetStart @Goto(Round1_1, Round1_2, Round1_3, Round1_4)
+@NotFlag(av_fetish_pain) #LetStart @Goto(Round1_1, Round1_2, Round1_4)
+#LetStart @Goto(Round1_1, Round1_2, Round1_3, Round1_4)
+(Round1_1)
+@NullResponse @CustomTask(AV_StrokeNumberGliter1)
+@Contact1 #RelaxAndBreathe @Goto(Round2) 
+(Round1_2)
+@Contact2 @Edge #Edge 
+@Contact2 #RelaxAndBreathe @Goto(Round2)
+(Round1_3)
+@NullResponse @CustomTask(AV_CBT_Gliter3)
+@Contact3 #RelaxAndBreathe @Goto(Round2)
+(Round1_4)
+#Stroke to the beat #AudioStroke
+#RelaxAndBreathe @Goto(Round2) 
+(Round2)
+So? @Goto(Resp1, Resp2, Resp3)
+(Resp1)
+@Contact1 Wow that was #Great @Goto(Round2a)
+(Resp2)
+@Contact2 Wow that was #Great @Goto(Round2a)
+(Resp3)
+@Contact3 Wow that was #Great @Goto(Round2a)
+(Round2a)
+#ICanKeepThisUp @Goto(Round2_1, Round2_2, Round2_4)
+(Round2_1)
+@NullResponse @CustomTask(AV_StrokeNumberGliter2)
+@Contact2 #RelaxAndBreathe @Goto(Round3)
+(Round2_2)
+@Contact3 @Edge #Edge
+@Contact3 #RelaxAndBreathe @Goto(Round3)
+(Round2_4)
+@Contact1 #Stroke to the beat #AudioStroke
+@Contact1 #RelaxAndBreathe @Goto(Round3)
+(Round3)
+Time for a extra round @Goto(c1, c2, c3)
+(c1)
+@Contact1 Me first @TempFlag(AV_CAT_1)
+@Contact1 Let me see... @Goto(c1n, c1e, c1s)
+(c1n)
+@NullResponse @CustomTask(AV_StrokeNumberGliter1)
+@Contact1 #RelaxAndBreathe @Goto(Round3a)
+(c1e)
+@Contact1 @Edge #Edge
+@Contact1 #RelaxAndBreathe @Goto(Round3a)
+(c1s)
+@Contact1 #Stroke to the beat #AudioStroke
+@Contact1 #RelaxAndBreathe @Goto(Round3a)
+(c2)
+@Contact2 Me first @TempFlag(AV_CAT_2)
+@Contact2 Let me see... @Goto(c2n, c2e, c2s)
+(c2n)
+@NullResponse @CustomTask(AV_StrokeNumberGliter2)
+@Contact2 #RelaxAndBreathe @Goto(Round3a)
+(c2e)
+@Contact2 @Edge #Edge
+@Contact2 #RelaxAndBreathe @Goto(Round3a)
+(c2s)
+@Contact2 #Stroke to the beat #AudioStroke
+@Contact2 #RelaxAndBreathe @Goto(Round3a)
+(c3)
+@Contact3 Me first @TempFlag(AV_CAT_3)
+@Contact3 Let me see... @Goto(c3n, c3e, c3s)
+(c3n)
+@NullResponse @CustomTask(AV_StrokeNumberGliter3)
+@Contact3 #RelaxAndBreathe @Goto(Round3a)
+(c3e)
+@Contact3 @Edge #Edge
+@Contact3 #RelaxAndBreathe @Goto(Round3a)
+(c3s)
+@Contact3 #Stroke to the beat #AudioStroke
+@Contact3 #RelaxAndBreathe @Goto(Round3a)
+(Round3a)
+@Flag(av_fetish_pain) #ICanKeepThisUp @Goto(Round3_1, Round3_2, Round3_3, Round3_4)
+@NotFlag(av_fetish_pain) #ICanKeepThisUp @Goto(Round3_1, Round3_2, Round3_4)
+(Round3_1)
+@NullResponse @CustomTask(AV_StrokeNumberGliter3)
+@Contact3 #RelaxAndBreathe @Goto(Round4)
+(Round3_2)
+@Edge #Edge
+#RelaxAndBreathe @Goto(Round4)
+(Round3_3)
+@NullResponse @CustomTask(AV_CBT_Gliter1)
+@Contact1 #RelaxAndBreathe @Goto(Round4)
+(Round3_4)
+@Contact2 #Stroke to the beat #AudioStroke
+@Contact2 #RelaxAndBreathe @Goto(Round4)
+(Round4)
+Who is next? @CheckFlag(AV_CAT_1)
+@Contact1 My turn
+@Contact1 Let me see... @Goto(2c1n, 2c1e, 2c1s)
+(2c1n)
+@NullResponse @CustomTask(AV_StrokeNumberGliter1)
+@Contact1 #RelaxAndBreathe @Goto(Round4a)
+(2c1e)
+@Contact1 @Edge #Edge
+@Contact1 #RelaxAndBreathe @Goto(Round4a)
+(2c1s)
+@Contact1 #Stroke to the beat #AudioStroke
+@Contact1 #RelaxAndBreathe @Goto(Round4a)
+(AV_CAT_1)
+@NullResponse @Goto(c2a, c3a)
+(c2a)
+@Contact2 My turn
+@Contact2 Let me see... @Goto(2c2n, 2c2e, 2c2s)
+(2c2n)
+@NullResponse @CustomTask(AV_StrokeNumberGliter2)
+@Contact2 #RelaxAndBreathe @Goto(Round4a)
+(2c2e)
+@Contact2 @Edge #Edge
+@Contact2 #RelaxAndBreathe @Goto(Round4a)
+(2c2s)
+@Contact2 #Stroke to the beat #AudioStroke
+@Contact2 #RelaxAndBreathe @Goto(Round4a)
+(c3a)
+@Contact3 My turn
+@Contact3 Let me see... @Goto(2c3n, 2c3e, 2c3s)
+(2c3n)
+@NullResponse @CustomTask(AV_StrokeNumberGliter3)
+@Contact3 #RelaxAndBreathe @Goto(Round4a)
+(2c3e)
+@Contact3 @Edge #Edge
+@Contact3 #RelaxAndBreathe @Goto(Round4a)
+(2c3s)
+@Contact3 #Stroke to the beat #AudioStroke
+@Contact3 #RelaxAndBreathe @Goto(Round4a)
+(Round4a)
+@Flag(av_fetish_pain) One more round @Goto(Round4_1, Round4_2, Round4_3, Round4_4)
+@NotFlag(av_fetish_pain) One more round @Goto(Round4_1, Round4_2, Round4_4)
+(Round4_1)
+@NullResponse @CustomTask(AV_StrokeNumber)
+#RelaxAndBreathe @Goto(Round5)
+(Round4_2)
+@Contact1 @Edge #Edge
+@Contact1 #RelaxAndBreathe @Goto(Round5)
+(Round4_3)
+@NullResponse @CustomTask(AV_CBT_Gliter2)
+@Contact2 #RelaxAndBreathe @Goto(Round5)
+(Round4_4)
+@Contact3 #Stroke to the beat #AudioStroke
+@Contact3 #RelaxAndBreathe @Goto(Round5)
+(Round5)
+That was fun #EmoteHappy
+@Contact3 Yes. I've seen some nice precum dripping out of him, which is great. @RemoveContact3
+@Contact2 See you later @RemoveContact2
+@Contact1 Bye @RemoveContact1
+I'm ready to get back to having some fun of my own #Grin
+@End
+(Modulo3)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @CheckFlag(AV_Know_01_NOTREADY)
+#PetName  @CheckFlag(AV_Know_01)
+Who is your Celeb Crush? *Singer* @InputVar[AV_Persona02]
+I don'f know if you like her music or other thing #EmoteFace  @SetFlag(AV_Know_01_NOTREADY)
+@SystemMessage Put at least 10 #Var[AV_Persona02] pictures in the folder TeaseAI\Images\av_imagens\03\ before your next session
+@SystemMessage make sure to rename the files like that: 01.jpg, 02.jpg... 10.jpg  @SetFlag(AV_Know_01)
+@SystemMessage Put a music video of #Var[AV_Persona02] in the TeaseAI\Video\AV_Clips folder and rename it to AV_01.mp4
+@End
+(AV_Know_01)
+Imagine you are at a #Var[AV_Persona02] concert. @ShowImage[av_imagens\03\01.jpg] 
+You are extremely turned on by her and as usual  #Var[AV_Persona02] puts on an amazing and very sexy show. @ShowImage[av_imagens\03\02.jpg]  @GotoDommeLevel 
+(DommeLevel5)
+#Stroke 40 times for her @ShowImage[av_imagens\03\01.jpg] @Wait(20)
+(DommeLevel4)
+#Stroke 30 times @ShowImage[av_imagens\03\07.jpg] @Wait(15)
+(DommeLevel3)
+#Stroke 30 times for her @ShowImage[av_imagens\03\08.jpg] @Wait(15)
+(DommeLevel2)
+#Stroke 30 times @ShowImage[av_imagens\03\09.jpg] @Wait(15)
+(DommeLevel1)
+#Stroke 40 times for her @ShowImage[av_imagens\03\10.jpg] @Wait(20)
+I think you can #Stroke watching a video of #Var[AV_Persona02] now
+@NullResponse @PlayVideo[AV_Clips/AV_01.mp4]
+@End
+(AV_Know_01_NOTREADY)
+@NullResponse @Chance50(FemDomImg)
+#Edge @Edge @ShowLocalImage
+#LetTheEdgeFade @Goto(Module End)
+(FemDomImg)
+#Edge @Edge @ShowFemdomImage
+(Module End)
+@NullResponse
+@End
+(Modulo4)
+@Stroking #StopStroking @StopStroking 
+@NullResponse @CheckFlag(AV_Know_12_NOTREADY)
+#PetName @CheckFlag(AV_Know_12) 
+Who is your Secret Crush? *Someone you know* @InputVar[AV_Persona13]
+Let me tell you... #EmoteFace @SetFlag(AV_Know_12)
+Look at her Facebook, instagram, etc 
+Find some #Var[AV_Persona13] pictures 
+So, maybe I can make a good use of that in the future
+@SystemMessage Put at least 10 #Var[AV_Persona13] pictures in the folder TeaseAI\Images\av_imagens\01\ before your next session @SetFlag(AV_Know_12)
+@SystemMessage make sure to rename the files like that: 01.jpg, 02.jpg... 10.jpg @SetFlag(AV_Know_12_NOTREADY)
+@End
+(AV_Know_12)
+Now isn't about me, it's about #Var[AV_Persona13], your crush, your dream girl.
+#StartStroking @ShowImage[av_imagens\01\01.jpg] 
+Are you looking at her pictures, looking for her in a bikini, or a skimpy dress. @ShowImage[av_imagens\01\01.jpg] 
+I bet this is giving you a massive pervy thrill @ShowImage[av_imagens\01\01.jpg] 
+Well that's just fine with me @ShowImage[av_imagens\01\02.jpg] 
+I want you to #Stroke @ShowImage[av_imagens\01\02.jpg] 
+I can see right through the screen and watch you massaging your cock as you sit enthralled by #Var[AV_Persona13], @ShowImage[av_imagens\01\03.jpg] 
+It's alright. You were born to #Stroke  @ShowImage[av_imagens\01\03.jpg] 
+it's the most, natural, enjoyable thing in the world. And besides, she'll never know. @ShowImage[av_imagens\01\04.jpg] 
+Have you ever done this before?  @ShowImage[av_imagens\01\04.jpg] 
+I mean, something about masturbating over someone you know that's so? naughty, so taboo.  @ShowImage[av_imagens\01\05.jpg] 
+I love breaking taboos, and I love guiding you into doing something so? sordid @ShowImage[av_imagens\01\05.jpg] 
+@Flag(AV_Know_17) You are such a #Var[AV_Persona09] You really can't help it can you.  @ShowImage[av_imagens\01\06.jpg]  @Goto(Jump)
+You are such a naughty boy. You really can't help it can you.  @ShowImage[av_imagens\01\06.jpg] 
+(Jump)
+You can't go a day without thinking and drooling over her.  @ShowImage[av_imagens\01\06.jpg] 
+What does #Var[AV_Persona13] have, big tits? Long legs? A nice ass? Or maybe it's all three. @ShowImage[av_imagens\01\07.jpg] 
+Are you imaging her next to you, imaging her hand on your #Cock?  @ShowImage[av_imagens\01\07.jpg] 
+Here's an idea, imagine me there too. Imagine me sucking the head of your cock whilst she's licking your balls. @ShowImage[av_imagens\01\08.jpg] 
+Or maybe you're fucking her from behind as she licks my clit. Yeah, I like that one too @ShowImage[av_imagens\01\08.jpg] 
+There you go again. Every time I say fucking your jaw goes slack and you squeeze your #Cock a bit harder @ShowImage[av_imagens\01\09.jpg] 
+#StopStroking
+I wonder how you act when you're with her. 
+Are you shy and can't make eye contact? Is she a co-worker that you always help, but you aren't confident enough to ask out on a date? 
+Or maybe you're friends? But you want more, and you're afraid it'll fuck up everything between you too?
+#StartStroking @ShowImage[av_imagens\01\09.jpg] 
+I hope those pictures of her are helping you to pleasure your aching cock.  @ShowImage[av_imagens\01\10.jpg] 
+You must be getting close now.  @ShowImage[av_imagens\01\10.jpg] 
+Now I want to close your eyes and think of her and let the pleasure pulsing through your cock take over as you imaging fucking her missionary. @ShowImage[av_imagens\01\07.jpg] @Goto(01,02,03,04)
+(01)
+Fucking her doggie. @ShowImage[av_imagens\01\02.jpg]
+(02)
+Fucking her cowgirl. @ShowImage[av_imagens\01\03.jpg]
+(03)
+Fucking me with her sitting on your face. @ShowImage[av_imagens\01\04.jpg]
+(04)
+Fucking her to a huge orgasm.  @ShowImage[av_imagens\01\06.jpg] 
+#Edge @Edge @ShowImage[av_imagens\01\09.jpg] 
+Just remember that'll never happen to you while I control your #Cock.
+@End
+(AV_Know_12_NOTREADY)
+@NullResponse @Chance50(FemDomImg)
+#Edge @Edge @ShowLocalImage
+#LetTheEdgeFade @Goto(Module End)
+(FemDomImg)
+#Edge @Edge @ShowFemdomImage
+(Module End)
+@NullResponse
+@End

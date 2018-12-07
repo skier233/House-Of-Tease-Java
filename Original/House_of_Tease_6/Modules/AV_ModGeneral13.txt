@@ -1,0 +1,259 @@
+@Variable[#DateDifference(AV_SessionTime,minutes)]<[15] #Stop @StopStroking @Goto(IniModule)
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+@NullResponse @Chance50(DecidEdge)
+#StopStroking @StopStroking @Goto(IniModule)
+(DecidEdge)
+#Edge @Edge
+(Sub Not Stroking)
+(IniModule)
+@NullResponse @RapidCodeOn 
+@NullResponse @CheckFlag(AV_ModGeneral13_NotFirstTime)
+@NullResponse @SetVar[AV_ModGeneral13]=[0] 
+@NullResponse @SetFlag(AV_ModGeneral13_NotFirstTime)
+(AV_ModGeneral13_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModGeneral13]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModGeneral13]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModGeneral13]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModGeneral13]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModGeneral13]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModGeneral13]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModGeneral13]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModGeneral13]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModGeneral13]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModGeneral13]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModGeneral13]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModGeneral13]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModGeneral13]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModGeneral13]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModGeneral13]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModGeneral13]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModGeneral13]=[AV_ModGeneral13]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModGeneral13]=[AV_ModGeneral13]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModGeneral13]=[AV_ModGeneral13]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModGeneral13]=[AV_ModGeneral13]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModGeneral13]=[0]
+@NullResponse @RandomModule
+@End
+(Modulo1)
+Just sit back and relax
+spread your legs nice and wide while cupping your balls. 
+Let have a look at that cock of yours.
+No touching it just yet.
+That looks about right, go ahead and touch just the tip with a finger. 
+My you are excited! 
+Ok just let go and relax a moment.
+Now just massage your balls lightly as you touch just the tip with a finger as I explain. 
+This should not get you overly excited, just enjoyable.
+Ok just let go and relax a moment.
+In a moment I am going to have you stroke your cock but I want you to grab it backwards.
+I think you can do this for me, yes?
+Now you may stroke just like I said. @PlayAudio[tease\cStroke.mp3] 
+Just like that, stroking your cock as you gently rub your balls. 
+Focus your mind on that sweet spot!
+Keep focusing your mind on that sweet spot as you stroke. 
+Lets switch it up now. 
+Let go of your balls and start touching the tips of your nipples.
+Keep touching that nipple as you stroke your cock. 
+Is playing with your nipples sending tingles to that sweet spot? @Timeout(5, AV_Timeo11)
+[yes] #Good @MoodUp
+[no] No? 
+@DifferentAnswer #YesorNo
+(AV_Timeo11)
+Now grab your cock at the base with your full fist 
+and stroke all the way up and stretch the skin as high as it will go and hold it there a moment. 
+Is your cock throbbing now?
+And now give your cock one good full stroke all the way down and keep the skin stretched nice and tight.
+Hold the skin stretched all the way down.
+Keep holing your skin all the way down and pinch your favorite nipple!
+Make your cock twitch in need by playing with that nipple good!
+Hands to your side. @PlayAudio[tease\cStop.mp3]
+Just stop everything and breath deeply.
+@End
+(Modulo2)
+@NotFlag(AV_LikeAnal) @NullResponse @Goto(ANALALTERNATIVE)
+#SubName, I am here to help you explore your darkest pleasures. 
+There is a catch to such pleasure as you must not have an orgasm and try to avoid the edge. 
+You will need to have some more lube handy. Let me know when you are ready to begin.
+[yes, ready, done] #Good
+@DifferentAnswer Are you ready #SubName?
+Now lets start by stroking your cock nice and slow. @PlayAudio[tease\cStroke.mp3] 
+Thats it, good! 
+Bring your hand slowly up and down fousing on the pleasure of your #Cock.
+Just nice and slow, up and down your cock. 
+I hope this will not be too difficult but try not to edge.
+keep it long and hard.
+As you slowly stroke your cock I want you to focus your mind on your asshole. 
+Oh yes we will be going there soon.
+Just keep stroking your cock as you think about your asshole. 
+Now we are not touching it yet but we will be.
+Is the thought of playing with your asshole making your cock twitch? 
+Yes keep stroking nice and slow.
+Now let go of your cock and rest a moment.  @PlayAudio[tease\cStop.mp3] 
+Put your legs on the table
+open it!! @Wait(15)
+Remember the lube? 
+I want you to spread lube all around your balls and asshole @Wait(17)
+Thats it! 
+Keep spreading that lube around your asshole, make it good and slippery.
+And let your finger explore all around your asshole. 
+Oh you do not have to push into your ass, not if you do not enjoy that. 
+You can if you like to but lets stick to what you can enjoy. @Wait(15)
+I know that makes your cock want more, but lets focus on your asshole for now. @Wait(15)
+Keep playing with your asshole and use your other hand to slowly stroke your cock again. @PlayAudio[tease\cStroke.mp3]
+Yes pet your asshole and slowly stroke your cock, make it want.
+Yes! Now just keep stroking your cock making it want more. @Wait(15)
+Now slow down
+slower and slower. 
+Is it tender now? 
+#Stop
+Go clean yourself @Wait(30)
+@End
+(ANALALTERNATIVE)
+There you are
+I want you to start stroking your dick for me how you like it best. @PlayAudio[tease\cStroke.mp3]
+Dont stroke your dick too fast
+nice and slow.
+Just like that, take the time to enjoy it.
+We got all the time in the world so there is not need to rush.
+Lets give it a few ultra slow strokes all the way up and down.
+And back to just how you like it the best. @Wait(15)
+Oh yes! And more stroking all the way up and down firm and slow.
+Now back to ultra slow all the way up and down. @Wait(15)
+That is it, not too fast now.
+Rub that dick really good now!
+And stroking all the way up and down.
+A tight firm grip stroking slowly all the way up and down. @Wait(15)
+Now twist back and forth instead of up and down just under the head of your dick.
+A few last strokes, slower and lighter, cool down a bit then we can continue in a moment.
+#Stop
+@End
+(Modulo3)
+You are here to listen to what I say
+I will tell you what to do and you will obey
+I love to see you getting aroused
+@RT(I love it when you do as I say, I love watching you Obey)
+#StartStroking @EdgeMode(Goto, NoAllowed)
+Keep going at the same speed
+No edging before I allow it of course @Wait( #Random(10, 20))
+Stroke faster love @Wait( #Random(10, 20))
+Don't edge @Wait( #Random(10, 20))
+#Stroke, #PetName. 
+You like my commands don't you? 
+@Flag(av_fetish_rough) You like when I degrade you. 
+@Flag(av_fetish_rough) What a pervert you are... 
+@Flag(av_fetish_pegging, AV_LikeAnal) #Stroking and wanting me to fuck your ass with a strap-on 
+I love it. 
+Now what do you say? @Timeout(5, AV_Jump233)
+[thanks, thank you] That's right, #PetName @MoodUp
+@AcceptAnswer Nope
+(AV_Jump233)
+Mmmm... you are a kinky one. 
+You are almost ready to cum?  @EdgeMode(Normal)
+I think it's time to do some edges
+#Edge @EdgeNoHold @MultipleEdges( #Random(2, 4), 10, 100)
+Good boy
+@End
+(NoAllowed)
+#StopStroking @EdgeMode(Normal)
+I told you to not edge #SubName
+I think you need to be punished @Goto(PuMS01, PuMS02, PuMS03, PuMS04)
+(PuMS01)
+@NullResponse @MiniScript(AV_Punish1)
+@NullResponse 
+@End
+(PuMS02)
+@NullResponse @MiniScript(AV_Punish2)
+@NullResponse 
+@End
+(PuMS03)
+@NullResponse @MiniScript(AV_Punish3)
+@NullResponse 
+@End
+(PuMS04)
+@NullResponse @MiniScript(AV_PunishRND)
+@NullResponse 
+@End
+(Modulo4)
+@RT(#PetName, #SubName)
+We're going to play Red Light Green Light! @SetVar[AV_RGBRounds]=[0]
+@Flag(AV_DommeMistress) #Stroke as fast as you physically can when I say green! @SetVar[AV_RGB]=[#Random(10, 15)]
+@NotFlag(AV_DommeMistress) #Stroke as fast as you physically can when I say green! @SetVar[AV_RGB]=[#Random(8, 10)]
+HANDS OFF, when I say red
+Your goal is to not edge during these intense but short sequences! @EdgeMode(Goto, YouFaill)
+Ready?
+(AV_RGBLoop)
+#AV_GreenLight @PlayAudio[tease\bite.mp3] @Wait( #Random(5, 8))
+<Font color="red">RED LIGHT</Font> @PlayAudio[tease\cStop.mp3] @Wait( #Random(15, 20))
+@NullResponse @ChangeVar[AV_RGBRounds]=[AV_RGBRounds]+[1]
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_RGB]=[AV_RGBRounds]Then(AV_FimRGB)
+@NullResponse @Goto(AV_RGBLoop)
+(AV_FimRGB)
+Good job #SubName @EdgeMode(Normal)
+@End
+(YouFaill)
+#StopStroking @EdgeMode(Normal)
+I told you to not edge #SubName
+@Flag(av_fetish_pain) I think you need to be punished @Goto(PuMS01, PuMS02, PuMS03, PuMS04)
+@NotFlag(av_fetish_pain) You disappoint me #SubName
+@End
+(PuMS01)
+@NullResponse @MiniScript(AV_Punish1)
+@NullResponse 
+@End
+(PuMS02)
+@NullResponse @MiniScript(AV_Punish2)
+@NullResponse 
+@End
+(PuMS03)
+@NullResponse @MiniScript(AV_Punish3)
+@NullResponse 
+@End
+(PuMS04)
+@NullResponse @MiniScript(AV_PunishRND)
+@NullResponse 
+@End

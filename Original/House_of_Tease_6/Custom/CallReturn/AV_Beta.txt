@@ -1,0 +1,30 @@
+#StopStroking @StopStroking
+There's something I'd like to know about you...
+I love that you're doing all this for me
+The stroking, the edging, following commands...
+But as someone with a dominant personality it puzzles me
+Why do you do this...
+Now, the way I see it some people are Alphas and others betas
+Obviously, I'm an Alpha #Smile
+But just because you like being submissive doesn't necessarily mean you are a beta...
+You could be an Alpha who just needs a break from being in control now and then
+Although it would make more sense if you <i>were</i> a beta... 
+Whose only purpose in life is to serve as amusement for us Alphas #Smile
+So what do you think, are you an Alpha or a beta?
+[alpha] Oh really? @SetFlag(pvAlpha) @Goto(am an alpha)
+[beta] I thought so #Smile @SetFlag(pvBeta)
+@DifferentAnswer Are you an Alpha or a beta?
+At least it makes some things in life simple, right? @SetFlag(AV_Beta)
+I mean, you don't have to think about wether you could get a girl like me
+@Flag(pvHasPartner) Not as a knock on @Var[pthevNamePartner] of course, I'm sure she's lovely
+@Flag(pvHasPartner) You're lucky someone's interested in you at all...
+That doesn't mean you can't dream and drool over hot girls
+And just because you're not a <i>real</i> man doesn't mean you can't please a woman
+You just have to make a little bit more of an effort #Smile
+@End
+(am an alpha)
+Well, I'd be happy to bring you down a peg #Laugh
+Even if it's just for a few precious moments
+It can be good for Alpha males like yourself to know their place
+I mean, you're still a <i>guy</i>, which puts you below me by default #Smile
+@End

@@ -1,0 +1,131 @@
+@NullResponse @CheckFlag(ERLost) @RapidCodeOn
+@NullResponse @CheckFlag(ERLoss)
+@NullResponse @CheckFlag(ERLoss2)
+(ERLost)
+I told you #Smile
+I was going to #Torture you #Smile
+You're going to really wish you had held out #NameGM
+#EmoteRandom Because now you're <i>really</i> mine
+Your next orgasm, I'm going to ruin it too
+And the one after that 
+#EmoteRandom I'm going to deny you
+#EmoteRandom There's no telling when I'll finally let you come
+I never said <i>how long</i> I was going to deny you for #Smile
+I just said that I was going to deny you
+You had better hope that I actually let you ruin your next orgasm #GeneralTime
+#EmoteRandom Maybe I feel like putting you into "No Stroke Prison"
+#EmoteRandom Maybe I feel like #Making you sit and squirm for awhile @Chance30(Chastity)
+#EmoteFace I'm not feeling quite that mean... <i>I think</i>
+Maybe I'll change my mind later #Smile
+@End
+(Chastity)
+#EmoteHer Actually, that sounds exactly like what I want to do 
+I want you to know that there won't be any relief
+Don't #Touch #That #Cock <i>at all</i> #NameGM
+You lost #Smile 
+I'm claiming <i>all</i> the spoils #GeneralTime
+@End 
+(ERLoss)
+#EmoteMoan
+#SubName
+Normally it would be time for me to let you know if I was going to let you come #GeneralTime @ChastityOff
+But, you already know what I'm going to do to you
+I still want you to edge for me though #EmoteRandom
+(Edge)
+@NullResponse @Chance50(Edge2)
+#Edge @Edge
+#LetTheEdgeFade
+(Edge2)
+#Edge @Edge
+#LetTheEdgeFade @Chance30(Edge)
+#EmoteRandomTF @Goto(EdgeToRuin)
+(EdgeToRuin)
+Edge for me one last time #Name @EdgeToRuin
+<b>Just, take your hands away</b> @SetFlag(OpiateLOR)
+#Smile
+And I want you to give it a full 2 minutes before you clean up
+A whole 2 minutes to let it all #Ache away
+A whole 2 minutes to let it all settle in
+I hope it's so frustrating that you can barely #Take it
+#Surrender to me #Name, just keep your hands away
+#Surrender, #Ache, #Smile
+I hope it #Aches <i>so much</i>
+I want you to wait, I want you to stay <i>so</i> aroused for me
+I want you to be constantly thinking about me
+I want you to be #Squirming for me until I play with you again
+And I want you to be thinking about all the things I am going to do to you when I see you again
+And most of all, I want you wondering about next time
+Will I deny you? Will I ruin you? Will i finally let you come?
+How long will it be before I let you come again?
+Only one way to find out #Name
+Wait, #Ache, #Surrender
+And I don't want you #Stroking #Yourself at all until then, #SubName
+And I know it's hard #Name
+I know #PetName, I know...
+But I want you to #Surrender to me
+I want you to be good for me
+Can you do that? 
+[yes] Good #PetName
+[no] #SubName, I really hope you reconsider
+@DifferentAnswer #YesorNo
+(EndScript)
+If I find out that you got off without my permission, I <b>WONT</b> be happy
+So remember, no stroking #Name
+No stroking, no edging, no coming
+Not until I say
+And you know I always hate saying goodbye
+But, until next time #Name
+I look forward to hearing from you #Smile @EndTease
+@End
+(ERLoss2)
+#EmoteMoan @ChastityOff
+#SubName
+Normally it would be time for me to let you know if I was going to let you come #GeneralTime
+But, you already know what I'm going to do to you
+I still want you to edge for me though #EmoteRandom
+(Edge)
+@NullResponse @Chance50(Edge2)
+#Edge @Edge
+#LetTheEdgeFade
+(Edge2)
+#Edge @Edge
+#LetTheEdgeFade @Chance30(Edge)
+#EmoteRandomTF @Goto(EdgeToRuin)
+(EdgeToRuin)
+Edge for me one last time #Name @EdgeToRuin
+<b>Just, take your hands away</b> @SetFlag(OpiateLOR)
+#Smile
+And I want you to give it a full 2 minutes before you clean up
+A whole 2 minutes to let it all #Ache away
+A whole 2 minutes to let it all settle in
+I hope it's so frustrating that you can barely #Take it
+#Surrender to me #Name, just keep your hands away
+#Surrender, #Ache, #Smile
+I hope it #Aches <i>so much</i>
+I want you to wait, I want you to stay <i>so</i> aroused for me
+I want you to be constantly thinking about me
+I want you to be #Squirming for me until I play with you again
+And I want you to be thinking about all the things I am going to do to you when I see you again
+And most of all, I want you wondering about next time
+Will I deny you? Will I ruin you? Will i finally let you come?
+How long will it be before I let you come again?
+Only one way to find out #Name
+Wait, #Ache, #Surrender
+And I don't want you #Stroking #Yourself at all until then, #SubName
+And I know it's hard #Name
+I know #PetName, I know...
+But I want you to #Surrender to me
+I want you to be good for me
+Can you do that? 
+[yes] Good #PetName
+[no] #SubName, I really hope you reconsider
+@DifferentAnswer #YesorNo
+(EndScript)
+If I find out that you got off without my permission, I <b>WONT</b> be happy
+So remember, no stroking #Name
+No stroking, no edging, no coming
+Not until I say
+And you know I always hate saying goodbye
+But, until next time #Name
+I look forward to hearing from you #Smile @EndTease
+@End 

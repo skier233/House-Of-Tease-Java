@@ -1,0 +1,44 @@
+@Flag(pthevButtPlug) @NullResponse @Chance40(call custom plug)
+@NullResponse @CheckFlag(pvMod32C)
+@NullResponse @CheckFlag(pvMod32B)
+@NullResponse @CheckFlag(pvMod32A)
+#Edge @Edge
+I like going through your porn stash sometimes @SetFlag(pvMod32A)
+Some the kind of stuff you like...
+#StopStroking @StopStroking
+I guess guys in general have a different taste in porn that girls @ShowHardcoreImage @LockImages
+I mean, really #Name @ShowTaggedImage @TagAnalSex
+This, for example @ShowTaggedImage @TagCumshot
+I've never understood what guys find so interesting about the 'money shot' 
+This is more like it #Smile @ShowLesbianImage @UnlockImages
+@End
+(pvMod32A)
+#StopStroking @StopStroking @DeleteFlag(pvMod32A) @SetFlag(pvMod32B)
+Remember when you actually <i>enjoyed</i> masturbation?
+When it used to be a fun thing you did whenever you wanted?
+Those days are over, #PetName
+It's all about frustration and aching now
+The pleasure is nearly <i>all</i> mine
+Sure, I'll throw you a bone from time to time
+Just enough to stave off complete despair in that perverted little mind of yours
+But we both know that agony is what you truly deserve and crave
+And I believe we all get what we deserve in this life, #Name
+@End
+(pvMod32B)
+#StopStroking @StopStroking @DeleteFlag(pvMod32B) @SetFlag(pvMod32C)
+This is pretty hot... @ShowBlogImage @LockImages
+Have you ever actually received a blowjob from a girl?
+[yes] Lucky you #Smile
+[no] Oh... might still happen, you never know #Smile
+@DifferentAnswer #YesOrNo
+I'm not a big fan, myself @ShowBlowjobImage
+But I <i>am</i> a big fan of this... so I can sympathise @ShowTaggedImage @TagCunnilingus 
+Both giving and receiving... so fucking hot #EmoteMoan @UnlockImages
+@End
+(pvMod32C)
+#Edge @Edge
+#LetTheEdgeFade @DeleteFlag(pvMod32C)
+@End
+(call custom plug)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagButtPlug.txt)
+@End

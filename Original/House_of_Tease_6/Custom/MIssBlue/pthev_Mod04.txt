@@ -1,0 +1,91 @@
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pvMod04A)
+All that #JerkingOff @RT(is probably making,must make) your #Balls @RT(fill up nicely,full and heavy) @SetFlag(pvMod04A)
+They @RT(get full with,fill up with,are so full of) frustration and desire and ache
+I'm going to @RT(torment,tease,torture) you until your #Balls feel like they @RT(are going to,will) @RT(explode,burst) 
+@OrgasmRestricted And then I'm going to deny you #Grin @Goto(stop)
+Until you just want it to end @GotoDommeOrgasm
+(Never Allows)
+Of course, you know there's no @RT(release,chance of an orgasm,chance for release,cumming) for you at the end
+Just more @RT(ache,frustration,desperation) and @RT(desire,craving,arousal) #Grin @Goto(stop)
+(Rarely Allows)
+Who knows, maybe @RT(this is your lucky day,you will get lucky today,you will get what you need so much today)
+Maybe your #Balls will get @RT(respite,release,relief) #GeneralTime
+But probably not to be honest #Grin @Goto(stop)
+(Sometimes Allows)
+You'll have to @RT(wait,hold on,hang in there) a little longer to find out
+If they will actually get to explode #GeneralTime
+I don't even know yet myself... @Goto(stop)
+(Often Allows)
+You'll have to @RT(wait,hold on,hang in there) a little longer to find out
+If they will actually get to explode #GeneralTime
+But you know I never let you go without @RT(cumming,orgasm,release,pleasure) <i>too</i> long @Goto(stop)
+(Always Allows)
+You know what's coming at the end #Smile
+You're going to @RT(cum all over the place,make a big mess,spurt a big load) like you always do @Goto(stop)
+(stop)
+@NullResponse @Chance50(have fun)
+Stroke for me very slowly, #Name
+I bet you want to speed up...
+Do NOT speed up, #Name
+I want you to stroke agonisingly slow right now
+Tighten your grip
+Squeeze as you stroke, because you wish you could touch my body
+Because there are so many hot girls in the world that you can never have
+Pretty girl must be an endless source of frustration to you @ShowTaggedImage @TagSoloF
+You see them everywhere, and yet... they don't care about you @ShowTaggedImage @TagSoloF
+They make your #Cock hard and they don't even know it @ShowTaggedImage @TagSoloF
+Or maybe they do, and laugh about it behind your back @ShowTaggedImage @TagSoloF
+I don't envy you, #SubName
+Speed up your strokes
+@NullResponse @ShowTaggedImage @TagSoloF
+Worship them their bodies with your strokes, #Name @ShowTaggedImage @TagSoloF
+@NullResponse @ShowTaggedImage @TagSoloF
+@NullResponse @ShowTaggedImage @TagSoloF
+@NullResponse @ShowTaggedImage @TagSoloF
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(have fun)
+In the meantime I'm going to have some fun with you
+Making you frustrated and horny
+#Edge @EdgeHold
+#LetTheEdgeFade
+@BallTorture And now for some pain to your #Balls @CBTBalls
+Look at you, all frustrated and aching and leaking precum #Laugh
+I like messing with you, #PetName
+I love messing with your body and your mind
+I love causing you pain and discomfort
+Causing you blue balls and making you frustrated and pissed off
+Do you know why?
+Because it's fucking funny, that's why #Laugh
+I don't need any other reason, #PetName
+It's fun to make you do all these fucked up things
+@End
+(pvMod04A)
+@Flag(pthevAnal) @NullResponse @Chance50(call custom)
+You know, #Name @DeleteFlag(pvMod04A)
+I @RT(feel like,think,guess) I don't tell you this often enough, but...
+No matter how much you try to please me
+By #JerkingOff and edging
+By hurting yourself for me and sacrificing your dignity for my enjoyment
+No matter how hard you try to satisfy me...
+It will never be enough
+#StartStroking
+#StrokeSlowest
+Maybe it's @RT(difficult,hard) to accept and maybe it's easy...
+Maybe the reason you keep coming back to me is because you know this is true
+And you need to hear it from me over and over again
+Stop, hands off
+I do enjoy toying with you, fucking with your mind
+But it's never enough, I always want more...
+Stroke, #PetName
+In a way it's like that old showbiz saying: always leave them wanting more
+I guess you're doing a great job in that regard, #SubName
+#StrokeSlower
+You do always leave me wanting to see you suffer more #Grin
+Hands off, stop stroking
+@End
+(call custom)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagAnal.txt)
+@End

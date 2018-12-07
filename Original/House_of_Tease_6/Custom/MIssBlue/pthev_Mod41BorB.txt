@@ -1,0 +1,154 @@
+@NullResponse @CheckFlag(pvMod41B)
+@NullResponse @CheckFlag(pvMod41A)
+#Edge @Edge @MultipleEdges(3,7,50)
+#LetTheEdgeFade @SetFlag(pvMod41A)
+@End
+(pvMod41A)
+#StopStroking @StopStroking @DeleteFlag(pvMod41A) @SetFlag(pvMod41B)
+@NullResponse @CheckFlag(pvLikeButts)
+@NullResponse @CheckFlag(pvLikeBoobs)
+@NullResponse @CheckFlag(pvLikeBoth)
+I have to confess something, #Name
+I <i>love</i> girls' asses
+I think I love them even more than #Boobs
+Although I don't quite like them as much as making you squirm #Laugh
+There's just something about a perfect round ass that's just... @ShowButtImage
+Perfect #EmoteHappy @ShowButtImage
+I know you like them too @ShowButtImage
+You have so many pictures of them... @ShowButtImage
+Do you like them more than #Boobs too?
+[yes] #Boobs are nice too, or course @SetFlag(pvLikeButts)
+[no] #Boobs are nice too, or course @Goto(boobs are nice)
+@DifferentAnswer #YesOrNo
+But a perfectly formed #Ass is hard to beat @LockImages
+Edge for this #Ass #PetName @ShowButtImage @EdgeHold
+#LetTheEdgeFade @UnlockImages
+@End
+(boobs are nice)
+Do you like #Boobs more, or about the same?
+[more] Ah, so you're a breast-man! @SetFlag(pvLikeBoobs)
+[same,equally,as much,no preference] It's hard to choose, I know #Smile @SetFlag(pvLikeBoth) @Goto(hard to choose)
+@DifferentAnswer So do you like #Boobs more or do you like butts and boobs equally?
+Well, I can't blame you, #Name
+What's not to like? #Smile @ShowBoobsImage @LockImages
+Edge for this awesome pair of #Boobs @EdgeHold
+#LetTheEdgeFade @UnlockImages
+@End
+(hard to choose)
+#Boobs are nice @ShowBoobsImage
+But so are #Asses @ShowButtImage
+Now I'm not so sure I have a preference anymore either #Laugh
+So I'm going to make you edge to both @LockImages
+Edge for this #Ass #PetName @ShowButtImage @Edge
+#LetTheEdgeFade
+Now edge for this sexy pair or #Boobs @ShowBoobsImage @Edge
+#LetTheEdgeFade @UnlockImages
+@End
+(pvLikeBoth)
+@NullResponse @Goto(pvLikeButts,pvLikeBoobs)
+(pvLikeButts)
+Let me find a nice #Ass picture for you to edge to
+Not this one, nice as it is though @ShowButtImage
+Mmmm @ShowButtImage
+This is the one #Smile @ShowButtImage @LockImages
+Edge for this #Ass #Name @Edge
+#LetTheEdgeFade @UnlockImages
+@End
+(pvLikeBoobs)
+Let me find a nice #Boobs picture for you to edge to
+Not this one, nice as they are though @ShowBoobsImage
+Mmmm @ShowBoobsImage
+This is the one #Smile @ShowBoobsImage @LockImages
+Edge for these #Boobs #Name @Edge
+#LetTheEdgeFade @UnlockImages
+@End
+(pvMod41B)
+#StopStroking @StopStroking @DeleteFlag(pvMod41B)
+@NullResponse @CheckFlag(pvLikeButts,for butts)
+@NullResponse @CheckFlag(pvLikeBoobs,for boobs)
+Boobs... @ShowBoobsImage
+...Or Butts @ShowButtImage
+It's so hard to choose between the two, isn't it? #Smile
+[yes] I know, #PetName
+[no] Oh? @DeleteFlag(pvLikeBoth) @Goto(not hard to choose)
+@DifferentAnswer #YesOrNo
+So which part of the female anatomy will I make you worship this time...
+Hm... @Goto(for butts,for boobs)
+@End
+(not hard to choose)
+Which so you prefer, boobs or butts?
+[boobs,breasts,tits] Yeah breasts are pretty awesome... @SetFlag(pvLikeBoobs)
+[butts,ass] Yeah I like asses too... @SetFlag(pvLikeButts)
+[both,neither,either,can't choose,don't know] Oh for fuck's sake *rolls eyes* @SetFlag(pvLikeBoth) @Goto(make up mind)
+@DifferentAnswer Boobs or butts?
+I'll keep it in mind, #Name
+The more I know about you, the better I'll get at making you squirm #Grin
+@End
+(make up mind)
+Would it kill you to make up your mind for once?? @MoodDown
+@End
+(for butts)
+Nice ass, huh? @ShowButtImage @LockImages
+Be careful, you're starting to drool all over yourself again... #Laugh
+I know how much you like to stare at asses... how weak they make you
+I want you to worship this ass with 10 strokes, #Name @EdgeMode(Goto,did not think)
+Try to imagine what it would feel like to touch it
+How hard it would make your #Cock if you could only kneel down and kiss it
+For every picture of an ass I show you... @ShowButtImage
+...I want you to do 10 firm strokes 
+So that's 10 stokes for this ass...
+And 10 for this one... @ShowButtImage
+Next time a hot girl bends over in front of you
+Or simply walks by in a short skirt, hips swaying...
+You will remember each and every one of these strokes @ShowButtImage
+Maybe your mind won't, but your #Cock will #Smile
+10 strokes for each of these butts, #Name @ShowButtImage
+Don't forget and don't lose count
+And no more than 10 strokes for each ass, hands off if you did them
+@NullResponse @ShowButtImage
+No edging, just stroking, #Name
+@NullResponse @ShowButtImage
+@NullResponse @Wait(#Random(5,20))
+(another ass)
+@NullResponse @ShowButtImage
+@NullResponse @Wait(#Random(5,20))
+@NullResponse @ShowButtImage
+@NullResponse @Wait(#Random(5,20))
+@NullResponse @Chance85(another ass)
+That's enough ass-kissing for now, #Name #Smile @UnlockImages @EdgeMode(Normal)
+@End
+(for boobs)
+Nice boobs, huh? @ShowBoobsImage @LockImages
+Be careful, you're starting to drool all over yourself again... #Laugh
+I know how much you like to stare at breasts... how weak they make you
+I want you to worship these breasts with 10 strokes, #Name @EdgeMode(Goto,did not think)
+Try to imagine what it would feel like to touch them
+How hard it would make your #Cock if you could only lick those nipples
+For every picture of boobs I show you... @ShowBoobsImage
+...I want you to do 10 firm strokes 
+So that's 10 stokes for these breasts...
+And 10 for these... @ShowBoobsImage
+Next time a hot girl bends over in front of you, revealing her cleavage
+Or simply walks by in a tight t-shirt
+You will remember each and every one of these strokes @ShowBoobsImage
+Maybe your mind won't, but your #Cock will #Smile
+10 strokes for each pair of breasts, #Name @ShowBoobsImage
+Don't forget and don't lose count
+And no more than 10 strokes, hands off if you did them
+@NullResponse @ShowBoobsImage
+No edging, just stroking, #Name
+@NullResponse @ShowBoobsImage
+@NullResponse @Wait(#Random(5,20))
+(another ass)
+@NullResponse @ShowBoobsImage
+@NullResponse @Wait(#Random(5,20))
+@NullResponse @ShowBoobsImage
+@NullResponse @Wait(#Random(5,20))
+@NullResponse @Chance85(another ass)
+That's enough boob worship for now, #Name #Smile @UnlockImages @EdgeMode(Normal)
+@End
+(did not think)
+#LetTheEdgeFade
+Wow, I didn't think you'd get to the edge so easily... @UnlockImages
+And in fact, I explicitly told you not to edge, didn't I? @Interrupt(pvInt_Punishment)
+@End

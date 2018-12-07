@@ -1,0 +1,7 @@
+@NullResponse @SetFlag(pvOCGdecided) @AFKOn @RapidCodeOn
+@NullResponse @SetVar[pvOCGhoursdenial]=[pvOCGnumber]*[24]
+@NullResponse @ChangeVar[pvOCGhoursdenial]=[pvOCGhoursdenial]-[12]
+@NullResponse @SetDate(pvOCGstartdenial,0 days)
+@NullResponse @RestrictOrgasm(4 weeks)
+@NullResponse @AFKOff @RapidCodeOff
+@End

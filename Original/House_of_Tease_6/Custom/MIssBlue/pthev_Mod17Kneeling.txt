@@ -1,0 +1,148 @@
+@NullResponse @CheckFlag(pvWillNotKneel)
+@NullResponse @CheckFlag(pvKneeling,already kneeling)
+Are you comfortable, #Name?
+[yes] It must be nice to just sit and #JerkOff @Goto(are you sitting down)
+[no] Oh...
+@DifferentAnswer #YesOrNo
+Is all this #JerkingOff getting to you?
+[yes] Aww #Grin
+[no] Then what are you moaning about #EmoteFlustered
+@DifferentAnswer #YesOrNo
+I guess it's not easy to have to sit and #JerkOff all the time
+(are you sitting down)
+You <i>are</i> sitting down, aren't you?
+[yes] And why wouldn't you be... #Smile
+[no] Well, I guess I never said you <i>should</i> sit down...
+@DifferentAnswer #YesOrNo
+Can you guess what I think the best position is for a #PetName like you?
+[yes] So what do you think? @LoopAnswer
+[no,don't know,not sure] Not the guessing type, are you? #Smile
+[kneeling,knees,knee] That's right #Smile
+[all fours,crawling,crawl] Almost right
+@AcceptAnswer Nope
+#StopStroking @StopStroking
+@NullResponse @Chance50(kneeling alt)
+I want you to get down on your knees for me, #Name @TempFlag(pvKneeling)
+What better way to show your submission to me #Smile
+Can you feel it? @RapidTextOn
+Can you feel yourself getting more submissive already? @RapidTextOff
+[yes] You practically melt away before my eyes
+[no] You know that's not true, #PetName
+@DifferentAnswer #YesOrNo
+Spread your legs wider
+Thrust your pelvis forward, present that #Cock to me
+Arch your back, #PetName
+Chest out, shoulders back
+Hands behind your back @Wait(5)
+Now that's what I call good posture #Smile
+Your #Cock and #Balls exposed for easy access #Grin
+#StartStroking
+Try to keep that posture as you stroke, #PetName
+#StrokeFaster
+#Edge @EdgeHold
+#LetTheEdgeFade
+I think you should stay on your knees a bit longer
+Just to make sure that submissive feeling stays with you @BookmarkModule
+@End
+@NullResponse @CheckFlag(pvKneeling,already kneeling)
+#StopStroking @StopStroking
+@RT(You should,I want you to) get back on your knees now, #SubName @TempFlag(pvKneeling)
+You're not getting off that easy
+@AllowsOrgasm(Always,Often) I already allow you to get off too often anyway #Lol
+@AllowsOrgasm(Sometimes,Rarely,Never) I don't allow you get off all that often anyway #Lol
+You can use a pillow if you want
+But don't even think about getting up until I say so, #PetName
+@End
+(already kneeling)
+@NullResponse @Chance50(come a little closer)
+Are your knees starting to hurt yet?
+[yes] Good #Grin
+[no] Well, there is still time #Grin
+@DifferentAnswer #YesOrNo
+You're not using a pillow, are you?
+[yes,i am] Then get rid of it right now, #Name
+[no,not] Good boy @Goto(chance to stop kneeling)
+@DifferentAnswer Are you using a pillow for your knees, yes or no?
+I don't want you to get too comfortable
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(chance to stop kneeling)
+I don't want you to get too comfortable @Chance30(suit yourself)
+But I don't want to be too cruel either...
+I'll let you @RT(get off your knees,stop kneeling) if you @RT(bust,hurt) your #Balls for me
+Would you like that?
+[yes] Okay, #Name
+[no] Suit yourself, stay on your knees then @Goto(suit yourself)
+@DifferentAnswer #YesOrNo
+If that's what you want... @CBTBalls
+#Edge @EdgeHold
+#LetTheEdgeFade
+You can get off your knees now, #PetName @DeleteFlag(pvKneeling)
+@End
+(suit yourself)
+#Edge @EdgeHold
+#LetTheEdgeFade
+@End
+(kneeling alt)
+I want you to get on your knees for me @TempFlag(pvKneeling)
+@RT(Right now,Do it,On your knees), #PetName
+That's it #Smile
+@RT(Keep,Do not stop,Continue) #JerkingOff for me
+(come a little closer)
+I @RT(love,like,do enjoy,just adore) it when you're @RT(kneeling for,on your knees for,so submissive for,crawling before) me
+Why don't you come a little closer now
+Just move closer to the screen, #Name
+So you can see me up close
+Close enough to imagine feeling the heat off my skin
+#StartStroking
+If only I was @RT(in the room with you,right there with you,with you right now)
+So close I could @RT(run my hand through your hair,lay my hand on your head,hold your head in my hands)
+#StrokeFaster
+You are mine, #PetName
+It's as simple as that
+You are my masturbating minion #Laugh
+#StopStroking
+Fuck, I love having this control over you #Grin
+@CockTorture @NullResponse @CBTCock
+What now, hm?
+Put your hands behind your back
+You're just going to stay there on your knees
+And wait for me to decide what to do with you next @Timeout(7,in fact why should)
+[anything] I said hands behind your back, #PetName
+@AcceptAnswer I said hands behind your back, #PetName
+(in fact why should)
+In fact, why should we do anything... @Timeout(8,you are fine on)
+[anything] I said hands behind your back, #PetName
+@AcceptAnswer I said hands behind your back, #PetName
+(you are fine on)
+You are fine on your knees like that @Timeout(12,why would you always)
+[anything] I said hands behind your back, #PetName
+@AcceptAnswer I said hands behind your back, #PetName
+(why would you always)
+Why would you always have to #JerkOff
+Sometimes you need to just sit
+Or kneel #Smile
+And contemplate your situation
+Feel your knees getting sore
+Your hands behind your back, aching to touch your #Cock
+And your #Cock...
+Slowly getting soft #Laugh
+We can't have that, #PetName
+Stay exactly as you are
+In the meantime, to help you stay hard 
+I'll let you watch some porn #Smile @PlayVideo
+I hope you liked that video @Timeout(10,you can sit again)
+[yes] I said hands behind your back, #PetName @Goto(is it so hard to listen)
+@AcceptAnswer I said hands behind your back, #PetName @Goto(is it so hard to listen)
+(you can sit again)
+You can get off your knees now #Name @DeleteFlag(pvKneeling)
+@End
+(is it so hard to listen)
+Seems you have trouble following simple instructions, #SubName
+I think I have to teach you a lesson in obedience @Interrupt(pvInt_Punishment)
+@End
+(pvWillNotKneel)
+#Edge @Edge
+#LetTheEdgeFade
+@End

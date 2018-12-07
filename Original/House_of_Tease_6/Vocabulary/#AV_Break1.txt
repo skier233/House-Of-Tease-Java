@@ -1,0 +1,6 @@
+I think I'll take a short @RT(break, pause)
+I need to take a short @RT(break, pause)
+I think I'll take @RT(break, pause)
+I need to take @RT(break, pause)
+I need to leave for a few minutes @RT(#SubName, #PetName)
+I need to leave for some minutes #SubName.

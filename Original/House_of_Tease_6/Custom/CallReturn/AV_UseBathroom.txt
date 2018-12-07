@@ -1,0 +1,10 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+Stop stroking  @StopStroking
+(Sub Not Stroking)
+You can use the bathroom #SubName but...
+@RT(You must urinate like a woman does when there is no toilet available, You must pee like a male dog does... by lifting your leg, You May Not Touch Cock While Peeing, You must stay hard)
+Tell me when you are done
+[done, yes, ready] good boy
+@DifferentAnswer Are you done #SubName?
+@End

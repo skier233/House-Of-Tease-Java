@@ -1,0 +1,145 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link1_NotFirstTime)
+@NullResponse @SetVar[AV_Link1]=[0] 
+@NullResponse @SetFlag(AV_Link1_NotFirstTime)
+(AV_Link1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link1]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link1]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link1]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link1]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link1]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link1]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link1]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link1]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link1]=[AV_Link1]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link1]=[AV_Link1]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link1]=[AV_Link1]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link1]=[AV_Link1]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link1]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Mmmm yes
+This is one of the things I love about you, you know
+how deep you let me go inside you.
+You give me this feeling, like
+every part of you that's sexual connects back to me @CheckFlag(AV_Know_11)
+Like...
+Are you actually interested in Post Orgasm Torture? @SetFlag(AV_Know_11)
+[yes] #Great  @Goto(PostTime)
+[no] #EmoteSad
+@DifferentAnswer Yes or no #PetName?
+#StartStroking @StartStroking
+@End
+(PostTime)
+How long should I torture you with post orgasm stroking? @InputVar[AV_Persona10]
+#EmoteSquirm @SetFlag(AV_Persona30)
+#StartStroking @StartStroking
+@End
+(AV_Know_11)
+I love how easy it is to make you squirm
+feeling your muscles tense up as you fight not to groan
+The whole time I know your cock's getting bigger
+Even though your cock must be aching
+#StartStroking @StartStroking
+@End
+(Link2)
+a big part of you is praying that I don't let you touch it
+Still, I bet there's at least some part of you @CheckFlag(AV_Know_21)
+that would want me to let you touch anyway.
+@RandomText(The part of you that just wants to feel good, The part of you that makes it hard for your body to wait for me)
+The part of you that goes crazy thinking about the next time you get to touch me @CustomTask(AV_StrokeNumber)
+How would you feel if I wanted to show you off to other Dommes? @InputVar[AV_Persona20]
+#EmoteLaugh @SetFlag(AV_Know_21)
+#StartStroking @StartStroking
+@End
+(AV_Know_21)
+Can I tell you a secret?
+That small part of you, that part you have to fight back every day for me
+I LOVE fucking with that part of you
+I know it sounds mean, but...
+nothing gets me hotter than watching you when all you want to do is cum
+but you can't 
+#StartStroking @StartStroking
+@End
+(Link3)
+I'm going to make you stroke for every part of me
+Edge for every part of me @Goto(01b,02b)
+(01b)
+until I've burned every curve, every shade and every shadow of my body into your mind
+I'm going to use your ache to make sure you never forget my body
+(02b)
+make sure you never stop THINKING about my body @CheckFlag(AV_Know_04)
+What is the girl's name you lost your virginity? @InputVar[AV_Persona05]
+I will make you forget about her @SetFlag(AV_Know_04)
+#StartStroking @StartStroking
+@End
+(AV_Know_04)
+But you need to suffer more to make sure that happens
+#StartStroking @StartStroking
+@End
+(Link4)
+If you really think about it
+being in here is just as much a tease for me as it is for you.
+I want you to understand that I know what it's like to crave something you can't have
+to just feel it pulling at you in the sexiest ways. @CheckFlag(AV_Know_06)
+Which sex toy would you like I had?  @InputVar[AV_Persona07]
+Putting on my Shop list @SetFlag(AV_Know_06)
+#StartStroking @StartStroking
+@End
+(AV_Know_06)
+It's a feeling like your hands are tied down 
+when there's this one sweet spot you just want to scratch. 
+#StartStroking @StartStroking
+@End

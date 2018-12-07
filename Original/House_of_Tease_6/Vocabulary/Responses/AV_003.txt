@@ -1,0 +1,4 @@
+[5745754445444554]
+[All]
+@NullResponse @CallReturn(Custom\Shorts\Short20.txt)
+[All End]

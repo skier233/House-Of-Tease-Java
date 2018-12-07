@@ -1,0 +1,112 @@
+[it hurts,this hurts,i hurt,hurting me,hurts so,im in pain,me in pain,hurts too much,hurts bad,hurts badly,i'm in agony,i am in agony,i'm in pain,lot of pain]
+[Before Tease]
+[Before Tease End]
+[First Round]
+You're in pain <i>already</i> #PetName?
+If you're in pain now just think about how much worse things might be later my #PetName
+You'll have to learn to endure more than this #PetName.
+Maybe later I'll really #Hurt you #PetName #Emote
+We only just started! #EmoteRandom
+It's only going to get worse #PetName #EmoteRandom
+I think you actually <i>want</i> me to hurt you #PetName
+[First Round End]
+[Stroking]
+Sometimes stroking is so intense it can be painful. Is that how you feel #PetName?
+I want you stroking so hard it hurts #PetName
+Awww, are you in pain #PetName? Keep going!
+Seeing your pain turns me on so much #EmoteRandom
+I'm enjoying this so much #EmoteHappy
+I'm afraid it will only get worse for you #PetName
+@BadMood I want you stroking so hard it hurts #PetName #StrokeFaster @StrokeFaster
+@BadMood I'm afraid it will only get worse for you #PetName #StrokeFaster @StrokeFaster
+@GoodMood Since you is a good boy today... #StrokeSlower @StrokeSlower
+@GoodMood Since you is a good boy today... #StrokeSlower @StrokeSlower
+Sometimes stroking is so intense it can be painful. Is that how you feel #PetName? @ResponseYes(AV_001)
+Awww, are you in pain #PetName? Keep going! @CallReturn(Custom\Shorts\Short01.txt)
+I'm afraid it will only get worse for you #PetName @CallReturn(Custom\Shorts\Short02.txt)
+Seeing your pain turns me on so much #EmoteRandom @CallReturn(Custom\Shorts\Short03.txt)
+Awww, are you in pain #PetName? Keep going! @CallReturn(Custom\Shorts\Short01.txt)
+I'm afraid it will only get worse for you #PetName @CallReturn(Custom\Shorts\Short04.txt)
+Seeing your pain turns me on so much #EmoteRandom @CallReturn(Custom\Shorts\Short03.txt)
+I'm enjoying this so much  @CallReturn(Custom\Shorts\Short05.txt)
+[Stroking End]
+[Not Stroking]
+@Flag(av_intera_004) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_005) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_006) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_007) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_011) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_003) @NullResponse @CallReturn(Custom\Interact\AV_Gen04.txt)
+@Flag(av_intera_012) @NullResponse @CallReturn(Custom\Interact\AV_Gen04.txt)
+@Flag(av_intera_013) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_015) @NullResponse @CallReturn(Custom\Interact\AV_Gen01.txt)
+@Flag(av_intera_016) @NullResponse @CallReturn(Custom\Interact\AV_Gen02.txt)
+@Flag(av_intera_017) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_018) @NullResponse @CallReturn(Custom\Interact\AV_Gen05.txt)
+@Flag(av_intera_019) @NullResponse @CallReturn(Custom\Interact\AV_EdgeInter.txt)
+@NotFlag(av_intera_001, av_intera_002, av_intera_003, av_intera_004, av_intera_005, av_intera_006, av_intera_007, av_intera_008, av_intera_009, av_intera_010, av_intera_011, av_intera_012, av_intera_013, av_intera_014, av_intera_015, av_intera_016, av_intera_017, av_intera_018, av_intera_019) @NullResponse
+[Not Stroking End]
+[Edging]
+Have I made you edge too much, is it painful #Subname? #Grin
+I want to edge you so much it hurts #SubName
+Awww, are you in pain #PetName? Keep going!
+It's only going to get worse #PetName #EmoteRandom
+[Edging End]
+[Holding The Edge]
+Is it painful, holding the edge? #EmoteRandom
+Ride that edge and hurt for me #PetName
+I love making that #Cock hurt #SubName
+I want to make your #Balls so full they hurt
+I hope you're in pain #SubName
+[Holding The Edge End]
+[CBT Cock]
+Awwww, does your #Cock hurt? Guess what... it's meant to #EmoteHappy
+Awwww, does it hurt? Guess what... it's meant to #EmoteHappy
+Is poor little #SubName in pain? #Grin
+Good, I want your #Cock to hurt #SubName 
+Good, I want your #Cock to hurt #SubName @CallReturn(Custom\Shorts\Short01.txt)
+I want to #Hurt your #Cock so bad #PetName @CallReturn(Custom\Shorts\Short01.txt)
+Feel the pain, #PetName
+I love hurting you so, so much #SubName #EmoteHappy @CallReturn(Custom\Shorts\Short01.txt)
+I <i>want</i> it to hurt
+This is getting me so #DomHorny #EmoteRandom
+Take it #PetName, hurt that #Cock like I would if only I were there
+Hurting your #Cock is so much fun! For me... #EmoteHappy
+I do so love seeing your #Cock in pain... #EmoteMoan
+I only want to #Hurt that #Cock a little, I promise #Grin
+Come on, I know you like the pain #Grin @CallReturn(Custom\Shorts\Short01.txt)
+Don't you like hurting that #Cock for me? #Grin @ResponseNo(AV_001)
+I <i>want</i> it to hurt @CallReturn(Custom\Shorts\Short05.txt)
+[CBT Cock End]
+[CBT Balls]
+Awwww, do your #Balls hurt? Good, they're meant to #EmoteHappy
+Awwww, does it hurt? #Grin
+Is poor little #SubName in pain? #Grin
+Good, I want your #Balls to hurt #SubName
+I want to #Hurt your #Balls so bad #PetName
+Feel the pain deep in your #Balls #PetName
+I love hurting your #Balls #SubName #EmoteHappy
+I <i>want</i> it to hurt
+Your pain gets me all #DomHorny #EmoteRandom
+Take it #PetName, hurt those #Balls like I would @CallReturn(Custom\Shorts\Short05.txt)
+Hurting your #Balls is so much fun! Maybe not so much for you #EmoteRandom
+I love seeing your #Balls in pain... #EmoteMoan
+Relax, I only want to #Hurt those #Balls a little bit, I promise #EmoteRandom
+Your #Balls aren't hurting enough for me yet though #EmoteRandom
+I think you like the pain #Subname
+I want to hurt those #Balls so much that you start to crave the pain #SubName
+Don't you like abusing those #Balls for me? #Grin
+I <i>want</i> it to hurt @CallReturn(Custom\Shorts\Short05.txt)
+[CBT Balls End]
+[Chastity]
+Does it hurt, with that poor #Cock all locked up? Awwww
+That cage looks awfully tight and painful #EmoteRandom
+Awwww, does it hurt? #Grin
+Feel that cage crushing your #Cock #PetName
+[Chastity End]
+[After Tease]
+I want you in even more pain for me next time #PetName #EmoteHappy
+Did little old me hurt you at all? #Grin
+If you're in pain I hope it serves as a reminder of our time together #EmoteHappy
+I'll make sure to really #Hurt you next time #SubName #EmoteRandom
+[After Tease End]

@@ -1,0 +1,133 @@
+#StopStroking @StopStroking
+@NullResponse @CheckFlag(pvMod50A)
+@NullResponse @SetFlag(pvMod50A)
+Let's play a game, #Name @CheckFlag(pvMod19playedpics)
+I'm going to show you some pictures @SetFlag(pvMod19playedpics)
+With every new picture, you will stroke faster than the last @SetVar[pvMod19pics]=[0]
+The trick is to speed up ever so slightly with each picture
+The game ends when you get to the edge
+So just tell me when you do
+Let's see how long you can last #Smile @EdgeMode(Goto,edge to pictures)
+#StartStroking @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @LockImages
+#StrokeSlowest
+A little bit faster now @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1]
+It should still be pretty slow though
+Speed up a little again @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1]
+If you do this right, it could take a long time #EmoteHappy
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1]
+Do <i>not</i> slow down at any time, #PetName
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(6)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1]
+Keep going #Smile
+Keep that pace until the next picture
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1]
+This is all about concentration, #Name
+Focus and self control
+(edge loop)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(6)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(8)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(5)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(9)
+@NullResponse @Goto(edge loop)
+(edge to pictures)
+Stop touching, #Name @EdgeMode(Normal) @UnlockImages
+So you got through @ShowVar[pvMod19pics] pictures, #SubName
+That doesn't tell us much, does it @SetVar[pvMod19picslast]=[pvMod19pics]
+We'll have to play this game again soon
+Then you can try set a new record... #Smile
+@End
+(pvMod19playedpics)
+Do you remember that game where you start slow
+And then stroke faster with each picture?
+[yes] Good, let's play right now #EmoteHappy
+[no] Doesn't matter, it's really simple #Smile
+@DifferentAnswer Do you remember, yes or no?
+With each picture you have to speed up your strokes, until you edge
+Your personal best so far is @ShowVar[pvMod19picslast] pictures
+I keep track of everything, #SubName #Laugh
+Try to beat that record, #Name! @SetVar[pvMod19pics]=[0]
+#StartStroking  @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @LockImages @EdgeMode(Goto,edge to pictures again)
+#StrokeSlowest
+You don't want to get to the edge too soon
+A little bit faster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1]
+You do want to improve your score, don't you?
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(6)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1]
+Keep the pace until the next picture comes @Wait(4)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(6)
+At least you get to look at some hot images #EmoteHappy
+(edge loop again)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(6)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(8)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(5)
+#StrokeFaster @ShowBlogImage @ChangeVar[pvMod19pics]=[pvMod19pics]+[1] @Wait(9)
+@NullResponse @Goto(edge loop again)
+(edge to pictures again)
+Stop touching, #Name @EdgeMode(Normal) @UnlockImages
+@NullResponse @If[pvMod19pics]>[pvMod19picslast]Then(new record)
+Too bad, you only got to @ShowVar[pvMod19pics]
+The old record still stands!
+Better luck next time, #PetName
+@End
+(new record)
+You did it #EmoteHappy
+And the new record is... *drum roll*
+@ShowVar[pvMod19pics]!
+Great job, #SubName @SetVar[pvMod19picslast]=[pvMod19pics]
+We'll see how long this record will stand #EmoteWink
+@End
+(pvMod50A)
+@NullResponse @CheckFlag(pvMod50B)
+@NullResponse @SetFlag(pvMod50B) @CheckFlag(pvBallsTied)
+@Flag(pthevShoelace) @NullResponse @CallReturn(Custom/CallReturn/pvCr_TieMyBalls.txt)
+@NullResponse @Goto(continue after tying up)
+(pvBallsTied)
+I bet your #Balls get so sensitive when they're tied up #Smile
+@BallTorture And I bet I can make them more sensitive still... @CBTBalls
+(continue after tying up)
+Owning a #Cock is so much fun, it's almost like a pet
+#StartStroking
+#StrokeFastest
+Stop! Hands off...
+It's like a dog I can teach tricks
+Sitting pretty is especially easy #Giggles
+#StartStroking
+#StrokeSlowest
+@Flag(pvBallsTied) I keep this little doggie on a tight leash, too #Grin
+#StopStroking
+@Flag(pthevCompleteControlYES) Can you even remember what it was like to be the proud owner of a #Cock?
+@Flag(pthevCompleteControlYES) You are so lucky to have me to control your #Cock, #Name
+A #Cock needs to be trained... just like a dog, it's not born obedient
+#StartStroking
+#StrokeFastest
+Stop!
+Good boy... obedience comes so naturally to you #Smile
+#StartStroking
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pvMod50B)
+Grab your #Balls and squeeze them for me, #PetName @DeleteFlag(pvMod50B) @DeleteFlag(pvMod50A)
+Not too tight, just a nice tight grip
+As you squeeze I want you to move your hand up and down to make your #Cock bounce
+Not just once, keep doing it, keep bouncing that #Cock up and down @Wait(6)
+You look pretty silly doing that, don't you think? #Giggles
+Bounce it harder, #Name
+There should be precum flying across the room... @Wait(8)
+You can stop now
+Hands off your #Balls
+Tease that sensitive head of your #Cock
+Rub it very lightly with the palm of your hand
+Think about rubbing your cock between my #Boobs
+If it actually was <i>your</i> cock, maybe I'd let you do that for real
+Maybe I would wrap my lips around the shaft 
+And take it all the way into my wet mouth and down my throat...
+But it's not your cock, is it?
+You don't own that toy between your legs, it's <i>mine</i>
+So giving it pleasure wouldn't do you any good anyway
+@CockTorture @NullResponse @CBTCock
+Hands off my cock, just let it bounce in the air now
+That #Cock is just a means to an end, #PetName
+It's an object that I can use to tease and torment you
+Nothing more
+@End

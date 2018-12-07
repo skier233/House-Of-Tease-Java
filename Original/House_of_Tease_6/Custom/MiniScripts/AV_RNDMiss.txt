@@ -1,0 +1,125 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_MiniScript1_NotFirstTime)
+@NullResponse @SetVar[AV_MiniScript1]=[0] 
+@NullResponse @SetFlag(AV_MiniScript1_NotFirstTime)
+(AV_MiniScript1_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_MiniScript1]=[0]Then(Part1_1)
+@NullResponse @If[AV_MiniScript1]=[1]Then(Part1_2)
+@NullResponse @If[AV_MiniScript1]=[10]Then(Part1_3)
+@NullResponse @If[AV_MiniScript1]=[100]Then(Part1_4)
+@NullResponse @If[AV_MiniScript1]=[1000]Then(Part1_5)
+@NullResponse @If[AV_MiniScript1]=[11]Then(Part1_6)
+@NullResponse @If[AV_MiniScript1]=[101]Then(Part1_7)
+@NullResponse @If[AV_MiniScript1]=[111]Then(Part1_8)
+@NullResponse @If[AV_MiniScript1]=[110]Then(Part1_9)
+@NullResponse @If[AV_MiniScript1]=[1001]Then(Part1_10)
+@NullResponse @If[AV_MiniScript1]=[1011]Then(Part1_11)
+@NullResponse @If[AV_MiniScript1]=[1111]Then(Part1_12)
+@NullResponse @If[AV_MiniScript1]=[1010]Then(Part1_13)
+@NullResponse @If[AV_MiniScript1]=[1110]Then(Part1_14)
+@NullResponse @If[AV_MiniScript1]=[1100]Then(Part1_15)
+@NullResponse @If[AV_MiniScript1]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_MiniScript1]=[AV_MiniScript1]+[1]
+@NullResponse @Goto(Modulo1)
+(Mod2)
+@NullResponse @ChangeVar[AV_MiniScript1]=[AV_MiniScript1]+[10]
+@NullResponse @Goto(Modulo2)
+(Mod3)
+@NullResponse @ChangeVar[AV_MiniScript1]=[AV_MiniScript1]+[100]
+@NullResponse @Goto(Modulo3)
+(Mod4)
+@NullResponse @ChangeVar[AV_MiniScript1]=[AV_MiniScript1]+[1000]
+@NullResponse @Goto(Modulo4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_MiniScript1]=[0]
+Say it out and clear: " #AV_RepeatAL "
+@End
+(Modulo1)
+#StrokeSlower @StrokeSlower
+Submitting yourself and your freedom to your mistress is quite the commitment.
+Are you ready for that level of commitment? 
+Do you have the balls, #Slave? 
+Ive got an invisible leash to put around your cock by way of chastity. 
+I will own you like a pet. 
+It will seem as if you are walking around freely but you and I both know what hides beneath your pants. 
+You and I both know you are under the control of yours truly.
+Your actions are dictated by @RT(my decisions, your ability to serve me).
+Perhaps, if you are an obedient and GENEROUS slave.. 
+I may release you from chasity. 
+However, if you prove to be a failure.. 
+you face the possibility of your puny cock being locked away for ETERNITY!
+@End
+(Modulo2)
+#StrokeSlower @StrokeSlower
+You're in my world now! 
+I have a rule: 
+anything that comes into my presence is my property, that's just the way it is. 
+So that means you're mine now, to do with what I will. 
+@Flag(av_fetish_pegging, AV_LikeAnal, av_fetish_rough) I hope you want to be my little bitch slave, because you just lost all your freedom. 
+Everything you do now is in the name of pleasing and serving me. 
+@Flag(av_fetish_pain) So kneel down and get ready for a beating. 
+@Flag(av_fetish_pain) I'm a natural sadist, and I want you hurting for me. 
+@Flag(av_fetish_pain) You're going to suffer a lot, and I'm going to enjoy it.
+@Flag(av_fetish_pain) #StopStroking @StopStroking 
+@Flag(av_fetish_pain) @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank3.mp3]  @Wait(12)
+@Flag(av_fetish_pain) @RT(Hit, Spank) your ass @PlayAudio[tease\spank\*.mp3]  @Wait(12)
+@Flag(av_fetish_pain) @RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3]  @Wait(12)
+@Flag(av_fetish_pain) You can sit now
+@End
+(Modulo3)
+#StrokeSlower @StrokeSlower
+@Flag(av_fetish_pain) I want you to do something for me, something I've been wanting for a long time
+@Flag(av_fetish_pain) I want you to do something that really brings me pleasure. 
+@Flag(av_fetish_pain) I want you to hurt yourself for my amusement. 
+@Flag(av_fetish_pain) That's right, grab your balls and squeeze them till you cry out in pain. 
+You just naturally fall into a submissive state 
+In fact the meaner I get the more your like it I'm sure. 
+Don't worry your little brain about what to do next 
+I'll tell you exactly what you need to do. 
+I'll do the thinking for you from now on.
+@End
+(Modulo4)
+#StrokeSlower @StrokeSlower
+I have some very strict requirements and I don't know if you can handle it. 
+@Flag(av_fetish_pain) You'd have to take quite the ballbusting. 
+@Flag(av_fetish_pain) It would be a daily routine for me to kick you in the balls as hard as I can. 
+You will be in chastity 24/7, locked up in a steel cage with absolutely no release. 
+You will suffer for me. 
+@Flag(AV_LikeAnal) You're going to learn how to properly suck dick for me as you'll be doing that just about every day. 
+Your life is now mine. 
+You will become my full time submissive and I have complete and total control over you. 
+@End

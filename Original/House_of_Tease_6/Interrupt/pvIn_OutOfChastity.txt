@@ -1,0 +1,122 @@
+@RT(Hm,Let me think)... @Chance50(nope)
+@DoesNotHaveChastity @NullResponse @Goto(back to stroking)
+@NullResponse @Chance50(should i let you)
+(take it off)
+Okay, take your cage off then @Wait(20)
+Ready?
+[yes,ready,done] Much better with that cage off, right? #Smile
+[no] Tell me when #PetName @LoopAnswer
+@DifferentAnswer Are you ready to continue?
+@NullResponse @ChastityOff
+@End
+(back to stroking)
+Okay, I guess it's been long enough #Smile @ChastityOff
+@End
+(nope)
+@RT(I don't think so,Not right now,No,The answer is no,No way,Not happening), #Name
+@End
+---
+(should i let you)
+Should I let you...? @Timeout(5,I dont know)
+[yes] Hmm
+[no] If you don't even <i>want</i> it @Goto(dont even want it)
+@DifferentAnswer #YesOrNo
+(I dont know)
+I don't know, I think I'm going to need something in return
+How far would you go for the chance to #JerkOff again @Timeout(6,how far)
+[anything,whatever] Really? @MoodUp
+@AcceptAnswer @NullResponse
+(how far)
+@NullResponse @Chance50(regular)
+@NullResponse @CheckFlag(pthevNoAnal,do anal stuff)
+@NullResponse @CheckFlag(pthevCEI_No,do cei)
+@OrgasmNotRestricted @NullResponse @Goto(restrict your orgasm)
+(regular)
+How about this... @DommeLevelUp @CBTBalls
+You seem pretty eager to get out of that cage
+Alright, #Name @CallReturn(Custom/CallReturn/pvCr_ChastityOff.txt)
+@NullResponse
+@End
+(restrict your orgasm)
+How's this: you you can take it off...
+But then you're not allowed to cum #GeneralTime
+Deal?
+[yes,deal,agree] Okay! #EmoteHappy @Goto(restricted)
+[no,no deal,don't agree] Okay, whatever you say, #Name
+@DifferentAnswer #YesOrNo
+Maybe later #Smile
+@End
+(restricted)
+No cumming for you today @CallReturn(Custom/CallReturn/pvCr_ChastityOff.txt)
+@NullResponse
+@End
+(do cei)
+@RuinsOrgasm(Never) @NullResponse @Goto(regular)
+What if I said you can take off your cage IF...
+...You then ruin an orgasm AND eat it
+[yes,okay,i will,i promise,anything,whatever] #Yay @Goto(ruin it)
+[no] Maybe you don't <i>really</i> want to get out of that thing after all
+@DifferentAnswer #YesOrNo
+Maybe later #Smile
+@End
+(ruin it)
+Okay, take your cage off then @Wait(20)
+Ready?
+[yes,ready,done] Much better with that cage off, right? #Smile
+[no] Tell me when #PetName @LoopAnswer
+@DifferentAnswer Are you ready to continue?
+@NullResponse @ChastityOff
+I love that you're going to eat your cum for me @TempFlag(pvNotWantCEI)
+Start stroking that #Cock
+Make it nice and hard
+Don't forget to catch your cum when you ruin it #Smile
+#Edge @EdgeToRuinNoSecret
+Good boy
+Now lick it up, #Name #Grin
+No matter how #Disgusting you think it is
+Swallow every last drop
+Did you do it?
+[yes] Good @MoodUp @Goto(would you do it again)
+[no] C'mon #PetName @MoodDown
+@DifferentAnswer #YesOrNo
+@NullResponse @CallReturn(Custom/CallReturn/pvCr_NotWantCEI.txt)
+And maybe you'll learn to love it after all #Smile
+@End
+(would you do it again)
+See, that wasn't too bad #Smile @DeleteFlag(pvNotWantCEI)
+Would you do it again if I asked you to do it?
+[yes] #Yay @DeleteFlag(pthevCEI_No) @SetFlag(av_fetish_cei) @DeleteFlag(pthevCEITraining)
+[no] At least I got you to do it this time #Grin
+@DifferentAnswer #YesOrNo
+Maybe you'll learn to love it after all... @InterruptsOn
+@End
+(do anal stuff)
+Would you stick something in your ass for it?
+[yes] Go get a toy then #SubName
+[no] Alright @Goto(dont even want it)
+@DifferentAnswer #YesOrNo
+A dildo, buttplug, toothbrush or candlestick, I don't care what
+As long as it can earn you release from chastity
+And as long as it fits in your ass #Laugh
+Are you ready?
+[yes,ready] This is going to be fun, #PetName
+[no] I'll wait @LoopAnswer
+@DifferentAnswer Ready?
+I don't even want to know what you have there, #SubName
+Lube up your ass, and that... thing too
+I knew I'd get you to do this
+#Contact2 said you'd never do it, but I guess she was wrong #Smile
+Let's do this, push it in #SubName
+Gently slide it into your ass
+Push it deeper
+Fuck yourself a little bit #Name @Wait(6)
+In and out and in and out #Smile @Wait(12)
+Okay that's enough, take it out again
+@HasChastity You certainly earned your release from chastity!
+@DoesNotHaveChastity You certainly earned the right to stroke again!
+@NullResponse @Goto(take it off)
+(dont even want it)
+@HasChastity Then that #Cock is going to stay locked in its cage #Grin
+@DoesNotHaveChastity Then I don't see why I should let you stroke #Grin
+Too bad #PetName, I gave you a chance but you didn't take it
+@End

@@ -1,0 +1,230 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_ModAud2_NotFirstTime)
+@NullResponse @SetVar[AV_ModAud2]=[0] 
+@NullResponse @SetFlag(AV_ModAud2_NotFirstTime)
+(AV_ModAud2_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_ModAud2]=[0]Then(Part1_1)
+@NullResponse @If[AV_ModAud2]=[1]Then(Part1_2)
+@NullResponse @If[AV_ModAud2]=[10]Then(Part1_3)
+@NullResponse @If[AV_ModAud2]=[100]Then(Part1_4)
+@NullResponse @If[AV_ModAud2]=[1000]Then(Part1_5)
+@NullResponse @If[AV_ModAud2]=[11]Then(Part1_6)
+@NullResponse @If[AV_ModAud2]=[101]Then(Part1_7)
+@NullResponse @If[AV_ModAud2]=[111]Then(Part1_8)
+@NullResponse @If[AV_ModAud2]=[110]Then(Part1_9)
+@NullResponse @If[AV_ModAud2]=[1001]Then(Part1_10)
+@NullResponse @If[AV_ModAud2]=[1011]Then(Part1_11)
+@NullResponse @If[AV_ModAud2]=[1111]Then(Part1_12)
+@NullResponse @If[AV_ModAud2]=[1010]Then(Part1_13)
+@NullResponse @If[AV_ModAud2]=[1110]Then(Part1_14)
+@NullResponse @If[AV_ModAud2]=[1100]Then(Part1_15)
+@NullResponse @If[AV_ModAud2]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_ModAud2]=[AV_ModAud2]+[1]
+@NullResponse @Goto(Module1)
+(Mod2)
+@NullResponse @ChangeVar[AV_ModAud2]=[AV_ModAud2]+[10]
+@NullResponse @Goto(Module2)
+(Mod3)
+@NullResponse @ChangeVar[AV_ModAud2]=[AV_ModAud2]+[100]
+@NullResponse @Goto(Module3)
+(Mod4)
+@NullResponse @ChangeVar[AV_ModAud2]=[AV_ModAud2]+[1000]
+@NullResponse @Goto(Module4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @RapidCodeOn
+@NullResponse @SetVar[AV_ModAud2]=[0]
+@NullResponse @RandomModule
+@End
+(Module1)
+@Stroking #Stop @StopStroking
+@NullResponse @CheckFlag(RiskyPickSession)
+I feel like playing a game of Risky Pick @If[#BronzeTokens]<[100]Then(Not Enough Tokens)
+You up for it?
+[yes] Awesome #EmoteHappy
+[no] Oh well @Goto(No Thanks)
+@DifferentAnswer Yes or no #PetName?
+First things first, gotta pay to play #Grin @RapidTextOn
+@NullResponse @Remove100Tokens @RapidTextOff @TempFlag(RiskyPickSession)
+And now we can begin @Call(Apps\Games\Risky Pick\Risky Pick.txt, Called From Module)
+(No Thanks)
+Maybe you'll feel a little more adventurous next time #Grin
+@End
+(Not Enough Tokens)
+But you don't have enough tokens to play #EmoteFlustered
+Better hit up that slot machine #PetName
+But not right now
+I have other plans in store for you #Grin
+@End
+(RiskyPickSession)
+I bet those edges from our Risky Pick game aren't doing you any favors @Chance50(Screw It)
+But honestly
+If it didn't make your #Cock ache like crazy
+It wouldn't be of any interest to me in t he first place #Grin
+@End
+(Screw It)
+Screw it @RapidTextOn
+Let's add another one right now #Grin
+Edge @Edge @RapidTextOff
+#LetTheEdgeFade
+That's what I love about Risky Pick
+Win or lose, that #Cock is gonna feel the edge either way #Grin
+@End
+(Module2)
+@Stroking #Stop @StopStroking
+@NullResponse @Call(Custom\AV_Scripts\AV_Audio.txt)
+@End
+(Module3)
+@Stroking #Stop @StopStroking
+@NullResponse @CheckFlag(NoAvoidTheEdgeInstructions)
+I want to play a little game with you #PetName
+I call it Avoid The Edge #EmoteHappy
+The rules are pretty simple really
+I'm going to pick one of your porn videos for you to watch
+And you have to stroke the entire time it's playing
+The thing is though...
+I don't want you to edge, I only want you to stroke
+But if you can't help yourself, and you <i>do</i> get close, just tell me
+And I'll pause the video while I cool you down a little
+And just for the record
+That may not be as pleasant as it sounds #Grin
+All you have to do to win is make it through the whole video
+And don't worry about losing
+I'll make sure you won't #Lol
+So now that you know the rules @SetFlag(NoAvoidTheEdgeInstructions)
+Let's play #Grin @PlayAvoidTheEdge
+You made it!
+Pretty fun game, right?
+[yes] I'm glad you think so #PetName
+[was fun] I'm glad you think so #PetName
+[no] That's kind of a shame #PetName
+[wasn't fun, wasn't, not fun, was not fun] That's kind of a shame #PetName
+@DifferentAnswer C'mon #PetName, yes or no?
+Cause we'll be playing a lot more of that, I'm sure #Grin
+But for now
+I have something else in mind
+@End
+(NoAvoidTheEdgeInstructions)
+I want to play Avoid The Edge with you again
+Up for it? #EmoteHappy
+[yes] I was hoping you'd say that #Grin
+[no] That's okay #PetName @Goto(That's Okay)
+@DifferentAnswer Yes or no #PetName?
+Let's get started @PlayAvoidTheEdge
+You made it!
+That was fun #EmoteHappy
+Next time I'll find an even better video for you to stroke to #Grin
+@End
+(That's Okay)
+I have plenty of other ways to make you squirm #Grin
+@End
+(Module4)
+@Stroking #Stop @StopStroking
+@NotFlag(AV_PinDone) @NullResponse @MiniScript(AV_GetPins)
+@NullResponse @CheckFlag(AV_Pins)
+@NullResponse @Goto(Comeco)
+(AV_Pins)
+You can remove all clothespins for now @DeleteFlag(AV_Pins)
+(Comeco)
+You do #Submit to me don't you?
+[yes,yeah,of course,sure] I was hoping you would say that 
+[no,nope,not sure] You don't? Well, you will
+@DifferentAnswer Don't try to change the subject #PetName!
+Theres just something #Very erotic about a boy who will #Hurt himself
+And I'm #Very #Pleased that you'll let me take #Control 
+I call this game The 10 Pins @Goto(pe, jo, going)
+(pe)
+First, I think you're going to need to stand up #SubName @Goto(going)
+(jo)
+First, I think you're going to #KneelForMe #SubName
+(going)
+@NotFlag(av_fetish_pain) Unfortunately you don't like pain, so you will do just the edges... #EmoteSad @Goto(2349d)
+These clothespins will end up on your body #Slave
+Put a clothespin on each nipple. @Wait(10)
+(2349d)
+#StartStroking
+@Flag(av_fetish_rough) You're a fucking pervert. 
+Your #Cock gets @RandomText(hard, erect) and you need to milk it dry for me. 
+#StopStroking 
+@Flag(AV_DommeMistress, av_fetish_pain) @CBTBalls
+@Flag(av_fetish_pain) Now, put 2 clothespins on your #Balls. @Wait(20)
+I know your #Balls are full already. 
+Precum beginning to pool at your slit.
+#StartStroking 
+The creamy load of spunk begins to full your #Balls @Wait(05)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Put 1 more clothespin on your nipple. @Wait(15)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Put another clothespin on your #Balls. @Wait(15)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Put another clothespin on your nipple. @Wait(15)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Put 1 more clothespin on your #Balls. @Wait(15)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Put another clothespin on your #Balls. @Wait(15)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Put the last clothespin on your #Balls. @Wait(20)
+Take this moment to think about the forced stroking that I made you perform in front of me
+#Edge @EdgeNoHold
+the edges that I had you endure for my pleasure
+I love it when you're primal and desperate for me.
+I'm going to #Play with you. 
+I know how much you love to show me your #Obedience
+@Flag(av_fetish_pain) At least, we will remove them now
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove 1 clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove another clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove 1 more clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove 1 clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove 1 clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove another clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove 1 more clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove 1 clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove 1 more clothespin @Wait(10)
+#Edge @EdgeNoHold
+@Flag(av_fetish_pain) Remove the last clothespin
+#ExclaimFuck, that was so #Hot baby. 
+Why didn't you tell me you like that? 
+We could have been doing that all along.
+@End

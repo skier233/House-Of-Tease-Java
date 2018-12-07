@@ -1,0 +1,308 @@
+@NullResponse @CheckStrokingState
+(Sub Stroking)
+#StopStroking @StopStroking
+(Sub Not Stroking)
+@NullResponse @CheckFlag(pthevDildo)
+@NullResponse @CheckFlag(pthevAnalOther)
+@NullResponse @CheckFlag(pthevButtPlug)
+You know what I think...?
+I think you ought to have a dildo @Goto(a proper dildo)
+@End
+(pthevDildo)
+@Flag(pthevPlugged) @NullResponse @CallReturn(Custom/CallReturn/pvCr_PlugOut.txt)
+@NullResponse @RapidCodeOn
+@Flag(pvCFAA1) @Nullresponse @Goto(pvCFAA1)
+@Flag(pvCFAB1) @Nullresponse @Goto(pvCFAB1)
+@Flag(pvCFAC1) @Nullresponse @Goto(pvCFAC1)
+@Nullresponse @Goto(d one,d two,d three)
+(pvCFAA1)
+@Flag(pvCFAB2) @Nullresponse @DeleteFlag(pvCFAA1) @SetFlag(pvCFAA2) @DeleteFlag(pvCFAB2) @Goto(d three)
+@Flag(pvCFAC2) @Nullresponse @DeleteFlag(pvCFAA1) @SetFlag(pvCFAA2) @DeleteFlag(pvCFAC2) @Goto(d two)
+@Nullresponse @DeleteFlag(pvCFAA1) @SetFlag(pvCFAA2) @Goto(d two,d three)
+(pvCFAB1)
+@Flag(pvCFAA2) @Nullresponse @DeleteFlag(pvCFAB1) @SetFlag(pvCFAB2) @DeleteFlag(pvCFAA2) @Goto(d three)
+@Flag(pvCFAC2) @Nullresponse @DeleteFlag(pvCFAB1) @SetFlag(pvCFAB2) @DeleteFlag(pvCFAC2) @Goto(d one)
+@Nullresponse @DeleteFlag(pvCFAB1) @SetFlag(pvCFAB2) @Goto(d one,d three)
+(pvCFAC1)
+@Flag(pvCFAA2) @Nullresponse @DeleteFlag(pvCFAC1) @SetFlag(pvCFAC2) @DeleteFlag(pvCFAA2) @Goto(d two)
+@Flag(pvCFAB2) @Nullresponse @DeleteFlag(pvCFAC1) @SetFlag(pvCFAC2) @DeleteFlag(pvCFAB2) @Goto(d one)
+@Nullresponse @DeleteFlag(pvCFAC1) @SetFlag(pvCFAC2) @Goto(d one,d two)
+(d one)
+You know, #Name @SetFlag(pvCFAA1)
+It's a good thing I'm not there in the room with you
+I mean, we're not going have sex
+And what am I going to do, watch you #JerkOff...?
+I don't think so #Laugh
+But there is one thing I'd want to do to you in person
+I'd love to have you on all fours on my floor
+Walk up behind you with my strapon...
+And thrust that big black cock <i>deep</i> into your ass
+But you're not here on the floor with me
+So what can we do...
+I guess you're going to have fetch your dildo #Grin @Wait(#Random(4,12))
+Do you have it?
+[yes] Okay then... @Goto(got it now)
+[no] Then go fucking get it, #PetName #EmoteFlustered
+@DifferentAnswer #YesOrNo
+Let me know when you're ready @MoodDown
+[ready,have it,got it] Don't make me wait next time, alright?
+@DifferentAnswer Just say 'ready' when you're ready, #PetName
+(got it now)
+Get on all fours, #PetName @TempFlag(pvKneeling)
+Give your ass a nice smack
+I would smack the hell out of it if I were there #Laugh
+Now stick that dildo in it
+Push it in deeper, #SubName
+As deep as you can... 
+Now leave it there, put both your hands on the floor @Wait(9)
+So, there you are
+My little strapon bitch #Smile
+You're lucky that's not really my strapon, #PetName
+I would wear you out
+You're going to have to do that yourself now...
+So take that dildo, pull it up
+And give me 5 deep thrusts
+Wait a second though, I will count them for you #EmoteWink
+Get ready... @Wait(5)
+1
+2
+3
+4
+5 and don't pull it back out
+Slap your ass
+Get ready for another 5 thrusts... @Wait(5)
+1
+2
+3
+4
+5
+Leave the dildo in your ass, #PetName
+Now take that #Cock in your hand
+And edge for me @EdgeNoHold
+#LetTheEdgeFade
+Four to the floor, #PetName @Wait(#Random(8,15))
+I want 5 more deep thrusts from you, so get ready
+1 @Wait(5)
+2 @Wait(3)
+3
+4
+5
+And take that cock out of your ass, #Name
+Get up off your knees @DeleteFlag(pvKneeling)
+That's enough of that for now, put the dildo away
+Do you need a moment?
+[yes] Okay, no problem
+[no] Good! @Goto(then move on)
+@DifferentAnswer Do you need a minute to get ready?
+Let me know when you're ready
+[ready,yes,done,continue] Alright
+@DifferentAnswer Ready?
+(then move on)
+Let's move on then #Smile
+@End
+(d two)
+Do you have your dildo, #Name? @SetFlag(pvCFAB1)
+[yes,ready,ve got it] You're going to be a good #PetName for me, aren't you?
+[no,not,don't] Then go get it, let me know when you're ready @LoopAnswer
+[can't,cannot,can not,not possible,impossible] Hm... @Goto(dildo not possible)
+@DifferentAnswer Do you have it or not?
+Lube up that dildo @Wait(9)
+Sit back and lift your legs for me
+Show me your ass, #Name
+Rub it for me, get that ass ready for my big strapon #Grin
+#EmoteMoan Strapons are <i>so</i> sexy @ShowTaggedImage @TagStrapon
+I'd much prefer to fuck you myself, #Name
+Looking you in the eyes as I penetrate you deeper and deeper
+But you're going to have to do it yourself
+Is your ass ready for it?
+[yes] Then let's get to it @Goto(ass is ready for it now)
+[no] You can keep rubbing a little bit longer
+@DifferentAnswer #YesOrNo
+Put some lube on it, massage it
+Stick a finger in your ass, #Name
+Deeper...
+Maybe try 2 fingers #Smile
+You can't tell me this isn't @RT(hot,sexy) @ShowTaggedImage @TagAnalSex
+Your ass should be ready now
+So...
+(ass is ready for it now)
+Slide that dildo into your ass, #SubName
+(is it in)
+Is it in?
+[yes] Feel how it fills you up
+[no] Oh... @Goto(are you going to do it)
+@DifferentAnswer #YesOrNo
+Start fucking yourself with it slowly
+One thrust every 5 seconds or so @Wait(12)
+Keep @RT(that pace,going,doing it just like that), #PetName
+@RT(Speed up a little bit,A little faster now), one thrust every 3 seconds @Wait(10)
+Play with your #Balls
+Fuck yourself as fast as you can now
+Come on, give me a good show, #PetName
+#EmoteMoan @ShowTaggedImage @TagAnalSex
+@NullResponse @ShowTaggedImage @TagAnalSex
+@NullResponse @ShowTaggedImage @TagAnalSex
+(another tagged image)
+@NullResponse @ShowTaggedImage @TagAnalSex @Chance75(another tagged image)
+Do you want to be a good #PetName for me?
+[yes] Of course you do #Grin
+[no] No? @Goto(not a good pet)
+@DifferentAnswer #YesOrNo
+So grab that #Cock
+And while you keep fucking that ass...
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+Good #PetName @Goto(take the dildo out good or bad)
+(not a good pet)
+Then you need to be punished, #SubName @CBT
+(take the dildo out good or bad)
+Take that dildo out of your ass
+That was pretty @RT(hot,sexy)
+Put away the dildo now, we're done with it for now
+@End
+(are you going to do it)
+Are you going to do it?
+[yes] Then do it, #PetName @MoodDown @Goto(is it in)
+[no] Ah... @MoodDown
+@DifferentAnswer #YesOrNo
+So you just let me sit here giving instructions you're never going to follow... @MoodDown
+Do you think I'm stupid, #PetName?
+[yes] Fuck you, #Name @MoodWorst @TempFlag(pvDommeAngryEnd) @Call(Stroke/End/pthev_Endscript.txt)
+[no] Then don't treat me like I am
+@DifferentAnswer #YesOrNo
+So are you still into anal stuff, yes or no?
+[yes] Alright @Goto(still into anal stuff)
+[no] Then why didn't you say so earlier #EmoteFlustered
+@DifferentAnswer #YesOrNo
+Communication is very important, #PetName
+So let me communicate this to you... @Interrupt(pvInt_Punishment)
+@End
+(still into anal stuff)
+Some other time then... 
+Still, I'm not letting you off so easy, #PetName @Interrupt(pvInt_Punishment)
+@End
+(d three)
+Get you dildo out, #Name @SetFlag(pvCFAC1)
+You've got it, right?
+[yes,ready,got it] Good #PetName #Smile
+[no] Go get it then! @LoopAnswer
+@DifferentAnswer Do you have your dildo?
+I want you to lick it
+Starting at the bottom and then all the way up
+Have you ever sucked a <i>real</i> cock, #SubName?
+[yes] Wow, I wouldn't have guessed
+[no] Good for you
+@DifferentAnswer #YesOrNo
+But I want you to suck that dildo now
+Wrap your lips around the tip and suck on it
+Don't take it too deep, just take it easy
+I want you to tease it, kiss it, flick it with your tongue
+You know where that dildo is going to go next, right?
+[yes] So, where is it going? @LoopAnswer
+[no] Let me tell you, #Name
+[ass,butt,anal] That's exactly right, #Name
+@AcceptAnswer No that's not it
+It's going to go into your ass #Grin
+But before we get to it, can you deepthroat it for me?
+[yes] #Smile @MoodUp
+[no] #EmoteSad @MoodDown @Goto(my little cs)
+@DifferentAnswer #YesOrNo
+Do it, shove it all the way down your throat! @Wait(6)
+One more time, you should really be choking on it this time @Wait(9)
+My little cock sucker #Smile
+(my little cs)
+Get ready to fuck that little ass of yours
+Get some lube if you need it...
+You are probably going to need it #Laugh
+Lean back so I have better access to your ass 
+#PetName...
+Shove that cock into your ass for me
+Don't do anything yet, just put it in
+Can you push it a little deeper?
+[yes] Then push it deeper, #Name #Smile
+[no] Just try to gently push it deeper, #Name #Smile
+@DifferentAnswer #YesOrNo
+Until you think it can't go any deeper
+And now...
+Pull it all the way out very slowly @Wait(8)
+#EmoteMoan That is @RT(hot,sexy,amazing,incredible)
+Let's do that again
+Push it in as deep as you can
+Until it starts to feel slightly uncomfortable
+Or until it's all the way in #EmoteWink
+Is your #Cock still hard, #Name?
+[yes] #Grin
+[no] Aww it can't stay up #Giggles
+@DifferentAnswer #YesOrNo
+#StartStroking
+Slowly pull out the dildo while you stroke
+And when it's all the way out...
+Shove it back in @CBTCock
+#Edge @EdgeNoHold
+And pull the dildo out again
+I love it when you fuck yourself and edge at the same time #Smile
+Having control over your #Cock and your ass at the same time...
+That just made me <i>so</i> fucking wet, #SubName
+I think I'll be typing with one hand from now on #Laugh
+We're going to have to do that again soon...
+But for now I have something else in mind
+So put the dildo away, #Name
+@End
+(dildo not possible)
+You do have a dildo, right?
+[yes] Then make sure you can use it... #EmoteFlustered @Goto(make sure you do)
+[no] I thought you did... @DeleteFlag(pthevDildo)
+@DifferentAnswer #YesOrNo
+So, are you still into anal play?
+Are you still into anal play?
+[yes] You should probably get yourself a dildo then #Smile
+[no] Oh... well, that's okay #SubName @DeleteFlag(pthevAnal) @SetFlag(pthevNoAnal)
+@DifferentAnswer #YesOrNo
+Now where were we...
+@End
+(make sure you do)
+Are you still into anal play?
+[yes] Good #EmoteHappy
+[no] Oh... well, that's okay #SubName @DeleteFlag(pthevAnal) @SetFlag(pthevNoAnal)
+@DifferentAnswer #YesOrNo
+Now where were we...
+@End
+(pthevAnalOther)
+I know you like sticking stuff in your ass, #Name
+But you should really get a dildo
+(a proper dildo)
+A proper one
+A long, thick cock #Smile
+Because you know what?
+I love the idea of owning your ass as well as your #Cock
+And I can only really own your ass if I can violate it #Grin
+So what do you say...
+Are you going to get a dildo?
+[yes] Awesome #EmoteHappy
+[no] That's too bad, I hope you change your mind...
+[already,have one,got one,have a dildo,got a dildo] Wow... @Goto(already got one)
+@DifferentAnswer Yes or no? Or do you already have one?
+Just let me know when you've got one #EmoteWink
+@End
+(already got one)
+Do you really already have a dildo?
+[yes] We can have so much fun with that #EmoteHappy @DeleteFlag(pthevAnalOther) @SetFlag(pthevDildo)
+[no] I must have misunderstood then #EmoteSad @Goto(let me know when you do)
+@DifferentAnswer #YesOrNo
+Do you... want some of that fun right now?
+[yes] Hmmm
+[no] Maybe later then... keep that dildo close, #Name @Goto(then move on)
+@DifferentAnswer #YesOrNo
+I'm going to say no, #PetName
+It's good that you want it
+But I want to violate your ass on <i>my</i> terms #Laugh
+So, make sure to keep that dildo close
+You're going to need it sooner or later #Grin
+@End
+(let me know when you do)
+Let me know when you do, #PetName
+I would love to be able to play with your ass #Grin
+@End
+(pthevButtPlug)
+@NullResponse @Call(Custom/CallFromMod/pvCall_FlagButtPlug.txt)
+@End

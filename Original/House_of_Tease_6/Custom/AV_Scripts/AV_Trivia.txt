@@ -1,0 +1,166 @@
+@NullResponse @RapidCodeOn
+@NotFlag(AV_MoreTalk)@NullResponse @Goto(FirstTalk)
+@NotFlag(AV_Triv_TVDone) @NullResponse @Goto(TVshow)
+@NotFlag(AV_Triv_MilovanaDone) @NullResponse @Goto(Milovana)
+@NotFlag(AV_Triv_MovieDone) @NullResponse @Goto(Movie)
+@NotFlag(AV_Triv_MusicDone) @NullResponse @Goto(Music)
+@NullResponse @CheckFlag(TriviaDone)
+@NullResponse @SetFlag(TriviaDone)
+@NullResponse @Goto(TVshow, Movie, Milovana)
+(Music)
+Do you listen to music while chat with me? @SetFlag(AV_Triv_MusicDone)
+[yes] interesting @SetFlag(AV_Triv_MusicPlaying) @Goto(what song)
+[no] Mmm 
+@DifferentAnswer #YesorNo #SubName?
+But you like music, right?
+[yes] cool @SetFlag(AV_Triv_MusicStyle) @Goto(what music)
+[no] oh...strange @Goto(no music) 
+@DifferentAnswer #YesorNo #SubName?
+(what song)
+What song are you listening to right now? @InputVar[AV_Triv_MusicPlaying]
+Nice song...
+Let's see if the next time you listen to #Var[AV_Triv_MusicPlaying] you will have a erection #Lol @Goto(EndTrivia)
+(what music)
+What is your favorite music style? @InputVar[AV_Triv_MusicStyle]
+Mine too!!@Goto(EndTrivia)
+(no music) 
+I thought everyone liked music. @Goto(EndTrivia)
+(TVshow)
+Do you watch the #AVX_TR_TVShow show?  @SetFlag(AV_Triv_TVDone)
+[yes] @RT(cool, nice) @Goto(yesshow)
+[no] @RT(#Okay, ohh, mmm) @Goto(noshow)
+@DifferentAnswer #YesorNo #SubName?
+(yesshow)
+@RT(I love that show, I was thinking of watching this show,, now I think I should, I like that one, Me too,, it's a great show, I think everyone watches this series, Another thing we have in common) #EmoteHappy @Goto(EndTrivia)
+(noshow)
+@RT(Yeah,, I do not like very much, to bad,, I love this show, to bad,, you should watch,, it's a great show, yeah,, I do not recommend, aww,, too bad, so,, no smaltalk about that one huh?) @Goto(EndTrivia)
+(Movie)
+Have you seen the #AVX_TR_Movie movie?  @SetFlag(AV_Triv_MovieDone)
+[yes] @RT(cool, nice) @Goto(yesmovie)
+[no] @RT(#Okay, ohh, mmm) @Goto(nomovie)
+@DifferentAnswer #YesorNo #SubName?
+(nomovie)
+@RT(nevermind then, ok move on, And I thought everyone had already watched this, no problem, welp, you should, you should watch,, it's a great movie, it's overrated anyway) @Goto(EndTrivia)
+(yesmovie)
+@RT(did you like it, did you enjoy it, Did you think it was good??
+[yes] @NullResponse @Goto(yeslikemovie)
+[no] @NullResponse @Goto(nolikemovie)
+@DifferentAnswer #YesorNo #SubName?
+(yeslikemovie)
+@RT(I liked too, I loved that movie, I did not like it very much, yeah,, me too) @Goto(EndTrivia)
+(nolikemovie)
+@RT(me neither, I did not either, ohh,, I loved, too bad,, I liked) @Goto(EndTrivia)
+(Milovana)
+Have you @RT(played, tried, experienced) any @RT(tease, webtease) on the Milovana site @RT(recently, lately)?  @SetFlag(AV_Triv_MilovanaDone)
+[yes] @NullResponse @Goto(yesmilovana)
+[no] @NullResponse @Goto(nomilovana)
+@DifferentAnswer #YesorNo #SubName?
+(nomilovana)
+@RT(Good boy, good #PetName, good slave)
+@RT(You know that #Cock belongs to me, You know I am the only one who can tease you, But you can try some teases there,, it's good to keep you #Aching, Well,, you can try one,, but don't cum even if the tease says so) @Goto(EndTrivia)
+(yesmilovana)
+@RT(Hmm,, cheating on me?, Not enough tease with me?, OK,, but I dont want you cumming there, OK,, but you should deny yourself even if the tease say the opposite, No problem,, but do not do this very often.)
+Do you remember the last one you did?
+[yes] @NullResponse @Goto(yesrememb)
+[no] @NullResponse @Goto(norememb)
+@DifferentAnswer #YesorNo #SubName?
+(yesrememb)
+@RT(OK,, let me take a look, Hmm,, wait a minute,, let me see that one, I need to check that one) @Wait(30)
+@RT(interesting #SubName, really?? that one?, #Lol #SubName, Hmm...that's hot) @Chance50(Sug_Tease)
+@NullResponse @Goto(EndTrivia)
+(norememb)
+@RT(No problem, Ok then, right then) @Chance50(EndTrivia)
+(Sug_Tease)
+@RT(You now what, I had a idea)
+I want you to @RT(play, try) one tease for me...of course, dont cum even if the tease say.
+this will be added to your tasks at the end of our session
+You will enter the webteases page and play the first Random Tease you see. @Goto(EndTrivia)
+(EndTrivia)
+@RT(Enough of talk,, more tease now, Enough of smalltalk for now, OK,, Let's go back to business)
+@End
+(TriviaDone)
+@NotFlag(AV_Pergunta04) @NullResponse @CallReturn(Custom\AV_Scripts\AV_Trivia2.txt)
+@NullResponse 
+@End
+(FirstTalk)
+Hey #SubName @SetFlag(AV_MoreTalk)
+Let's @RT(chat, talk) a little @Timeout(6,how are you)
+[tease,masturbate,stroke,dominate,domme,sub,submit,submissive,sex] #Laugh not now
+[beautiful,gorgeous,attractive,sexy,love you,adore you,amazing,incredible,hot] I know... 
+@AcceptAnswer @NullResponse 
+(how are you)
+How are you? 
+[good,fine,okay,great,super,awesome] That's good to hear #Smile 
+[not good,not so good,not okay,bad,terrible] I'm sorry to hear that  
+[tease,masturbate,stroke,dominate,domme,sub,submit,submissive,sex] Are you asking me to be put in chastity? 
+[beautiful,gorgeous,attractive,sexy,love you,adore you,amazing,incredible,hot]  Aww... #ThankYou
+@AcceptAnswer We don't stop to talk all that often do we?  
+@NullResponse @Timeout(8,talk more often)
+[let's talk,want to talk] We definitely should #Smile 
+[we should talk,more often,love talking] I know, right? 
+[tease,masturbate,stroke,dominate,domme,sub,submit,submissive,sex] So talking is not your strong suit...? 
+[beautiful,gorgeous,attractive,sexy,love you,adore you,amazing,incredible,hot] Oh stop it #SubName *blush*  @Goto(do you mean that)
+@AcceptAnswer @NullResponse 
+(talk more often)
+You know, I like you  @Timeout(10,anyways I should go)
+[me too,you too,you too,you as well,likewise] Well there you go, we seem to have this psychic connection #Laugh 
+[tease,masturbate,stroke,dominate,domme,sub,submit,submissive,sex] Are you asking me to be put in chastity? 
+[beautiful,gorgeous,attractive,sexy,love you,adore you,amazing,incredible,hot] #SubName please...  @Goto(do you mean that)
+[really] Is that so hard to believe? #Smile 
+@AcceptAnswer I had hoped it would me mutual... 
+(anyways I should go)
+Anyways, we should continue our session  @Timeout(6,talk later)
+[wait,don't go,don't leave,stay] Well I guess I don't have to go <i>right</i> now...  @Goto(talk some more)
+[tease,masturbate,stroke,dominate,domme,sub,submit,submissive,sex] In a minute, #SubName #Lol
+[beautiful,gorgeous,attractive,sexy,love you,adore you,amazing,incredible,hot] @NullResponse  @Goto(do you mean that)
+@AcceptAnswer @NullResponse 
+(talk later)
+@NullResponse 
+@End
+(talk some more)
+What's on your mind? 
+[tease,masturbate,stroke,dominate,domme,sub,submit,submissive,sex] I don't know, I feel like you're just jerking me around now 
+[beautiful,gorgeous,attractive,sexy,love you,adore you,amazing,incredible,hot] @NullResponse  @Goto(do you mean that)
+@AcceptAnswer OK then
+@End
+(do you mean that)
+Do you mean that? 
+[yes,absolutely,true] That's so sweet #Smile 
+[no,lie,lied] That's very funny #SubName  @Goto(takes too long)
+[tease,masturbate,stroke,dominate,domme,sub,submit,submissive,sex] Now you're just messing with me #SubName  @Goto(takes too long)
+[beautiful,gorgeous,attractive,sexy,love you,adore you,amazing,incredible,hot] That's so sweet #Smile 
+@AcceptAnswer @NullResponse 
+I've got to ask you though, and sorry if I'm being a little too direct  @Timeout(6,are you in love)
+[okay] @NullResponse 
+@AcceptAnswer @NullResponse 
+(are you in love)
+Are you.. in love with me? 
+[yes] That's so sweet #Smile  @Goto(sigh of relief)
+[no] Ohh 
+@DifferentAnswer Yes or no?
+I just make your hormones go all crazy, is that it? 
+[yes] I'm not surprised #SubName 
+[no] Don't deny it #SubName 
+@DifferentAnswer Yes or no?
+Guys stare at me in the street, I know I'm hot #Smile
+I'm a tease #Grin
+It turns me on to know that guys get hard for me
+It gives me power over them
+And apparently, you're no different
+You know I'm right
+#SubName...
+You <i>wanted</i> me to know what a pervert you are, didn't you
+I know exactly what you like #SubName 
+And I know what you crave @ShowCaptionsImage @LockImages
+I know what kind of guy your are
+We have a lot of fun together #Grin @ShowCaptionsImage
+But that is enough for now @UnlockImages
+@End
+(sigh of relief)
+Because I've been thinking about you #Smile
+I've been thinking about all the things I could do to you
+There's so much more we can do besides tease and denial
+But we'll figure it out along the way, #PetName
+(takes too long)
+@NullResponse 
+@End

@@ -1,0 +1,441 @@
+#Edge @Edge
+#LetTheEdgeFade @CheckFlag(pvMod36skip,frustrating edge)
+@NullResponse @TempFlag(pvMod36skip)
+@NullResponse @CheckFlag(pthevSissyNO)
+@NullResponse @CheckFlag(pthevSissyYES)
+I just bought a set of lingerie
+It's the most amazing piece of underwear I've ever owned #Laugh
+I'm wearing it right now
+It's dark blue, but the colour is not that special
+It's the texture #SubName
+This is the softest silkiest fabric I've ever felt
+Just feeling it on my skin sends shivers down my spine #Smile
+Such a soothing, comforting sensation as if gentle hands hold my breasts
+And my pussy practically began to throb the moment I slid these panties up my thighs  
+I'm exaggerating a little bit #Name #Smile
+Have you...
+...ever tried on lingerie?
+[yes] There's a demure girl inside every submissive man #Laugh
+[no] You definitely should #SubName
+@DifferentAnswer #YesOrNo
+I'd love to dress you up as a girl
+You should have some make-up too, to get the complete look #EmoteHappy
+Will you make sure you have some lingerie and make-up ready?
+[yes] Good boy, or should I say... good <i>girl</i> #Smile @SetFlag(pthevSissyYES)
+[no] That's too bad, I hope you'll reconsider #EmoteSad @SetFlag(pthevSissyNO)
+@DifferentAnswer #YesOrNo
+You do still have that #Cock of course, we should still make good use of that simple fact
+#Edge @Edge
+#LetTheEdgeFade
+@End
+(pthevSissyNO)
+@NullResponse @Chance50(frustrating edge)
+I know you don't consider yourself to be a sissy, but...
+@CockSmall Since you have such a small #Cock #SubName...
+@Flag(pthevVirgin) And you're still a virgin anyway...
+Maybe you should reconsider not wanting to wear lingerie
+A guy like you, submissive as you are...
+You're practically a girl anyway
+Just something to think about, #SubName #EmoteWink
+@End
+(pthevSissyYES)
+@NullResponse @Chance50(frustrating edge)
+@NullResponse @Chance50(have heels)
+I totally understand that you'd want to wear women's underwear, #Name
+A guy like you, submissive as you are...
+@CockSmall With such a small #Cock
+@Flag(pthevVirgin) And you're still a virgin anyway...
+You're practically a girl anyway #EmoteWink @CheckFlag(pthevCEI_No)
+@Flag(pthevMarried) I'm sure @ShowVar[pthevNamePartner] would disagree though #Laugh
+@Flag(pthevGirlfriend) I'm sure @ShowVar[pthevNamePartner] would disagree though #Laugh
+@Flag(pthevSubInLove) I wonder what @ShowVar[pthevNamePartner] would think about that...
+I want you to go get some lingerie and makeup right now
+Can you do that for me?
+[yes] Then run along and get them, #SubName
+[no] You promised me you'd get them, #SubName @Goto(promised me)
+@DifferentAnswer #YesOrNo
+Let's turn you into a little slut #Grin
+Ready?
+[yes,ready] That's my boy #Smile
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer #YesOrNo
+Or should I say, that's my <i>girl</i> #Laugh
+Put on that underwear, #SubName @Wait(12)
+Don't you look like a pretty little girl
+I hope the bra isn't giving you too much trouble #Grin
+Now put on some makeup
+Do you have lipstick?
+[yes] Good, lipstick is essential
+[no] You should at least have lipstick, make sure you have it next time @Goto(no lipstick)
+@DifferentAnswer #YesOrNo
+Maybe some mascara and rouge...
+Make yourself pretty, #SubName @Wait(10)
+Now take that lipstick
+And write the following across your chest: @CustomMode(#pvDontWantTo,Goto,do not want to write)
+<i>Sissy Slut</i> @Wait(12)
+(did you write)
+@Flag(pvDidNotWrite) @NullResponse @Goto(take a picture)
+Did you do it? @CustomMode(#pvDontWantTo,Normal)
+[yes] @RT(Good,Excellent,Awesome) @TempFlag(pthevBodyWriting) @SetVar[pthevBodyWriting]=[Sissy_Slut] @Goto(take a picture)
+[no] So you'll dress up in women's underwear, but you won't write on your chest #EmoteFlustered
+@DifferentAnswer #YesOrNo
+Anyway... @Goto(take a picture)
+(no lipstick)
+Maybe some mascara and rouge...
+Make yourself pretty, #SubName
+(take a picture)
+You must look like a good little slut now @DeleteFlag(pvDidNotWrite)
+I want you to take a picture of yourself #PetName
+Take a picture of yourself right now
+@Flag(pthevBodyWriting) The writing on your chest should be clearly visible
+After our session #GeneralTime, I want you to save that picture on your hard drive
+I made a folder for this purpose
+It's called "\Images\My Sissy Pics"
+And you should call your picture "Sissy01.jpg"
+That way I'll know exactly where to find it #Grin
+You can do that for me, right?
+[yes] Good #Smile @SetFlag(pthevLink2PromisedPic)
+[no] Suit yourself #EmoteSad
+@DifferentAnswer #YesOrNo
+Take that #Cock out of your panties
+It should be exposed and ready to suffer for me
+@End
+(promised me)
+Are you breaking that promise?
+[yes] I don't like that one bit, #PetName @DeleteFlag(pthevSissyYES) @SetFlag(pthevSissyNO) @Goto(not one bit)
+[no] Then make sure you have them ready next time, #PetName
+@DifferentAnswer #YesOrNo
+I can't wait to dress you up like a girl #Grin
+@End
+(not one bit)
+@NullResponse @MiniScript(pvMs_PunishmentLight_NotStroking)
+@HasChastity Go put on your chastity cage right now @Goto(go put it on)
+And you don't get to stroke @ChastityOn
+No touching your #Cock, #PetName
+@End
+(go put it on)
+@NullResponse @Wait(20)
+Is it on?
+[yes,ready] Good, no stroking for you
+[no] Let me know when you're ready, #PetName @LoopAnswer
+@DifferentAnswer #YesOrNo
+No more stroking for you #Grin @ChastityOn
+@End
+(pthevCEI_No)
+What I don't get is why you won't eat your cum
+It's what good girls do, #PetName
+@End
+(have heels)
+@NullResponse @CheckFlag(pvHasHeels,already have heels)
+Hey #SubName #Giggles
+Do you have a pair of women's shoes?
+[yes] Oh wow #EmoteHappy
+[no] Aw that's too bad... @Goto(aint got no shoes)
+@DifferentAnswer #YesOrNo
+Do they have high heels?
+[yes] That's perfect! #Laugh
+[no] Too bad @Goto(aint got no shoes)
+@DifferentAnswer #YesOrNo
+Go get them for me, #PetName @SetFlag(pvHasHeels)
+Hurry up, I want to see how you look in them @Wait(8)
+They do fit you, right...?
+[yes] Awesome
+[no] Go get them anyway... @Goto(no fit)
+@DifferentAnswer #YesOrNo
+Ready?
+[ready,yes,shoes] Then wriggle those little toes into the shoes, #PetName
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Do you have the shoes?
+And stand up, I want to see you find your balance on those heels #Laugh
+Hmm... @Wait(10)
+Make a pretty little pirouette, #Name
+Stroke your #Cock for me @Wait(10)
+You look pretty silly now, #JerkingOff on those heels #Laugh
+This is hilarious, I think #Contact2 should see this... @Wait(12)
+@NullResponse @AddContact2
+Check it out, #SubName is doing a little balance act while #JerkingOff
+@Contact2 OMG #Lol
+@Contact2 Try not too fall over or cum, #Name
+@Contact2 This is too fucking funny, all you need is some lipstick and a dress
+@Contact2 And you can pimp #SubName out as an escort
+Maybe more lick a street walking whore, actually #Lol
+@Contact2 Yeah maybe #Laugh
+@Contact2 You could make some money for sure
+@Contact2 Give us some nice seductive poses, #SubName
+Yeah, sell yourself like the good slut you are!
+You know what, it actually sounds like a solid business plan, #Contact2
+@Contact2 Well honestly I don't think #SubName is that pretty a girl #EmoteWink
+@Contact2 It would be hard to find customers
+I guess you're right about that, #Contact2 #Laugh
+The truth is, you look ridiculous, #SubName
+Kick off those heels and sit down @RemoveContact2
+Don't stop stroking though, PetName 
+@End
+(no fit)
+I bet you'd look great in a pair of high heels though #Laugh
+Ready?
+[ready,yes,shoes] They look so pretty don't they, #PetName
+[no] Let me know when you're ready @LoopAnswer
+@DifferentAnswer Do you have the shoes?
+I want you to start worshipping them with your tongue
+Lick every inch of those shoes like they're mine
+Clean them good, I want my shoes shining like diamonds #Smile
+Mmm yes, you're such a good slut for me
+Take one of those heels in your mouth and suck it
+Stroke your #Cock while you suck on that heel
+Take it all the way in your mouth, #PetName
+And now the other one...
+#StrokeFaster
+You must be dying to cum all over those shoes
+@Flag(av_fetish_cei) And then lick them clean... #EmoteMoan
+But I'm not going to let you cum right now
+What I <i>am</i> going to do is make you edge with that heel in your mouth
+#Edge @Edge
+#LetTheEdgeFade
+Put the shoes down in front of you, #Name
+As a reminder of the slut that your are #Grin
+@End
+(aint got no shoes)
+You should be a good slut a get a pair
+A really sexy pair with high heels
+So I can turn you into a true catwalk kitten #Smile
+@End
+(already have heels)
+@NullResponse @CheckFlag(pvHasPantyhose,already have pantyhose)
+You know, that pair of heels you have?
+They would look great with a sexy pair of pantyhose...
+Do you have pantyhose you can wear?
+[yes] Oohh #EmoteHappy
+[no] That's too bad... @Goto(no pantyhose)
+@DifferentAnswer #YesOrNo
+I want you to put them on for me @SetFlag(pvHasPantyhose)
+Let me know when you're ready
+[ready,done,finished] Mmm you look like million bucks...
+@DifferentAnswer Let me know when you're ready
+Rub that #Cock through the pantyhose...
+Doesn't it feel nice and soft?
+That's what it feels like to be a girl, #PetName
+You were never <i>really</i> a man anyway, right? #Laugh
+Stand up and turn around
+Show me how your ass looks... @Wait(5)
+Lovely... #Smile
+Sit down, #Name
+I want you to rub your #Cock through the stockings...
+As if you were a girl rubbing here pussy
+That's right, I want you to masturbate like a girl for me @Wait(8)
+You should make girly noises too, let me hear those high pitched moans
+#EmoteMoan
+I love watching girls masturbate... @ShowTaggedImage @TagMasturbation @TagSoloF
+@NullResponse @ShowTaggedImage @TagMasturbation @TagSoloF
+Mmm just look at that... @ShowTaggedImage @TagMasturbation @TagSoloF
+Can you edge for me while rubbing your clit like that?
+[yes] Like a good girl... #EmoteHappy
+[no] I guess you're not truly a girl yet #Laugh @Goto(not a girl yet)
+@DifferentAnswer #YesOrNo
+Get to the edge, #Name @Edge
+Mmm you're such good sissy girl...
+But it's about time you stroke your #Cock again
+Take off the pantyhose first
+It can be a bit restrictive #Smile
+@End
+(not a girl yet)
+But we'll get there in time...
+@End
+(no pantyhose)
+Maybe you should go buy a pair, every sissy needs one #Smile
+@End
+(already have pantyhose)
+I want you you to go get your pantyhose and high heels
+And, of course, your lingerie and make up...
+You're going to look like a good little girl for the rest of this session #Smile
+You can do that for me, right?
+[yes] Good
+[no] Oh, that's so disappointing #EmoteSad @Goto(disapppointing sissy)
+@DifferentAnswer #YesOrNo
+Go ahead and get ready
+It's such a weird thing if you think about it...
+I mean, I don't think I know any girl who has male clothing fetish @Glitter(pvGL_AnyoneKnowAnyCrossdressers)
+The idea alone is just... silly
+But somehow, for some reason, lots of guys get off on dressing like a girl
+Not that there's anything wrong with that, mind you #EmoteWink
+It's not the crossdressing, it's that it somehow turns you on @AddContact1
+@Contact1 It gives actual trans people a bad name #Laugh
+Yeah, totally! #Laugh
+#SubName is just into it because he craves the humiliation
+@Contact1 Still, that makes it fun to do I suppose...
+Yes #Smile
+Are you about ready getting dressed up, #Name?
+[yes,ready,done,finished] Okay
+[no] Let me know when you are ready... @LoopAnswer
+[almost,nearly] Hurry up the #EmoteFlustered @LoopAnswer
+@DifferentAnswer #YesOrNo
+@Contact1 I wish I could see #SubName right now...
+@Flag(pthevLink2PicSaved) Should look something like this... @ShowImage[My Sissy Pics\Sissy01.jpg] @LockImages @Goto(saved a pic)
+You can slide your hand into your panties and rub your #Cock like a little clit for us, #Name
+Just use one finger and just touch the head
+@Contact1 That's not how I do it #Lol
+Don't you start with one finger and then work up to more? That's what I do #Smile
+@Contact1 I start with 2 and dive right in, usually #Laugh
+Alright, follow her lead and use two fingers, #PetName
+@Contact1 If he follows my lead it could turn into a pretty messy scene...
+That's true #Lol
+@Contact1 Fuck, when's the last time you and I got together...?
+@NotFlag(DommeIsSingle) I'm a taken girl at the moment, #Contact1 @Goto(taken girl)
+Mmm I so want to be between your legs right now... @Goto(maybe come over)
+@End
+(taken girl)
+@Contact1 When has that ever stopped you? #Smile
+You know me too well, #Contact1 #Giggles
+(maybe come over)
+Maybe I'll come over later...
+@Contact1 I can't wait to feel your tongue inside my pussy, #ShortName #EmoteMoan
+@Contact1 Maybe we should let #SubName watch...
+Oh he would like that... watching us make out while rubbing his clitty
+Take your #Cock out of your panties if you haven't already, #Name
+Keep rubbing the head with 2 fingers
+@Contact1 I bet even watching us kiss is going to make his cock throb
+@Contact1 When our lips touch it's going to be like a jolt of electricity down his spine
+@Contact1 And when I grab your boobs, I bet he instantly starts to leak from his clitty 
+I know I do #EmoteMoan
+@Contact1 I'm going to bring you to orgasm after orgasm, #ShortName
+@Contact1 And meanwhile #SubName is going to sit there and rub his cock through his panties
+@Contact1 Leaking and aching and wishing he could join
+@Contact1 But he can never join...
+@Contact1 Because he's a useless fake girl who can never please a girl the way a real girl can
+@Contact1 And as we cuddle in bed, exhausted and satisfied...
+@Contact1 #SubName is still sitting there, furiously rubbing and trying to cum
+#EmoteMoan you're making me sooo wet right now
+@Contact1 Save some of that for me #Laugh
+It's so frustrating that I'm here by myself now #EmoteSad
+I guess I'm going to have to take that out on #SubName
+@BallTorture @NullResponse @CBTBalls
+@Contact1 Poor #SubName #Laugh
+#Edge
+You can use you whole hand now @EdgeHold
+@Contact1 Take it easy, #SubName you look a little overheated #Grin
+@Contact1 Feeling better, #ShortName
+Not really...
+@Contact1 I guess you're still coming over later? #Smile
+Oh yes definitely!
+@Contact1 Awesome #EmoteHappy @RemoveContact1
+Damn she always knows just how to get to me #Smile
+@End
+(saved a pic)
+@Contact1 Oooh I love that picture #Lol
+@Contact1 We should really make another one to add to the album
+Yes! @UnlockImages
+Go ahead and make another sissy selfie for us #Smile @Timeout(12,make another selfie)
+[don't want,don't make me,please don't,not gonna,not going to,will not,won't] Have it your way, then @MoodWorst @Goto(no pic have it your way)
+@AcceptAnswer @NullResponse
+(make another selfie)
+And this time I want you to save it as "Sissy02.jpg" in the My Sissy Pics folder @Timeout(12,save it as two)
+[don't want,don't make me,please don't,not gonna,not going to,will not,won't] Have it your way, then @MoodWorst @Goto(no pic have it your way)
+@AcceptAnswer @NullResponse
+(save it as two)
+Did you save the picture?
+[yes,done,did it,ready,finished] Good girly #Smile
+[no] Hurry up then, let us know when you're ready @LoopAnswer
+[don't want,don't make me,please don't,not gonna,not going to,will not,won't] Have it your way, then @MoodWorst @Goto(no pic have it your way)
+@DifferentAnswer #YesOrNo
+@Contact1 Let's have a look!! #Smile
+Let's see...  @ShowImage[My Sissy Pics\Sissy02.jpg] @LockImages
+Very nice, #PetName #Lol
+@Contact1 Oh that's just hilarious #Laugh
+@Contact1 You're the worst transvestite in history, #SubName @AddContact3
+@Contact3 OMG that is just... hideous #Lol
+I think we should do a vote on which picture is the best one @UnlockImages
+@NullResponse @AddContact2
+@Contact2 What's this about a vote?
+Okay girls, we've got to pretty pictures of #SubName in drag
+This one...  @ShowImage[My Sissy Pics\Sissy01.jpg]
+And this one...  @ShowImage[My Sissy Pics\Sissy02.jpg]
+So which one do we prefer?
+@Contact3 They're both pretty good...
+@Contact2 Can I see the first one again?
+Sure, here it is @ShowImage[My Sissy Pics\Sissy01.jpg]
+@Contact2 Yeah, I like that one #Laugh
+@Contact3 The first one gets my vote too
+@Contact1 It's a tough call, but I'm gonna go with number 2
+That was also my choice, so it's a tie!
+@Contact2 Does #SubName get to break the tie?
+@Contact3 We get to bust his #Balls so that seems fair #Lol
+So #PetName, you get to choose which picture is the best one
+Let me show you your choices one more time
+This is option number one @ShowImage[My Sissy Pics\Sissy01.jpg] @LockImages
+@Contact1 The other one is better
+And this is option number two @ShowImage[My Sissy Pics\Sissy02.jpg]
+@Contact3 Don't listen to #Contact1, choose the first one #SubName @UnlockImages
+What's it going to be, number one or number two, #Name?
+[one,1] Not my choice, but okay @SetFlag(pvMod36Chose1) @Goto(chose one)
+[two,2] Good choice! #Smile @SetFlag(pvMod36Chose2)
+@DifferentAnswer One or two?
+@Contact1 You should use that picture as your facebook avatar, #SubName
+That's a bit harsh, you don't have to do that, #Name #Laugh
+@Contact1 Let me know when there's another picture to choose from #Laugh @RemoveContact1
+@Contact3 Yeah, maybe something a little bit more cruel and painful next time #EmoteWink @RemoveContact3
+I'm glad you chose the one I liked, #Name #Smile @ShowImage[My Sissy Pics\Sissy02.jpg]
+@BallTorture But I want to make sure you give me honest answers and don't just suck up to me
+@BallTorture So I'm going to but your #Balls anyway #Grin @CBTBalls
+@NullResponse @Goto(a quick edge)
+@End
+(chose one)
+@Contact3 You should use that picture as your facebook avatar, #SubName
+That's a bit harsh, you don't have to do that, #Name #Laugh
+@BallTorture I feel you should have chosen the one I liked best, #PetName
+@BallTorture It's good that you're honest, but still... @CBTBalls
+@BallTorture @Contact3 Now <i>that</i> would have made a pretty picture #Grin
+@Contact1 Let me know when there's another picture to choose from #Laugh @RemoveContact1
+@Contact3 Yeah, maybe something a little bit more cruel and painful next time #EmoteWink @RemoveContact3
+It's not a bad picture, I guess #Smile @ShowImage[My Sissy Pics\Sissy01.jpg]
+(a quick edge)
+@Contact2 Hey #ShortName can I make him do a quick edge?
+Sure #Smile
+@Contact2 Give me an edge, #SubName @EdgeNoHold
+@Contact2 Good boy #Smile @RemoveContact2
+@NullResponse
+@End
+(disapppointing sissy)
+Are you saying you don't want to dress up like a girl for me? @MoodWorst
+[yes] You should have said so in the first place, #PetName @DeleteFlag(pthevSissyYES) @SetFlag(pthevSissyNO)
+[no] Then make sure you have all those items ready next time, #PetName
+@DifferentAnswer #YesOrNo 
+You do know how to tick me off don't you... #EmoteFlustered @Interrupt(pvInt_Punishment)
+@End
+(no pic have it your way)
+@Contact1 This is not gonna be pleasant, #SubName #Laugh @RemoveContact1
+Please don't disobey me in front of my friends again, #PetName @Interrupt(pvInt_Punishment)
+@End
+(frustrating edge)
+Mmm you're so frustrated and horny now, aren't you?
+Admit it #Name you live for this feeling...
+You prefer frustration over pleasure, it's as simple as that
+#StartStroking
+I know you love #JerkingOff 
+But I think that deep down you don't <i>want</i> to feel this good
+You want me to hurt you...
+You don't even want pleasure...
+Stop. Stroking. Right. Now.
+Of course, I could be wrong about you... but I doubt it #Smile
+Do you want me to give you pleasure?
+[yes] I think you just told a little lie, #Name
+[no] Aww #Laugh
+@DifferentAnswer #YesOrNo
+But you know, the amazing thing is... 
+That I can make you feel pleasure and frustration at the same time
+#Edge @EdgeHold
+@CockTorture That seemed a bit too pleasurable to me @CBTCock
+How many edges will it take to make pleasure and frustration inseparable?
+#Edge @EdgeNoHold @MultipleEdges(5,6,100)
+#LetTheEdgeFade
+How long can you hold the edge before the pleasure gives way to despair?
+#Edge @Edge(LongHold,HoldTaunts)
+Let that orgasm sink below the horizon now
+I always keep the real pleasure just out of reach where you can taste it, but not touch it
+@BallTorture And then I give you... pain #Grin @CBTBalls
+Let all those feelings fade away for a second now
+Although... you know these moments of relative calm never last too long
+@End
+(do not want to write)
+That's too bad, #Name #EmoteSad @MoodDown @TempFlag(pvDidNotWrite)
+@NullResponse @Goto(did you write)
+@End

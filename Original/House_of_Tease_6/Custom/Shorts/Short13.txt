@@ -1,0 +1,18 @@
+Some girls just want an obedient worshipper to boss around.
+That's soo you. 
+You're a natural ass kisser aren't you? @Timeout(5, AV_003htjb)
+[yes] #OfCourse you are...
+[no] Well, OK then @Goto(End)
+@DifferentAnswer #YesorNo
+(AV_003htjb)
+Isn't that better? 
+@Flag(AV_Beta) Knowing your place? @Goto(AV_004dfvr)
+@NotFlag(AV_Beta) Knowing you are a beta... whose only purpose in life is to serve as amusement for us Alphas? @Timeout(8, AV_004dfvr)
+[yes] See? @SetFlag(AV_Beta) 
+[no] OK then
+@DifferentAnswer #YesorNo
+(AV_004dfvr)
+You already told me everything and you're still so shy to talk about it.
+(End)
+@NullResponse
+@End

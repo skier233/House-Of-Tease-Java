@@ -1,0 +1,150 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_LinkMissBlue4_NotFirstTime)
+@NullResponse @SetVar[AV_LinkMissBlue4]=[0] 
+@NullResponse @SetFlag(AV_LinkMissBlue4_NotFirstTime)
+(AV_LinkMissBlue4_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_LinkMissBlue4]=[0]Then(Part1_1)
+@NullResponse @If[AV_LinkMissBlue4]=[1]Then(Part1_2)
+@NullResponse @If[AV_LinkMissBlue4]=[10]Then(Part1_3)
+@NullResponse @If[AV_LinkMissBlue4]=[100]Then(Part1_4)
+@NullResponse @If[AV_LinkMissBlue4]=[1000]Then(Part1_5)
+@NullResponse @If[AV_LinkMissBlue4]=[11]Then(Part1_6)
+@NullResponse @If[AV_LinkMissBlue4]=[101]Then(Part1_7)
+@NullResponse @If[AV_LinkMissBlue4]=[111]Then(Part1_8)
+@NullResponse @If[AV_LinkMissBlue4]=[110]Then(Part1_9)
+@NullResponse @If[AV_LinkMissBlue4]=[1001]Then(Part1_10)
+@NullResponse @If[AV_LinkMissBlue4]=[1011]Then(Part1_11)
+@NullResponse @If[AV_LinkMissBlue4]=[1111]Then(Part1_12)
+@NullResponse @If[AV_LinkMissBlue4]=[1010]Then(Part1_13)
+@NullResponse @If[AV_LinkMissBlue4]=[1110]Then(Part1_14)
+@NullResponse @If[AV_LinkMissBlue4]=[1100]Then(Part1_15)
+@NullResponse @If[AV_LinkMissBlue4]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_LinkMissBlue4]=[AV_LinkMissBlue4]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_LinkMissBlue4]=[AV_LinkMissBlue4]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_LinkMissBlue4]=[AV_LinkMissBlue4]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_LinkMissBlue4]=[AV_LinkMissBlue4]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_LinkMissBlue4]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+Whenever it's time for me to tell you to stroke again
+There's always this little voice in the back of my mind
+It's telling me: <i>why not keep him denied?</i>
+<i>Isn't it way much more fun to leave him hanging?</i>
+Sometimes it's hard to not to give in to the voice...
+I do love to deny you your #Cock, #Name
+But then I remember why I make you #JerkOff in the first place
+Because the more you stroke
+The more aroused you become
+And the more you ache when I finally deny your orgasm #Grin
+#StartStroking @StartStroking
+@End
+(Link2)
+#Name, it's too bad you're not here with me now
+Do you know what I'd do if you were? @Timeout(6,do you know)
+[beat,hurt,whip,smack,punch,spanking,spank me] Nothing so violent, #Name
+[fuck,sex,blowjob] #OhNo
+[eat your pussy,cunnilingus,lick your pussy,eat you out] That's right, #Name
+[kneel,submit] Yes, #PetName
+[stroke,jerk,masturbate,wank] #OhNo
+@AcceptAnswer @NullResponse
+(do you know)
+I'd tell you to kneel down
+Crawl towards me
+I would open my legs for you and tell you to come closer
+You'd start kissing my feet, my toes
+Then slowly move up my leg
+Worshipping my ankles and calves and knees
+You'd graze the tender skin of my inner thighs with your fingers
+Breathe in the scent of my wet #Pussy @Worship(Pussy) @ShowTaggedImage @DommeTag(pussy)
+Do you want to lick it, #PetName?
+[yes] Good, you wouldn't have a choice anyway
+[no] If you were here with me, you wouldn't have a choice
+@DifferentAnswer #YesOrNo
+Maybe I would tie your hands behind your back
+And shove your face into my #Pussy
+#EmoteMoan
+I would teach you to give me orgasm after orgasm...
+Too bad you're not here #EmoteSad
+#StartStroking @StartStroking
+@End
+(Link3)
+Do you need a break #SubName?
+[yes] Too bad, you're not getting one #Laugh
+[no] Good
+@DifferentAnswer #YesOrNo
+#StartStroking @StartStroking
+@End
+(Link4)
+Would you like to start stroking again?
+[yes] You're so predictable #PetName @Goto(startstroking) 
+[no] Oh good, then I can go get myself #SomethingToDrink @Goto(getadrink)
+[trick question] Ooh you think you're clever don't you
+@DifferentAnswer #YesOrNo
+No it wasn't a trick question @CBTCock
+Let that settle in for a second #PetName
+Lightly touch the skin of your #Cock with your fingertips
+Feel how it's aching to be stroked again
+I know it's ready for more @Goto(startstroking)
+(getadrink)
+Don't go anywhere #PetName, and don't touch that #Cock
+You can stare at some #Boobs in the meantime @ShowBoobsImage @LockImages
+I'll be right back! @AFKOn @Wait(110)
+I'm here #Smile @AFKOff @UnlockImages
+Have you been a good boy while I was away?
+[yes] That makes me very happy #Smile @Goto(startstroking)
+[no] You disappoint me #PetName
+@DifferentAnswer #YesOrNo
+I gave you two simple instructions: don't stroke and stay put
+which one did you not follow?
+[first,stroke,stroked,stroking] I should have known
+[second,didn't stay,stay put,staying] Wow, I would have thought that was the easy part
+@DifferentAnswer Which instruction did you not follow, the first or the second?
+@NullResponse @CBTBalls
+I really shouldn't have to remind you to follow instructions #PetName
+(startstroking)
+#StartStroking @StartStroking
+@End

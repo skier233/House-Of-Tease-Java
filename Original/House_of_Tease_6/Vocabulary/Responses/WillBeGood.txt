@@ -1,0 +1,17 @@
+[I will be good,I will be a good,I'll be good,I'll be a good,promise to be good,promise to be a good]
+[All]
+@GoodMood You've already been such a good boy for me so far #Smile
+@GoodMood You're so eager to please me today, I love it #EmoteHappy
+@BadMood If you mean that you're going to have to try a lot harder from now on
+@BadMood Oh really? You haven't been all that good so far, #PetName
+@BadMood So you'll do anything I want from now on, right? @ResponseYes(I Will Do Anything) @ResponseNo(I Will Do Anything Not)
+@NeutralMood I guess we'll see what those words mean exactly...
+@NeutralMood That sounds promising #Smile
+@NeutralMood Do realise you're raising some pretty big expectations by saying that...
+@NeutralMood I expect nothing less from you, #PetName
+@NeutralMood Make sure you keep a promise when you make one, #SubName #Smile
+@NeutralMood Does that mean you'll do anything I tell you to? @ResponseYes(I Will Do Anything) @ResponseNo(I Will Do Anything Not)
+[All End]
+[First Round]
+@NeutralMood Maybe if you're a good boy I won't be so cruel to you #GeneralTime
+[First Round End]

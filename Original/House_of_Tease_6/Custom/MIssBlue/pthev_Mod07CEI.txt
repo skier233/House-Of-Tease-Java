@@ -1,0 +1,236 @@
+#Edge @Edge
+#LetTheEdgeFade
+@NullResponse @CheckFlag(pvMod07IntroDone)
+@NullResponse @ShowBlowjobImage @LockImages
+Look at that... #EmoteMoan
+That's pretty hot isn't it? @Timeout(8,let me tell you)
+[yes] I'm glad you like it
+[no] Don't lie to me #PetName
+@AcceptAnswer @NullResponse
+(let me tell you)
+Let me tell you something about me you might not expect @UnlockImages
+I love giving head #Smile @Timeout(10,love giving head)
+[really,wow,didn't know,didn't expect,damn] It's true!
+[i knew,thought as much,expected,i know,thought so,figures,of course] Yeah, yeah, of course you did #Lol
+@DifferentAnswer I really do love it
+(love giving head)
+Do you know what I like about it? @Timeout(8,what I like)
+[yes] Really? So, what do you think I like about it? @LoopAnswer
+[no] @NullResponse
+[taste] Only a guy would say that #Laugh
+[submissive] No, it makes sense that <i>you</i> would think that though
+[react,response,respond] Yes!
+[please,pleasing] Well, in a way I guess...
+@DifferentAnswer @NullResponse
+(what I like)
+I love the subtle physical responses of a guy
+When I tease his cock with the tip of my tongue @ShowBlowjobImage @LockImages
+The way it grows harder and harder
+The tightening of muscles @ShowBlowjobImage
+When I take it in my mouth
+The little sighs and moans @ShowBlowjobImage
+As I take it deeper and deeper
+There is something I don't like about it though
+Can you guess what?
+[yes] Okay, so what do you think I don't like? @LoopAnswer
+[no] You're not the guessing type then
+[deepthroat,choke,gag] Oh no I love that #Laugh
+[swallow,cum,taste,ejaculate,sperm] Exactly!
+@DifferentAnswer @NullResponse
+I hate it when a guy blows his load in my mouth
+I hate the taste, the slimy texture, everything @UnlockImages
+It's just gross, don't you think?
+[yes,agree] It's pretty disgusting really #Laugh @Goto(pretty gross)
+[no] Wait... @Goto(so you tried it)
+[don't know,not sure,never did,never tried,never tasted] I guess you don't suck cock all that often #Smile
+@AcceptAnswer 
+Have you ever tasted your own cum?
+[yes,did,done,i have]  Eww #Laugh
+[no,never] So you really don't know what you're talking about
+@DifferentAnswer #YesOrNo
+I think we should put it the test
+To settle it once and for all @Goto(so if told)
+(pretty gross)
+But wait, that means you have actually tried it
+Did you eat your own cum or someone else's?
+[own,mine,my] Eww #Laugh
+[other,another,someone else] Oh wow... I didn't expect that
+[both] Oh wow... I didn't expect that
+[neither,didn't,haven't,have not,did not] So you just assume it's disgusting
+@AcceptAnswer I'm a bit confused by all this #SubName
+I think we should put it the test
+To settle it once and for all @Goto(so if told)
+(so you tried it)
+@NullResponse @Glitter(pthevGlitterMod07-01.txt)
+So you actually tried it?
+[yes] That just blew my mind, pun intended #Laugh
+[no] You just assume it tastes good then
+@DifferentAnswer #YesOrNo
+(so if told)
+So, if I told you to eat your own load, would you do it?
+[yes] Good! #Smile @Goto(said yes)
+[no] That's too bad #EmoteSad 
+@DifferentAnswer #YesOrNo
+But I can understand, I don't do it myself @SetFlag(pthevCEI_No) @SetFlag(pvMod07IntroDone)
+@End
+(said yes)
+I'll keep that in mind @SetFlag(av_fetish_cei) @SetFlag(pvMod07IntroDone)
+Of course, I might keep my #Cock denied
+Then you'll have nothing to eat #Grin
+@End
+-------------------
+---END CEI INTRO---
+-------------------
+(pvMod07IntroDone)
+@NullResponse @CheckFlag(av_fetish_cei)
+@NullResponse @CheckFlag(pthevCEI_No)
+I'm going to show you one of your videos 
+But NO touching! Sit on your hands if you have to, #PetName
+I'll be right back #Smile @AFKOn @PlayVideo
+I hope you enjoyed that little clip #SubName @AFKOff
+Must be hard to have to watch porn without touching
+@End
+(av_fetish_cei)
+Are you hoping you can eat your cum today?
+I guess you'll just have to wait and see... #Grin
+@NullResponse @Goto(one,two)
+@End
+(pthevCEI_No)
+@NullResponse @CheckFlag(pthevGlitterIntroduced)
+@NullResponse @Goto(one,two)
+@End
+(pthevGlitterIntroduced) 
+@NullResponse @CheckFlag(pvCEITrainingFailed)
+@NullResponse @CheckFlag(pthevCEITraining)
+@NullResponse @AddContact3
+@Contact3 Hey, what's going on #Smile
+Hi #Contact3 what a nice surprise #EmoteHappy @AFKOn
+@Contact3 I though I'd check in on you and #SubName, see how blue his #Balls are getting
+Oh, they're getting pretty blue #Laugh
+@Contact3 Gonna be a tough load to swallow once he finally gets to cum #Lol
+Unfortunately, #SubName is not into that, so...
+@Contact3 ...So you don't make him eat his cum?
+Nope
+@Contact3 It doesn't matter what he says #ShortName
+@Contact3 Boys like him should <i>always</i> eat their cum...
+I guess I'm just not as strict as you, #Contact3
+@Contact3 Let's put it to a vote then. Hold on I'm calling in #Contact1 @Wait(9)
+@NullResponse @AddContact1
+@Contact1 Hi guys what's up
+@Contact3 So, we're having a little debate here
+@Contact3 #DomName is not making #SubName eat his cum, because <i>he</i> doesn't want to
+@Contact1 That's just silly, you should make him eat it, #ShortName
+Hold on girls, if he doesn't want it, then I'm not forcing him
+I'm sure #Contact2 is on my side
+@Contact3 You shouldn't even <i>ask</i> #SubName what he wants!
+@Contact3 Just tell him he doesn't get to cum at all unless he licks it up
+@NullResponse @AddContact2
+@Contact2 You wanted my opinion on something?
+Do you think boys should eat their own cum after they have an orgasm?
+@Contact2 If they want to, sure!
+See, #Contact2 agrees that #SubName should have a say in it too
+@Contact2 Oh we're talking about #SubName? No, he should definitely eat it #Lol
+Well #SubName, they majority seems to be in favour of a Yes-vote
+I suppose we'll have to work on it then, right? @AFKOff
+[no,don't,won't,please] Quit whining #PetName, we'll work our way towards it #Smile
+[yes,okay,fine] Good! And don't worry, we'll work our way towards it #Smile
+@AcceptAnswer Don't worry, we'll work our way towards it #Smile
+You girls happy now?
+@Contact3 Well, it's a start, but if he was my toy...
+@Contact2 Seems like you reached a good compromise #Smile
+@Contact1 Let me know when the training is done #Laugh
+@NullResponse @RemoveContact1
+@NullResponse @RemoveContact2
+@NullResponse @RemoveContact3
+I guess I'll have to find a way to turn you into a cum eating slut, #SubName #Laugh @SetFlag(pthevCEITraining) @SetVar[pvCEItraining]=[0]
+@End
+(pthevCEITraining)
+She looks like she knows what she's doing #Smile @ShowBlowjobImage @LockImages
+Do you think she'll swallow?
+Imagine shooting your load into her mouth...
+That warm sticky cum flowing all over her tongue and down her throat...
+Now imagine that's you on the receiving end
+I bet you like that idea, don't you? @ResponseYes(WantToEatMyCum) @ResponseNo(WantToEatMyCumDont)
+I any case, I'm definitely starting to like the idea of making you eat your cum #Smile
+@End
+(pvCEITrainingFailed)
+@NullResponse @Goto(one,two)
+(one)
+#Edge @Edge
+We're going to fill up your #Balls with so much cum #GeneralTime
+I almost feel like letting you cum would be a waste @CheckFlag(pthevCEITraining, lick precum)
+@Flag(av_fetish_cei) Unless you swallow it all, of course @Goto(swallow all)
+I mean, you're not #Gonna eat it or anything
+...right? @Timeout(5,didnt think so)
+[yes, if you say,up to you,i will,i want to] Ooooh...
+[no] @NullResponse @Goto(didnt think so)
+@DifferentAnswer Is that a yes...?
+So, if I told you to eat your own load, would you do it?
+[yes] Good! #Smile @SetFlag(av_fetish_cei) @DeleteFlag(pthevCEI_No)
+[no] @NullResponse @Goto(didnt think so)
+@DifferentAnswer #YesOrNo
+I'll keep that in mind
+@End
+(didnt think so)
+Yeah, I didn't think so #Smile
+Maybe it would be best not to let you cum at all then @Goto(regular scripts)
+@End
+(lick precum)
+@NullResponse @Call(Custom\CallFromMod\pvCall_CEItraining.txt)
+@End
+(swallow all)
+So maybe I'm going to have to let you cum #GeneralTime after all...
+Just so I can make you lick it off your hands
+And drip it on your tongue and down your throat and into your belly
+You are so disgusting for doing that... #EmoteRandom
+But it turns me on so much when you humiliate yourself for me like that
+The bigger the load the better, so let's fill up those #Balls some more, shall we?
+#Edge @Edge @MultipleEdges(3,7,100)
+#LetTheEdgeFade
+@End
+(two)
+#StopStroking @StopStroking
+Mmm...
+I think I know what you need right now
+You need to ache some more #Grin
+#Edge @EdgeNoHold
+#LetTheEdgeFade
+There's always more room in those #Balls of yours for more ache
+And the best way to make more ache... is to make you edge some more #EmoteHappy
+#Edge @Edge @MultipleEdges(3,6,50)
+#LetTheEdgeFade
+You always get so obedient when you edge for me #Smile
+#Edge @EdgeHold @MultipleEdges(2,8,50)
+#LetTheEdgeFade @CheckFlag(av_fetish_cei) 
+I feel like I can make you do anything I like
+Would you do anything I ask of you? @ResponseYes(I Will Do Anything)
+There will be so many chances to test that...
+@End
+(av_fetish_cei) 
+I'm going to @RT(fill up,make sure to fill) your #Balls with @RT(a big fat load,so much cum,a lot of sticky goo) #GeneralTime
+@RT(Just think of,Imagine) @RT(all of it,that sticky stuff,that slimy goo,that hot sperm) sliding @RT(down your throat,into you belly,over your tongue)
+Does that @RT(arouse you,turn you on,make you horny,excite you,make your cock hard,make you even harder than you already were)?
+[yes] You're @RT(disgusting,so gross,so icky,such a pervert,such a dirty boy) #Name #Laugh
+[no] Hm...
+@DifferentAnswer #YesOrNo
+I might @RT(not let you cum at all,deny you) and @RT(let you go,leave you) hungry #EmoteRandom
+We can just let those #Balls grow heavier and heavier
+Take your balls in your hand and squeeze them
+Do they feel heavy already?
+What if it was <i>my</i> hand around your #Balls
+Do you think I would be nice to them or cruel?
+[nice] Aww, you're far too trusting, #Name #Lol
+[cruel] C'mon #SubName, I'm not some heartless bitch @Goto(no heartless bitch)
+@AcceptAnswer 
+But I like that you're such a sweet #PetName
+So I won't bust your #Balls this time #Smile
+@End
+(no heartless bitch)
+@BallTorture @NullResponse @Chance50(heartless bitch after all)
+It's not like I bust your #Balls <i>all</i> the time
+Only <i>some</i> of the time #Smile
+@End
+(heartless bitch after all)
+Who am I kidding, of course I am #Lol @CBTBalls
+I guess you were right after all, I <i>am</i> cruel #Lol
+@End

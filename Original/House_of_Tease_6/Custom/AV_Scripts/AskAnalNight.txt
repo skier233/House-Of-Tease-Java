@@ -1,0 +1,42 @@
+@Flag(av_NoAskAnal) @NullResponse @Goto(End)
+There is something that I want #GeneralTime #SubName
+@RT(Something that have turn me on for very long time, That's something that's really dirty and really #Crazy).
+So the question is...
+Do you have the balls to #Submit your #Ass to me... <i>completly</i> #GeneralTime?
+[yes,yeah,of course,sure] #HolyShit! @Goto(Ass_Talk)
+[no,nope,not sure] #Okay, @RT(that's fine #PetName, the choice is yours and only yours #PetName)
+@DifferentAnswer #YesorNo
+@NullResponse  @TempFlag(av_NoAskAnal)
+@End
+(Ass_Talk)
+So you choose to #Submit #SubName.
+And it is really #Hot!
+But to completly give me that #Ass, you need to know that, the thing that I want...
+Is to make your #Asshole my personnal #Pussy to fuck!
+Yes #PetName, I'll make you fuck your #Ass a lot #GeneralTime
+Do you have a dildo or buttplug, or both?
+[yes] which one? @LoopAnswer
+[no,neither] That's too bad @Goto(nothingavailable)
+[dildo] Awesome! @SetFlag(pthevDildo)
+[buttplug] Great! @SetFlag(pthevButtPlug)
+[both] I was hoping you'd say that! @SetFlag(pthevDildo) @SetFlag(pthevButtPlug)
+@DifferentAnswer That's very interesting, but do you own a dildo or buttplug?
+Go get it, let me know when you're ready. You might want to use a condom with that too 
+[yes,back,returned,i'm here,got it,ready] This is going to be interesting #Grin
+[don't have,haven't got,couldn't find,haven't found] Oh well, maybe next time #EmoteSad @Goto(nothingavailable)
+[changed my mind,don't want,don't make me] Alright then... #EmoteSad @Goto(End)
+[no] Go get your dildo-shaped something #PetName! @LoopAnswer
+[don't like it,don't like this] You don't have to like, you're doing it for me remember #EmoteHappy @LoopAnswer
+[wait,one sec,one second,one moment,hold on,not ready] I'll wait @LoopAnswer
+@DifferentAnswer Are you ready?
+This is going to be interesting #Grin @TempFlag(av_doanalnight)
+Leave it ready, we are going to use it a lot later #EmoteHappy
+@End
+(nothingavailable)
+Make sure to find something you can use @TempFlag(av_NoAskAnal)
+Like a candle or the handle of a hairbrush
+Or a firm and appropriately shaped piece of fruit #Laugh
+Keep it ready so we can play next time
+(End)
+@NullResponse
+@End

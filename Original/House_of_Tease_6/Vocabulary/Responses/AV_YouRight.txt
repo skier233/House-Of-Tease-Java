@@ -1,0 +1,11 @@
+[#AV_YouRight]
+[All]
+@Flag(AVp001) You will learn, #Name
+@Flag(AVp002) #Good
+@Flag(AVp002) #IKnow, #SubName
+@Flag(AVp003) @NullResponse @CallReturn(Custom\CallReturn\AV_TotalControl.txt)
+@Flag(AVp004) #IKnow, #SubName
+@Flag(AVp005) That's what I like about you, always willing to suffer for me
+@Flag(AVp006) You should be grateful, not everyone finds their purpose in life #Smile
+@NotFlag(AVp001, AVp002, AVp003, AVp004, AVp005, AVp006) #Yes
+[All End]

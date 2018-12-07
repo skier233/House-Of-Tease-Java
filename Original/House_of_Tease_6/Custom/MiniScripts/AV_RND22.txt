@@ -1,0 +1,26 @@
+Pleasure and pain, they go so well together, don't you think? @TempFlag(AV_0RND22)
+we'll be focusing on both experiences, both on their own and then combined. 
+You derive pleasure from my praise, from worshipping me.. 
+It's pleasing for you to #Stroke that #Cock isn't it? 
+Focus on creating that sensation of pleasure
+on that sensation increasing, building, leading you to the edge of orgasm. 
+#StopStroking @StopStroking 
+Take your hand away
+@NotFlag(av_fetish_pain) @NullResponse @Goto(skipw3245)
+Those #Balls are mine. 
+They belong to me. 
+@NotFlag(AV_PinDone) Go fetch me a spoon and some clothespins. At least 10 of them. @Wait(20) 
+Let's hurt this balls @TempFlag(AV_PinDone)
+Use the spoon and follow the sound.
+@RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank5.mp3] @Wait(12)
+Experience that searing hot pain. 
+@RT(Hit, Spank) your #Balls @PlayAudio[tease\spank\Spank10.mp3] @Wait(12)
+Do you feel like you're going to Pass out? 
+Goooooood. 
+Don't you know how much I enjoy seeing you like this? 
+@Flag(av_fetish_rough) Don't you get it, #Slave? 
+My pleasure comes from your pain. 
+@End
+(skipw3245)
+Relax for a second @Wait(10)
+@End

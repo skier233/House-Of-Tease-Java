@@ -1,0 +1,26 @@
+#StopStroking @StopStroking 
+@Flag(AV_Pins) Remove all the clothespins @Wait(10)
+@NotFlag(AV_PinDone) Go fetch a ruler and some clothespins. At least 10 of them. @Wait(20)
+Now I'll make one thing clear here. @SetLink(AV_SpecGlitterLinkEnd)
+You're gonna be my pet. You are my bitch. @ChangeVar[AV_GlitterControl]=[AV_GlitterControl]+[3]
+Before I introduce you to my rules, #KneelForMe
+and dont you dare touch that dick of yours.
+It is my dick from now on.
+Alright enough lets start shall we? 
+spank your ass twice. HARDER! @Wait(10)
+#StartStroking
+Faster
+And edge @Edge
+Now the clothespins, one on each nipple, and one on each ball. @Wait(20)
+Are the #Balls hurting yet? 
+oooh.
+Shut up and slap your ass hard. HARDER! 
+I want to see a red ass there! 
+Now slap your balls twice and tell me how beautiful I am. 
+Now storke hard. @PlayAudio[tease\cStroke.mp3] 
+As hard as you can. 
+Get right to the edge and hold it there pet! @EdgeHold
+Im so fucking wet. 
+You are such a good pet.
+Remove all the pins and sit down.
+@End

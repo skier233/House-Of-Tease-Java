@@ -1,0 +1,59 @@
+[need a break,want a break,have a break,take a break,time out,need a time out,want a time out,have a time out]
+[Before Tease]
+@Flag(pthevBreakNormal) Very funny #PetName, we haven't even started yet!
+@Flag(pthevBreakNormal) Maybe later, when you've actually done some stroking
+@Flag(pthevBreakNormal) We've only just started #Name
+@Flag(pthevBreakNormal) I don't see why, we haven't even started yet
+@Flag(pthevBreakNormal) Maybe ask me again when your #Balls are a darker shade of blue #Grin
+@Flag(pthevBreakEdging) It's to early to start asking for a break #Name
+[Before Tease End]
+[First Round]
+@Flag(pthevBreakNormal) You already need a break!? I don't think so
+@Flag(pthevBreakNormal) Nah, you're not desperate enough #Smile
+@Flag(pthevBreakNormal) Better keep that break for when you <i>really</i> need it
+@Flag(pthevBreakNormal) We've only just begun #Name
+@Flag(pthevBreakNormal) Maybe later, if you ask nicely #Smile
+@Flag(pthevBreakEdging) Hmm... I don't think so #Name
+[First Round End]
+[Stroking]
+@Flag(pthevBreakNormal) I guess you can take a little break now @CallReturn(Custom\CallReturn\pvCr_BreakStroking.txt)
+@Flag(pthevBreakEdging) All this edging is getting to you isn't it? #Grin @CallReturn(Custom\CallReturn\pvCr_BreakEdging.txt)
+[Stroking End]
+[Not Stroking]
+@Flag(pthevBreakNormal) You're not stroking, in my book that counts as a break
+@Flag(pthevBreakNormal) You could quit and come back later, but I doubt that's what you really want
+@Flag(pthevBreakNormal) There's no point #Name, you're not even stroking!
+@Flag(pthevBreakEdging) All this edging is getting to you isn't it? #Grin @CallReturn(Custom\CallReturn\pvCr_BreakEdging.txt)
+[Not Stroking End]
+[Edging]
+@Flag(pthevBreakNormal) Maybe after you hit this edge
+@Flag(pthevBreakNormal) Just edge for me #Name
+@Flag(pthevBreakNormal) Get to the edge #Name
+@Flag(pthevBreakEdging) Nope. Try asking me again after you hit the edge #Smile
+[Edging End]
+[Holding The Edge]
+@Flag(pthevBreakNormal) No, stay right there on the edge #Name
+@Flag(pthevBreakNormal) I don't think you need one
+@Flag(pthevBreakNormal) No break, keep edging
+@Flag(pthevBreakEdging) Just hold it a little longer #Name
+[Holding The Edge End]
+[CBT Cock]
+@Flag(pthevBreakNormal) #OhNo
+@Flag(pthevBreakNormal) No way #PetName
+@Flag(pthevBreakNormal) Not gonna happen
+@Flag(pthevBreakEdging) #OhNo
+[CBT Cock End]
+[CBT Balls]
+@Flag(pthevBreakNormal) #OhNo
+@Flag(pthevBreakNormal) No way #PetName
+@Flag(pthevBreakNormal) Not gonna happen
+@Flag(pthevBreakEdging) #OhNo
+[CBT Balls End]
+[Chastity]
+@Flag(pthevBreakNormal) You could just walk away #Name, but I doubt that's what you want #Grin
+@Flag(pthevBreakEdging) You could just walk away #Name, but I doubt that's what you want #Grin
+[Chastity End]
+[After Tease]
+@Flag(pthevBreakNormal) We're done for today #Name
+@Flag(pthevBreakEdging) We're done for today #Name
+[After Tease End]

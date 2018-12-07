@@ -1,0 +1,167 @@
+@NullResponse @RapidCodeOn
+@NullResponse @CheckFlag(AV_Link20_NotFirstTime)
+@NullResponse @SetVar[AV_Link20]=[0] 
+@NullResponse @SetFlag(AV_Link20_NotFirstTime)
+(AV_Link20_NotFirstTime)
+@NullResponse @RapidCodeOn
+@NullResponse @If[AV_Link20]=[0]Then(Part1_1)
+@NullResponse @If[AV_Link20]=[1]Then(Part1_2)
+@NullResponse @If[AV_Link20]=[10]Then(Part1_3)
+@NullResponse @If[AV_Link20]=[100]Then(Part1_4)
+@NullResponse @If[AV_Link20]=[1000]Then(Part1_5)
+@NullResponse @If[AV_Link20]=[11]Then(Part1_6)
+@NullResponse @If[AV_Link20]=[101]Then(Part1_7)
+@NullResponse @If[AV_Link20]=[111]Then(Part1_8)
+@NullResponse @If[AV_Link20]=[110]Then(Part1_9)
+@NullResponse @If[AV_Link20]=[1001]Then(Part1_10)
+@NullResponse @If[AV_Link20]=[1011]Then(Part1_11)
+@NullResponse @If[AV_Link20]=[1111]Then(Part1_12)
+@NullResponse @If[AV_Link20]=[1010]Then(Part1_13)
+@NullResponse @If[AV_Link20]=[1110]Then(Part1_14)
+@NullResponse @If[AV_Link20]=[1100]Then(Part1_15)
+@NullResponse @If[AV_Link20]=[1101]Then(Part1_16)
+(Mod1)
+@NullResponse @ChangeVar[AV_Link20]=[AV_Link20]+[1]
+@NullResponse @Goto(Link1)
+(Mod2)
+@NullResponse @ChangeVar[AV_Link20]=[AV_Link20]+[10]
+@NullResponse @Goto(Link2)
+(Mod3)
+@NullResponse @ChangeVar[AV_Link20]=[AV_Link20]+[100]
+@NullResponse @Goto(Link3)
+(Mod4)
+@NullResponse @ChangeVar[AV_Link20]=[AV_Link20]+[1000]
+@NullResponse @Goto(Link4)
+(Part1_1)
+@NullResponse @Goto(Mod1,Mod2,Mod3,Mod4)
+(Part1_2)
+@NullResponse @Goto(Mod2,Mod3,Mod4)
+(Part1_3)
+@NullResponse @Goto(Mod1,Mod3,Mod4)
+(Part1_4)
+@NullResponse @Goto(Mod1,Mod2,Mod4)
+(Part1_5)
+@NullResponse @Goto(Mod1,Mod2,Mod3)
+(Part1_6)
+@NullResponse @Goto(Mod3,Mod4)
+(Part1_7)
+@NullResponse @Goto(Mod2,Mod4)
+(Part1_8)
+@NullResponse @Goto(Mod4)
+(Part1_9)
+@NullResponse @Goto(Mod1,Mod4)
+(Part1_10)
+@NullResponse @Goto(Mod2,Mod3)
+(Part1_11)
+@NullResponse @Goto(Mod3)
+(Part1_12)
+@NullResponse @Goto(Fim)
+(Part1_13)
+@NullResponse @Goto(Mod1,Mod3)
+(Part1_14)
+@NullResponse @Goto(Mod1)
+(Part1_15)
+@NullResponse @Goto(Mod1,Mod2)
+(Part1_16)
+@NullResponse @Goto(Mod2)
+(Fim)
+@NullResponse @SetVar[AV_Link20]=[0]
+@NullResponse @CallReturn(Custom\CallReturn\AV_CrushBreakLink.txt)
+#StartStroking @StartStroking
+@End
+(Link1)
+@Flag(AV_WantCumQuest) @NullResponse @Goto(Reforce)
+Let's do a little condition now
+I will condition your #Cock and cum
+to obey only me...not you
+(TheCumQuestion)
+If I ask you "Do you want to cum?" And you will say "no"
+This will be your answer from now on 
+And if I ask "If you want to cum for Me?", you say "yes"
+Undestood?
+[yes] #Good
+[no] You don't? @Goto(TheCumQuestion)
+@DifferentAnswer #YesorNo #SubName?
+Don't forget that #PetName @SetFlag(AV_WantCumQuest)
+#StartStroking @StartStroking
+@End
+(Reforce)
+Just to reminde you...
+If I ask you "Do you want to cum?" You will say "no"
+And if I ask "If you want to cum for Me?", you say "yes"
+#StartStroking @StartStroking
+@End
+(Link2)
+You can't help yourself. You gave it all away. 
+@Flag(av_fetish_foot) You can't keep your eyes of feet. 
+@Flag(av_fetish_foot) Mine, my friends, girls at school...anybody. 
+@Flag(av_fetish_foot) I know. You have a foot fetish. Don't bother to deny it. 
+@Flag(av_fetish_foot) You are my footslave now and you will serve me. 
+I'm sure if you knew  you'd only be able to masturbate to me for the rest of your life
+that'd still be worth it in the face of never cumming.
+#StartStroking @StartStroking
+@End
+(Link3)
+#LAPLookAtPictures_85 #Grin
+[yes] #Yay
+[maybe,umm,dont know] I'll take that as a yes #Lol
+[no] #SuitYourself @Goto(Decline Offer)
+@DifferentAnswer Yes or no #PetName
+Let's see what I can find
+Do you like this one? @ShowLocalImage @LockImages
+[yes,yea,yep,yup,I do,sexy,hot,amazing,incredible,crazy,ache,horny,cum,I like,beautiful] #LAPIllSaveThisOne_86 @LikeBlogImage 
+[yes] #LAPIllSaveThisOne_86 @LikeBlogImage 
+[maybe,unsure,dont know,alright,all right,okay,ok] #LAPLookForSomethingElse_85
+[no,nah,not,dont,gross,disgusting,sick] #LAPScratchThatOne_85 @DislikeBlogImage
+[no] #LAPScratchThatOne_85 @DislikeBlogImage
+@DifferentAnswer A simple yes or no will suffice #PetName
+Hmmm
+(What About This One)
+#LAPWhatAboutThisOne_85 @ShowLocalImage @LockImages
+[yes,yea,yep,yup,I do,sexy,hot,amazing,incredible,crazy,ache,horny,cum,I like,beautiful] #LAPIllSaveThisOne_86 @LikeBlogImage 
+[yes] #LAPIllSaveThisOne_86 @LikeBlogImage 
+[maybe,unsure,dont know,alright,all right,okay,ok] #LAPLookForSomethingElse_85
+[no,nah,not,dont,gross,disgusting,sick] #LAPScratchThatOne_85 @DislikeBlogImage
+[no] #LAPScratchThatOne_85 @DislikeBlogImage
+@DifferentAnswer A simple yes or no will suffice #PetName
+@NullResponse @Chance20(ImFinished)
+@NullResponse @Goto(What About This One)
+(ImFinished)
+#ThatsEnough
+@End
+(Decline Offer)
+#LAPYouNeedToSufferMore_85
+#StartStroking @StartStroking
+@End
+(Link4)
+Mmmm, it kinda makes me a #Little jealous
+cause your hand could so easily be my #Pussy
+But then I remember that all those strokes aren't making you feel good like my pussy would
+they're making you #Ache and suffer
+and then I don't feel jealous anymore.
+#No. Then it just starts turning me on
+cause I know that even though I might have to #Wait a while
+sliding it back and forth as I suck you with my mouth
+eventually I'm the one who gets to make all that #Ache go away. @Chance50(AVRND09)	
+I'm the one who gets to wrap my warm lips around your #Cock
+push my wet tongue beneath your shaft...
+waking up alllll that #Pleasure buried beneath the ache
+until it all comes shooting through your entire #Cock
+right into my hot, sucking mouth.
+(AVRND09)
+That's why I'll never be jealous about your hand
+it will never make you #Feel as good as I can.
+Do you want to feel good for me?
+[yes] #Yay  @Goto(bom1)
+[no] You don't? @Goto(mau1)
+@DifferentAnswer Yes or no #SubName?
+(bom1)
+@NullResponse @MoodUp
+@NullResponse @Goto(fim1)
+(mau1)
+@NullResponse @MoodDown
+(fim1)
+Then get ready to stroke while I slide these panties off
+and try not to lose control.
+#StartStroking @StartStroking
+@End
