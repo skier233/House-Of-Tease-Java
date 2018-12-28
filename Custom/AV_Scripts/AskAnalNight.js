@@ -109,7 +109,6 @@ function nothingavailable()
     CMessage("Or a firm and appropriately shaped piece of fruit %Laugh%");
     CMessage("Keep it ready so we can play next time");
     End();
-
 }
 function End()
 {

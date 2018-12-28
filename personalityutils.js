@@ -125,6 +125,24 @@ function Stroking() {
     }
 }
 
+function strokeDuration(duration, message)
+{
+    if (message == null)
+    {
+        message = "%startStroking%";
+    }
+    let strokeMinimum = getMinStrokingLength();
+    let strokeMaximum = getMaxStrokingLength();
+    let apathyMoodIndex = getApathyMoodIndex();
+    let random = randomInteger(1, 10);
+    DMessage("random: " + random, 0);
+    let percentSession = (getMillisPassed() / 1000) / (getMinSessionLength() * 60);
+    //y = 52.2810035121697 + 6.42273993825994 * r * pS + 0.873930004197032 * r ^ 2 + 0.00137857491687123 * r * x ^ 2 - 0.00439450398010755 * x ^ 2
+    let bpm = 52.2810 + 6.4227 * random * percentSession + 0.8739 * Math.pow(random, 2) + 0.0014 * random * Math.pow(apathyMoodIndex, 2) - 0.0044 * Math.pow(apathyMoodIndex, 2);
+    DMessage("duration: " + duration, 0);
+    customSetStroking(duration, Math.floor(bpm), message)
+}
+
 /**
 * customStroking method to have the sub start stroking with a custom message. This is the method you will primarily want to
 * call in scripts when you want a message other than the default.
@@ -237,6 +255,30 @@ function setStroking(duration, bpm) {
     customStroke(duration, bpm);
 }
 
+
+function setStrokingNoTaunt(message)
+{
+    if (message == null) {
+        message = "%startStroking%";
+    }
+    CMessage(message, 0);
+    let strokeMinimum = getMinStrokingLength();
+    let strokeMaximum = getMaxStrokingLength();
+    let apathyMoodIndex = getApathyMoodIndex();
+    let random = randomInteger(1, 10);
+    DMessage("random: " + random, 0);
+    let percentSession = (getMillisPassed() / 1000) / (getMinSessionLength() * 60);
+    //y = 52.2810035121697 + 6.42273993825994 * r * pS + 0.873930004197032 * r ^ 2 + 0.00137857491687123 * r * x ^ 2 - 0.00439450398010755 * x ^ 2
+    let bpm = 52.2810 + 6.4227 * random * percentSession + 0.8739 * Math.pow(random, 2) + 0.0014 * random * Math.pow(apathyMoodIndex, 2) - 0.0044 * Math.pow(apathyMoodIndex, 2);
+    let percentFromMinToMax = 0.00112 * bpm + (22.68182 / bpm) + .0000723 * apathyMoodIndex * bpm + .000098 * Math.pow(apathyMoodIndex, 2) - 0.29386 - .00000053 * Math.pow(apathyMoodIndex, 3) - .000000376389651825041 * apathyMoodIndex * Math.pow(bpm, 2);
+    DMessage("bpm: " + bpm, 0);
+    let duration = ((strokeMaximum - strokeMinimum) * 60) * percentFromMinToMax + (strokeMinimum * 60);
+    if (rapidTesting) {
+        duration = 5;
+    }
+    startStroking(Math.floor(bpm));
+}
+
 /**
 * customSetStroking method that allows the developer to set the duration, bpm,
 * and message manually. Normally, it's better to use Stroking or customStroking.
@@ -329,11 +371,11 @@ function DoEdges(minEdges, maxEdges, holdChancePerEdge)
 **/
 function startEdging(message)
 {
-    if (rapidTesting) {
+    /*if (rapidTesting) {
         CMessage(message);
         sleep(2);
         return;
-    }
+    }*/
     if (strokingMethodsEnabled) {
         if (message != undefined && message != null)
         {
@@ -350,11 +392,11 @@ function startEdging(message)
 }
 
 function startEdgingBPM(bpm, message) {
-    if (rapidTesting) {
+    /*if (rapidTesting) {
         CMessage(message);
         sleep(2);
         return;
-    }
+    }*/
     setTempVar("edging", true);
     setTempVar("holdingedge", false);
     DMessage("bpm: " + bpm, 0);

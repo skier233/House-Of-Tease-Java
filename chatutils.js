@@ -64,7 +64,7 @@ function EMessage(message, delay=0)
     CustomizedMessage("<c=red b fs=16>Personality Error: <><c=darkslategrey b fs=15>" + message, delay, -1);
     logger.getLogger().log(java.util.logging.Level.SEVERE, message);
 }
-function getInput(message, timeout, delay, disableResponses=true)
+function getInput(message, timeout, delay, disableResponses=true, sender)
 {
     let answertype = Java.type("me.goddragon.teaseai.api.chat.Answer");
     if (rapidTesting)
@@ -84,7 +84,14 @@ function getInput(message, timeout, delay, disableResponses=true)
     let chatHandler = Java.type("me.goddragon.teaseai.api.chat.ChatHandler");
     let answer = new answertype(timeout);
 
-    CMessage(message, 0);
+    if (sender != null)
+    {
+        Smessage(message, -1, sender);
+    }
+    else
+    {
+        CMessage(message, 0);
+    }
     //sendMessage("flag 123", 0);
     chatHandler.getHandler().setCurrentCallback(answer);
     answer.setTimeout(false);
